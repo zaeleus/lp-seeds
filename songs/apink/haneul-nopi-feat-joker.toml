@@ -5,7 +5,16 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "beast/yong-jun-hyung", kind = "performer" }, # TODO credited as Joker
+  {
+    artist_credits = [{
+      artist_id = "beast/yong-jun-hyung",
+      names = [
+        { name = "Joker", locale = "ko", original = true, default = true },
+      ],
+    }],
+    kind = "performer",
+  },
+
   { artist_id = "super-changddai", kind = "lyricist" },
   { artist_id = "super-changddai", kind = "composer" },
   { artist_id = "super-changddai", kind = "arranger" },
