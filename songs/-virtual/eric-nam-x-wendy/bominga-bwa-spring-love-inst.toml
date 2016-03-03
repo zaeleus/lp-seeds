@@ -1,0 +1,9 @@
+names = [
+  { name = "봄인가 봐 (Spring Love) (Inst.)", locale = "ko", original = true },
+  { name = "Bominga Bwa (Spring Love) (Inst.)", locale = "ko-Latn", default = true },
+]
+
+artist_credits = [
+  { artist_id = "eric-nam", separator = " x " },
+  { artist_id = "red-velvet/wendy" },
+]
