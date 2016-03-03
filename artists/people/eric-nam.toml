@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1988-11-17"
+country = "KR"
+
+names = [
+  { name = "에릭남", locale = "ko", kind = "stage", original = true },
+  { name = "Eric Nam", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "남윤도", locale = "ko", kind = "real" },
+  { name = "Nam Yoon Do", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.facebook.com/ericnamofficial" },
+  { url = "https://twitter.com/ericnamofficial" },
+  { url = "https://www.youtube.com/user/EricSinging" },
+]
+
+[metadata]
+height = 175
+weight = 64
