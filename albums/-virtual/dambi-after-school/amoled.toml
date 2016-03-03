@@ -1,5 +1,5 @@
 artist_id = "-virtual/son-dam-bi-after-school"
-kind = "ep"
+kind = "single"
 
 names = [
   { name = "AMOLED", locale = "ko", original = true, default = true },
