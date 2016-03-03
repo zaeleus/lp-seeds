@@ -17,8 +17,16 @@ contributions = [
 
   { artist_id = "seo-jae-woo", kind = "lyricist" },
   { artist_id = "son-young-jin", kind = "lyricist" },
-  { artist_id = "4minute/ji-yoon", kind = "lyricist" }, # TODO credited as Jenyer
   { artist_id = "4minute/hyun-a", kind = "lyricist" },
+  {
+    artist_credits = [{
+      artist_id = "4minute/ji-yoon",
+      names = [
+        { name = "Jenyer", locale = "ko", original = true, default = true },
+      ],
+    }],
+    kind = "lyricist",
+  },
 
   { artist_id = "seo-jae-woo", kind = "composer" },
   { artist_id = "son-young-jin", kind = "composer" },
