@@ -1,7 +1,7 @@
 names = [
   { name = "야 하고 싶어 (Feat. 시우민 of EXO)", locale = "ko", original = true },
-  { name = "Ya Hago Sipeo (Feat. Xiu Min of EXO)", locale = "ko-Latn", default = true },
-  { name = "Call You Bae (Feat. Xiu Min of EXO)", locale = "en" },
+  { name = "Ya Hago Sipeo (Feat. Xiumin of EXO)", locale = "ko-Latn", default = true },
+  { name = "Call You Bae (Feat. Xiumin of EXO)", locale = "en" },
 ]
 
 urls = [
