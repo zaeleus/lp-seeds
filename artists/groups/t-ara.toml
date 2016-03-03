@@ -17,8 +17,28 @@ members = [
   { id = "t-ara/so-yeon", started_on = "2009-06-02" },
   { id = "t-ara/qri", started_on = "2009-06-02" },
 
-  { id = "jevice/hana", ended_on = "2009-06-02" }, # TODO credited as Ji Ae
-  { id = "spica/yang-ji-won", ended_on = "2009-06-02" }, # TODO credited as Ji Won
+  {
+    artist_credits = [{
+      artist_id = "jevice/hana",
+      names = [
+        { name = "지애", locale = "ko", original = true },
+        { name = "Ji Ae", locale = "ko-Latn", default = true },
+      ],
+    }],
+    ended_on = "2009-06-02",
+  },
+
+  {
+    artist_credits = [{
+      artist_id = "spica/yang-ji-won",
+      names = [
+        { name = "지원", locale = "ko", original = true },
+        { name = "Ji Won", locale = "ko-Latn", default = true },
+      ],
+    }],
+    ended_on = "2009-06-02",
+  },
+
   { id = "t-ara/hwa-young", started_on = "2010-07-13", ended_on = "2012-07-30" },
   { id = "t-ara/ahreum", started_on = "2012-06-14", ended_on = "2013-07-10" },
 ]
