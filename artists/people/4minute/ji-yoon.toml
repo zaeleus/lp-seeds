@@ -11,6 +11,10 @@ names = [
 
 labels = [{ id = "cube-entertainment" }]
 
+urls = [
+  { url = "https://www.instagram.com/jenyerjiyoon/" },
+]
+
 [metadata]
 blood_type = "B"
 weight = 47
