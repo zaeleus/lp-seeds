@@ -1,0 +1,5 @@
+names = [
+  { name = "女の友情問題", locale = "ja", original = true },
+  { name = "Onna no Yuujou Mondai", locale = "ja-Latn", default = true },
+  { name = "Problems in Friendship Between Girls", locale = "en" },
+]

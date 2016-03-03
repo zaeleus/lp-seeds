@@ -1,0 +1,10 @@
+names = [
+  { name = "들어와", locale = "ko", original = true },
+  { name = "Deureowa", locale = "ko-Latn", default = true },
+  { name = "Come In", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "4minute/ga-yoon", separator = ", " },
+  { artist_id = "4minute/hyun-a" },
+]

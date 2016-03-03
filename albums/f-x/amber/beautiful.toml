@@ -1,0 +1,15 @@
+artist_id = "f-x/amber"
+kind = "ep"
+
+names = [
+  { name = "Beautiful", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-02-16"
+country = "KR"
+catalog_number = "SMK-0489"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=003600106" },
+]

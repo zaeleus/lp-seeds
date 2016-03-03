@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1988-07-24"
+country = "KR"
+
+names = [
+  { name = "승연", locale = "ko", kind = "stage", original = true },
+  { name = "Seung Yeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "한승연", locale = "ko", kind = "real" },
+  { name = "Han Seung Yeon", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/fateflysy/" },
+]
+
+[metadata]
+blood_type = "A"
+height = 160
+weight = 43

@@ -1,0 +1,5 @@
+names = [
+  { name = "예쁜 여자가 되는 법", locale = "ko", original = true },
+  { name = "Yeppeun Yeojaga Doeneun Beop", locale = "ko-Latn", default = true },
+  { name = "How To Become a Pretty Woman", locale = "en" },
+]

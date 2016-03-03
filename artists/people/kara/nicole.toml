@@ -1,0 +1,27 @@
+kind = "person"
+started_on = "1991-10-07"
+country = "KR"
+
+names = [
+  { name = "니콜", locale = "ko", kind = "stage", original = true },
+  { name = "Nicole", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "ニコル", locale = "ja", kind = "stage" },
+  { name = "니콜정", locale = "ko", kind = "real" },
+  { name = "Nicole Jung", locale = "en", kind = "real" },
+  { name = "정용주", locale = "ko", kind = "real" },
+  { name = "Jung Yong Joo", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "http://cafe.daum.net/nicoleofficial" },
+  { url = "https://www.facebook.com/JungNicoleOfficial" },
+  { url = "https://www.youtube.com/user/OfficialJungNicole" },
+  { url = "https://twitter.com/Nicole_STAFF" },
+  { url = "https://twitter.com/nicole_japan" },
+  { url = "https://twitter.com/_911007" },
+]
+
+[metadata]
+blood_type = "A"
+height = 166
+weight = 44

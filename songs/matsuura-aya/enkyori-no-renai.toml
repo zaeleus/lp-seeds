@@ -1,0 +1,11 @@
+names = [
+  { name = "遠距離の恋愛", locale = "ja", original = true },
+  { name = "Enkyori no Renai", locale = "ja-Latn", default = true },
+  { name = "Long-Distance Love", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "matsuo-hayato", kind = "arranger" },
+]

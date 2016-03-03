@@ -1,0 +1,24 @@
+medium_ids = [
+  "perfume/level3/limited-edition/dvd2",
+]
+
+[[tracks]]
+position = 1
+song_id = "perfume/1mm"
+names = [
+  { name = "1mm -Video Clip-", locale = "ja", original = true, default = true },
+]
+
+[[tracks]]
+position = 2
+names = [
+  { name = "「ずっと好きだったんじゃけぇ～さすらいの麺カタPerfume FES!!」メモリアル♡", locale = "ja", original = true },
+  { name = '"Zutto Suki Dattan Jakee~Sasurai no Menkata Perfume FES!!" Memorial ♡', locale = "ja-Latn", default = true },
+]
+
+[[tracks]]
+position = 3
+names = [
+  { name = "「Perfumeのただただラジオが好きだからレイディオ！」", locale = "ja", original = true },
+  { name = '"Perfume no Tadatada Radio ga Suki dakara Radio!"', locale = "ja-Latn", default = true },
+]

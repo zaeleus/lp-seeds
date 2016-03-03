@@ -1,0 +1,18 @@
+kind = "group"
+# started_on = ""
+country = "KR"
+
+names = [
+  { name = "럭키제이", locale = "ko", original = true },
+  { name = "Lucky J", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "lucky-j/j-kyun" },
+  { id = "lucky-j/jessi" },
+  { id = "lucky-j/j-yo" },
+]
+
+urls = [
+  { url = "http://www.ymcent.com/YMC/" },
+]

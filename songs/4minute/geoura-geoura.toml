@@ -1,0 +1,9 @@
+names = [
+  { name = "거울아 거울아", locale = "ko", original = true },
+  { name = "Geoura Geoura", locale = "ko-Latn", default = true },
+  { name = "Mirror Mirror", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=1fOG_wcV_oU", name = "Music Video" },
+]

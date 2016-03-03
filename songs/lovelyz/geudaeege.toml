@@ -1,0 +1,9 @@
+names = [
+  { name = "그대에게", locale = "ko", original = true },
+  { name = "Geudaeege", locale = "ko-Latn", default = true },
+  { name = "For You", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=mFnN0q05_B4", name = "Music Video" },
+]

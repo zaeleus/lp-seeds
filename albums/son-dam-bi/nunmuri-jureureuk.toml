@@ -1,0 +1,17 @@
+artist_id = "son-dam-bi"
+kind = "ep"
+
+names = [
+  { name = "눈물이 주르륵", locale = "ko", original = true },
+  { name = "Nunmuri Jureureuk", locale = "ko-Latn", default = true },
+  { name = "Dripping Tears", locale = "en" },
+]
+
+[[releases]]
+released_on = "2012-11-12"
+country = "KR"
+catalog_number = "WMCD-0144"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=030800005" },
+]

@@ -1,0 +1,38 @@
+medium_ids = [
+  "lovelyz/lovelyz8/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "lovelyz/welcome-to-the-lovelyz8"
+duration = "1:32"
+
+[[tracks]]
+position = 2
+song_id = "lovelyz/ah-choo"
+duration = "3:38"
+
+[[tracks]]
+position = 3
+song_id = "lovelyz/jakbyeolhana"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song_id = "lovelyz/hug-me"
+duration = "3:44"
+
+[[tracks]]
+position = 5
+song_id = "lovelyz/yeppeun-yeojaga-doeneun-beop"
+duration = "3:15"
+
+[[tracks]]
+position = 6
+song_id = "lovelyz/saekomdalkom"
+duration = "3:32"
+
+[[tracks]]
+position = 7
+song_id = "lovelyz/rapunzel"
+duration = "3:26"

@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1994-09-08"
+country = "KR"
+
+names = [
+  { name = "민주", locale = "ko", kind = "stage", original = true },
+  { name = "Minju", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "전민주", locale = "ko", kind = "real" },
+  { name = "Jeon Min Ju", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "music-k-entertainment" }]
+
+[metadata]
+blood_type = "AB"

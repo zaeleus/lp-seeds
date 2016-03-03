@@ -1,0 +1,5 @@
+names = [
+  { name = "恋はマグネット (Instrumental)", locale = "ja", original = true },
+  { name = "Koi wa Magnet (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Love is a Magnet (Instrumental)", locale = "en" },
+]

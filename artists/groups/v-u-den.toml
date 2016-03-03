@@ -1,0 +1,17 @@
+kind = "group"
+started_on = "2004"
+ended_on = "2008"
+country = "JP"
+
+names = [
+  { name = "美勇伝", locale = "ja", original = true },
+  { name = "v-u-den", locale = "ja-Latn", default = true },
+  { name = "Biyuuden", locale = "ja-Latn" },
+  { name = "Viyuden", locale = "ja-Latn" },
+]
+
+members = [
+  { id = "morning-musume/ishikawa-rika" },
+  { id = "v-u-den/miyoshi-erika" },
+  { id = "v-u-den/okada-yui" },
+]

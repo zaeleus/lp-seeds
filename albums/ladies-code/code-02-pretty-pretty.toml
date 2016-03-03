@@ -1,0 +1,15 @@
+artist_id = "ladies-code"
+kind = "ep"
+
+names = [
+  { name = "Code#02 Pretty! Pretty!", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2013-09-05"
+country = "KR"
+catalog_number = "CMCC-10156"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=034202294" },
+]

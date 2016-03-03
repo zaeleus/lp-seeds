@@ -1,0 +1,18 @@
+kind = "group"
+started_on = "2014"
+country = "KR"
+
+names = [
+  { name = "레드벨벳", locale = "ko", original = true },
+  { name = "Red Velvet", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "sm-entertainment" }]
+
+members = [
+  { id = "red-velvet/irene" },
+  { id = "red-velvet/seul-gi" },
+  { id = "red-velvet/wendy" },
+  { id = "red-velvet/joy" },
+  { id = "red-velvet/yeri", started_on = "2015-03-11" },
+]

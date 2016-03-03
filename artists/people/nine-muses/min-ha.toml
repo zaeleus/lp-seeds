@@ -1,0 +1,21 @@
+kind = "person"
+started_on = "1991-06-27"
+country = "KR"
+
+names = [
+  { name = "민하", locale = "ko", kind = "stage", original = true },
+  { name = "Min Ha", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박민하", locale = "ko", kind = "real" },
+  { name = "Park Min Ha", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+urls = [
+  { url = "https://www.instagram.com/minha_9m/" },
+  { url = "https://twitter.com/minha0627" },
+]
+
+[metadata]
+blood_type = "A"
+height = 172

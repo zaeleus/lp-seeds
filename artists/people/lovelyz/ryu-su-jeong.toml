@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1997-11-19"
+country = "KR"
+
+names = [
+  { name = "류수정", locale = "ko", kind = "real", original = true },
+  { name = "Ryu Su Jeong", locale = "ko-Latn", kind = "real", default = true },
+]
+
+labels = [{ id = "woollim-entertainment" }]
+
+[metadata]
+blood_type = "B"
+height = 168
+weight = 48

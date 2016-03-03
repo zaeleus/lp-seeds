@@ -1,0 +1,9 @@
+names = [
+  { name = "질투 나요 BABY", locale = "ko", original = true },
+  { name = "Jiltunayo BABY", locale = "ko-Latn", default = true },
+  { name = "I'm Jelly BABY", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=oaxUPPdXkaI", name = "Music Video" },
+]

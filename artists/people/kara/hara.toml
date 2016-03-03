@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1991-01-13"
+country = "KR"
+
+names = [
+  { name = "하라", locale = "ko", kind = "stage", original = true },
+  { name = "Hara", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "구하라", locale = "ko", kind = "real" },
+  { name = "Goo Ha Ra", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/_sweethara" },
+]
+
+[metadata]
+blood_type = "B"
+height = 163
+weight = 43

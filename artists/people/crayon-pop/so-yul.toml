@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1991-05-15"
+country = "KR"
+
+names = [
+  { name = "소율", locale = "ko", kind = "stage", original = true },
+  { name = "So Yul", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "ソユル", locale = "ja", kind = "stage" },
+  { name = "박혜경", locale = "ko", kind = "real" },
+  { name = "Park Hye Kyung", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "chrome-entertainment" }]
+
+[metadata]
+blood_type = "A"
+height = 160

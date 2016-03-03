@@ -1,0 +1,5 @@
+names = [
+  { name = "草原の人 (Instrumental)", locale = "ja", original = true },
+  { name = "Sougen no Hito (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Person of the Plains (Instrumental)", locale = "en" },
+]

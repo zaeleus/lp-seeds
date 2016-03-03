@@ -1,0 +1,10 @@
+kind = "person"
+started_on = "1985-01-23"
+country = "KR"
+
+names = [
+  { name = "산이", locale = "ko", kind = "stage", original = true },
+  { name = "San E", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정산", locale = "ko", kind = "real" },
+  { name = "Jung San", locale = "ko-Latn", kind = "real" },
+]

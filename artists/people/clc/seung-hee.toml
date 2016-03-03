@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1995-10-10"
+country = "KR"
+
+names = [
+  { name = "승희", locale = "ko", kind = "stage", original = true },
+  { name = "Seung Hee", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "오승희", locale = "ko", kind = "real" },
+  { name = "Oh Seung Hee", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"
+height = 163
+weight = 49

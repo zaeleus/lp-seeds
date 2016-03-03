@@ -1,0 +1,14 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "100回のKISS", locale = "ja", original = true },
+  { name = "100kai no KISS", locale = "ja-Latn", default = true },
+  { name = "100th Kiss", locale = "en" },
+]
+
+[[releases]]
+released_on = "2001-11-28"
+country = "JP"
+catalog_number = "EPCE-5128"
+media = [{ kind = "cd" }]

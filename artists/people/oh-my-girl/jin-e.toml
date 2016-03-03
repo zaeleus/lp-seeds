@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1995-01-22"
+country = "KR"
+
+names = [
+  { name = "진이", locale = "ko", kind = "stage", original = true },
+  { name = "Jin E", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+labels = [{ id = "wm-entertainment" }]
+
+[metadata]
+blood_type = "A"

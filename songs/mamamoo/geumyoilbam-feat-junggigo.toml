@@ -1,0 +1,5 @@
+names = [
+  { name = "금요일밤 (Feat. 정기고)", locale = "ko", original = true },
+  { name = "Geumyoilbam (Feat. JungGiGo)", locale = "ko-Latn", default = true },
+  { name = "Friday Night (Feat. JungGiGo)", locale = "en" },
+]

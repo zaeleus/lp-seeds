@@ -1,0 +1,3 @@
+names = [
+  { name = "Dancing All Night (Instrumental)", locale = "ja", original = true, default = true },
+]

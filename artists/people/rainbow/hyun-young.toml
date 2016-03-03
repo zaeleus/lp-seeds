@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1991-08-11"
+country = "KR"
+
+names = [
+  { name = "현영", locale = "ko", kind = "stage", original = true },
+  { name = "Hyun Young", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조현영", locale = "ko", kind = "real" },
+  { name = "Cho Hyun Young", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "dsp-media" }]
+
+[metadata]
+height = 160
+weight = 41

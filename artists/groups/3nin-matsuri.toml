@@ -1,0 +1,15 @@
+kind = "group"
+started_on = "2001"
+ended_on = "2001"
+country = "JP"
+
+names = [
+  { name = "三人祭", locale = "ja", original = true },
+  { name = "3nin Matsuri", locale = "ja-Latn", default = true },
+]
+
+members = [
+  { id = "morning-musume/ishikawa-rika" },
+  { id = "morning-musume/kago-ai" },
+  { id = "matsuura-aya" },
+]

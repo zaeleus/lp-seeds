@@ -1,0 +1,12 @@
+started_on = "2006"
+
+names = [
+  { name = "ユニバーサル ミュージック合同会社", locale = "ja", original = true },
+  { name = "Universal Music (Japan) LLC", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "http://www.universal-music.co.jp/" },
+  { url = "https://twitter.com/umusicjapan" },
+  { url = "https://www.youtube.com/user/universalmusicjapan" },
+]

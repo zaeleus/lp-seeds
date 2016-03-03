@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1994-09-23"
+country = "KR"
+
+names = [
+  { name = "이미주", locale = "ko", kind = "real", original = true },
+  { name = "Lee Mi Ju", locale = "ko-Latn", kind = "real", default = true },
+]
+
+labels = [{ id = "woollim-entertainment" }]
+
+[metadata]
+blood_type = "O"
+height = 167
+weight = 47

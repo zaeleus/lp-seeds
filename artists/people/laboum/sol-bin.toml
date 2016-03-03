@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1997-08-19"
+country = "KR"
+
+names = [
+  { name = "솔빈", locale = "ko", kind = "stage", original = true },
+  { name = "Sol Bin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "안솔빈", locale = "ko", kind = "real" },
+  { name = "Ahn Sol Bin", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 169
+weight = 52

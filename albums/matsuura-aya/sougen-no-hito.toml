@@ -1,0 +1,29 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "草原の人", locale = "ja", original = true },
+  { name = "Sougen no Hito", locale = "ja-Latn", default = true },
+  { name = "Girl of the Plains", locale = "en" },
+]
+
+[[releases]]
+released_on = "2002-12-11"
+country = "JP"
+catalog_number = "EPCE-5191"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition"
+
+[[releases]]
+released_on = "2002-12-11"
+country = "JP"
+catalog_number = "EPCE-5192"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+
+[[releases]]
+released_on = "2002-12-11"
+country = "JP"
+catalog_number = "EPBE-5048"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"

@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1997-04-04"
+country = "KR"
+
+names = [
+  { name = "지호", locale = "ko", kind = "stage", original = true },
+  { name = "Ji Ho", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+labels = [{ id = "wm-entertainment" }]
+
+[metadata]
+blood_type = "A"

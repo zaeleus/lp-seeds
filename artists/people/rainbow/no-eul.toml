@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1989-05-10"
+country = "KR"
+
+names = [
+  { name = "노을", locale = "ko", kind = "stage", original = true },
+  { name = "No Eul", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+labels = [{ id = "dsp-media" }]
+
+[metadata]
+height = 164
+weight = 44

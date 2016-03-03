@@ -1,0 +1,23 @@
+medium_ids = [
+  "aoa-black/moya/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "aoa-black/moya"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song_id = "aoa-black/without-you"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song_id = "aoa-black/moya-inst"
+duration = "3:40"
+
+[[tracks]]
+position = 4
+song_id = "aoa-black/without-you-inst"
+duration = "3:34"

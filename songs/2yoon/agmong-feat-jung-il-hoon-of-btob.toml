@@ -1,0 +1,5 @@
+names = [
+  { name = "악몽 (feat. 정일훈 of BTOB)", locale = "ko", original = true },
+  { name = "Agmong (feat. Jung Il Hoon of BTOB)", locale = "ko-Latn", default = true },
+  { name = "Nightmare (feat. Jung Il Hoon of BTOB)", locale = "en" },
+]

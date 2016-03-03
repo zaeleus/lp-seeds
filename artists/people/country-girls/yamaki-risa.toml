@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1997-10-14"
+country = "JP"
+
+names = [
+  { name = "山木梨沙", locale = "ja", kind = "real", original = true },
+  { name = "Yamaki Risa", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "B"
+height = 157

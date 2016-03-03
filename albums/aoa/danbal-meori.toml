@@ -1,0 +1,17 @@
+artist_id = "aoa"
+kind = "ep"
+
+names = [
+  { name = "단발머리", locale = "ko", original = true },
+  { name = "Danbal Meori", locale = "ko-Latn", default = true },
+  { name = "Short Hair", locale = "en" },
+]
+
+[[releases]]
+released_on = "2014-06-19"
+country = "KR"
+catalog_number = "CMCC-10317"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=034202541" },
+]

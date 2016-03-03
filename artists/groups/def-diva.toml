@@ -1,0 +1,18 @@
+kind = "group"
+started_on = "2005"
+ended_on = "2007"
+country = "JP"
+
+names = [
+  { name = "DEF.DIVA", locale = "ja", original = true, default = true },
+]
+
+labels = [{ id = "zetima" }]
+
+members = [
+  { id = "morning-musume/abe-natsumi" },
+  { id = "morning-musume/goto-maki" },
+  { id = "morning-musume/ishikawa-rika" },
+  { id = "matsuura-aya" },
+]
+

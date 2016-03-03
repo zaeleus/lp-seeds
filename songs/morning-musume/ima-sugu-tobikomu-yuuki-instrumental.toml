@@ -1,0 +1,5 @@
+names = [
+  { name = "今すぐ飛び込む勇気 (Instrumental)", locale = "ja", original = true },
+  { name = "Ima Sugu Tobikomu Yuuki (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "The Courage to Jump in Right Now (Instrumental)", locale = "en" },
+]

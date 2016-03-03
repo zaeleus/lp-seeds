@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1979-04-01"
+country = "KR"
+
+names = [
+  { name = "주완", locale = "ko", kind = "stage", original = true },
+  { name = "Zuwan", locale = "ko-Latn", kind = "stage", default = true },
+]

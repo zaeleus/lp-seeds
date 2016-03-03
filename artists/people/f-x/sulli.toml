@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1994-03-23"
+country = "KR"
+
+names = [
+  { name = "설리", locale = "ko", kind = "stage", original = true },
+  { name = "Sulli", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "최진리", locale = "ko", kind = "real" },
+  { name = "Choi Jin Ri", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/jin_ri_sul/" },
+]
+
+[metadata]
+blood_type = "O"
+height = 170
+weight = 49

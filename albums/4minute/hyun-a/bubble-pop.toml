@@ -1,0 +1,20 @@
+artist_id = "4minute/hyun-a"
+kind = "ep"
+
+names = [
+  { name = "Bubble Pop!", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2011-07-05"
+country = "KR"
+media = [{ kind = "digital" }]
+
+[[releases]]
+released_on = "2011-07-05"
+country = "KR"
+catalog_number = "DK-0666"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=006615292" },
+]

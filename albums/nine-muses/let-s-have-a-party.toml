@@ -1,0 +1,15 @@
+artist_id = "nine-muses"
+kind = "single"
+
+names = [
+  { name = "Let's Have a Party", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2010-08-16"
+country = "KR"
+catalog_number = "L100004133"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=815000006" },
+]

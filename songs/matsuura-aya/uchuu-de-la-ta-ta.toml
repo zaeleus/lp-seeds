@@ -1,0 +1,10 @@
+names = [
+  { name = "宇宙でLa Ta Ta", locale = "ja", original = true },
+  { name = "Uchuu de La Ta Ta", locale = "ja-Latn", default = true },
+  { name = "La Ta Ta in the Universe", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "matsuura-aya", separator = " with " },
+  { artist_id = "taiyou-to-ciscomoon/inaba-atsuko" },
+]

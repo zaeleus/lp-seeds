@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1993-07-23"
+country = "KR"
+
+names = [
+  { name = "혜린", locale = "ko", kind = "stage", original = true },
+  { name = "Hye Rin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김혜린", locale = "ko", kind = "real" },
+  { name = "Kim Hye Rin", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "sidushq" }]
+
+urls = [
+  { url = "https://instagram.com/hyelyn0723/" },
+]
+
+[metadata]
+blood_type = "A"
+height = 170

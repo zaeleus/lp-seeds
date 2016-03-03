@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1990-07-12"
+country = "KR"
+
+names = [
+  { name = "초아", locale = "ko", kind = "stage", original = true },
+  { name = "Cho A", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "チョア", locale = "ja", kind = "stage" },
+  { name = "허민진", locale = "ko", kind = "real" },
+  { name = "Heo Min Jin", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "chrome-entertainment" }]
+
+[metadata]
+blood_type = "A"
+height = 158

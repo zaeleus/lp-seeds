@@ -1,0 +1,19 @@
+medium_ids = [
+  "matsuura-aya/kiseki-no-kaori-dance/limited-edition/cd1",
+  "matsuura-aya/kiseki-no-kaori-dance/regular-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/kiseki-no-kaori-dance"
+duration = "4:25"
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/uchuu-de-la-ta-ta"
+duration = "4:28"
+
+[[tracks]]
+position = 3
+song_id = "matsuura-aya/kiseki-no-kaori-dance-instrumental"
+duration = "4:25"

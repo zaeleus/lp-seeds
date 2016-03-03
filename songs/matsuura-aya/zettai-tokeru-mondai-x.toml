@@ -1,0 +1,11 @@
+names = [
+  { name = "絶対解ける問題X＝♥", locale = "ja", original = true },
+  { name = "Zettai Tokeru Mondai X = ♥", locale = "ja-Latn", default = true },
+  { name = "Definitely Solvable Problem X = ♥", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "hasie-koji", kind = "arranger" },
+]

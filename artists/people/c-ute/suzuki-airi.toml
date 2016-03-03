@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1994-04-12"
+country = "JP"
+
+names = [
+  { name = "鈴木愛理", locale = "ja", kind = "real", original = true },
+  { name = "Suzuki Airi", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "B"
+height = 159

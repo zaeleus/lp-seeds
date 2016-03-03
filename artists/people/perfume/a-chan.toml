@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1989-02-15"
+country = "JP"
+
+names = [
+  { name = "あ～ちゃん", locale = "ja", kind = "stage", original = true },
+  { name = "A~chan", locale = "ja-Latn", kind = "stage", default = true },
+  { name = "西脇綾香", locale = "ja", kind = "real" },
+  { name = "Nishiwaki Ayaka", locale = "ja-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"
+height = 160

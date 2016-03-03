@@ -1,0 +1,23 @@
+kind = "person"
+started_on = "1977-09-20"
+country = "KR"
+
+names = [
+  { name = "安室奈美恵", locale = "ko", kind = "real", original = true },
+  { name = "Amuro Namie", locale = "ko-Latn", kind = "real", default = true },
+]
+
+labels = [{ id = "avex-trax" }]
+
+urls = [
+  { url = "http://namieamuro.jp/" },
+  { url = "http://www.facebook.com/NamieAmuroOfficial" },
+  { url = "http://twitter.com/amuro_livegenic" },
+  { url = "http://www.youtube.com/user/AmuroNamiech" },
+]
+
+[metadata]
+blood_type = "O"
+weight = 40
+height = 159
+

@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1988-09-13"
+country = "KR"
+
+names = [
+  { name = "승아", locale = "ko", kind = "stage", original = true },
+  { name = "Seung Ah", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "오승아", locale = "ko", kind = "real" },
+  { name = "Oh Seung Ah", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "dsp-media" }]
+
+[metadata]
+height = 168
+weight = 45

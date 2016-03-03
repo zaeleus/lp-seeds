@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1994-06-21"
+country = "JP"
+
+names = [
+  { name = "岡井千聖", locale = "ja", kind = "real", original = true },
+  { name = "Okai Chisato", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 149

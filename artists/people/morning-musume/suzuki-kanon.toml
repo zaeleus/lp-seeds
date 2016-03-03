@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1998-08-05"
+country = "JP"
+
+names = [
+  { name = "鈴木香音", locale = "ja", kind = "real", original = true },
+  { name = "Suzuki Kanon", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "B"
+height = 155

@@ -1,0 +1,10 @@
+kind = "person"
+started_on = "1957-04-05"
+country = "KR"
+
+names = [
+  { name = "인순이", locale = "ko", kind = "stage", original = true },
+  { name = "Insooni", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김인순", locale = "ko", kind = "real" },
+  { name = "Kim In Soon", locale = "ko-Latn", kind = "real" },
+]

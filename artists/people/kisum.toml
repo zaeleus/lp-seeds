@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1994-01-20"
+country = "KR"
+
+names = [
+  { name = "키썸", locale = "ko", kind = "stage", original = true },
+  { name = "Kisum", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조혜령", locale = "ko", kind = "real" },
+  { name = "Jo Hye Ryung", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "http://www.mappstown.com/kisum.php" },
+  { url = "https://www.instagram.com/limkim12121/" },
+  { url = "https://www.facebook.com/Kisumofficial" },
+]

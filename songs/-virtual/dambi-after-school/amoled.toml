@@ -1,0 +1,20 @@
+names = [
+  { name = "AMOLED", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [{
+  artist_id = "son-dam-bi",
+  names = [
+    { name = "Dambi", locale = "ko", original = true, default = true },
+  ],
+  separator = " + ",
+}, {
+  artist_id = "after-school",
+  names = [
+    { name = "After School", locale = "ko", original = true, default = true },
+  ],
+}]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=urrgiXeX02c", name = "Music Video" },
+]

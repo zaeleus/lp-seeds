@@ -1,0 +1,12 @@
+kind = "group"
+started_on = "2011"
+country = "KR"
+
+names = [
+  { name = "브레이브걸스", locale = "ko", original = true },
+  { name = "Brave Girls", locale = "ko-Latn", default = true },
+]
+
+members = [
+  # TODO members
+]

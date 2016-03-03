@@ -1,0 +1,25 @@
+artist_id = "wonder-girls"
+kind = "lp"
+
+names = [
+  { name = "REBOOT", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-08-03"
+country = "KR"
+catalog_number = "JYPK-0554"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=045400823" },
+]
+
+[[releases]]
+released_on = "2015-08-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/reboot/id1025660436" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2332752" },
+  { url = "http://www.mnet.com/album/477854" },
+]

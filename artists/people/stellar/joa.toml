@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1991-08-15"
+country = "KR"
+
+names = [
+  { name = "조아", locale = "ko", kind = "stage", original = true },
+  { name = "JoA", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조영진", locale = "ko", kind = "real" },
+  { name = "Cho Young Jin", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "the-entertainment-pascal" }]
+
+[metadata]
+height = 166
+weight = 43
+blood_type = "A"

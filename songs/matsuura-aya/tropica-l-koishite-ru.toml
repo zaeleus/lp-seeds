@@ -1,0 +1,11 @@
+names = [
+  { name = "トロピカ～ル恋して～る", locale = "ja", original = true },
+  { name = "Tropica~l Koishite~ru", locale = "ja-Latn", default = true },
+  { name = "Tropical Loving", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "watanabe-cher", kind = "arranger" },
+]

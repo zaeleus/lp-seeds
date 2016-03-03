@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1984-11-12"
+country = "KR"
+
+names = [
+  { name = "다라", locale = "ko", kind = "stage", original = true },
+  { name = "Dara", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "산다라", locale = "ko", kind = "stage" },
+  { name = "Sandara", locale = "ko-Latn", kind = "stage" },
+  { name = "박산다라", locale = "ko", kind = "real" },
+  { name = "Park Sandara", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/krungy21" },
+]

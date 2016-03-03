@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1991-12-10"
+country = "KR"
+
+names = [
+  { name = "LE", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "안효진", locale = "ko", kind = "real" },
+  { name = "Ahn Hyo Jin", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "yedang-entertainment" }]
+
+[metadata]
+height = 168
+weight = 50

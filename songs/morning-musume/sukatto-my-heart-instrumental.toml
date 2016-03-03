@@ -1,0 +1,5 @@
+names = [
+  { name = "スカッとMy Heart (Instrumental)", locale = "ja", original = true },
+  { name = "Sukatto My Heart (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Refresh My Heart (Instrumental)", locale = "en" },
+]

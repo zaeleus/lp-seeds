@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1994-06-03"
+country = "KR"
+
+names = [
+  { name = "다은", locale = "ko", kind = "stage", original = true },
+  { name = "Da Eun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정다은", locale = "ko", kind = "real" },
+  { name = "Jung Da Eun", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "sidushq" }]
+
+urls = [
+  { url = "https://instagram.com/Da.ni370515/" },
+]
+
+[metadata]
+blood_type = "A"
+height = 168

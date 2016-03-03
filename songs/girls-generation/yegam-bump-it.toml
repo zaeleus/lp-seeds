@@ -1,0 +1,5 @@
+names = [
+  { name = "예감 (Bump It)", locale = "ko", original = true },
+  { name = "Yegam (Bump It)", locale = "ko-Latn", default = true  },
+  { name = "Premonition (Bump It)", locale = "en" },
+]

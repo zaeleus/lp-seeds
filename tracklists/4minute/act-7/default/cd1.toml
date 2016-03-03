@@ -1,0 +1,28 @@
+medium_ids = [
+  "4minute/act-7/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "4minute/silheo-hate"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song_id = "4minute/no-love"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song_id = "4minute/blind"
+duration = "3:59"
+
+[[tracks]]
+position = 4
+song_id = "4minute/canvas"
+duration = "3:35"
+
+[[tracks]]
+position = 5
+song_id = "4minute/silheo-hate-inst"
+duration = "3:35"

@@ -1,0 +1,11 @@
+names = [
+  { name = "オシャレ！", locale = "ja", original = true },
+  { name = "Oshare!", locale = "ja-Latn", default = true },
+  { name = "Fashion!", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "takahashi-yuichi", kind = "arranger" },
+]

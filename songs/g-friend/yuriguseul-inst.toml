@@ -1,0 +1,5 @@
+names = [
+  { name = "유리구슬 (Inst.)", locale = "ko", original = true },
+  { name = "Yuriguseul (Inst.)", locale = "ko-Latn", default = true  },
+  { name = "Glass Bead (Inst.)", locale = "en" },
+]

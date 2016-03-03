@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1990-02-10"
+country = "KR"
+
+names = [
+  { name = "수영", locale = "ko", kind = "stage", original = true },
+  { name = "Sooyoung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "최수영", locale = "ko", kind = "real" },
+  { name = "Choi Soo Young", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "O"
+height = 170
+weight = 48

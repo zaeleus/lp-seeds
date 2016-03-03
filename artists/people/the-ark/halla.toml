@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1998-03-20"
+country = "KR"
+
+names = [
+  { name = "한라", locale = "ko", kind = "stage", original = true },
+  { name = "Halla", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이한라", locale = "ko", kind = "real" },
+  { name = "Lee Halla", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "music-k-entertainment" }]
+
+[metadata]
+blood_type = "AB"

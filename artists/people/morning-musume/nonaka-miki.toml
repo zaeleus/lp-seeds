@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1999-10-07"
+country = "JP"
+
+names = [
+  { name = "野中美希", locale = "ja", kind = "real", original = true },
+  { name = "Nonaka Miki", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 157

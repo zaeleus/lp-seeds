@@ -1,0 +1,5 @@
+names = [
+  { name = "From That Sky～替え玉は硬メンで～", locale = "ja", original = true },
+  { name = "From That Sky ~Kaedama wa Katamen de~", locale = "ja-Latn", default = true },
+  { name = "From That Sky ~Put Some More Noodles in This!~", locale = "en" },
+]

@@ -1,0 +1,7 @@
+names = [
+  { name = "YGEX", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "http://ygex.jp/" },
+]

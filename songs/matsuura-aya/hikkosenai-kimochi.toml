@@ -1,0 +1,5 @@
+names = [
+  { name = "引越せない気持", locale = "ja", original = true },
+  { name = "Hikkosenai Kimochi", locale = "ja-Latn", default = true },
+  { name = "Unmovable Feelings", locale = "en" },
+]

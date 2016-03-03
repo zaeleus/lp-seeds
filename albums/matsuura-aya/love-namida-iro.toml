@@ -1,0 +1,14 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "LOVE涙色", locale = "ja", original = true },
+  { name = "LOVE Namida Iro", locale = "ja-Latn", default = true },
+  { name = "LOVE The Color of Tears", locale = "en" },
+]
+
+[[releases]]
+released_on = "2001-09-05"
+country = "JP"
+catalog_number = "EPCE-5117"
+media = [{ kind = "cd" }]

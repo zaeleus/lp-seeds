@@ -1,0 +1,18 @@
+kind = "group"
+started_on = "2010"
+country = "KR"
+
+names = [
+  { name = "걸스데이", locale = "ko", original = true },
+  { name = "Girl's Day", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "girl-s-day/so-jin" },
+  { id = "girl-s-day/min-ah" },
+  { id = "girl-s-day/yura", started_on = "2010-09-16" },
+  { id = "girl-s-day/hyeri", started_on = "2010-09-14" },
+  { id = "new-f-o/jn", ended_on = "2010-09-12" },
+  { id = "girl-s-day/ji-in", ended_on = "2010-09-12" },
+  { id = "girl-s-day/ji-hae", ended_on = "2012-10-17" },
+]

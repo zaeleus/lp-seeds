@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1993-08-03"
+country = "JP"
+
+names = [
+  { name = "熊井友理奈", locale = "ja", kind = "real", original = true },
+  { name = "Kumai Yurina", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "B"
+height = 182

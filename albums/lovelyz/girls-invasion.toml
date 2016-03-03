@@ -1,0 +1,15 @@
+artist_id = "lovelyz"
+kind = "lp"
+
+names = [
+  { name = "Girls' Invasion", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2014-11-17"
+country = "KR"
+catalog_number = "L200001065"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001208721" },
+]

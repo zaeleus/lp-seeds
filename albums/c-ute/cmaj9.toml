@@ -1,0 +1,39 @@
+artist_id = "c-ute"
+kind = "lp"
+
+names = [
+  { name = "°Cmaj9", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-12-23"
+country = "JP"
+catalog_number = "EPCE-7158~9"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/398106/products/1156848/1/" },
+  { url = "http://up-front-works.jp/release/detail/EPCE-7158/" },
+]
+
+[[releases]]
+released_on = "2015-12-23"
+country = "JP"
+catalog_number = "EPCE-7160~1"
+media = [{ kind = "cd" }, { kind = "blu-ray" }]
+disambiguation = "Limited Edition B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/398106/products/1156849/1/" },
+  { url = "http://up-front-works.jp/release/detail/EPCE-7158/" },
+]
+
+[[releases]]
+released_on = "2015-12-23"
+country = "JP"
+catalog_number = "EPCE-7162"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/398106/products/1156850/1/" },
+  { url = "http://up-front-works.jp/release/detail/EPCE-7158/" },
+]

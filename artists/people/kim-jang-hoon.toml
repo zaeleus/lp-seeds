@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1967-08-14"
+country = "KR"
+
+names = [
+  { name = "김장훈", locale = "ko", kind = "real", original = true },
+  { name = "Kim Jang Hoon", locale = "ko-Latn", kind = "real", default = true },
+]

@@ -1,0 +1,13 @@
+artist_id = "aoa/choa"
+kind = "single"
+
+names = [
+  { name = "불꽃", locale = "ko", original = true },
+  { name = "Bulkkoc", locale = "ko-Latn", default = true },
+  { name = "Flame", locale = "en" },
+]
+
+[[releases]]
+released_on = "2015-12-17"
+country = "KR"
+media = [{ kind = "digital" }]

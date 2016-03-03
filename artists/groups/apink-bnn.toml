@@ -1,0 +1,14 @@
+kind = "group"
+started_on = "2014"
+country = "KR"
+
+names = [
+  { name = "APink BnN", locale = "ko", original = true, default = true },
+]
+
+labels = [{ id = "a-cube-entertainment" }]
+
+members = [
+  { id = "apink/bo-mi" },
+  { id = "apink/nam-joo" },
+]

@@ -1,0 +1,7 @@
+kind = "person"
+#started_on = ""
+country = "ZZ"
+
+names = [
+  { name = "Aaron Benward", locale = "ko", kind = "real", original = true, default = true },
+]

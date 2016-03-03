@@ -1,0 +1,33 @@
+kind = "group"
+started_on = "2012"
+country = "KR"
+
+names = [
+  { name = "에이오에이", locale = "ko", original = true },
+  { name = "AOA", locale = "ko-Latn", default = true },
+  { name = "Ace of Angels", locale = "ko-Latn" },
+]
+
+labels = [
+  { id = "fnc-entertainment" },
+  { id = "universal-music-japan" },
+]
+
+members = [
+  { id = "aoa/chanmi" },
+  { id = "aoa/choa" },
+  { id = "aoa/hyejeong" },
+  { id = "aoa/jimin" },
+  { id = "aoa/mina" },
+  { id = "aoa/seolhyun" },
+  { id = "aoa/youkyoung" },
+  { id = "aoa/yuna" },
+]
+
+urls = [
+  { url = "http://www.fncent.com/aoa" },
+  { url = "http://aoa-official.jp/" },
+  { url = "https://www.youtube.com/user/AceOfAngels8" },
+  { url = "https://www.facebook.com/OfficialAOA" },
+  { url = "https://twitter.com/Official_AOA" },
+]

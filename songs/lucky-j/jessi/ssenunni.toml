@@ -1,0 +1,21 @@
+names = [
+  { name = "쎈언니", locale = "ko", original = true },
+  { name = "Ssenunni", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=QdZ3AzhY5Fo", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "lucky-j/jessi", kind = "performer" },
+
+  { artist_id = "237", kind = "lyricist" },
+  { artist_id = "lucky-j/jessi", kind = "lyricist" },
+
+  { artist_id = "famous-bro", kind = "composer" },
+  { artist_id = "paul", kind = "composer" },
+
+  { artist_id = "famous-bro", kind = "arranger" },
+  { artist_id = "paul", kind = "arranger" },
+]

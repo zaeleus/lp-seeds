@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1997-03-06"
+country = "KR"
+
+names = [
+  { name = "루다", locale = "ko", kind = "stage", original = true },
+  { name = "Luda", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이루다", locale = "ko", kind = "real" },
+  { name = "Lee Lu Da", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"

@@ -1,0 +1,19 @@
+names = [
+  { name = "Rain", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=eHir_vB1RUI", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "girls-generation/taeyeon", kind = "performer" },
+  { artist_id = "bong-eun-young", kind = "lyricist" },
+  { artist_id = "mafly", kind = "lyricist" },
+  { artist_id = "lee-yoo-jin", kind = "lyricist" },
+  { artist_id = "matthew-tishler", kind = "composer" },
+  { artist_id = "aaron-benward", kind = "composer" },
+  { artist_id = "felicia-barton", kind = "composer" },
+  { artist_id = "olivia-holt", kind = "composer" },
+  { artist_id = "matthew-tishler", kind = "arranger" },
+]

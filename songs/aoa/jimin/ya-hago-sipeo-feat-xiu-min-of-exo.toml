@@ -1,0 +1,11 @@
+names = [
+  { name = "야 하고 싶어 (Feat. 시우민 of EXO)", locale = "ko", original = true },
+  { name = "Ya Hago Sipeo (Feat. Xiu Min of EXO)", locale = "ko-Latn", default = true },
+  { name = "Call You Bae (Feat. Xiu Min of EXO)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=CyZlhRCPJcI", name = "Teaser" },
+  { url = "https://twitter.com/FNC_ENT/status/704863812617277445", name = "Cartoon Teaser" },
+  { url = "https://www.youtube.com/watch?v=KgpDEewRqX0", name = "Music Video" },
+]

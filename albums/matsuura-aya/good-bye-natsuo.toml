@@ -1,0 +1,29 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "GOOD BYE 夏男", locale = "ja", original = true },
+  { name = "GOOD BYE Natsuo", locale = "ja-Latn", default = true },
+  { name = "GOOD BYE Summer Boy", locale = "en" },
+]
+
+[[releases]]
+released_on = "2003-06-04"
+country = "JP"
+catalog_number = "EPCE-5216"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition"
+
+[[releases]]
+released_on = "2003-06-04"
+country = "JP"
+catalog_number = "EPCE-5217"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+
+[[releases]]
+released_on = "2003-06-04"
+country = "JP"
+catalog_number = "EPBE-5077"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"

@@ -1,0 +1,22 @@
+kind = "person"
+started_on = "1986-06-25"
+country = "JP"
+
+names = [
+  { name = "松浦亜弥", locale = "ja", kind = "real", original = true },
+  { name = "Matsuura Aya", locale = "ja-Latn", kind = "real", default = true },
+  { name = "橘亜弥", locale = "ja", kind = "legal" },
+  { name = "Tachibana Aya", locale = "ja-Latn", kind = "legal" },
+  { name = "あやや", locale = "ja", kind = "nickname" },
+  { name = "Ayaya", locale = "ja-Latn", kind = "nickname" },
+]
+
+labels = [{ id = "zetima" }]
+
+urls = [
+  { url = "https://en.wikipedia.org/wiki/Aya_Matsuura" },
+]
+
+[metadata]
+blood_type = "B"
+height = 158

@@ -1,0 +1,38 @@
+medium_ids = [
+  "dal-shabet/naturalness/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "dal-shabet/jigeusi"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song_id = "dal-shabet/neogateun"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song_id = "dal-shabet/meoributeo-balkkeutkkaji"
+duration = "3:08"
+
+[[tracks]]
+position = 4
+song_id = "dal-shabet/chakhan-namja-feat-sims"
+duration = "3:07"
+
+[[tracks]]
+position = 5
+song_id = "dal-shabet/dreams-come-true"
+duration = "4:06"
+
+[[tracks]]
+position = 6
+song_id = "dal-shabet/saranghandago-haeseo"
+duration = "3:46"
+
+[[tracks]]
+position = 7
+song_id = "dal-shabet/neogateun-inst"
+duration = "3:20"

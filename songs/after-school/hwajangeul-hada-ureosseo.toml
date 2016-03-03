@@ -1,0 +1,5 @@
+names = [
+  { name = "화장을 하다 울었어", locale = "ko", original = true },
+  { name = "Hwajangeul Hada Ureosseo", locale = "ko-Latn", default = true },
+  { name = "Crying While Putting on Makeup", locale = "en" },
+]

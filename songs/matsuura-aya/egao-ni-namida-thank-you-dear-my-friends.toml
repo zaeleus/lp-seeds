@@ -1,0 +1,11 @@
+names = [
+  { name = "笑顔に涙～THANK YOU! DEAR MY FRIENDS～", locale = "ja", original = true },
+  { name = "Egao ni Namida ~THANK YOU! DEAR MY FRIENDS~", locale = "ja-Latn", default = true },
+  { name = "Smiles and Tears ~Thank You! Dear My Friends~", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "kohno-shin", kind = "arranger" },
+]

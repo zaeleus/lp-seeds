@@ -1,0 +1,28 @@
+kind = "group"
+started_on = "2011"
+country = "KR"
+
+names = [
+  { name = "에이핑크", locale = "ko", original = true },
+  { name = "APink", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "a-cube-entertainment" }]
+
+members = [
+  { id = "apink/cho-rong" },
+  { id = "apink/bo-mi" },
+  { id = "apink/eun-ji" },
+  { id = "apink/na-eun" },
+  { id = "apink/nam-joo" },
+  { id = "apink/ha-young" },
+
+  { id = "apink/yoo-kyung", ended_on = "2013-04" },
+]
+
+urls = [
+  { url = "http://www.a-cube.co.kr/apink" },
+  { url = "https://www.youtube.com/user/acubeent" },
+  { url = "https://www.facebook.com/Official.Apink2011" },
+  { url = "https://twitter.com/apink_2011" },
+]

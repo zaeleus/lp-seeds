@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1994-09-22"
+country = "KR"
+
+names = [
+  { name = "유경", locale = "ko", kind = "stage", original = true },
+  { name = "Yoo Kyung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "홍유경", locale = "ko", kind = "real" },
+  { name = "Hong Yoo Kyung", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "a-cube-entertainment" }]
+
+[metadata]
+weight = 51
+height = 167

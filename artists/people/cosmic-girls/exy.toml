@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1995-11-06"
+country = "KR"
+
+names = [
+  { name = "엑시", locale = "ko", kind = "stage", original = true },
+  { name = "EXY", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "추소정", locale = "ko", kind = "real" },
+  { name = "Chu So Jung", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"

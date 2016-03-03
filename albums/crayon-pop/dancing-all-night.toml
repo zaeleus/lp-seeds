@@ -1,0 +1,43 @@
+artist_id = "crayon-pop"
+kind = "single"
+
+names = [
+  { name = "Dancing All Night", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-11-18"
+country = "JP"
+catalog_number = "PCCA-70464"
+disambiguation = "Limited CD+GOODS Edition"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/600963/products/1149795/1/" },
+]
+
+[[releases]]
+released_on = "2015-11-18"
+country = "JP"
+catalog_number = "PCCA-04283"
+disambiguation = "Limited CD+DVD Edition"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/600963/products/1149793/1/" },
+]
+
+[[releases]]
+released_on = "2015-11-18"
+country = "JP"
+catalog_number = "PCCA-70450"
+disambiguation = "Regular Edition"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/600963/products/1149794/1/" },
+]
+
+[[releases]]
+released_on = "2015-11-18"
+country = "JP"
+catalog_number = "SCCA-00033"
+disambiguation = "PCSC Edition"
+media = [{ kind = "cd" }]

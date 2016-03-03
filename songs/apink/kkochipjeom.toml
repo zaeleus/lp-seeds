@@ -1,0 +1,9 @@
+names = [
+  { name = "꽃잎점", locale = "ko", original = true },
+  { name = "Kkochipjeom", locale = "ko-Latn", default = true },
+  { name = "Fortune Telling Petal", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=CDhfIgS4aAo", name = "Music Video" },
+]

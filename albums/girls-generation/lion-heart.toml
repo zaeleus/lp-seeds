@@ -1,0 +1,16 @@
+artist_id = "girls-generation"
+kind = "lp"
+
+names = [
+  { name = "Lion Heart", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-08-09"
+country = "KR"
+catalog_number = "SMK-0548"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=002700693" },
+]
+

@@ -1,0 +1,11 @@
+started_on = "1995-02"
+
+names = [
+  { name = "SM엔터테인먼트", locale = "ko", original = true },
+  { name = "SM Entertainment", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.smtown.com/" },
+  { url = "https://www.youtube.com/user/SMTOWN" },
+]

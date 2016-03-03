@@ -1,0 +1,4 @@
+names = [
+  { name = "横浜ロンド", locale = "ja", original = true },
+  { name = "Yokohama Rondo", locale = "en", default = true },
+]

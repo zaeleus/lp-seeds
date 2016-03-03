@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1985-01-19"
+country = "JP"
+
+names = [
+  { name = "石川梨華", locale = "ja", kind = "real", original = true },
+  { name = "Ishikawa Rika", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 158

@@ -1,0 +1,21 @@
+kind = "person"
+started_on = "1995-01-03"
+country = "KR"
+
+names = [
+  { name = "설현", locale = "ko", kind = "stage", original = true },
+  { name = "Seolhyun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김설현", locale = "ko", kind = "real" },
+  { name = "Kim Seol Hyun", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "fnc-entertainment" }]
+
+urls = [
+  { url = "https://instagram.com/sh_9513/" },
+]
+
+[metadata]
+blood_type = "A"
+weight = 48
+height = 167

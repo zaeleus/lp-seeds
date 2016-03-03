@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1992-03-13"
+country = "KR"
+
+names = [
+  { name = "지인", locale = "ko", kind = "stage", original = true },
+  { name = "Ji In", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이지인", locale = "ko", kind = "real" },
+  { name = "Lee Ji In", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "O"
+height = 167
+weight = 45

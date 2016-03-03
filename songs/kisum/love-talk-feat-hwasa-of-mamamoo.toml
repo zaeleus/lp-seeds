@@ -1,0 +1,13 @@
+names = [
+  { name = "LOVE TALK (Feat. 화사 of 마마무)", locale = "ko", original = true },
+  { name = "LOVE TALK (Feat. Hwasa of MAMAMOO)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=YGWCd6-kKD4", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "kisum", kind = "performer" },
+  { artist_id = "mamamoo/hwasa", kind = "performer" },
+]

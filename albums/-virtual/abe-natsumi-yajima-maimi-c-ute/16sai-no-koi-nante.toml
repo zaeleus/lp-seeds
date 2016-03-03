@@ -1,0 +1,40 @@
+artist_id = "-virtual/abe-natsumi-yajima-maimi-c-ute"
+kind = "single"
+
+names = [
+  { name = "16歳の恋なんて", locale = "ja", original = true },
+  { name = "16sai no Koi Nante", locale = "ja-Latn", default = true },
+  { name = "A 16-year-old Love", locale = "en" },
+]
+
+artist_credits = [{
+  artist_id = "morning-musume/abe-natsumi",
+  separator = " & ",
+}, {
+  artist_id = "c-ute/yajima-maimi",
+  names = [
+    { name = "矢島舞美 (°C-ute)", locale = "ja", kind = "real", original = true },
+    { name = "Yajima Maimi (°C-ute)", locale = "ja-Latn", kind = "real", default = true },
+  ],
+}]
+
+[[releases]]
+released_on = "2008-01-16"
+country = "JP"
+catalog_number = "HKCN-50061"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition"
+
+[[releases]]
+released_on = "2008-01-16"
+country = "JP"
+catalog_number = "HKCN-50062"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+
+[[releases]]
+released_on = "2008-02-06"
+country = "JP"
+catalog_number = "HKBN-50095"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"

@@ -1,0 +1,23 @@
+medium_ids = [
+  "matsuura-aya/good-bye-natsuo/single-v/dvd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/good-bye-natsuo"
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/good-bye-natsuo"
+names = [
+  { name = "GOOD BYE 夏男 (WILD Ayaya Ver.)", locale = "ja", original = true },
+  { name = "GOOD BYE Natsuo (WILD Ayaya Ver.)", locale = "ja-Latn", default = true },
+  { name = "GOOD BYE Summer Boy (WILD Ayaya Ver.)", locale = "en" },
+]
+
+[[tracks]]
+position = 3
+names = [
+  { name = "メイキング & インタビュー", locale = "ja", original = true },
+  { name = "Making & Interview", locale = "en", default = true },
+]

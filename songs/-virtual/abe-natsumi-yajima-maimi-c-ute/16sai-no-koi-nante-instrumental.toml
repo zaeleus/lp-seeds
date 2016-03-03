@@ -1,0 +1,16 @@
+names = [
+  { name = "16歳の恋なんて (Instrumental)", locale = "ja", original = true },
+  { name = "16sai no Koi Nante (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "A 16-year-old Love (Instrumental)", locale = "en" },
+]
+
+artist_credits = [{
+  artist_id = "morning-musume/abe-natsumi",
+  separator = " & ",
+}, {
+  artist_id = "c-ute/yajima-maimi",
+  names = [
+    { name = "矢島舞美 (°C-ute)", locale = "ja", kind = "real", original = true },
+    { name = "Yajima Maimi (°C-ute)", locale = "ja-Latn", kind = "real", default = true },
+  ],
+}]

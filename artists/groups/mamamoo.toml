@@ -1,0 +1,15 @@
+kind = "group"
+started_on = "2014-06-18"
+country = "KR"
+
+names = [
+  { name = "마마무", locale = "ko", original = true },
+  { name = "MAMAMOO", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "mamamoo/solar" },
+  { id = "mamamoo/moonbyul" },
+  { id = "mamamoo/wheein" },
+  { id = "mamamoo/hwasa" },
+]

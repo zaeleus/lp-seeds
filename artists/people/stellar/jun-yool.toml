@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1994-03-20"
+country = "KR"
+
+names = [
+  { name = "전율", locale = "ko", kind = "stage", original = true },
+  { name = "Jun Yool", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "전유리", locale = "ko", kind = "real" },
+  { name = "Yeon Yoo Ri", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "the-entertainment-pascal" }]
+
+[metadata]
+height = 168
+weight = 43

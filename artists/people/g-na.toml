@@ -1,0 +1,23 @@
+kind = "person"
+started_on = "1987-09-13"
+country = "KR"
+
+names = [
+  { name = "G.NA", locale = "ko", kind = "stage", default = true, original = true },
+  { name = "최지나", locale = "ko", kind = "real" },
+  { name = "Choi Gina", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+urls = [
+  { url = "https://www.youtube.com/user/gnaofficial" },
+  { url = "https://www.instagram.com/missginachoi87/" },
+  { url = "https://twitter.com/ginachoi87" },
+  { url = "https://en.wikipedia.org/wiki/G.NA" },
+]
+
+[metadata]
+blood_type = "O"
+height = 166
+weight = 50

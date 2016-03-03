@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1993-03-29"
+country = "KR"
+
+names = [
+  { name = "유지아", locale = "ko", kind = "real", original = true },
+  { name = "Yoo Ji Ah", locale = "ko-Latn", kind = "real", default = true },
+]

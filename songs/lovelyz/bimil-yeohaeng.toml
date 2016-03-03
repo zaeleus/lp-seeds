@@ -1,0 +1,5 @@
+names = [
+  { name = "비밀여행", locale = "ko", original = true },
+  { name = "Bimil Yeohaeng", locale = "ko-Latn", default = true },
+  { name = "Secret Journey", locale = "en" },
+]

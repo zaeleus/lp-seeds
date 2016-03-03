@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1997-01-07"
+country = "JP"
+
+names = [
+  { name = "石田亜佑美", locale = "ja", kind = "real", original = true },
+  { name = "Ishida Ayumi", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 150

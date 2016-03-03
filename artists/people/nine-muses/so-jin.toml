@@ -1,0 +1,22 @@
+kind = "person"
+started_on = "1991-10-11"
+country = "KR"
+
+names = [
+  { name = "소진", locale = "ko", kind = "stage", original = true },
+  { name = "So Jin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조소진", locale = "ko", kind = "real" },
+  { name = "Cho So Jin", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+urls = [
+  { url = "https://www.instagram.com/josojin_1011/" },
+  { url = "https://twitter.com/josojin_1011" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 170
+weight = 47

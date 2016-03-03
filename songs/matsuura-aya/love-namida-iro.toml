@@ -1,0 +1,11 @@
+names = [
+  { name = "LOVE涙色", locale = "ja", original = true },
+  { name = "LOVE Namida Iro", locale = "ja-Latn", default = true },
+  { name = "LOVE The Color of Tears", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "watanabe-cher", kind = "arranger" },
+]

@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1993-04-22"
+country = "KR"
+
+names = [
+  { name = "화영", locale = "ko", kind = "stage", original = true },
+  { name = "Hwa Young", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "류화영", locale = "ko", kind = "real" },
+  { name = "Ryu Hwa Young", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 169
+weight = 46

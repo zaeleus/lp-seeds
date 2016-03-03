@@ -1,0 +1,9 @@
+names = [
+  { name = "유리구슬", locale = "ko", original = true },
+  { name = "Yuriguseul", locale = "ko-Latn", default = true  },
+  { name = "Glass Bead", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=IxnD5AViu6k", name = "Music Video" },
+]

@@ -1,0 +1,15 @@
+kind = "group"
+started_on = "2010"
+country = "KR"
+
+names = [
+  { name = "허니 듀", locale = "ko", original = true },
+  { name = "Honey Dew", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "top-class-entertainment" }]
+
+members = [
+  { id = "stellar/lee-seul" },
+  { id = "stellar/joa" },
+]

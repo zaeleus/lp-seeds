@@ -1,0 +1,4 @@
+names = [
+  { name = "モーニングコーヒー (Instrumental)", locale = "ja", original = true },
+  { name = "Morning Coffee (Instrumental)", locale = "en", default = true },
+]

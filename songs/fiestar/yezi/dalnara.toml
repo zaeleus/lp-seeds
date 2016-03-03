@@ -1,0 +1,13 @@
+names = [
+  { name = "달나라", locale = "ko", original = true },
+  { name = "Dalnara", locale = "ko-Latn", default = true },
+  { name = "The Lunar World", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "fiestar/yezi", kind = "performer" },
+  { artist_id = "fiestar/yezi", kind = "lyricist" },
+  { artist_id = "cj", kind = "composer" },
+  { artist_id = "sam-lewis", kind = "composer" },
+  { artist_id = "cj", kind = "arranger" },
+]

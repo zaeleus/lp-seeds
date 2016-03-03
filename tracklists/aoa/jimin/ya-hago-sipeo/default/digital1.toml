@@ -1,0 +1,8 @@
+medium_ids = [
+  "aoa/jimin/ya-hago-sipeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "aoa/jimin/ya-hago-sipeo-feat-xiu-min-of-exo"
+duration = "3:37"

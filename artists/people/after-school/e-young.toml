@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1992-08-16"
+country = "KR"
+
+names = [
+  { name = "이영", locale = "ko", kind = "stage", original = true },
+  { name = "E-Young", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "노이영", locale = "ko", kind = "real" },
+  { name = "Noh Yi Young", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"
+height = 167
+weight = 47

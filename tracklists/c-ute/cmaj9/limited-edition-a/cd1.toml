@@ -1,0 +1,99 @@
+medium_ids = [
+  "c-ute/cmaj9/limited-edition-a/cd1",
+  "c-ute/cmaj9/limited-edition-b/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "c-ute/cmaj9"
+duration = "0:35"
+
+[[tracks]]
+position = 2
+song_id = "c-ute/iron-heart"
+duration = "4:23"
+
+[[tracks]]
+position = 3
+song_id = "c-ute/otoko-to-onna-to-forever"
+duration = "3:37"
+
+[[tracks]]
+position = 4
+song_id = "c-ute/jounetsu-ecstasy"
+duration = "5:01"
+
+[[tracks]]
+position = 5
+song_id = "c-ute/digitalic-0-love"
+duration = "3:23"
+
+[[tracks]]
+position = 6
+song_id = "c-ute/urayanjau"
+duration = "4:04"
+
+[[tracks]]
+position = 7
+song_id = "c-ute/yokaze-no-message"
+duration = "4:43"
+
+[[tracks]]
+position = 8
+song_id = "c-ute/tokai-no-hitorigurashi"
+duration = "4:26"
+
+[[tracks]]
+position = 9
+song_id = "c-ute/ai-tte-motto-zanshin"
+duration = "3:53"
+
+[[tracks]]
+position = 10
+song_id = "c-ute/kokoro-no-sakebi-wo-uta-ni-shitemita"
+duration = "3:49"
+
+[[tracks]]
+position = 11
+song_id = "c-ute/love-take-it-all"
+duration = "4:04"
+
+[[tracks]]
+position = 12
+song_id = "c-ute/the-power"
+duration = "4:01"
+
+[[tracks]]
+position = 13
+song_id = "c-ute/kanashiki-heaven-single-version"
+duration = "4:01"
+
+[[tracks]]
+position = 14
+song_id = "c-ute/i-miss-you"
+duration = "3:24"
+
+[[tracks]]
+position = 15
+song_id = "c-ute/the-future"
+duration = "3:24"
+
+[[tracks]]
+position = 16
+song_id = "c-ute/the-middle-management-josei-chuukan-kanrishoku"
+duration = "3:23"
+
+[[tracks]]
+position = 17
+song_id = "c-ute/tsugi-no-kado-wo-magare"
+duration = "4:20"
+
+[[tracks]]
+position = 18
+song_id = "c-ute/gamusha-life"
+duration = "4:52"
+
+[[tracks]]
+position = 19
+song_id = "c-ute/cmaj9-reprise"
+duration = "0:32"

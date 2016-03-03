@@ -1,0 +1,29 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "渡良瀬橋", locale = "ja", original = true },
+  { name = "Watarasebashi", locale = "ja-Latn", default = true },
+  { name = "Watarase Bridge", locale = "en" },
+]
+
+[[releases]]
+released_on = "2004-10-20"
+country = "JP"
+catalog_number = "EPCE-5332"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition"
+
+[[releases]]
+released_on = "2004-10-20"
+country = "JP"
+catalog_number = "EPCE-5333"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+
+[[releases]]
+released_on = "2004-11-10"
+country = "JP"
+catalog_number = "EPBE-5148"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"

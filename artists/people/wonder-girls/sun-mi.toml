@@ -1,0 +1,22 @@
+kind = "person"
+started_on = "1992-05-02"
+country = "KR"
+
+names = [
+  { name = "선미", locale = "ko", kind = "stage", original = true },
+  { name = "Sun Mi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Mimi", locale = "en", kind = "stage" },
+]
+
+labels = [{ id = "jyp-entertainment" }]
+
+urls = [
+  { url = "http://sunmi.jype.com/" },
+  { url = "https://twitter.com/sunmi_official" },
+  { url = "https://www.facebook.com/sunmiofficial" }
+]
+
+[metadata]
+blood_type = "AB"
+weight = 43
+height = 166

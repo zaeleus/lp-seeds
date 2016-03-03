@@ -1,0 +1,33 @@
+medium_ids = [
+  "4minute/crazy/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "4minute/michyeo"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song_id = "4minute/1jeolman-hasijyo"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song_id = "4minute/ganjireophyeo"
+duration = "3:04"
+
+[[tracks]]
+position = 4
+song_id = "4minute/nune-ttuine-feat-manager"
+duration = "3:38"
+
+[[tracks]]
+position = 5
+song_id = "4minute/show-me"
+duration = "3:08"
+
+[[tracks]]
+position = 6
+song_id = "4minute/chuun-bi"
+duration = "3:38"

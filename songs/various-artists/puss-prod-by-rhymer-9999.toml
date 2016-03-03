@@ -1,0 +1,13 @@
+names = [
+  { name = "Puss (Prod. by 라이머, 9999)", locale = "ko", original = true },
+  { name = "Puss (Prod. by Rhymer, 9999)", locale = "ko-Latn", default = true },
+]
+
+artist_credits = [
+  { artist_id = "aoa/jimin", separator = ", " },
+  { artist_id = "iron" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=IGo5X48VPdM", name = "Music Video" },
+]

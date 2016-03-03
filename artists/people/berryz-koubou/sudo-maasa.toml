@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1992-07-03"
+country = "JP"
+
+names = [
+  { name = "須藤茉麻", locale = "ja", kind = "real", original = true },
+  { name = "Sudo Maasa", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 166

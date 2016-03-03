@@ -1,0 +1,29 @@
+medium_ids = [
+  "matsuura-aya/chocolate-damashii/single-v/dvd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/chocolate-damashii"
+names = [
+  { name = "チョコレート魂 (PV)", locale = "ja", original = true },
+  { name = "Chocolate Damashii (PV)", locale = "ja-Latn", default = true },
+  { name = "Chocolate Soul (PV)", locale = "en" },
+]
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/chocolate-damashii"
+names = [
+  { name = "チョコレート魂 (Sweet Ayaya Ver.)", locale = "ja", original = true },
+  { name = "Chocolate Damashii (Sweet Ayaya Ver.)", locale = "ja-Latn", default = true },
+  { name = "Chocolate Soul (Sweet Ayaya Ver.)", locale = "en" },
+]
+
+[[tracks]]
+position = 3
+names = [
+  { name = "メイキング映像", locale = "ja", original = true },
+  { name = "Making Eizou", locale = "ja-Latn", default = true },
+  { name = "Making of", locale = "en" },
+]

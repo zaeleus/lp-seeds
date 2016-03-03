@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1999-06-18"
+country = "KR"
+
+names = [
+  { name = "아린", locale = "ko", kind = "stage", original = true },
+  { name = "Arin", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+labels = [{ id = "wm-entertainment" }]
+
+[metadata]
+blood_type = "O"

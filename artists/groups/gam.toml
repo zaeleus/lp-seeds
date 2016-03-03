@@ -1,0 +1,16 @@
+kind = "group"
+started_on = "2006"
+ended_on = "2009"
+country = "JP"
+
+names = [
+  { name = "ギャム", locale = "ja", original = true },
+  { name = "GAM", locale = "ja-Latn", default = true },
+]
+
+labels = [{ id = "hachama" }]
+
+members = [
+  { id = "matsuura-aya" },
+  { id = "morning-musume/fujimoto-miki" },
+]

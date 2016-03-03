@@ -1,0 +1,17 @@
+kind = "group"
+started_on = "2013-02-02"
+country = "JP"
+
+names = [
+  { name = "ジュース=ジュース", locale = "ja", original = true },
+  { name = "Juice=Juice", locale = "ja-Latn", default = true },
+]
+
+members = [
+  { id = "juice-juice/miyazaki-yuka", started_on = "2013-02-02" },
+  { id = "juice-juice/kanazawa-tomoko", started_on = "2013-02-02" },
+  { id = "juice-juice/takagi-sayuki", started_on = "2013-02-02" },
+  { id = "juice-juice/miyamoto-karin", started_on = "2013-02-02" },
+  { id = "juice-juice/uemura-akari", started_on = "2013-02-02" },
+  { id = "juice-juice/otsuka-aina", started_on = "2013-02-02", ended_on = "2013-07-05" },
+]

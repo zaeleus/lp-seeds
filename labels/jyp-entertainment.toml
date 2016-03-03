@@ -1,0 +1,12 @@
+started_on = "1997-05"
+
+names = [
+  { name = "JYP Entertainment", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "http://www.jype.com/" },
+  { url = "https://twitter.com/jypnation" },
+  { url = "https://www.facebook.com/jypnation" },
+  { url = "https://www.youtube.com/user/jypentertainment" },
+]

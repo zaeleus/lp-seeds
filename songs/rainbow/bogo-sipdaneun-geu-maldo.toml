@@ -1,0 +1,5 @@
+names = [
+  { name = "보고 싶다는 그 말도", locale = "ko", original = true },
+  { name = "Bogo Sipdaneun Geu Maldo", locale = "ko-Latn", default = true },
+  { name = "Saying I Miss You", locale = "en" },
+]

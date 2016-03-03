@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1993-09-21"
+country = "KR"
+
+names = [
+  { name = "민아", locale = "ko", kind = "stage", original = true },
+  { name = "Mina", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "권민아", locale = "ko", kind = "real" },
+  { name = "Kwon Min A", locale = "ko-Latn", kind = "real" },
+  { name = "权旻雅", locale = "zh" },
+  { name = "Quán Mín Yǎ", locale = "zh-Latn" },
+]
+
+labels = [{ id = "fnc-entertainment" }]
+
+[metadata]
+blood_type = "AB"
+weight = 43
+height = 160

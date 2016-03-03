@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1983-06-26"
+country = "KR"
+
+names = [
+  { name = "김라나", locale = "ko", kind = "real", original = true },
+  { name = "Kim Rana", locale = "ko-Latn", kind = "real", default = true },
+  { name = "라나", locale = "ko", kind = "stage" },
+  { name = "Rana", locale = "ko-Latn", kind = "stage" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+[metadata]
+blood_type = "A"
+height = 174

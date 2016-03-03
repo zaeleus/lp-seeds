@@ -1,0 +1,15 @@
+artist_id = "after-school"
+kind = "single"
+
+names = [
+  { name = "Flashback", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2012-06-21"
+country = "KR"
+catalog_number = "L100004498"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001207640" },
+]

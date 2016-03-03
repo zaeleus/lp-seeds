@@ -1,0 +1,26 @@
+artist_id = "amuro-namie"
+kind = "single"
+
+names = [
+  { name = "Red Carpet", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-12-02"
+country = "JP"
+catalog_number = "AVCN-99027/B"
+disambiguation = "CD+DVD"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/191925/products/1157021/1/" },
+]
+
+[[releases]]
+released_on = "2015-12-02"
+country = "JP"
+catalog_number = "AVCN-99028"
+disambiguation = "CD Only"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/191925/products/1157022/1/" },
+]

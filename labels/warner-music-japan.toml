@@ -1,0 +1,12 @@
+names = [
+  { name = "ワーナーミュージック・ジャパン", locale = "ja", original = true },
+  { name = "Warner Music Japan", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "http://wmg.jp/" },
+  { url = "https://www.youtube.com/user/warnermusicjapan" },
+  { url = "https://www.facebook.com/warnermusicjapan" },
+  { url = "https://twitter.com/warnermusic_jp" },
+  { url = "https://twitter.com/wmj_intl" },
+]

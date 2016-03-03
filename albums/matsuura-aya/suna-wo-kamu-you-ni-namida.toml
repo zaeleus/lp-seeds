@@ -1,0 +1,22 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "砂を噛むように・・・NAMIDA", locale = "ja", original = true },
+  { name = "Suna wo Kamu You ni... NAMIDA", locale = "ja-Latn", default = true },
+  { name = "Bitter... Tears", locale = "en" },
+]
+
+[[releases]]
+released_on = "2006-02-01"
+country = "JP"
+catalog_number = "EPCE-5385"
+media = [{ kind = "cd" }]
+disambiguation = "CD"
+
+[[releases]]
+released_on = "2006-02-08"
+country = "JP"
+catalog_number = "EPBE-5192"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"

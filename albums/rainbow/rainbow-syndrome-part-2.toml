@@ -1,0 +1,15 @@
+artist_id = "rainbow"
+kind = "lp"
+
+names = [
+  { name = "Rainbow Syndrome Part. 2", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2013-06-04"
+country = "KR"
+catalog_number = "L1000049668"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001208003" },
+]

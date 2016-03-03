@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1988-02-11"
+country = "JP"
+
+names = [
+  { name = "ジュンジュン", locale = "ja", kind = "stage", original = true },
+  { name = "Junjun", locale = "ja-Latn", kind = "stage", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 161

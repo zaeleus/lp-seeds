@@ -1,0 +1,39 @@
+artist_id = "scandal"
+kind = "lp"
+
+names = [
+  { name = "YELLOW", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-03-02"
+country = "JP"
+catalog_number = "ESCL-4590~1"
+disambiguation = "Limited Edition (CD+T-Shirt)"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/450097/products/1164947/1/" },
+  { url = "http://www.scandal-4.com/disco/archive/?ESCL-4590" },
+]
+
+[[releases]]
+released_on = "2016-03-02"
+country = "JP"
+catalog_number = "ESCL-4592~3"
+disambiguation = "Limited Edition (CD+DVD)"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/450097/products/1164948/1/" },
+  { url = "http://www.scandal-4.com/disco/archive/?ESCL-4592" },
+]
+
+[[releases]]
+released_on = "2016-03-02"
+country = "JP"
+catalog_number = "ESCL-4594"
+disambiguation = "Regular Edition"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/450097/products/1164949/1/" },
+  { url = "http://www.scandal-4.com/disco/archive/?ESCL-4594" },
+]

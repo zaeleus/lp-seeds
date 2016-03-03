@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "JP"
+
+names = [
+  { name = "児玉雨子", locale = "ja", kind = "stage", original = true },
+  { name = "Kodama Ameko", locale = "ja-Latn", kind = "stage", default = true },
+]

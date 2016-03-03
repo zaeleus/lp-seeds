@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1993-01-03"
+country = "KR"
+
+names = [
+  { name = "민희", locale = "ko", kind = "stage", original = true },
+  { name = "Min Hee", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "주민희", locale = "ko", kind = "real" },
+  { name = "Joo Min Hee", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "the-entertainment-pascal" }]
+
+[metadata]
+height = 168
+weight = 45

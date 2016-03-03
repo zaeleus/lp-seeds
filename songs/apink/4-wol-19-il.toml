@@ -1,0 +1,11 @@
+names = [
+  { name = "4월 19일", locale = "ko", original = true },
+  { name = "4 Wol 19 Il", locale = "ko-Latn", default = true },
+  { name = "April 19th", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "apink/cho-rong", kind = "lyricist" },
+  { artist_id = "kim-jin-hwan", kind = "composer" },
+  { artist_id = "kim-jin-hwan", kind = "arranger" },
+]

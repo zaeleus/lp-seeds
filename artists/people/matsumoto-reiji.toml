@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "JP"
+
+names = [
+  { name = "松本零土", locale = "ja", kind = "real", original = true },
+  { name = "Matsumoto Reiji", locale = "ja-Latn", kind = "real", default = true },
+]

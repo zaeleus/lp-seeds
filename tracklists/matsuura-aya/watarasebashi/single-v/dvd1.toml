@@ -1,0 +1,24 @@
+medium_ids = [
+  "matsuura-aya/watarasebashi/single-v/dvd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/watarasebashi"
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/watarasebashi"
+names = [
+  { name = "渡良瀬橋 (Close-up Ver.)", locale = "ja", original = true },
+  { name = "Watarasebashi (Close-up Ver.)", locale = "ja-Latn", default = true },
+  { name = "Watarase Bridge (Close-up Ver.)", locale = "en" },
+]
+
+[[tracks]]
+position = 3
+names = [
+  { name = "渡良瀬橋メイキング映像", locale = "ja", original = true },
+  { name = "Watarasebashi Making Eizou", locale = "ja-Latn", default = true },
+  { name = "Watarase Bridge Making of", locale = "en" },
+]

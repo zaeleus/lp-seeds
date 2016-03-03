@@ -1,0 +1,9 @@
+names = [
+  { name = "エコのワルツ", locale = "ja", original = true },
+  { name = "Eco no Waltz", locale = "ja-Latn", default = true },
+  { name = "Ecology Waltz", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "ecomoni" },
+]

@@ -1,0 +1,15 @@
+artist_id = "4minute"
+kind = "ep"
+
+names = [
+  { name = "Volume Up", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2012-04-09"
+country = "KR"
+catalog_number = "DK-0692"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=006616311" },
+]

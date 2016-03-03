@@ -1,0 +1,27 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "THE LAST NIGHT", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2003-09-26"
+country = "JP"
+catalog_number = "EPCE-5239"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition"
+
+[[releases]]
+released_on = "2003-09-26"
+country = "JP"
+catalog_number = "EPCE-5240"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+
+[[releases]]
+released_on = "2003-09-26"
+country = "JP"
+catalog_number = "EPBE-5090"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"

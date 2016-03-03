@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "KR"
+
+names = [
+  { name = "용감한 형제", locale = "ko", kind = "stage", original = true },
+  { name = "Brave Brothers", locale = "ko-Latn", kind = "stage", default = true },
+]

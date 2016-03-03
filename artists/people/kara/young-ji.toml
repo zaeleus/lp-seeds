@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1994-08-30"
+country = "KR"
+
+names = [
+  { name = "영지", locale = "ko", kind = "stage", original = true },
+  { name = "Young Ji", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "허영지", locale = "ko", kind = "real" },
+  { name = "Heo Young Ji", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/kara_youngji_hur/" },
+]
+
+[metadata]
+blood_type = "A"
+height = 166
+weight = 49

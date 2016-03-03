@@ -1,0 +1,12 @@
+medium_ids = [
+  "morning-musume/tsumetai-kaze-to-kataomoi-endless-sky-one-and-only/limited-edition-a/dvd2",
+]
+
+[[tracks]]
+position = 1
+song_id = "morning-musume/tsumetai-kaze-to-kataomoi"
+names = [
+  { name = "冷たい風と片思い (Music Video)", locale = "ja", original = true },
+  { name = "Tsumetai Kaze to Kataomoi (Music Video)", locale = "ja-Latn", default = true },
+  { name = "The Cold Wind and Lonely Love (Music Video)", locale = "en" },
+]

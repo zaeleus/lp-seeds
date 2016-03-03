@@ -1,0 +1,14 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "トロピカ～ル恋して～る", locale = "ja", original = true },
+  { name = "Tropica~l Koishite~ru", locale = "ja-Latn", default = true },
+  { name = "Tropical Loving", locale = "en" },
+]
+
+[[releases]]
+released_on = "2001-06-13"
+country = "JP"
+catalog_number = "EPCE-5105"
+media = [{ kind = "cd" }]

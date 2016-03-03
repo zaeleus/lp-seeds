@@ -1,0 +1,10 @@
+names = [
+  { name = "변했어", locale = "ko", original = true },
+  { name = "Byeonhaesseo", locale = "ko-Latn", default = true },
+  { name = "Deepened", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=TsD79puVGRI", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=ZK_htN-w2iI", name = "Choreography Video" },
+]

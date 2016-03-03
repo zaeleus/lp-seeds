@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "JP"
+
+names = [
+  { name = "サエキけんぞう", locale = "ja", kind = "real", original = true },
+  { name = "Saeki Kenzou", locale = "ja-Latn", kind = "real", default = true },
+]

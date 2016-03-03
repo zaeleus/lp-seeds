@@ -1,0 +1,23 @@
+medium_ids = [
+  "fiestar/yezi/foresight-dream/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "fiestar/yezi/cider"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song_id = "fiestar/yezi/dalnara"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song_id = "fiestar/yezi/sse-sse-sse-feat-gilme-kittib-ahn-soo-min"
+duration = "2:59"
+
+[[tracks]]
+position = 4
+song_id = "fiestar/yezi/cider-inst"
+duration = "3:08"

@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1994-02-12"
+country = "KR"
+
+names = [
+  { name = "수빈", locale = "ko", kind = "stage", original = true },
+  { name = "Su Bin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조수빈", locale = "ko", kind = "real" },
+  { name = "Cho Su Bin", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "happyface-entertainment" }]
+
+[metadata]
+height = 174
+weight = 50
+blood_type = "AB"

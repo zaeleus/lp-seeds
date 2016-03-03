@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1989-12-05"
+country = "KR"
+
+names = [
+  { name = "유리", locale = "ko", kind = "stage", original = true },
+  { name = "Yuri", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "권유리", locale = "ko", kind = "real" },
+  { name = "Kwon Yu Ri", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 167
+weight = 48

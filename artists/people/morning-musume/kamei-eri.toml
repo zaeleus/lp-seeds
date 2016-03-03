@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1988-12-23"
+country = "JP"
+
+names = [
+  { name = "亀井絵里", locale = "ja", kind = "real", original = true },
+  { name = "Kamei Eri", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "AB"
+height = 157

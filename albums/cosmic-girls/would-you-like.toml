@@ -1,0 +1,25 @@
+artist_id = "cosmic-girls"
+kind = "ep"
+
+names = [
+  { name = "WOULD YOU LIKE?", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-02-25"
+country = "KR"
+media = [{ kind = "digital" }]
+url = [
+  { url = "https://itunes.apple.com/album/would-you-like-ep/id1087651006" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2669168" },
+  { url = "http://www.mnet.com/album/531754" },
+]
+
+[[releases]]
+released_on = "2016-02-25"
+country = "KR"
+catalog_number = "L100005182"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=005600268" },
+]

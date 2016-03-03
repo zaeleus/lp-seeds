@@ -1,0 +1,15 @@
+kind = "group"
+started_on = "2013"
+country = "KR"
+
+names = [
+  { name = "투윤", locale = "ko", original = true },
+  { name = "2YOON", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+members = [
+  { id = "4minute/ga-yoon" },
+  { id = "4minute/ji-yoon" },
+]

@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1989-09-22"
+country = "KR"
+
+names = [
+  { name = "효연", locale = "ko", kind = "stage", original = true },
+  { name = "Hyoyeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김효연", locale = "ko", kind = "real" },
+  { name = "Kim Hyo Yeon", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 160
+weight = 49

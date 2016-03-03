@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1985-04-10"
+country = "KR"
+
+names = [
+  { name = "길미", locale = "ko", kind = "real", original = true },
+  { name = "Gilme", locale = "ko-Latn", kind = "real", default = true },
+]
+
+urls = [
+  { url = "https://www.instagram.com/gilmebaby/" },
+  { url = "https://twitter.com/gilmebaby" },
+]

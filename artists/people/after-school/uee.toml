@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1988-04-09"
+country = "KR"
+
+names = [
+  { name = "유이", locale = "ko", kind = "stage", original = true },
+  { name = "UEE", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김유진", locale = "ko", kind = "real" },
+  { name = "Kim Yoo Jin", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "O"
+height = 171
+weight = 53

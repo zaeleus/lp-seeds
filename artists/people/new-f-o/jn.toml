@@ -1,0 +1,23 @@
+kind = "person"
+started_on = "1989-10-17"
+country = "KR"
+
+names = [
+  { name = "제이엔", locale = "ko", kind = "stage", original = true },
+  { name = "JN", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "지선", locale = "ko", kind = "stage" },
+  { name = "Ji Sun", locale = "ko-Latn", kind = "stage" },
+  { name = "황지선", locale = "ko", kind = "real" },
+  { name = "Hwang Ji Sun", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/jjiyu1004/" },
+  { url = "https://www.facebook.com/people/%EC%B0%8C%EC%9C%A0/100007954569804" },
+  { url = "https://twitter.com/NewfoJN" },
+]
+
+[metadata]
+blood_type = "A"
+height = 165
+weight = 45

@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1999-05-14"
+country = "KR"
+
+names = [
+  { name = "다영", locale = "ko", kind = "stage", original = true },
+  { name = "Dayoung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "임다영", locale = "ko", kind = "real" },
+  { name = "Yim Da Young", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = ""

@@ -1,0 +1,10 @@
+names = [
+  { name = "그녀는 바람둥이야 (Feat. 동우 of 인피니트) (Inst.)", locale = "ko", original = true },
+  { name = "Geunyeoneun Baramdungiya (Feat. Dong Woo of Infinite) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "She's a Flirt (Feat. Dong Woo of Infinite) (Inst.)", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "lovelyz/baby-soul", separator = " + " },
+  { artist_id = "yoo-ji-ah" },
+]

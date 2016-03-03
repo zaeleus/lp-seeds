@@ -1,0 +1,17 @@
+artist_id = "-virtual/baby-soul-yoo-ji-ah"
+kind = "single"
+
+names = [
+  { name = "그녀는 바람둥이야", locale = "ko", original = true },
+  { name = "Geunyeoneun Baramdungiya", locale = "ko-Latn", default = true },
+]
+
+artist_credits = [
+  { artist_id = "lovelyz/baby-soul", separator = " + " },
+  { artist_id = "yoo-ji-ah" },
+]
+
+[[releases]]
+released_on = "2012-01-18"
+country = "KR"
+media = [{ kind = "digital" }]

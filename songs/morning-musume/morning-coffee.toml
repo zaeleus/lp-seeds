@@ -1,0 +1,16 @@
+names = [
+  { name = "モーニングコーヒー", locale = "ja", original = true },
+  { name = "Morning Coffee", locale = "en", default = true },
+]
+
+contributions = [
+  { artist_id = "morning-musume/nakazawa-yuko", kind = "performer" },
+  { artist_id = "morning-musume/ishiguro-aya", kind = "performer" },
+  { artist_id = "morning-musume/iida-kaori", kind = "performer" },
+  { artist_id = "morning-musume/abe-natsumi", kind = "performer" },
+  { artist_id = "morning-musume/fukuda-asuka", kind = "performer" },
+
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "sakurai-tetsutaro", kind = "arranger" },
+]

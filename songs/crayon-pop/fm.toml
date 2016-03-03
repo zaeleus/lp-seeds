@@ -1,0 +1,8 @@
+names = [
+  { name = "FM", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=tna90t2je-4", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=T4C0jPD9C2c", name = "Music Video (Choreography Ver.)" },
+]

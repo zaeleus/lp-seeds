@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1994-04-02"
+country = "JP"
+
+names = [
+  { name = "宮崎由加", locale = "ja", kind = "real", original = true },
+  { name = "Miyazaki Yuka", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 160

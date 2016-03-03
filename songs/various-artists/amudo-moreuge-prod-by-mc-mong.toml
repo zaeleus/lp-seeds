@@ -1,0 +1,14 @@
+names = [
+  { name = "아무도 모르게 (Prod. by MC몽)", locale = "ko", original = true },
+  { name = "Amudo Moreuge (Prod. by MC Mong)", locale = "ko-Latn", default = true },
+  { name = "Like Nobody Knows (Prod. by MC Mong)", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "cheetah", separator = ", " },
+  { artist_id = "ailee" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=uSBjA5_vxEQ", name = "Music Video" },
+]

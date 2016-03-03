@@ -1,0 +1,11 @@
+names = [
+  { name = "알려 줄게", locale = "ko", original = true },
+  { name = "Allyeo Julge", locale = "ko-Latn", default = true },
+  { name = "I'll Tell You", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "4minute/ji-hyun", separator = ", " },
+  { artist_id = "4minute/ji-yoon", separator = ", " },
+  { artist_id = "4minute/so-hyun" },
+]

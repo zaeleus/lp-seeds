@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1993-09-03"
+country = "KR"
+
+names = [
+  { name = "소정", locale = "ko", kind = "stage", original = true },
+  { name = "So Jung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이소정", locale = "ko", kind = "real" },
+  { name = "Lee So Jung", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "polaris-entertainment" }]

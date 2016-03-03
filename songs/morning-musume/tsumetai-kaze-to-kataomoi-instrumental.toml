@@ -1,0 +1,5 @@
+names = [
+  { name = "冷たい風と片思い (Instrumental)", locale = "ja", original = true },
+  { name = "Tsumetai Kaze to Kataomoi (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "The Cold Wind and Lonely Love (Instrumental)", locale = "en" },
+]

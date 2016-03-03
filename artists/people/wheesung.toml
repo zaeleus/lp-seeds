@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1982-02-05"
+country = "KR"
+
+names = [
+  { name = "휘성", locale = "ko", kind = "stage", original = true },
+  { name = "Wheesung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "최휘성", locale = "ko", kind = "real" },
+  { name = "Choi Whee Sung", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "O"
+height = 172
+weight = 63

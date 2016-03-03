@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1987-09-09"
+country = "KR"
+
+names = [
+  { name = "정서영", locale = "ko", kind = "real", original = true },
+  { name = "Jung Seo Young", locale = "ko-Latn", kind = "real", default = true },
+  { name = "재경", locale = "ko", kind = "stage" },
+  { name = "Jae Kyung", locale = "ko-Latn", kind = "stage" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+[metadata]
+blood_type = "O"
+height = 174
+weight = 50

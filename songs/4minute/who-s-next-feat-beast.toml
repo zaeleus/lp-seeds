@@ -1,0 +1,4 @@
+names = [
+  { name = "Who's Next? (Feat. 비스트)", locale = "ko", original = true },
+  { name = "Who's Next? (Feat. BEAST)", locale = "ko-Latn", default = true },
+]

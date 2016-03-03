@@ -1,0 +1,15 @@
+names = [
+  { name = "호이 호이", locale = "ko", original = true },
+  { name = "Hoi Hoi", locale = "ko-Latn", default = true },
+]
+
+contributions = [
+  { artist_id = "rainbow/seung-ah", kind = "performer" },
+  { artist_id = "rainbow/ji-sook", kind = "performer" },
+  { artist_id = "rainbow/hyun-young", kind = "performer" },
+  { artist_id = "kim-hye-seong", kind = "lyricist" },
+  { artist_id = "blacc-hole", kind = "composer" },
+  { artist_id = "bak-se-hyeon", kind = "composer" },
+  { artist_id = "blacc-hole", kind = "arranger" },
+  { artist_id = "bak-se-hyeon", kind = "arranger" },
+]

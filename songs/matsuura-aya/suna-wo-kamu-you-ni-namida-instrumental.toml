@@ -1,0 +1,5 @@
+names = [
+  { name = "砂を噛むように・・・NAMIDA (Instrumental)", locale = "ja", original = true },
+  { name = "Suna wo Kamu You ni... NAMIDA (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Bitter... Tears (Instrumental)", locale = "en" },
+]

@@ -1,0 +1,22 @@
+kind = "person"
+started_on = "1989-08-12"
+country = "KR"
+
+names = [
+  { name = "선예", locale = "ko", kind = "stage", original = true },
+  { name = "Sun Ye", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "민선예", locale = "ko", kind = "real" },
+  { name = "Min Sun Ye", locale = "ko-Latn", kind = "real" },
+  { name = "Sun", locale = "en", kind = "stage" },
+]
+
+labels = [{ id = "jyp-entertainment" }]
+
+urls = [
+  { url = "https://twitter.com/wgsun" }
+]
+
+[metadata]
+blood_type = "A"
+weight = 45
+height = 162

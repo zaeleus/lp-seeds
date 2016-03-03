@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1980-05-22"
+country = "KR"
+
+names = [
+  { name = "타블로", locale = "ko", kind = "stage", original = true },
+  { name = "Tablo", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이선웅", locale = "ko", kind = "real" },
+  { name = "Lee Seong Woong", locale = "ko-Latn", kind = "real" },
+  { name = "Daniel Armand Lee", locale = "en", kind = "real" },
+]
+
+urls = [
+  { url = "http://www.ygfamily.com/artist/About.asp?LANGDIV=K&ATYPE=2&ARTIDX=34" },
+  { url = "https://www.facebook.com/ygtablo" },
+  { url = "https://twitter.com/blobyblo" },
+]

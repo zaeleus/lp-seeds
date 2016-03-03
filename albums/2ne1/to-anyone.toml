@@ -1,0 +1,15 @@
+artist_id = "2ne1"
+kind = "lp"
+
+names = [
+  { name = "To Anyone", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2010-09-09"
+country = "KR"
+catalog_number = "CMBC-9601"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=034201471" },
+]

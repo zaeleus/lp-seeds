@@ -1,0 +1,33 @@
+kind = "group"
+started_on = "2016-02-25"
+country = "KR"
+
+names = [
+  { name = "우주소녀", locale = "ko", original = true },
+  { name = "Wu Ju So Nyeo", locale = "ko-Latn" },
+  { name = "WJSN", locale = "ko-Latn" },
+  { name = "宇宙少女", locale = "ja" },
+  { name = "Uchuu Shoujo", locale = "ja-Latn" },
+  { name = "Cosmic Girls", locale = "en", default = true },
+]
+
+members = [
+  { id = "cosmic-girls/cheng-xiao" },
+  { id = "cosmic-girls/bona" },
+  { id = "cosmic-girls/dayoung" },
+  { id = "cosmic-girls/xuan-yi" },
+  { id = "cosmic-girls/eunseo" },
+  { id = "cosmic-girls/yeoreum" },
+  { id = "cosmic-girls/seol-a" },
+  { id = "cosmic-girls/exy" },
+  { id = "cosmic-girls/soobin" },
+  { id = "cosmic-girls/dawon" },
+  { id = "cosmic-girls/mei-qi" },
+  { id = "cosmic-girls/luda" },
+]
+
+urls = [
+  { url = "http://www.starship-ent.com/cosmicgirls/" },
+  { url = "https://twitter.com/WJSN_Cosmic" },
+  { url = "https://www.instagram.com/wjsn_cosmic/" },
+]

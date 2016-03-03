@@ -1,0 +1,22 @@
+names = [
+  { name = "볼 좀 꺼줘요", locale = "ko", original = true },
+  { name = "Bol Jom Ggeojwoyo", locale = "ko-Latn", default = true },
+  { name = "Turn Off The Lights", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "fiestar/jei", kind = "performer" },
+  { artist_id = "fiestar/cao-lu", kind = "performer" },
+  { artist_id = "fiestar/linzy", kind = "performer" },
+  { artist_id = "fiestar/hyemi", kind = "performer" },
+  { artist_id = "fiestar/yezi", kind = "performer" },
+
+  { artist_id = "zuwan", kind = "lyricist" },
+  { artist_id = "fiestar/yezi", kind = "lyricist" },
+
+  { artist_id = "zuwan", kind = "composer" },
+  { artist_id = "yeom-dong-gun", kind = "composer" },
+
+  { artist_id = "zuwan", kind = "arranger" },
+  { artist_id = "yeom-dong-gun", kind = "arranger" },
+]

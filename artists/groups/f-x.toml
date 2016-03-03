@@ -1,0 +1,20 @@
+kind = "group"
+started_on = "2012"
+country = "KR"
+
+names = [
+  { name = "에프엑스", locale = "ko", original = true },
+  { name = "f(x)", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "f-x/victoria" },
+  { id = "f-x/amber" },
+  { id = "f-x/luna" },
+  { id = "f-x/krystal" },
+  { id = "f-x/sulli", ended_on = "2015-08-07" },
+]
+
+urls = [
+  { url = "http://fx.smtown.com/" },
+]

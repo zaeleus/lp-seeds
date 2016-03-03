@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1998-12-30"
+country = "JP"
+
+names = [
+  { name = "植村あかり", locale = "ja", kind = "real", original = true },
+  { name = "Uemura Akari", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 162

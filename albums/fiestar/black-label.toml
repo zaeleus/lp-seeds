@@ -1,0 +1,15 @@
+artist_id = "fiestar"
+kind = "ep"
+
+names = [
+  { name = "Black Label", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-03-04"
+country = "KR"
+catalog_number = "L100005013"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001400624" },
+]

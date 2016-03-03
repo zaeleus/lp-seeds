@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1989-11-11"
+country = "JP"
+
+names = [
+  { name = "田中れいな", locale = "ja", kind = "real", original = true },
+  { name = "Tanaka Reina", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 152

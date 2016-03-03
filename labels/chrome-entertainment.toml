@@ -1,0 +1,7 @@
+names = [
+  { name = "Chrome Entertainment", locale = "ko", default = true, original = true },
+]
+
+urls = [
+  { url = "http://www.chrome-ent.co.kr/" },
+]

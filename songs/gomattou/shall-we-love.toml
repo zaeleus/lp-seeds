@@ -1,0 +1,9 @@
+names = [
+  { name = "SHALL WE LOVE?", locale = "ja", original = true, default = true },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "akira", kind = "arranger" },
+]

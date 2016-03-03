@@ -1,0 +1,9 @@
+names = [
+  { name = "고마워 :)", locale = "ko", original = true },
+  { name = "Gomawo :)", locale = "ko-Latn", default = true },
+  { name = "Thank You :)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=0WGDBzBzqKM", name = "Music Video" },
+]

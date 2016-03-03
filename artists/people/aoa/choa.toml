@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1990-03-06"
+country = "KR"
+
+names = [
+  { name = "초아", locale = "ko", kind = "stage", original = true },
+  { name = "Choa", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박초아", locale = "ko", kind = "real" },
+  { name = "Park Cho Ah", locale = "ko-Latn", kind = "real" },
+  { name = "朴初雅", locale = "zh" },
+  { name = "Pǔ Chū Yǎ", locale = "zh-Latn" },
+]
+
+labels = [{ id = "fnc-entertainment" }]
+
+[metadata]
+blood_type = "O"
+weight = 44
+height = 160

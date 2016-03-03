@@ -1,0 +1,12 @@
+names = [
+  { name = "On & On (Prod. by The Quiett)", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [
+  { artist_id = "yuk-ji-dam", separator = ", " },
+  { artist_id = "15and/yerin" }, # TODO check name
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=z9MgWodzAHk", name = "Music Video" },
+]

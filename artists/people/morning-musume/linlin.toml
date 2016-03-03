@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1991-03-11"
+country = "JP"
+
+names = [
+  { name = "リンリン", locale = "ja", kind = "stage", original = true },
+  { name = "Linlin", locale = "ja-Latn", kind = "stage", default = true },
+]
+
+[metadata]
+blood_type = "B"
+height = 153

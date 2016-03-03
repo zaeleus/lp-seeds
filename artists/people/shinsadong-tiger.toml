@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "KR"
+
+names = [
+  { name = "신사동 호랭이", locale = "ko", kind = "stage", original = true },
+  { name = "Shinsadong Tiger", locale = "ko-Latn", kind = "stage", default = true },
+]

@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1994-06-09"
+country = "KR"
+
+names = [
+  { name = "혜리", locale = "ko", kind = "stage", original = true },
+  { name = "Hyeri", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이혜리", locale = "ko", kind = "real" },
+  { name = "Lee Hye Ri", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/Girls_Day_Hyeri" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 166
+weight = 50

@@ -1,0 +1,13 @@
+medium_ids = [
+  "rainbow-pixie/hoi-hoi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "rainbow-pixie/hoi-hoi"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song_id = "rainbow-pixie/hoi-hoi-inst"
+duration = "3:19"

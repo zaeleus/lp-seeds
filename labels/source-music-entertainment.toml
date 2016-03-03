@@ -1,0 +1,3 @@
+names = [
+  { name = "Source Music Entertainment", locale = "ko", default = true, original = true },
+]

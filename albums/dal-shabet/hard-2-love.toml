@@ -1,0 +1,26 @@
+artist_id = "dal-shabet"
+kind = "single"
+
+names = [
+  { name = "Hard 2 Love", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-11-04"
+country = "JP"
+catalog_number = "2015-11-04"
+media = [{ kind = "cd" }]
+disambiguation = "Premium Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/534104/products/1152129/1/" },
+]
+
+[[releases]]
+released_on = "2015-11-04"
+country = "JP"
+catalog_number = "2015-11-04"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/534104/products/1152128/1/" },
+]

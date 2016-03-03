@@ -1,0 +1,18 @@
+kind = "person"
+started_on = "1993-09-03"
+country = "KR"
+
+names = [
+  { name = "주니엘", locale = "ko", kind = "stage", original = true },
+  { name = "JUNIEL", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "최준희", locale = "ko", kind = "real" },
+  { name = "Choi Jun Hee", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "fnc-entertainment" }]
+
+urls = [
+  { url = "http://www.fncent.com/JUNIEL/b/introduce/1302" },
+  { url = "https://www.facebook.com/officialjuniel" },
+  { url = "https://twitter.com/junielism" },
+]

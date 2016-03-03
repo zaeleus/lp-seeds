@@ -1,0 +1,14 @@
+names = [
+  { name = "T4SA (Prod. by MC메타)", locale = "ko", original = true },
+  { name = "T4SA (Prod. by MC Meta)", locale = "ko-Latn", default = true },
+]
+
+artist_credits = [
+  { artist_id = "aoa/jimin", separator = ", " },
+  { artist_id = "mc-meta", separator = ", " },
+  { artist_id = "nuck" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=UhTLf2vSJwE", name = "Music Video" },
+]

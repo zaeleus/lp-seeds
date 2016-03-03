@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1998-07-15"
+country = "KR"
+
+names = [
+  { name = "성소", locale = "ko", kind = "stage", original = true },
+  { name = "Cheng Xiao", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "小小", locale = "zh", kind = "real" },
+  { name = "Xiao Xiao", locale = "zh-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "B"

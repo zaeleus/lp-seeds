@@ -1,0 +1,28 @@
+medium_ids = [
+  "lovendor/takaramono-itsuwari/regular-edition-b/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "lovendor/takaramono"
+duration = "4:42"
+
+[[tracks]]
+position = 2
+song_id = "lovendor/itsuwari"
+duration = "4:15"
+
+[[tracks]]
+position = 3
+song_id = "lovendor/yell-anata-ni-okuru"
+duration = "3:47"
+
+[[tracks]]
+position = 4
+song_id = "lovendor/takaramono-instrumental"
+duration = "4:42"
+
+[[tracks]]
+position = 5
+song_id = "lovendor/itsuwari-instrumental"
+duration = "4:18"

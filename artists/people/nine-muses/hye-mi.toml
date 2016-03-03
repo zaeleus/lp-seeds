@@ -1,0 +1,21 @@
+kind = "person"
+started_on = "1991-04-03"
+country = "KR"
+
+names = [
+  { name = "혜미", locale = "ko", kind = "stage", original = true },
+  { name = "Hye Mi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "표혜미", locale = "ko", kind = "real" },
+  { name = "Pyo Hye Mi", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+urls = [
+  { url = "https://www.instagram.com/pyopyohyemi/" },
+  { url = "https://twitter.com/hyemiiiii_" },
+]
+
+[metadata]
+blood_type = "B"
+height = 171

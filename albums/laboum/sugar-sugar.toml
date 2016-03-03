@@ -1,0 +1,15 @@
+artist_id = "laboum"
+kind = "single"
+
+names = [
+  { name = "Sugar Sugar", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-03-25"
+country = "KR"
+catalog_number = "CMDC-10529"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=007700085" },
+]

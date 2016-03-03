@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1989-04-18"
+country = "KR"
+
+names = [
+  { name = "제시카", locale = "ko", kind = "stage", original = true },
+  { name = "Jessica", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정수연", locale = "ko", kind = "real" },
+  { name = "Jung Soo Yeon", locale = "ko-Latn", kind = "real" },
+  { name = "제시카정", locale = "ko", kind = "real" },
+  { name = "Jessica Jung", locale = "en", kind = "real" },
+]
+
+[metadata]
+blood_type = "B"
+height = 163
+weight = 45

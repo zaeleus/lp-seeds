@@ -1,0 +1,38 @@
+medium_ids = [
+  "apink/pink-blossom/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "apink/sunday-monday"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song_id = "apink/mr-chu-on-stage-version"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song_id = "apink/crystal"
+duration = "3:24"
+
+[[tracks]]
+position = 4
+song_id = "apink/sarangdonghwa"
+duration = "3:58"
+
+[[tracks]]
+position = 5
+song_id = "apink/so-long"
+duration = "3:41"
+
+[[tracks]]
+position = 6
+song_id = "apink/mr-chu"
+duration = "3:34"
+
+[[tracks]]
+position = 7
+song_id = "apink/mr-chu-on-stage-version-inst"
+duration = "3:24"

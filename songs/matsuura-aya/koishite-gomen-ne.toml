@@ -1,0 +1,5 @@
+names = [
+  { name = "恋してごめんね", locale = "ja", original = true },
+  { name = "Koishite Gomen ne", locale = "ja-Latn", default = true },
+  { name = "Sorry I Fell in Love", locale = "en" },
+]

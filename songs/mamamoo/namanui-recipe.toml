@@ -1,0 +1,9 @@
+names = [
+  { name = "나만의 Recipe", locale = "ko", original = true },
+  { name = "Namanui Recipe", locale = "ko-Latn", default = true },
+  { name = "My Recipe", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=TRzTZs3Fqik", name = "Music Video" },
+]

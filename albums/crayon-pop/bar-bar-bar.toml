@@ -1,0 +1,21 @@
+artist_id = "crayon-pop"
+kind = "single"
+
+names = [
+  { name = "빠빠빠", locale = "ko", original = true },
+  { name = "Bar Bar Bar", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released_on = "2013-06-20"
+country = "KR"
+media = [{ kind = "digital" }]
+
+[[releases]]
+released_on = "2013-07-08"
+country = "KR"
+catalog_number = "CMDC-10128"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=034202238" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "涙のわけ", locale = "ja", original = true },
+  { name = "Namida no Wake", locale = "ja-Latn", default = true },
+  { name = "Reason For Tears", locale = "en" },
+]

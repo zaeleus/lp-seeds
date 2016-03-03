@@ -1,0 +1,67 @@
+medium_ids = [
+  "matsuura-aya/t-w-o/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/yeah-meccha-holiday"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/the-bigaku"
+duration = "4:06"
+
+[[tracks]]
+position = 3
+song_id = "matsuura-aya/anata-no-kanojo"
+duration = "4:42"
+
+[[tracks]]
+position = 4
+song_id = "matsuura-aya/momoiro-kataomoi"
+duration = "4:20"
+
+[[tracks]]
+position = 5
+song_id = "matsuura-aya/diary"
+duration = "4:26"
+
+[[tracks]]
+position = 6
+song_id = "matsuura-aya/shine-more"
+duration = "4:04"
+
+[[tracks]]
+position = 7
+song_id = "gomattou/shall-we-love"
+duration = "4:47"
+names = [
+  { name = "SHALL WE LOVE? (松浦 Version)", locale = "ja", original = true },
+  { name = "SHALL WE LOVE? (Matsuura Version)", locale = "ja-Latn", default = true },
+]
+
+[[tracks]]
+position = 8
+song_id = "matsuura-aya/from-that-sky-kaedama-wa-katamen-de"
+duration = "4:15"
+
+[[tracks]]
+position = 9
+song_id = "matsuura-aya/date-biyori"
+duration = "3:04"
+
+[[tracks]]
+position = 10
+song_id = "matsuura-aya/sougen-no-hito"
+duration = "5:12"
+
+[[tracks]]
+position = 11
+song_id = "matsuura-aya/navi-ga-kowareta-oujisama-love-chance"
+duration = "4:03"
+
+[[tracks]]
+position = 12
+song_id = "matsuura-aya/motokare"
+duration = "4:03"

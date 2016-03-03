@@ -1,0 +1,21 @@
+artist_id = "crayon-pop"
+kind = "single"
+
+names = [
+  { name = "꾸리스마스", locale = "ko", original = true },
+  { name = "Lonely Christmas", locale = "en", default = true },
+]
+
+[[releases]]
+released_on = "2013-11-26"
+country = "KR"
+media = [{ kind = "digital" }]
+
+[[releases]]
+released_on = "2013-11-26"
+country = "KR"
+catalog_number = "S90731C"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=800212243" },
+]

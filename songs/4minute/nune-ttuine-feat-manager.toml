@@ -1,0 +1,5 @@
+names = [
+  { name = "눈에 띄네 (feat. Manager)", locale = "ko", original = true },
+  { name = "Nune Ttuine (feat. Manager)", locale = "ko-Latn", default = true },
+  { name = "Stand Out (feat. Manager)", locale = "en" },
+]

@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1992-07-06"
+country = "KR"
+
+names = [
+  { name = "베이비 소울", locale = "ko", kind = "stage", original = true },
+  { name = "Baby Soul", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이수정", locale = "ko", kind = "real" },
+  { name = "Lee Soo Jung", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "woollim-entertainment" }]
+
+[metadata]
+blood_type = "O"
+height = 158
+weight = 41

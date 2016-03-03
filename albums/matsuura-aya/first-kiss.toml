@@ -1,0 +1,15 @@
+artist_id = "matsuura-aya"
+kind = "ep"
+
+names = [
+  { name = "ファーストKISS", locale = "ja", original = true },
+  { name = "First KISS", locale = "ja-Latn", default = true },
+  { name = "First KISS", locale = "en" },
+]
+
+[[releases]]
+released_on = "2002-01-01"
+country = "JP"
+catalog_number = "EPCE-5136"
+media = [{ kind = "cd" }]
+

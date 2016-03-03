@@ -1,0 +1,21 @@
+kind = "person"
+started_on = ""
+country = "KR"
+
+names = [
+  { name = "엠버", locale = "ko", kind = "stage", original = true },
+  { name = "Amber", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Amber Josephine Liu", locale = "en", kind = "real" },
+  { name = "劉逸雲", locale = "zn", kind = "real" },
+  { name = "Liu Yiyun", locale = "zn-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/ajol_llama/" },
+  { url = "https://twitter.com/llama_ajol" },
+]
+
+[metadata]
+blood_type = "B"
+height = 166
+weight = 56

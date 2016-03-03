@@ -1,0 +1,9 @@
+names = [
+  { name = "안녕", locale = "ko", original = true },
+  { name = "Annyeong", locale = "ko-Latn", default = true },
+  { name = "Hi~", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=3H85SIUCY_I", name = "Music Video" },
+]

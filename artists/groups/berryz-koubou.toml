@@ -1,0 +1,21 @@
+kind = "group"
+started_on = "2004"
+ended_on = "2015-03-03"
+country = "JP"
+
+names = [
+  { name = "Berryz工房", locale = "ja", original = true },
+  { name = "Berryz Koubou", locale = "ja-Latn", default = true },
+]
+
+members = [
+  { id = "berryz-koubou/shimizu-saki" },
+  { id = "berryz-koubou/tsugunaga-momoko" },
+  { id = "berryz-koubou/tokunaga-chinami" },
+  { id = "berryz-koubou/sudo-maasa" },
+  { id = "berryz-koubou/natsuyaki-miyabi" },
+  { id = "berryz-koubou/kumai-yurina" },
+  { id = "berryz-koubou/sugaya-risako" },
+
+  { id = "berryz-koubou/ishimura-maiha", ended_on = "2005-10-02" },
+]

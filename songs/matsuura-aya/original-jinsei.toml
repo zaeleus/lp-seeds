@@ -1,0 +1,5 @@
+names = [
+  { name = "オリジナル人生", locale = "ja", original = true },
+  { name = "Original Jinsei", locale = "ja-Latn", default = true },
+  { name = "Original Life", locale = "en" },
+]

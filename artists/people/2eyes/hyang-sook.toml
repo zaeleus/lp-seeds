@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1992-04-24"
+country = "KR"
+
+names = [
+  { name = "향숙", locale = "ko", kind = "stage", original = true },
+  { name = "Hyang Sook", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이향숙", locale = "ko", kind = "real" },
+  { name = "Lee Hyang Sook", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "sidushq" }]
+
+urls = [
+  { url = "https://instagram.com/baby_sook/" },
+]
+
+[metadata]
+blood_type = "A"
+height = 165

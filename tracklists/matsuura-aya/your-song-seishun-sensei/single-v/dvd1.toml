@@ -1,0 +1,24 @@
+medium_ids = [
+  "matsuura-aya/your-song-seishun-sensei/single-v/dvd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/your-song-seishun-sensei"
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/your-song-seishun-sensei"
+names = [
+  { name = "YOUR SONG〜青春宣誓〜 (Close-up Ver.)", locale = "ja", original = true },
+  { name = "YOUR SONG ~Seishun Sensei~ (Close-up Ver.)", locale = "ja-Latn", default = true },
+  { name = "YOUR SONG ~Oath of Youth~ (Close-up Ver.)", locale = "en" },
+]
+
+[[tracks]]
+position = 3
+names = [
+  { name = "メイキング映像", locale = "ja", original = true },
+  { name = "Making Eizou", locale = "ja-Latn", default = true },
+  { name = "Making of", locale = "en" },
+]

@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1987-06-17"
+country = "JP"
+
+names = [
+  { name = "辻希美", locale = "ja", kind = "real", original = true },
+  { name = "Tsuji Nozomi", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 151

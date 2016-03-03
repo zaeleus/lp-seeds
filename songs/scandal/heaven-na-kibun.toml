@@ -1,0 +1,5 @@
+names = [
+  { name = "ヘブンな気分", locale = "ja", original = true },
+  { name = "Heaven na Kibun", locale = "ja-Latn", default = true },
+  { name = "Heavenly Mood", locale = "en" },
+]

@@ -1,0 +1,17 @@
+names = [
+  { name = "미친개 (feat. San E)", locale = "ko", original = true },
+  { name = "Michingae (feat. San E)", locale = "ko-Latn", default = true },
+  { name = "Crazy Dog (feat. San E)", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "fiestar/yezi", kind = "performer" },
+  { artist_id = "san-e", kind = "performer" },
+  { artist_id = "fiestar/yezi", kind = "lyricist" },
+  { artist_id = "san-e", kind = "lyricist" },
+  { artist_id = "rhymer", kind = "composer" },
+  { artist_id = "lish", kind = "composer" },
+  { artist_id = "masterkey", kind = "composer" },
+  { artist_id = "lish", kind = "arranger" },
+  { artist_id = "masterkey", kind = "arranger" },
+]

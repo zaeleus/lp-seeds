@@ -1,0 +1,37 @@
+artist_id = "gam"
+kind = "single"
+
+names = [
+  { name = "メロディーズ", locale = "ja", original = true },
+  { name = "Melodies", locale = "en", default = true },
+]
+
+[[releases]]
+released_on = "2006-10-18"
+country = "JP"
+catalog_number = "HKCN-50040~1"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50040/" },
+]
+
+[[releases]]
+released_on = "2006-10-18"
+country = "JP"
+catalog_number = "HKCN-50042"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50040/" },
+]
+
+[[releases]]
+released_on = "2006-11-15"
+country = "JP"
+catalog_number = "HKBN-50074"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"
+urls = [
+  { url = "http://www.up-front-works.jp/release/detail/HKBN-50074/" },
+]

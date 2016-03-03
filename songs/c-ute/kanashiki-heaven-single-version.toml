@@ -1,0 +1,4 @@
+names = [
+  { name = "悲しきヘブン(Single Version)", locale = "ja", original = true },
+  { name = "Kanashiki Heaven (Single Version)", locale = "ja-Latn", default = true },
+]

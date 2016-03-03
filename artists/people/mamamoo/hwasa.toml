@@ -1,0 +1,10 @@
+kind = "person"
+started_on = "1995-07-23"
+country = "KR"
+
+names = [
+  { name = "화사", locale = "ko", kind = "stage", original = true },
+  { name = "Hwasa", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "안혜진", locale = "ko", kind = "real" },
+  { name = "Ahn Hye Jin", locale = "ko-Latn", kind = "real" },
+]

@@ -1,0 +1,16 @@
+kind = "group"
+started_on = "2012"
+country = "KR"
+
+names = [
+  { name = "레인보우 픽시", locale = "ko", original = true },
+  { name = "Rainbow Pixie", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "dsp-media" }]
+
+members = [
+  { id = "rainbow/seung-ah" },
+  { id = "rainbow/ji-sook" },
+  { id = "rainbow/hyun-young" },
+]

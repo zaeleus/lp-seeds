@@ -1,0 +1,8 @@
+medium_ids = [
+  "lovelyz/jin/neoman-eobsda/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "lovelyz/jin/neoman-eobsda"
+duration = "3:56"

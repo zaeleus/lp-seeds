@@ -1,0 +1,5 @@
+names = [
+  { name = "시간을 달려서 (Inst.)", locale = "ko", original = true },
+  { name = "Siganeul Dallyeoseo (Rough) (Inst.)", locale = "ko-Latn", default = true  },
+  { name = "Rough (Inst.)", locale = "en" },
+]

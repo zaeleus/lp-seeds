@@ -1,0 +1,13 @@
+names = [
+  { name = "괜찮아 (Prod. by SouLime)", locale = "ko", original = true },
+  { name = "Gwaenchanha (Prod. by SouLime)", locale = "ko-Latn", default = true },
+  { name = "It's All Good (Prod. by SouLime)", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "jolly-v" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=bcADjVxMH_U", name = "Music Video" },
+]

@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1996-11-06"
+country = "KR"
+
+names = [
+  { name = "승연", locale = "ko", kind = "stage", original = true },
+  { name = "Seung Yeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "장승연", locale = "ko", kind = "real" },
+  { name = "Chang Seung Yeon", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"
+height = 163
+weight = 46

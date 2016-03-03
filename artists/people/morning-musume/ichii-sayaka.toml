@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1983-12-31"
+country = "JP"
+
+names = [
+  { name = "市井紗耶香", locale = "ja", kind = "real", original = true },
+  { name = "Ichii Sayaka", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 158

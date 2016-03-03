@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1968-10-29"
+country = "JP"
+
+names = [
+  { name = "つんく", locale = "ja", kind = "stage", original = true },
+  { name = "Tsunku", locale = "ja-Latn", kind = "stage", default = true },
+  { name = "寺田光男", locale = "ja", kind = "real" },
+  { name = "Terada Mitsuo", locale = "ja-Latn", kind = "real" },
+]
+
+[metadata]
+height = 170
+blood_type = "B"

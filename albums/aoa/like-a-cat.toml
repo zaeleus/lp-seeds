@@ -1,0 +1,96 @@
+artist_id = "aoa"
+kind = "single"
+
+names = [
+  { name = "Like a Cat", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-02-25"
+country = "JP"
+catalog_number = "UICV-9087"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition Type A"
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1112895/1/" },
+]
+
+[[releases]]
+released_on = "2015-02-25"
+country = "JP"
+catalog_number = "UICV-9088"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Type B"
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1112899/1/" },
+]
+
+[[releases]]
+released_on = "2015-02-25"
+country = "JP"
+catalog_number = "UICV-9089"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Seolhyun ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1112902/1/" },
+]
+
+[[releases]]
+released_on = "2015-02-25"
+country = "JP"
+catalog_number = "UICV-9090"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Choa ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1112904/1/" },
+]
+
+[[releases]]
+released_on = "2015-02-25"
+country = "JP"
+catalog_number = "UICV-9091"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Hyejeong ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1112905/1/" },
+]
+
+[[releases]]
+released_on = "2015-02-25"
+country = "JP"
+catalog_number = "UICV-9092"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Chanmi ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1112906/1/" },
+]
+
+[[releases]]
+released_on = "2015-02-25"
+country = "JP"
+catalog_number = "UICV-9093"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Yuna ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1112908/1/" },
+]
+
+[[releases]]
+released_on = "2015-02-25"
+country = "JP"
+catalog_number = "UICV-9094"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Mina ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1112909/1/" },
+]
+
+[[releases]]
+released_on = "2015-02-25"
+country = "JP"
+catalog_number = "UICV-9095"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Jimin ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1112911/1/" },
+]

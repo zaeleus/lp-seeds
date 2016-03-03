@@ -1,0 +1,14 @@
+names = [
+  { name = "슈퍼스타 (Prod. by D.O)", locale = "ko", original = true },
+  { name = "Superstar (Prod. by D.O)", locale = "en", default = true },
+]
+
+artist_credits = [
+  { artist_id = "kisum", separator = ", " },
+  { artist_id = "san-e", separator = ", " },
+  { artist_id = "tae-wan" }, # TODO check name
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=j95vFeUge2U", name = "Music Video" },
+]

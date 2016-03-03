@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1987-08-06"
+country = "KR"
+
+names = [
+  { name = "하나", locale = "ko", kind = "stage", original = true },
+  { name = "Hana", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이지애", locale = "ko", kind = "real" },
+  { name = "Lee Ji Ae", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "B"
+height = 163
+weight = 43

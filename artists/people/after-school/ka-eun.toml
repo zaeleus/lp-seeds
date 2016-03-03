@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1994-08-20"
+country = "KR"
+
+names = [
+  { name = "가은", locale = "ko", kind = "stage", original = true },
+  { name = "Ka Eun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이가은", locale = "ko", kind = "real" },
+  { name = "Lee Ka Eun", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 168
+weight = 50

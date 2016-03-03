@@ -1,0 +1,7 @@
+kind = "person"
+#started_on = ""
+country = "ZZ"
+
+names = [
+  { name = "Tyler Shamy", locale = "ko", kind = "real", original = true, default = true },
+]

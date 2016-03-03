@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1990-10-15"
+country = "KR"
+
+names = [
+  { name = "지윤", locale = "ko", kind = "stage", original = true },
+  { name = "Ji Yoon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "전지윤", locale = "ko", kind = "real" },
+  { name = "Jeon Ji Yoon", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+[metadata]
+blood_type = "B"
+weight = 47
+height = 165

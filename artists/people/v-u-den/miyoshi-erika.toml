@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1984-11-08"
+country = "JP"
+
+names = [
+  { name = "三好絵梨香", locale = "ja", kind = "real", original = true },
+  { name = "Miyoshi Erika", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "B"
+height = 161

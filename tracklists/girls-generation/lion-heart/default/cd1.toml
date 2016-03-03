@@ -1,0 +1,63 @@
+medium_ids = [
+  "girls-generation/lion-heart/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "girls-generation/lion-heart"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song_id = "girls-generation/you-think"
+duration = "3:08"
+
+[[tracks]]
+position = 3
+song_id = "girls-generation/party"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song_id = "girls-generation/eotteon-ohu-one-afternoon"
+duration = "3:35"
+
+[[tracks]]
+position = 5
+song_id = "girls-generation/show-girls"
+duration = "3:39"
+
+[[tracks]]
+position = 6
+song_id = "girls-generation/fire-alarm"
+duration = "3:11"
+
+[[tracks]]
+position = 7
+song_id = "girls-generation/talk-talk"
+duration = "3:23"
+
+[[tracks]]
+position = 8
+song_id = "girls-generation/green-light"
+duration = "2:52"
+
+[[tracks]]
+position = 9
+song_id = "girls-generation/paradise"
+duration = "3:50"
+
+[[tracks]]
+position = 10
+song_id = "girls-generation/check"
+duration = "3:26"
+
+[[tracks]]
+position = 11
+song_id = "girls-generation/sign"
+duration = "3:17"
+
+[[tracks]]
+position = 12
+song_id = "girls-generation/yegam-bump-it"
+duration = "3:48"

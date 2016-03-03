@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1991-01-02"
+country = "KR"
+
+names = [
+  { name = "유지", locale = "ko", kind = "stage", original = true },
+  { name = "U·JI", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정유지", locale = "ko", kind = "real" },
+  { name = "Jung Yoo Ji", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "ynb-entertainment" }]
+
+urls = [
+  { url = "https://twitter.com/bestie_UJI" },
+]
+
+[metadata]
+height = 168
+weight = 52

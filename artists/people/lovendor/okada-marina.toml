@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1993-07-24"
+country = "JP"
+
+names = [
+  { name = "岡田万里奈", locale = "ja", kind = "real", original = true },
+  { name = "Okada Marina", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "AB"

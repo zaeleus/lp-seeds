@@ -1,0 +1,15 @@
+artist_id = "4minute"
+kind = "ep"
+
+names = [
+  { name = "Hit Your Heart", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2010-05-27"
+country = "KR"
+catalog_number = "DK-0603"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=006613950" },
+]

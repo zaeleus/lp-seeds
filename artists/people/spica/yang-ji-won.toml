@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1994-04-19"
+country = "KR"
+
+names = [
+  { name = "양지원", locale = "ko", kind = "real", original = true },
+  { name = "Yang Ji Won", locale = "ko-Latn", kind = "real", default = true },
+]
+
+[metadata]
+height = 166
+weight = 49

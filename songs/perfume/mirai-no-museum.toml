@@ -1,0 +1,5 @@
+names = [
+  { name = "未来のミュージアム", locale = "ja", original = true },
+  { name = "Mirai no Museum", locale = "ja-Latn", default = true },
+  { name = "Museum of the Future", locale = "en" },
+]

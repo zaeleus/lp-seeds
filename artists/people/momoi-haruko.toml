@@ -1,0 +1,9 @@
+kind = "person"
+started_on = "1977-12-14"
+country = "JP"
+
+names = [
+  { name = "桃井はるこ", locale = "ja", kind = "real", original = true },
+  { name = "Momoi Haruko", locale = "ja-Latn", kind = "real", default = true },
+  { name = "momo-i", locale = "ja", kind = "stage" },
+]

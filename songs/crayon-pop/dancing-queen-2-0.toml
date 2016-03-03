@@ -1,0 +1,7 @@
+names = [
+  { name = "Dancing Queen 2.0", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=26_F392ir7Q", name = "Music Video" },
+]

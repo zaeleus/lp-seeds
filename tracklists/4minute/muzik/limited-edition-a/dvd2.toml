@@ -1,0 +1,15 @@
+medium_ids = [
+  "4minute/muzik/limited-edition-a/dvd2",
+]
+
+[[tracks]]
+position = 1
+names = [
+  { name = "4Minute in Tokyo", locale = "ja", original = true, default = true },
+]
+artist_credits = [{
+  artist_id = "4minute",
+  names = [
+    { name = "4Minute", locale = "ja", original = true, default = true },
+  ],
+}]

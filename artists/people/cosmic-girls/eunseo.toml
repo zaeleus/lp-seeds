@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1998-05-27"
+country = "KR"
+
+names = [
+  { name = "은서", locale = "ko", kind = "stage", original = true },
+  { name = "Eunseo", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "손주연", locale = "ko", kind = "real" },
+  { name = "Son Ju Yeon", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "B"

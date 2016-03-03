@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1988-06-18"
+country = "KR"
+
+names = [
+  { name = "금미", locale = "ko", kind = "stage", original = true },
+  { name = "Geum Mi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "クムミ", locale = "ja", kind = "stage" },
+  { name = "김다희", locale = "ko", kind = "real" },
+  { name = "Baek Bo Ram", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "chrome-entertainment" }]
+
+[metadata]
+blood_type = "B"
+height = 160

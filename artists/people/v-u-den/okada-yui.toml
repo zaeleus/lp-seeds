@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1987-12-28"
+country = "JP"
+
+names = [
+  { name = "岡田唯", locale = "ja", kind = "real", original = true },
+  { name = "Okada Yui", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 158

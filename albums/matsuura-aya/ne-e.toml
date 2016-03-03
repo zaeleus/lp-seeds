@@ -1,0 +1,29 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "ね～え？", locale = "ja", original = true },
+  { name = "Ne~e?", locale = "ja-Latn", default = true },
+  { name = "Heeey?", locale = "en" },
+]
+
+[[releases]]
+released_on = "2003-03-12"
+country = "JP"
+catalog_number = "EPCE-5203"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition"
+
+[[releases]]
+released_on = "2003-03-12"
+country = "JP"
+catalog_number = "EPCE-5204"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+
+[[releases]]
+released_on = "2003-03-12"
+country = "JP"
+catalog_number = "EPBE-5063"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"

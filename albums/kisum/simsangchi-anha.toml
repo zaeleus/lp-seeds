@@ -1,0 +1,17 @@
+artist_id = "kisum"
+kind = "single"
+
+names = [
+  { name = "심상치 않아", locale = "ko", original = true },
+  { name = "Simsangchi Anha", locale = "ko-Latn", default = true },
+  { name = "You & Me", locale = "en" },
+]
+
+[[releases]]
+released_on = "2015-07-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2330431" },
+  { url = "http://www.mnet.com/album/475101" },
+]

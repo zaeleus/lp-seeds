@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1995-03-12"
+country = "JP"
+
+names = [
+  { name = "福田花音", locale = "ja", kind = "real", original = true },
+  { name = "Fukuda Kanon", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 153

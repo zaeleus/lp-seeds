@@ -1,0 +1,14 @@
+kind = "group"
+started_on = "2004-06-19"
+ended_on = "2007"
+country = "JP"
+
+names = [
+  { name = "エコモニ。", locale = "ja", original = true },
+  { name = "Ecomoni", locale = "ja-Latn", default = true },
+]
+
+members = [
+  { id = "morning-musume/ishikawa-rika" },
+  { id = "morning-musume/michishige-sayumi" },
+]

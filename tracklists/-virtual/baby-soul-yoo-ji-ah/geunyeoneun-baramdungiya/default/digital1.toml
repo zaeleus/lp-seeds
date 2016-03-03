@@ -1,0 +1,33 @@
+medium_ids = [
+  "-virtual/baby-soul-yoo-ji-ah/geunyeoneun-baramdungiya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "-virtual/baby-soul-yoo-ji-ah/geunyeoneun-baramdungiya-feat-dong-woo-of-infinite"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song_id = "-virtual/baby-soul-yoo-ji-ah/geunyeoneun-baramdungiya-girl-ver"
+duration = "3:15"
+
+[[tracks]]
+position = 3
+song_id = "-virtual/baby-soul-yoo-ji-ah/geunyeoneun-baramdungiya-feat-yankie-acoustic-ver"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song_id = "-virtual/baby-soul-yoo-ji-ah/geunyeoneun-baramdungiya-feat-dong-woo-of-infinite-inst"
+duration = "3:08"
+
+[[tracks]]
+position = 5
+song_id = "-virtual/baby-soul-yoo-ji-ah/geunyeoneun-baramdungiya-girl-ver-inst"
+duration = "3:15"
+
+[[tracks]]
+position = 6
+song_id = "-virtual/baby-soul-yoo-ji-ah/geunyeoneun-baramdungiya-feat-yankie-acoustic-ver-inst"
+duration = "3:14"

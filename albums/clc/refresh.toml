@@ -1,0 +1,24 @@
+artist_id = "clc"
+kind = "ep"
+
+names = [
+  { name = "REFRESH", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-02-29"
+country = "KR"
+catalog_number = "CMCC-10758"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=034203298", kind = "hanteo" },
+]
+
+[[releases]]
+released_on = "2016-02-29"
+country = "KR"
+media = [{ kind = "digital" }]
+url = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2669773" },
+  { url = "http://www.mnet.com/album/532440" },
+]

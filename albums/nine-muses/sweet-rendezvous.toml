@@ -1,0 +1,15 @@
+artist_id = "nine-muses"
+kind = "ep"
+
+names = [
+  { name = "Sweet Rendezvous", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2012-03-08"
+country = "KR"
+catalog_number = "L100004456"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=000601948" },
+]

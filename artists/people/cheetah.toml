@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1988-05-25"
+country = "KR"
+
+names = [
+  { name = "치타", locale = "ko", kind = "stage", original = true },
+  { name = "Cheetah", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김은영", locale = "ko", kind = "real" },
+  { name = "Kim Eun Young", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/dhdldzlzl/" },
+]

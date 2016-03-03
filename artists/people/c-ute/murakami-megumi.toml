@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1992-06-06"
+country = "JP"
+
+names = [
+  { name = "村上愛", locale = "ja", kind = "real", original = true },
+  { name = "Murakami Megumi", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 152

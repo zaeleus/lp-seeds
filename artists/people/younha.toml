@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1988-04-29"
+country = "KR"
+
+names = [
+  { name = "윤하", locale = "ko", kind = "stage", original = true },
+  { name = "Younha", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "고윤하", locale = "ko", kind = "real" },
+  { name = "Go Yoon Ha", locale = "ko-Latn", kind = "real" },
+  { name = "ユンナ", locale = "ja", kind = "stage" },
+]
+
+[metadata]
+blood_type = "O"

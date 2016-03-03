@@ -1,0 +1,46 @@
+artist_id = "after-school"
+kind = "single"
+
+names = [
+  { name = "Shh", locale = "ja", original = true, default = true },
+]
+
+artist_credits = [{
+  artist_id = "after-school",
+  names = [
+    { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
+  ],
+}]
+
+[[releases]]
+released_on = "2014-01-29"
+country = "JP"
+catalog_number = "AVCD-48898/B"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "CD+DVD"
+url = [
+  { url = "http://www.oricon.co.jp/prof/507088/products/1055550/1/" },
+  { url = "http://www.after--school.jp/discography/detail.php?id=1006229&c=single" },
+]
+
+[[releases]]
+released_on = "2014-01-29"
+country = "JP"
+catalog_number = "AVCD-48899"
+media = [{ kind = "cd" }]
+disambiguation = "CD+Photobook"
+url = [
+  { url = "http://www.oricon.co.jp/prof/507088/products/1055553/1/" },
+  { url = "http://www.after--school.jp/discography/detail.php?id=1006229&c=single" },
+]
+
+[[releases]]
+released_on = "2014-01-29"
+country = "JP"
+catalog_number = "AVCD-48900"
+media = [{ kind = "cd" }]
+disambiguation = "CD Only"
+url = [
+  { url = "http://www.oricon.co.jp/prof/507088/products/1055554/1/" },
+  { url = "http://www.after--school.jp/discography/detail.php?id=1006229&c=single" },
+]

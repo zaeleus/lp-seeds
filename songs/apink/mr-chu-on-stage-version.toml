@@ -1,0 +1,7 @@
+names = [
+  { name = "Mr. Chu (On Stage Version)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=K5H-GvnNz2Y", name = "Music Video" },
+]

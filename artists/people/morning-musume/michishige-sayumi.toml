@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1989-07-13"
+country = "JP"
+
+names = [
+  { name = "道重さゆみ", locale = "ja", kind = "real", original = true },
+  { name = "Michishige Sayumi", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 162

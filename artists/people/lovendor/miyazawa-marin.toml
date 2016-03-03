@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1993-04-10"
+country = "JP"
+
+names = [
+  { name = "宮澤茉凛", locale = "ja", kind = "real", original = true },
+  { name = "Miyazawa Marin", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"

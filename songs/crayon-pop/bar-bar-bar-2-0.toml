@@ -1,0 +1,8 @@
+names = [
+  { name = "빠빠빠 2.0", locale = "ko", original = true },
+  { name = "Bar Bar Bar 2.0", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=2eZHdYWhd-E", name = "Music Video" },
+]

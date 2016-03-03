@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1990-05-18"
+country = "KR"
+
+names = [
+  { name = "가윤", locale = "ko", kind = "stage", original = true },
+  { name = "Ga Yoon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "허가윤", locale = "ko", kind = "real" },
+  { name = "Heo Ga Yoon", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+[metadata]
+blood_type = "O"
+weight = 47
+height = 165

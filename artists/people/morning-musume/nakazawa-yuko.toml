@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1973-06-19"
+country = "JP"
+
+names = [
+  { name = "中澤裕子", locale = "ja", kind = "real", original = true },
+  { name = "Nakazawa Yuko", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 159

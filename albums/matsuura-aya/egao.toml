@@ -1,0 +1,22 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "笑顔", locale = "ja", original = true },
+  { name = "Egao", locale = "ja-Latn", default = true },
+  { name = "Smile", locale = "en" },
+]
+
+[[releases]]
+released_on = "2007-08-29"
+country = "JP"
+catalog_number = "EPCE-5495"
+media = [{ kind = "cd" }]
+disambiguation = "CD"
+
+[[releases]]
+released_on = "2007-09-12"
+country = "JP"
+catalog_number = "EPBE-5261"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"

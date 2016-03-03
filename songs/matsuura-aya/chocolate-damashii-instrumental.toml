@@ -1,0 +1,5 @@
+names = [
+  { name = "チョコレート魂 (Instrumental)", locale = "ja", original = true },
+  { name = "Chocolate Damashii (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Chocolate Soul (Instrumental)", locale = "en" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "心の叫びを歌にしてみた", locale = "ja", original = true },
+  { name = "Kokoro no Sakebi wo Uta ni Shitemita", locale = "ja-Latn", default = true },
+]

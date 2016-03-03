@@ -1,0 +1,38 @@
+artist_id = "lovendor"
+kind = "single"
+
+names = [
+  { name = "宝物／イツワリ", locale = "ja", original = true },
+  { name = "Takaramono / Itsuwari", locale = "ja-Latn", default = true },
+  { name = "Treasure / Fake", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-02-24"
+country = "JP"
+catalog_number = "EPCE-7194~5"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/589332/products/1164928/1/" },
+]
+
+[[releases]]
+released_on = "2016-02-24"
+country = "JP"
+catalog_number = "EPCE-7196"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/589332/products/1164929/1/" },
+]
+
+[[releases]]
+released_on = "2016-02-24"
+country = "JP"
+catalog_number = "EPCE-7197"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/589332/products/1164930/1/" },
+]

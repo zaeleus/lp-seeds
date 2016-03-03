@@ -1,0 +1,14 @@
+names = [
+  { name = "쉬운 여자 아니에요 (Feat. 정형돈)", locale = "ko", original = true },
+  { name = "Swiunyeoja Anieyo (Feat. Jung Hyung Don)", locale = "ko-Latn", default = true },
+  { name = "I'm Not an Easy Girl (Feat. Jung Hyung Don)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ipouIsX1phI", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "after-school/lizzy", kind = "performer" },
+  { artist_id = "jung-hyung-don", kind = "performer" },
+]

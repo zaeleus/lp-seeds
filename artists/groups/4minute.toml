@@ -1,0 +1,23 @@
+kind = "group"
+started_on = "2009"
+country = "KR"
+
+names = [
+  { name = "포미닛", locale = "ko", original = true },
+  { name = "4minute", locale = "ko-Latn", default = true },
+  { name = "4Minute", locale = "ja" },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+members = [
+  { id = "4minute/ga-yoon" },
+  { id = "4minute/hyun-a" },
+  { id = "4minute/ji-hyun" },
+  { id = "4minute/ji-yoon" },
+  { id = "4minute/so-hyun" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/user/4minuteofficial" },
+]

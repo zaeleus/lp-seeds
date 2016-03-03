@@ -1,0 +1,18 @@
+kind = "person"
+started_on = "1987-03-23"
+country = "KR"
+
+names = [
+  { name = "강남", locale = "ko", kind = "stage", original = true },
+  { name = "Kangnam", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "나메카와 야스오", locale = "ko", kind = "real" },
+  { name = "Namekawa Yasuo", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/kangnam11" },
+]
+
+[metadata]
+blood_type = "A"
+height = 177

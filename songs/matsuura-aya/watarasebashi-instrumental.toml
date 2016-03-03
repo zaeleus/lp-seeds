@@ -1,0 +1,5 @@
+names = [
+  { name = "渡良瀬橋 (Instrumental)", locale = "ja", original = true },
+  { name = "Watarasebashi (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Watarase Bridge (Instrumental)", locale = "en" },
+]

@@ -1,0 +1,26 @@
+artist_id = "apink"
+kind = "ep"
+
+names = [
+  { name = "Pink Memory", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-07-16"
+country = "KR"
+catalog_number = "L200001127"
+disambiguation = "White Ver."
+media = [{ position = 1, kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001209043" },
+]
+
+[[releases]]
+released_on = "2015-07-16"
+country = "KR"
+catalog_number = "L200001128"
+disambiguation = "Red Ver."
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001209044" },
+]

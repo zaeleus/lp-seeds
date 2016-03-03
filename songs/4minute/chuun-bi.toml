@@ -1,0 +1,9 @@
+names = [
+  { name = "추운 비", locale = "ko", original = true },
+  { name = "Chuun Bi", locale = "ko-Latn", default = true },
+  { name = "Cold Rain", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ZT9zbZGB2gE", name = "Music Video" },
+]

@@ -1,0 +1,10 @@
+names = [
+  { name = "rock it!", locale = "ja", original = true, default = true },
+]
+
+artist_credits = [{
+  artist_id = "after-school",
+  names = [
+    { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
+  ],
+}]

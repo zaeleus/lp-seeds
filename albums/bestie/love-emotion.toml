@@ -1,0 +1,15 @@
+artist_id = "bestie"
+kind = "ep"
+
+names = [
+  { name = "Love Emotion", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-05-08"
+country = "KR"
+catalog_number = "L200001109"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001208925" },
+]

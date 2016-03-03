@@ -1,0 +1,20 @@
+artist_id = "ladies-code"
+kind = "single"
+
+names = [
+  { name = "KISS KISS", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2014-08-07"
+country = "KR"
+media = [{ kind = "digital" }]
+
+[[releases]]
+released_on = "2014-08-07"
+country = "KR"
+catalog_number = "L200001034"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001208599" },
+]

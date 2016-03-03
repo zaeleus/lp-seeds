@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1989-09-05"
+country = "KR"
+
+names = [
+  { name = "재이", locale = "ko", kind = "stage", original = true },
+  { name = "Jei", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김진희", locale = "ko", kind = "real" },
+  { name = "Kim Jin Hee", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "O"

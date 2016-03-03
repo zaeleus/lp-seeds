@@ -1,0 +1,28 @@
+medium_ids = [
+  "g-friend/season-of-glass/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "g-friend/intro-season-of-glass"
+duration = "1:13"
+
+[[tracks]]
+position = 2
+song_id = "g-friend/yuriguseul"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song_id = "g-friend/neverland"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song_id = "g-friend/white-hayanma-eum"
+duration = "3:45"
+
+[[tracks]]
+position = 5
+song_id = "g-friend/yuriguseul-inst"
+duration = "3:23"

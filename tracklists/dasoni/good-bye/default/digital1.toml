@@ -1,0 +1,23 @@
+medium_ids = [
+  "dasoni/good-bye/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "dasoni/aju-heunhan-mal"
+duration = "4:34"
+
+[[tracks]]
+position = 2
+song_id = "dasoni/good-bye"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song_id = "dasoni/aju-heunhan-mal-inst"
+duration = "4:34"
+
+[[tracks]]
+position = 4
+song_id = "dasoni/good-bye-inst"
+duration = "3:29"

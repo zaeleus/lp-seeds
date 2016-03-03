@@ -1,0 +1,28 @@
+artist_id = "2ne1"
+kind = "lp"
+
+names = [
+  { name = "CRUSH", locale = "ko", original = true, default = true },
+]
+
+# TODO the many other releases
+
+[[releases]]
+released_on = "2014-02-26"
+country = "KR"
+media = [{ kind = "digital" }]
+url = [
+  { url = "https://play.google.com/store/music/album?id=Bcvofhygtwmkwh5rbjty6cvoqki" },
+  { url = "https://itunes.apple.com/album/crush/id828866397" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2236445" },
+  { url = "http://www.mnet.com/album/330004" },
+]
+
+[[releases]]
+released_on = "2014-03-07"
+country = "KR"
+catalog_number = "YGK-0335"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=045400472" },
+]

@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1993-05-21"
+country = "KR"
+
+names = [
+  { name = "유지애", locale = "ko", kind = "real", original = true },
+  { name = "Yoo Ji Ae", locale = "ko-Latn", kind = "real", default = true },
+]
+
+labels = [{ id = "woollim-entertainment" }]
+
+[metadata]
+blood_type = "A"
+height = 163
+weight = 43

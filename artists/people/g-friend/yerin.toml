@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1996-08-19"
+country = "KR"
+
+names = [
+  { name = "예린", locale = "ko", kind = "stage", original = true },
+  { name = "Yerin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정예린", locale = "ko", kind = "real" },
+  { name = "Jung Ye Rin", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "source-music-entertainment" }]
+
+[metadata]
+height = 167
+weight = 49
+blood_type = "O"

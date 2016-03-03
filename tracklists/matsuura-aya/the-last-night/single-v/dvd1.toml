@@ -1,0 +1,22 @@
+medium_ids = [
+  "matsuura-aya/the-last-night/single-v/dvd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/the-last-night"
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/the-last-night"
+names = [
+  { name = "THE LAST NIGHT (AYAYA Close Up Ver.)", locale = "ja", original = true, default = true },
+]
+
+[[tracks]]
+position = 3
+names = [
+  { name = "THE LAST NIGHT メイキング映像", locale = "ja", original = true },
+  { name = "THE LAST NIGHT Making Eizou", locale = "ja-Latn", default = true },
+  { name = "THE LAST NIGHT Making of", locale = "en" },
+]

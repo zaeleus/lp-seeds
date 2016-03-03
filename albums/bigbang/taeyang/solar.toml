@@ -1,0 +1,36 @@
+artist_id = "bigbang/taeyang"
+kind = "lp"
+
+names = [
+  { name = "SOLAR", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2010-07-01"
+country = "KR"
+catalog_number = "CMBC-9549"
+media = [{ kind = "cd" }]
+disambiguation = "Deluxe Edition"
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=048100005" },
+]
+
+[[releases]]
+released_on = "2010-07-09"
+country = "KR"
+catalog_number = "CMBC-9555"
+media = [{ kind = "cd" }]
+disambiguation = "Standard Edition"
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=048100006" },
+]
+
+[[releases]]
+released_on = "2010-08-25"
+country = "KR"
+catalog_number = "CMBC-9567"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "International Edition"
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=034201464" },
+]

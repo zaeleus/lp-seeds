@@ -1,0 +1,17 @@
+artist_id = "after-school"
+kind = "single"
+
+names = [
+  { name = "첫 사랑", locale = "ko", original = true },
+  { name = "Cheot Sarang", locale = "ko-Latn", default = true },
+  { name = "First Love", locale = "en" },
+]
+
+[[releases]]
+released_on = "2013-06-13"
+country = "KR"
+catalog_number = "L100004718"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001208014" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "손목시계", locale = "ko", original = true },
+  { name = "Sonmoksigye", locale = "ko-Latn", default = true },
+  { name = "Wristwatch", locale = "en" },
+]

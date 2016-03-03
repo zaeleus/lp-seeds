@@ -1,0 +1,22 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "きずな", locale = "ja", original = true },
+  { name = "Kizuna", locale = "ja-Latn", default = true },
+  { name = "Bonds", locale = "en" },
+]
+
+[[releases]]
+released_on = "2008-05-21"
+country = "JP"
+catalog_number = "EPCE-5558"
+media = [{ kind = "cd" }]
+disambiguation = "CD"
+
+[[releases]]
+released_on = "2008-06-04"
+country = "JP"
+catalog_number = "EPBE-5293"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"

@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1992-03-06"
+country = "JP"
+
+names = [
+  { name = "嗣永桃子", locale = "ja", kind = "real", original = true },
+  { name = "Tsugunaga Momoko", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 150

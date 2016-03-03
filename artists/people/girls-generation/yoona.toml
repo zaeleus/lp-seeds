@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1990-05-30"
+country = "KR"
+
+names = [
+  { name = "윤아", locale = "ko", kind = "stage", original = true },
+  { name = "Yoona", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "임윤아", locale = "ko", kind = "real" },
+  { name = "Im Yoon Ah", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "B"
+height = 168
+weight = 48

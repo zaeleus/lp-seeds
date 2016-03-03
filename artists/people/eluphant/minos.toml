@@ -1,0 +1,10 @@
+kind = "person"
+started_on = "1983-02-17"
+country = "KR"
+
+names = [
+  { name = "마이노스", locale = "ko", kind = "stage", original = true },
+  { name = "Minos", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "최민호", locale = "ko", kind = "real" },
+  { name = "Choi Min Ho", locale = "ko-Latn", kind = "real" },
+]

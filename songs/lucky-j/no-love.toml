@@ -1,0 +1,17 @@
+names = [
+  { name = "No Love", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=LHwRNuNPvDc", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=y6KZkVhoSC8", name = "Teaser" },
+]
+
+contributions = [
+  { artist_id = "famous-bro", kind = "lyricist" },
+  { artist_id = "lucky-j/j-kyun", kind = "lyricist" },
+  { artist_id = "famous-bro", kind = "composer" },
+  { artist_id = "paul", kind = "composer" },
+  { artist_id = "famous-bro", kind = "arranger" },
+  { artist_id = "paul", kind = "arranger" },
+]

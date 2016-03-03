@@ -1,0 +1,7 @@
+names = [
+  { name = "Delight", locale = "ko", original = true, default = true },
+]
+
+performers = [
+  { artist_id = "lovelyz/yoo-ji-ae" },
+]

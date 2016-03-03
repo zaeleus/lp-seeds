@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1985-04-12"
+country = "JP"
+
+names = [
+  { name = "吉澤ひとみ", locale = "ja", kind = "real", original = true },
+  { name = "Yoshizawa Hitomi", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 165

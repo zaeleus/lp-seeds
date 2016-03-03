@@ -1,0 +1,29 @@
+kind = "group"
+started_on = "2015"
+country = "KR"
+
+names = [
+  { name = "오마이걸", locale = "ko", original = true },
+  { name = "Oh My Girl", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "wm-entertainment" }]
+
+members = [
+  { id = "oh-my-girl/hyo-jung" },
+  { id = "oh-my-girl/jin-e" },
+  { id = "oh-my-girl/mimi" },
+  { id = "oh-my-girl/yoo-a" },
+  { id = "oh-my-girl/seung-hee" },
+  { id = "oh-my-girl/ji-ho" },
+  { id = "oh-my-girl/binnie" },
+  { id = "oh-my-girl/arin" },
+]
+
+urls = [
+  { url = "http://ohmy-girl.com/omg_official/" },
+  { url = "http://www.wment.co.kr/artist/artist_main.php?idx=41" },
+  { url = "https://www.facebook.com/official.ohmygirl" },
+  { url = "https://www.instagram.com/wm_ohmygirl/" },
+  { url = "https://twitter.com/WM_OHMYGIRL" },
+]

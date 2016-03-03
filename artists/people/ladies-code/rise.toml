@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1991-08-16"
+ended_on = "2014-09-07"
+country = "KR"
+
+names = [
+  { name = "리세", locale = "ko", kind = "stage", original = true },
+  { name = "Rise", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "권리세", locale = "ko", kind = "real" },
+  { name = "Kwon Ri Se", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "polaris-entertainment" }]

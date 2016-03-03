@@ -1,0 +1,30 @@
+kind = "group"
+started_on = "2007-08-05"
+country = "KR"
+
+names = [
+  { name = "소녀시대", locale = "ko", original = true },
+  { name = "So Nyeo Si Dae", locale = "ko-Latn" },
+  { name = "SNSD", locale = "ko" },
+  { name = "少女時代", locale = "ja" },
+  { name = "Shoujo Jidai", locale = "ja-Latn" },
+  { name = "Girls' Generation", locale = "en", default = true },
+]
+
+members = [
+  { id = "girls-generation/taeyeon" },
+  { id = "girls-generation/sunny" },
+  { id = "girls-generation/tiffany" },
+  { id = "girls-generation/hyoyeon" },
+  { id = "girls-generation/yuri" },
+  { id = "girls-generation/sooyoung" },
+  { id = "girls-generation/yoona" },
+  { id = "girls-generation/seo-hyun" },
+  { id = "girls-generation/jessica", ended_on = "2014-09" },
+]
+
+urls = [
+  { url = "http://girlsgeneration.smtown.com/" },
+  { url = "https://twitter.com/girlsgeneration" },
+  { url = "https://www.youtube.com/user/GIRLSGENERATION" },
+]

@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1999-01-10"
+country = "KR"
+
+names = [
+  { name = "여름", locale = "ko", kind = "stage", original = true },
+  { name = "Yeoreum", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+[metadata]
+blood_type = "A"

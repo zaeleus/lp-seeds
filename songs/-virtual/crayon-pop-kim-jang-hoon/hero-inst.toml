@@ -1,0 +1,8 @@
+names = [
+  { name = "Hero (Inst.)", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [
+  { artist_id = "crayon-pop", separator = " & " },
+  { artist_id = "kim-jang-hoon" },
+]

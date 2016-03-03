@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1991-09-14"
+country = "KR"
+
+names = [
+  { name = "나나", locale = "ko", kind = "stage", original = true },
+  { name = "Nana", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "임진아", locale = "ko", kind = "real" },
+  { name = "Im Jin Ah", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"
+height = 170
+weight = 50

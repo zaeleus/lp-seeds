@@ -1,0 +1,25 @@
+kind = "group"
+started_on = "2015"
+country = "KR"
+
+names = [
+  { name = "여자친구", locale = "ko", original = true },
+  { name = "G-Friend", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "g-friend/sowon" },
+  { id = "g-friend/yerin" },
+  { id = "g-friend/eunha" },
+  { id = "g-friend/yuju" },
+  { id = "g-friend/sinb" },
+  { id = "g-friend/umji" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/g.friend/" },
+  { url = "https://www.facebook.com/gfrdofficial" },
+  { url = "https://twitter.com/gfrdofficial" },
+  { url = "https://www.youtube.com/user/gfrdofficial" },
+]
+

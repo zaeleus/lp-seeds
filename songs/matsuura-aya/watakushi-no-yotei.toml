@@ -1,0 +1,5 @@
+names = [
+  { name = "私の予定", locale = "ja", original = true },
+  { name = "Watakushi no Yotei", locale = "ja-Latn", default = true },
+  { name = "My Plans", locale = "en" },
+]

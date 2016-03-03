@@ -1,0 +1,13 @@
+kind = "group"
+started_on = "2007-08"
+country = "JP"
+
+names = [
+  { name = "Buono!", locale = "ja", original = true, default = true },
+]
+
+members = [
+  { id = "berryz-koubou/tsugunaga-momoko" },
+  { id = "berryz-koubou/natsuyaki-miyabi" },
+  { id = "c-ute/suzuki-airi" },
+]

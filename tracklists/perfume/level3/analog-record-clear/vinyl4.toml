@@ -1,0 +1,17 @@
+medium_ids = [
+  "perfume/level3/analog-record-clear/vinyl4",
+  "perfume/level3/analog-record-pink/vinyl4",
+  "perfume/level3/analog-record-yellow/vinyl4",
+]
+
+[[tracks]]
+position = 1
+song_id = "perfume/sleeping-beauty"
+
+[[tracks]]
+position = 2
+song_id = "perfume/spending-all-my-time-album-mix"
+
+[[tracks]]
+position = 3
+song_id = "perfume/dream-land"

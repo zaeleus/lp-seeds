@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1978-03-15"
+country = "KR"
+
+names = [
+  { name = "정형돈", locale = "ko", kind = "real", original = true },
+  { name = "Jung Hyung Don", locale = "ko-Latn", kind = "real", default = true },
+]

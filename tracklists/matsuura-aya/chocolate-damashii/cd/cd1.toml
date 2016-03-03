@@ -1,0 +1,18 @@
+medium_ids = [
+  "matsuura-aya/chocolate-damashii/cd/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/chocolate-damashii"
+duration = "5:00"
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/gatsun"
+duration = "4:23"
+
+[[tracks]]
+position = 3
+song_id = "matsuura-aya/chocolate-damashii-instrumental"
+duration = "4:55"

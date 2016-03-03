@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1990-12-12"
+country = "KR"
+
+names = [
+  { name = "Seungri", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "V.I", locale = "ja", kind = "stage" },
+  { name = "이승현", locale = "ko", kind = "real" },
+  { name = "Lee Seung Hyun", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 174
+weight = 57

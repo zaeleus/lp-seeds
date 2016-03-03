@@ -1,0 +1,11 @@
+names = [
+  { name = "私のすごい方法", locale = "ja", original = true },
+  { name = "Watashi no Sugoi Houhou", locale = "ja-Latn", default = true },
+  { name = "My Amazing Technique", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "takahashi-yuichi", kind = "arranger" },
+]

@@ -1,0 +1,16 @@
+artist_id = "nine-muses"
+kind = "lp"
+
+names = [
+  { name = "프리마돈나", locale = "ko", original = true },
+  { name = "PRIMA DONNA", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released_on = "2013-10-14"
+country = "KR"
+catalog_number = "L100004778"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001208182" },
+]

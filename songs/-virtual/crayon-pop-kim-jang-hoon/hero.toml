@@ -1,0 +1,12 @@
+names = [
+  { name = "Hero", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [
+  { artist_id = "crayon-pop", separator = " & " },
+  { artist_id = "kim-jang-hoon" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=6WB_3b3ARZ8", name = "Music Video" },
+]

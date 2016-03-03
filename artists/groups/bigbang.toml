@@ -1,0 +1,27 @@
+kind = "group"
+started_on = "2006"
+country = "KR"
+
+names = [
+  { name = "빅뱅", locale = "ko", original = true },
+  { name = "BIGBANG", locale = "ko-Latn", default = true },
+]
+
+labels = [
+  { id = "yg-entertainment" },
+  { id = "ygex" },
+]
+
+members = [
+  { id = "bigbang/g-dragon" },
+  { id = "bigbang/taeyang" },
+  { id = "bigbang/t-o-p" },
+  { id = "bigbang/daesung" },
+  { id = "bigbang/seungri" },
+]
+
+urls = [
+  { url = "http://www.ygbigbang.com/" },
+  { url = "https://www.facebook.com/BIGBANG/" },
+  { url = "https://www.youtube.com/user/BIGBANG" },
+]

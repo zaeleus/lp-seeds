@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1989-04-16"
+country = "KR"
+
+names = [
+  { name = "졸리브이", locale = "ko", kind = "stage", original = true },
+  { name = "Jolly V", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이진경", locale = "ko", kind = "real" },
+  { name = "Lee Jin Kyung", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/jollyvsup/" },
+  { url = "https://twitter.com/JollyVsup" },
+]

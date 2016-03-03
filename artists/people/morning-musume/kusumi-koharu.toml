@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1992-07-15"
+country = "JP"
+
+names = [
+  { name = "久住小春", locale = "ja", kind = "real", original = true },
+  { name = "Kusumi Koharu", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 167

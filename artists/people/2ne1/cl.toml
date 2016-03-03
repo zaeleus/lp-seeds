@@ -1,0 +1,21 @@
+kind = "person"
+started_on = "1991-02-26"
+country = "KR"
+
+names = [
+  { name = "CL", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "이채린", locale = "ko", kind = "real" },
+  { name = "Lee Chae Rin", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.facebook.com/ChaelinCL" },
+  { url = "https://www.instagram.com/chaelinCL/" },
+  { url = "https://twitter.com/chaelinCL" },
+  { url = "https://www.youtube.com/ChaelinCL" },
+]
+
+[metadata]
+blood_type = "A"
+height = 162
+weight = 48

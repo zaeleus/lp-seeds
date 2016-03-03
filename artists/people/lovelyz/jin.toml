@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1996-06-12"
+country = "KR"
+
+names = [
+  { name = "진", locale = "ko", kind = "stage", original = true },
+  { name = "JIN", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박명은", locale = "ko", kind = "real" },
+  { name = "Park Myung Eun", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "woollim-entertainment" }]
+
+[metadata]
+blood_type = "B"
+height = 165
+weight = 47

@@ -1,0 +1,27 @@
+kind = "group"
+started_on = "2014"
+country = "KR"
+
+names = [
+  { name = "러블리즈", locale = "ko", original = true },
+  { name = "Lovelyz", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "woollim-entertainment" }]
+
+members = [
+  { id = "lovelyz/baby-soul" },
+  { id = "lovelyz/yoo-ji-ae" },
+  { id = "lovelyz/seo-ji-su" },
+  { id = "lovelyz/lee-mi-ju" },
+  { id = "lovelyz/kim-ji-yeon" },
+  { id = "lovelyz/jin" },
+  { id = "lovelyz/ryu-su-jeong" },
+  { id = "lovelyz/jeong-ye-in" },
+]
+
+urls = [
+  { url = "http://lvlz8.com/" },
+  { url = "https://www.facebook.com/lvlz8" },
+  { url = "https://twitter.com/Official_LVLZ" },
+]

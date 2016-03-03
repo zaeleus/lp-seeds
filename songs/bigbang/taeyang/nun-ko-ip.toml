@@ -1,0 +1,9 @@
+names = [
+  { name = "눈, 코, 입", locale = "ko", original = true },
+  { name = "Nun, Ko, Ip", locale = "ko-Latn", default = true },
+  { name = "Eyes, Nose, Lips", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=UwuAPyOImoI", name = "Music Video" },
+]

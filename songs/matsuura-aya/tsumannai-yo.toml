@@ -1,0 +1,11 @@
+names = [
+  { name = "つまんないよ・・・", locale = "ja", original = true },
+  { name = "Tsumannai yo...", locale = "ja-Latn", default = true },
+  { name = "How Boring...", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "matsumoto-reiji", kind = "arranger" },
+]

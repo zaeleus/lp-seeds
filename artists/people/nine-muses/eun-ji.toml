@@ -1,0 +1,21 @@
+kind = "person"
+started_on = "1988-09-27"
+country = "KR"
+
+names = [
+  { name = "은지", locale = "ko", kind = "stage", original = true },
+  { name = "Eun Ji", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박은지", locale = "ko", kind = "real" },
+  { name = "Park Eun Ji", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+urls = [
+  { url = "https://twitter.com/9m_eunji" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 172
+weight = 48

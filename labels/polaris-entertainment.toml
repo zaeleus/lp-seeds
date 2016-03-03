@@ -1,0 +1,3 @@
+names = [
+  { name = "Polaris Entertainment", locale = "ko", default = true, original = true },
+]

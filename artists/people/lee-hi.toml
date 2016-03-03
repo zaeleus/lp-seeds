@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1996-09-23"
+country = "KR"
+
+names = [
+  { name = "이하이", locale = "ko", kind = "stage", original = true },
+  { name = "Lee Hi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이하이", locale = "ko", kind = "real" },
+  { name = "Lee Ha Yi", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "http://www.ygfamily.com/artist/main.asp?LANGDIV=K&ATYPE=2&ARTIDX=51" },
+  { url = "https://www.facebook.com/OfficialLEEHI" },
+  { url = "https://www.youtube.com/user/OfficialLEEHI" },
+]
+
+[metadata]
+blood_type = "B"

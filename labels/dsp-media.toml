@@ -1,0 +1,12 @@
+started_on = "1991"
+
+names = [
+  { name = "DSP미디어", locale = "ko", original = true },
+  { name = "DSP Media", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "http://www.dspmedia.co.kr/" },
+  { url = "http://www.dspenter.jp/" },
+  { url = "https://www.youtube.com/user/DSP" },
+]

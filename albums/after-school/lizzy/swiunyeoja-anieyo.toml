@@ -1,0 +1,13 @@
+artist_id = "after-school/lizzy"
+kind = "single"
+
+names = [
+  { name = "쉬운 여자 아니에요 (Feat. 정형돈)", locale = "ko", original = true },
+  { name = "Swiunyeoja Anieyo", locale = "ko-Latn", default = true },
+  { name = "I'm Not an Easy Girl", locale = "en" },
+]
+
+[[releases]]
+released_on = "2015-01-23"
+country = "KR"
+media = [{ kind = "digital" }]

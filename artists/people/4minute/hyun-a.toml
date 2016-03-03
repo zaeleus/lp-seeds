@@ -1,0 +1,21 @@
+kind = "person"
+started_on = "1992-06-06"
+country = "KR"
+
+names = [
+  { name = "현아", locale = "ko", kind = "stage", original = true },
+  { name = "Hyun A", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김현아", locale = "ko", kind = "real" },
+  { name = "Kim Hyun Ah", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+urls = [
+  { url = "https://instagram.com/hyunah_aa/" },
+]
+
+[metadata]
+blood_type = "O"
+weight = 44
+height = 164

@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1991-06-28"
+country = "KR"
+
+names = [
+  { name = "서현", locale = "ko", kind = "stage", original = true },
+  { name = "Seo Hyun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "서주현", locale = "ko", kind = "real" },
+  { name = "Seo Joo Hyun", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"
+height = 168
+weight = 49

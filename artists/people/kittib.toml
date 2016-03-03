@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1990-07-27"
+country = "KR"
+
+names = [
+  { name = "키디비", locale = "ko", kind = "stage", original = true },
+  { name = "KittiB", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+urls = [
+  { url = "https://www.instagram.com/officialkittib/" },
+  { url = "https://twitter.com/officialkittib" },
+]

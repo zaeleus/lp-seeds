@@ -1,0 +1,12 @@
+names = [
+  { name = "To.Mom (Feat. 인순이)", locale = "ko", original = true },
+  { name = "To.Mom (Feat. Insooni)", locale = "ko-Latn", default = true },
+]
+
+artist_credits = [
+  { artist_id = "kisum" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=UKFiLyOiJ3E", name = "Music Video" },
+]

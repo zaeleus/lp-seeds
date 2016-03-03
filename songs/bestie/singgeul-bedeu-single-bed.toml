@@ -1,0 +1,5 @@
+names = [
+  { name = "싱글베드 (Single Bed)", locale = "ko", original = true },
+  { name = "Singgeul Bedeu (Single Bed)", locale = "ko-Latn", default = true },
+  { name = "Single Bed", locale = "en" },
+]

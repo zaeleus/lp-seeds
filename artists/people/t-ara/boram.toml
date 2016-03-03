@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1986-03-22"
+country = "KR"
+
+names = [
+  { name = "보람", locale = "ko", kind = "stage", original = true },
+  { name = "Boram", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "전보람", locale = "ko", kind = "real" },
+  { name = "Jeon Bo Ram", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "B"
+height = 154
+weight = 45

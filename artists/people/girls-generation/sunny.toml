@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1989-03-15"
+country = "KR"
+
+names = [
+  { name = "써니", locale = "ko", kind = "stage", original = true },
+  { name = "Sunny", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이순규", locale = "ko", kind = "real" },
+  { name = "Lee Sun Kyu", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "B"
+height = 155
+weight = 44

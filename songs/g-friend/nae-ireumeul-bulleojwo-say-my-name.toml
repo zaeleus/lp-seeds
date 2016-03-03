@@ -1,0 +1,5 @@
+names = [
+  { name = "내 이름을 불러줘 (Say My Name)", locale = "ko", original = true },
+  { name = "Nae Ireumeul Bulleojwo (Say My Name)", locale = "ko-Latn", default = true  },
+  { name = "Say My Name", locale = "en" },
+]

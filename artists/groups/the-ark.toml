@@ -1,0 +1,25 @@
+kind = "group"
+started_on = "2015"
+country = "KR"
+
+names = [
+  { name = "디아크", locale = "ko", original = true },
+  { name = "THE ARK", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "music-k-entertainment" }]
+
+members = [
+  { id = "the-ark/halla" },
+  { id = "the-ark/jane" },
+  { id = "the-ark/minju" },
+  { id = "the-ark/yujin" },
+  { id = "the-ark/yuna-kim" },
+]
+
+urls = [
+  { url = "http://theark.musick.co.kr/" },
+  { url = "https://www.youtube.com/channel/UCY31KX5E4DuT3XMYlBmGSBw" },
+  { url = "https://www.facebook.com/official.TheArk" },
+  { url = "https://twitter.com/TheArk_official" },
+]

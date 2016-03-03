@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1990-07-05"
+country = "KR"
+
+names = [
+  { name = "경리", locale = "ko", kind = "stage", original = true },
+  { name = "Kyung Ree", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박경리", locale = "ko", kind = "real" },
+  { name = "Park Kyung Ree", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+urls = [
+  { url = "https://www.instagram.com/gyeongree/" },
+  { url = "https://twitter.com/ice_gang" },
+]
+
+[metadata]
+height = 170

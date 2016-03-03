@@ -1,0 +1,4 @@
+names = [
+  { name = "쎄쎄쎄 (feat. Kikaflo)", locale = "ko", original = true },
+  { name = "Sse Sse Sse (feat. Kikaflo)", locale = "ko-Latn", default = true },
+]

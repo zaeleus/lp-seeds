@@ -1,0 +1,14 @@
+artist_id = "matsuura-aya"
+kind = "lp"
+
+names = [
+  { name = "ダブル　レインボウ", locale = "ja", original = true },
+  { name = "Double Rainbow", locale = "ja-Latn", default = true },
+  { name = "Double Rainbow", locale = "en" },
+]
+
+[[releases]]
+released_on = "2007-10-10"
+country = "JP"
+catalog_number = "EPCE-5501"
+media = [{ kind = "cd" }]

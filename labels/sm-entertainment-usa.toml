@@ -1,0 +1,3 @@
+names = [
+  { name = "SM Entertainment USA", locale = "en", default = true, original = true },
+]

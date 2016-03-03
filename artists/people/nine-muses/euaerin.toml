@@ -1,0 +1,21 @@
+kind = "person"
+started_on = "1988-05-03"
+country = "KR"
+
+names = [
+  { name = "이유애린", locale = "ko", kind = "stage", original = true },
+  { name = "Euaerin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이혜민", locale = "ko", kind = "real" },
+  { name = "Lee Hye Min", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+urls = [
+  { url = "https://www.instagram.com/erine0503/" },
+  { url = "https://twitter.com/erine0503" },
+]
+
+[metadata]
+blood_type = "O"
+height = 174

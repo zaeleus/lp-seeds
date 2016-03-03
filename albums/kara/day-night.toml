@@ -1,0 +1,20 @@
+artist_id = "kara"
+kind = "ep"
+
+names = [
+  { name = "DAY & NIGHT", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2014-08-18"
+country = "KR"
+media = [{ kind = "digital" }]
+
+[[releases]]
+released_on = "2014-08-18"
+country = "KR"
+catalog_number = "L100004925"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001208613" },
+]

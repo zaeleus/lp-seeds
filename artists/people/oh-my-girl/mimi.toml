@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1995-05-01"
+country = "KR"
+
+names = [
+  { name = "미미", locale = "ko", kind = "stage", original = true },
+  { name = "Mimi", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+labels = [{ id = "wm-entertainment" }]
+
+[metadata]
+blood_type = "AB"

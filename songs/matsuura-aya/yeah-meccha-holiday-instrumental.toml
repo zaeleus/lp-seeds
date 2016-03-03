@@ -1,0 +1,5 @@
+names = [
+  { name = "Yeah! めっちゃホリデイ (Instrumental)", locale = "ja", original = true },
+  { name = "Yeah! Meccha Holiday (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Yeah! Super Holiday (Instrumental)", locale = "en" },
+]

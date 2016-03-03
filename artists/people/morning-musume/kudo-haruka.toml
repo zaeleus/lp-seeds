@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1999-10-27"
+country = "JP"
+
+names = [
+  { name = "工藤遥", locale = "ja", kind = "real", original = true },
+  { name = "Kudo Haruka", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 161

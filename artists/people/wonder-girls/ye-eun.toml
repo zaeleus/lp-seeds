@@ -1,0 +1,22 @@
+kind = "person"
+started_on = "1989-05-26"
+country = "KR"
+
+names = [
+  { name = "예은", locale = "ko", kind = "stage", original = true },
+  { name = "Ye Eun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박예은", locale = "ko", kind = "real" },
+  { name = "Park Ye Eun", locale = "ko-Latn", kind = "real" },
+  { name = "Yenny", locale = "en", kind = "stage" },
+]
+
+labels = [{ id = "jyp-entertainment" }]
+
+urls = [
+  { url = "https://twitter.com/wgyenny" }
+]
+
+[metadata]
+blood_type = "AB"
+weight = 47
+height = 165

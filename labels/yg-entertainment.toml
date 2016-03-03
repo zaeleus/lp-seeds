@@ -1,0 +1,10 @@
+started_on = "1996"
+
+names = [
+  { name = "YG 엔터테인먼트", locale = "ko", original = true },
+  { name = "YG Entertainment", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "http://ygfamily.com/" },
+]

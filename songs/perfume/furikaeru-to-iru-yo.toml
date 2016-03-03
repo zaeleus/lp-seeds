@@ -1,0 +1,5 @@
+names = [
+  { name = "ふりかえるといるよ", locale = "ja", original = true },
+  { name = "Furikaeru to Iru yo", locale = "ja-Latn", default = true },
+  { name = "I'll Have to Look Back", locale = "en" },
+]

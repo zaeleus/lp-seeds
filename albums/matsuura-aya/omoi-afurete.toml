@@ -1,0 +1,14 @@
+artist_id = "matsuura-aya"
+kind = "lp"
+
+names = [
+  { name = "想いあふれて", locale = "ja", original = true },
+  { name = "Omoi Afurete", locale = "ja-Latn", default = true },
+  { name = "Overflowing Memories", locale = "en" },
+]
+
+[[releases]]
+released_on = "2009-01-21"
+country = "JP"
+catalog_number = "EPCE-5611"
+media = [{ kind = "cd" }]

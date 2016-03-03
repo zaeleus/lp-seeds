@@ -1,0 +1,12 @@
+medium_ids = [
+  "after-school/shh/cd-dvd/cd1",
+  "after-school/shh/cd-photobook/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "after-school/shh"
+
+[[tracks]]
+position = 2
+song_id = "after-school/rock-it"

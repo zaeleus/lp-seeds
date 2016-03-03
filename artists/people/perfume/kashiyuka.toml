@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1988-12-23"
+country = "JP"
+
+names = [
+  { name = "かしゆか", locale = "ja", kind = "stage", original = true },
+  { name = "Kashiyuka", locale = "ja-Latn", kind = "stage", default = true },
+  { name = "樫野有香", locale = "ja", kind = "real" },
+  { name = "Kashino Yuka", locale = "ja-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"
+height = 160

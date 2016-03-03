@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1998-04-03"
+country = "JP"
+
+names = [
+  { name = "大塚愛菜", locale = "ja", kind = "real", original = true },
+  { name = "Otsuka Aina", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 154

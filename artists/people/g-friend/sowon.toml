@@ -1,0 +1,18 @@
+kind = "person"
+started_on = "1995-12-07"
+country = "KR"
+
+names = [
+  { name = "소원", locale = "ko", kind = "stage", original = true },
+  { name = "Sowon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김소정", locale = "ko", kind = "real" },
+  { name = "Kim So Jung", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "source-music-entertainment" }]
+
+[metadata]
+height = 172
+weight = 50
+blood_type = "A"
+

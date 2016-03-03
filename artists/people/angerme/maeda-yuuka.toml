@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1994-12-28"
+country = "JP"
+
+names = [
+  { name = "前田憂佳", locale = "ja", kind = "real", original = true },
+  { name = "Maeda Yuuka", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "B"
+height = 159

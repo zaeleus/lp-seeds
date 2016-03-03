@@ -1,0 +1,21 @@
+medium_ids = [
+  "perfume/level3/analog-record-clear/vinyl1",
+  "perfume/level3/analog-record-pink/vinyl1",
+  "perfume/level3/analog-record-yellow/vinyl1",
+]
+
+[[tracks]]
+position = 1
+song_id = "perfume/enter-the-sphere"
+
+[[tracks]]
+position = 2
+song_id = "perfume/spring-of-life-album-mix"
+
+[[tracks]]
+position = 3
+song_id = "perfume/magic-of-love-album-mix"
+
+[[tracks]]
+position = 4
+song_id = "perfume/clockwork"

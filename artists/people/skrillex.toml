@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1988-01-15"
+country = "US"
+
+names = [
+  { name = "Skrillex", locale = "en", kind = "stage", original = true, default = true },
+  { name = "Sonny John Moore", locale = "en", kind = "real" },
+]

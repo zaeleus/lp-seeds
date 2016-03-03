@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1998-10-30"
+country = "JP"
+
+names = [
+  { name = "田村芽実", locale = "ja", kind = "real", original = true },
+  { name = "Tamura Meimi", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"

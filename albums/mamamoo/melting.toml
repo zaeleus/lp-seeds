@@ -1,0 +1,25 @@
+artist_id = "mamamoo"
+kind = "lp"
+
+names = [
+  { name = "Melting", locale = "ko", original = true, default = true },
+]
+
+#[[releases]]
+#released_on = "2016-02-26"
+#country = "KR"
+#media = [{ kind = "digital" }]
+#url = [
+  #{ url = "http://www.melon.com/album/detail.htm?albumId=2669407" },
+  #{ url = "http://www.mnet.com/album/532069" },
+  #{ url = "https://open.spotify.com/album/4x2afg5wUzbfURyzacNACm" },
+#]
+
+[[releases]]
+released_on = "2016-02-26"
+country = "KR"
+catalog_number = "CMAC-10749"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=034203288" },
+]

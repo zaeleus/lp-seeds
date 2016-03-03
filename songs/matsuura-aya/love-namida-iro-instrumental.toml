@@ -1,0 +1,5 @@
+names = [
+  { name = "LOVE涙色 (Instrumental)", locale = "ja", original = true },
+  { name = "LOVE Namida Iro (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "LOVE The Color of Tears (Instrumental)", locale = "en" },
+]

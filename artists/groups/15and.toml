@@ -1,0 +1,23 @@
+kind = "group"
+started_on = "2012"
+country = "KR"
+
+names = [
+  { name = "피프틴앤드", locale = "ko", original = true },
+  { name = "15&", locale = "ko-Latn", default = true },
+  { name = "Fifteen And", locale = "en" },
+]
+
+labels = [{ id = "jyp-entertainment" }]
+
+members = [
+  { id = "15and/jimin" },
+  { id = "15and/yerin" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/user/15andOfficial" },
+  { url = "http://15and.jype.com/" },
+  { url = "https://twitter.com/15andOfficial" },
+  { url = "https://www.facebook.com/15andOfficial" },
+]

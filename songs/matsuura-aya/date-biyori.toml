@@ -1,0 +1,5 @@
+names = [
+  { name = "デート日和", locale = "ja", original = true },
+  { name = "Date Biyori", locale = "ja-Latn", default = true },
+  { name = "Date Weather", locale = "en" },
+]

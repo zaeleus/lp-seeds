@@ -1,0 +1,22 @@
+kind = "person"
+started_on = "1987-01-19"
+country = "KR"
+
+names = [
+  { name = "현아", locale = "ko", kind = "stage", original = true },
+  { name = "Hyun A", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "문현아", locale = "ko", kind = "real" },
+  { name = "Moon Hyun Ah", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+urls = [
+  { url = "https://www.instagram.com/moongom119/" },
+  { url = "https://twitter.com/moongom119" },
+]
+
+[metadata]
+blood_type = "O"
+height = 172
+weight = 50

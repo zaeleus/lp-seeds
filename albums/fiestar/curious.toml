@@ -1,0 +1,15 @@
+artist_id = "fiestar"
+kind = "single"
+
+names = [
+  { name = "Curious", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2013-11-04"
+country = "KR"
+catalog_number = "L100004804"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001208203" },
+]

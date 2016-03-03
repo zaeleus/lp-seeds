@@ -1,0 +1,12 @@
+medium_ids = [
+  "morning-musume/oh-my-wish-sukatto-my-heart-ima-sugu-tobikomu-yuuki/limited-edition-c/dvd2",
+]
+
+[[tracks]]
+position = 1
+song_id = "morning-musume/ima-sugu-tobikomu-yuuki"
+names = [
+  { name = "今すぐ飛び込む勇気 (Music Video)", locale = "ja", original = true },
+  { name = "Ima Sugu Tobikomu Yuuki (Music Video)", locale = "ja-Latn", default = true },
+  { name = "The Courage to Jump in Right Now (Music Video)", locale = "en" },
+]

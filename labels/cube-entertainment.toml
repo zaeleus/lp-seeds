@@ -1,0 +1,10 @@
+started_on = "2006-08-29"
+
+names = [
+  { name = "Cube Entertainment", locale = "ko", default = true, original = true },
+]
+
+urls = [
+  { url: "http://www.cubeent.co.kr/", kind = "official" },
+  { url: "http://www.youtube.com/user/theunitedcube", kind = "youtube" },
+]

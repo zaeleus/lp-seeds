@@ -1,0 +1,24 @@
+names = [
+  { name = "너같은", locale = "ko", original = true },
+  { name = "Neogateun", locale = "ko-Latn", default = true },
+  { name = "Someone Like U", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=6H1QOFBNRWs", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "dal-shabet/serri", kind = "performer" },
+  { artist_id = "dal-shabet/ah-young", kind = "performer" },
+  { artist_id = "dal-shabet/su-bin", kind = "performer" },
+  { artist_id = "dal-shabet/woo-hee", kind = "performer" },
+  { artist_id = "brave-brothers", kind = "lyricist" },
+  { artist_id = "brave-brothers", kind = "composer" },
+  { artist_id = "js", kind = "composer" },
+  { artist_id = "glen-choi", kind = "composer" },
+  { artist_id = "fingazz", kind = "composer" },
+  { artist_id = "chantelle-paige", kind = "composer" },
+  { artist_id = "brave-brothers", kind = "arranger" },
+  { artist_id = "js", kind = "arranger" },
+]

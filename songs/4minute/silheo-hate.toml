@@ -1,0 +1,30 @@
+names = [
+  { name = "싫어 (Hate)", locale = "ko", original = true },
+  { name = "Silheo (Hate)", locale = "ko-Latn", default = true },
+  { name = "Hate", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=D_F9HUTYnl0", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "4minute/ga-yoon", kind = "performer" },
+  { artist_id = "4minute/hyun-a", kind = "performer" },
+  { artist_id = "4minute/ji-hyun", kind = "performer" },
+  { artist_id = "4minute/ji-yoon", kind = "performer" },
+  { artist_id = "4minute/so-hyun", kind = "performer" },
+
+  { artist_id = "seo-jae-woo", kind = "lyricist" },
+  { artist_id = "son-young-jin", kind = "lyricist" },
+  { artist_id = "4minute/ji-yoon", kind = "lyricist" }, # TODO credited as Jenyer
+  { artist_id = "4minute/hyun-a", kind = "lyricist" },
+
+  { artist_id = "seo-jae-woo", kind = "composer" },
+  { artist_id = "son-young-jin", kind = "composer" },
+  { artist_id = "skrillex", kind = "composer" },
+
+  { artist_id = "seo-jae-woo", kind = "arranger" },
+  { artist_id = "son-young-jin", kind = "arranger" },
+  { artist_id = "skrillex", kind = "arranger" },
+]

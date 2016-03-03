@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1995-07-02"
+country = "JP"
+
+names = [
+  { name = "金澤朋子", locale = "ja", kind = "real", original = true },
+  { name = "Kanazawa Tomoko", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "B"
+height = 161

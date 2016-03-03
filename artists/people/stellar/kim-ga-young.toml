@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1991-12-02"
+country = "KR"
+
+names = [
+  { name = "김가영", locale = "ko", kind = "real", original = true },
+  { name = "Kim Ga Young", locale = "ko-Latn", kind = "real", default = true },
+]
+
+labels = [{ id = "the-entertainment-pascal" }]
+
+[metadata]
+height = 170
+weight = 48
+blood_type = "O"

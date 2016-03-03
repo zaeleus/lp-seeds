@@ -1,0 +1,12 @@
+medium_ids = [
+  "morning-musume/oh-my-wish-sukatto-my-heart-ima-sugu-tobikomu-yuuki/limited-edition-b/dvd2",
+]
+
+[[tracks]]
+position = 1
+song_id = "morning-musume/sukatto-my-heart"
+names = [
+  { name = "スカッとMy Heart (Music Video)", locale = "ja", original = true },
+  { name = "Sukatto My Heart (Music Video)", locale = "ja-Latn", default = true },
+  { name = "Refresh My Heart (Music Video)", locale = "en" },
+]

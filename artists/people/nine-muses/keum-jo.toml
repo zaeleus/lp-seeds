@@ -1,0 +1,22 @@
+kind = "person"
+started_on = "1992-12-17"
+country = "KR"
+
+names = [
+  { name = "금조", locale = "ko", kind = "stage", original = true },
+  { name = "Keum Jo", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이금조", locale = "ko", kind = "real" },
+  { name = "Lee Keum Jo", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+urls = [
+  { url = "https://www.instagram.com/keumjo_1217/" },
+  { url = "https://twitter.com/keumjo_1217" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 167
+weight = 48

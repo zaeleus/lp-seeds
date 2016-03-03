@@ -1,0 +1,15 @@
+artist_id = "apink"
+kind = "ep"
+
+names = [
+  { name = "Snow Pink", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2011-11-22"
+country = "KR"
+catalog_number = "CMCC-9838"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=800504390" },
+]

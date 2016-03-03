@@ -1,0 +1,26 @@
+artist_id = "crayon-pop"
+kind = "lp"
+
+names = [
+  { name = "CRAYON POP", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-01-20"
+country = "JP"
+catalog_number = "PCCA-04326"
+disambiguation = "Limited Edition"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/600963/products/1160753/1/" },
+]
+
+[[releases]]
+released_on = "2016-01-20"
+country = "JP"
+catalog_number = "PCCA-04327"
+disambiguation = "Regular Edition"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/600963/products/1160755/1/" },
+]

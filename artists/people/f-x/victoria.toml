@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1987-02-02"
+country = "KR"
+
+names = [
+  { name = "빅토리아", locale = "ko", kind = "stage", original = true },
+  { name = "Victoria", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "宋茜", locale = "zn", kind = "real" },
+  { name = "Song Qian", locale = "zn-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/vic_to_ri_a2/" },
+]
+
+[metadata]
+blood_type = "A"
+height = 168
+weight = 51

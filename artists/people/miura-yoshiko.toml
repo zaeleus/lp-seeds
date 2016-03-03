@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "JP"
+
+names = [
+  { name = "三浦徳子", locale = "ja", kind = "stage", original = true },
+  { name = "Miura Yoshiko", locale = "ja-Latn", kind = "stage", default = true },
+]

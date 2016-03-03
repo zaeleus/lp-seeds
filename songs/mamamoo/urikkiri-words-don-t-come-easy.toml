@@ -1,0 +1,5 @@
+names = [
+  { name = "우리끼리 (Words Don't Come Easy)", locale = "ko", original = true },
+  { name = "Urikkiri (Words Don't Come Easy)", locale = "ko-Latn", default = true },
+  { name = "Between Us (Words Don't Come Easy)", locale = "en" },
+]

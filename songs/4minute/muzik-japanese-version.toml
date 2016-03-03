@@ -1,0 +1,9 @@
+names = [
+  { name = "Muzik (Japanese Version)", locale = "ja", original = true, default = true },
+]
+artist_credits = [{
+  artist_id = "4minute",
+  names = [
+    { name = "4Minute", locale = "ja", original = true, default = true },
+  ],
+}]

@@ -1,0 +1,17 @@
+artist_id = "apink"
+kind = "lp"
+
+names = [
+  { name = "UNE ANNEE", locale = "ko", original = true, default = true },
+  { name = "Une Année", locale = "fr" },
+  { name = "A Year", locale = "en" },
+]
+
+[[releases]]
+released_on = "2012-05-09"
+country = "KR"
+catalog_number = "CMCC-9911"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=811800229" },
+]

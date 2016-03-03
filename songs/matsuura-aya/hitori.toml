@@ -1,0 +1,11 @@
+names = [
+  { name = "ひとり", locale = "ja", original = true },
+  { name = "Hitori", locale = "ja-Latn", default = true },
+  { name = "Alone", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "nakano-yuuta", kind = "lyricist" },
+  { artist_id = "nakano-yuuta", kind = "composer" },
+  { artist_id = "nakano-yuuta", kind = "arranger" },
+]

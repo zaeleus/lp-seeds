@@ -1,0 +1,10 @@
+started_on = "1999-02"
+
+names = [
+  { name = "싸이더스HQ", locale = "ko", original = true },
+  { name = "SidusHQ", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "http://www.sidushq.com/" },
+]

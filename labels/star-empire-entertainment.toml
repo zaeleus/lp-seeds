@@ -1,0 +1,10 @@
+names = [
+  { name = "스타제국", locale = "ko", original = true },
+  { name = "Star Empire Entertainment", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "http://starempire.co.kr/" },
+  { url = "https://www.youtube.com/user/Starempireofficial" },
+  { url = "https://twitter.com/STAREMPIRE_" },
+]

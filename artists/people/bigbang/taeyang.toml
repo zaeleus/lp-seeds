@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1988-03-18"
+country = "KR"
+
+names = [
+  { name = "Taeyang", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "SoL", locale = "ja", kind = "stage" },
+  { name = "동영배", locale = "ko", kind = "real" },
+  { name = "Dong Young Bae", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "B"
+height = 171
+weight = 58

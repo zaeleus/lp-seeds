@@ -1,0 +1,18 @@
+kind = "group"
+started_on = "2014"
+country = "KR"
+
+names = [
+  { name = "GDxTaeyang", locale = "ko", original = true, default = true },
+]
+
+labels = [{ id = "yg-entertainment" }]
+
+members = [
+  { id = "bigbang/g-dragon" },
+  { id = "bigbang/taeyang" },
+]
+
+urls = [
+  { url = "http://www.ygfamily.com/artist/Main.asp?LANGDIV=K&ATYPE=2&ARTIDX=62" },
+]

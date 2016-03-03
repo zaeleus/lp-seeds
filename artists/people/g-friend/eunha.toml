@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1996-05-30"
+country = "KR"
+
+names = [
+  { name = "은하", locale = "ko", kind = "stage", original = true },
+  { name = "Eunha", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정은비", locale = "ko", kind = "real" },
+  { name = "Jugn Eun Bi", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "source-music-entertainment" }]
+
+[metadata]
+height = 163
+weight = 45
+blood_type = "O"

@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1994-12-24"
+country = "KR"
+
+names = [
+  { name = "설아", locale = "ko", kind = "stage", original = true },
+  { name = "Seol A", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김현정", locale = "ko", kind = "real" },
+  { name = "Kim Hyun Jung", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"

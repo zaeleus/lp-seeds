@@ -1,0 +1,13 @@
+artist_id = "lovelyz/jin"
+kind = "single"
+
+names = [
+  { name = "너만 없다", locale = "ko", original = true },
+  { name = "Neoman Eobsda", locale = "ko-Latn", default = true },
+  { name = "You're Gone", locale = "en" },
+]
+
+[[releases]]
+released_on = "2013-11-08"
+country = "KR"
+media = [{ kind = "digital" }]

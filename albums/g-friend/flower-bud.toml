@@ -1,0 +1,15 @@
+artist_id = "g-friend"
+kind = "ep"
+
+names = [
+  { name = "Flower Bud", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-07-27"
+country = "KR"
+catalog_number = "KTMCD-0551"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=045400817" },
+]

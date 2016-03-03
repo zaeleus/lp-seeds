@@ -1,0 +1,57 @@
+artist_id = "4minute"
+kind = "single"
+
+names = [
+  { name = "Muzik", locale = "ja", original = true, default = true },
+]
+
+artist_credits = [{
+  artist_id = "4minute",
+  names = [
+    { name = "4Minute", locale = "ja", original = true, default = true },
+  ],
+}]
+
+[[releases]]
+released_on = "2010-05-05"
+country = "JP"
+catalog_number = "UMCF-9529"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition A"
+url = [
+  { url = "", kind = "oricon" },
+  { url = "", kind = "official" },
+]
+
+[[releases]]
+released_on = "2010-05-05"
+country = "JP"
+catalog_number = "UMCF-9530"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition B"
+url = [
+  { url = "", kind = "oricon" },
+  { url = "", kind = "official" },
+]
+
+[[releases]]
+released_on = "2010-05-05"
+country = "JP"
+catalog_number = "UMCF-9531"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition C"
+url = [
+  { url = "", kind = "oricon" },
+  { url = "", kind = "official" },
+]
+
+[[releases]]
+released_on = "2010-05-05"
+country = "JP"
+catalog_number = "UMCF-5055"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+url = [
+  { url = "", kind = "oricon" },
+  { url = "", kind = "official" },
+]

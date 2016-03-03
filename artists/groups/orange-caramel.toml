@@ -1,0 +1,14 @@
+kind = "group"
+started_on = "2010-06-06"
+country = "KR"
+
+names = [
+  { name = "오렌지캬라멜", locale = "ko", original = true },
+  { name = "Orange Caramel", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "after-school/raina" },
+  { id = "after-school/nana" },
+  { id = "after-school/lizzy" },
+]

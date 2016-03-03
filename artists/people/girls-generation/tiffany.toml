@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1989-08-01"
+country = "KR"
+
+names = [
+  { name = "티파니", locale = "ko", kind = "stage", original = true },
+  { name = "Tiffany", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "황미영", locale = "ko", kind = "real" },
+  { name = "Hwang Mi Young", locale = "ko-Latn", kind = "real" },
+  { name = "스테파니 황", locale = "ko", kind = "real" },
+  { name = "Stephanie Hwang", locale = "en", kind = "real" },
+]
+
+[metadata]
+blood_type = "O"
+height = 164
+weight = 50

@@ -1,0 +1,15 @@
+artist_id = "apink"
+kind = "lp"
+
+names = [
+  { name = "Pink Blossom", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2014-03-31"
+country = "KR"
+catalog_number = "L200001007"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001208422" },
+]

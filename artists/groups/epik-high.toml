@@ -1,0 +1,20 @@
+kind = "group"
+started_on = "2000"
+country = "KR"
+
+names = [
+  { name = "에픽 하이", locale = "ko", original = true },
+  { name = "Epik High", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "epik-high/tablo" },
+  { id = "epik-high/mithra-jin" },
+  { id = "epik-high/dj-tukutz" },
+]
+
+urls = [
+  { url = "http://www.ygfamily.com/artist/Main.asp?LANGDIV=K&ATYPE=2&ARTIDX=50" },
+  { url = "https://www.facebook.com/EPIKHIGH" },
+  { url = "https://www.youtube.com/user/mapthesoul" },
+]

@@ -1,0 +1,21 @@
+kind = "group"
+started_on = "2014-11-04"
+country = "JP"
+
+names = [
+  { name = "カントリー・ガールズ", locale = "ja", original = true },
+  { name = "Country Girls", locale = "ja-Latn", default = true },
+]
+
+members = [
+  { id = "berryz-koubou/tsugunaga-momoko", started_on = "2014-11-04" },
+  { id = "country-girls/yamaki-risa", started_on = "2014-11-04" },
+  { id = "country-girls/inaba-manaka", started_on = "2014-11-04" },
+  { id = "country-girls/morito-chisaki", started_on = "2014-11-04" },
+  { id = "country-girls/ozeki-mai", started_on = "2014-11-04" },
+  { id = "country-girls/yanagawa-nanami", started_on = "2015-11-05" },
+  { id = "country-girls/funaki-musubu", started_on = "2015-11-05" },
+
+  { id = "country-girls/shimamura-uta", started_on = "2014-11-04", ended_on = "2015-06-12" }
+]
+

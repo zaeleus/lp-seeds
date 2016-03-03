@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1991-02-08"
+country = "KR"
+
+names = [
+  { name = "지숙", locale = "ko", kind = "stage", original = true },
+  { name = "Ji Sook", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김지숙", locale = "ko", kind = "real" },
+  { name = "Kim Ji Sook", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "dsp-media" }]
+
+[metadata]
+height = 164
+weight = 41

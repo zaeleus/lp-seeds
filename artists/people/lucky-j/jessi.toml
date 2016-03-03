@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1988-12-17"
+country = "KR"
+
+names = [
+  { name = "제시", locale = "ko", kind = "stage", original = true },
+  { name = "Jessi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Jessica H.O", locale = "ko", kind = "stage" },
+  { name = "호현주", locale = "ko", kind = "real" },
+  { name = "Ho Hyun Joo", locale = "ko-Latn", kind = "real" },
+]

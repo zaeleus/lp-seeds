@@ -1,0 +1,5 @@
+names = [
+  { name = "今はレットイットビー", locale = "ja", original = true },
+  { name = "Ima wa Let It Be", locale = "ja-Latn", default = true },
+  { name = "Now Let It Be", locale = "en" },
+]

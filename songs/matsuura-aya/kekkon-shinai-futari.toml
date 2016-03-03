@@ -1,0 +1,5 @@
+names = [
+  { name = "結婚しない二人", locale = "ja", original = true },
+  { name = "Kekkon Shinai Futari", locale = "ja-Latn", default = true },
+  { name = "Two People Who Don't Get Married", locale = "en" },
+]

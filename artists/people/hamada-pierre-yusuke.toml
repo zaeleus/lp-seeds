@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "JP"
+
+names = [
+  { name = "浜田ピエール裕介", locale = "ja", kind = "real", original = true },
+  { name = "Hamada Pierre Yusuke", locale = "ja-Latn", kind = "real", default = true },
+]

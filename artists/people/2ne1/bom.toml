@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1984-03-24"
+country = "KR"
+
+names = [
+  { name = "봄", locale = "ko", kind = "stage", original = true },
+  { name = "Bom", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박봄", locale = "ko", kind = "real" },
+  { name = "Park Bom", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/haroobomkum" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 164
+weight = 50

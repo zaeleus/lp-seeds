@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1997-03-10"
+country = "KR"
+
+names = [
+  { name = "육지담", locale = "ko", kind = "real", original = true },
+  { name = "Yuk Ji Dam", locale = "ko-Latn", kind = "real", default = true },
+]

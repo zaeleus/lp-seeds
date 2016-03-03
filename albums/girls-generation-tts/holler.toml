@@ -1,0 +1,20 @@
+artist_id = "girls-generation-tts"
+kind = "ep"
+
+names = [
+  { name = "Holler", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2014-09-16"
+country = "KR"
+media = [{ kind = "digital" }]
+
+[[releases]]
+released_on = "2014-09-18"
+country = "KR"
+catalog_number = "SMK-0400"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=007900011" },
+]

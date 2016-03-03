@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "JP"
+
+names = [
+  { name = "平田祥一郎", locale = "ja", kind = "real", original = true },
+  { name = "Hirata Shouichirou", locale = "ja-Latn", kind = "real", default = true },
+]

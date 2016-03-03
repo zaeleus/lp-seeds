@@ -1,0 +1,5 @@
+names = [
+  { name = "友情～上カルビ～", locale = "ja", original = true },
+  { name = "Yuujou ~Jou Kalbi~", locale = "ja-Latn", default = true },
+  { name = "Friendship ~High Quality Kalbi~", locale = "en" },
+]

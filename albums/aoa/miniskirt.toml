@@ -1,0 +1,28 @@
+artist_id = "aoa"
+kind = "single"
+
+names = [
+  { name = "ミニスカート", locale = "ja", original = true },
+  { name = "Miniskirt", locale = "ja-Latn", default = true },
+  { name = "Miniskirt", locale = "en" },
+]
+
+[[releases]]
+released_on = "2014-10-01"
+country = "JP"
+catalog_number = "UICV-9069"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Type A"
+url = [
+  { url = "http://www.oricon.co.jp/prof/artist/624071/products/music/1093393/1/" },
+]
+
+[[releases]]
+released_on = "2014-10-01"
+country = "JP"
+catalog_number = "UICV-9070"
+media = [{ kind = "cd" }]
+disambiguation = "Type B"
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1093397/1/" },
+]

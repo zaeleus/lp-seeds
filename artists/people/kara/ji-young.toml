@@ -1,0 +1,21 @@
+kind = "person"
+started_on = "1994-01-18"
+country = "KR"
+
+names = [
+  { name = "지영", locale = "ko", kind = "stage", original = true },
+  { name = "Ji Young", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "ジヨン", locale = "ja", kind = "stage" },
+  { name = "知英", locale = "zh", kind = "stage" },
+  { name = "강지영", locale = "ko", kind = "real" },
+  { name = "Kang Ji Young", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/kkangjji_/" },
+]
+
+[metadata]
+blood_type = "O"
+height = 168
+weight = 45

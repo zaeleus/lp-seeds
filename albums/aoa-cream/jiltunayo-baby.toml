@@ -1,0 +1,13 @@
+artist_id = "aoa-cream"
+kind = "single"
+
+names = [
+  { name = "질투 나요 BABY", locale = "ko", original = true },
+  { name = "Jiltunayo BABY", locale = "ko-Latn", default = true },
+  { name = "I'm Jelly BABY", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-02-12"
+country = "KR"
+media = [{ kind = "digital" }]

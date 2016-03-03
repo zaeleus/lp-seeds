@@ -1,0 +1,24 @@
+medium_ids = [
+  "matsuura-aya/zutto-suki-de-ii-desu-ka/single-v/dvd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/zutto-suki-de-ii-desu-ka"
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/zutto-suki-de-ii-desu-ka"
+names = [
+  { name = "ずっと 好きでいいですか (Another Edition)", locale = "ja", original = true },
+  { name = "Zutto Suki de Ii Desu ka (Another Edition)", locale = "ja-Latn", default = true },
+  { name = "Can I Love You Forever? (Another Edition)", locale = "en" },
+]
+
+[[tracks]]
+position = 3
+names = [
+  { name = "メイキング映像", locale = "ja", original = true },
+  { name = "Making Eizou", locale = "ja-Latn", default = true },
+  { name = "Making of", locale = "en" },
+]

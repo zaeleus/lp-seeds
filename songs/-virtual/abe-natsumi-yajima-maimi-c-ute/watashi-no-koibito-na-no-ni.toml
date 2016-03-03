@@ -1,0 +1,16 @@
+names = [
+  { name = "私の恋人なのに", locale = "ja", original = true },
+  { name = "Watashi no Koibito na no ni", locale = "ja-Latn", default = true },
+  { name = "Even Though You're My Lover", locale = "en" },
+]
+
+artist_credits = [{
+  artist_id = "morning-musume/abe-natsumi",
+  separator = " & ",
+}, {
+  artist_id = "c-ute/yajima-maimi",
+  names = [
+    { name = "矢島舞美 (°C-ute)", locale = "ja", kind = "real", original = true },
+    { name = "Yajima Maimi (°C-ute)", locale = "ja-Latn", kind = "real", default = true },
+  ],
+}]

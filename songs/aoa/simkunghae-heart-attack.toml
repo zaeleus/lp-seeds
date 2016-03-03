@@ -1,0 +1,9 @@
+names = [
+  { name = "심쿵해 (Heart Attack)", locale = "ko", original = true },
+  { name = "Simkunghae (Heart Attack)", locale = "ko-Latn", default = true },
+  { name = "Heart Attack", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=1pBgMBBsv4k", name = "Music Video" },
+]

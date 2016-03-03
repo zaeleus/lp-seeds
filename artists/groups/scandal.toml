@@ -1,0 +1,14 @@
+kind = "group"
+started_on = "2006-08"
+country = "JP"
+
+names = [
+  { name = "SCANDAL", locale = "ja", original = true, default = true },
+]
+
+members = [
+  { id = "scandal/haruna" },
+  { id = "scandal/mami" },
+  { id = "scandal/tomomi" },
+  { id = "scandal/rina" },
+]

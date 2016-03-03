@@ -1,0 +1,5 @@
+names = [
+  { name = "그녀는 바람둥이야 (Feat. 동우 of 인피니트) (Babysoul & Kei)", locale = "ko", original = true },
+  { name = "Geunyeoneun Baramdungiya (Feat. Dong Woo of Infinite) (Babysoul & Kei)", locale = "ko-Latn", default = true },
+  { name = "She's a Flirt (Feat. Dong Woo of Infinite) (Babysoul & Kei)", locale = "en" },
+]

@@ -1,0 +1,12 @@
+artist_id = "red-velvet"
+kind = "ep"
+
+names = [
+  { name = "Ice Cream Cake", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-03-17"
+country = "KR"
+catalog_number = "SMK-0490"
+media = [{ kind = "cd" }]

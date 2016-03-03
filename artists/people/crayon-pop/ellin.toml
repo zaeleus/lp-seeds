@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1990-04-02"
+country = "KR"
+
+names = [
+  { name = "엘린", locale = "ko", kind = "stage", original = true },
+  { name = "Ellin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "エリン", locale = "ja", kind = "stage" },
+  { name = "김민영", locale = "ko", kind = "real" },
+  { name = "Kim Min Young", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "chrome-entertainment" }]
+
+[metadata]
+blood_type = "B"
+height = 165

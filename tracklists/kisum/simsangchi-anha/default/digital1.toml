@@ -1,0 +1,13 @@
+medium_ids = [
+  "kisum/simsangchi-anha/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "kisum/simsangchi-anha-feat-joo-young"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song_id = "kisum/simsangchi-anha-inst"
+duration = "3:14"

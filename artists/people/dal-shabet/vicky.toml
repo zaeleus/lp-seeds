@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1988-03-03"
+country = "KR"
+
+names = [
+  { name = "비키", locale = "ko", kind = "stage", original = true },
+  { name = "Vicky", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "강은혜", locale = "ko", kind = "real" },
+  { name = "Kang Eun Hye", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "happyface-entertainment" }]
+
+[metadata]
+height = 172
+weight = 50

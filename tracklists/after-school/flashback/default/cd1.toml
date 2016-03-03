@@ -1,0 +1,28 @@
+medium_ids = [
+  "after-school/flashback/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "after-school/rip-off"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song_id = "after-school/flashback"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song_id = "after-school/eyeline-tu-si"
+duration = "3:16"
+
+[[tracks]]
+position = 4
+song_id = "after-school/sonmoksigye"
+duration = "4:09"
+
+[[tracks]]
+position = 5
+song_id = "after-school/timeless"
+duration = "3:52"

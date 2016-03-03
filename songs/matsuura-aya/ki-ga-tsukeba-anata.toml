@@ -1,0 +1,5 @@
+names = [
+  { name = "気がつけば　あなた", locale = "ja", original = true },
+  { name = "Ki ga Tsukeba Anata", locale = "ja-Latn", default = true },
+  { name = "When I Realize It, It's You", locale = "en" },
+]

@@ -1,0 +1,8 @@
+medium_ids = [
+  "lovelyz/jakbyeolhana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "lovelyz/jakbyeolhana"
+duration = "3:14"

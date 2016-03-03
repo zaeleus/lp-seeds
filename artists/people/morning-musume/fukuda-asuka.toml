@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1984-12-17"
+country = "JP"
+
+names = [
+  { name = "福田明日香", locale = "ja", kind = "real", original = true },
+  { name = "Fukuda Asuka", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "B"
+height = 149

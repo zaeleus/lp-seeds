@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1996-11-18"
+country = "JP"
+
+names = [
+  { name = "小川紗季", locale = "ja", kind = "real", original = true },
+  { name = "Ogawa Sasaki", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 153

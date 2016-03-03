@@ -1,0 +1,15 @@
+artist_id = "tahiti"
+kind = "single"
+
+names = [
+  { name = "Skip", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-11-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2648936" },
+  { url = "http://www.mnet.com/album/508108" },
+]

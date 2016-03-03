@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1989-05-07"
+country = "KR"
+
+names = [
+  { name = "레이나", locale = "ko", kind = "stage", original = true },
+  { name = "Raina", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "오혜린", locale = "ko", kind = "real" },
+  { name = "Oh Hye Rin", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "B"
+height = 165
+weight = 48

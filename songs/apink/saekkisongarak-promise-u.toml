@@ -1,0 +1,18 @@
+names = [
+  { name = "새끼손가락 (Promise U)", locale = "ko", original = true },
+  { name = "Saekkisongarak (Promise U)", locale = "ko-Latn", default = true },
+  { name = "Little Finger (Promise U)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=nzljAKtsOuw", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "apink/eun-ji", kind = "lyricist" },
+  { artist_id = "beom-nang", kind = "lyricist" },
+  { artist_id = "apink/eun-ji", kind = "composer" },
+  { artist_id = "beom-nang", kind = "composer" },
+  { artist_id = "apink/eun-ji", kind = "arranger" },
+  { artist_id = "beom-nang", kind = "arranger" },
+]

@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1983-01-06"
+country = "KR"
+
+names = [
+  { name = "미쓰라 진", locale = "ko", kind = "stage", original = true },
+  { name = "Mithra 眞", locale = "ko", kind = "stage" },
+  { name = "Mithra Jin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "최진", locale = "ko", kind = "real" },
+  { name = "Choi Jin", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/realmithrajin" },
+]

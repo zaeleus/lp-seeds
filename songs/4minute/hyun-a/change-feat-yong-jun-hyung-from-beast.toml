@@ -1,0 +1,13 @@
+names = [
+  { name = "Change (Feat. 용준형 from BEAST)", locale = "ko", original = true },
+  { name = "Change (Feat. Yong Jun Hyung from BEAST)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=G6JppjQSTh8", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "4minute/hyun-a", kind = "performer" },
+  { artist_id = "beast/yong-jun-hyung", kind = "performer" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "간지럽혀", locale = "ko", original = true },
+  { name = "Ganjireophyeo", locale = "ko-Latn", default = true },
+  { name = "Tickle Tickle Tickle", locale = "en" },
+]

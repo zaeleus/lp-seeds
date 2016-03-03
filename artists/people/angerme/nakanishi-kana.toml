@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1997-06-04"
+country = "JP"
+
+names = [
+  { name = "中西香菜", locale = "ja", kind = "real", original = true },
+  { name = "Nakanishi Kana", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"

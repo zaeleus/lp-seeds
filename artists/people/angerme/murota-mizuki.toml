@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1998-06-12"
+country = "JP"
+
+names = [
+  { name = "室田瑞希", locale = "ja", kind = "real", original = true },
+  { name = "Murota Mizuki", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "AB"
+height = 153

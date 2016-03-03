@@ -1,0 +1,15 @@
+artist_id = "apink"
+kind = "ep"
+
+names = [
+  { name = "Seven Springs of APink", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2011-04-19"
+country = "KR"
+catalog_number = "CMCC-9726"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=801206195" },
+]

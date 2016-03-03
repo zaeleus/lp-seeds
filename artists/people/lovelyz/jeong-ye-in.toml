@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1998-06-04"
+country = "KR"
+
+names = [
+  { name = "정예인", locale = "ko", kind = "real", original = true },
+  { name = "Jeong Ye In", locale = "ko-Latn", kind = "real", default = true },
+  { name = "郑晔", locale = "zh", kind = "real" },
+  { name = "Zheng Ye", locale = "zh-Latn", kind = "real" },
+]
+
+labels = [{ id = "woollim-entertainment" }]
+
+[metadata]
+blood_type = "B"
+height = 166

@@ -1,0 +1,15 @@
+artist_id = "girls-generation-tts"
+kind = "ep"
+
+names = [
+  { name = "Dear Santa", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-12-04"
+country = "KR"
+catalog_number = "SMK-0603"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=045400911" },
+]

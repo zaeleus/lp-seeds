@@ -1,0 +1,27 @@
+kind = "group"
+started_on = "2009"
+country = "KR"
+
+names = [
+  { name = "투애니원", locale = "ko", original = true },
+  { name = "2NE1", locale = "ko-Latn", default = true },
+  { name = "トゥエニィワン", locale = "ja" },
+]
+
+labels = [{ id = "yg-entertainment" }]
+
+members = [
+  { id = "2ne1/cl" },
+  { id = "2ne1/bom" },
+  { id = "2ne1/dara" },
+  { id = "2ne1/minzy" },
+]
+
+urls = [
+  { url = "http://www.yg-2ne1.com/" },
+  { url = "http://www.2ne1.jp/" },
+  { url = "https://www.facebook.com/2NE1/" },
+  { url = "https://twitter.com/GlobalBlackjack" },
+  { url = "https://www.youtube.com/user/2NE1" },
+]
+

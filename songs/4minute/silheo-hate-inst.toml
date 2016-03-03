@@ -1,0 +1,5 @@
+names = [
+  { name = "싫어 (Hate) (Inst.)", locale = "ko", original = true },
+  { name = "Silheo (Hate) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Hate (Inst.)", locale = "en" },
+]

@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1998-10-15"
+country = "KR"
+
+names = [
+  { name = "미기", locale = "ko", kind = "stage", original = true },
+  { name = "Mei Qi", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+[metadata]
+blood_type = "B"

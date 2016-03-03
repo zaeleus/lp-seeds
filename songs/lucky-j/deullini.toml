@@ -1,0 +1,9 @@
+names = [
+  { name = "들리니", locale = "ko", original = true },
+  { name = "Deullini", locale = "ko-Latn", default = true },
+  { name = "Can You Hear Me", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=jDPvocJ3Mq0", name = "Music Video" },
+]

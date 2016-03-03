@@ -1,0 +1,17 @@
+artist_id = "stellar"
+kind = "ep"
+
+names = [
+  { name = "찔려", locale = "ko", original = true },
+  { name = "Jjillyeo", locale = "ko-Latn", default = true },
+  { name = "Sting", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-01-18"
+country = "KR"
+catalog_number = "DK-0880"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nAlbum_info2.asp?mcode=006621420" },
+]

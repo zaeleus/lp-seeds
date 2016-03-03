@@ -1,0 +1,14 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "♡桃色片想い♡", locale = "ja", original = true },
+  { name = "♡Momoiro Kataomoi♡", locale = "ja-Latn", default = true },
+  { name = "Peach-Colored Unrequited Love", locale = "en" },
+]
+
+[[releases]]
+released_on = "2002-02-06"
+country = "JP"
+catalog_number = "EPCE-5141"
+media = [{ kind = "cd" }]

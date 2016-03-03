@@ -1,0 +1,9 @@
+names = [
+  { name = "미쳐", locale = "ko", original = true },
+  { name = "Michyeo", locale = "ko-Latn", default = true },
+  { name = "Crazy", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=1nCLBTmjJBY", name = "Music Video" },
+]

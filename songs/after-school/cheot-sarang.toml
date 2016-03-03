@@ -1,0 +1,9 @@
+names = [
+  { name = "첫 사랑", locale = "ko", original = true },
+  { name = "Cheot Sarang", locale = "ko-Latn", default = true },
+  { name = "First Love", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=zmS3Qh_SFwU", name = "Music Video" },
+]

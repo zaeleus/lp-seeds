@@ -1,0 +1,9 @@
+names = [
+  { name = "宝物", locale = "ja", original = true },
+  { name = "Takaramono", locale = "ja-Latn", default = true },
+  { name = "Treasure", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=boFKrQptghA", name = "Music Video" },
+]

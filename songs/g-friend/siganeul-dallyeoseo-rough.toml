@@ -1,0 +1,10 @@
+names = [
+  { name = "시간을 달려서 (Rough)", locale = "ko", original = true },
+  { name = "Siganeul Dallyeoseo (Rough)", locale = "ko-Latn", default = true  },
+  { name = "Rough", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=0VKcLPdY9lI", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=teBx5zNsgUs", name = "Music Video (Choreography Ver.)" },
+]

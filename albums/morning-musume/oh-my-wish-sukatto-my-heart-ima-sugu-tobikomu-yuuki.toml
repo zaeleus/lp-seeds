@@ -1,0 +1,72 @@
+artist_id = "morning-musume"
+kind = "single"
+
+names = [
+  { name = "Oh my wish! / スカッとMy Heart / 今すぐ飛び込む勇気", locale = "ja", original = true },
+  { name = "Oh my wish! / Sukatto My Heart / Ima Sugu Tobikomu Yuuki", locale = "ja-Latn", default = true },
+  { name = "Oh my wish! / Refresh My Heart / The Courage to Jump in Right Now", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "morning-musume", name = "Morning Musume '15" },
+]
+
+[[releases]]
+released_on = "2015-08-19"
+country = "JP"
+catalog_number = "EPCE-7129~30"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1134763/1/" },
+]
+
+[[releases]]
+released_on = "2015-08-19"
+country = "JP"
+catalog_number = "EPCE-7131~2"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1134764/1/" },
+]
+
+[[releases]]
+released_on = "2015-08-19"
+country = "JP"
+catalog_number = "EPCE-7133~4"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition C"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1134765/1/" },
+]
+
+[[releases]]
+released_on = "2015-08-19"
+country = "JP"
+catalog_number = "EPCE-7135"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1134766/1/" },
+]
+
+[[releases]]
+released_on = "2015-08-19"
+country = "JP"
+catalog_number = "EPCE-7136"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1134767/1/" },
+]
+
+[[releases]]
+released_on = "2015-08-19"
+country = "JP"
+catalog_number = "EPCE-7137"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition C"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1134768/1/" },
+]

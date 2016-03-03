@@ -1,0 +1,17 @@
+artist_id = "lucky-j"
+kind = "single"
+
+names = [
+  { name = "들리니", locale = "ko", original = true },
+  { name = "Deullini", locale = "ko-Latn", default = true },
+  { name = "Can You Hear Me", locale = "en" },
+]
+
+[[releases]]
+released_on = "2014-07-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2660903" },
+  { url = "http://www.mnet.com/album/521793" },
+]

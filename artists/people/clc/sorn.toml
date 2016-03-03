@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1996-11-18"
+country = "KR"
+
+names = [
+  { name = "손", locale = "ko", kind = "stage", original = true },
+  { name = "Sorn", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Chonnasorn Sajakul", locale = "th-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"
+height = 164
+weight = 48

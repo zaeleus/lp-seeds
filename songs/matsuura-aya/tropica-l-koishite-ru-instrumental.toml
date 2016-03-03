@@ -1,0 +1,5 @@
+names = [
+  { name = "トロピカ～ル恋して～る (Instrumental)", locale = "ja", original = true },
+  { name = "Tropica~l Koishite~ru (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Tropical Loving (Instrumental)", locale = "en" },
+]

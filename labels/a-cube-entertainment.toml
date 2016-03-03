@@ -1,0 +1,7 @@
+names = [
+  { name = "A Cube Entertainment", locale = "ko", default = true, original = true },
+]
+
+urls = [
+  { url = "http://www.a-cube.co.kr/" },
+]

@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1981-07-06"
+country = "KR"
+
+names = [
+  { name = "임광욱", locale = "ko", kind = "real", original = true },
+  { name = "Im Kwang Wook", locale = "ko-Latn", kind = "real", default = true },
+]

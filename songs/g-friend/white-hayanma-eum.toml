@@ -1,0 +1,5 @@
+names = [
+  { name = "White (하얀마음)", locale = "ko", original = true },
+  { name = "White (Hayanma Eum)", locale = "ko-Latn", default = true  },
+  { name = "White (White Heart)", locale = "en" },
+]

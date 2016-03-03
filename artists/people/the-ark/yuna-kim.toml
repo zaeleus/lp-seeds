@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1994-10-27"
+country = "KR"
+
+names = [
+  { name = "유나킴", locale = "ko", kind = "real", original = true },
+  { name = "Yuna Kim", locale = "ko-Latn", kind = "real", default = true },
+]
+
+labels = [{ id = "music-k-entertainment" }]
+
+[metadata]
+blood_type = "O"
+weight = 50
+height = 161

@@ -1,0 +1,24 @@
+artist_id = "brave-girls"
+kind = "ep"
+
+names = [
+  { name = "Back To Da Future", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2011-07-29"
+country = "KR"
+catalog_number = "L200000861"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nAlbum_info2.asp?mcode=001207351" },
+]
+
+[[releases]]
+released_on = "2011-07-29"
+country = "KR"
+media = [{ kind = "digital" }]
+url = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1354900" },
+  { url = "http://www.mnet.com/album/227401" },
+]

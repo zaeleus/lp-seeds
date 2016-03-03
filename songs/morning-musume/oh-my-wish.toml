@@ -1,0 +1,35 @@
+names = [
+  { name = "Oh my wish!", locale = "ja", original = true, default = true },
+]
+
+artist_credits = [{
+  artist_id = "morning-musume",
+  names = [
+    { name = "モーニング娘。 '15", locale = "ja", original = true },
+    { name = "Morning Musume '15'", locale = "ja-Latn", default = true },
+  ],
+}]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=XDw0rmCAZL4", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "morning-musume/fukumura-mizuki", kind = "performer" },
+  { artist_id = "morning-musume/ikuta-erina", kind = "performer" },
+  { artist_id = "morning-musume/sayashi-riho", kind = "performer" },
+  { artist_id = "morning-musume/suzuki-kanon", kind = "performer" },
+  { artist_id = "morning-musume/iikubo-haruna", kind = "performer" },
+  { artist_id = "morning-musume/ishida-ayumi", kind = "performer" },
+  { artist_id = "morning-musume/sato-masaki", kind = "performer" },
+  { artist_id = "morning-musume/kudo-haruka", kind = "performer" },
+  { artist_id = "morning-musume/oda-sakura", kind = "performer" },
+  { artist_id = "morning-musume/ogata-haruna", kind = "performer" },
+  { artist_id = "morning-musume/nonaka-miki", kind = "performer" },
+  { artist_id = "morning-musume/makino-maria", kind = "performer" },
+  { artist_id = "morning-musume/haga-akane", kind = "performer" },
+
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "ookubo-kaoru", kind = "arranger" },
+]

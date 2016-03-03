@@ -1,0 +1,23 @@
+kind = "person"
+started_on = "1987-10-03"
+country = "KR"
+
+names = [
+  { name = "세라", locale = "ko", kind = "stage", original = true },
+  { name = "Sera", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "류새라", locale = "ko", kind = "real" },
+  { name = "Ryu Sae Ra", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+urls = [
+  { url = "https://www.instagram.com/ryuserasera/" },
+  { url = "https://twitter.com/ryusera103" },
+  { url = "https://www.youtube.com/user/TheRyuSera" },
+]
+
+[metadata]
+blood_type = "A"
+height = 170
+weight = 50

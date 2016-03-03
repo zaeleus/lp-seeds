@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1994-11-07"
+country = "JP"
+
+names = [
+  { name = "飯窪春菜", locale = "ja", kind = "real", original = true },
+  { name = "Iikubo Haruna", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 160

@@ -1,0 +1,7 @@
+kind = "person"
+#started_on = ""
+country = "ZZ"
+
+names = [
+  { name = "Olivia Holt", locale = "ko", kind = "real", original = true, default = true },
+]

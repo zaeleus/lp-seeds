@@ -1,0 +1,11 @@
+names = [
+  { name = "夕暮れ", locale = "ja", original = true },
+  { name = "Yuugure", locale = "ja-Latn", default = true },
+  { name = "Evening", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "watanabe-cher", kind = "arranger" },
+]

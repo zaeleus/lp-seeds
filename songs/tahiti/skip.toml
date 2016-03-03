@@ -1,0 +1,15 @@
+names = [
+  { name = "Skip", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=FuwwmgNv_nA", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=kPp2kkGqVb4", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=4TAl2r818r8", name = "Teaser 3" },
+  { url = "https://www.youtube.com/watch?v=Tc909eoH2wo", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=wLteRLI59SU", name = "Music Video Making" },
+  { url = "https://www.youtube.com/watch?v=pW1RH16N9zc", name = "Recording Making" },
+  { url = "https://www.youtube.com/watch?v=pObpgDd2y6k", name = "Choreography Making" },
+  { url = "https://www.youtube.com/watch?v=Zeay-AEPKvA", name = "Music Video (360 VR)" },
+  { url = "https://www.youtube.com/watch?v=z9338bRwpGk", name = "Greetings (360 VR)" },
+]

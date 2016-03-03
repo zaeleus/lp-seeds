@@ -1,0 +1,15 @@
+artist_id = "exid"
+kind = "ep"
+
+names = [
+  { name = "AH YEAH", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-04-13"
+country = "KR"
+catalog_number = "S90843C"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=800213275" },
+]

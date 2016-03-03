@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1993-08-13"
+country = "KR"
+
+names = [
+  { name = "보미", locale = "ko", kind = "stage", original = true },
+  { name = "Bo Mi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "윤보미", locale = "ko", kind = "real" },
+  { name = "Yoon Bo Mi", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "a-cube-entertainment" }]
+
+[metadata]
+weight = 47
+height = 163
+

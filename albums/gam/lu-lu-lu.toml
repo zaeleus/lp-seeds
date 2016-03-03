@@ -1,0 +1,36 @@
+artist_id = "gam"
+kind = "single"
+
+names = [
+  { name = "LU LU LU", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2007-03-21"
+country = "JP"
+catalog_number = "HKCN-50046~7"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50046/" },
+]
+
+[[releases]]
+released_on = "2007-03-21"
+country = "JP"
+catalog_number = "HKCN-50048"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50046/" },
+]
+
+[[releases]]
+released_on = "2007-03-28"
+country = "JP"
+catalog_number = "HKBN-50080"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"
+urls = [
+  { url = "http://www.up-front-works.jp/release/detail/HKBN-50080/" },
+]

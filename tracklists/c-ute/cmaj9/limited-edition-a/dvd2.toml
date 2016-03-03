@@ -1,0 +1,71 @@
+medium_ids = [
+  "c-ute/cmaj9/limited-edition-a/dvd2",
+]
+
+# TODO incomplete
+
+[[tracks]]
+position = 1
+names = [
+  { name = "OPENING", locale = "ja", original = true, default = true },
+]
+
+# 2
+
+[[tracks]]
+position = 3
+song_id = "c-ute/love-take-it-all"
+
+[[tracks]]
+position = 4
+names = [
+  { name = "MC", locale = "ja", original = true, default = true },
+]
+
+# 5
+
+[[tracks]]
+position = 6
+song_id = "c-ute/the-future"
+
+[[tracks]]
+position = 7
+song_id = "c-ute/the-power"
+
+[[tracks]]
+position = 8
+names = [
+  { name = "MC", locale = "ja", original = true, default = true },
+]
+
+# 9, 10, 11
+
+[[tracks]]
+position = 12
+names = [
+  { name = "MC", locale = "ja", original = true, default = true },
+]
+
+# 13, 14, 15, 16
+
+[[tracks]]
+position = 17
+song_id = "c-ute/ai-tte-motto-zanshin"
+
+# 18, 19, 20
+
+[[tracks]]
+position = 21
+names = [
+  { name = "MC", locale = "ja", original = true, default = true },
+]
+
+# 22, 23
+
+[[tracks]]
+position = 24
+names = [
+  { name = "MC", locale = "ja", original = true, default = true },
+]
+
+# 25

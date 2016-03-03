@@ -1,0 +1,3 @@
+names = [
+  { name = "Yedang Entertainment", locale = "ko", original = true, default = true },
+]

@@ -1,0 +1,19 @@
+artist_id = "rainbow"
+kind = "ep"
+
+names = [
+  { name = "PRISM", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=w0QgXzrhDmg", name = "Preview" },
+]
+
+[[releases]]
+released_on = "2016-02-15"
+country = "KR"
+catalog_number = "L100005178"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001209362" },
+]

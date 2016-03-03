@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1974-03-13"
+country = "JP"
+
+names = [
+  { name = "稲葉貴子", locale = "ja", kind = "real", original = true },
+  { name = "Inaba Atsuko", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 151

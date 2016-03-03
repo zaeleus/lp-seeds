@@ -1,0 +1,11 @@
+names = [
+  { name = "Coma 07' (Prod. by DJ Juice, D.Theo)", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [
+  { artist_id = "cheetah" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=N9Wv0UEVsdo", name = "Music Video" },
+]

@@ -1,0 +1,3 @@
+names = [
+  { name = "YOKOHAMA SING A SONG", locale = "ja", original = true, default = true },
+]

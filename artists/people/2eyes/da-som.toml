@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1993-11-13"
+country = "KR"
+
+names = [
+  { name = "다솜", locale = "ko", kind = "stage", original = true },
+  { name = "Da Som", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이다솜", locale = "ko", kind = "real" },
+  { name = "Lee Da Som", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "sidushq" }]
+
+urls = [
+  { url = "https://instagram.com/chu_dasom/" },
+]
+
+[metadata]
+blood_type = "A"
+height = 164

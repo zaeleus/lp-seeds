@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1995-03-20"
+country = "KR"
+
+names = [
+  { name = "케이", locale = "ko", kind = "stage", original = true },
+  { name = "Kei", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김지연", locale = "ko", kind = "real" },
+  { name = "Kim Ji Yeon", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "woollim-entertainment" }]
+
+[metadata]
+blood_type = "O"
+height = 162

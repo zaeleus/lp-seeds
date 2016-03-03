@@ -1,0 +1,11 @@
+names = [
+  { name = "100回のKISS", locale = "ja", original = true },
+  { name = "100kai no KISS", locale = "ja-Latn", default = true },
+  { name = "100th Kiss", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "konishi-takao", kind = "arranger" },
+]

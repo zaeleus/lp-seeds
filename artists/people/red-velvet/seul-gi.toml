@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1994-02-10"
+country = "KR"
+
+names = [
+  { name = "슬기", locale = "ko", kind = "stage", original = true },
+  { name = "Seul Gi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "강슬기", locale = "ko", kind = "real" },
+  { name = "Kang Seul Gi", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "sm-entertainment" }]
+
+[metadata]
+height = 162
+weight = 42
+blood_type = "A"

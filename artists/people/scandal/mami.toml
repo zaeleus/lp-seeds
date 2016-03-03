@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1990-05-21"
+country = "JP"
+
+names = [
+  { name = "MAMI", locale = "ja", kind = "stage", original = true, default = true },
+  { name = "笹崎まみ", locale = "ja", kind = "real" },
+  { name = "Sasazaki Mami", locale = "ja-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 161

@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1992-12-13"
+country = "KR"
+
+names = [
+  { name = "유나", locale = "ko", kind = "stage", original = true },
+  { name = "Yuna", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "서유나", locale = "ko", kind = "real" },
+  { name = "Seo Yu Na", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "fnc-entertainment" }]
+
+[metadata]
+blood_type = "O"
+weight = 47
+height = 163

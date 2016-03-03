@@ -1,0 +1,20 @@
+artist_id = "crayon-pop"
+kind = "ep"
+
+names = [
+  { name = "The Streets Go Disco", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2013-09-26"
+country = "KR"
+media = [{ kind = "digital" }]
+
+[[releases]]
+released_on = "2013-09-26"
+country = "KR"
+catalog_number = "S90709C"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=800211984" },
+]

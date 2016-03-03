@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1989-07-08"
+country = "KR"
+
+names = [
+  { name = "성아", locale = "ko", kind = "stage", original = true },
+  { name = "Sung A", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "손성아", locale = "ko", kind = "real" },
+  { name = "Son Sung Ah", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+urls = [
+  { url = "https://twitter.com/tjddkths" },
+]
+
+[metadata]
+height = 172

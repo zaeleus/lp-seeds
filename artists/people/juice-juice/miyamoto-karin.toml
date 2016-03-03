@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1998-12-01"
+country = "JP"
+
+names = [
+  { name = "宮本佳林", locale = "ja", kind = "real", original = true },
+  { name = "Miyamoto Karin", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 154

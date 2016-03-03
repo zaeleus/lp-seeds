@@ -1,0 +1,13 @@
+kind = "group"
+started_on = "2013"
+country = "KR"
+
+names = [
+  { name = "다소니", locale = "ko", original = true },
+  { name = "DASONI", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "exid/hani" },
+  { id = "exid/solji" },
+]

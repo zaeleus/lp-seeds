@@ -1,0 +1,17 @@
+artist_id = "aoa"
+kind = "single"
+
+names = [
+  { name = "짧은 치마", locale = "ko", original = true },
+  { name = "Jjalbeun Chima", locale = "ko-Latn", default = true },
+  { name = "Miniskirt", locale = "en" },
+]
+
+[[releases]]
+released_on = "2014-01-16"
+country = "KR"
+catalog_number = "CMCC-10228"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=034202426" },
+]

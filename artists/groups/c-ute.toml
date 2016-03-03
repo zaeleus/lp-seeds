@@ -1,0 +1,19 @@
+kind = "group"
+started_on = "2005-06-11"
+country = "JP"
+
+names = [
+  { name = "°C-ute", locale = "ja", original = true, default = true },
+]
+
+members = [
+  { id = "c-ute/yajima-maimi" },
+  { id = "c-ute/nakajima-saki" },
+  { id = "c-ute/suzuki-airi" },
+  { id = "c-ute/okai-chisato" },
+  { id = "c-ute/hagiwara-mai" },
+
+  { id = "c-ute/murakami-megumi", ended_on = "2006-10-31" },
+  { id = "c-ute/arihara-kanna", ended_on = "2009-07-09" },
+  { id = "c-ute/umeda-erika", ended_on = "2009-10-25" },
+]

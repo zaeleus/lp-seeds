@@ -1,0 +1,16 @@
+medium_ids = [
+  'crayon-pop/dancing-all-night/limited-cd-dvd-edition/dvd2',
+]
+
+[[tracks]]
+position = 1
+song_id = "crayon-pop/dancing-all-night"
+names = [
+  { name = "Dancing All Night Music Video", locale = "ja", original = true, default = true },
+]
+
+[[tracks]]
+position = 2
+names = [
+  { name = 'Dancing All Night Music Video & Cover "making"', locale = "ja", original = true, default = true },
+]

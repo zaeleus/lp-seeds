@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1993-08-23"
+country = "KR"
+
+names = [
+  { name = "혜린", locale = "ko", kind = "stage", original = true },
+  { name = "Hyerin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "서혜린", locale = "ko", kind = "real" },
+  { name = "Seo Hye Rin", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "yedang-entertainment" }]
+
+[metadata]
+height = 165
+weight = 47

@@ -1,0 +1,9 @@
+names = [
+  { name = "Dejavu", locale = "ko", original = true, default = true },
+]
+
+contributions = [
+  { artist_id = "apink/cho-rong", kind = "lyricist" },
+  { artist_id = "choi-yong-chan", kind = "composer" },
+  { artist_id = "choi-yong-chan", kind = "arranger" },
+]

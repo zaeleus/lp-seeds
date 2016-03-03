@@ -1,0 +1,34 @@
+names = [
+  { name = "冷たい風と片思い", locale = "ja", original = true },
+  { name = "Tsumetai Kaze to Kataomoi", locale = "ja-Latn", default = true },
+  { name = "The Cold Wind and Lonely Love", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "morning-musume", name = "Morning Musume '15" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=8RX_cXqYQ8Q", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "morning-musume/fukumura-mizuki", kind = "performer" },
+  { artist_id = "morning-musume/ikuta-erina", kind = "performer" },
+  { artist_id = "morning-musume/sayashi-riho", kind = "performer" },
+  { artist_id = "morning-musume/suzuki-kanon", kind = "performer" },
+  { artist_id = "morning-musume/iikubo-haruna", kind = "performer" },
+  { artist_id = "morning-musume/ishida-ayumi", kind = "performer" },
+  { artist_id = "morning-musume/sato-masaki", kind = "performer" },
+  { artist_id = "morning-musume/kudo-haruka", kind = "performer" },
+  { artist_id = "morning-musume/oda-sakura", kind = "performer" },
+  { artist_id = "morning-musume/ogata-haruna", kind = "performer" },
+  { artist_id = "morning-musume/nonaka-miki", kind = "performer" },
+  { artist_id = "morning-musume/makino-maria", kind = "performer" },
+  { artist_id = "morning-musume/haga-akane", kind = "performer" },
+
+  { artist_id = "kodama-ameko", kind = "lyricist" },
+  { artist_id = "miura-yoshiko", kind = "lyricist" },
+  { artist_id = "taisei", kind = "composer" },
+  { artist_id = "hamada-pierre-yusuke", kind = "arranger" },
+]

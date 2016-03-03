@@ -1,0 +1,20 @@
+artist_id = "matsuura-aya"
+kind = "lp"
+
+names = [
+  { name = "Naked Songs", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2006-11-29"
+country = "JP"
+catalog_number = "EPCE-5440~1"
+disambiguation = "CD+DVD"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+
+[[releases]]
+released_on = "2006-11-29"
+country = "JP"
+catalog_number = "EPCE-5442"
+disambiguation = "CD"
+media = [{ kind = "cd" }]

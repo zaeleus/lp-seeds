@@ -1,0 +1,10 @@
+kind = "person"
+started_on = "1995-04-17"
+country = "KR"
+
+names = [
+  { name = "휘인", locale = "ko", kind = "stage", original = true },
+  { name = "Wheein", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정휘인", locale = "ko", kind = "real" },
+  { name = "Jung Hwi In", locale = "ko-Latn", kind = "real" },
+]

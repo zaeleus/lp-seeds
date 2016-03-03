@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1993-06-12"
+country = "KR"
+
+names = [
+  { name = "다혜", locale = "ko", kind = "stage", original = true },
+  { name = "Dahye", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "송다혜", locale = "ko", kind = "real" },
+  { name = "Song Da Hye", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "ynb-entertainment" }]

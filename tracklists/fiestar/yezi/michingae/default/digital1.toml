@@ -1,0 +1,13 @@
+medium_ids = [
+  "fiestar/yezi/michingae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "fiestar/yezi/michingae-feat-san-e"
+duration = "2:59"
+
+[[tracks]]
+position = 2
+song_id = "fiestar/yezi/michingae-inst"
+duration = "2:59"

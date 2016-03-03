@@ -1,0 +1,27 @@
+artist_id = "morning-musume"
+kind = "single"
+
+names = [
+  { name = "モーニングコーヒー", locale = "ja", original = true },
+  { name = "Morning Coffee", locale = "en", default = true },
+]
+
+[[releases]]
+released_on = "1998-01-28"
+country = "JP"
+catalog_number = "EPDA-56"
+media = [{ kind = "cd" }] # TODO minidisc?
+disambiguation = "8cm Single"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/103736/1/" },
+]
+
+[[releases]]
+released_on = "2005-03-02"
+country = "JP"
+catalog_number = "EPCE-5313"
+media = [{ kind = "cd" }]
+disambiguation = "12cm Single"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/583204/1/" },
+]

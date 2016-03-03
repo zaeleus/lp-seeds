@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1990-01-05"
+country = "KR"
+
+names = [
+  { name = "양요섭", locale = "ko", kind = "real", original = true },
+  { name = "Yang Yo Seob", locale = "ko-Latn", kind = "real", default = true },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+[metadata]
+blood_type = "B"
+height = 171
+weight = 56

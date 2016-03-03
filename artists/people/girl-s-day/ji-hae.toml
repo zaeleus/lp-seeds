@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1989-05-14"
+country = "KR"
+
+names = [
+  { name = "지해", locale = "ko", kind = "stage", original = true },
+  { name = "Ji Hae", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "우지해", locale = "ko", kind = "real" },
+  { name = "Woo Ji Hae", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/wooj_crown" },
+]
+
+[metadata]
+blood_type = "B"
+height = 163
+weight = 47

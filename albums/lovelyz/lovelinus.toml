@@ -1,0 +1,15 @@
+artist_id = "lovelyz"
+kind = "single"
+
+names = [
+  { name = "Lovelinus", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-12-10"
+country = "KR"
+catalog_number = "L200001192"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001209257" },
+]

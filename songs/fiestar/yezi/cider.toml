@@ -1,0 +1,19 @@
+names = [
+  { name = "사이다", locale = "ko", original = true },
+  { name = "Saida", locale = "ko-Latn" },
+  { name = "Cider", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=-YJFr4pwwl0", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "fiestar/yezi", kind = "performer" },
+  { artist_id = "fiestar/yezi", kind = "lyricist" },
+  { artist_id = "rhymer", kind = "lyricist" },
+  { artist_id = "eluphant/minos", kind = "lyricist" },
+  { artist_id = "rhymer", kind = "composer" },
+  { artist_id = "9999", kind = "composer" },
+  { artist_id = "9999", kind = "arranger" },
+]

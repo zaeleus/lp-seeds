@@ -1,0 +1,29 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "ずっと 好きでいいですか", locale = "ja", original = true },
+  { name = "Zutto Suki de Ii Desu ka", locale = "ja-Latn", default = true },
+  { name = "Can I Love You Forever?", locale = "en" },
+]
+
+[[releases]]
+released_on = "2005-02-23"
+country = "JP"
+catalog_number = "EPCE-5353"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition"
+
+[[releases]]
+released_on = "2005-02-23"
+country = "JP"
+catalog_number = "EPCE-5354"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+
+[[releases]]
+released_on = "2005-03-02"
+country = "JP"
+catalog_number = "EPBE-5166"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"

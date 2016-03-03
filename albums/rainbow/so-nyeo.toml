@@ -1,0 +1,17 @@
+artist_id = "rainbow"
+kind = "ep"
+
+names = [
+  { name = "So 女", locale = "ko", original = true },
+  { name = "So Nyeo", locale = "ko-Latn", default = true },
+  { name = "So Girl", locale = "en" },
+]
+
+[[releases]]
+released_on = "2011-04-11"
+country = "KR"
+catalog_number = "CMCC-9723"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=018100855" },
+]

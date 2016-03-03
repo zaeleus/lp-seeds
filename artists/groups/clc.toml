@@ -1,0 +1,27 @@
+kind = "group"
+started_on = "2015-03-19"
+country = "KR"
+
+names = [
+  { name = "씨엘씨", locale = "ko", original = true },
+  { name = "CLC", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "clc/seung-hee" },
+  { id = "clc/sorn" },
+  { id = "clc/yu-jin" },
+  { id = "clc/seung-yeon" },
+  { id = "clc/yee-eun" },
+  { id = "clc/elkie", started_on = "2016-02" },
+  { id = "clc/eun-bin", started_on = "2016-02" },
+]
+
+urls = [
+  { url = "http://cubeent.co.kr/clc" },
+  { url = "http://cafe.daum.net/CUBE-CLC" },
+  { url = "https://www.facebook.com/CLC.UnitedCube" },
+  { url = "https://twitter.com/CUBECLC" },
+  { url = "https://www.youtube.com/channel/UCnOTemIK0FqCe2FHbr9mWFw" },
+  { url = "https://plus.google.com/+officialCLC/posts" },
+]

@@ -1,0 +1,15 @@
+artist_id = "aoa"
+kind = "single"
+
+names = [
+  { name = "Angels' Story", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2012-07-30"
+country = "KR"
+catalog_number = "CMCC-9949"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=018101042" },
+]

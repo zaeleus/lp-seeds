@@ -1,0 +1,5 @@
+names = [
+  { name = "기억해 (My Buddy)", locale = "ko", original = true },
+  { name = "Gieokhae (My Buddy)", locale = "ko-Latn", default = true  },
+  { name = "Remember (My Buddy)", locale = "en" },
+]

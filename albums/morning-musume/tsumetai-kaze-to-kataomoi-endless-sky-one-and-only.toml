@@ -1,0 +1,72 @@
+artist_id = "morning-musume"
+kind = "single"
+
+names = [
+  { name = "冷たい風と片思い / ENDLESS SKY / One and Only", locale = "ja", original = true },
+  { name = "Tsumetai Kaze to Kataomoi / ENDLESS SKY / One and Only", locale = "ja-Latn", default = true },
+  { name = "The Cold Wind and Lonely Love / ENDLESS SKY / One and Only", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "morning-musume", name = "Morning Musume '15" },
+]
+
+[[releases]]
+released_on = "2015-12-29"
+country = "JP"
+catalog_number = "EPCE-7164~5"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1159068/1/" },
+]
+
+[[releases]]
+released_on = "2015-12-29"
+country = "JP"
+catalog_number = "EPCE-7166~7"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1159069/1/" },
+]
+
+[[releases]]
+released_on = "2015-12-29"
+country = "JP"
+catalog_number = "EPCE-7168~9"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition C"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1159071/1/" },
+]
+
+[[releases]]
+released_on = "2015-12-29"
+country = "JP"
+catalog_number = "EPCE-7170"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1159072/1/" },
+]
+
+[[releases]]
+released_on = "2015-12-29"
+country = "JP"
+catalog_number = "EPCE-7171"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1159074/1/" },
+]
+
+[[releases]]
+released_on = "2015-12-29"
+country = "JP"
+catalog_number = "EPCE-7172"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition C"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1159075/1/" },
+]

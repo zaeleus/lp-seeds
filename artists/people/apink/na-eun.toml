@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1994-02-10"
+country = "KR"
+
+names = [
+  { name = "나은", locale = "ko", kind = "stage", original = true },
+  { name = "Na Eun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "손나은", locale = "ko", kind = "real" },
+  { name = "Son Na Eun", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "a-cube-entertainment" }]
+
+[metadata]
+weight = 46
+height = 168

@@ -1,0 +1,5 @@
+names = [
+  { name = "그런 날엔 (Someday)", locale = "ko", original = true },
+  { name = "Geureon Naren (Someday)", locale = "ko-Latn", default = true  },
+  { name = "Someday", locale = "en" },
+]

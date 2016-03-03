@@ -1,0 +1,11 @@
+artist_id = "girls-generation/taeyeon"
+kind = "single"
+
+names = [
+  { name = "Rain", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-02-03"
+country = "KR"
+media = [{ kind = "digital" }]

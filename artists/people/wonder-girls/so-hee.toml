@@ -1,0 +1,21 @@
+kind = "person"
+started_on = "1992-06-27"
+country = "KR"
+
+names = [
+  { name = "소희", locale = "ko", kind = "stage", original = true },
+  { name = "So Hee", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "안소희", locale = "ko", kind = "real" },
+  { name = "Ahn So Hee", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "jyp-entertainment" }]
+
+urls = [
+  { url = "https://twitter.com/wgsohee" }
+]
+
+[metadata]
+blood_type = "AB"
+weight = 43
+height = 163

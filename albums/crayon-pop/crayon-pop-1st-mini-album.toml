@@ -1,0 +1,11 @@
+artist_id = "crayon-pop"
+kind = "ep"
+
+names = [
+  { name = "Crayon Pop 1st Mini Album", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2012-07-18"
+country = "KR"
+media = [{ kind = "digital" }]

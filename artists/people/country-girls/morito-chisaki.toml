@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "2000-02-19"
+country = "JP"
+
+names = [
+  { name = "森戸知沙希", locale = "ja", kind = "real", original = true },
+  { name = "Morito Chisaki", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 149

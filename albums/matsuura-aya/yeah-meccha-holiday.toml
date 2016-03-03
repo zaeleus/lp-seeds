@@ -1,0 +1,14 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "Yeah! めっちゃホリデイ", locale = "ja", original = true },
+  { name = "Yeah! Meccha Holiday", locale = "ja-Latn", default = true },
+  { name = "Yeah! Super Holiday", locale = "en" },
+]
+
+[[releases]]
+released_on = "2002-05-29"
+country = "JP"
+catalog_number = "EPCE-5158"
+media = [{ kind = "cd" }]

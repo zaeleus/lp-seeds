@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1988-08-18"
+country = "KR"
+
+names = [
+  { name = "G-Dragon", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "권지용", locale = "ko", kind = "real" },
+  { name = "Kwon Ji Yong", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"
+height = 175
+weight = 56

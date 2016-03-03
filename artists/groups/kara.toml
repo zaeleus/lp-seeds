@@ -1,0 +1,24 @@
+kind = "group"
+started_on = "2007-03-29"
+ended_on = "2016-01-15"
+country = "KR"
+
+names = [
+  { name = "카라", locale = "ko", original = true },
+  { name = "KARA", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "kara/sung-hee", ended_on = "2008" },
+  { id = "kara/nicole", ended_on = "2014" },
+  { id = "kara/gyuri" },
+  { id = "kara/seung-yeon" },
+  { id = "kara/ji-young", started_on = "2008", ended_on = "2014" },
+  { id = "kara/hara", started_on = "2008" },
+  { id = "kara/young-ji", started_on = "2014" },
+]
+
+urls = [
+  { url = "http://kara.dspmedia.co.kr/" },
+  { url = "http://www.karaweb.jp/" },
+]

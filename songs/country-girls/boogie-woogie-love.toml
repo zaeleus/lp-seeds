@@ -1,0 +1,8 @@
+names = [
+  { name = "ブギウギLOVE", locale = "ja", original = true },
+  { name = "Boogie Woogie LOVE", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=wT28y_i78hs", name = "Music Video" },
+]

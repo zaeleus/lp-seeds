@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "KR"
+
+names = [
+  { name = "마스터키", locale = "ko", kind = "real", original = true },
+  { name = "Master Key", locale = "ko-Latn", kind = "real", default = true },
+]

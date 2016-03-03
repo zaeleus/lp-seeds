@@ -1,0 +1,5 @@
+names = [
+  { name = "ドッキドキ！LOVEメール (Instrumental)", locale = "ja", original = true },
+  { name = "Dokkidoki! LOVE Mail (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Heart-Pounding! LOVE Mail (Instrumental)", locale = "en" },
+]

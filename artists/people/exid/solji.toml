@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1989-01-10"
+country = "KR"
+
+names = [
+  { name = "솔지", locale = "ko", kind = "stage", original = true },
+  { name = "Solji", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "허솔지", locale = "ko", kind = "real" },
+  { name = "Heo Sol Ji", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "yedang-entertainment" }]
+
+[metadata]
+height = 168
+weight = 51

@@ -1,0 +1,19 @@
+artist_id = "2ne1/bom"
+kind = "single"
+
+names = [
+  { name = "Don't Cry", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [{
+  artist_id = "2ne1/bom",
+  names = [
+    { name = "박봄", locale = "ko", original = true},
+    { name = "Park Bom", locale = "ko-Latn", default = true },
+  ],
+}]
+
+[[releases]]
+released_on = "2011-04-21"
+country = "KR"
+media = [{ kind = "digital" }]

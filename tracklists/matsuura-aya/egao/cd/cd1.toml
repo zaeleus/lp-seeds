@@ -1,0 +1,18 @@
+medium_ids = [
+  "matsuura-aya/egao/cd/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/egao"
+duration = "5:48"
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/anata-ni-deaete"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song_id = "matsuura-aya/egao-instrumental"
+duration = "5:45"

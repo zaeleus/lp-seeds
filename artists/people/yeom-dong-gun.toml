@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "KR"
+
+names = [
+  { name = "염동건", locale = "ko", kind = "real", original = true },
+  { name = "Yeom Dong Gun", locale = "ko-Latn", kind = "real", default = true },
+]

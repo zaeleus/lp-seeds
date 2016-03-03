@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1995-09-17"
+country = "KR"
+
+names = [
+  { name = "유아", locale = "ko", kind = "stage", original = true },
+  { name = "Yoo A", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+labels = [{ id = "wm-entertainment" }]
+
+[metadata]
+blood_type = "A"

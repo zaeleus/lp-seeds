@@ -1,0 +1,5 @@
+names = [
+  { name = "GOOD BYE 夏男", locale = "ja", original = true },
+  { name = "GOOD BYE Natsuo", locale = "ja-Latn", default = true },
+  { name = "GOOD BYE Summer Boy", locale = "en" },
+]

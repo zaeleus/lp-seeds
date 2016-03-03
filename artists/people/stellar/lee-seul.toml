@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1990-06-14"
+country = "KR"
+
+names = [
+  { name = "이슬", locale = "ko", kind = "stage", original = true },
+  { name = "Lee Seul", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김이슬", locale = "ko", kind = "real" },
+  { name = "Kim Lee Seul", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "the-entertainment-pascal" }]
+
+[metadata]
+height = 163
+weight = 41
+blood_type = "AB"

@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "2002-05-10"
+country = "JP"
+
+names = [
+  { name = "船木結", locale = "ja", kind = "real", original = true },
+  { name = "Funaki Musubu", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 141

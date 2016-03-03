@@ -1,0 +1,11 @@
+names = [
+  { name = "The 美学", locale = "ja", original = true },
+  { name = "The Bigaku", locale = "ja-Latn", default = true },
+  { name = "The Aesthetics", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "suzuki-daichi-hideyuki", kind = "arranger" },
+]

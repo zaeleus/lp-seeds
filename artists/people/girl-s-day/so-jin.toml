@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1986-05-21"
+country = "KR"
+
+names = [
+  { name = "소진", locale = "ko", kind = "stage", original = true },
+  { name = "So Jin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박소진", locale = "ko", kind = "real" },
+  { name = "Park So Jin", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/girls_day_sojin" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 167
+weight = 49

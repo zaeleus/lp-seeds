@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1988-09-20"
+country = "JP"
+
+names = [
+  { name = "のっち", locale = "ja", kind = "stage", original = true },
+  { name = "Nocchi", locale = "ja-Latn", kind = "stage", default = true },
+  { name = "大本彩乃", locale = "ja", kind = "real" },
+  { name = "Oomoto Ayano", locale = "ja-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"
+height = 161

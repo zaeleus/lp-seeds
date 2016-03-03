@@ -1,0 +1,22 @@
+kind = "person"
+started_on = "1994-08-30"
+country = "KR"
+
+names = [
+  { name = "소현", locale = "ko", kind = "stage", original = true },
+  { name = "So Hyun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "권소현", locale = "ko", kind = "real" },
+  { name = "Kwon So Hyun", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+urls = [
+  { url = "https://instagram.com/kkwonsso_4m/" },
+  { url = "https://twitter.com/4M_kkwonsso" },
+]
+
+[metadata]
+blood_type = "B"
+weight = 47
+height = 159

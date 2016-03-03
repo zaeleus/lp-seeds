@@ -1,0 +1,15 @@
+kind = "group"
+started_on = "2016"
+country = "KR"
+
+names = [
+  { name = "AOA Cream", locale = "ko", default = true, original = true },
+]
+
+labels = [{ id = "fnc-entertainment" }]
+
+members = [
+  { id = "aoa/chanmi" },
+  { id = "aoa/hyejeong" },
+  { id = "aoa/yuna" },
+]

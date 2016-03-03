@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1997-10-04"
+country = "KR"
+
+names = [
+  { name = "유주", locale = "ko", kind = "stage", original = true },
+  { name = "Yuju", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "최유나", locale = "ko", kind = "real" },
+  { name = "Choi Yu Na", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "source-music-entertainment" }]
+
+[metadata]
+height = 169
+weight = 49
+blood_type = "B"

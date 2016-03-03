@@ -1,0 +1,16 @@
+artist_id = "lucky-j/jessi"
+kind = "single"
+
+names = [
+  { name = "쎈언니", locale = "ko", original = true },
+  { name = "Ssenunni", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released_on = "2015-09-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2639551" },
+  { url = "http://www.mnet.com/album/495452" },
+]

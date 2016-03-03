@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1996-09-19"
+country = "KR"
+
+names = [
+  { name = "찬미", locale = "ko", kind = "stage", original = true },
+  { name = "Chanmi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박찬미", locale = "ko", kind = "real" },
+  { name = "Park Chan Mi", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "fnc-entertainment" }]
+
+[metadata]
+blood_type = "AB"
+weight = 47
+height = 165

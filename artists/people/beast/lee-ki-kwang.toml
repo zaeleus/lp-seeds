@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1990-03-30"
+country = "KR"
+
+names = [
+  { name = "이기광", locale = "ko", kind = "real", original = true },
+  { name = "Lee Ki Kwang", locale = "ko-Latn", kind = "real", default = true },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+urls = [
+  { url = "https://instagram.com/gttk0000" },
+  { url = "https://twitter.com/b2stgk" }
+]
+
+[metadata]
+blood_type = "A"
+height = 171
+weight = 58

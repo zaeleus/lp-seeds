@@ -1,0 +1,18 @@
+kind = "person"
+started_on = "1994-02-21"
+country = "KR"
+
+names = [
+  { name = "웬디", locale = "ko", kind = "stage", original = true },
+  { name = "Wendy", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "웬디손", locale = "ko", kind = "real" },
+  { name = "Son Seungwan", locale = "ko-Latn", kind = "real" },
+  { name = "Wendy Son", locale = "en", kind = "real" },
+]
+
+labels = [{ id = "sm-entertainment" }]
+
+[metadata]
+height = 160
+weight = 40
+blood_type = "O"

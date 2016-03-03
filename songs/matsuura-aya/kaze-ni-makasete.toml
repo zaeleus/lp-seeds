@@ -1,0 +1,5 @@
+names = [
+  { name = "風に任せて", locale = "ja", original = true },
+  { name = "Kaze ni Makasete", locale = "ja-Latn", default = true },
+  { name = "Leave It to the Wind", locale = "en" },
+]

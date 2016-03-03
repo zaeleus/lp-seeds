@@ -1,0 +1,7 @@
+kind = "person"
+#started_on = ""
+country = "KR"
+
+names = [
+  { name = "IRON", locale = "ko", kind = "stage", original = true, default = true },
+]

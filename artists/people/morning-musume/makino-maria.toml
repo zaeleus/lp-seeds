@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "2001-02-02"
+country = "JP"
+
+names = [
+  { name = "牧野真莉愛", locale = "ja", kind = "real", original = true },
+  { name = "Makino Maria", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 159

@@ -1,0 +1,4 @@
+names = [
+  { name = "情熱エクスタシー", locale = "ja", original = true },
+  { name = "Jounetsu Ecstasy", locale = "ja-Latn", default = true },
+]

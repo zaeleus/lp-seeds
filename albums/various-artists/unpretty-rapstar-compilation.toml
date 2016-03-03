@@ -1,0 +1,16 @@
+artist_id = "various-artists"
+kind = "lp"
+
+names = [
+  { name = "언프리티 랩스타 컴필레이션", locale = "ko", original = true },
+  { name = "Unpretty Rapstar Compilation", locale = "en", default = true },
+]
+
+[[releases]]
+released_on = "2015-04-23"
+country = "KR"
+catalog_number = "CMDC-10549"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.hanteo.com/search/nalbum_info2.asp?mcode=034202899" },
+]

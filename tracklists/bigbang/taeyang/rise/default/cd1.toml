@@ -1,0 +1,49 @@
+medium_ids = [
+  "bigbang/taeyang/rise/default/digital1",
+  "bigbang/taeyang/rise/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "bigbang/taeyang/intro-rise"
+duration = "1:45"
+
+[[tracks]]
+position = 2
+song_id = "bigbang/taeyang/nun-ko-ip"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song_id = "bigbang/taeyang/saebyeoghansi"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song_id = "bigbang/taeyang/stay-with-me-feat-g-dragon-of-bigbang"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song_id = "bigbang/taeyang/areumdawo-body"
+duration = "3:10"
+
+[[tracks]]
+position = 6
+song_id = "bigbang/taeyang/ringa-linga"
+duration = "3:47"
+
+[[tracks]]
+position = 7
+song_id = "bigbang/taeyang/igeaninde"
+duration = "4:23"
+
+[[tracks]]
+position = 8
+song_id = "bigbang/taeyang/beorigo"
+duration = "3:40"
+
+[[tracks]]
+position = 9
+song_id = "bigbang/taeyang/love-you-to-death"
+duration = "3:41"

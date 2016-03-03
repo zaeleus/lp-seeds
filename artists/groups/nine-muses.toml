@@ -1,0 +1,34 @@
+kind = "group"
+started_on = "2010"
+country = "KR"
+
+names = [
+  { name = "나인뮤지스", locale = "ko", original = true },
+  { name = "Nine Muses", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+members = [
+  { id = "nine-muses/hyun-a", started_on = "2010-10-14" },
+  { id = "nine-muses/euaerin", started_on = "2010-08-12" },
+  { id = "nine-muses/hye-mi", started_on = "2010-08-12" },
+  { id = "nine-muses/min-ha", started_on = "2010-08-12" },
+  { id = "nine-muses/kyung-ree", started_on = "2012-01-12" },
+  { id = "nine-muses/sung-a", started_on = "2012-03-12" },
+  { id = "nine-muses/so-jin", started_on = "2015-01-12" },
+  { id = "nine-muses/keum-jo", started_on = "2015-01-12" },
+  { id = "nine-muses/jae-kyung", started_on = "2010-08-12", ended_on = "2010-09-12" },
+  { id = "nine-muses/rana", started_on = "2010-08-12", ended_on = "2011-02-11" },
+  { id = "nine-muses/bini", started_on = "2010-08-12", ended_on = "2011-02-11" },
+  { id = "nine-muses/eun-ji", started_on = "2010-08-12", ended_on = "2014-01-28" },
+  { id = "nine-muses/lee-sem", started_on = "2010-08-12", ended_on = "2014-01-28" },
+  { id = "nine-muses/sera", started_on = "2010-08-12", ended_on = "2014-06-23" },
+]
+
+urls = [
+  { url = "http://www.9muses.co.kr/" },
+  { url = "https://www.youtube.com/user/NineMusesCh" },
+  { url = "https://www.facebook.com/9musesofficial" },
+  { url = "https://twitter.com/9muses_" },
+]

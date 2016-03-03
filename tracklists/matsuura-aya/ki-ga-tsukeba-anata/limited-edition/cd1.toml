@@ -1,0 +1,19 @@
+medium_ids = [
+  "matsuura-aya/ki-ga-tsukeba-anata/limited-edition/cd1",
+  "matsuura-aya/ki-ga-tsukeba-anata/regular-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/ki-ga-tsukeba-anata"
+duration = "4:33"
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/yuujou-jou-kalbi"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song_id = "matsuura-aya/ki-ga-tsukeba-anata-instrumental"
+duration = "4:29"

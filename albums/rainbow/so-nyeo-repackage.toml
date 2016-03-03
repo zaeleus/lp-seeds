@@ -1,0 +1,17 @@
+artist_id = "rainbow"
+kind = "ep"
+
+names = [
+  { name = "So 女 (Repackage)", locale = "ko", original = true },
+  { name = "So Nyeo (Repackage)", locale = "ko-Latn", default = true },
+  { name = "So Girl (Repackage)", locale = "en" },
+]
+
+[[releases]]
+released_on = "2011-06-21"
+country = "KR"
+catalog_number = "CMCC-9755"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=034201652" },
+]

@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1987-11-04"
+country = "KR"
+
+names = [
+  { name = "T.O.P", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "최승현", locale = "ko", kind = "real" },
+  { name = "Choi Seung Hyun", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "B"
+height = 180
+weight = 65

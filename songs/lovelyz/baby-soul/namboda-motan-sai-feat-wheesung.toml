@@ -1,0 +1,14 @@
+names = [
+  { name = "남보다 못한사이 (Feat. 휘성)", locale = "ko", original = true },
+  { name = "Namboda Motan Sai (Feat. Wheesung)", locale = "ko-Latn", default = true },
+  { name = "No Better Than Others (Feat. Wheesung)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=T2zfnqX5N_c", name = "Music Video" },
+]
+
+performers = [
+  { artist_id = "lovelyz/baby-soul" },
+  { artist_id = "wheesung" },
+]

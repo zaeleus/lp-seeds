@@ -1,0 +1,10 @@
+names = [
+  { name = "그녀는 바람둥이야 (Feat. 얀키) (Acoustic Ver.)", locale = "ko", original = true },
+  { name = "Geunyeoneun Baramdungiya (Feat. Yankie) (Acoustic Ver.)", locale = "ko-Latn", default = true },
+  { name = "She's a Flirt (Feat. Yankie) (Acoustic Ver.)", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "lovelyz/baby-soul", separator = " + " },
+  { artist_id = "yoo-ji-ah" },
+]

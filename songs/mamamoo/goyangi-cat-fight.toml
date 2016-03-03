@@ -1,0 +1,5 @@
+names = [
+  { name = "고양이 (Cat Fight)", locale = "ko", original = true },
+  { name = "Goyangi (Cat Fight)", locale = "ko-Latn", default = true },
+  { name = "Cat (Cat Fight)", locale = "en" },
+]

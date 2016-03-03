@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1992-11-23"
+ended_on = "2014-09-03"
+country = "KR"
+
+names = [
+  { name = "은비", locale = "ko", kind = "stage", original = true },
+  { name = "EunB", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "고은비", locale = "ko", kind = "real" },
+  { name = "Go Eun Bi", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "polaris-entertainment" }]

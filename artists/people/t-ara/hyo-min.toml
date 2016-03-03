@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1989-05-30"
+country = "KR"
+
+names = [
+  { name = "효민", locale = "ko", kind = "stage", original = true },
+  { name = "Hyo Min", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박선영", locale = "ko", kind = "real" },
+  { name = "Park Sun Young", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "O"
+height = 167
+weight = 46

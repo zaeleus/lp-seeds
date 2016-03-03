@@ -1,0 +1,17 @@
+kind = "group"
+started_on = "2012-04-19"
+country = "KR"
+
+names = [
+  { name = "소녀시대-태티서", locale = "ko", original = true },
+  { name = "Girls' Generation-TaeTiSeo", locale = "ko-Latn" },
+  { name = "태티서", locale = "ko" },
+  { name = "TaeTiSeo", locale = "ko-Latn" },
+  { name = "Girls' Generation-TTS", locale = "en", default = true },
+]
+
+members = [
+  { id = "girls-generation/taeyeon" },
+  { id = "girls-generation/tiffany" },
+  { id = "girls-generation/seo-hyun" },
+]

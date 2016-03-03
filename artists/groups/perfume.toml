@@ -1,0 +1,20 @@
+kind = "group"
+started_on = "2000"
+country = "JP"
+
+names = [
+  { name = "パフューム", locale = "ja", original = true },
+  { name = "ぱふゅ〜む", locale = "ja" },
+  { name = "Perfume", locale = "ja-Latn", default = true },
+]
+
+members = [
+  { id = "perfume/nocchi", joined_on = "2001" },
+  { id = "perfume/kashiyuka" },
+  { id = "perfume/a-chan" },
+  { id = "perfume/kawayuka", ended_on = "2001" },
+]
+
+urls = [
+  { url = "http://www.perfume-web.jp/" },
+]

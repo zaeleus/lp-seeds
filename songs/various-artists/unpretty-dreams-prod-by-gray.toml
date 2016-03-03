@@ -1,0 +1,11 @@
+names = [
+  { name = "Unpretty Dreams (Prod. by GRAY)", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [
+  { artist_id = "lucky-j/jessi" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=kUyH_LqejiM", name = "Music Video" },
+]

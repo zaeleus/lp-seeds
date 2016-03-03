@@ -1,0 +1,23 @@
+medium_ids = [
+  "matsuura-aya/hyacinth/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/hyacinth"
+duration = "4:44"
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/aitakute"
+duration = "4:15"
+
+[[tracks]]
+position = 3
+song_id = "matsuura-aya/hatsukoi"
+duration = "5:03"
+
+[[tracks]]
+position = 4
+song_id = "matsuura-aya/hyacinth-instrumental"
+duration = "4:41"

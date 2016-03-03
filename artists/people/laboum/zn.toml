@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1994-06-09"
+country = "KR"
+
+names = [
+  { name = "지엔", locale = "ko", kind = "stage", original = true },
+  { name = "ZN", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "배진예", locale = "ko", kind = "real" },
+  { name = "Bae Jin Ye", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 169
+weight = 48

@@ -1,0 +1,68 @@
+artist_id = "country-girls"
+kind = "single"
+
+names = [
+  { name = "ブギウギLOVE／恋はマグネット／ランラルン〜あなたに夢中〜", locale = "ja", original = true },
+  { name = "Boogie Woogie LOVE / Koi wa Magnet / Ranrarun ~Anata ni Muchuu~", locale = "ja-Latn", default = true },
+  { name = "Boogie Woogie LOVE / Love is Magnet / Ranrarun ~Engrossed in You~", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-03-09"
+country = "JP"
+catalog_number = "EPCE-7173~4"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/266364/products/1161082/1/" },
+]
+
+[[releases]]
+released_on = "2016-03-09"
+country = "JP"
+catalog_number = "EPCE-7175~6"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/266364/products/1161083/1/" },
+]
+
+[[releases]]
+released_on = "2016-03-09"
+country = "JP"
+catalog_number = "EPCE-7177~8"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition C"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/266364/products/1161084/1/" },
+]
+
+[[releases]]
+released_on = "2016-03-09"
+country = "JP"
+catalog_number = "EPCE-7179"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/266364/products/1161085/1/" },
+]
+
+[[releases]]
+released_on = "2016-03-09"
+country = "JP"
+catalog_number = "EPCE-7181"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/266364/products/1161086/1/" },
+]
+
+[[releases]]
+released_on = "2016-03-09"
+country = "JP"
+catalog_number = "EPCE-7182"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition C"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/266364/products/1161087/1/" },
+]

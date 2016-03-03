@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1996-04-16"
+country = "KR"
+
+names = [
+  { name = "다원", locale = "ko", kind = "stage", original = true },
+  { name = "Dawon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "남다원", locale = "ko", kind = "real" },
+  { name = "Nam Da Won", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"

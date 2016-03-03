@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1992-05-01"
+country = "KR"
+
+names = [
+  { name = "하니", locale = "ko", kind = "stage", original = true },
+  { name = "Hani", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "안희연", locale = "ko", kind = "real" },
+  { name = "Ahn Hui Yeon", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "yedang-entertainment" }]
+
+[metadata]
+height = 168
+weight = 50

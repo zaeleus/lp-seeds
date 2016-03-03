@@ -1,0 +1,13 @@
+artist_id = "red-velvet"
+kind = "single"
+
+names = [
+  { name = "행복 (Happiness)", locale = "ko", original = true },
+  { name = "Haengbok (Happiness)", locale = "ko-Latn", default = true },
+  { name = "Happiness", locale = "en" },
+]
+
+[[releases]]
+released_on = "2014-08-04"
+country = "KR"
+media = [{ kind = "digital" }]

@@ -1,0 +1,11 @@
+names = [
+  { name = "S君", locale = "ja", original = true },
+  { name = "S-kun", locale = "ja-Latn", default = true },
+  { name = "Boy S", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "konishi-takao", kind = "arranger" },
+]

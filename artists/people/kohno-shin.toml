@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "JP"
+
+names = [
+  { name = "河野伸", locale = "ja", kind = "real", original = true },
+  { name = "Kohno Shin", locale = "ja-Latn", kind = "real", default = true },
+]

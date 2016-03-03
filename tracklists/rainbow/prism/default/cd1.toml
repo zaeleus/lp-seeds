@@ -1,0 +1,33 @@
+medium_ids = [
+  "rainbow/prism/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "rainbow/bogo-sipdaneun-geu-maldo"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song_id = "rainbow/whoo"
+duration = "3:05"
+
+[[tracks]]
+position = 3
+song_id = "rainbow/black-white"
+duration = "3:31"
+
+[[tracks]]
+position = 4
+song_id = "rainbow/click"
+duration = "3:14"
+
+[[tracks]]
+position = 5
+song_id = "rainbow/eye-contact"
+duration = "2:59"
+
+[[tracks]]
+position = 6
+song_id = "rainbow/whoo-inst"
+duration = "3:05"

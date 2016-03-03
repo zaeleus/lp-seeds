@@ -1,0 +1,7 @@
+names = [
+  { name = "Candy Jelly Love", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=dZdzvQPkj70", name = "Music Video" },
+]

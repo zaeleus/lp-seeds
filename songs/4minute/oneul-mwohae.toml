@@ -1,0 +1,9 @@
+names = [
+  { name = "오늘 뭐해", locale = "ko", original = true },
+  { name = "Oneul Mwohae", locale = "ko-Latn", default = true },
+  { name = "Whatcha Doin' Today", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=4xLFxfXWDUk", name = "Music Video" },
+]

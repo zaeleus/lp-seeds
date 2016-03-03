@@ -1,0 +1,21 @@
+artist_id = "crayon-pop"
+kind = "single"
+
+names = [
+  { name = "어이 (Uh-ee)", locale = "ko", original = true },
+  { name = "Uh-ee", locale = "en", default = true },
+]
+
+[[releases]]
+released_on = "2014-04-01"
+country = "KR"
+media = [{ kind = "digital" }]
+
+[[releases]]
+released_on = "2014-04-01"
+country = "KR"
+catalog_number = "S90749C"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=800212499" },
+]

@@ -1,0 +1,12 @@
+names = [
+  { name = "하늘 높이 (feat. Joker)", locale = "ko", original = true },
+  { name = "Haneul Nopi (feat. Joker)", locale = "ko-Latn", default = true },
+  { name = "Up to the Sky (feat. Joker)", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "beast/yong-jun-hyung", kind = "performer" }, # TODO credited as Joker
+  { artist_id = "super-changddai", kind = "lyricist" },
+  { artist_id = "super-changddai", kind = "composer" },
+  { artist_id = "super-changddai", kind = "arranger" },
+]

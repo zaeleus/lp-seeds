@@ -1,0 +1,12 @@
+artist_id = "matsuura-aya"
+kind = "lp"
+
+names = [
+  { name = "T.W.O", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2003-01-29"
+country = "JP"
+catalog_number = "EPCE-5195"
+media = [{ kind = "cd" }]

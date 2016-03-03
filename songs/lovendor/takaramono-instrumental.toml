@@ -1,0 +1,5 @@
+names = [
+  { name = "宝物 (Instrumental)", locale = "ja", original = true },
+  { name = "Takaramono (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Treasure (Instrumental)", locale = "en" },
+]

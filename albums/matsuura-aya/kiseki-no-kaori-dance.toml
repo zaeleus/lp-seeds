@@ -1,0 +1,29 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "奇跡の香りダンス。", locale = "ja", original = true },
+  { name = "Kiseki no Kaori Dance.", locale = "ja-Latn", default = true },
+  { name = "Miraculous Perfume Dance", locale = "en" },
+]
+
+[[releases]]
+released_on = "2005-09-21"
+country = "JP"
+catalog_number = "EPCE-5376~7"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition"
+
+[[releases]]
+released_on = "2005-09-21"
+country = "JP"
+catalog_number = "EPCE-5378"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+
+[[releases]]
+released_on = "2005-09-28"
+country = "JP"
+catalog_number = "EPBE-5181"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"

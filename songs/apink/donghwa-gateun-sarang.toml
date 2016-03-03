@@ -1,0 +1,5 @@
+names = [
+  { name = "동화 같은 사랑", locale = "ko", original = true },
+  { name = "Donghwa Gateun Sarang", locale = "ko-Latn", default = true },
+  { name = "Fairy Tale Love", locale = "en" },
+]

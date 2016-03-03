@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1996-10-30"
+country = "JP"
+
+names = [
+  { name = "譜久村聖", locale = "ja", kind = "real", original = true },
+  { name = "Fukumura Mizuki", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 165

@@ -1,0 +1,40 @@
+medium_ids = [
+  'crayon-pop/crayon-pop/limited-edition/dvd2',
+]
+
+# TODO reconsider live
+
+[[tracks]]
+position = 1
+names = [
+  { name = '1st Album "CRAYON POP" Cover "making"', locale = "ja", original = true, default = true },
+]
+
+[[tracks]]
+position = 2
+song_id = "crayon-pop/saturday-night"
+names = [
+  { name = "Saturday Night (Live)", locale = "ja", original = true, default = true },
+]
+
+[[tracks]]
+position = 3
+song_id = "crayon-pop/dancing-queen"
+names = [
+  { name = "Dancing Queen (Live)", locale = "ja", original = true, default = true },
+]
+
+[[tracks]]
+position = 4
+song_id = "crayon-pop/bar-bar-bar"
+names = [
+  { name = "BAR BAR BAR (Live)", locale = "ja", original = true, default = true },
+]
+
+[[tracks]]
+position = 5
+song_id = "crayon-pop/ra-ri-ru-re"
+names = [
+  { name = "ラリルレ (Live)", locale = "ja", original = true },
+  { name = "Ra Ri Ru Re (Live)", locale = "ja-Latn", default = true },
+]

@@ -1,0 +1,11 @@
+artist_id = "dasoni"
+kind = "single"
+
+names = [
+  { name = "Good Bye", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2013-02-15"
+country = "KR"
+media = [{ kind = "digital" }]

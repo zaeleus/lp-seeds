@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1996-09-03"
+country = "KR"
+
+names = [
+  { name = "조이", locale = "ko", kind = "stage", original = true },
+  { name = "Joy", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박수영", locale = "ko", kind = "real" },
+  { name = "Park Soo Young", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "sm-entertainment" }]
+
+[metadata]
+height = 163
+weight = 43
+blood_type = "A"

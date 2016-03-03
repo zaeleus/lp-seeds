@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "JP"
+
+names = [
+  { name = "中野雄太", locale = "ja", kind = "real", original = true },
+  { name = "Nakano Yuuta", locale = "ja-Latn", kind = "real", default = true },
+]

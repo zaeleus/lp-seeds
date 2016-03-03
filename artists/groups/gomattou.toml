@@ -1,0 +1,15 @@
+kind = "group"
+started_on = "2002"
+ended_on = "2002"
+country = "JP"
+
+names = [
+  { name = "ごまっとう", locale = "ja", original = true },
+  { name = "Gomattou", locale = "ja-Latn", default = true },
+]
+
+members = [
+  { id = "morning-musume/goto-maki" },
+  { id = "matsuura-aya" },
+  { id = "morning-musume/fujimoto-miki" },
+]

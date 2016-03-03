@@ -1,0 +1,23 @@
+kind = "group"
+started_on = "2009"
+country = "KR"
+
+names = [
+  { name = "비스트", locale = "ko", original = true },
+  { name = "BEAST", locale = "ko-Latn", default = true },
+  { name = "B2ST", locale = "ko-Latn" },
+]
+
+labels = [
+  { id = "cube-entertainment" },
+  { id = "beast-music" },
+]
+
+members = [
+  { id = "beast/yoon-doo-joon" },
+  { id = "beast/jang-hyun-seung" },
+  { id = "beast/yong-jun-hyung" },
+  { id = "beast/yang-yo-seob" },
+  { id = "beast/lee-ki-kwang" },
+  { id = "beast/son-dong-woon" },
+]

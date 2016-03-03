@@ -1,0 +1,28 @@
+artist_id = "gam"
+kind = "lp"
+
+names = [
+  { name = "1st GAM～甘い誘惑～", locale = "ja", original = true },
+  { name = "1st GAM ~Amai Yuuwaku~", locale = "ja-Latn", default = true },
+  { name = "1st GAM ~Sweet Temptation~", locale = "en" },
+]
+
+[[releases]]
+released_on = "2007-05-23"
+country = "JP"
+catalog_number = "HKCN-50053~4"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50053/" },
+]
+
+[[releases]]
+released_on = "2007-05-23"
+country = "JP"
+catalog_number = "HKCN-50055"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50053/" },
+]

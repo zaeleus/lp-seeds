@@ -1,0 +1,9 @@
+names = [
+  { name = "심상치 않아 (Feat. 주영)", locale = "ko", original = true },
+  { name = "Simsangchi Anha (Feat. Joo Young)", locale = "ko-Latn", default = true },
+  { name = "You & Me (Feat. Joo Young)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=qhDO3CoAZks", name = "Music Video" },
+]

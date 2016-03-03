@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1991-11-22"
+country = "JP"
+
+names = [
+  { name = "清水佐紀", locale = "ja", kind = "real", original = true },
+  { name = "Shimizu Saki", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 153

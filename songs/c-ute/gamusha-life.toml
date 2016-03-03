@@ -1,0 +1,5 @@
+names = [
+  { name = "Gamusha LIFE", locale = "ja", original = true },
+  { name = "Gamusha LIFE", locale = "ja-Latn", default = true },
+  { name = "Reckless LIFE", locale = "en" },
+]

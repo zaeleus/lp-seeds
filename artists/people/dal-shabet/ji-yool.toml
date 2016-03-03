@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1991-07-30"
+country = "KR"
+
+names = [
+  { name = "지율", locale = "ko", kind = "stage", original = true },
+  { name = "Ji Yool", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "양정윤", locale = "ko", kind = "real" },
+  { name = "Yang Jung Yoon", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "happyface-entertainment" }]
+
+[metadata]
+height = 166
+weight = 47
+blood_type = "AB"

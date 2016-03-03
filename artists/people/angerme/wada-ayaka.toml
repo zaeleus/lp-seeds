@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1994-08-01"
+country = "JP"
+
+names = [
+  { name = "和田彩花", locale = "ja", kind = "real", original = true },
+  { name = "Wada Ayaka", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 162

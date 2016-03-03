@@ -1,0 +1,22 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "チョコレート魂", locale = "ja", original = true },
+  { name = "Chocolate Damashii", locale = "ja-Latn", default = true },
+  { name = "Chocolate Soul", locale = "en" },
+]
+
+[[releases]]
+released_on = "2009-02-11"
+country = "JP"
+catalog_number = "EPCE-5617"
+media = [{ kind = "cd" }]
+disambiguation = "CD"
+
+[[releases]]
+released_on = "2009-02-25"
+country = "JP"
+catalog_number = "EPBE-5320"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"

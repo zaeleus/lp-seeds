@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1991-05-24"
+country = "JP"
+
+names = [
+  { name = "梅田えりか", locale = "ja", kind = "real", original = true },
+  { name = "Umeda Erika", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 170

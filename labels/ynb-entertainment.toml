@@ -1,0 +1,10 @@
+names = [
+  { name = "YNB엔터테인먼트", locale = "ko", original = true },
+  { name = "YNB Entertainment", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "http://www.ynbent.com/" },
+  { url = "https://www.facebook.com/YNBENT" },
+  { url = "https://twitter.com/ynbent" },
+]

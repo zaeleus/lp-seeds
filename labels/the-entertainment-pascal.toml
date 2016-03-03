@@ -1,0 +1,4 @@
+names = [
+  { name = "The Entertainment Pascal", locale = "ko", original = true, default = true },
+  { name = "Top Class Entertainment", locale = "ko" }, # TODO: former name
+]

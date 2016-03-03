@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1993-05-13"
+country = "KR"
+
+names = [
+  { name = "민아", locale = "ko", kind = "stage", original = true },
+  { name = "Min Ah", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "방민아", locale = "ko", kind = "real" },
+  { name = "Bang Min Ah", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/girls_day_minah" },
+]
+
+[metadata]
+blood_type = "O"
+height = 165
+weight = 47

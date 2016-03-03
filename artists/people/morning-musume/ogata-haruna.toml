@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1999-02-15"
+country = "JP"
+
+names = [
+  { name = "緒形春水", locale = "ja", kind = "real", original = true },
+  { name = "Ogata Haruna", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 157

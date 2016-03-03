@@ -1,0 +1,24 @@
+kind = "group"
+started_on = "2009-04"
+country = "KR"
+
+names = [
+  { name = "티아라", locale = "ko", original = true },
+  { name = "T-ara", locale = "ko-Latn", default = true },
+  { name = "ティアラ", locale = "ja" },
+  { name = "T-ARA", locale = "ja-Latn" },
+]
+
+members = [
+  { id = "t-ara/eun-jung" },
+  { id = "t-ara/hyo-min" },
+  { id = "t-ara/ji-yeon" },
+  { id = "t-ara/boram", started_on = "2009-06-02" },
+  { id = "t-ara/so-yeon", started_on = "2009-06-02" },
+  { id = "t-ara/qri", started_on = "2009-06-02" },
+
+  { id = "jevice/hana", ended_on = "2009-06-02" }, # TODO credited as Ji Ae
+  { id = "spica/yang-ji-won", ended_on = "2009-06-02" }, # TODO credited as Ji Won
+  { id = "t-ara/hwa-young", started_on = "2010-07-13", ended_on = "2012-07-30" },
+  { id = "t-ara/ahreum", started_on = "2012-06-14", ended_on = "2013-07-10" },
+]

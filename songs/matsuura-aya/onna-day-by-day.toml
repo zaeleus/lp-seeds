@@ -1,0 +1,5 @@
+names = [
+  { name = "女 Day by Day", locale = "ja", original = true },
+  { name = "Onna Day by Day", locale = "ja-Latn", default = true },
+  { name = "Woman Day by Day", locale = "en" },
+]

@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1997-06-26"
+country = "KR"
+
+names = [
+  { name = "예린", locale = "ko", kind = "stage", original = true },
+  { name = "Yerin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "백예린", locale = "ko", kind = "real" },
+  { name = "Baek Ye Rin", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "jyp-entertainment" }]
+
+[metadata]
+blood_type = "B"
+weight = 45
+height = 165

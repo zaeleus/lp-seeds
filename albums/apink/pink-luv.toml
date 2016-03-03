@@ -1,0 +1,15 @@
+artist_id = "apink"
+kind = "ep"
+
+names = [
+  { name = "Pink Luv", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2014-11-24"
+country = "KR"
+catalog_number = "L200001060"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001208729" },
+]

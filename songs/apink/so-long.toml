@@ -1,0 +1,9 @@
+names = [
+  { name = "So Long", locale = "ko", original = true, default = true },
+]
+
+contributions = [
+  { artist_id = "apink/cho-rong", kind = "lyricist" },
+  { artist_id = "master-key", kind = "composer" },
+  { artist_id = "master-key", kind = "arranger" },
+]

@@ -1,0 +1,38 @@
+medium_ids = [
+  "country-girls/boogie-woogie-love-koi-wa-magnet-ranrarun-anata-ni-muchuu/limited-edition-a/cd1",
+  "country-girls/boogie-woogie-love-koi-wa-magnet-ranrarun-anata-ni-muchuu/limited-edition-b/cd1",
+  "country-girls/boogie-woogie-love-koi-wa-magnet-ranrarun-anata-ni-muchuu/limited-edition-c/cd1",
+  "country-girls/boogie-woogie-love-koi-wa-magnet-ranrarun-anata-ni-muchuu/regular-edition-a/cd1",
+  "country-girls/boogie-woogie-love-koi-wa-magnet-ranrarun-anata-ni-muchuu/regular-edition-b/cd1",
+  "country-girls/boogie-woogie-love-koi-wa-magnet-ranrarun-anata-ni-muchuu/regular-edition-c/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "country-girls/boogie-woogie-love"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song_id = "country-girls/koi-wa-magnet"
+duration = "4:28"
+
+[[tracks]]
+position = 3
+song_id = "country-girls/ranrarun-anata-ni-muchuu"
+duration = "2:55"
+
+[[tracks]]
+position = 4
+song_id = "country-girls/boogie-woogie-love-instrumental"
+duration = "3:35"
+
+[[tracks]]
+position = 5
+song_id = "country-girls/koi-wa-magnet-instrumental"
+duration = "4:28"
+
+[[tracks]]
+position = 6
+song_id = "country-girls/ranrarun-anata-ni-muchuu-instrumental"
+duration = "2:54"

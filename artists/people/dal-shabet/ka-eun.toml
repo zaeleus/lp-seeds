@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1992-07-28"
+country = "KR"
+
+names = [
+  { name = "가은", locale = "ko", kind = "stage", original = true },
+  { name = "Ka Eun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조가은", locale = "ko", kind = "real" },
+  { name = "Cho Ka Eun", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "happyface-entertainment" }]
+
+[metadata]
+height = 172
+weight = 47
+blood_type = "A"

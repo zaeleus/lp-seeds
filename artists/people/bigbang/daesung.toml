@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1989-04-26"
+country = "KR"
+
+names = [
+  { name = "Daesung", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "D-Lite", locale = "ja", kind = "stage" },
+  { name = "강대성", locale = "ko", kind = "real" },
+  { name = "Kang Dae Sung", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 177
+weight = 62

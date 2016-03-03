@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1996-08-19"
+country = "KR"
+
+names = [
+  { name = "보나", locale = "ko", kind = "stage", original = true },
+  { name = "Bona", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김지연", locale = "ko", kind = "real" },
+  { name = "Kim Ji Yeon", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "B"

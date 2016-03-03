@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1989-07-04"
+country = "KR"
+
+names = [
+  { name = "윤두준", locale = "ko", kind = "real", original = true },
+  { name = "Yoon Doo Joon", locale = "ko-Latn", kind = "real", default = true },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+urls = [
+  { url = "https://twitter.com/BeeeestDJ" }
+]
+
+[metadata]
+blood_type = "A"
+height = 177
+weight = 66

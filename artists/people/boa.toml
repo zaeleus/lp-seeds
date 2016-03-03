@@ -1,0 +1,27 @@
+kind = "person"
+started_on = "1986-11-05"
+country = "KR"
+
+names = [
+  { name = "보아", locale = "ko", kind = "stage", original = true },
+  { name = "BoA", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "권보아", locale = "ko", kind = "real" },
+  { name = "Kwon Boa", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [
+  { id = "sm-entertainment" },
+  { id = "avex-trax" },
+  { id = "sm-entertainment-usa" },
+]
+
+urls = [
+  { url = "http://boa.smtown.com/" },
+  { url = "https://www.facebook.com/boa.smtown" },
+  { url = "https://instagram.com/boakwon/" },
+  { url = "https://twitter.com/boakwon" },
+]
+
+[metadat]
+blood_type = "AB"
+height = 160

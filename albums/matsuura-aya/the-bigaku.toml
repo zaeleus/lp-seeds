@@ -1,0 +1,14 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "The 美学", locale = "ja", original = true },
+  { name = "The Bigaku", locale = "ja-Latn", default = true },
+  { name = "The Aesthetics", locale = "en" },
+]
+
+[[releases]]
+released_on = "2002-09-19"
+country = "JP"
+catalog_number = "EPCE-5176"
+media = [{ kind = "cd" }]

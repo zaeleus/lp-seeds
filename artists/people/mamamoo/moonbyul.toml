@@ -1,0 +1,10 @@
+kind = "person"
+started_on = "1992-12-22"
+country = "KR"
+
+names = [
+  { name = "문별", locale = "ko", kind = "stage", original = true },
+  { name = "Moonbyul", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "문별이", locale = "ko", kind = "real" },
+  { name = "Moon Byul Yi", locale = "ko-Latn", kind = "real" },
+]

@@ -1,0 +1,9 @@
+names = [
+  { name = "떨려요", locale = "ko", original = true },
+  { name = "Tteollyeoyo", locale = "ko-Latn", default = true },
+  { name = "Vibrato", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=pOmTdFpIDX8", name = "Music Video" },
+]

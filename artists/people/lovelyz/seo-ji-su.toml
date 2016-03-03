@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1994-02-11"
+country = "KR"
+
+names = [
+  { name = "수지수", locale = "ko", kind = "real", original = true },
+  { name = "Seo Ji Su", locale = "ko-Latn", kind = "real", default = true },
+]
+
+labels = [{ id = "woollim-entertainment" }]
+
+[metadata]
+blood_type = "O"
+height = 165
+weight = 46

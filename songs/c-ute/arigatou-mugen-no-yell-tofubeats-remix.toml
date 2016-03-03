@@ -1,0 +1,4 @@
+names = [
+  { name = "ありがとう～無限のエール～(tofubeats remix)", locale = "ja", original = true },
+  { name = "Arigatou ~Mugen no Yell~ (tofubeats remix)", locale = "ja-Latn", default = true },
+]

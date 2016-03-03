@@ -1,0 +1,29 @@
+kind = "group"
+started_on = "2009"
+country = "KR"
+
+names = [
+  { name = "레인보우", locale = "ko", original = true },
+  { name = "Rainbow", locale = "ko-Latn", default = true },
+  { name = "レインボー", locale = "ja" },
+]
+
+labels = [{ id = "dsp-media" }]
+
+members = [
+  { id = "rainbow/jae-kyung" },
+  { id = "rainbow/woo-ri" },
+  { id = "rainbow/seung-ah" },
+  { id = "rainbow/no-eul" },
+  { id = "rainbow/yoon-hye" },
+  { id = "rainbow/ji-sook" },
+  { id = "rainbow/hyun-young" },
+]
+
+urls = [
+  { url = "http://dspmedia.subnara.info/rainbow/" },
+  { url = "http://www.universal-music.co.jp/rainbow/" },
+  { url = "https://twitter.com/RAINBOW_1114" },
+  { url = "https://www.facebook.com/Rainbow.DSP" },
+  { url = "https://www.youtube.com/user/OfficialTheRainbow" },
+]

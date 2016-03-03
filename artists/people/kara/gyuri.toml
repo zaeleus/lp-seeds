@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1988-05-21"
+country = "KR"
+
+names = [
+  { name = "규리", locale = "ko", kind = "stage", original = true },
+  { name = "Gyuri", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박규리", locale = "ko", kind = "real" },
+  { name = "Park Gyu Ri", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/gyuri88" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 162
+weight = 45

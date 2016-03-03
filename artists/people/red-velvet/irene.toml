@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1991-03-29"
+country = "KR"
+
+names = [
+  { name = "아이린", locale = "ko", kind = "stage", original = true },
+  { name = "Irene", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김성경", locale = "ko", kind = "real" },
+  { name = "Bae Juhyun", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "sm-entertainment" }]
+
+[metadata]
+height = 160
+weight = 44
+blood_type = "A"

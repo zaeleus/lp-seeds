@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1992-11-06"
+country = "KR"
+
+names = [
+  { name = "유라", locale = "ko", kind = "stage", original = true },
+  { name = "Yura", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김아영", locale = "ko", kind = "real" },
+  { name = "Kim Ah Young", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/Girls_Day_Yura" },
+]
+
+[metadata]
+blood_type = "O"
+height = 168
+weight = 51

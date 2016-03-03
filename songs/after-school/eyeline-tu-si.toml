@@ -1,0 +1,5 @@
+names = [
+  { name = "Eyeline (透視투시)", locale = "ko", original = true },
+  { name = "Eyeline (Tu Si)", locale = "ko-Latn", default = true },
+  { name = "Eyeline", locale = "en" },
+]

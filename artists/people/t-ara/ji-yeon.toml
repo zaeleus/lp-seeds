@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1993-06-07"
+country = "KR"
+
+names = [
+  { name = "지연", locale = "ko", kind = "stage", original = true },
+  { name = "Ji Yeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박지연", locale = "ko", kind = "real" },
+  { name = "Park Ji Yeon", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 167
+weight = 45

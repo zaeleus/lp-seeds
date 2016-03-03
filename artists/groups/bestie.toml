@@ -1,0 +1,22 @@
+kind = "group"
+started_on = "2013"
+country = "KR"
+
+names = [
+  { name = "베스티", locale = "ko", original = true },
+  { name = "BESTie", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "ynb-entertainment" }]
+
+members = [
+  { id = "bestie/dahye" },
+  { id = "bestie/hae-ryung" },
+  { id = "bestie/hye-yeon" },
+  { id = "bestie/u-ji" },
+]
+
+urls = [
+  { url = "https://www.facebook.com/bestiestory" },
+  { url = "https://twitter.com/OfficialBESTie" },
+]

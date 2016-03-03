@@ -1,0 +1,11 @@
+names = [
+  { name = "Wanna Be", locale = "ko", original = true, default = true },
+]
+
+contributions = [
+  { artist_id = "apink/cho-rong", kind = "lyricist" },
+  { artist_id = "son-young-jin", kind = "composer" },
+  { artist_id = "big-sancho", kind = "composer" },
+  { artist_id = "son-young-jin", kind = "arranger" },
+  { artist_id = "big-sancho", kind = "arranger" },
+]

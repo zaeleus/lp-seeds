@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "2002-03-07"
+country = "JP"
+
+names = [
+  { name = "羽賀朱音", locale = "ja", original = true },
+  { name = "Haga Akane", locale = "ja-Latn", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 153

@@ -1,0 +1,26 @@
+artist_id = "gam"
+kind = "single"
+
+names = [
+  { name = "Thanks!", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2006-09-13"
+country = "JP"
+catalog_number = "HKCN-50037"
+media = [{ kind = "cd" }]
+disambiguation = "CD"
+urls = [
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50037/" },
+]
+
+[[releases]]
+released_on = "2006-09-20"
+country = "JP"
+catalog_number = "HKBN-50073"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"
+urls = [
+  { url = "http://www.up-front-works.jp/release/detail/HKBN-50073/" },
+]

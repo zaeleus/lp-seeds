@@ -1,0 +1,12 @@
+names = [
+  { name = "初めて唇を重ねた夜", locale = "ja", original = true },
+  { name = "Hajimete Kuchibiru wo Kasaneta Yoru", locale = "ja-Latn", default = true },
+  { name = "The Night Our Lips First Touched", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "watanabe-cher", kind = "arranger" },
+  { artist_id = "murayama-tatsuya", kind = "arranger" }, # FIXME strings arranger
+]

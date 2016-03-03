@@ -1,0 +1,10 @@
+medium_ids = [
+  "morning-musume/oh-my-wish-sukatto-my-heart-ima-sugu-tobikomu-yuuki/limited-edition-a/dvd2",
+]
+
+[[tracks]]
+position = 1
+song_id = "morning-musume/oh-my-wish"
+names = [
+  { name = "Oh my wish! (Music Video)", locale = "ja", original = true, default = true },
+]

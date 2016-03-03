@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1990-07-12"
+country = "KR"
+
+names = [
+  { name = "웨이", locale = "ko", kind = "stage", original = true },
+  { name = "Way", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "ウェイ", locale = "ja", kind = "stage" },
+  { name = "Heo Min Sun", locale = "ko", kind = "real" },
+  { name = "허민선", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "chrome-entertainment" }]
+
+[metadata]
+blood_type = "A"
+height = 155

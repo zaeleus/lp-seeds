@@ -1,0 +1,10 @@
+kind = "person"
+started_on = "1987-05-11"
+country = "KR"
+
+names = [
+  { name = "슬옹", locale = "ko", kind = "stage", original = true },
+  { name = "Seulong", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "임슬옹", locale = "ko", kind = "real" },
+  { name = "Lim Seul Ong", locale = "ko-Latn", kind = "real" },
+]

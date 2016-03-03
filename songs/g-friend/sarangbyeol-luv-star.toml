@@ -1,0 +1,5 @@
+names = [
+  { name = "사랑별 (Luv Star)", locale = "ko", original = true },
+  { name = "Sarangbyeol (Luv Star)", locale = "ko-Latn", default = true  },
+  { name = "Luv Star", locale = "en" },
+]

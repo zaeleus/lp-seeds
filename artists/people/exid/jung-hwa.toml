@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1995-05-08"
+country = "KR"
+
+names = [
+  { name = "정화", locale = "ko", kind = "stage", original = true },
+  { name = "Jung Hwa", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박정화", locale = "ko", kind = "real" },
+  { name = "Park Jung Hwa", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "yedang-entertainment" }]
+
+[metadata]
+height = 168
+weight = 48

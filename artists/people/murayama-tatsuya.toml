@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "JP"
+
+names = [
+  { name = "村山達哉", locale = "ja", kind = "real", original = true },
+  { name = "Murayama Tatsuya", locale = "ja-Latn", kind = "real", default = true },
+]

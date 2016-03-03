@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1989-09-03"
+country = "KR"
+
+names = [
+  { name = "장현승", locale = "ko", kind = "real", original = true },
+  { name = "Jang Hyun Seung", locale = "ko-Latn", kind = "real", default = true },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+[metadata]
+blood_type = "B"
+height = 177
+weight = 58

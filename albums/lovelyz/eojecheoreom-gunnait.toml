@@ -1,0 +1,13 @@
+artist_id = "lovelyz"
+kind = "single"
+
+names = [
+  { name = "어제처럼 굿나잇", locale = "ko", original = true },
+  { name = "Eojecheoreom Gunnait", locale = "ko-Latn", default = true },
+  { name = "Goodnight, Like Yesterday", locale = "en" },
+]
+
+[[releases]]
+released_on = "2014-11-09"
+country = "KR"
+media = [{ kind = "digital" }]

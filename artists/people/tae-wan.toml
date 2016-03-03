@@ -1,0 +1,10 @@
+kind = "person"
+started_on = "1980-06-25"
+country = "KR"
+
+names = [
+  { name = "태완", locale = "ko", kind = "stage", original = true },
+  { name = "Tae Wan", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김태완", locale = "ko", kind = "real" },
+  { name = "Kim Tae Wan", locale = "ko-Latn", kind = "real" },
+]

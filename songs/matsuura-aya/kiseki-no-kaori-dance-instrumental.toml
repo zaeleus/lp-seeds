@@ -1,0 +1,5 @@
+names = [
+  { name = "奇跡の香りダンス。(Instrumental)", locale = "ja", original = true },
+  { name = "Kiseki no Kaori Dance. (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Miraculous Perfume Dance (Instrumental)", locale = "en" },
+]

@@ -1,0 +1,29 @@
+medium_ids = [
+  "matsuura-aya/kiseki-no-kaori-dance/single-v/dvd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/kiseki-no-kaori-dance"
+names = [
+  { name = "奇跡の香りダンス。(PV)", locale = "ja", original = true },
+  { name = "Kiseki no Kaori Dance. (PV)", locale = "ja-Latn", default = true },
+  { name = "Miraculous Perfume Dance (PV)", locale = "en" },
+]
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/kiseki-no-kaori-dance"
+names = [
+  { name = "奇跡の香りダンス。(Close-up Ver.)", locale = "ja", original = true },
+  { name = "Kiseki no Kaori Dance. (Close-up Ver.)", locale = "ja-Latn", default = true },
+  { name = "Miraculous Perfume Dance (Close-up Ver.)", locale = "en" },
+]
+
+[[tracks]]
+position = 3
+names = [
+  { name = "メイキング映像", locale = "ja", original = true },
+  { name = "Making Eizou", locale = "ja-Latn", default = true },
+  { name = "Making of", locale = "en" },
+]

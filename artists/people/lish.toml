@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "KR"
+
+names = [
+  { name = "리시", locale = "ko", kind = "stage", original = true },
+  { name = "Lish", locale = "ko-Latn", kind = "stage", default = true },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "들어와 (Come To Me)", locale = "ko", original = true },
+  { name = "Deureowa (Come To Me)", locale = "ko-Latn", default = true },
+  { name = "Come To Me", locale = "en" },
+]

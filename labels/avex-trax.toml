@@ -1,0 +1,9 @@
+names = [
+  { name = "エイベックス トラックス", locale = "ja", original = true },
+  { name = "avex trax", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "http://avexnet.jp/" },
+  { url = "https://www.youtube.com/user/avexnetwork" },
+]

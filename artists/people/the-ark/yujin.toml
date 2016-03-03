@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1996-08-06"
+country = "KR"
+
+names = [
+  { name = "유진", locale = "ko", kind = "stage", original = true },
+  { name = "Yujin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정유진", locale = "ko", kind = "real" },
+  { name = "Jung Yujin", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "music-k-entertainment" }]
+
+[metadata]
+blood_type = "AB"

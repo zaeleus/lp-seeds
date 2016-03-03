@@ -1,0 +1,5 @@
+names = [
+  { name = "あなたに出逢えて", locale = "ja", original = true },
+  { name = "Anata ni Deaete", locale = "ja-Latn", default = true },
+  { name = "Being Able to Meet You", locale = "en" },
+]

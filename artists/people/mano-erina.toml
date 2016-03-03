@@ -1,0 +1,22 @@
+kind = "person"
+started_on = "1991-04-11"
+country = "JP"
+
+names = [
+  { name = "真野恵里菜", locale = "ja", kind = "real", original = true },
+  { name = "Mano Erina", locale = "ja-Latn", kind = "real", default = true },
+  { name = "まのえり", locale = "ja", kind = "nickname" },
+  { name = "Manoeri", locale = "ja-Latn", kind = "nickname" },
+]
+
+labels = [{ id = "hachama" }]
+
+urls = [
+  { url = "https://en.wikipedia.org/wiki/Erina_Mano" },
+  { url = "https://twitter.com/erina_mano" },
+  { url = "https://www.facebook.com/erina.mano0411" },
+]
+
+[metadata]
+blood_type = "B"
+

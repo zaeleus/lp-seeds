@@ -1,0 +1,11 @@
+names = [
+  { name = "울림 엔터테인먼트", locale = "ko", original = true },
+  { name = "Woollim Entertainment", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "http://www.woolliment.com/" },
+  { url = "https://www.youtube.com/user/woolliment" },
+  { url = "https://www.facebook.com/woolliment" },
+  { url = "https://twitter.com/woollim_ent" },
+]

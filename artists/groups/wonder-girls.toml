@@ -1,0 +1,28 @@
+kind = "group"
+started_on = "2007"
+country = "KR"
+
+names = [
+  { name = "원더걸스", locale = "ko", original = true },
+  { name = "Wonder Girls", locale = "ko-Latn", default = true },
+  { name = "ワンダーガールズ", locale = "ja" },
+]
+
+labels = [{ id = "jyp-entertainment" }]
+
+members = [
+  { id = "wonder-girls/hae-lim", started_on = "2010-01-22" },
+  { id = "wonder-girls/so-hee", ended_on = "2013-12-21" },
+  { id = "wonder-girls/sun-mi", ended_on = "2010-01-22" },
+  { id = "wonder-girls/sun-ye" },
+  { id = "wonder-girls/ye-eun" },
+  { id = "wonder-girls/yoo-bin", started_on = "2007-09-07" },
+  { id = "4minute/hyun-a", ended_on = "2007-07-31" }
+]
+
+urls = [
+  { url = "http://www.jype.com/#/wondergirls/Profile.aspx" },
+  { url = "https://www.youtube.com/user/wondergirls" },
+  { url = "https://www.facebook.com/wondergirlsworld" },
+  { url = "https://twitter.com/wondergirls" },
+]

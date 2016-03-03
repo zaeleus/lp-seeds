@@ -1,0 +1,29 @@
+medium_ids = [
+  "matsuura-aya/ne-e/single-v/dvd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/ne-e"
+names = [
+  { name = "ね～え？ (PV)", locale = "ja", original = true },
+  { name = "Ne~e? (PV)", locale = "ja-Latn", default = true },
+  { name = "Heeey? (PV)", locale = "en" },
+]
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/ne-e"
+names = [
+  { name = "ね～え？ (Dance Shot Ver.)", locale = "ja", original = true },
+  { name = "Ne~e? (Dance Shot Ver.)", locale = "ja-Latn", default = true },
+  { name = "Heeey? (Dance Shot Ver.)", locale = "en" },
+]
+
+[[tracks]]
+position = 3
+names = [
+  { name = "メイキング映像", locale = "ja", original = true },
+  { name = "Making Eizou", locale = "ja-Latn", default = true },
+  { name = "Making of", locale = "en" },
+]

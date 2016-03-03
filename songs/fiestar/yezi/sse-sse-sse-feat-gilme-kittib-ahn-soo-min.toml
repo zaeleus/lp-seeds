@@ -1,0 +1,24 @@
+names = [
+  { name = "쎄쎄쎄 (feat. 길미, 키디비, 안수민)", locale = "ko", original = true },
+  { name = "Sse Sse Sse (feat. Gilme, KittiB, Ahn Soo Min)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=LUtg60hzy7M", name = "Music Video (1theK Special Clip)" },
+]
+
+contributions = [
+  { artist_id = "fiestar/yezi", kind = "performer" },
+  { artist_id = "gilme", kind = "performer" },
+  { artist_id = "kittib", kind = "performer" },
+  { artist_id = "ahn-soo-min", kind = "performer" },
+
+  { artist_id = "fiestar/yezi", kind = "lyricist" },
+  { artist_id = "gilme", kind = "lyricist" },
+  { artist_id = "kittib", kind = "lyricist" },
+  { artist_id = "ahn-soo-min", kind = "lyricist" },
+
+  { artist_id = "assbrass", kind = "composer" },
+
+  { artist_id = "assbrass", kind = "arranger" },
+]

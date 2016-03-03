@@ -1,0 +1,15 @@
+kind = "group"
+started_on = "2011"
+country = "KR"
+
+names = [
+  { name = "트러블 메이커", locale = "ko", original = true },
+  { name = "Trouble Maker", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+members = [
+  { id = "beast/jang-hyun-seung" },
+  { id = "4minute/hyun-a" },
+]

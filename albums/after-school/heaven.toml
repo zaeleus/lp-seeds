@@ -1,0 +1,55 @@
+artist_id = "after-school"
+kind = "single"
+
+names = [
+  { name = "Heaven", locale = "ja", original = true, default = true },
+]
+
+artist_credits = [{
+  artist_id = "after-school",
+  names = [
+    { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
+  ],
+}]
+
+[[releases]]
+released_on = "2013-10-02"
+country = "JP"
+media = [{ kind = "digital" }]
+url = [
+  { url = "http://mora.jp/package/43000002/AVCD-48819/" },
+  { url = "http://recochoku.jp/album/A34154748/" },
+]
+
+[[releases]]
+released_on = "2013-10-02"
+country = "JP"
+catalog_number = "AVCD-48819/B"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "CD+DVD"
+url = [
+  { url = "http://www.oricon.co.jp/prof/artist/507088/products/music/1039149/1/" },
+  { url = "http://www.after--school.jp/discography/detail.php?id=1005798&c=single" },
+]
+
+[[releases]]
+released_on = "2013-10-02"
+country = "JP"
+catalog_number = "AVCD-48820"
+media = [{ kind = "cd" }]
+disambiguation = "CD+Photobook"
+url = [
+  { url = "http://www.oricon.co.jp/prof/507088/products/1039163/1/" },
+  { url = "http://www.after--school.jp/discography/detail.php?id=1005798&c=single" },
+]
+
+[[releases]]
+released_on = "2013-10-02"
+country = "JP"
+catalog_number = "AVCD-48821"
+media = [{ kind = "cd" }]
+disambiguation = "CD Only"
+url = [
+  { url = "http://www.oricon.co.jp/prof/507088/products/1039152/1/" },
+  { url = "http://www.after--school.jp/discography/detail.php?id=1005798&c=single" },
+]

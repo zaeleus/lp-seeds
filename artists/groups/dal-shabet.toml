@@ -1,0 +1,29 @@
+kind = "group"
+started_on = "2011-01-03"
+country = "KR"
+
+names = [
+  { name = "달샤벳", locale = "ko", original = true },
+  { name = "Dal★Shabet", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "happyface-entertainment" }]
+
+members = [
+  { id = "dal-shabet/serri", started_on = "2011-01" },
+  { id = "dal-shabet/ah-young", started_on = "2011-01" },
+  { id = "dal-shabet/su-bin", started_on = "2011-01" },
+  { id = "dal-shabet/woo-hee", started_on = "2012-06" },
+  { id = "dal-shabet/vicky", started_on = "2011-01", ended_on = "2012-06" },
+  { id = "dal-shabet/ji-yool", started_on = "2011-01", ended_on = "2015-12-09" },
+  { id = "dal-shabet/ka-eun", started_on = "2011-01", ended_on = "2015-12-09" },
+]
+
+urls = [
+  { url = "http://dalshabet.com/" },
+  { url = "http://www.happyfaceent.com/artist/dal-shabet" },
+  { url = "https://twitter.com/dalshabet" },
+  { url = "https://twitter.com/_happy_face" },
+  { url = "https://www.youtube.com/user/happyfaceent" },
+  { url = "https://www.facebook.com/dalshabethappy" },
+]

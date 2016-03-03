@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1993-08-12"
+country = "KR"
+
+names = [
+  { name = "루나", locale = "ko", kind = "stage", original = true },
+  { name = "Luna", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박선영", locale = "ko", kind = "real" },
+  { name = "Park Sun Young", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/fx_luna_sunyoung/" },
+]
+
+[metadata]
+blood_type = "A"
+height = 160
+weight = 47

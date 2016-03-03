@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1991-06-06"
+country = "KR"
+
+names = [
+  { name = "손동운", locale = "ko", kind = "real", original = true },
+  { name = "Son Dong Woo", locale = "ko-Latn", kind = "real", default = true },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+urls = [
+  { url = "https://instagram.com/realbeastdw" },
+  { url = "https://twitter.com/beastdw" }
+]
+
+[metadata]
+blood_type = "A"
+height = 181
+weight = 64

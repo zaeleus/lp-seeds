@@ -1,0 +1,33 @@
+medium_ids = [
+  "cosmic-girls/would-you-like/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "cosmic-girls/space-cowgirl"
+duration = "1:11"
+
+[[tracks]]
+position = 2
+song_id = "cosmic-girls/momomo"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song_id = "cosmic-girls/catch-me"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song_id = "cosmic-girls/tick-tock"
+duration = "3:28"
+
+[[tracks]]
+position = 5
+song_id = "cosmic-girls/take-my-breath"
+duration = "3:44"
+
+[[tracks]]
+position = 6
+song_id = "cosmic-girls/momomo-chinese-ver"
+duration = "3:42"

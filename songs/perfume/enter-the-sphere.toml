@@ -1,0 +1,3 @@
+names = [
+  { name = "Enter the Sphere", locale = "ja", original = true, default = true },
+]

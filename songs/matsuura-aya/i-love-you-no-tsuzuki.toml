@@ -1,0 +1,5 @@
+names = [
+  { name = "I LOVE YOU の続き", locale = "ja", original = true },
+  { name = "I LOVE YOU no Tsuzuki", locale = "ja-Latn", default = true },
+  { name = "Continuation of I LOVE YOU", locale = "en" },
+]

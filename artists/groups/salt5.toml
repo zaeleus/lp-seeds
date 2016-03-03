@@ -1,0 +1,16 @@
+kind = "group"
+started_on = "2003"
+ended_on = "2003"
+country = "JP"
+
+names = [
+  { name = "SALT5", locale = "ja", original = true, default = true },
+]
+
+members = [
+  { id = "morning-musume/abe-natsumi" },
+  { id = "morning-musume/kago-ai" },
+  { id = "morning-musume/ogawa-makoto" },
+  { id = "maeda-yuki" },
+  { id = "matsuura-aya" },
+]

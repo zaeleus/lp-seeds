@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1994-04-19"
+country = "KR"
+
+names = [
+  { name = "아름", locale = "ko", kind = "stage", original = true },
+  { name = "Ahreum", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이아름", locale = "ko", kind = "real" },
+  { name = "Lee Ah Reum", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 167

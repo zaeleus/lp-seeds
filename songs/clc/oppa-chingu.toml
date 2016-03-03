@@ -1,0 +1,5 @@
+names = [
+  { name = "오빠친구", locale = "ko", original = true },
+  { name = "Oppa Chingu", locale = "ko-Latn", default = true },
+  { name = "Brother, Friend", locale = "en" },
+]

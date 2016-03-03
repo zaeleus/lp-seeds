@@ -1,0 +1,17 @@
+artist_id = "ladies-code"
+kind = "ep"
+
+names = [
+  { name = "Code#01 나쁜여자", locale = "ko", original = true },
+  { name = "Code#01 Nappeunyeoja", locale = "ko-Latn", default = true },
+  { name = "Code#01 Bad Girl", locale = "en" },
+]
+
+[[releases]]
+released_on = "2013-03-07"
+country = "KR"
+catalog_number = "CMCC-10068"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=004500099" },
+]

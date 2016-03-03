@@ -1,0 +1,10 @@
+kind = "person"
+started_on = "1991-02-21"
+country = "KR"
+
+names = [
+  { name = "솔라", locale = "ko", kind = "stage", original = true },
+  { name = "Solar", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김용선", locale = "ko", kind = "real" },
+  { name = "Kim Yong Sun", locale = "ko-Latn", kind = "real" },
+]

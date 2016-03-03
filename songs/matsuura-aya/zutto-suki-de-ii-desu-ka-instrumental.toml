@@ -1,0 +1,5 @@
+names = [
+  { name = "ずっと 好きでいいですか (Instrumental)", locale = "ja", original = true },
+  { name = "Zutto Suki de Ii Desu ka (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Can I Love You Forever? (Instrumental)", locale = "en" },
+]

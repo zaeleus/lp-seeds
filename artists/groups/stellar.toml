@@ -1,0 +1,25 @@
+kind = "group"
+started_on = "2011"
+country = "KR"
+
+names = [
+  { name = "스텔라", locale = "ko", original = true },
+  { name = "STELLAR", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "the-entertainment-pascal" }]
+
+members = [
+  { id = "stellar/kim-ga-young" },
+  { id = "stellar/jun-yool" },
+  { id = "stellar/hyo-eun", started_on = "2012" },
+  { id = "stellar/min-hee", started_on = "2012" },
+  { id = "stellar/lee-seul", ended_on = "2012" },
+  { id = "stellar/joa", ended_on = "2012" },
+]
+
+urls = [
+  { url = "https://www.facebook.com/official.stellar/" },
+  { url = "https://twitter.com/officialstellar" },
+  { url = "https://www.youtube.com/user/GoStellar" },
+]

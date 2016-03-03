@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1974-03-08"
+country = "JP"
+
+names = [
+  { name = "鈴木Daichi秀行", locale = "ja", kind = "real", original = true },
+  { name = 'Suzuki "Daichi" Hideyuki', locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"

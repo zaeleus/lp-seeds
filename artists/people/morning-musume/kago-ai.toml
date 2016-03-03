@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1988-02-07"
+country = "JP"
+
+names = [
+  { name = "加護亜依", locale = "ja", kind = "real", original = true },
+  { name = "Kago Ai", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "AB"
+height = 150

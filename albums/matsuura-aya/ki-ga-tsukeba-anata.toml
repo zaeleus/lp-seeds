@@ -1,0 +1,29 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "気がつけば　あなた", locale = "ja", original = true },
+  { name = "Ki ga Tsukeba Anata", locale = "ja-Latn", default = true },
+  { name = "When I Realize It, It's You", locale = "en" },
+]
+
+[[releases]]
+released_on = "2004-01-28"
+country = "JP"
+catalog_number = "EPCE-5262"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition"
+
+[[releases]]
+released_on = "2004-01-28"
+country = "JP"
+catalog_number = "EPCE-5263"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+
+[[releases]]
+released_on = "2004-01-28"
+country = "JP"
+catalog_number = "EPBE-5107"
+media = [{ kind = "dvd" }]
+disambiguation = "Single V"

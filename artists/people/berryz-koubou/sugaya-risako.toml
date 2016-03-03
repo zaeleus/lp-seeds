@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1994-04-04"
+country = "JP"
+
+names = [
+  { name = "菅谷梨沙子", locale = "ja", kind = "real", original = true },
+  { name = "Sugaya Risako", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 162

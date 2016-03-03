@@ -1,0 +1,9 @@
+names = [
+  { name = "イツワリ", locale = "ja", original = true },
+  { name = "Itsuwari", locale = "ja-Latn", default = true },
+  { name = "Fake", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=mi4DjLyzqDk", name = "Music Video" },
+]

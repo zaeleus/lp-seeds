@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1987-03-19"
+country = "KR"
+
+names = [
+  { name = "주연", locale = "ko", kind = "stage", original = true },
+  { name = "Juyeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이주연", locale = "ko", kind = "real" },
+  { name = "Lee Joo Yeon", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 168
+weight = 47

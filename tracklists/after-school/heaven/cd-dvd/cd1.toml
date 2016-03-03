@@ -1,0 +1,15 @@
+medium_ids = [
+  "after-school/heaven/default/digital1",
+  "after-school/heaven/cd-dvd/cd1",
+  "after-school/heaven/cd-photobook/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "after-school/heaven"
+duration = "4:41"
+
+[[tracks]]
+position = 2
+song_id = "after-school/crazy-driver"
+duration = "3:27"

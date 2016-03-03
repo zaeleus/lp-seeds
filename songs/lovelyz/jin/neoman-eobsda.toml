@@ -1,0 +1,13 @@
+names = [
+  { name = "너만 없다", locale = "ko", original = true },
+  { name = "Neoman Eobsda", locale = "ko-Latn", default = true },
+  { name = "You're Gone", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=HJXmOugipmg", name = "Music Video" },
+]
+
+performers = [
+  { artist_id = "lovelyz/jin" },
+]

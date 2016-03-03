@@ -1,0 +1,33 @@
+medium_ids = [
+  "fiestar/black-label/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "fiestar/jjanhae"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song_id = "fiestar/hello"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song_id = "fiestar/bol-jom-ggeojwoyo"
+duration = "3:32"
+
+[[tracks]]
+position = 4
+song_id = "fiestar/cold"
+duration = "3:19"
+
+[[tracks]]
+position = 5
+song_id = "fiestar/today"
+duration = "3:14"
+
+[[tracks]]
+position = 6
+song_id = "fiestar/taiteuhae"
+duration = "3:31"

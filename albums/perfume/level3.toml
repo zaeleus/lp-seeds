@@ -1,0 +1,73 @@
+artist_id = "perfume"
+kind = "lp"
+
+names = [
+  { name = "LEVEL3", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2013-10-02"
+country = "JP"
+catalog_number = "UPCP-9005"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/325277/products/1039806/1/" },
+  { url = "http://www.perfume-web.jp/discography/inc/a08.html" },
+]
+
+[[releases]]
+released_on = "2013-10-02"
+country = "JP"
+catalog_number = "UPCP-1001"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/325277/products/1039808/1/" },
+  { url = "http://www.perfume-web.jp/discography/inc/a08.html" },
+]
+
+[[releases]]
+released_on = "2014-05-14"
+country = "JP"
+catalog_number = "UPJP-9001/2"
+media = [
+  { kind = "vinyl", name = "Side One" },
+  { kind = "vinyl", name = "Side Two" },
+  { kind = "vinyl", name = "Side Three" },
+  { kind = "vinyl", name = "Side Four" },
+]
+disambiguation = "Analog Record (Clear)"
+urls = [
+  { url = "http://www.perfume-web.jp/discography/inc/a09.html" },
+]
+
+[[releases]]
+released_on = "2014-05-14"
+country = "JP"
+catalog_number = "UPJP-9003/4"
+media = [
+  { kind = "vinyl", name = "Side One" },
+  { kind = "vinyl", name = "Side Two" },
+  { kind = "vinyl", name = "Side Three" },
+  { kind = "vinyl", name = "Side Four" },
+]
+disambiguation = "Analog Record (Pink)"
+urls = [
+  { url = "http://www.perfume-web.jp/discography/inc/a09.html" },
+]
+
+[[releases]]
+released_on = "2014-05-14"
+country = "JP"
+catalog_number = "UPJP-9005/6"
+media = [
+  { kind = "vinyl", name = "Side One" },
+  { kind = "vinyl", name = "Side Two" },
+  { kind = "vinyl", name = "Side Three" },
+  { kind = "vinyl", name = "Side Four" },
+]
+disambiguation = "Analog Record (Yellow)"
+urls = [
+  { url = "http://www.perfume-web.jp/discography/inc/a09.html" },
+]

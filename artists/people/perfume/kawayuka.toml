@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1988-11-05"
+country = "JP"
+
+names = [
+  { name = "かわゆか", locale = "ja", kind = "stage", original = true },
+  { name = "Kawayuka", locale = "ja-Latn", kind = "stage", default = true },
+  { name = "河島佑香", locale = "ja", kind = "real" },
+  { name = "Kawashima Yuuka", locale = "ja-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "AB"

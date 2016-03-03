@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1991-11-21"
+country = "KR"
+
+names = [
+  { name = "우희", locale = "ko", kind = "stage", original = true },
+  { name = "Woo Hee", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "배우희", locale = "ko", kind = "real" },
+  { name = "Bae Woo Hee", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "happyface-entertainment" }]
+
+[metadata]
+height = 164
+blood_type = "AB"

@@ -1,0 +1,13 @@
+names = [
+  { name = "밤샜지 (Prod. by ZICO)", locale = "ko", original = true },
+  { name = "Bamsaetji (Prod. by ZICO)", locale = "ko-Latn", default = true },
+  { name = "Stayed Up All Night (Prod. by ZICO)", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "yuk-ji-dam" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=mWJ1-S0eI0M", name = "Music Video" },
+]

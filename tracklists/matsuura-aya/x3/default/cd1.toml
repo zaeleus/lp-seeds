@@ -1,0 +1,67 @@
+medium_ids = [
+  "matsuura-aya/x3/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/good-bye-natsuo"
+duration = "4:19"
+
+[[tracks]]
+position = 2
+song_id = "salt5/get-up-rapper"
+duration = "3:44"
+names = [
+  { name = "GET UP！ラッパー (松浦 Version)", locale = "ja", original = true },
+  { name = "GET UP! Rapper (Matsuura Version)", locale = "en", default = true },
+]
+
+[[tracks]]
+position = 3
+song_id = "matsuura-aya/kanousei-no-michi"
+duration = "3:41"
+
+[[tracks]]
+position = 4
+song_id = "matsuura-aya/ne-e"
+duration = "3:28"
+
+[[tracks]]
+position = 5
+song_id = "matsuura-aya/original-jinsei"
+duration = "3:29"
+
+[[tracks]]
+position = 6
+song_id = "matsuura-aya/koishite-gomen-ne"
+duration = "5:18"
+
+[[tracks]]
+position = 7
+song_id = "matsuura-aya/the-last-night"
+duration = "5:13"
+
+[[tracks]]
+position = 8
+song_id = "matsuura-aya/watashi-to-watashi-to-watashi"
+duration = "4:32"
+
+[[tracks]]
+position = 9
+song_id = "matsuura-aya/yeah-meccha-holiday"
+duration = "4:09"
+names = [
+  { name = "Yeah! めっちゃホリデイ (HIGH TUNED mix)", locale = "ja", original = true },
+  { name = "Yeah! Meccha Holiday (HIGH TUNED mix)", locale = "ja-Latn", default = true },
+  { name = "Yeah! Super Holiday (HIGH TUNED mix)", locale = "en" },
+]
+
+[[tracks]]
+position = 10
+song_id = "matsuura-aya/namida-no-wake"
+duration = "4:08"
+
+[[tracks]]
+position = 11
+song_id = "matsuura-aya/love-train"
+duration = "6:17"

@@ -1,0 +1,5 @@
+names = [
+  { name = "1절만 하시죠", locale = "ko", original = true },
+  { name = "1jeolman Hasijyo", locale = "ko-Latn", default = true },
+  { name = "Cut It Out", locale = "en" },
+]

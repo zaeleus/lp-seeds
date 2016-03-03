@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1980-12-25"
+country = "KR"
+
+names = [
+  { name = "가희", locale = "ko", kind = "stage", original = true },
+  { name = "Kahi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박가희", locale = "ko", kind = "real" },
+  { name = "Park Kahi", locale = "ko-Latn", kind = "real" },
+  { name = "박지영", locale = "ko", kind = "real" },
+  { name = "Park Ji Young", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "O"
+height = 168
+weight = 50

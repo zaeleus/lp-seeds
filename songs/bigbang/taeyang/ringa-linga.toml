@@ -1,0 +1,9 @@
+names = [
+  { name = "링가 링가", locale = "ko", original = true },
+  { name = "Ringa Linga", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=UJfZ69MSlvY", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=Ho1y-4mXIL0", name = "Dance Performance" },
+]

@@ -1,0 +1,13 @@
+kind = "group"
+started_on = "2014"
+country = "KR"
+
+names = [
+  { name = "딸기우유", locale = "ko", original = true },
+  { name = "Strawberry Milk", locale = "en", default = true },
+]
+
+members = [
+  { id = "crayon-pop/cho-a" },
+  { id = "crayon-pop/way" },
+]

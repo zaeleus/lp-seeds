@@ -1,0 +1,5 @@
+names = [
+  { name = "七回歌うといいことがある歌", locale = "ja", original = true },
+  { name = "Nanakai Utau to Ii Koto ga Aru Uta", locale = "ja-Latn", default = true },
+  { name = "The Song I Hope You Sing Seven Times", locale = "en" },
+]

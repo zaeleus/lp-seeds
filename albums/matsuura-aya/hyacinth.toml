@@ -1,0 +1,13 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "風信子", locale = "ja", original = true },
+  { name = "Hyacinth", locale = "en", default = true },
+]
+
+[[releases]]
+released_on = "2004-03-10"
+country = "JP"
+catalog_number = "EPCE-5278"
+media = [{ kind = "cd" }]

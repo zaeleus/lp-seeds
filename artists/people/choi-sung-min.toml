@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "KR"
+
+names = [
+  { name = "최성민", locale = "ko", kind = "real", original = true },
+  { name = "Choi Sung Min", locale = "ko-Latn", kind = "real", default = true },
+]

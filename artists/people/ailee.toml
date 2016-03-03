@@ -1,0 +1,21 @@
+kind = "person"
+started_on = "1989-05-30"
+country = "KR"
+
+names = [
+  { name = "에일리", locale = "ko", kind = "stage", original = true },
+  { name = "Ailee", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이예진", locale = "ko", kind = "real" },
+  { name = "Lee Ye Jin", locale = "ko-Latn", kind = "real" },
+  { name = "Amy Lee", locale = "en", kind = "real" },
+]
+
+labels = [{ id = "ymc-entertainment" }]
+
+urls = [
+  { url = "http://www.ymcent.com/YMC/artist_ailee.php" },
+  { url = "http://ailee-jp.net/" },
+  { url = "https://instagram.com/aileeonline" },
+  { url = "https://twitter.com/itzailee" },
+  { url = "https://en.wikipedia.org/wiki/Ailee" },
+]

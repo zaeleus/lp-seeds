@@ -1,0 +1,16 @@
+artist_id = "-virtual/crayon-pop-kim-jang-hoon"
+kind = "single"
+
+names = [
+  { name = "Hero", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [
+  { artist_id = "crayon-pop", separator = " & " },
+  { artist_id = "kim-jang-hoon" },
+]
+
+[[releases]]
+released_on = "2014-02-05"
+country = "KR"
+media = [{ kind = "digital" }]

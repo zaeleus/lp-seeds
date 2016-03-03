@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1992-11-20"
+country = "JP"
+
+names = [
+  { name = "石村舞波", locale = "ja", kind = "real", original = true },
+  { name = "Ishimura Maiha", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "B"
+height = 141

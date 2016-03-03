@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1996-08-12"
+country = "KR"
+
+names = [
+  { name = "유진", locale = "ko", kind = "stage", original = true },
+  { name = "Yu Jin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "최유진", locale = "ko", kind = "real" },
+  { name = "Choi Yu Jin", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"
+height = 164
+weight = 42

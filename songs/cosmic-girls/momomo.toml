@@ -1,0 +1,9 @@
+names = [
+  { name = "MoMoMo (모모모)", locale = "ko", original = true },
+  { name = "MoMoMo (MoMoMo)", locale = "ko-Latn", },
+  { name = "MoMoMo", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=RRJqH0Plqg8", name = "Music Video" },
+]

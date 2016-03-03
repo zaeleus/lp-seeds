@@ -1,0 +1,13 @@
+names = [
+  { name = "そう言えば", locale = "ja", original = true },
+  { name = "Sou Ieba", locale = "ja-Latn", default = true },
+  { name = "That Reminds Me", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "suzuki-shunsuke", kind = "arranger" },
+  { artist_id = "murayama-tatsuya", kind = "arranger" }, # FIXME strings arranger
+]
+

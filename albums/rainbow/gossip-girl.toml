@@ -1,0 +1,15 @@
+artist_id = "rainbow"
+kind = "ep"
+
+names = [
+  { name = "Gossip Girl", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2009-11-12"
+country = "KR"
+catalog_number = "CMCC-9410"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=034201272" },
+]

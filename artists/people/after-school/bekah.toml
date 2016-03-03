@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1989-08-11"
+country = "KR"
+
+names = [
+  { name = "베카", locale = "ko", kind = "stage", original = true },
+  { name = "Bekah", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "레베카 김", locale = "ko", kind = "real" },
+  { name = "Rebekah Kim", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 168
+weight = 52

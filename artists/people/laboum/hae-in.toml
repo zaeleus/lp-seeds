@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1995-05-19"
+country = "KR"
+
+names = [
+  { name = "해인", locale = "ko", kind = "stage", original = true },
+  { name = "Hae In", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "염해인", locale = "ko", kind = "real" },
+  { name = "Yeom Hae In", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 162
+weight = 45

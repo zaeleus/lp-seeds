@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1989-12-19"
+country = "KR"
+
+names = [
+  { name = "용준형", locale = "ko", kind = "real", original = true },
+  { name = "Yong Jun Hyung", locale = "ko-Latn", kind = "real", default = true },
+  { name = "Joker", locale = "ko", kind = "stage" },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+urls = [
+  { url = "https://twitter.com/Joker891219" }
+]
+
+[metadata]
+blood_type = "O"
+height = 178
+weight = 64

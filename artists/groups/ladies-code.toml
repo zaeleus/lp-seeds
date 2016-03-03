@@ -1,0 +1,18 @@
+kind = "group"
+started_on = "2013"
+country = "KR"
+
+names = [
+  { name = "레이디스 코드", locale = "ko", original = true },
+  { name = "LADIES' CODE", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "polaris-entertainment" }]
+
+members = [
+  { id = "ladies-code/ashley" },
+  { id = "ladies-code/eunb", ended_on = "2014-09-03" },
+  { id = "ladies-code/rise", ended_on = "2014-09-07" },
+  { id = "ladies-code/so-jung" },
+  { id = "ladies-code/zuny" },
+]

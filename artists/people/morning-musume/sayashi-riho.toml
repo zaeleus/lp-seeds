@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1998-05-28"
+country = "JP"
+
+names = [
+  { name = "鞘師里保", locale = "ja", kind = "real", original = true },
+  { name = "Sayashi Riho", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "AB"
+height = 155

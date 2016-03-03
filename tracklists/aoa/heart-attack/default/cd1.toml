@@ -1,0 +1,33 @@
+medium_ids = [
+  "aoa/heart-attack/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "aoa/simkunghae-heart-attack"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song_id = "aoa/luv-me"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song_id = "aoa/deureowa-come-to-me"
+duration = "3:24"
+
+[[tracks]]
+position = 4
+song_id = "aoa/han-gae-one-thing"
+duration = "3:21"
+
+[[tracks]]
+position = 5
+song_id = "aoa/jinjja-really-really"
+duration = "3:56"
+
+[[tracks]]
+position = 6
+song_id = "aoa/chocolate"
+duration = "3:08"

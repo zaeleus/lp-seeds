@@ -1,0 +1,17 @@
+medium_ids = [
+  "perfume/level3/analog-record-clear/vinyl2",
+  "perfume/level3/analog-record-pink/vinyl2",
+  "perfume/level3/analog-record-yellow/vinyl2",
+]
+
+[[tracks]]
+position = 1
+song_id = "perfume/1mm"
+
+[[tracks]]
+position = 2
+song_id = "perfume/mirai-no-museum"
+
+[[tracks]]
+position = 3
+song_id = "perfume/party-maker"

@@ -1,0 +1,23 @@
+kind = "group"
+started_on = "2013"
+country = "KR"
+
+names = [
+  { name = "투아이즈", locale = "ko", original = true },
+  { name = "2EYES", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "sidushq" }]
+
+members = [
+  { id = "2eyes/hyang-sook" },
+  { id = "2eyes/yeon-jun" },
+  { id = "2eyes/da-eun" },
+  { id = "2eyes/hye-rin" },
+  { id = "2eyes/da-som" },
+]
+
+urls = [
+  { url = "http://www.sidushq.com/star/2eyes" },
+  { url = "https://twitter.com/2eyes_2013" },
+]

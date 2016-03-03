@@ -1,0 +1,11 @@
+names = [
+  { name = "사랑동화", locale = "ko", original = true },
+  { name = "Sarangdonghwa", locale = "ko-Latn", default = true },
+  { name = "Love Fairy Tales", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "apink/cho-rong", kind = "lyricist" },
+  { artist_id = "kim-jin-hwan", kind = "composer" },
+  { artist_id = "kim-jin-hwan", kind = "arranger" },
+]

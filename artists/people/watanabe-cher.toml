@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "JP"
+
+names = [
+  { name = "渡部チェル", locale = "ja", kind = "real", original = true },
+  { name = "Watanabe Cher", locale = "ja-Latn", kind = "real", default = true },
+]

@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1999-05-07"
+country = "JP"
+
+names = [
+  { name = "佐藤優樹", locale = "ja", kind = "real", original = true },
+  { name = "Sato Masaki", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 153

@@ -1,0 +1,17 @@
+kind = "group"
+started_on = "2004"
+ended_on = "2005"
+country = "JP"
+
+names = [
+  { name = "後浦なつみ", locale = "ja", original = true },
+  { name = "Nochiura Natsumi", locale = "ja-Latn", default = true },
+]
+
+labels = [{ id = "hachama" }]
+
+members = [
+  { id = "morning-musume/abe-natsumi" },
+  { id = "matsuura-aya" },
+  { id = "morning-musume/goto-maki" },
+]

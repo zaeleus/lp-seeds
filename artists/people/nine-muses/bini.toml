@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1985-11-13"
+country = "KR"
+
+names = [
+  { name = "비니", locale = "ko", kind = "stage", original = true },
+  { name = "Bini", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이혜빈", locale = "ko", kind = "real" },
+  { name = "Lee Hye Bin", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+[metadata]
+blood_type = "B"
+height = 173

@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1998-04-06"
+country = "JP"
+
+names = [
+  { name = "勝田里奈", locale = "ja", kind = "real", original = true },
+  { name = "Katsuta Rina", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"

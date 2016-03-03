@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1995-01-26"
+country = "KR"
+
+names = [
+  { name = "선의", locale = "ko", kind = "stage", original = true },
+  { name = "Xuan Yi", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+[metadata]
+blood_type = "O"

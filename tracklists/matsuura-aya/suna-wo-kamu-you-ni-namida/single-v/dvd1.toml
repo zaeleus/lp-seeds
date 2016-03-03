@@ -1,0 +1,24 @@
+medium_ids = [
+  "matsuura-aya/suna-wo-kamu-you-ni-namida/single-v/dvd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "matsuura-aya/suna-wo-kamu-you-ni-namida"
+
+[[tracks]]
+position = 2
+song_id = "matsuura-aya/suna-wo-kamu-you-ni-namida"
+names = [
+  { name = "砂を噛むように・・・NAMIDA (Close-up Ver.)", locale = "ja", original = true },
+  { name = "Suna wo Kamu You ni... NAMIDA (Close-up Ver.)", locale = "ja-Latn", default = true },
+  { name = "Bitter... Tears (Close-up Ver.)", locale = "en" },
+]
+
+[[tracks]]
+position = 3
+names = [
+  { name = "メイキング映像", locale = "ja", original = true },
+  { name = "Making Eizou", locale = "ja-Latn", default = true },
+  { name = "Making of", locale = "en" },
+]

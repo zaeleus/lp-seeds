@@ -1,0 +1,17 @@
+kind = "group"
+started_on = "2012"
+country = "KR"
+
+names = [
+  { name = "AOA Black", locale = "ko", default = true, original = true },
+]
+
+labels = [{ id = "fnc-entertainment" }]
+
+members = [
+  { id = "aoa/choa" },
+  { id = "aoa/jimin" },
+  { id = "aoa/mina" },
+  { id = "aoa/youkyoung" },
+  { id = "aoa/yuna" },
+]

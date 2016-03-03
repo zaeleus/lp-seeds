@@ -1,0 +1,12 @@
+artist_id = "rainbow-pixie"
+kind = "single"
+
+names = [
+  { name = "호이 호이", locale = "ko", original = true },
+  { name = "Hoi Hoi", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released_on = "2012-01-12"
+country = "KR"
+media = [{ kind = "digital" }]

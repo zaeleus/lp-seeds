@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1991-03-03"
+country = "KR"
+
+names = [
+  { name = "초롱", locale = "ko", kind = "stage", original = true },
+  { name = "Cho Rong", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박초롱", locale = "ko", kind = "real" },
+  { name = "Park Cho Rong", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "a-cube-entertainment" }]
+
+[metadata]
+weight = 46
+height = 165
+

@@ -1,0 +1,22 @@
+kind = "group"
+started_on = "2012"
+country = "KR"
+
+names = [
+  { name = "크레용팝", locale = "ko", original = true },
+  { name = "Crayon Pop", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "chrome-entertainment" }]
+
+members = [
+  { id = "crayon-pop/cho-a" },
+  { id = "crayon-pop/ellin" },
+  { id = "crayon-pop/geum-mi" },
+  { id = "crayon-pop/so-yul" },
+  { id = "crayon-pop/way" },
+]
+
+urls = [
+  { url = "http://www.chrome-ent.co.kr/biography/crayon-pop" },
+]

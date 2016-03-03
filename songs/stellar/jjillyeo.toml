@@ -1,0 +1,9 @@
+names = [
+  { name = "찔려", locale = "ko", original = true },
+  { name = "Jjillyeo", locale = "ko-Latn", default = true },
+  { name = "Sting", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=IIj7j7mtNS4", name = "Music Video" },
+]

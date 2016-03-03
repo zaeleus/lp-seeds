@@ -1,0 +1,9 @@
+names = [
+  { name = "恋はマグネット", locale = "ja", original = true },
+  { name = "Koi wa Magnet", locale = "ja-Latn", default = true },
+  { name = "Love is a Magnet", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ec0xLC70Z4Y", name = "Music Video" },
+]

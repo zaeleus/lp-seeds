@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1995-09-14"
+country = "KR"
+
+names = [
+  { name = "수빈", locale = "ko", kind = "stage", original = true },
+  { name = "Soobin", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+[metadata]
+blood_type = "AB"

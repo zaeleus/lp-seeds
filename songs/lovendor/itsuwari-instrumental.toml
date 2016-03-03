@@ -1,0 +1,5 @@
+names = [
+  { name = "イツワリ (Instrumental)", locale = "ja", original = true },
+  { name = "Itsuwari (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Fake (Instrumental)", locale = "en" },
+]

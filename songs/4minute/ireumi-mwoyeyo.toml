@@ -1,0 +1,9 @@
+names = [
+  { name = "이름이 뭐예요?", locale = "ko", original = true },
+  { name = "Ireumi Mwoyeyo?", locale = "ko-Latn", default = true },
+  { name = "What's Your Name?", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=H-IJWqIHioA", name = "Music Video" },
+]

@@ -1,0 +1,118 @@
+artist_id = "aoa"
+kind = "single"
+
+names = [
+  { name = "胸キュン", locale = "ja", original = true },
+  { name = "Mune Kyun", locale = "ja-Latn", default = true },
+  { name = "Heart Attack", locale = "en" },
+]
+
+[[releases]]
+released_on = "2015-07-29"
+country = "JP"
+catalog_number = "UICV-9111"
+media = [{ kind = "cd" }]
+disambiguation = "Sexy ver. Type A"
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1132268/1/" },
+]
+
+[[releases]]
+released_on = "2015-07-29"
+country = "JP"
+catalog_number = "UICV-9112"
+media = [{ kind = "cd" }]
+disambiguation = "Sexy ver. Type B"
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1132271/1/" },
+]
+
+[[releases]]
+released_on = "2015-07-29"
+country = "JP"
+catalog_number = "UICV-9113"
+media = [{ kind = "cd" }]
+disambiguation = "Cutie ver. Type A"
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1132274/1/" },
+]
+
+[[releases]]
+released_on = "2015-07-29"
+country = "JP"
+catalog_number = "UICV-9114"
+media = [{ kind = "cd" }]
+disambiguation = "Cutie ver. Type B"
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1132275/1/" },
+]
+
+[[releases]]
+released_on = "2015-07-29"
+country = "JP"
+catalog_number = "UICV-9115"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Seolhyun ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1132280/1/" },
+]
+
+[[releases]]
+released_on = "2015-07-29"
+country = "JP"
+catalog_number = "UICV-9116"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Choa ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1132283/1/" },
+]
+
+[[releases]]
+released_on = "2015-07-29"
+country = "JP"
+catalog_number = "UICV-9117"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Hyejeong ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1132284/1/" },
+]
+
+[[releases]]
+released_on = "2015-07-29"
+country = "JP"
+catalog_number = "UICV-9118"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Chanmi ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1132286/1/" },
+]
+
+[[releases]]
+released_on = "2015-07-29"
+country = "JP"
+catalog_number = "UICV-9119"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Yuna ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1132287/1/" },
+]
+
+[[releases]]
+released_on = "2015-07-29"
+country = "JP"
+catalog_number = "UICV-9120"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Mina ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1132289/1/" },
+]
+
+[[releases]]
+released_on = "2015-07-29"
+country = "JP"
+catalog_number = "UICV-9121"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Jimin ver."
+url = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1132290/1/" },
+]

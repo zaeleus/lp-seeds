@@ -1,0 +1,15 @@
+names = [
+  { name = "Shh", locale = "ja", original = true, default = true },
+]
+
+artist_credits = [{
+  artist_id = "after-school",
+  names = [
+    { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
+  ],
+}]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=jzT-QIlhqY0", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=4C4IeliJebQ", name = "Music Video (Dance Ver.)" },
+]

@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1988-02-02"
+country = "KR"
+
+names = [
+  { name = "우리", locale = "ko", kind = "stage", original = true },
+  { name = "Woo Ri", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "고우리", locale = "ko", kind = "real" },
+  { name = "Go Woo Ri", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "dsp-media" }]
+
+[metadata]
+height = 165
+weight = 44

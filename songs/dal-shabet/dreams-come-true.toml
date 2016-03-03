@@ -1,0 +1,12 @@
+names = [
+  { name = "Dreams Come True (아영 solo)", locale = "ko", original = true },
+  { name = "Dreams Come True (Ah Young solo)", locale = "ko-Latn", default = true },
+]
+
+contributions = [
+  { artist_id = "dal-shabet/ah-young", kind = "performer" },
+  { artist_id = "dk-hine", kind = "lyricist" },
+  { artist_id = "dk-hine", kind = "composer" },
+  { artist_id = "dk-hine", kind = "arranger" },
+  { artist_id = "maven", kind = "arranger" },
+]

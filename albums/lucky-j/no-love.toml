@@ -1,0 +1,15 @@
+artist_id = "lucky-j"
+kind = "single"
+
+names = [
+  { name = "No Love", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-01-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2660903" },
+  { url = "http://www.mnet.com/album/521793" },
+]

@@ -1,0 +1,10 @@
+names = [
+  { name = "Music K Entertainment", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "http://musick.co.kr/" },
+  { url = "https://twitter.com/musick_official" },
+  { url = "https://www.facebook.com/musickofficial" },
+  { url = "https://www.youtube.com/user/musicKentofficial" },
+]

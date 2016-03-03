@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1998-08-10"
+country = "KR"
+
+names = [
+  { name = "예은", locale = "ko", kind = "stage", original = true },
+  { name = "Yee Eun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "장예은", locale = "ko", kind = "real" },
+  { name = "Jang Yee Eun", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "B"
+height = 166
+weight = 49

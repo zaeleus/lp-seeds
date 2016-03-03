@@ -1,0 +1,20 @@
+kind = "person"
+started_on = ""
+country = "KR"
+
+names = [
+  { name = "크리스탈", locale = "ko", kind = "stage", original = true },
+  { name = "Krystal", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정수정", locale = "ko", kind = "real" },
+  { name = "Jung Soo Jung", locale = "ko-Latn", kind = "real" },
+  { name = "Krystal Jung", locale = "en", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/vousmevoyez/" },
+]
+
+[metadata]
+blood_type = "O"
+height = 165
+weight = 47

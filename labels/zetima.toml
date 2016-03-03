@@ -1,0 +1,5 @@
+started_on = "1998-04"
+
+names = [
+  { name = "Zetima", locale = "ja", default = true, original = true },
+]

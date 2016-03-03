@@ -1,0 +1,11 @@
+artist_id = "lovelyz/yoo-ji-ae"
+kind = "single"
+
+names = [
+  { name = "Delight", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2013-04-24"
+country = "KR"
+media = [{ kind = "digital" }]

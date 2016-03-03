@@ -1,0 +1,24 @@
+kind = "group"
+started_on = "2009"
+country = "JP"
+
+names = [
+  { name = "アンジュルム", locale = "ja", original = true },
+  { name = "ANGERME", locale = "ja-Latn", default = true },
+]
+
+members = [
+  { id = "angerme/wada-ayaka" },
+  { id = "angerme/fukuda-kanon" },
+  { id = "angerme/nakanishi-kana" },
+  { id = "angerme/takeuchi-akari" },
+  { id = "angerme/katsuta-rina" },
+  { id = "angerme/tamura-meimi" },
+  { id = "angerme/murota-mizuki" },
+  { id = "angerme/aikawa-maho" },
+  { id = "angerme/sasaki-rikako" },
+
+  { id = "angerme/maeda-yuuka", ended_on = "2011-12-31" },
+  { id = "angerme/ogawa-sasaki", ended_on = "2011-08-27" },
+  { id = "angerme/kosuga-fuyuka", ended_on = "2011-09-10" },
+]

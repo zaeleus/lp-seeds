@@ -1,0 +1,11 @@
+names = [
+  { name = "Whoo", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=URPYRLiGAnY", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=3yt0oDhW6uM", name = "Choreography Video" },
+  { url = "https://www.youtube.com/watch?v=5DAyI8q0eUY", name = "Making of" },
+  { url = "https://www.youtube.com/watch?v=tIW_KpTtZEo", name = "Jacket Behind the Scenes" },
+  { url = "https://www.youtube.com/watch?v=rN468VGLHLk", name = "Teaser" },
+]

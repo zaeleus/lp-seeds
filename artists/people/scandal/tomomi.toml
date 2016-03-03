@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1990-05-31"
+country = "JP"
+
+names = [
+  { name = "TOMOMI", locale = "ja", kind = "stage", original = true, default = true },
+  { name = "小川ともみ", locale = "ja", kind = "real" },
+  { name = "Ogawa Tomomi", locale = "ja-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"
+height = 157

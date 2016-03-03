@@ -1,0 +1,17 @@
+artist_id = "aoa"
+kind = "ep"
+
+names = [
+  { name = "사뿐사뿐", locale = "ko", original = true },
+  { name = "Sappeun Sappeun", locale = "ko-Latn", default = true },
+  { name = "Like a Cat", locale = "en" },
+]
+
+[[releases]]
+released_on = "2014-11-11"
+country = "KR"
+catalog_number = "CMCC-10437"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=034202710" },
+]

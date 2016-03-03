@@ -1,0 +1,7 @@
+kind = "person" # TODO is this a person?
+#started_on = ""
+country = "JP"
+
+names = [
+  { name = "hasie&koji", locale = "ja", kind = "stage", original = true, default = true },
+]

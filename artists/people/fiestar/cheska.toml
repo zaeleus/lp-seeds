@@ -1,0 +1,18 @@
+kind = "person"
+started_on = "1992-03-11"
+country = "KR"
+
+names = [
+  { name = "체스카", locale = "ko", kind = "stage", original = true },
+  { name = "Cheska", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "프란체스카 안", locale = "ko", kind = "real" },
+  { name = "Francesca An", locale = "ko-Latn", kind = "real" },
+  { name = "Francesca An", locale = "en", kind = "real" },
+]
+
+urls = [
+  { url = "https://soundcloud.com/francesca-mj-an" },
+]
+
+[metadata]
+blood_type = "AB"

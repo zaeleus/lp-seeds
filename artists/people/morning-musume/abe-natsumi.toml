@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1981-08-10"
+country = "JP"
+
+names = [
+  { name = "安倍なつみ", locale = "ja", kind = "real", original = true },
+  { name = "Abe Natsumi", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 152

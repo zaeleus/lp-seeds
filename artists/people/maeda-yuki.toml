@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1979-08-28"
+country = "JP"
+
+names = [
+  { name = "前田有紀", locale = "ja", kind = "real", original = true },
+  { name = "Maeda Yuki", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"

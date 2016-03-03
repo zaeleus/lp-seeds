@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1986-09-14"
+country = "JP"
+
+names = [
+  { name = "高橋愛", locale = "ja", kind = "real", original = true },
+  { name = "Takahashi Ai", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 153

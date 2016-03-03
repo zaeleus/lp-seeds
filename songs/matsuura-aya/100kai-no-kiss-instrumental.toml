@@ -1,0 +1,5 @@
+names = [
+  { name = "100回のKISS (Instrumental)", locale = "ja", original = true },
+  { name = "100kai no KISS (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "100th Kiss (Instrumental)", locale = "en" },
+]

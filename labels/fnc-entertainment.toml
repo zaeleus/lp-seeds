@@ -1,0 +1,13 @@
+started_on = "2006"
+
+names = [
+  { name = "에프엔씨 엔터테인먼트", locale = "ko", original = true },
+  { name = "FNC Entertainment", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "http://www.fncent.com/" },
+  { url = "https://twitter.com/FNC_ENT" },
+  { url = "https://www.facebook.com/theofficialfnc" },
+  { url = "https://www.youtube.com/user/thefncofficial" },
+]

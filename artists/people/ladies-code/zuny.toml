@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1994-12-08"
+country = "KR"
+
+names = [
+  { name = "주니", locale = "ko", kind = "stage", original = true },
+  { name = "Zuny", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김주미", locale = "ko", kind = "real" },
+  { name = "Kim Joo Mi", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "polaris-entertainment" }]

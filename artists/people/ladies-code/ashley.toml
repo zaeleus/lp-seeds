@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1991-11-09"
+country = "KR"
+
+names = [
+  { name = "애슐리", locale = "ko", kind = "stage", original = true },
+  { name = "Ashley", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "최빛나", locale = "ko", kind = "real" },
+  { name = "Choi Bi Na", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "polaris-entertainment" }]

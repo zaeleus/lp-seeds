@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1998-11-02"
+country = "KR"
+
+names = [
+  { name = "Elkie", locale = "ko", kind = "stage", original = true, default = true },
+]
+
+[metadata]
+height = 163
+weight = 45

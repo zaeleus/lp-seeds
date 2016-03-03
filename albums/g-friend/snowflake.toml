@@ -1,0 +1,20 @@
+artist_id = "g-friend"
+kind = "ep"
+
+names = [
+  { name = "Snowflake", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-01-25"
+country = "KR"
+media = [{ kind = "digital" }]
+
+[[releases]]
+released_on = "2016-01-25"
+country = "KR"
+catalog_number = "L200001201"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001209331" },
+]

@@ -1,0 +1,26 @@
+artist_id = "-virtual/perfume-dj-momo-i"
+kind = "single"
+
+names = [
+  { name = "Akihabalove", locale = "ja", original = true, default = true },
+]
+
+artist_credits = [{
+  artist_id = "perfume",
+  names = [
+    { name = "ぱふゅ〜む", locale = "jp", original = true },
+    { name = "Perfume", locale = "jp-Latn", default = true },
+  ],
+  separator = "×",
+}, {
+  artist_id = "momoi-haruko",
+  names = [
+    { name = "DJ momo-i", locale = "jp", original = true, default = true },
+  ],
+}]
+
+[[releases]]
+released_on = "2005-08-29"
+country = "JP"
+catalog_number = "NKCM-1006"
+media = [{ kind = "cd" }, { kind = "dvd" }]

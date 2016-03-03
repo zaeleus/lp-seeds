@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1994-01-18"
+country = "KR"
+
+names = [
+  { name = "민지", locale = "ko", kind = "stage", original = true },
+  { name = "Minzy", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "공민지", locale = "ko", kind = "real" },
+  { name = "Gong Min Ji", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/mingkki21" },
+]

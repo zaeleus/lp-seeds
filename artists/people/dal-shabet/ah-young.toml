@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1991-05-26"
+country = "KR"
+
+names = [
+  { name = "아영", locale = "ko", kind = "stage", original = true },
+  { name = "Ah Young", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조자영", locale = "ko", kind = "real" },
+  { name = "Cho Ja Young", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "happyface-entertainment" }]
+
+[metadata]
+height = 167
+weight = 47
+blood_type = "O"

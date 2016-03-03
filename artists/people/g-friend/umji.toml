@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1998-08-19"
+country = "KR"
+
+names = [
+  { name = "엄지", locale = "ko", kind = "stage", original = true },
+  { name = "Umji", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김예원", locale = "ko", kind = "real" },
+  { name = "Kim Ye Won", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "source-music-entertainment" }]
+
+[metadata]
+height = 163
+weight = 45
+blood_type = "O"

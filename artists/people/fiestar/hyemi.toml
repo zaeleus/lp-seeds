@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1990-08-10"
+country = "KR"
+
+names = [
+  { name = "김혜미", locale = "ko", kind = "stage", original = true },
+  { name = "Hyemi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "혜미", locale = "ko", kind = "real" },
+  { name = "Kim Hye Mi", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"

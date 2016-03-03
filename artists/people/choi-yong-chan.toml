@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "KR"
+
+names = [
+  { name = "최용찬", locale = "ko", kind = "real", original = true },
+  { name = "Choi Yong Chan", locale = "ko-Latn", kind = "real", default = true },
+]

@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1996-07-19"
+country = "KR"
+
+names = [
+  { name = "하영", locale = "ko", kind = "stage", original = true },
+  { name = "Ha Young", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "오하영", locale = "ko", kind = "real" },
+  { name = "Oh Ha Young", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "a-cube-entertainment" }]
+
+[metadata]
+weight = 45
+height = 167

@@ -1,0 +1,28 @@
+medium_ids = [
+  "morning-musume/oh-my-wish-sukatto-my-heart-ima-sugu-tobikomu-yuuki/limited-edition-b/cd1",
+  "morning-musume/oh-my-wish-sukatto-my-heart-ima-sugu-tobikomu-yuuki/regular-edition-b/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "morning-musume/sukatto-my-heart"
+
+[[tracks]]
+position = 2
+song_id = "morning-musume/ima-sugu-tobikomu-yuuki"
+
+[[tracks]]
+position = 3
+song_id = "morning-musume/oh-my-wish"
+
+[[tracks]]
+position = 4
+song_id = "morning-musume/sukatto-my-heart-instrumental"
+
+[[tracks]]
+position = 5
+song_id = "morning-musume/ima-sugu-tobikomu-yuuki-instrumental"
+
+[[tracks]]
+position = 6
+song_id = "morning-musume/oh-my-wish-instrumental"

@@ -1,0 +1,8 @@
+names = [
+  { name = "꾸리스마스", locale = "ko", original = true },
+  { name = "Lonely Christmas", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=qCPFK61Yu3M", name = "Music Video" },
+]

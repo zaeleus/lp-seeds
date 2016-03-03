@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1989-10-22"
+country = "KR"
+
+names = [
+  { name = "린지", locale = "ko", kind = "stage", original = true },
+  { name = "Linzy", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "임민지", locale = "ko", kind = "real" },
+  { name = "Lim Min Ji", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "O"

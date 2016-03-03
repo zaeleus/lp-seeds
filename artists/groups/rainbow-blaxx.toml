@@ -1,0 +1,17 @@
+kind = "group"
+started_on = "2014"
+country = "KR"
+
+names = [
+  { name = "레인보우 블랙", locale = "ko", original = true },
+  { name = "Rainbow BLAXX", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "dsp-media" }]
+
+members = [
+  { id = "rainbow/jae-kyung" },
+  { id = "rainbow/woo-ri" },
+  { id = "rainbow/seung-ah" },
+  { id = "rainbow/hyun-young" },
+]

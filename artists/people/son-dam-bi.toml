@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1983-09-25"
+country = "KR"
+
+names = [
+  { name = "손담비", locale = "ko", kind = "real", original = true },
+  { name = "Son Dam Bi", locale = "ko-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 168
+weight = 48

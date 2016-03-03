@@ -1,0 +1,25 @@
+kind = "group"
+started_on = "2014"
+country = "KR"
+
+names = [
+  { name = "라붐", locale = "ko", original = true },
+  { name = "LABOUM", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "laboum/hae-in" },
+  { id = "laboum/sol-bin" },
+  { id = "laboum/yul-hee" },
+  { id = "laboum/so-yeon" },
+  { id = "laboum/zn" },
+  { id = "laboum/yu-jeong" },
+]
+
+urls = [
+  { url = "http://nhemg.com/?page_id=3034" },
+  { url = "http://cafe.daum.net/officialLABOUM" },
+  { url = "https://www.facebook.com/officialLABOUM/" },
+  { url = "https://twitter.com/officialLABOUM" },
+  { url = "https://www.youtube.com/user/officialLABOUM" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "可能性の道", locale = "ja", original = true },
+  { name = "Kanousei no Michi", locale = "ja-Latn", default = true },
+  { name = "Potential Path", locale = "en" },
+]

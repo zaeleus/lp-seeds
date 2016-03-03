@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1994-08-26"
+country = "KR"
+
+names = [
+  { name = "예지", locale = "ko", kind = "stage", original = true },
+  { name = "Yezi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이여치", locale = "ko", kind = "real" },
+  { name = "Lee Ye Zi", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "A"

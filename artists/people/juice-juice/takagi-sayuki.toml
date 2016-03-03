@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1997-04-21"
+country = "JP"
+
+names = [
+  { name = "高木紗友希", locale = "ja", kind = "real", original = true },
+  { name = "Takagi Sayuki", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 154

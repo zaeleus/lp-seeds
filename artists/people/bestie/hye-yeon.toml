@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1990-12-08"
+country = "KR"
+
+names = [
+  { name = "혜연", locale = "ko", kind = "stage", original = true },
+  { name = "Hye Yeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "강혜연", locale = "ko", kind = "real" },
+  { name = "Kang Hye Yeon", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "ynb-entertainment" }]
+
+urls = [
+  { url = "https://twitter.com/bestie_HY" },
+]
+
+[metadata]
+height = 165
+weight = 48

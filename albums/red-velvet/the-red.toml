@@ -1,0 +1,12 @@
+artist_id = "red-velvet"
+kind = "lp"
+
+names = [
+  { name = "The Red", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-09-09"
+country = "KR"
+catalog_number = "SMK-0561"
+media = [{ kind = "cd" }]

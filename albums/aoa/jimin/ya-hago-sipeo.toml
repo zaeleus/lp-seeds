@@ -1,0 +1,21 @@
+artist_id = "aoa/jimin"
+kind = "single"
+
+names = [
+  { name = "야 하고 싶어", locale = "ko", original = true },
+  { name = "Ya Hago Sipeo", locale = "ko-Latn", default = true },
+  { name = "Call You Bae", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=bNyi9j09sSw", name = "Teaser" },
+]
+
+[[releases]]
+released_on = "2016-03-03"
+country = "KR"
+media = [{ kind = "digital" }]
+url = [
+  { url = "http://www.melon.com/song/detail.htm?songId=8075429" },
+  { url = "http://www.mnet.com/track/5223460" },
+]

@@ -1,0 +1,15 @@
+artist_id = "nine-muses"
+kind = "ep"
+
+names = [
+  { name = "WILD", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2013-05-09"
+country = "KR"
+catalog_number = "L100004694"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001207980" },
+]

@@ -1,0 +1,10 @@
+names = [
+  { name = "YMC엔터테인먼트", locale = "ko", original = true },
+  { name = "YMC Entertainment", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "http://www.ymcent.com/" },
+  { url = "https://www.youtube.com/user/YMCent" },
+  { url = "https://twitter.com/ymc_ent" },
+]

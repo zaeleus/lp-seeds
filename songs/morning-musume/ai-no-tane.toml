@@ -1,0 +1,17 @@
+names = [
+  { name = "愛の種", locale = "ja", original = true },
+  { name = "Ai no Tane", locale = "ja-Latn", default = true },
+  { name = "Seeds of Love", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "morning-musume/nakazawa-yuko", kind = "performer" },
+  { artist_id = "morning-musume/ishiguro-aya", kind = "performer" },
+  { artist_id = "morning-musume/iida-kaori", kind = "performer" },
+  { artist_id = "morning-musume/abe-natsumi", kind = "performer" },
+  { artist_id = "morning-musume/fukuda-asuka", kind = "performer" },
+
+  { artist_id = "saeki-kenzou", kind = "lyricist" },
+  { artist_id = "sakurai-tetsutaro", kind = "composer" },
+  { artist_id = "sakurai-tetsutaro", kind = "arranger" },
+]

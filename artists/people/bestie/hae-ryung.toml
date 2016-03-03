@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1994-11-11"
+country = "KR"
+
+names = [
+  { name = "해령", locale = "ko", kind = "stage", original = true },
+  { name = "Hae Ryung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "나해령", locale = "ko", kind = "real" },
+  { name = "Na Hae Ryung", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "ynb-entertainment" }]
+
+urls = [
+  { url = "https://twitter.com/bestie_hr" },
+]
+
+[metadata]
+height = 168
+weight = 45

@@ -1,0 +1,28 @@
+medium_ids = [
+  "apink/snow-pink/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "apink/he-s-my-baby"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song_id = "apink/my-my"
+duration = "3:56"
+
+[[tracks]]
+position = 3
+song_id = "apink/yeah"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song_id = "apink/kkumgyeol-cheoreom"
+duration = "3:34"
+
+[[tracks]]
+position = 5
+song_id = "apink/prince"
+duration = "3:49"

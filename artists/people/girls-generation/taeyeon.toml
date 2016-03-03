@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1989-03-09"
+country = "KR"
+
+names = [
+  { name = "태연", locale = "ko", kind = "stage", original = true },
+  { name = "Taeyeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김태연", locale = "ko", kind = "real" },
+  { name = "Kim Tae Yeon", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "O"
+height = 157
+weight = 45

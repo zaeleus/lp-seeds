@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1986-03-29"
+country = "KR"
+
+names = [
+  { name = "소영", locale = "ko", kind = "stage", original = true },
+  { name = "So Young", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "유소영", locale = "ko", kind = "real" },
+  { name = "Yoo So Young", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 165
+weight = 44

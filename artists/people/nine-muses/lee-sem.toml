@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1987-05-05"
+country = "KR"
+
+names = [
+  { name = "이샘", locale = "ko", kind = "stage", original = true },
+  { name = "Lee Sem", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이주현", locale = "ko", kind = "real" },
+  { name = "Lee Joo Hyun", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "star-empire-entertainment" }]
+
+urls = [
+  { url = "https://twitter.com/leesemonni" },
+]
+
+[metadata]
+blood_type = "O"
+height = 174

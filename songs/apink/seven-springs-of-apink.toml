@@ -1,0 +1,3 @@
+names = [
+  { name = "Seven Springs of APink", locale = "ko", original = true, default = true },
+]

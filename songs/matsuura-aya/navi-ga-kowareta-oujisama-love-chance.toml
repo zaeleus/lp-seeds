@@ -1,0 +1,5 @@
+names = [
+  { name = "ナビが壊れた王子様 （LOVE CHANCE）", locale = "ja", original = true },
+  { name = "Navi ga Kowareta Oujisama (LOVE CHANCE)", locale = "ja-Latn", default = true },
+  { name = "The Prince with the Broken Navigator (Love Chance)", locale = "en" },
+]

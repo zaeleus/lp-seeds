@@ -1,0 +1,14 @@
+names = [
+  { name = "시작이 좋아 2015 (Prod. by 버벌진트)", locale = "ko", original = true },
+  { name = "Sijagi Joha 2015 (Prod. by Verbal Jint)", locale = "ko-Latn", default = true },
+  { name = "Good Start 2015 (Prod. by Verbal Jint)", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "aoa/jimin", separator = ", " },
+  { artist_id = "2am/lim-seul-ong" }, # TODO check name
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=YmCkJAHj8eM", name = "Music Video" },
+]

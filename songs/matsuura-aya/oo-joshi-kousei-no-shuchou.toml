@@ -1,0 +1,11 @@
+names = [
+  { name = "○○-女子校生の主張-", locale = "ja", original = true },
+  { name = "OO -Joshi Kousei no Shuchou-", locale = "ja-Latn", default = true },
+  { name = "OO -School Girl's Assertion-", locale = "en" },
+]
+
+contributions = [
+  { artist_id = "tsunku", kind = "lyricist" },
+  { artist_id = "tsunku", kind = "composer" },
+  { artist_id = "suzuki-shunsuke", kind = "arranger" },
+]

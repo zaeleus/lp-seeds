@@ -1,0 +1,5 @@
+names = [
+  { name = "꿈결처럼", locale = "ko", original = true },
+  { name = "Kkumgyeol Cheoreom", locale = "ko-Latn", default = true },
+  { name = "Dream Like", locale = "en" },
+]

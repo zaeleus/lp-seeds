@@ -1,0 +1,21 @@
+kind = "person"
+started_on = "1990-01-09"
+country = "KR"
+
+names = [
+  { name = "지현", locale = "ko", kind = "stage", original = true },
+  { name = "Ji Hyun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "남지현", locale = "ko", kind = "real" },
+  { name = "Nam Ji Hyun", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "cube-entertainment" }]
+
+urls = [
+  { url = "https://twitter.com/4m_namjiji0109" },
+]
+
+[metadata]
+blood_type = "A"
+weight = 49
+height = 167

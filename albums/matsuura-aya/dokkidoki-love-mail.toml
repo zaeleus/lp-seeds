@@ -1,0 +1,14 @@
+artist_id = "matsuura-aya"
+kind = "single"
+
+names = [
+  { name = "ドッキドキ！LOVEメール", locale = "ja", original = true },
+  { name = "Dokkidoki! LOVE Mail", locale = "ja-Latn", default = true },
+  { name = "Heart-Pounding! LOVE Mail", locale = "en" },
+]
+
+[[releases]]
+released_on = "2001-04-11"
+country = "JP"
+catalog_number = "EPCE-5096"
+media = [{ kind = "cd" }]

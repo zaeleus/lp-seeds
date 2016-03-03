@@ -1,0 +1,12 @@
+artist_id = "lovelyz/baby-soul"
+kind = "single"
+
+names = [
+  { name = "남보다 못한 사이", locale = "ko", original = true },
+  { name = "Namboda Motan Sai", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released_on = "2011-11-23"
+country = "KR"
+media = [{ kind = "digital" }]

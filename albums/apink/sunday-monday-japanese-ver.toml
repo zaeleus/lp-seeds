@@ -1,0 +1,50 @@
+artist_id = "apink"
+kind = "single"
+
+names = [
+  { name = "SUNDAY MONDAY -Japanese Ver.-", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-12-09"
+country = "JP"
+catalog_number = "UPCH-89242"
+disambiguation = "Limited Edition A"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/540079/products/1155178/1/" },
+  { url = "http://www.universal-music.co.jp/apink/products/upch-89242/" },
+]
+
+[[releases]]
+released_on = "2015-12-09"
+country = "JP"
+catalog_number = "UPCH-89243"
+disambiguation = "Limited Edition B"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/540079/products/1155179/1/" },
+  { url = "http://www.universal-music.co.jp/apink/products/upch-89243/" },
+]
+
+[[releases]]
+released_on = "2015-12-09"
+country = "JP"
+catalog_number = "UPCH-89250"
+disambiguation = "Limited Edition C"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/540079/products/1155181/1/" },
+  { url = "http://www.universal-music.co.jp/apink/products/upch-89250/" },
+]
+
+[[releases]]
+released_on = "2015-12-09"
+country = "JP"
+catalog_number = "UPCH-80417"
+disambiguation = "Regular Edition"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/540079/products/1155182/1/" },
+  { url = "http://www.universal-music.co.jp/apink/products/upch-80417/" },
+]

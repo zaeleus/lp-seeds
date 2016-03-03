@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1996-03-18"
+country = "KR"
+
+names = [
+  { name = "연준", locale = "ko", kind = "stage", original = true },
+  { name = "Yeon Jun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김연준", locale = "ko", kind = "real" },
+  { name = "Kim Yeon Jun", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "sidushq" }]
+
+urls = [
+  { url = "https://instagram.com/yeonjoon0318/" },
+]
+
+[metadata]
+blood_type = "O"
+height = 161
