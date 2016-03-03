@@ -1,0 +1,27 @@
+artist_id = "playback"
+kind = "single"
+
+names = [
+  { name = "없을까 (Feat. 에릭남)", locale = "ko", original = true },
+  { name = "Eobseulkka? (Feat. Eric Nam)", locale = "ko-Latn", default = true },
+  { name = "I Wonder? (Feat. Eric Nam)", locale = "en" },
+]
+
+[[releases]]
+released_on = "2015-09-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/album/eobs-eulkka-feat.-elignam/id1036078493" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2638056" },
+  { url = "http://www.mnet.com/album/492484" },
+]
+
+[[releases]]
+released_on = "2015-09-07"
+country = "KR"
+catalog_number = "CMCC-10652"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=034203039" },
+]

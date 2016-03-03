@@ -1,0 +1,13 @@
+names = [
+  { name = "없을까 (Feat. 에릭남)", locale = "ko", original = true },
+  { name = "Eobseulkka? (Feat. Eric Nam)", locale = "ko-Latn", default = true },
+  { name = "I Wonder? (Feat. Eric Nam)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=xzlMsvF73tE", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "eric-nam", kind = "performer" },
+]

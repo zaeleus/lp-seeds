@@ -1,0 +1,5 @@
+names = [
+  { name = "없을까 (Playback Ver.)", locale = "ko", original = true },
+  { name = "Eobseulkka? (Playback Ver.)", locale = "ko-Latn", default = true },
+  { name = "I Wonder? (Playback Ver.)", locale = "en" },
+]
