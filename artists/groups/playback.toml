@@ -1,0 +1,17 @@
+kind = "group"
+started_on = "2015"
+country = "KR"
+
+names = [
+  { name = "플레이백", locale = "ko", original = true },
+  { name = "Playback", locale = "ko-Latn", default = true },
+]
+
+# TODO members
+members = []
+
+urls = [
+  { url = "https://www.facebook.com/followplayback" },
+  { url = "https://www.instagram.com/followplayback/" },
+  { url = "https://twitter.com/followplayback" },
+]
