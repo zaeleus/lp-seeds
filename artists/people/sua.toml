@@ -1,0 +1,10 @@
+kind = "person"
+started_on = "1999-09-09"
+country = "KR"
+
+names = [
+  { name = "수아", locale = "ko", kind = "stage", original = true },
+  { name = "SUA", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "문수아", locale = "ko", kind = "real" },
+  { name = "Moon Su Ah", locale = "ko-Latn", kind = "real" },
+]

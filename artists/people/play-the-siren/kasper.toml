@@ -1,0 +1,18 @@
+kind = "person"
+started_on = "1993-04-17"
+country = "KR"
+
+names = [
+  { name = "카스퍼", locale = "ko", kind = "stage", original = true },
+  { name = "Kasper", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Serine Lee", locale = "en", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.facebook.com/KasperOfficial/" },
+  { url = "https://www.instagram.com/kasper0417/" },
+  { url = "http://11x11pm.tumblr.com/" },
+  { url = "https://soundcloud.com/OFFICIALKASPER" },
+  { url = "https://twitter.com/KASPER417" },
+  { url = "https://www.youtube.com/user/11x11PM" },
+]

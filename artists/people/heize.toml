@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1991-08-09"
+country = "KR"
+
+names = [
+  { name = "헤이즈", locale = "ko", kind = "stage", original = true },
+  { name = "Heize", locale = "ko-Latn", kind = "stage", default = true },
+]

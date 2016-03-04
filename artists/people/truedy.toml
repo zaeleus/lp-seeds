@@ -1,0 +1,10 @@
+kind = "person"
+started_on = "1993-08-20"
+country = "KR"
+
+names = [
+  { name = "트루디", locale = "ko", kind = "stage", original = true },
+  { name = "Truedy", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김진솔", locale = "ko", kind = "real" },
+  { name = "Kim Jin Sol", locale = "ko-Latn", kind = "real" },
+]
