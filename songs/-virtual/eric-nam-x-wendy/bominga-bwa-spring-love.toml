@@ -7,3 +7,7 @@ artist_credits = [
   { artist_id = "eric-nam", separator = " x " },
   { artist_id = "red-velvet/wendy" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=erErBFKPbMY", name = "Music Video" },
+]
