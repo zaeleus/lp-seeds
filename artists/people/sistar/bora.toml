@@ -1,0 +1,18 @@
+kind = "person"
+started_on = "1990-01-30"
+country = "KR"
+
+names = [
+  { name = "보라", locale = "ko", kind = "stage", original = true },
+  { name = "Bora", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "윤보라", locale = "ko", kind = "real" },
+  { name = "Yoon Bo Ra", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/borabora_sugar/" },
+]
+
+[metadata]
+height = 165
+weight = 46

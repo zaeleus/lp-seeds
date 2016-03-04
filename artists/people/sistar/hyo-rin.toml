@@ -1,0 +1,18 @@
+kind = "person"
+started_on = "1991-01-11"
+country = "KR"
+
+names = [
+  { name = "효린", locale = "ko", kind = "stage", original = true },
+  { name = "Hyo Rin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김효정", locale = "ko", kind = "real" },
+  { name = "Kim Hyo Jung", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/xhyolynx/" },
+]
+
+[metadata]
+height = 164
+weight = 47

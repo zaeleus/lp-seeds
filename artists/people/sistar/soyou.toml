@@ -1,0 +1,18 @@
+kind = "person"
+started_on = "1992-02-12"
+country = "KR"
+
+names = [
+  { name = "소유", locale = "ko", kind = "stage", original = true },
+  { name = "Soyou", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "강지현", locale = "ko", kind = "real" },
+  { name = "Kang Ji Hyun", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/soooo_you/" },
+]
+
+[metadata]
+height = 168
+weight = 49

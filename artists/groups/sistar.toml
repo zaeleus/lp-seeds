@@ -1,0 +1,20 @@
+kind = "group"
+started_on = "2010"
+country = "KR"
+
+names = [
+  { name = "씨스타", locale = "ko", original = true },
+  { name = "SISTAR", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "sistar/hyo-rin" },
+  { id = "sistar/bora" },
+  { id = "sistar/soyou" },
+  { id = "sistar/da-som" },
+]
+
+urls = [
+  { url = "http://starship-ent.co.kr/sistar/" },
+  { url = "https://twitter.com/sistarsistar" },
+]
