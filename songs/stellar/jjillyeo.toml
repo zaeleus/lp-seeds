@@ -6,4 +6,12 @@ names = [
 
 urls = [
   { url = "https://www.youtube.com/watch?v=IIj7j7mtNS4", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=54NyyS6_yos", name = "Music Video (Dance Ver.)" },
+  { url = "https://www.youtube.com/watch?v=SEmNkNDHgHQ", name = "Music Video (Global Fan Cover Ver.)" },
+  { url = "https://www.youtube.com/watch?v=yqUJMvg1jbA", name = "Music Video Making Film" },
+  { url = "https://www.youtube.com/watch?v=v55zEjX-lRE", name = "Music Video (mooovr VR)" },
+  { url = "https://www.youtube.com/watch?v=29GAu_P3yKs", name = "Music Video (Pikicast 360 VR)" },
+  { url = "https://www.youtube.com/watch?v=RD19IQ0eDrw", name = "Dance Practice" },
+  { url = "https://www.youtube.com/watch?v=S18BCKkV604", name = "Dance Practice (Dress Ver.)" },
+  { url = "https://www.youtube.com/watch?v=Z4A-4j7Gkc0", name = "Dance Practice (New Year Hanbok Ver.)" },
 ]
