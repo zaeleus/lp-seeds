@@ -13,3 +13,13 @@ media = [{ kind = "cd" }]
 url = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=024700197" },
 ]
+
+[[releases]]
+released_on = "2015-12-06"
+country = "KR"
+media = [{ kind = "digital" }]
+url = [
+  { url = "https://itunes.apple.com/album/aalow-aalow-ep/id1065436067" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2654131" },
+  { url = "http://www.mnet.com/album/514019" },
+]

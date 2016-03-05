@@ -1,0 +1,29 @@
+medium_ids = [
+  "laboum/aalow-aalow/default/cd1",
+  "laboum/aalow-aalow/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "laboum/intro"
+duration = "0:56"
+
+[[tracks]]
+position = 2
+song_id = "laboum/aalow-aalow"
+duration = "3:19"
+
+[[tracks]]
+position = 3
+song_id = "laboum/tasty"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song_id = "laboum/aalow-aalow-inst"
+duration = "3:19"
+
+[[tracks]]
+position = 5
+song_id = "laboum/tasty-inst"
+duration = "3:12"

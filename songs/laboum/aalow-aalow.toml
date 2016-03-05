@@ -1,0 +1,12 @@
+names = [
+  { name = "아로아로", locale = "ko", original = true },
+  { name = "AALOW AALOW", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=S5fSUpI4aUM", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=K7gRueXLSRw", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=u3_QjEIyxCQ", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=2P9NJ3OoCRc", name = "Music Video Making" },
+  { url = "https://www.youtube.com/watch?v=3yYnP5N-wnQ", name = "Recording" },
+]
