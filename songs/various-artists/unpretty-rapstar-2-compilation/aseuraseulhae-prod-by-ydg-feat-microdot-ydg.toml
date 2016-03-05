@@ -1,0 +1,9 @@
+names = [
+  { name = "아슬아슬해 (Prod. by YDG / Feat. 마이크로닷, YDG)", locale = "ko", original = true },
+  { name = "Aseuraseulhae (Prod. by YDG / Feat. Microdot, YDG)", locale = "ko-Latn", default = true },
+  { name = "On the Edge (Prod. by YDG / Feat. Microdot, YDG)", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "kittib" },
+]

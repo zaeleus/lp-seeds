@@ -1,0 +1,9 @@
+names = [
+  { name = "후횐 마 (Who Am I) (Feat. 조현아 of 어반자카파)", locale = "ko", original = true },
+  { name = "Huhoen Ma (Who Am I) (Feat. Jo Hyun Ah of Urban Zakapa)", locale = "ko-Latn", default = true },
+  { name = "No Regrets (Who Am I) (Feat. Jo Hyun Ah of Urban Zakapa)", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "wonder-girls/yoo-bin" },
+]

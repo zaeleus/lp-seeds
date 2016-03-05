@@ -1,0 +1,9 @@
+names = [
+  { name = "사랑 할 때 아니야 (Money) (Prod. by 박재범, Cha Cha Malone / Feat. 박재범, 지구인)", locale = "ko", original = true },
+  { name = "Saranghal Ttae Aniya (Money) (Prod. by Jay Park, Cha Cha Malone / Feat. Jay Park, Geegooin)", locale = "ko-Latn", default = true },
+  { name = "It's Not Time to Love (Money) (Prod. by Jay Park, Cha Cha Malone / Feat. Jay Park, Geegooin)", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "sistar/hyo-rin" },
+]

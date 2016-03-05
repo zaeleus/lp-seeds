@@ -1,0 +1,13 @@
+names = [
+  { name = "바꾸지 마 (This Ain't Me) (Feat. 정일훈 of BTOB)", locale = "ko", original = true },
+  { name = "Bakkuji Ma (This Ain't Me) (Feat. Jung Il Hoon of BTOB)", locale = "ko-Latn", default = true },
+  { name = "This Ain't Me (Feat. Jung Il Hoon of BTOB)", locale = "en" },
+]
+
+artist_credits = [{
+  artist_id = "4minute/ji-yoon",
+  names = [
+    { name = "전지윤", locale = "ko", original = true },
+    { name = "Jeon Ji Yoon", locale = "ko-Latn", default = true },
+  ],
+}]

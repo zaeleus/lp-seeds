@@ -1,0 +1,9 @@
+names = [
+  { name = "돈 벌지마 (Feat. 찬열 of EXO)", locale = "ko", original = true },
+  { name = "Don Beol Jima (Feat. Chanyeol of EXO)", locale = "ko-Latn", default = true },
+  { name = "Don't Make Money (Feat. Chan Yeol of EXO)", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "heize" },
+]

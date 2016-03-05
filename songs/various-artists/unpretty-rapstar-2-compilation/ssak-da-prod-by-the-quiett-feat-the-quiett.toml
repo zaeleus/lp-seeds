@@ -1,0 +1,9 @@
+names = [
+  { name = "싹 다 (Prod. by The Quiett / Feat. The Quiett)", locale = "ko", original = true },
+  { name = "Ssak Da (Prod. by The Quiett / Feat. The Quiett)", locale = "ko-Latn", default = true },
+  { name = "Entirely (Prod. by The Quiett / Feat. The Quiett)", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "wonder-girls/yoo-bin" },
+]

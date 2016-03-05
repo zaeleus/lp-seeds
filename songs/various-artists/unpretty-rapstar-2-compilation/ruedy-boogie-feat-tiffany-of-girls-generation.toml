@@ -1,0 +1,8 @@
+names = [
+  { name = "루디부기 (Ruedy Boogie) (Feat. 티파니 of 소녀시대)", locale = "ko", original = true },
+  { name = "Ruedy Boogie (Feat. Tiffany of Girls' Generation)", locale = "ko-Latn", default = true },
+]
+
+artist_credits = [
+  { artist_id = "truedy" },
+]

@@ -1,0 +1,89 @@
+medium_ids = [
+  "various-artists/unpretty-rapstar-2-compilation/default/cd1",
+  "various-artists/unpretty-rapstar-2-compilation/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "various-artists/unpretty-rapstar-2-compilation/unpretty-rapstar-don-t-stop-prod-by-d-o"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song_id = "various-artists/unpretty-rapstar-2-compilation/me-myself-i-prod-by-verbal-jint-feat-jessi-wheesung"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song_id = "various-artists/unpretty-rapstar-2-compilation/eumagi-anieossdamyeon-prod-by-verbal-jint-feat-cheetah"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song_id = "various-artists/unpretty-rapstar-2-compilation/solo-remix-prod-by-jay-park-cha-cha-malone-feat-jay-park-loco"
+duration = "3:29"
+
+[[tracks]]
+position = 5
+song_id = "various-artists/unpretty-rapstar-2-compilation/saranghal-ttae-aniya-money-prod-by-jay-park-cha-cha-malone-feat-jay-park-geegooin"
+duration = "3:25"
+
+[[tracks]]
+position = 6
+song_id = "various-artists/unpretty-rapstar-2-compilation/bandz-up-prod-by-dok2-feat-dok2"
+duration = "3:28"
+
+[[tracks]]
+position = 7
+song_id = "various-artists/unpretty-rapstar-2-compilation/ssak-da-prod-by-the-quiett-feat-the-quiett"
+duration = "3:19"
+
+[[tracks]]
+position = 8
+song_id = "various-artists/unpretty-rapstar-2-compilation/aseuraseulhae-prod-by-ydg-feat-microdot-ydg"
+duration = "3:24"
+
+[[tracks]]
+position = 9
+song_id = "various-artists/unpretty-rapstar-2-compilation/jajonsim-prod-by-brave-brothers-feat-gummy"
+duration = "3:15"
+
+[[tracks]]
+position = 10
+song_id = "various-artists/unpretty-rapstar-2-compilation/my-love-feat-basick"
+duration = "4:14"
+
+[[tracks]]
+position = 11
+song_id = "various-artists/unpretty-rapstar-2-compilation/don-beol-jima-feat-chanyeol-of-exo"
+duration = "3:15"
+
+[[tracks]]
+position = 12
+song_id = "various-artists/unpretty-rapstar-2-compilation/bakkuji-ma-this-ain-t-me-feat-jung-il-hoon-of-btob"
+duration = "3:37"
+
+[[tracks]]
+position = 13
+song_id = "various-artists/unpretty-rapstar-2-compilation/rrf-ronda-rousey-flow"
+duration = "3:36"
+
+[[tracks]]
+position = 14
+song_id = "various-artists/unpretty-rapstar-2-compilation/hamburo-haejwo-feat-hanhae"
+duration = "3:07"
+
+[[tracks]]
+position = 15
+song_id = "various-artists/unpretty-rapstar-2-compilation/huhoen-ma-who-am-i-feat-jo-hyun-ah-of-urban-zakapa"
+duration = "3:24"
+
+[[tracks]]
+position = 16
+song_id = "various-artists/unpretty-rapstar-2-compilation/who-am-i-feat-su-hyun-of-akdong-musician"
+duration = "3:33"
+
+[[tracks]]
+position = 17
+song_id = "various-artists/unpretty-rapstar-2-compilation/ruedy-boogie-feat-tiffany-of-girls-generation"
+duration = "3:14"

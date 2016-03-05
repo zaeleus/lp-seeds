@@ -1,0 +1,7 @@
+names = [
+  { name = "RRF (Ronda Rousey Flow)", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [
+  { artist_id = "kittib" },
+]

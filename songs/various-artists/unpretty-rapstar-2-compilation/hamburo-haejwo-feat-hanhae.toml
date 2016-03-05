@@ -1,0 +1,9 @@
+names = [
+  { name = "함부로 해줘 (Feat. 한해)", locale = "ko", original = true },
+  { name = "Hamburo Haejwo (Feat. Hanhae)", locale = "ko-Latn", default = true },
+  { name = "Go Rough (Feat. Hanhae)", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "fiestar/yezi" },
+]

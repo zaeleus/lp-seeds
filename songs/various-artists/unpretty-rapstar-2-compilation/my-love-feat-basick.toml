@@ -1,0 +1,8 @@
+names = [
+  { name = "My Love (Feat. 베이식)", locale = "ko", original = true },
+  { name = "My Love (Feat. Basick)", locale = "ko-Latn", default = true },
+]
+
+artist_credits = [
+  { artist_id = "sistar/hyo-rin" },
+]

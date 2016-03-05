@@ -1,0 +1,7 @@
+names = [
+  { name = "Bandz Up (Prod. by Dok2 / Feat. Dok2)", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [
+  { artist_id = "truedy" },
+]

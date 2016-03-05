@@ -1,0 +1,9 @@
+names = [
+  { name = "음악이 아니었다면 (Prod. by 버벌진트 / Feat. 치타)", locale = "ko", original = true },
+  { name = "Eumagi Anieossdamyeon (Prod. by Verbal Jint / Feat. Cheetah)", locale = "ko-Latn", default = true },
+  { name = "If It Weren't for Music (Prod. by Verbal Jint / Feat. Cheetah)", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "truedy" },
+]

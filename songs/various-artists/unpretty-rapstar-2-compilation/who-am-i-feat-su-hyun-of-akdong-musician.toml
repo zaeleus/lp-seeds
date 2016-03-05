@@ -1,0 +1,8 @@
+names = [
+  { name = "WHO AM I (Feat. 수현 of 악동뮤지션)", locale = "ko", original = true },
+  { name = "WHO AM I (Feat. Su Hyun of Akdong Musician)", locale = "ko-Latn", default = true },
+]
+
+artist_credits = [
+  { artist_id = "sua" },
+]

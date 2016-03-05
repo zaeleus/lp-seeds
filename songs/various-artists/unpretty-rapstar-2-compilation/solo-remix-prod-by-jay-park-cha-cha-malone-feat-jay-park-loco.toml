@@ -1,0 +1,8 @@
+names = [
+  { name = "Solo (Remix) (Prod. by 박재범, Cha Cha Malone / Feat. 박재범, 로꼬)", locale = "ko", original = true },
+  { name = "Solo (Remix) (Prod. by Jay Park, Cha Cha Malone / Feat. Jay Park, Loco)", locale = "ko-Latn", default = true },
+]
+
+artist_credits = [
+  { artist_id = "fiestar/yezi" },
+]

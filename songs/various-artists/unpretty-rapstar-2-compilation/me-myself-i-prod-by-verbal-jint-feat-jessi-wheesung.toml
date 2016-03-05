@@ -1,0 +1,8 @@
+names = [
+  { name = "Me, Myself & I (Prod. by 버벌진트 / Feat. 제시, 휘성)", locale = "ko", original = true },
+  { name = "Me, Myself & I (Prod. by Verbal Jint / Feat. Jessi, Wheesung)", locale = "ko-Latn", default = true },
+]
+
+artist_credits = [
+  { artist_id = "heize" },
+]
