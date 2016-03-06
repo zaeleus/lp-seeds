@@ -1,0 +1,5 @@
+names = [
+  { name = "첫눈처럼 (First Snow)", locale = "ko", original = true },
+  { name = "Cheotnuncheoreom (First Snow)", locale = "ko-Latn", default = true  },
+  { name = "First Snow", locale = "en" },
+]

@@ -1,0 +1,34 @@
+medium_ids = [
+  "girls-generation-tts/dear-santa/default/cd1",
+  "girls-generation-tts/dear-santa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "girls-generation-tts/dear-santa"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song_id = "girls-generation-tts/i-like-the-way"
+duration = "3:11"
+
+[[tracks]]
+position = 3
+song_id = "girls-generation-tts/gyeoureul-dalmeun-neo-winter-story"
+duration = "3:22"
+
+[[tracks]]
+position = 4
+song_id = "girls-generation-tts/merry-christmas"
+duration = "3:43"
+
+[[tracks]]
+position = 5
+song_id = "girls-generation-tts/cheotnuncheoreom-first-snow"
+duration = "3:13"
+
+[[tracks]]
+position = 6
+song_id = "girls-generation-tts/dear-santa-english-ver"
+duration = "3:58"
