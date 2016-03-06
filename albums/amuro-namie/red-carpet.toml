@@ -13,6 +13,7 @@ disambiguation = "CD+DVD"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
   { url = "http://www.oricon.co.jp/prof/191925/products/1157021/1/" },
+  { url = "http://namieamuro.jp/discography/single41.html" },
 ]
 
 [[releases]]
@@ -23,4 +24,5 @@ disambiguation = "CD Only"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://www.oricon.co.jp/prof/191925/products/1157022/1/" },
+  { url = "http://namieamuro.jp/discography/single41.html" },
 ]

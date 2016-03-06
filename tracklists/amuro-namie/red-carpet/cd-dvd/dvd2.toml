@@ -1,0 +1,15 @@
+medium_ids = [
+  "amuro-namie/red-carpet/cd-dvd/dvd2",
+]
+
+[[tracks]]
+position = 1
+names = [
+  { name = "Red Carpet Music Video", locale = "ja", original = true, default = true },
+]
+
+[[tracks]]
+position = 2
+names = [
+  { name = "Red Carpet Making Movie", locale = "ja", original = true, default = true },
+]
