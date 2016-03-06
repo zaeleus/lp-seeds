@@ -13,3 +13,15 @@ media = [{ kind = "cd" }]
 url = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=007700085" },
 ]
+
+[[releases]]
+released_on = "2015-03-25"
+country = "KR"
+media = [{ kind = "digital" }]
+url = [
+  { url = "https://itunes.apple.com/album/sugar-sugar-ep/id980156063" },
+  { url = "https://itunes.apple.com/album/sugar-sugar-ep/id981053955" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2310447" },
+  { url = "http://www.mnet.com/album/413741" },
+  { url = "https://open.spotify.com/album/3SRTwiQEcGkNezFPmhE0mz" },
+]

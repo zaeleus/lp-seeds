@@ -1,0 +1,5 @@
+names = [
+  { name = "장난햅 (Inst.)", locale = "ko", original = true },
+  { name = "Jangnanhaep (Inst.)", locale = "ko-Latn", default = true },
+  { name = "R U Kiddin' Me (Inst.)", locale = "en" },
+]

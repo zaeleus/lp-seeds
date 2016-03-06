@@ -1,0 +1,8 @@
+names = [
+  { name = "Sugar Sugar", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=clI2LDe9G2w", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=LUqazzQOBbo", name = "Music Video" },
+]
