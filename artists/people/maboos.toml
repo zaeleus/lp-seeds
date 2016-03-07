@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1981-10-29"
+country = "KR"
+
+names = [
+  { name = "마부스", locale = "ko", kind = "real", original = true },
+  { name = "Maboos", locale = "ko-Latn", kind = "real", default = true },
+]

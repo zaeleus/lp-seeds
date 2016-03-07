@@ -8,3 +8,14 @@ urls = [
   { url = "https://www.youtube.com/watch?v=TsD79puVGRI", name = "Music Video" },
   { url = "https://www.youtube.com/watch?v=ZK_htN-w2iI", name = "Choreography Video" },
 ]
+
+countibutions = [
+  { artist_id = "brave-brothers", kind = "lyricist" },
+  { artist_id = "maboos", kind = "lyricist" },
+
+  { artist_id = "brave-brothers", kind = "composition" },
+  { artist_id = "maboos", kind = "composition" },
+  { artist_id = "js", kind = "composition" },
+
+  { artist_id = "js", kind = "arranger" },
+]
