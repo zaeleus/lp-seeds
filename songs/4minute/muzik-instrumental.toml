@@ -1,6 +1,7 @@
 names = [
-  { name = "HOT ISSUE (Instrumental)", locale = "ja", original = true, default = true },
+  { name = "Muzik (Instrumental)", locale = "ja", original = true, default = true },
 ]
+
 artist_credits = [{
   artist_id = "4minute",
   names = [
