@@ -1,0 +1,6 @@
+names = [
+  { name = "잠은 안오고 배는 고프고 (Inst.)", locale = "ko", original = true },
+  { name = "Jameun Anogo Baeneun Gopeugo (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Sleepless Night (Inst.)", locale = "en" },
+]
+

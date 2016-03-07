@@ -1,0 +1,10 @@
+names = [
+  { name = "잠은 안오고 배는 고프고", locale = "ko", original = true },
+  { name = "Jameun Anogo Baeneun Gopeugo", locale = "ko-Latn", default = true },
+  { name = "Sleepless Night", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=eycIuUZyJPY", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=LMdZIZ6YbSE", name = "Dance Performance Video" },
+]
