@@ -1,0 +1,8 @@
+medium_ids = [
+  "produce-101/pick-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "produce-101/pick-me"
+duration = "3:46"

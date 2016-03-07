@@ -1,0 +1,14 @@
+kind = "group"
+started_on = "2015"
+country = "KR"
+
+names = [
+  { name = "PRODUCE 101", locale = "ko", original = true, default = true },
+]
+
+# TODO members
+members = []
+
+urls = [
+  { url = "http://mnettv.interest.me/produce101/main.dbp" },
+]

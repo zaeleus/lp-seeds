@@ -1,0 +1,16 @@
+artist_id = "produce-101"
+kind = "single"
+
+names = [
+  { name = "PICK ME", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-12-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/album/pick-me-single/id1069276979" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2657476" },
+  { url = "http://www.mnet.com/album/517582" },
+]

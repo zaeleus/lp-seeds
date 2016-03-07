@@ -1,0 +1,14 @@
+names = [
+  { name = "PICK ME", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=BiorIyrjTHc", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "midas-t", kind = "lyricist" },
+  { artist_id = "midas-t", kind = "composer" },
+  { artist_id = "dj-koo", kind = "arranger" },
+  { artist_id = "maximite", kind = "arranger" },
+]
