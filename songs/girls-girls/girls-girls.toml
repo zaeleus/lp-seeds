@@ -1,0 +1,8 @@
+names = [
+  { name = "여자여자 (GIRLS GIRLS)", locale = "ko", original = true },
+  { name = "GIRLS GIRLS", locale = "en", default = true  },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=PP2yxWFjqRU", name = "Dance Practice" },
+]

@@ -1,0 +1,15 @@
+kind = "group"
+started_on = "2015"
+country = "KR"
+
+names = [
+  { name = "여자여자", locale = "ko", original = true },
+  { name = "GIRLS GIRLS", locale = "ko-Latn", default = true },
+]
+
+# TODO members
+members = []
+
+urls = [
+  { url = "https://www.youtube.com/channel/UCx89yX7v37cQ7fchXjqt_mQ" },
+]

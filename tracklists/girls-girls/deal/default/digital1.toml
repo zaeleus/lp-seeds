@@ -1,0 +1,14 @@
+medium_ids = [
+  "girls-girls/deal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "girls-girls/deal"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song_id = "girls-girls/girls-girls"
+duration = "3:19"
+
