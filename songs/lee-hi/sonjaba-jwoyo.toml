@@ -1,0 +1,10 @@
+names = [
+  { name = "한숨", locale = "ko", original = true },
+  { name = "Hansum", locale = "ko-Latn", default = true },
+  { name = "Breathe", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=183A9Nisi4I", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=cuUEnho33so", name = "Music Video" },
+]

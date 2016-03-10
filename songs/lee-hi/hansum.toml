@@ -1,0 +1,10 @@
+names = [
+  { name = "손잡아 줘요", locale = "ko", original = true },
+  { name = "Sonjaba Jwoyo", locale = "ko-Latn", default = true },
+  { name = "Hold My Hand", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=v_KY3ZOMPSw", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=5iSlfF8TQ9k", name = "Music Video" },
+]

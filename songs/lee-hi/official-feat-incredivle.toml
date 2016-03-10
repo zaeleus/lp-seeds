@@ -1,0 +1,3 @@
+names = [
+  { name = "OFFICIAL (Feat. Incredivle)", locale = "ko", original = true, default = true },
+]
