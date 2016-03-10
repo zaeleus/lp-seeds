@@ -1,7 +1,7 @@
 names = [
-  { name = "손잡아 줘요", locale = "ko", original = true },
-  { name = "Sonjaba Jwoyo", locale = "ko-Latn", default = true },
-  { name = "Hold My Hand", locale = "en" },
+  { name = "한숨", locale = "ko", original = true },
+  { name = "Hansum", locale = "ko-Latn", default = true },
+  { name = "Breathe", locale = "en" },
 ]
 
 urls = [
