@@ -5,6 +5,10 @@ names = [
   { name = "REFRESH", locale = "ko", original = true, default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=YC4RcgJAHCo", name = "Audio Teaser" },
+]
+
 [[releases]]
 released_on = "2016-02-29"
 country = "KR"
