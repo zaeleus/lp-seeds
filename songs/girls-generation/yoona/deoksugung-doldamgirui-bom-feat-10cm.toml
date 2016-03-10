@@ -1,0 +1,5 @@
+names = [
+  { name = "덕수궁 돌담길의 봄 (Feat. 10cm)", locale = "ko", original = true },
+  { name = "Deoksugung Doldamgirui Bom (Feat. 10cm)", locale = "ko-Latn", default = true  },
+  { name = "Deoksugung Stonewall Walkway (Feat. 10cm)", locale = "en" },
+]
