@@ -5,6 +5,8 @@ names = [
 ]
 
 urls = [
+  { url = "https://www.youtube.com/watch?v=Dk7sN2DljDU", name = "Teaser (Original Ver.)" },
+  { url = "https://www.youtube.com/watch?v=2ECWXybzBF8", name = "Teaser (Lee Kwang Soo Ver.)" },
   { url = "https://www.youtube.com/watch?v=RRJqH0Plqg8", name = "Music Video" },
   { url = "https://www.youtube.com/watch?v=27zLeOzp0Uk", name = "Dance Practice" },
 ]
