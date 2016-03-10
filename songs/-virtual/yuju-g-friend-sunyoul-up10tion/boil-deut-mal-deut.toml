@@ -1,0 +1,25 @@
+names = [
+  { name = "보일 듯 말 듯", locale = "ko", original = true },
+  { name = "Boil Deut Mal Deut", locale = "ko-Latn", default = true },
+  { name = "Cherish", locale = "en" },
+]
+
+artist_credits = [{
+  artist_id = "g-friend/yuju",
+  names = [
+    { name = "유주 (여자친구)", locale = "ko", original = true },
+    { name = "Yuju (G-Friend)", locale = "ko-Latn", default = true },
+  ],
+  separator = " + ",
+}, {
+  artist_id = "up10tion/sunyoul",
+  names = [
+    { name = "선율 (업텐션)", locale = "ko", original = true },
+    { name = "Sunyoul (UP10TION)", locale = "ko-Latn", default = true },
+  ],
+}]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=GHKH2yhlQ-E", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=Sh1KgVqwWVE", name = "Music Video" },
+]

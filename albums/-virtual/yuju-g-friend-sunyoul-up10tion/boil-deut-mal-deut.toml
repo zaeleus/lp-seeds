@@ -1,0 +1,32 @@
+artist_id = "-virtual/yuju-g-friend-sunyoul-up10tion"
+kind = "single"
+
+names = [
+  { name = "보일 듯 말 듯", locale = "ko", original = true },
+  { name = "Boil Deut Mal Deut", locale = "ko-Latn", default = true },
+  { name = "Cherish", locale = "en" },
+]
+
+artist_credits = [{
+  artist_id = "g-friend/yuju",
+  names = [
+    { name = "유주 (여자친구)", locale = "ko", original = true },
+    { name = "Yuju (G-Friend)", locale = "ko-Latn", default = true },
+  ],
+  separator = " + ",
+}, {
+  artist_id = "up10tion/sunyoul",
+  names = [
+    { name = "선율 (업텐션)", locale = "ko", original = true },
+    { name = "Sunyoul (UP10TION)", locale = "ko-Latn", default = true },
+  ],
+}]
+
+[[releases]]
+released_on = "2016-03-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2672489" },
+  { url = "http://www.mnet.com/album/535120" },
+]
