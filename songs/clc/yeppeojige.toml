@@ -1,5 +1,10 @@
 names = [
   { name = "예뻐지게", locale = "ko", original = true },
   { name = "Yeppeojige", locale = "ko-Latn", default = true },
-  { name = "Be Pretty", locale = "en" },
+  { name = "High Heels", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=xA-HzhUAKxY", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=R6WaWv1cxJE", name = "Music Video (Short Ver.)" },
 ]
