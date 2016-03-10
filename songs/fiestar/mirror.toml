@@ -1,0 +1,8 @@
+names = [
+  { name = "Mirror", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ehzDSZp3Mro", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=xKMT44GBaUI", name = "Music Video" },
+]

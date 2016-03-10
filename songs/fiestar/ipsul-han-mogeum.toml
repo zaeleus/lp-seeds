@@ -1,0 +1,5 @@
+names = [
+  { name = "입술 한 모금", locale = "ko", original = true },
+  { name = "Ipsul Han Mogeum", locale = "ko-Latn", default = true },
+  { name = "A Sip of Lips", locale = "en" },
+]

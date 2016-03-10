@@ -1,0 +1,25 @@
+artist_id = "fiestar"
+kind = "ep"
+
+names = [
+  { name = "A Delicate Sense", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-03-09"
+country = "KR"
+catalog_number = "L100005189"
+media = [{ kind = "cd" }]
+url = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001209396" },
+]
+
+[[releases]]
+released_on = "2016-03-09"
+country = "KR"
+media = [{ kind = "digital" }]
+url = [
+  { url = "https://itunes.apple.com/us/album/a-delicate-sense-ep/id1091444415" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2671006" },
+  { url = "http://www.mnet.com/album/534522" },
+]
