@@ -7,6 +7,7 @@ names = [
 urls = [
   { url = "https://www.youtube.com/watch?v=TsD79puVGRI", name = "Music Video" },
   { url = "https://www.youtube.com/watch?v=ZK_htN-w2iI", name = "Choreography Video" },
+  { url = "https://www.youtube.com/watch?v=geCuvmxY2ms", name = "Choreography Video (Plain Clothes Ver.)" },
 ]
 
 countibutions = [
