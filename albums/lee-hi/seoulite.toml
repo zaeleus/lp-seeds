@@ -9,8 +9,9 @@ names = [
 released_on = "2016-03-09"
 country = "KR"
 media = [{ kind = "digital" }]
-url = [
+urls = [
   { url = "https://itunes.apple.com/album/seoulite-ep/id1091271238" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2671866" },
   { url = "http://www.mnet.com/album/534414" },
+  { url = "https://open.spotify.com/album/6rFLPutPduVsUMY43jIaJk" },
 ]
