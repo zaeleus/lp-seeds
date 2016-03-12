@@ -10,7 +10,7 @@ released_on = "2015-03-25"
 country = "KR"
 catalog_number = "CMDC-10529"
 media = [{ kind = "cd" }]
-url = [
+urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=007700085" },
 ]
 
@@ -18,7 +18,7 @@ url = [
 released_on = "2015-03-25"
 country = "KR"
 media = [{ kind = "digital" }]
-url = [
+urls = [
   { url = "https://itunes.apple.com/album/sugar-sugar-ep/id980156063" },
   { url = "https://itunes.apple.com/album/sugar-sugar-ep/id981053955" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2310447" },

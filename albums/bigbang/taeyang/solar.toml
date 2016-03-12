@@ -11,7 +11,7 @@ country = "KR"
 catalog_number = "CMBC-9549"
 media = [{ kind = "cd" }]
 disambiguation = "Deluxe Edition"
-url = [
+urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=048100005" },
 ]
 
@@ -21,7 +21,7 @@ country = "KR"
 catalog_number = "CMBC-9555"
 media = [{ kind = "cd" }]
 disambiguation = "Standard Edition"
-url = [
+urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=048100006" },
 ]
 
@@ -31,6 +31,6 @@ country = "KR"
 catalog_number = "CMBC-9567"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "International Edition"
-url = [
+urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=034201464" },
 ]

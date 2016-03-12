@@ -15,7 +15,7 @@ urls = [
 released_on = "2016-03-03"
 country = "KR"
 media = [{ kind = "digital" }]
-url = [
+urls = [
   { url = "http://www.melon.com/song/detail.htm?songId=8075429" },
   { url = "http://www.mnet.com/track/5223460" },
 ]

@@ -13,7 +13,7 @@ country = "JP"
 catalog_number = "UICV-9069"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Type A"
-url = [
+urls = [
   { url = "http://www.oricon.co.jp/prof/artist/624071/products/music/1093393/1/" },
 ]
 
@@ -23,6 +23,6 @@ country = "JP"
 catalog_number = "UICV-9070"
 media = [{ kind = "cd" }]
 disambiguation = "Type B"
-url = [
+urls = [
   { url = "http://www.oricon.co.jp/prof/624071/products/1093397/1/" },
 ]

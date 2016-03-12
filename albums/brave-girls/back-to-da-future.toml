@@ -10,7 +10,7 @@ released_on = "2011-07-29"
 country = "KR"
 catalog_number = "L200000861"
 media = [{ kind = "cd" }]
-url = [
+urls = [
   { url = "http://hanteo.com/search/nAlbum_info2.asp?mcode=001207351" },
 ]
 
@@ -18,7 +18,7 @@ url = [
 released_on = "2011-07-29"
 country = "KR"
 media = [{ kind = "digital" }]
-url = [
+urls = [
   { url = "http://www.melon.com/album/detail.htm?albumId=1354900" },
   { url = "http://www.mnet.com/album/227401" },
 ]

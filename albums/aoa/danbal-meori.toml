@@ -12,6 +12,6 @@ released_on = "2014-06-19"
 country = "KR"
 catalog_number = "CMCC-10317"
 media = [{ kind = "cd" }]
-url = [
+urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=034202541" },
 ]

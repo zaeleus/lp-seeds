@@ -9,6 +9,6 @@ names = [
 released_on = "2015-08-26"
 country = "KR"
 media = [{ kind = "digital" }]
-url = [
+urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=034203030" },
 ]

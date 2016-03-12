@@ -11,7 +11,7 @@ country = "JP"
 catalog_number = "VBZJ-1"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition A"
-url = [
+urls = [
   { url = "http://www.oricon.co.jp/prof/536666/products/1142948/1/" },
 ]
 
@@ -21,7 +21,7 @@ country = "JP"
 catalog_number = "VBZJ-2"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition B"
-url = [
+urls = [
   { url = "http://www.oricon.co.jp/prof/536666/products/1142949/1/" },
 ]
 
@@ -31,7 +31,7 @@ country = "JP"
 catalog_number = "VBZJ-3"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition C"
-url = [
+urls = [
   { url = "http://www.oricon.co.jp/prof/536666/products/1142963/1/" },
 ]
 
@@ -41,6 +41,6 @@ country = "JP"
 catalog_number = "VBCJ-30001"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
-url = [
+urls = [
   { url = "http://www.oricon.co.jp/prof/536666/products/1142964/1/" },
 ]

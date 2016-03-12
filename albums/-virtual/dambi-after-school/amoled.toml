@@ -22,7 +22,7 @@ artist_credits = [{
 released_on = "2009-07-23"
 country = "KR"
 media = [{ kind = "digital" }]
-url = [
+urls = [
   { url = "http://www.melon.com/album/detail.htm?albumId=614451" },
   { url = "http://www.mnet.com/album/181128" },
 ]
@@ -31,6 +31,6 @@ url = [
 released_on = "2009-07-23"
 country = "KR"
 media = [{ kind = "cd" }]
-url = [
+urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=809703751" },
 ]

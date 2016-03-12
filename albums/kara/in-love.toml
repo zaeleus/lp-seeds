@@ -10,6 +10,6 @@ released_on = "2015-05-27"
 country = "KR"
 catalog_number = "L100005044"
 media = [{ kind = "cd" }]
-url = [
+urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001208952" },
 ]

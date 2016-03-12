@@ -18,9 +18,9 @@ country = "JP"
 catalog_number = "UMCF-9529"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition A"
-url = [
-  { url = "", kind = "oricon" },
-  { url = "", kind = "official" },
+urls = [
+  { url = "http://www.oricon.co.jp/prof/493547/products/864027/1/", kind = "oricon" },
+  { url = "http://www.universal-music.co.jp/4minute/products/umcf-9529/", kind = "official" },
 ]
 
 [[releases]]
@@ -29,9 +29,9 @@ country = "JP"
 catalog_number = "UMCF-9530"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition B"
-url = [
-  { url = "", kind = "oricon" },
-  { url = "", kind = "official" },
+urls = [
+  { url = "http://www.oricon.co.jp/prof/493547/products/864028/1/", kind = "oricon" },
+  { url = "http://www.universal-music.co.jp/4minute/products/umcf-9530/", kind = "official" },
 ]
 
 [[releases]]
@@ -40,9 +40,9 @@ country = "JP"
 catalog_number = "UMCF-9531"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition C"
-url = [
-  { url = "", kind = "oricon" },
-  { url = "", kind = "official" },
+urls = [
+  { url = "http://www.oricon.co.jp/prof/493547/products/864029/1/", kind = "oricon" },
+  { url = "http://www.universal-music.co.jp/4minute/products/umcf-9531/", kind = "official" },
 ]
 
 [[releases]]
@@ -51,7 +51,7 @@ country = "JP"
 catalog_number = "UMCF-5055"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
-url = [
-  { url = "", kind = "oricon" },
-  { url = "", kind = "official" },
+urls = [
+  { url = "http://www.oricon.co.jp/prof/493547/products/864030/1/", kind = "oricon" },
+  { url = "http://www.universal-music.co.jp/4minute/products/umcf-5055/", kind = "official" },
 ]

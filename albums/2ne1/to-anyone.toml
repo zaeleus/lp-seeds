@@ -10,6 +10,6 @@ released_on = "2010-09-09"
 country = "KR"
 catalog_number = "CMBC-9601"
 media = [{ kind = "cd" }]
-url = [
+urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=034201471" },
 ]
