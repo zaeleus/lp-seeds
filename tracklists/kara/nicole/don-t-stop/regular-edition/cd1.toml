@@ -1,0 +1,23 @@
+medium_ids = [
+  "kara/nicole/don-t-stop/regular-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "kara/nicole/don-t-stop"
+
+[[tracks]]
+position = 2
+song_id = "kara/nicole/best-man"
+
+[[tracks]]
+position = 3
+song_id = "kara/nicole/don-t-stop-instrumental"
+
+[[tracks]]
+position = 4
+song_id = "kara/nicole/best-man-instrumental"
+
+[[tracks]]
+position = 5
+song_id = "kara/nicole/recall"

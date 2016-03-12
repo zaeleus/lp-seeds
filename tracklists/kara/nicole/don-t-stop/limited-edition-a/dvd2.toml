@@ -1,0 +1,16 @@
+medium_ids = [
+  "kara/nicole/don-t-stop/limited-edition-a/dvd2",
+]
+
+[[tracks]]
+position = 1
+names = [
+  { name = "DON'T STOP Music Video (Dance Ver.)", locale = "ja", original = true, default = true },
+]
+
+[[tracks]]
+position = 2
+names = [
+  { name = "目指せ大人女子!「ハマル・ニコル」♯2", locale = "ja", original = true },
+  { name = 'Aiming to Be an Adult Woman! "Hamaru Nicole" #2', locale = "en", default = true }
+]

@@ -1,0 +1,15 @@
+medium_ids = [
+  "kara/nicole/don-t-stop/limited-edition-b/dvd2",
+]
+
+[[tracks]]
+position = 1
+names = [
+  { name = "DON'T STOP Music Video", locale = "ja", original = true, default = true }
+]
+
+[[tracks]]
+position = 2
+names = [
+  { name = "DON'T STOP Making Film", locale = "ja", original = true, default = true }
+]
