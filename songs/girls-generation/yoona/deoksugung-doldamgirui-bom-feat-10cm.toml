@@ -3,3 +3,7 @@ names = [
   { name = "Deoksugung Doldamgirui Bom (Feat. 10cm)", locale = "ko-Latn", default = true  },
   { name = "Deoksugung Stonewall Walkway (Feat. 10cm)", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=yuCbJykB32M", name = "Music Video" },
+]
