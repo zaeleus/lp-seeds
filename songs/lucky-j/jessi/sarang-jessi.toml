@@ -1,0 +1,10 @@
+names = [
+  { name = "살찐 사랑", locale = "ko", original = true },
+  { name = "Saljjin Sarang", locale = "ko-Latn", default = true },
+  { name = "Excessive Love", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=DoPHECc7EzE", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=VfLjhUauBaE", name = "Music Video" },
+]
