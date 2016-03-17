@@ -1,0 +1,9 @@
+names = [
+  { name = "샤르르 (For Darling)", locale = "ko", original = true },
+  { name = "Syaleuleu (For Darling)", locale = "ko-Latn", default = true },
+  { name = "Melting (For Darling)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=JFRtFdmIv_Q", name = "Music Video" },
+]
