@@ -1,0 +1,39 @@
+medium_ids = [
+  "t-ara/hyo-min/sketch/default/cd1",
+  "t-ara/hyo-min/sketch/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "t-ara/hyo-min/gold"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song_id = "t-ara/hyo-min/road-trip"
+duration = "3:44"
+
+[[tracks]]
+position = 3
+song_id = "t-ara/hyo-min/sketch"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song_id = "t-ara/hyo-min/ajigeun"
+duration = "3:31"
+
+[[tracks]]
+position = 5
+song_id = "t-ara/hyo-min/uriui-iyagireul-uriman-moreuneun-chae"
+duration = "3:32"
+
+[[tracks]]
+position = 6
+song_id = "t-ara/hyo-min/sketch-chinese-ver"
+duration = "3:20"
+
+[[tracks]]
+position = 7
+song_id = "t-ara/hyo-min/sketch-chorus-ver"
+duration = "3:20"

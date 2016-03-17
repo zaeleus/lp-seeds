@@ -1,0 +1,25 @@
+artist_id = "t-ara/hyo-min"
+kind = "ep"
+
+names = [
+  { name = "Sketch", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-03-17"
+country = "KR"
+catalog_number = "INT-0051"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=055400068" },
+]
+
+[[releases]]
+released_on = "2016-03-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/sketch/id1094133438" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2673607" },
+  { url = "http://www.mnet.com/album/536149" },
+]
