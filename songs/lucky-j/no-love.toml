@@ -3,8 +3,9 @@ names = [
 ]
 
 urls = [
-  { url = "https://www.youtube.com/watch?v=LHwRNuNPvDc", name = "Music Video" },
   { url = "https://www.youtube.com/watch?v=y6KZkVhoSC8", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=LHwRNuNPvDc", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=45HDJvUxn9M", name = "MV Making" },
 ]
 
 contributions = [
