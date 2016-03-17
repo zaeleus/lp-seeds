@@ -1,0 +1,4 @@
+names = [
+  { name = "7월 7일 (One Of These Nights) (De-Capo Ver.)", locale = "ko", original = true },
+  { name = "7wol 7il (One Of These Nights) (De-Capo Ver.)", locale = "ko-Latn", default = true },
+]

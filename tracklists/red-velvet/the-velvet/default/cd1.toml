@@ -1,0 +1,44 @@
+medium_ids = [
+  "red-velvet/the-velvet/default/cd1",
+  "red-velvet/the-velvet/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "red-velvet/7wol-7il-one-of-these-nights"
+duration = "4:21"
+
+[[tracks]]
+position = 2
+song_id = "red-velvet/cool-hot-sweet-love"
+duration = "3:53"
+
+[[tracks]]
+position = 3
+song_id = "red-velvet/light-me-up"
+duration = "3:33"
+
+[[tracks]]
+position = 4
+song_id = "red-velvet/cheoeumingayo-first-time"
+duration = "4:02"
+
+[[tracks]]
+position = 5
+song_id = "red-velvet/jangmikkoc-hyanggineun-barame-nalligo-rose-scent-breeze"
+duration = "4:52"
+
+[[tracks]]
+position = 6
+song_id = "red-velvet/7wol-7il-one-of-these-nights-de-capo-ver"
+duration = "4:11"
+
+[[tracks]]
+position = 7
+song_id = "red-velvet/7wol-7il-one-of-these-nights-joe-millionaire-ver"
+duration = "4:07"
+
+[[tracks]]
+position = 8
+song_id = "red-velvet/7wol-7il-one-of-these-nights-piano-ver"
+duration = "4:05"
