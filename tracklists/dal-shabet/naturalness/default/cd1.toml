@@ -1,5 +1,6 @@
 medium_ids = [
   "dal-shabet/naturalness/default/cd1",
+  "dal-shabet/naturalness/default/digital1",
 ]
 
 [[tracks]]
