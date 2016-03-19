@@ -1,0 +1,12 @@
+names = [
+  { name = "Don't Matter", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [
+  { artist_id = "hualyeogangsan" }
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=8WJLo7PaAjc", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=HXo86DFIg8o", name = "Audio" },
+]

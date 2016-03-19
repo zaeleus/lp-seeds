@@ -1,0 +1,13 @@
+names = [
+  { name = "Yum-Yum (얌얌)", locale = "ko", original = true },
+  { name = "Yum-Yum", locale = "en", default = true },
+]
+
+artist_credits = [
+  { artist_id = "macaroon-honey-dduk" }
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=qex5g3lcl_w", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=FfuTPC_ufZo", name = "Audio" },
+]

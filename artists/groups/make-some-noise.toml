@@ -1,0 +1,10 @@
+kind = "group"
+started_on = "2016"
+country = "KR"
+
+names = [
+  { name = "Make Some Noise", locale = "ko", original = true, default = true },
+]
+
+# TODO add members
+members = []

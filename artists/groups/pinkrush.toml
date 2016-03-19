@@ -1,0 +1,10 @@
+kind = "group"
+started_on = "2016"
+country = "KR"
+
+names = [
+  { name = "Pinkrush", locale = "ko", original = true, default = true },
+]
+
+# TODO add members
+members = []

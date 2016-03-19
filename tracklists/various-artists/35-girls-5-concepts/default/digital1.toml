@@ -1,0 +1,28 @@
+medium_ids = [
+  "various-artists/35-girls-5-concepts/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "various-artists/35-girls-5-concepts/24-sigan"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song_id = "various-artists/35-girls-5-concepts/fingertips"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song_id = "various-artists/35-girls-5-concepts/don-t-matter"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song_id = "various-artists/35-girls-5-concepts/yum-yum"
+duration = "3:13"
+
+[[tracks]]
+position = 5
+song_id = "various-artists/35-girls-5-concepts/gateun-goseseo"
+duration = "3:05"

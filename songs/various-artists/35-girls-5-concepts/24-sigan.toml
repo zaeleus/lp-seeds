@@ -1,0 +1,14 @@
+names = [
+  { name = "24시간", locale = "ko", original = true },
+  { name = "24 Sigan", locale = "ko-Latn", default = true },
+  { name = "24 Hours", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "make-some-noise" }
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=6ce3NOfBQHg", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=F0HBytEFsUs", name = "Audio" },
+]

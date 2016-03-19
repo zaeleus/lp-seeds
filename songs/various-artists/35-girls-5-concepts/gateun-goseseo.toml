@@ -1,0 +1,14 @@
+names = [
+  { name = "같은 곳에서", locale = "ko", original = true },
+  { name = "Gateun Goseseo", locale = "ko-Latn", default = true },
+  { name = "In the Same Space", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "girls-on-top" }
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=_1NbzOE4HTQ", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=QL5KqjOZo6M", name = "Audio" },
+]

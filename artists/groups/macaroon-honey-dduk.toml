@@ -1,0 +1,11 @@
+kind = "group"
+started_on = "2016"
+country = "KR"
+
+names = [
+  { name = "마카롱 꿀떡", locale = "ko", original = true },
+  { name = "Macaroon Honey Dduk", locale = "ko-Latn", default = true },
+]
+
+# TODO add members
+members = []
