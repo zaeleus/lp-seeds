@@ -1,0 +1,11 @@
+names = [
+  { name = "さよなら私の少女", locale = "ja", original = true },
+  { name = "Sayonara Watashi no Shoujo", locale = "ja-Latn", default = true },
+]
+
+artist_credits = [{
+  artist_id = "kara/ji-young",
+  names = [
+    { name = "JY", locale = "ja", original = true, default = true },
+  ],
+}]

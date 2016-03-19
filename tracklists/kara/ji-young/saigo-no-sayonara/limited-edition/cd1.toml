@@ -1,0 +1,20 @@
+medium_ids = [
+  "kara/ji-young/saigo-no-sayonara/limited-edition/cd1",
+  "kara/ji-young/saigo-no-sayonara/regular-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "kara/ji-young/saigo-no-sayonara"
+
+[[tracks]]
+position = 2
+song_id = "kara/ji-young/sayonara-watashi-no-shoujo"
+
+[[tracks]]
+position = 3
+song_id = "kara/ji-young/olivia-wo-kikinagara"
+
+[[tracks]]
+position = 4
+song_id = "kara/ji-young/saigo-no-sayonara-instrumental"

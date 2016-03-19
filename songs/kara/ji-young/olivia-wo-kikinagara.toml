@@ -1,0 +1,11 @@
+names = [
+  { name = "オリビアを聴きながら", locale = "ja", original = true },
+  { name = "Olivia wo Kikinagara", locale = "ja-Latn", default = true },
+]
+
+artist_credits = [{
+  artist_id = "kara/ji-young",
+  names = [
+    { name = "JY", locale = "ja", original = true, default = true },
+  ],
+}]
