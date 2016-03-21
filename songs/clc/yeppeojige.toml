@@ -8,4 +8,5 @@ urls = [
   { url = "https://www.youtube.com/watch?v=xA-HzhUAKxY", name = "Teaser" },
   { url = "https://www.youtube.com/watch?v=R6WaWv1cxJE", name = "Music Video (Short Ver.)" },
   { url = "https://www.youtube.com/watch?v=ey0e2-FBGxQ", name = "Choreography Practice Video" },
+  { url = "https://www.youtube.com/watch?v=0yAN3zJQPUg", name = "Music Video" },
 ]
