@@ -1,0 +1,9 @@
+names = [
+  { name = "Doin' Good (Feat 버벌진트)", locale = "ko", original = true },
+  { name = "Doin' Good (Feat. Verbal Jint)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=QCyQXkkf0Uw", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=ZKhMAJIBcrc", name = "Music Video" },
+]
