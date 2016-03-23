@@ -1,0 +1,28 @@
+artist_id = "eric-nam"
+kind = "ep"
+
+names = [
+  { name = "INTERVIEW", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=OSoaS9yS_pI", name = "Album Sampler" },
+]
+
+[[releases]]
+released_on = "2016-03-24"
+country = "KR"
+catalog_number = "CMAC-10766"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=034203322" },
+]
+
+[[releases]]
+released_on = "2016-03-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2674975" },
+  { url = "http://www.mnet.com/album/536611" },
+]
