@@ -1,0 +1,13 @@
+medium_ids = [
+  "f-x/amber/borders/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "f-x/amber/borders"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song_id = "f-x/amber/borders-inst"
+duration = "3:52"

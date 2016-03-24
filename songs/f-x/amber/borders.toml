@@ -1,0 +1,9 @@
+names = [
+  { name = "Borders", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=LEvjsbZ8RIc", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=bNT-zFJKifI", name = "Music Video" },
+]
+
