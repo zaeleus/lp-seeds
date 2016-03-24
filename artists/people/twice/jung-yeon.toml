@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1996-11-01"
+country = "KR"
+
+names = [
+  { name = "정연", locale = "ko", kind = "stage", original = true },
+  { name = "Jung Yeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "유정연", locale = "ko", kind = "real" },
+  { name = "Yoo Jung Yeon", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "jyp-entertainment" }]
+
+[metadata]
+blood_type = "O"
+weight = 50
+height = 169

@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1995-09-21"
+country = "KR"
+
+names = [
+  { name = "나연", locale = "ko", kind = "stage", original = true },
+  { name = "Na Yeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "임나연", locale = "ko", kind = "real" },
+  { name = "Im Na Yeon", locale = "ko-Latn", kind = "real" },
+]
+
+labels = [{ id = "jyp-entertainment" }]
+
+[metadata]
+blood_type = "A"
+weight = 47
+height = 163

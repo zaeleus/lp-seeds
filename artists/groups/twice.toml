@@ -1,0 +1,29 @@
+kind = "group"
+started_on = "2015-10-20"
+country = "KR"
+
+names = [
+  { name = "트와이스", locale = "ko", original = true },
+  { name = "TWICE", locale = "ko-Latn", default = true },
+]
+
+labels = [{ id = "jyp-entertainment" }]
+
+members = [
+  { id = "twice/chae-young" },
+  { id = "twice/da-hyun" },
+  { id = "twice/ji-hyo" },
+  { id = "twice/jung-yeon" },
+  { id = "twice/mina" },
+  { id = "twice/momo" },
+  { id = "twice/na-yeon" },
+  { id = "twice/sana" },
+  { id = "twice/tzuyu" },
+]
+
+urls = [
+  { url = "http://twice.jype.com/" },
+  { url = "https://www.facebook.com/JYPETWICE" },
+  { url = "https://www.instagram.com/twicetagram/" },
+  { url = "https://twitter.com/JYPETWICE/" },
+]

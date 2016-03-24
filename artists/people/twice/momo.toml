@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1996-11-09"
+country = "KR"
+
+names = [
+  { name = "모모", locale = "ko", kind = "stage", original = true },
+  { name = "Momo", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "平井もも", locale = "ja", kind = "real" },
+  { name = "Hirai Momo", locale = "ja-Latn", kind = "real" },
+]
+
+labels = [{ id = "jyp-entertainment" }]
+
+[metadata]
+blood_type = "A"
+weight = 48
+height = 170

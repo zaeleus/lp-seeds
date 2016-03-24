@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1996-12-29"
+country = "KR"
+
+names = [
+  { name = "사나", locale = "ko", kind = "stage", original = true },
+  { name = "Sana", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "湊崎紗夏", locale = "ja", kind = "real" },
+  { name = "Minatozaki Sana", locale = "ja-Latn", kind = "real" },
+]
+
+labels = [{ id = "jyp-entertainment" }]
+
+[metadata]
+blood_type = "B"
+weight = 48
+height = 168

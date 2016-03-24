@@ -1,0 +1,17 @@
+kind = "person"
+started_on = "1997-03-24"
+country = "KR"
+
+names = [
+  { name = "미나", locale = "ko", kind = "stage", original = true },
+  { name = "Mina", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "名井南", locale = "ja", kind = "real" },
+  { name = "Myoui Mina", locale = "ja-Latn", kind = "real" },
+]
+
+labels = [{ id = "jyp-entertainment" }]
+
+[metadata]
+blood_type = "A"
+weight = 46
+height = 163
