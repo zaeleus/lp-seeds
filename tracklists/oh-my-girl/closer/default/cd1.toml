@@ -1,0 +1,29 @@
+medium_ids = [
+  "oh-my-girl/closer/default/cd1",
+  "oh-my-girl/closer/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "oh-my-girl/closer"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song_id = "oh-my-girl/say-no-more"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song_id = "oh-my-girl/playground"
+duration = "3:56"
+
+[[tracks]]
+position = 4
+song_id = "oh-my-girl/sugar-baby"
+duration = "4:22"
+
+[[tracks]]
+position = 5
+song_id = "oh-my-girl/round-about"
+duration = "3:40"
