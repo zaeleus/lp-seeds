@@ -1,0 +1,29 @@
+medium_ids = [
+  "oh-my-girl/pink-ocean/default/cd1",
+  "oh-my-girl/pink-ocean/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "oh-my-girl/liar-liar"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song_id = "oh-my-girl/b612"
+duration = "4:06"
+
+[[tracks]]
+position = 3
+song_id = "oh-my-girl/i-found-love"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song_id = "oh-my-girl/knock-knock"
+duration = "3:37"
+
+[[tracks]]
+position = 5
+song_id = "oh-my-girl/han-baljjak-du-baljjak"
+duration = "3:43"
