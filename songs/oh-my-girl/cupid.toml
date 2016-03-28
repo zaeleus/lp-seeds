@@ -1,0 +1,8 @@
+names = [
+  { name = "CUPID", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=kxvtg7EqY3M", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=fCrCUv6rQ7I", name = "Music Video" },
+]

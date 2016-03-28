@@ -1,0 +1,24 @@
+medium_ids = [
+  "oh-my-girl/oh-my-girl/default/cd1",
+  "oh-my-girl/oh-my-girl/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "oh-my-girl/oh-my-girl"
+duration = "1:18"
+
+[[tracks]]
+position = 2
+song_id = "oh-my-girl/cupid"
+duration = "3:27"
+
+[[tracks]]
+position = 3
+song_id = "oh-my-girl/hot-summer-nights"
+duration = "3:17"
+
+[[tracks]]
+position = 4
+song_id = "oh-my-girl/gunggeumhan-georyo"
+duration = "3:41"
