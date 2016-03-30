@@ -1,0 +1,17 @@
+artist_id = "ladies-code"
+kind = "single"
+
+names = [
+  { name = "MYST3Re:", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-03-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=048200801" },
+  { url = "https://itunes.apple.com/us/album/myst3re-single/id1098054189" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2676168" },
+  { url = "http://www.mnet.com/album/538707" },
+]

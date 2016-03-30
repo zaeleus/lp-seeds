@@ -1,0 +1,3 @@
+names = [
+  { name = "Chaconne (Arieta mix)", locale = "ko", original = true, default = true },
+]
