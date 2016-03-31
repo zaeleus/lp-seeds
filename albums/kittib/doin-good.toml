@@ -14,4 +14,5 @@ urls = [
   { url = "http://www.melon.com/album/detail.htm?albumId=2674523" },
   { url = "http://www.mnet.com/album/537113" },
   { url = "https://itunes.apple.com/us/album/doin-good-single/id1095531868" },
+  { url = "https://open.spotify.com/album/0KnFuGtshcWH3LnCrdtSmE" },
 ]
