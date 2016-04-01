@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1999-07-19"
+country = "KR"
+
+names = [
+  { name = "김소혜", locale = "ko", kind = "real", original = true },
+  { name = "Kim So Hye", locale = "ko-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 163
+weight = 48

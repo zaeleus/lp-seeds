@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1996-08-28"
+country = "KR"
+
+names = [
+  { name = "김세정", locale = "ko", kind = "real", original = true },
+  { name = "Kim Se Jeong", locale = "ko-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "AB"
+height = 164
+weight = 48

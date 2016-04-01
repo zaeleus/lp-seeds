@@ -1,0 +1,13 @@
+kind = "person"
+started_on = "1999-12-04"
+country = "KR"
+
+names = [
+  { name = "김도연", locale = "ko", kind = "real", original = true },
+  { name = "Kim Do Yeon", locale = "ko-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "O"
+height = 170
+weight = 50
