@@ -1,0 +1,3 @@
+names = [
+  { name = "Tales of The Destinies", locale = "ja", original = true, default = true },
+]

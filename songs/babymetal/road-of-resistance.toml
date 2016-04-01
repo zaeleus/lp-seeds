@@ -1,0 +1,3 @@
+names = [
+  { name = "Road of Resistance", locale = "ja", original = true, default = true },
+]

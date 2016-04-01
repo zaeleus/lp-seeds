@@ -1,0 +1,4 @@
+names = [
+  { name = "シンコペーション", locale = "ja", original = true },
+  { name = "Syncopation", locale = "ja-Latn", default = true },
+]

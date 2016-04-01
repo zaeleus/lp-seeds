@@ -1,0 +1,10 @@
+kind = "group"
+started_on = "2010"
+country = "JP"
+
+names = [
+  { name = "BABYMETAL", locale = "ja", original = true, default = true },
+]
+
+# TODO members
+members = []

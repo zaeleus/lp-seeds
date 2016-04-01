@@ -1,0 +1,37 @@
+artist_id = "babymetal"
+kind = "lp"
+
+names = [
+  { name = "METAL RESISTANCE", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=7grclWcpp50", name = "Trailer" },
+]
+
+[[releases]]
+released_on = "2016-04-01"
+country = "JP"
+catalog_number = "TFCC-86545"
+disambiguation = "Limited Edition"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/552304/products/1163799/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-01"
+country = "JP"
+catalog_number = "TFCC-86546"
+disambiguation = "Regular Edition"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/552304/products/1163801/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-01"
+country = "JP"
+catalog_number = "ONEC-0002"
+disambiguation = "THE ONE Limited Edition"
+media = [{ kind = "cd" }, { kind = "blu-ray" }]
