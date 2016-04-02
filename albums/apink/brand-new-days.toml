@@ -1,0 +1,46 @@
+artist_id = "apink"
+kind = "single"
+
+names = [
+  { name = "Brand New Days", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-03-23"
+country = "JP"
+catalog_number = "UPCH-89259"
+disambiguation = "Limited Edition A"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/540079/products/1170688/1/" },
+]
+
+[[releases]]
+released_on = "2016-03-23"
+country = "JP"
+catalog_number = "UPCH-89260"
+disambiguation = "Limited Edition B"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/540079/products/1170689/1/" },
+]
+
+[[releases]]
+released_on = "2016-03-23"
+country = "JP"
+catalog_number = "UPCH-89262"
+disambiguation = "Limited Edition C"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/540079/products/1170690/1/" },
+]
+
+[[releases]]
+released_on = "2016-03-23"
+country = "JP"
+catalog_number = "UPCH-80422"
+disambiguation = "Regular Edition"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/540079/products/1170691/1/" },
+]

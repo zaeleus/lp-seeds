@@ -1,0 +1,10 @@
+medium_ids = [
+  "apink/brand-new-days/limited-edition-b/dvd2",
+]
+
+[[tracks]]
+position = 1
+names = [
+  { name = "「Brand New Days」Music Video", locale = "jp", original = true },
+  { name = '"Brand New Days" Music Video', locale = "en", default = true },
+]
