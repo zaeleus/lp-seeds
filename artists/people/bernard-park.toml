@@ -1,0 +1,10 @@
+kind = "person"
+started_on = "1993-01-29"
+country = "KR"
+
+names = [
+  { name = "버나드 박", locale = "ko", kind = "stage", original = true },
+  { name = "Bernard Park", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박낙준", locale = "ko", kind = "real" },
+  { name = "Park Nak Jun", locale = "ko-Latn", kind = "real" },
+]
