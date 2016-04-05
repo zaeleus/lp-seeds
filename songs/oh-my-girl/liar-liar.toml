@@ -6,4 +6,5 @@ urls = [
   { url = "https://www.youtube.com/watch?v=aFwSN4jx6JE", name = "Teaser" },
   { url = "https://www.youtube.com/watch?v=GW6J1j6O85Q", name = "Practice Room" },
   { url = "https://www.youtube.com/watch?v=LNZKqhXCv5c", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=IYhd1MkUmtA", name = "Let's Dance (360VR Ver.)" },
 ]
