@@ -1,0 +1,61 @@
+medium_ids = [
+  "perfume/cosmic-explorer/limited-edition-a/cd1",
+  "perfume/cosmic-explorer/limited-edition-b/cd1",
+  "perfume/cosmic-explorer/regular-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "perfume/navigate"
+
+[[tracks]]
+position = 2
+song_id = "perfume/cosmic-explorer"
+
+[[tracks]]
+position = 3
+song_id = "perfume/miracle-worker"
+
+[[tracks]]
+position = 4
+song_id = "perfume/next-stage-with-you"
+
+[[tracks]]
+position = 5
+song_id = "perfume/story"
+
+[[tracks]]
+position = 6
+song_id = "perfume/flash-album-mix"
+
+[[tracks]]
+position = 7
+song_id = "perfume/sweet-refrain-album-mix"
+
+[[tracks]]
+position = 8
+song_id = "perfume/baby-face"
+
+[[tracks]]
+position = 9
+song_id = "perfume/tokimeki-lights-album-mix"
+
+[[tracks]]
+position = 10
+song_id = "perfume/star-train-album-mix"
+
+[[tracks]]
+position = 11
+song_id = "perfume/relax-in-the-city"
+
+[[tracks]]
+position = 12
+song_id = "perfume/pick-me-up"
+
+[[tracks]]
+position = 13
+song_id = "perfume/cling-cling-album-mix"
+
+[[tracks]]
+position = 14
+song_id = "perfume/hold-your-hand"

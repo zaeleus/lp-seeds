@@ -1,0 +1,39 @@
+artist_id = "perfume"
+kind = "lp"
+
+names = [
+  { name = "COSMIC EXPLORER", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-04-06"
+country = "JP"
+catalog_number = "UPCP-9013"
+media = [{ kind = "cd" }, { kind = "cd" }, { kind = "blu-ray" }]
+disambiguation = "Limited Edition A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/325277/products/1171983/1/" },
+  { url = "http://www.perfume-web.jp/discography/inc/a10.html" },
+]
+
+[[releases]]
+released_on = "2016-04-06"
+country = "JP"
+catalog_number = "UPCP-9014"
+media = [{ kind = "cd" }, { kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/325277/products/1171984/1/" },
+  { url = "http://www.perfume-web.jp/discography/inc/a10.html" },
+]
+
+[[releases]]
+released_on = "2016-04-06"
+country = "JP"
+catalog_number = "UPCP-1002"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/325277/products/1171986/1/" },
+  { url = "http://www.perfume-web.jp/discography/inc/a10.html" },
+]

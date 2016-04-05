@@ -1,0 +1,7 @@
+names = [
+  { name = "FLASH", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=HM63o4UlUPU", name = "Music Video (Short Ver.)" },
+]

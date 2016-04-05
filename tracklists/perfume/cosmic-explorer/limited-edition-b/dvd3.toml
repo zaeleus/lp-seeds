@@ -1,0 +1,30 @@
+medium_ids = [
+  "perfume/cosmic-explorer/limited-edition-b/dvd3",
+]
+
+[[tracks]]
+position = 1
+names = [
+  { name = "FLASH -Video Clip-", locale = "ja", original = true, default = true },
+]
+
+[[tracks]]
+position = 2
+names = [
+  { name = "Hold Your Hand -Lyric Video-", locale = "ja", original = true, default = true },
+]
+
+[[tracks]]
+position = 3
+names = [
+  { name = "2014年7月14日 Perfume“Cling Cling”World ＠原宿アストロホール 「Cling Cling」", locale = "ja", original = true },
+  { name = '2014-07-14 Perfume "Cling Cling" World @ Harajuku Astro Hall "Cling Cling"' , locale = "en", default = true },
+]
+
+[[tracks]]
+position = 4
+names = [
+  { name = "2015年12月31日 第66回NHK紅白歌合戦「Pick Me Up」歌唱・舞台裏ドキュメント", locale = "ja", original = true },
+  { name = '2015-12-31 66th NHK Red and White "Pick Me Up" Singing Contest + Behind the Scenes Documentary', locale = "en", default = true },
+]
+

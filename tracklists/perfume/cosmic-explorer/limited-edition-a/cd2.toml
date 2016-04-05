@@ -1,0 +1,16 @@
+medium_ids = [
+  "perfume/cosmic-explorer/limited-edition-a/cd2",
+  "perfume/cosmic-explorer/limited-edition-b/cd2",
+]
+
+[[tracks]]
+position = 1
+song_id = "perfume/flash"
+
+[[tracks]]
+position = 2
+song_id = "perfume/flash-original-instrumental"
+
+[[tracks]]
+position = 3
+song_id = "perfume/perfume-no-tada-tada-radio-ga-suki-dakara-radio-2"

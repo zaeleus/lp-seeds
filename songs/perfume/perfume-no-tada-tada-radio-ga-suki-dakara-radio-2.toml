@@ -1,0 +1,5 @@
+names = [
+  { name = "Perfumeのただただラジオが好きだからレイディオ！ 2", locale = "ja", original = true },
+  { name = "Perfume no Tada Tada Radio ga Suki Dakara Radio! 2", locale = "ja-Latn", default = true },
+  { name = "Because We Like Nothing But Perfume's Radio Radio! 2", locale = "en" },
+]
