@@ -1,0 +1,26 @@
+kind = "group"
+started_on = "2016-04-01"
+country = "KR"
+
+names = [
+  { name = "아이오아이", locale = "ko", original = true },
+  { name = "I.O.I", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "http://mnettv.interest.me/produce101/main.dbp" },
+]
+
+members = [
+  { id = "i-o-i/choi-yoo-jung" },
+  { id = "i-o-i/jeon-so-mi" },
+  { id = "i-o-i/jung-chae-yeon" },
+  { id = "i-o-i/kang-mi-na" },
+  { id = "i-o-i/kim-chung-ha" },
+  { id = "i-o-i/kim-do-yeon" },
+  { id = "i-o-i/kim-se-jeong" },
+  { id = "i-o-i/kim-so-hye" },
+  { id = "i-o-i/lim-na-young" },
+  { id = "i-o-i/yu-yeun-jung" },
+  { id = "i-o-i/zhou-jieqiong" },
+]
