@@ -1,0 +1,29 @@
+medium_ids = [
+  "laboum/fresh-adventure/default/cd1",
+  "laboum/fresh-adventure/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "laboum/fresh-adventure/intro"
+duration = "0:43"
+
+[[tracks]]
+position = 2
+song_id = "laboum/sangsangdeohagi"
+duration = "4:02"
+
+[[tracks]]
+position = 3
+song_id = "laboum/3-strike-out"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song_id = "laboum/caterpillar"
+duration = "5:16"
+
+[[tracks]]
+position = 5
+song_id = "laboum/sangsangdeohagi-inst"
+duration = "4:00"

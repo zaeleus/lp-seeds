@@ -1,0 +1,9 @@
+names = [
+  { name = "상상더하기", locale = "ko", original = true },
+  { name = "Sangsangdeohagi", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=VGbJDhMbfU4", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=m0o7fbNKhpM", name = "Music Video" },
+]

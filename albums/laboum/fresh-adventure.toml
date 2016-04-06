@@ -1,0 +1,28 @@
+artist_id = "laboum"
+kind = "single"
+
+names = [
+  { name = "Fresh Adventure", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=82XY1Wk7sjw", name = "Highlight Medley" },
+]
+
+[[releases]]
+released_on = "2016-04-06"
+country = "KR"
+catalog_number = "INT-0054"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=055400073" },
+]
+
+[[releases]]
+released_on = "2016-04-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2677681" },
+  { url = "http://www.mnet.com/album/540093" },
+]
