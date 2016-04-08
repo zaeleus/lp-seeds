@@ -1,0 +1,11 @@
+kind = "group"
+started_on = "2002"
+country = "KR"
+
+names = [
+  { name = "바이브", locale = "ko", original = true },
+  { name = "Vibe", locale = "ko-Latn", default = true },
+]
+
+# TODO members
+members = []

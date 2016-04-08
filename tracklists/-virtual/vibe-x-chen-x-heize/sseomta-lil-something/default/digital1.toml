@@ -1,0 +1,13 @@
+medium_ids = [
+  "-virtual/vibe-x-chen-x-heize/sseomta-lil-something/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "-virtual/vibe-x-chen-x-heize/sseomta-lil-something"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song_id = "-virtual/vibe-x-chen-x-heize/sseomta-lil-something-inst"
+duration = "3:20"

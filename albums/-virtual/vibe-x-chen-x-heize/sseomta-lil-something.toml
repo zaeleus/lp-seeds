@@ -1,0 +1,22 @@
+artist_id = "-virtual/vibe-x-chen-x-heize"
+kind = "single"
+
+names = [
+  { name = "썸타 (Lil' Something)", locale = "ko", original = true },
+  { name = "Sseomta (Lil' Something)", locale = "ko-Latn", default = true },
+]
+
+artist_credits = [
+  { artist_id = "vibe", separator = " x " },
+  { artist_id = "exo/chen", separator = " x " },
+  { artist_id = "heize" },
+]
+
+[[releases]]
+released_on = "2016-04-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2678416" },
+  { url = "http://www.mnet.com/album/541101" },
+]
