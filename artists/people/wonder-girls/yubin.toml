@@ -4,9 +4,9 @@ country = "KR"
 
 names = [
   { name = "유빈", locale = "ko", kind = "stage", original = true },
-  { name = "Yoo Bin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Yubin", locale = "ko-Latn", kind = "stage", default = true },
   { name = "김유빈", locale = "ko", kind = "real" },
-  { name = "Kim Yoo Bin", locale = "ko-Latn", kind = "real" },
+  { name = "Kim Yubin", locale = "ko-Latn", kind = "real" },
 ]
 
 labels = [{ id = "jyp-entertainment" }]

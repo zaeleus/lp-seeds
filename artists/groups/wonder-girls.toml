@@ -16,7 +16,7 @@ members = [
   { id = "wonder-girls/sun-mi", ended_on = "2010-01-22" },
   { id = "wonder-girls/sun-ye" },
   { id = "wonder-girls/ye-eun" },
-  { id = "wonder-girls/yoo-bin", started_on = "2007-09-07" },
+  { id = "wonder-girls/yubin", started_on = "2007-09-07" },
   { id = "4minute/hyun-a", ended_on = "2007-07-31" }
 ]
 
