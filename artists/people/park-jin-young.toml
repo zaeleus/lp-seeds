@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1972-01-13"
+country = "KR"
+
+names = [
+  { name = "박진영", locale = "ko", kind = "real", original = true },
+  { name = "Park Jin Young", locale = "ko-Latn", kind = "real", default = true },
+]
+
+urls = [
+  { url = "http://jyp.jype.com/" },
+  { url = "https://twitter.com/followjyp" },
+  { url = "https://www.youtube.com/user/jypark" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 185
+weight = 78
