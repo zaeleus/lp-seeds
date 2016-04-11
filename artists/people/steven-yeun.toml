@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1983-12-21"
+country = "US"
+
+names = [
+  { name = "Steven Yeun", locale = "en", kind = "real", original = true, default = true },
+  { name = "연상엽", locale = "ko", kind = "real" },
+  { name = "Yeun Sang Yeop", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.facebook.com/stevenyeun" },
+  { url = "https://twitter.com/steveyeun" },
+]

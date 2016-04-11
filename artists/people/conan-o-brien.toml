@@ -1,0 +1,7 @@
+kind = "person"
+started_on = "1963-04-18"
+country = "US"
+
+names = [
+  { name = "Conan O'Brien", locale = "en", kind = "real", original = true, default = true },
+]
