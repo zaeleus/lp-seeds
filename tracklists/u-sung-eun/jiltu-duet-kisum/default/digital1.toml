@@ -1,0 +1,13 @@
+medium_ids = [
+  "u-sung-eun/jiltu-duet-kisum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "u-sung-eun/jiltu-duet-kisum"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song_id = "u-sung-eun/jiltu-inst"
+duration = "3:12"

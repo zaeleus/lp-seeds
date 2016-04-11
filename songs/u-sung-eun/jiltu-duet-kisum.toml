@@ -1,0 +1,14 @@
+names = [
+  { name = "질투 (Duet. 키썸)", locale = "ko", original = true },
+  { name = "Jiltu (Duet. Kisum)", locale = "ko-Latn", default = true },
+  { name = "Jealous (Duet. Kisum)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=wmtAWj253IY", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=izLMZeGC30A", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "kisum", kind = "performer" },
+]

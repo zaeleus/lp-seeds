@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1989-04-26"
+country = "KR"
+
+names = [
+  { name = "유성은", locale = "ko", kind = "real", original = true },
+  { name = "U Sung Eun", locale = "ko-Latn", kind = "real", default = true },
+]
