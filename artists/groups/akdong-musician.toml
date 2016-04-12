@@ -1,0 +1,20 @@
+kind = "group"
+started_on = "2014"
+country = "KR"
+
+names = [
+  { name = "악동뮤지션", locale = "ko", original = true },
+  { name = "Akdong Musician", locale = "ko-Latn", default = true },
+  { name = "AKMU", locale = "ko-Latn" },
+]
+
+members = [
+  { id = "akdong-musician/lee-chan-hyuk" },
+  { id = "akdong-musician/lee-soo-hyun" },
+]
+
+urls = [
+  { url = "http://ygfamily.com/artist/Main.asp?LANGDIV=K&ATYPE=2&ARTIDX=52" },
+  { url = "https://www.facebook.com/officialAKMU" },
+  { url = "https://www.youtube.com/user/officialAKMU" },
+]

@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1999-05-04"
+country = "KR"
+
+names = [
+  { name = "이수현", locale = "ko", kind = "real", original = true },
+  { name = "Lee Soo Hyun", locale = "ko-Latn", kind = "real", default = true },
+]
+
+urls = [
+  { url = "https://www.instagram.com/akmu_suhyun/" },
+]

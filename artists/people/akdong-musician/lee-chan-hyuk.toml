@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1996-09-12"
+country = "KR"
+
+names = [
+  { name = "이찬혁", locale = "ko", kind = "real", original = true },
+  { name = "Lee Chan Hyuk", locale = "ko-Latn", kind = "real", default = true },
+]
+
+urls = [
+  { url = "https://www.instagram.com/akmuchanhk/" },
+]
