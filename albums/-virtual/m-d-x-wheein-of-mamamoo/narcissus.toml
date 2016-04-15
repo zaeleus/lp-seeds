@@ -1,0 +1,27 @@
+artist_id = "-virtual/m-d-x-wheein-of-mamamoo"
+kind = "single"
+
+names = [
+  { name = "나르시스 (Narcissus)", locale = "ko", original = true },
+  { name = "Narcissus", locale = "en", default = true },
+]
+
+artist_credits = [{
+  artist_id = "m-d",
+  separator = " x ",
+}, {
+  artist_id = "mamamoo/wheein",
+  names = [
+    { name = "휘인 (of 마마무)", locale = "ko", original = true },
+    { name = "Wheein (of MAMAMOO)", locale = "ko-Latn", default = true },
+  ],
+}]
+
+[[releases]]
+released_on = "2016-04-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2679665" },
+  { url = "http://www.mnet.com/album/542621" },
+]

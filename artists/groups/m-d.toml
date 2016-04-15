@@ -1,0 +1,17 @@
+kind = "group"
+started_on = "2011-07-07"
+country = "KR"
+
+names = [
+  { name = "미아리&단계동", locale = "ko", original = true },
+  { name = "M&D", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "super-junior/heechul" },
+  { id = "trax/jung-mo" },
+]
+
+urls = [
+  { url = "http://mnd.smtown.com/" },
+]

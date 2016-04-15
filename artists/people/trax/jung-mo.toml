@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1985-03-26"
+country = "KR"
+
+names = [
+  { name = "정모", locale = "ko", kind = "stage", original = true },
+  { name = "Jung Mo", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김정모", locale = "ko", kind = "real" },
+  { name = "Kim Jung Mo", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 185
+weight = 70

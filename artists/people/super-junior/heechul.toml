@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1983-07-10"
+country = "KR"
+
+names = [
+  { name = "희철", locale = "ko", kind = "stage", original = true },
+  { name = "Heechul", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김희철", locale = "ko", kind = "real" },
+  { name = "Kim Hee Chul", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 177
+weight = 60

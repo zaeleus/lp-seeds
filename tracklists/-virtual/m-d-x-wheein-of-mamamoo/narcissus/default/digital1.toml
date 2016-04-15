@@ -1,0 +1,13 @@
+medium_ids = [
+  "-virtual/m-d-x-wheein-of-mamamoo/narcissus/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "-virtual/m-d-x-wheein-of-mamamoo/narcissus"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song_id = "-virtual/m-d-x-wheein-of-mamamoo/narcissus-inst"
+duration = "3:41"

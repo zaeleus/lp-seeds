@@ -1,0 +1,19 @@
+names = [
+  { name = "나르시스 (Narcissus)", locale = "ko", original = true },
+  { name = "Narcissus", locale = "en", default = true },
+]
+
+artist_credits = [{
+  artist_id = "m-d",
+  separator = " x ",
+}, {
+  artist_id = "mamamoo/wheein",
+  names = [
+    { name = "휘인 (of 마마무)", locale = "ko", original = true },
+    { name = "Wheein (of MAMAMOO)", locale = "ko-Latn", default = true },
+  ],
+}]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=W16RU4e_Kf0", name = "Music Video" },
+]
