@@ -22,4 +22,5 @@ urls = [
   { url = "https://itunes.apple.com/us/album/a-delicate-sense-ep/id1091444415" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2671006" },
   { url = "http://www.mnet.com/album/534522" },
+  { url = "https://open.spotify.com/album/7iIng4Q6C0iOhPtCKGbsXo" },
 ]
