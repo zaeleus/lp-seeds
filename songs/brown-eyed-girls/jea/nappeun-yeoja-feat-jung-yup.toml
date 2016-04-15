@@ -1,0 +1,13 @@
+names = [
+  { name = "나쁜 여자(Feat. 정엽)", locale = "ko", original = true },
+  { name = "Nappeun Yeoja (Feat. Jung Yup)", locale = "ko-Latn", default = true },
+  { name = "Bad Girl", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Z_kRNHTycFM", name = "Music Video" },
+]
+
+contributions = [
+  { artist_id = "brown-eyed-soul/ahn-jung-yup", kind = "performer" },
+]

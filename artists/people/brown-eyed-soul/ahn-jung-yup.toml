@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1977-02-25"
+country = "KR"
+
+names = [
+  { name = "정엽", locale = "ko", kind = "stage", original = true },
+  { name = "Jung Yup", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "안정엽", locale = "ko", kind = "real" },
+  { name = "Ahn Jung Yup", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "O"
+height = 175
+weight = 62
