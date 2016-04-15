@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1987-09-20"
+country = "KR"
+
+names = [
+  { name = "가인", locale = "ko", kind = "stage", original = true },
+  { name = "Gain", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "손가인", locale = "ko", kind = "real" },
+  { name = "Son Ga In", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/songain87/" },
+]
+
+[metadata]
+blood_type = "B"
+height = 158
+weight = 45

@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1981-09-18"
+country = "KR"
+
+names = [
+  { name = "제아", locale = "ko", kind = "stage", original = true },
+  { name = "JeA", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김효진", locale = "ko", kind = "real" },
+  { name = "Kim Hyo Jin", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/jeaworld/" },
+  { url = "https://twitter.com/jeaworld" },
+]
+
+[metadata]
+blood_type = "O"
+height = 159
+weight = 46

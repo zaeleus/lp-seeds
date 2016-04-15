@@ -1,0 +1,23 @@
+kind = "group"
+started_on = "2008"
+country = "KR"
+
+names = [
+  { name = "브라운 아이드 걸스", locale = "ko", original = true },
+  { name = "Brown Eyed Girls", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { id = "brown-eyed-girls/jea" },
+  { id = "brown-eyed-girls/miryo" },
+  { id = "brown-eyed-girls/narsha" },
+  { id = "brown-eyed-girls/gain" },
+]
+
+urls = [
+  { url = "http://cafe.daum.net/Browneyedgirls" },
+  { url = "http://www.sonymusic.co.jp/Music/International/Special/browneyedgirls/index.html" },
+  { url = "https://www.facebook.com/officialBEG" },
+  { url = "https://twitter.com/officialBEG" },
+  { url = "https://www.youtube.com/user/officialBEG" },
+]

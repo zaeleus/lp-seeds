@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1981-11-02"
+country = "KR"
+
+names = [
+  { name = "미료", locale = "ko", kind = "stage", original = true },
+  { name = "Miryo", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조미혜", locale = "ko", kind = "real" },
+  { name = "Jo Mi Hae", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/miryoakajohoney/" },
+  { url = "https://twitter.com/MIRYOakaJOHONEY" },
+]
+
+[metadata]
+blood_type = "A"
+height = 163
+weight = 51

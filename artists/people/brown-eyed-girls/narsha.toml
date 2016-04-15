@@ -1,0 +1,20 @@
+kind = "person"
+started_on = "1981-12-28"
+country = "KR"
+
+names = [
+  { name = "나르샤", locale = "ko", kind = "stage", original = true },
+  { name = "Narsha", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박효진", locale = "ko", kind = "real" },
+  { name = "Park Hyo Jin", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/narsha81/" },
+  { url = "https://twitter.com/flyx2NAL" },
+]
+
+[metadata]
+blood_type = "A"
+height = 155
+weight = 50
