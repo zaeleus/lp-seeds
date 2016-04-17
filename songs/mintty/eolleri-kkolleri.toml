@@ -1,0 +1,11 @@
+names = [
+  { name = "얼레리 꼴레리", locale = "ko", original = true },
+  { name = "Eolleri Kkolleri", locale = "ko-Latn", default = true },
+  { name = "Already Go Lady", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=nG2MHWeg004", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=uDYwwIR-4t4", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=dRuJmtokRr8", name = "Music Video" },
+]

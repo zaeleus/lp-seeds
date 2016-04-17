@@ -1,0 +1,21 @@
+kind = "person"
+started_on = "1994-06-23"
+country = "KR"
+
+names = [
+  { name = "민트", locale = "ko", kind = "stage", original = true },
+  { name = "Mintty", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Mint", locale = "ko-Latn", kind = "stage" },
+  { name = "กุญช์ภัสส์ พรปวีณ์วรกุล", locale = "th", kind = "real" },
+  { name = "Goonshipas Peonpaweevorakul", locale = "th-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://www.facebook.com/minttymswag/" },
+  { url = "https://www.instagram.com/minttytinyg/" },
+  { url = "https://twitter.com/minttytinyg" },
+]
+
+[metadata]
+blood_type = "O"
+height = 151

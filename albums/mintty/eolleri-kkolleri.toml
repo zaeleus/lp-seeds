@@ -1,0 +1,17 @@
+artist_id = "mintty"
+kind = "single"
+
+names = [
+  { name = "얼레리 꼴레리", locale = "ko", original = true },
+  { name = "Eolleri Kkolleri", locale = "ko-Latn", default = true },
+  { name = "Already Go Lady", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-04-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2679386" },
+  { url = "http://www.mnet.com/album/542078" },
+]
