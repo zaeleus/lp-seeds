@@ -6,4 +6,5 @@ names = [
 urls = [
   { url = "https://www.youtube.com/watch?v=VGbJDhMbfU4", name = "Teaser" },
   { url = "https://www.youtube.com/watch?v=m0o7fbNKhpM", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=aTAjYf4roo4", name = "Dance Practice (Han River Ver.)" },
 ]
