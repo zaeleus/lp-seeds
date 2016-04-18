@@ -1,0 +1,10 @@
+names = [
+  { name = "네가 손짓해주면", locale = "ko", original = true },
+  { name = "Nega Sonjishaejumyeon", locale = "ko-Latn", default = true },
+  { name = "The Wave", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=AB3w9orUpuI", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=yXvCNLTWwB0", name = "Music Video" },
+]
