@@ -1,0 +1,37 @@
+artist_id = "apink/eun-ji"
+kind = "ep"
+
+names = [
+  { name = "Dream", locale = "ko", original = true, default = true },
+]
+
+artist_credits =[{
+  artist_id = "apink/eun-ji",
+  names = [
+    { name = "정은지", locale = "ko", original = true },
+    { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+  ],
+}]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=_JWbRwTG7Bw", name = "Rolling Music Teaser" },
+]
+
+[[releases]]
+released_on = "2016-04-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/dream-ep/id1104837738" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2680009" },
+  { url = "http://www.mnet.com/album/542984" },
+]
+
+[[releases]]
+released_on = "2016-04-18"
+country = "KR"
+catalog_number = "L200001235"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=030700097" },
+]

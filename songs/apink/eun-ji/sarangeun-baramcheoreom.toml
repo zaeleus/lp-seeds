@@ -1,0 +1,12 @@
+names = [
+  { name = "사랑은 바람처럼", locale = "ko", original = true },
+  { name = "Sarangeun Baramcheoreom", locale = "ko-Latn", default = true },
+]
+
+artist_credits =[{
+  artist_id = "apink/eun-ji",
+  names = [
+    { name = "정은지", locale = "ko", original = true },
+    { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+  ],
+}]
