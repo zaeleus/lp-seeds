@@ -1,0 +1,5 @@
+names = [
+  { name = "花束を君に", locale = "ja", original = true },
+  { name = "Hanataba wo Kimi ni", locale = "ja-Latn", default = true },
+  { name = "A Bouquet for You", locale = "en" },
+]

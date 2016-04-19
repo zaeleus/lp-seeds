@@ -1,0 +1,16 @@
+kind = "person"
+started_on = "1983-01-19"
+country = "JP"
+
+names = [
+  { name = "宇多田ヒカル", locale = "ja", kind = "stage", original = true },
+  { name = "Utada Hikaru", locale = "ja-Latn", kind = "stage", default = true },
+  { name = "宇多田光", locale = "ja", kind = "real" },
+]
+
+urls = [
+  { url = "http://www.utadahikaru.jp/" },
+  { url = "http://www.universal-music.co.jp/utada-hikaru/" },
+  { url = "https://twitter.com/utadahikaru" },
+  { url = "https://www.youtube.com/user/hikki" },
+]

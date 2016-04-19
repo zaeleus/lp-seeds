@@ -1,0 +1,8 @@
+medium_ids = [
+  "utada-hikaru/hanataba-wo-kimi-ni/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "utada-hikaru/hanataba-wo-kimi-ni"
+duration = "4:40"

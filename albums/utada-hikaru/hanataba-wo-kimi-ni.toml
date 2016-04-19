@@ -1,0 +1,18 @@
+artist_id = "utada-hikaru"
+kind = "single"
+
+names = [
+  { name = "花束を君に", locale = "ja", original = true },
+  { name = "Hanataba wo Kimi ni", locale = "ja-Latn", default = true },
+  { name = "A Bouquet for You", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-04-15"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://recochoku.jp/song/S1003140032/" },
+  { url = "http://mora.jp/package/43000006/00600406710000/" },
+  { url = "http://mora.jp/package/43000006/00600406710017/" },
+]
