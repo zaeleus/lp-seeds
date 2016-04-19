@@ -1,0 +1,18 @@
+artist_id = "utada-hikaru"
+kind = "single"
+
+names = [
+  { name = "真夏の通り雨", locale = "ja", original = true },
+  { name = "Manatsu no Tooriame", locale = "ja-Latn", default = true },
+  { name = "Midsummer Rain Shower", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-04-15"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://recochoku.jp/song/S1003140033/" },
+  { url = "http://mora.jp/package/43000006/00600406710024/" },
+  { url = "http://mora.jp/package/43000006/00600406710031/" },
+]

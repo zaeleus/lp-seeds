@@ -1,0 +1,5 @@
+names = [
+  { name = "真夏の通り雨", locale = "ja", original = true },
+  { name = "Manatsu no Tooriame", locale = "ja-Latn", default = true },
+  { name = "Midsummer Rain Shower", locale = "en" },
+]
