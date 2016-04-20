@@ -12,6 +12,7 @@ released_on = "2016-04-19"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
+  { url = "https://itunes.apple.com/us/album/nega-sonjishaejumyeon-wave/id1105238435" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2680290" },
   { url = "http://www.mnet.com/album/543245" },
 ]
