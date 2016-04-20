@@ -1,0 +1,5 @@
+names = [
+  { name = "밤샘 (Feat. TABLO)", locale = "ko", original = true },
+  { name = "Bamsaem (Feat. TABLO)", locale = "ko-Latn", default = true },
+  { name = "Up All Night (Feat. TABLO)", locale = "en" },
+]

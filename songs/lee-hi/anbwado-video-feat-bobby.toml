@@ -1,0 +1,5 @@
+names = [
+  { name = "안봐도 비디오 (Feat. BOBBY)", locale = "ko", original = true },
+  { name = "Anbwado Video (Feat. BOBBY)", locale = "ko-Latn", default = true },
+  { name = "Video (Feat. BOBBY)", locale = "en" },
+]

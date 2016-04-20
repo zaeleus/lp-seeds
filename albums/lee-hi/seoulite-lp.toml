@@ -1,0 +1,23 @@
+artist_id = "lee-hi"
+kind = "lp"
+
+names = [
+  { name = "SEOULITE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "KR"
+#catalog_number = "" # TODO catalog number
+media = [{ kind = "cd" }]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=045401039" },
+  { url = "https://itunes.apple.com/us/album/seoulite-ep/id1105343652" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2680542" },
+  { url = "http://www.mnet.com/album/543699" },
+]
