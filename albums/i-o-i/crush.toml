@@ -2,7 +2,7 @@ artist_id = "i-o-i"
 kind = "single"
 
 names = [
-  { name = "PRODUCE 101 - Crush", locale = "ko", original = true, default = true },
+  { name = "Crush", locale = "ko", original = true, default = true },
 ]
 
 [[releases]]
