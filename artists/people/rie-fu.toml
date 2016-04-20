@@ -1,0 +1,14 @@
+kind = "person"
+started_on = "1985-01-11"
+country = "JP"
+
+names = [
+  { name = "Rie fu", locale = "ja", kind = "stage", original = true, default = true },
+  { name = "舩越里恵", locale = "ja", kind = "real" },
+  { name = "Funakoshi Rie", locale = "ja-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://riefu.com/" },
+  { url = "https://www.youtube.com/user/Riefuofficial" },
+]

@@ -1,0 +1,21 @@
+artist_id = "rie-fu"
+kind = "lp"
+
+names = [
+  { name = "O", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-04-06"
+country = "JP"
+catalog_number = "DQC-1519"
+media = [{ kind = "cd" }]
+
+[[releases]]
+released_on = "2016-04-06"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000011/4538182611593/" },
+  { url = "http://recochoku.jp/album/A1004084481/" },
+]

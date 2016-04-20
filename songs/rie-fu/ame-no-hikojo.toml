@@ -1,0 +1,4 @@
+names = [
+  { name = "雨の飛行場", locale = "ja", original = true },
+  { name = "Ame no Hikojo", locale = "ja-Latn", default = true },
+]
