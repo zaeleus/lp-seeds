@@ -1,0 +1,10 @@
+names = [
+  { name = "Angel", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=9GZGg6hZkto", name = "Teaser (Cube Ver.)" },
+  { url = "https://www.youtube.com/watch?v=Y801WucdHO8", name = "Teaser (Ring Ver.)" },
+  { url = "https://www.youtube.com/watch?v=UPB5IoYEib4", name = "Teaser (Angel Ver.)" },
+  { url = "https://www.youtube.com/watch?v=EzjFXG894YE", name = "Music Video" },
+]
