@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1994-03-01"
+country = "KR"
+
+names = [
+  { name = "박보람", locale = "ko", kind = "real", original = true },
+  { name = "Park Bo Ram", locale = "ko-Latn", kind = "real", default = true },
+]

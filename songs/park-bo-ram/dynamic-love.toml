@@ -1,0 +1,10 @@
+names = [
+  { name = "Dynamic Love", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=d-afjOFo4SM", name = "Highlight Teaser" },
+  { url = "https://www.youtube.com/watch?v=IqFd9Vj9V20", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=pfqKJHprbec", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=QwypeQde_JY", name = "Making Film" },
+]
