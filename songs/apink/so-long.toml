@@ -4,6 +4,6 @@ names = [
 
 contributions = [
   { artist_id = "apink/cho-rong", kind = "lyricist" },
-  { artist_id = "master-key", kind = "composer" },
-  { artist_id = "master-key", kind = "arranger" },
+  { artist_id = "masterkey", kind = "composer" },
+  { artist_id = "masterkey", kind = "arranger" },
 ]
