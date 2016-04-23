@@ -8,7 +8,7 @@ names = [
   { name = "Joker", locale = "ko", kind = "stage" },
 ]
 
-labels = [{ id = "cube-entertainment" }]
+labels = [{ label_id = "cube-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/Joker891219" }

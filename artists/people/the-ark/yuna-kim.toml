@@ -7,7 +7,7 @@ names = [
   { name = "Yuna Kim", locale = "ko-Latn", kind = "real", default = true },
 ]
 
-labels = [{ id = "music-k-entertainment" }]
+labels = [{ label_id = "music-k-entertainment" }]
 
 [metadata]
 blood_type = "O"

@@ -7,17 +7,17 @@ names = [
   { name = "Oh My Girl", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ id = "wm-entertainment" }]
+labels = [{ label_id = "wm-entertainment" }]
 
 members = [
-  { id = "oh-my-girl/hyo-jung" },
-  { id = "oh-my-girl/jin-e" },
-  { id = "oh-my-girl/mimi" },
-  { id = "oh-my-girl/yoo-a" },
-  { id = "oh-my-girl/seung-hee" },
-  { id = "oh-my-girl/ji-ho" },
-  { id = "oh-my-girl/binnie" },
-  { id = "oh-my-girl/arin" },
+  { artist_id = "oh-my-girl/hyo-jung" },
+  { artist_id = "oh-my-girl/jin-e" },
+  { artist_id = "oh-my-girl/mimi" },
+  { artist_id = "oh-my-girl/yoo-a" },
+  { artist_id = "oh-my-girl/seung-hee" },
+  { artist_id = "oh-my-girl/ji-ho" },
+  { artist_id = "oh-my-girl/binnie" },
+  { artist_id = "oh-my-girl/arin" },
 ]
 
 urls = [

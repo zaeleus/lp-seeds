@@ -7,10 +7,10 @@ names = [
   { name = "Rainbow Pixie", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ id = "dsp-media" }]
+labels = [{ label_id = "dsp-media" }]
 
 members = [
-  { id = "rainbow/seung-ah" },
-  { id = "rainbow/ji-sook" },
-  { id = "rainbow/hyun-young" },
+  { artist_id = "rainbow/seung-ah" },
+  { artist_id = "rainbow/ji-sook" },
+  { artist_id = "rainbow/hyun-young" },
 ]

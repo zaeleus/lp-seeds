@@ -7,9 +7,9 @@ names = [
   { name = "Trouble Maker", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ id = "cube-entertainment" }]
+labels = [{ label_id = "cube-entertainment" }]
 
 members = [
-  { id = "beast/jang-hyun-seung" },
-  { id = "4minute/hyun-a" },
+  { artist_id = "beast/jang-hyun-seung" },
+  { artist_id = "4minute/hyun-a" },
 ]

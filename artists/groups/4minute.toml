@@ -8,14 +8,14 @@ names = [
   { name = "4Minute", locale = "ja" },
 ]
 
-labels = [{ id = "cube-entertainment" }]
+labels = [{ label_id = "cube-entertainment" }]
 
 members = [
-  { id = "4minute/ga-yoon" },
-  { id = "4minute/hyun-a" },
-  { id = "4minute/ji-hyun" },
-  { id = "4minute/ji-yoon" },
-  { id = "4minute/so-hyun" },
+  { artist_id = "4minute/ga-yoon" },
+  { artist_id = "4minute/hyun-a" },
+  { artist_id = "4minute/ji-hyun" },
+  { artist_id = "4minute/ji-yoon" },
+  { artist_id = "4minute/so-hyun" },
 ]
 
 urls = [

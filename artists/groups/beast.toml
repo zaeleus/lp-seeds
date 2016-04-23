@@ -9,15 +9,15 @@ names = [
 ]
 
 labels = [
-  { id = "cube-entertainment" },
-  { id = "beast-music" },
+  { label_id = "cube-entertainment" },
+  { label_id = "beast-music" },
 ]
 
 members = [
-  { id = "beast/yoon-doo-joon" },
-  { id = "beast/jang-hyun-seung" },
-  { id = "beast/yong-jun-hyung" },
-  { id = "beast/yang-yo-seob" },
-  { id = "beast/lee-ki-kwang" },
-  { id = "beast/son-dong-woon" },
+  { artist_id = "beast/yoon-doo-joon" },
+  { artist_id = "beast/jang-hyun-seung" },
+  { artist_id = "beast/yong-jun-hyung" },
+  { artist_id = "beast/yang-yo-seob" },
+  { artist_id = "beast/lee-ki-kwang" },
+  { artist_id = "beast/son-dong-woon" },
 ]

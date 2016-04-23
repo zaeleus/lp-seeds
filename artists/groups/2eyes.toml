@@ -7,14 +7,14 @@ names = [
   { name = "2EYES", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ id = "sidushq" }]
+labels = [{ label_id = "sidushq" }]
 
 members = [
-  { id = "2eyes/hyang-sook" },
-  { id = "2eyes/yeon-jun" },
-  { id = "2eyes/da-eun" },
-  { id = "2eyes/hye-rin" },
-  { id = "2eyes/da-som" },
+  { artist_id = "2eyes/hyang-sook" },
+  { artist_id = "2eyes/yeon-jun" },
+  { artist_id = "2eyes/da-eun" },
+  { artist_id = "2eyes/hye-rin" },
+  { artist_id = "2eyes/da-som" },
 ]
 
 urls = [

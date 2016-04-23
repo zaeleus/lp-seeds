@@ -8,12 +8,12 @@ names = [
 ]
 
 members = [
-  { id = "fiestar/jei" },
-  { id = "fiestar/cao-lu" },
-  { id = "fiestar/linzy" },
-  { id = "fiestar/hyemi" },
-  { id = "fiestar/yezi" },
-  { id = "fiestar/cheska", ended_on = "2014-03-20" },
+  { artist_id = "fiestar/jei" },
+  { artist_id = "fiestar/cao-lu" },
+  { artist_id = "fiestar/linzy" },
+  { artist_id = "fiestar/hyemi" },
+  { artist_id = "fiestar/yezi" },
+  { artist_id = "fiestar/cheska", ended_on = "2014-03-20" },
 ]
 
 urls = [

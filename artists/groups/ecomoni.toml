@@ -9,6 +9,6 @@ names = [
 ]
 
 members = [
-  { id = "morning-musume/ishikawa-rika" },
-  { id = "morning-musume/michishige-sayumi" },
+  { artist_id = "morning-musume/ishikawa-rika" },
+  { artist_id = "morning-musume/michishige-sayumi" },
 ]

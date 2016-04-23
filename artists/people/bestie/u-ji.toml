@@ -9,7 +9,7 @@ names = [
   { name = "Jung Yoo Ji", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "ynb-entertainment" }]
+labels = [{ label_id = "ynb-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/bestie_UJI" },

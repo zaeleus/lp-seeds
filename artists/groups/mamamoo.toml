@@ -8,8 +8,8 @@ names = [
 ]
 
 members = [
-  { id = "mamamoo/solar" },
-  { id = "mamamoo/moonbyul" },
-  { id = "mamamoo/wheein" },
-  { id = "mamamoo/hwasa" },
+  { artist_id = "mamamoo/solar" },
+  { artist_id = "mamamoo/moonbyul" },
+  { artist_id = "mamamoo/wheein" },
+  { artist_id = "mamamoo/hwasa" },
 ]

@@ -8,10 +8,10 @@ names = [
   { name = "Nochiura Natsumi", locale = "ja-Latn", default = true },
 ]
 
-labels = [{ id = "hachama" }]
+labels = [{ label_id = "hachama" }]
 
 members = [
-  { id = "morning-musume/abe-natsumi" },
-  { id = "matsuura-aya" },
-  { id = "morning-musume/goto-maki" },
+  { artist_id = "morning-musume/abe-natsumi" },
+  { artist_id = "matsuura-aya" },
+  { artist_id = "morning-musume/goto-maki" },
 ]

@@ -8,10 +8,10 @@ names = [
 ]
 
 members = [
-  { id = "sistar/hyo-rin" },
-  { id = "sistar/bora" },
-  { id = "sistar/soyou" },
-  { id = "sistar/da-som" },
+  { artist_id = "sistar/hyo-rin" },
+  { artist_id = "sistar/bora" },
+  { artist_id = "sistar/soyou" },
+  { artist_id = "sistar/da-som" },
 ]
 
 urls = [

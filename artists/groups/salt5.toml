@@ -8,9 +8,9 @@ names = [
 ]
 
 members = [
-  { id = "morning-musume/abe-natsumi" },
-  { id = "morning-musume/kago-ai" },
-  { id = "morning-musume/ogawa-makoto" },
-  { id = "maeda-yuki" },
-  { id = "matsuura-aya" },
+  { artist_id = "morning-musume/abe-natsumi" },
+  { artist_id = "morning-musume/kago-ai" },
+  { artist_id = "morning-musume/ogawa-makoto" },
+  { artist_id = "maeda-yuki" },
+  { artist_id = "matsuura-aya" },
 ]

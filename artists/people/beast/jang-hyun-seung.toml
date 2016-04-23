@@ -7,7 +7,7 @@ names = [
   { name = "Jang Hyun Seung", locale = "ko-Latn", kind = "real", default = true },
 ]
 
-labels = [{ id = "cube-entertainment" }]
+labels = [{ label_id = "cube-entertainment" }]
 
 [metadata]
 blood_type = "B"

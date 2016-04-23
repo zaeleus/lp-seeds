@@ -9,7 +9,7 @@ names = [
   { name = "Choi Jun Hee", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "fnc-entertainment" }]
+labels = [{ label_id = "fnc-entertainment" }]
 
 urls = [
   { url = "http://www.fncent.com/JUNIEL/b/introduce/1302" },

@@ -7,14 +7,14 @@ names = [
   { name = "THE ARK", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ id = "music-k-entertainment" }]
+labels = [{ label_id = "music-k-entertainment" }]
 
 members = [
-  { id = "the-ark/halla" },
-  { id = "the-ark/jane" },
-  { id = "the-ark/minju" },
-  { id = "the-ark/yujin" },
-  { id = "the-ark/yuna-kim" },
+  { artist_id = "the-ark/halla" },
+  { artist_id = "the-ark/jane" },
+  { artist_id = "the-ark/minju" },
+  { artist_id = "the-ark/yujin" },
+  { artist_id = "the-ark/yuna-kim" },
 ]
 
 urls = [

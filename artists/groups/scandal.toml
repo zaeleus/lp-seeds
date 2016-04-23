@@ -7,8 +7,8 @@ names = [
 ]
 
 members = [
-  { id = "scandal/haruna" },
-  { id = "scandal/mami" },
-  { id = "scandal/tomomi" },
-  { id = "scandal/rina" },
+  { artist_id = "scandal/haruna" },
+  { artist_id = "scandal/mami" },
+  { artist_id = "scandal/tomomi" },
+  { artist_id = "scandal/rina" },
 ]

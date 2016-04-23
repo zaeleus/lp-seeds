@@ -7,7 +7,7 @@ names = [
   { name = "Yoon Doo Joon", locale = "ko-Latn", kind = "real", default = true },
 ]
 
-labels = [{ id = "cube-entertainment" }]
+labels = [{ label_id = "cube-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/BeeeestDJ" }

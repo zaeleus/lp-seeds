@@ -7,7 +7,7 @@ names = [
 ]
 
 members = [
-  { id = "berryz-koubou/tsugunaga-momoko" },
-  { id = "berryz-koubou/natsuyaki-miyabi" },
-  { id = "c-ute/suzuki-airi" },
+  { artist_id = "berryz-koubou/tsugunaga-momoko" },
+  { artist_id = "berryz-koubou/natsuyaki-miyabi" },
+  { artist_id = "c-ute/suzuki-airi" },
 ]

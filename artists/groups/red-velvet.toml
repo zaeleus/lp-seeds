@@ -7,12 +7,12 @@ names = [
   { name = "Red Velvet", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ id = "sm-entertainment" }]
+labels = [{ label_id = "sm-entertainment" }]
 
 members = [
-  { id = "red-velvet/irene" },
-  { id = "red-velvet/seul-gi" },
-  { id = "red-velvet/wendy" },
-  { id = "red-velvet/joy" },
-  { id = "red-velvet/yeri", started_on = "2015-03-11" },
+  { artist_id = "red-velvet/irene" },
+  { artist_id = "red-velvet/seul-gi" },
+  { artist_id = "red-velvet/wendy" },
+  { artist_id = "red-velvet/joy" },
+  { artist_id = "red-velvet/yeri", started_on = "2015-03-11" },
 ]

@@ -9,7 +9,7 @@ names = [
   { name = "Lee Hyo Eun", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "the-entertainment-pascal" }]
+labels = [{ label_id = "the-entertainment-pascal" }]
 
 [metadata]
 height = 170

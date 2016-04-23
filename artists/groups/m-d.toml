@@ -8,8 +8,8 @@ names = [
 ]
 
 members = [
-  { id = "super-junior/heechul" },
-  { id = "trax/jung-mo" },
+  { artist_id = "super-junior/heechul" },
+  { artist_id = "trax/jung-mo" },
 ]
 
 urls = [

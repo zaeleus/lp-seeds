@@ -12,15 +12,15 @@ names = [
 ]
 
 members = [
-  { id = "girls-generation/taeyeon" },
-  { id = "girls-generation/sunny" },
-  { id = "girls-generation/tiffany" },
-  { id = "girls-generation/hyoyeon" },
-  { id = "girls-generation/yuri" },
-  { id = "girls-generation/sooyoung" },
-  { id = "girls-generation/yoona" },
-  { id = "girls-generation/seo-hyun" },
-  { id = "girls-generation/jessica", ended_on = "2014-09" },
+  { artist_id = "girls-generation/taeyeon" },
+  { artist_id = "girls-generation/sunny" },
+  { artist_id = "girls-generation/tiffany" },
+  { artist_id = "girls-generation/hyoyeon" },
+  { artist_id = "girls-generation/yuri" },
+  { artist_id = "girls-generation/sooyoung" },
+  { artist_id = "girls-generation/yoona" },
+  { artist_id = "girls-generation/seo-hyun" },
+  { artist_id = "girls-generation/jessica", ended_on = "2014-09" },
 ]
 
 urls = [

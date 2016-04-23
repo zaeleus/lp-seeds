@@ -8,16 +8,16 @@ names = [
   { name = "レインボー", locale = "ja" },
 ]
 
-labels = [{ id = "dsp-media" }]
+labels = [{ label_id = "dsp-media" }]
 
 members = [
-  { id = "rainbow/jae-kyung" },
-  { id = "rainbow/woo-ri" },
-  { id = "rainbow/seung-ah" },
-  { id = "rainbow/no-eul" },
-  { id = "rainbow/yoon-hye" },
-  { id = "rainbow/ji-sook" },
-  { id = "rainbow/hyun-young" },
+  { artist_id = "rainbow/jae-kyung" },
+  { artist_id = "rainbow/woo-ri" },
+  { artist_id = "rainbow/seung-ah" },
+  { artist_id = "rainbow/no-eul" },
+  { artist_id = "rainbow/yoon-hye" },
+  { artist_id = "rainbow/ji-sook" },
+  { artist_id = "rainbow/hyun-young" },
 ]
 
 urls = [

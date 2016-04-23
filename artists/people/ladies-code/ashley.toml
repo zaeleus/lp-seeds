@@ -9,4 +9,4 @@ names = [
   { name = "Choi Bi Na", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "polaris-entertainment" }]
+labels = [{ label_id = "polaris-entertainment" }]

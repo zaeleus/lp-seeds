@@ -7,12 +7,12 @@ names = [
   { name = "LADIES' CODE", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ id = "polaris-entertainment" }]
+labels = [{ label_id = "polaris-entertainment" }]
 
 members = [
-  { id = "ladies-code/ashley" },
-  { id = "ladies-code/eunb", ended_on = "2014-09-03" },
-  { id = "ladies-code/rise", ended_on = "2014-09-07" },
-  { id = "ladies-code/so-jung" },
-  { id = "ladies-code/zuny" },
+  { artist_id = "ladies-code/ashley" },
+  { artist_id = "ladies-code/eunb", ended_on = "2014-09-03" },
+  { artist_id = "ladies-code/rise", ended_on = "2014-09-07" },
+  { artist_id = "ladies-code/so-jung" },
+  { artist_id = "ladies-code/zuny" },
 ]

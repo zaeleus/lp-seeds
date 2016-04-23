@@ -8,9 +8,9 @@ names = [
 ]
 
 members = [
-  { id = "lucky-j/j-kyun" },
-  { id = "lucky-j/jessi" },
-  { id = "lucky-j/j-yo" },
+  { artist_id = "lucky-j/j-kyun" },
+  { artist_id = "lucky-j/jessi" },
+  { artist_id = "lucky-j/j-yo" },
 ]
 
 urls = [

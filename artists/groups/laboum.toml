@@ -8,12 +8,12 @@ names = [
 ]
 
 members = [
-  { id = "laboum/hae-in" },
-  { id = "laboum/sol-bin" },
-  { id = "laboum/yul-hee" },
-  { id = "laboum/so-yeon" },
-  { id = "laboum/zn" },
-  { id = "laboum/yu-jeong" },
+  { artist_id = "laboum/hae-in" },
+  { artist_id = "laboum/sol-bin" },
+  { artist_id = "laboum/yul-hee" },
+  { artist_id = "laboum/so-yeon" },
+  { artist_id = "laboum/zn" },
+  { artist_id = "laboum/yu-jeong" },
 ]
 
 urls = [

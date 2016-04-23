@@ -8,10 +8,10 @@ names = [
 ]
 
 members = [
-  { id = "morning-musume/tanaka-reina" },
-  { id = "lovendor/okada-marina" },
-  { id = "lovendor/uozumi-yuki" },
-  { id = "lovendor/miyazawa-marin" },
+  { artist_id = "morning-musume/tanaka-reina" },
+  { artist_id = "lovendor/okada-marina" },
+  { artist_id = "lovendor/uozumi-yuki" },
+  { artist_id = "lovendor/miyazawa-marin" },
 ]
 
 urls = [

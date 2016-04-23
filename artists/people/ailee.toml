@@ -10,7 +10,7 @@ names = [
   { name = "Amy Lee", locale = "en", kind = "real" },
 ]
 
-labels = [{ id = "ymc-entertainment" }]
+labels = [{ label_id = "ymc-entertainment" }]
 
 urls = [
   { url = "http://www.ymcent.com/YMC/artist_ailee.php" },

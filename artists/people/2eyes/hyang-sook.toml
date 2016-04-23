@@ -9,7 +9,7 @@ names = [
   { name = "Lee Hyang Sook", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "sidushq" }]
+labels = [{ label_id = "sidushq" }]
 
 urls = [
   { url = "https://instagram.com/baby_sook/" },

@@ -11,7 +11,7 @@ names = [
   { name = "Ayaya", locale = "ja-Latn", kind = "nickname" },
 ]
 
-labels = [{ id = "zetima" }]
+labels = [{ label_id = "zetima" }]
 
 urls = [
   { url = "https://en.wikipedia.org/wiki/Aya_Matsuura" },

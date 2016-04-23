@@ -9,7 +9,7 @@ names = [
   { name = "Kim Ji Sook", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "dsp-media" }]
+labels = [{ label_id = "dsp-media" }]
 
 [metadata]
 height = 164

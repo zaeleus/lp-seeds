@@ -8,13 +8,13 @@ names = [
   { name = "トゥエニィワン", locale = "ja" },
 ]
 
-labels = [{ id = "yg-entertainment" }]
+labels = [{ label_id = "yg-entertainment" }]
 
 members = [
-  { id = "2ne1/cl" },
-  { id = "2ne1/bom" },
-  { id = "2ne1/dara" },
-  { id = "2ne1/minzy" },
+  { artist_id = "2ne1/cl" },
+  { artist_id = "2ne1/bom" },
+  { artist_id = "2ne1/dara" },
+  { artist_id = "2ne1/minzy" },
 ]
 
 urls = [

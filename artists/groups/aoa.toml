@@ -9,19 +9,19 @@ names = [
 ]
 
 labels = [
-  { id = "fnc-entertainment" },
-  { id = "universal-music-japan" },
+  { label_id = "fnc-entertainment" },
+  { label_id = "universal-music-japan" },
 ]
 
 members = [
-  { id = "aoa/chanmi" },
-  { id = "aoa/choa" },
-  { id = "aoa/hyejeong" },
-  { id = "aoa/jimin" },
-  { id = "aoa/mina" },
-  { id = "aoa/seolhyun" },
-  { id = "aoa/youkyoung" },
-  { id = "aoa/yuna" },
+  { artist_id = "aoa/chanmi" },
+  { artist_id = "aoa/choa" },
+  { artist_id = "aoa/hyejeong" },
+  { artist_id = "aoa/jimin" },
+  { artist_id = "aoa/mina" },
+  { artist_id = "aoa/seolhyun" },
+  { artist_id = "aoa/youkyoung" },
+  { artist_id = "aoa/yuna" },
 ]
 
 urls = [

@@ -9,7 +9,7 @@ names = [
   { name = "Kim So Jung", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "source-music-entertainment" }]
+labels = [{ label_id = "source-music-entertainment" }]
 
 [metadata]
 height = 172

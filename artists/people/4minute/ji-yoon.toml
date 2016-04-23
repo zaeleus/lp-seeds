@@ -9,7 +9,7 @@ names = [
   { name = "Jeon Ji Yoon", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "cube-entertainment" }]
+labels = [{ label_id = "cube-entertainment" }]
 
 urls = [
   { url = "https://www.instagram.com/jenyerjiyoon/" },

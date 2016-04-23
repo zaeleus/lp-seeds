@@ -9,7 +9,7 @@ names = [
   { name = "Jung Ye Rin", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "source-music-entertainment" }]
+labels = [{ label_id = "source-music-entertainment" }]
 
 [metadata]
 height = 167

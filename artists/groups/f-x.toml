@@ -8,11 +8,11 @@ names = [
 ]
 
 members = [
-  { id = "f-x/victoria" },
-  { id = "f-x/amber" },
-  { id = "f-x/luna" },
-  { id = "f-x/krystal" },
-  { id = "f-x/sulli", ended_on = "2015-08-07" },
+  { artist_id = "f-x/victoria" },
+  { artist_id = "f-x/amber" },
+  { artist_id = "f-x/luna" },
+  { artist_id = "f-x/krystal" },
+  { artist_id = "f-x/sulli", ended_on = "2015-08-07" },
 ]
 
 urls = [

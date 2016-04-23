@@ -9,7 +9,7 @@ names = [
   { name = "Jung Eun Ji", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "a-cube-entertainment" }]
+labels = [{ label_id = "a-cube-entertainment" }]
 
 [metadata]
 weight = 46

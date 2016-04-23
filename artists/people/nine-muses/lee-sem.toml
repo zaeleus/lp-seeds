@@ -9,7 +9,7 @@ names = [
   { name = "Lee Joo Hyun", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "star-empire-entertainment" }]
+labels = [{ label_id = "star-empire-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/leesemonni" },

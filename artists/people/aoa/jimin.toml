@@ -11,7 +11,7 @@ names = [
   { name = "Shēng Zhī Mǐn", locale = "zh-Latn" },
 ]
 
-labels = [{ id = "fnc-entertainment" }]
+labels = [{ label_id = "fnc-entertainment" }]
 
 urls = [
   { url = "https://instagram.com/jiminbaby_18/" },

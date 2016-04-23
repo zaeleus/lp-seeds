@@ -9,7 +9,7 @@ names = [
   { name = "Lee Hye Min", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "star-empire-entertainment" }]
+labels = [{ label_id = "star-empire-entertainment" }]
 
 urls = [
   { url = "https://www.instagram.com/erine0503/" },

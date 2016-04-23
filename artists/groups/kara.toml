@@ -9,13 +9,13 @@ names = [
 ]
 
 members = [
-  { id = "kara/sung-hee", ended_on = "2008" },
-  { id = "kara/nicole", ended_on = "2014" },
-  { id = "kara/gyuri" },
-  { id = "kara/seung-yeon" },
-  { id = "kara/ji-young", started_on = "2008", ended_on = "2014" },
-  { id = "kara/hara", started_on = "2008" },
-  { id = "kara/young-ji", started_on = "2014" },
+  { artist_id = "kara/sung-hee", ended_on = "2008" },
+  { artist_id = "kara/nicole", ended_on = "2014" },
+  { artist_id = "kara/gyuri" },
+  { artist_id = "kara/seung-yeon" },
+  { artist_id = "kara/ji-young", started_on = "2008", ended_on = "2014" },
+  { artist_id = "kara/hara", started_on = "2008" },
+  { artist_id = "kara/young-ji", started_on = "2014" },
 ]
 
 urls = [

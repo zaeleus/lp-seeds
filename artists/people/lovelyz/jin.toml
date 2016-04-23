@@ -9,7 +9,7 @@ names = [
   { name = "Park Myung Eun", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "woollim-entertainment" }]
+labels = [{ label_id = "woollim-entertainment" }]
 
 [metadata]
 blood_type = "B"

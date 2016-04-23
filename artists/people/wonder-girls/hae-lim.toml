@@ -11,7 +11,7 @@ names = [
   { name = "Lim", locale = "en", kind = "stage" },
 ]
 
-labels = [{ id = "jyp-entertainment" }]
+labels = [{ label_id = "jyp-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/wg_lim" }

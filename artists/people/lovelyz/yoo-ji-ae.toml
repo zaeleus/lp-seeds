@@ -7,7 +7,7 @@ names = [
   { name = "Yoo Ji Ae", locale = "ko-Latn", kind = "real", default = true },
 ]
 
-labels = [{ id = "woollim-entertainment" }]
+labels = [{ label_id = "woollim-entertainment" }]
 
 [metadata]
 blood_type = "A"

@@ -8,10 +8,10 @@ names = [
 ]
 
 members = [
-  { id = "brown-eyed-girls/jea" },
-  { id = "brown-eyed-girls/miryo" },
-  { id = "brown-eyed-girls/narsha" },
-  { id = "brown-eyed-girls/gain" },
+  { artist_id = "brown-eyed-girls/jea" },
+  { artist_id = "brown-eyed-girls/miryo" },
+  { artist_id = "brown-eyed-girls/narsha" },
+  { artist_id = "brown-eyed-girls/gain" },
 ]
 
 urls = [

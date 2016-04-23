@@ -9,7 +9,7 @@ names = [
   { name = "Park Soo Young", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "sm-entertainment" }]
+labels = [{ label_id = "sm-entertainment" }]
 
 [metadata]
 height = 163

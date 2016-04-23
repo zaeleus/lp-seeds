@@ -9,7 +9,7 @@ names = [
   { name = "Rana", locale = "ko-Latn", kind = "stage" },
 ]
 
-labels = [{ id = "star-empire-entertainment" }]
+labels = [{ label_id = "star-empire-entertainment" }]
 
 [metadata]
 blood_type = "A"

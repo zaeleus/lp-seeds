@@ -9,7 +9,7 @@ names = [
   { name = "Manoeri", locale = "ja-Latn", kind = "nickname" },
 ]
 
-labels = [{ id = "hachama" }]
+labels = [{ label_id = "hachama" }]
 
 urls = [
   { url = "https://en.wikipedia.org/wiki/Erina_Mano" },

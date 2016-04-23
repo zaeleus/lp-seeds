@@ -7,9 +7,9 @@ names = [
   { name = "Honey Dew", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ id = "top-class-entertainment" }]
+labels = [{ label_id = "top-class-entertainment" }]
 
 members = [
-  { id = "stellar/lee-seul" },
-  { id = "stellar/joa" },
+  { artist_id = "stellar/lee-seul" },
+  { artist_id = "stellar/joa" },
 ]

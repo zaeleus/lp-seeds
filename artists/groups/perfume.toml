@@ -9,10 +9,10 @@ names = [
 ]
 
 members = [
-  { id = "perfume/nocchi", joined_on = "2001" },
-  { id = "perfume/kashiyuka" },
-  { id = "perfume/a-chan" },
-  { id = "perfume/kawayuka", ended_on = "2001" },
+  { artist_id = "perfume/nocchi", joined_on = "2001" },
+  { artist_id = "perfume/kashiyuka" },
+  { artist_id = "perfume/a-chan" },
+  { artist_id = "perfume/kawayuka", ended_on = "2001" },
 ]
 
 urls = [

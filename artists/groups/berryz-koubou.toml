@@ -9,13 +9,13 @@ names = [
 ]
 
 members = [
-  { id = "berryz-koubou/shimizu-saki" },
-  { id = "berryz-koubou/tsugunaga-momoko" },
-  { id = "berryz-koubou/tokunaga-chinami" },
-  { id = "berryz-koubou/sudo-maasa" },
-  { id = "berryz-koubou/natsuyaki-miyabi" },
-  { id = "berryz-koubou/kumai-yurina" },
-  { id = "berryz-koubou/sugaya-risako" },
+  { artist_id = "berryz-koubou/shimizu-saki" },
+  { artist_id = "berryz-koubou/tsugunaga-momoko" },
+  { artist_id = "berryz-koubou/tokunaga-chinami" },
+  { artist_id = "berryz-koubou/sudo-maasa" },
+  { artist_id = "berryz-koubou/natsuyaki-miyabi" },
+  { artist_id = "berryz-koubou/kumai-yurina" },
+  { artist_id = "berryz-koubou/sugaya-risako" },
 
-  { id = "berryz-koubou/ishimura-maiha", ended_on = "2005-10-02" },
+  { artist_id = "berryz-koubou/ishimura-maiha", ended_on = "2005-10-02" },
 ]

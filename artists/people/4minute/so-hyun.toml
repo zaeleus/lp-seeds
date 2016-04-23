@@ -9,7 +9,7 @@ names = [
   { name = "Kwon So Hyun", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "cube-entertainment" }]
+labels = [{ label_id = "cube-entertainment" }]
 
 urls = [
   { url = "https://instagram.com/kkwonsso_4m/" },

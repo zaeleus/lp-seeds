@@ -6,9 +6,9 @@ names = [
   { name = "APink BnN", locale = "ko", original = true, default = true },
 ]
 
-labels = [{ id = "a-cube-entertainment" }]
+labels = [{ label_id = "a-cube-entertainment" }]
 
 members = [
-  { id = "apink/bo-mi" },
-  { id = "apink/nam-joo" },
+  { artist_id = "apink/bo-mi" },
+  { artist_id = "apink/nam-joo" },
 ]

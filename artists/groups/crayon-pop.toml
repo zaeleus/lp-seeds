@@ -7,14 +7,14 @@ names = [
   { name = "Crayon Pop", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ id = "chrome-entertainment" }]
+labels = [{ label_id = "chrome-entertainment" }]
 
 members = [
-  { id = "crayon-pop/cho-a" },
-  { id = "crayon-pop/ellin" },
-  { id = "crayon-pop/geum-mi" },
-  { id = "crayon-pop/so-yul" },
-  { id = "crayon-pop/way" },
+  { artist_id = "crayon-pop/cho-a" },
+  { artist_id = "crayon-pop/ellin" },
+  { artist_id = "crayon-pop/geum-mi" },
+  { artist_id = "crayon-pop/so-yul" },
+  { artist_id = "crayon-pop/way" },
 ]
 
 urls = [

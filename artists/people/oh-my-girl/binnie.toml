@@ -7,7 +7,7 @@ names = [
   { name = "Binnie", locale = "ko-Latn", kind = "stage", default = true },
 ]
 
-labels = [{ id = "wm-entertainment" }]
+labels = [{ label_id = "wm-entertainment" }]
 
 [metadata]
 blood_type = "O"

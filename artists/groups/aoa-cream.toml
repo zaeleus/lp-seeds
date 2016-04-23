@@ -6,10 +6,10 @@ names = [
   { name = "AOA Cream", locale = "ko", default = true, original = true },
 ]
 
-labels = [{ id = "fnc-entertainment" }]
+labels = [{ label_id = "fnc-entertainment" }]
 
 members = [
-  { id = "aoa/chanmi" },
-  { id = "aoa/hyejeong" },
-  { id = "aoa/yuna" },
+  { artist_id = "aoa/chanmi" },
+  { artist_id = "aoa/hyejeong" },
+  { artist_id = "aoa/yuna" },
 ]

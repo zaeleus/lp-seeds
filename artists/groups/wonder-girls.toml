@@ -8,16 +8,16 @@ names = [
   { name = "ワンダーガールズ", locale = "ja" },
 ]
 
-labels = [{ id = "jyp-entertainment" }]
+labels = [{ label_id = "jyp-entertainment" }]
 
 members = [
-  { id = "wonder-girls/hae-lim", started_on = "2010-01-22" },
-  { id = "wonder-girls/so-hee", ended_on = "2013-12-21" },
-  { id = "wonder-girls/sun-mi", ended_on = "2010-01-22" },
-  { id = "wonder-girls/sun-ye" },
-  { id = "wonder-girls/ye-eun" },
-  { id = "wonder-girls/yubin", started_on = "2007-09-07" },
-  { id = "4minute/hyun-a", ended_on = "2007-07-31" }
+  { artist_id = "wonder-girls/hae-lim", started_on = "2010-01-22" },
+  { artist_id = "wonder-girls/so-hee", ended_on = "2013-12-21" },
+  { artist_id = "wonder-girls/sun-mi", ended_on = "2010-01-22" },
+  { artist_id = "wonder-girls/sun-ye" },
+  { artist_id = "wonder-girls/ye-eun" },
+  { artist_id = "wonder-girls/yubin", started_on = "2007-09-07" },
+  { artist_id = "4minute/hyun-a", ended_on = "2007-07-31" }
 ]
 
 urls = [

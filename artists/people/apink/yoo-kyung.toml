@@ -9,7 +9,7 @@ names = [
   { name = "Hong Yoo Kyung", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "a-cube-entertainment" }]
+labels = [{ label_id = "a-cube-entertainment" }]
 
 [metadata]
 weight = 51

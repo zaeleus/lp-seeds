@@ -9,8 +9,8 @@ names = [
 ]
 
 members = [
-  { id = "akdong-musician/lee-chan-hyuk" },
-  { id = "akdong-musician/lee-soo-hyun" },
+  { artist_id = "akdong-musician/lee-chan-hyuk" },
+  { artist_id = "akdong-musician/lee-soo-hyun" },
 ]
 
 urls = [

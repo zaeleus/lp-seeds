@@ -8,7 +8,7 @@ names = [
 ]
 
 members = [
-  { id = "after-school/raina" },
-  { id = "after-school/nana" },
-  { id = "after-school/lizzy" },
+  { artist_id = "after-school/raina" },
+  { artist_id = "after-school/nana" },
+  { artist_id = "after-school/lizzy" },
 ]

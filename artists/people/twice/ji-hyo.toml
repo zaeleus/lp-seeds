@@ -9,7 +9,7 @@ names = [
   { name = "Park Ji Soo", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "jyp-entertainment" }]
+labels = [{ label_id = "jyp-entertainment" }]
 
 [metadata]
 blood_type = "O"

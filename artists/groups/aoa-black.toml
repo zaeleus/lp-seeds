@@ -6,12 +6,12 @@ names = [
   { name = "AOA Black", locale = "ko", default = true, original = true },
 ]
 
-labels = [{ id = "fnc-entertainment" }]
+labels = [{ label_id = "fnc-entertainment" }]
 
 members = [
-  { id = "aoa/choa" },
-  { id = "aoa/jimin" },
-  { id = "aoa/mina" },
-  { id = "aoa/youkyoung" },
-  { id = "aoa/yuna" },
+  { artist_id = "aoa/choa" },
+  { artist_id = "aoa/jimin" },
+  { artist_id = "aoa/mina" },
+  { artist_id = "aoa/youkyoung" },
+  { artist_id = "aoa/yuna" },
 ]

@@ -8,9 +8,9 @@ names = [
 ]
 
 members = [
-  { id = "epik-high/tablo" },
-  { id = "epik-high/mithra-jin" },
-  { id = "epik-high/dj-tukutz" },
+  { artist_id = "epik-high/tablo" },
+  { artist_id = "epik-high/mithra-jin" },
+  { artist_id = "epik-high/dj-tukutz" },
 ]
 
 urls = [

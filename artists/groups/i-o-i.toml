@@ -14,15 +14,15 @@ urls = [
 ]
 
 members = [
-  { id = "i-o-i/choi-yoo-jung" },
-  { id = "i-o-i/jeon-so-mi" },
-  { id = "i-o-i/jung-chae-yeon" },
-  { id = "i-o-i/kang-mi-na" },
-  { id = "i-o-i/kim-chung-ha" },
-  { id = "i-o-i/kim-do-yeon" },
-  { id = "i-o-i/kim-se-jeong" },
-  { id = "i-o-i/kim-so-hye" },
-  { id = "i-o-i/lim-na-young" },
-  { id = "i-o-i/yu-yeun-jung" },
-  { id = "i-o-i/zhou-jieqiong" },
+  { artist_id = "i-o-i/choi-yoo-jung" },
+  { artist_id = "i-o-i/jeon-so-mi" },
+  { artist_id = "i-o-i/jung-chae-yeon" },
+  { artist_id = "i-o-i/kang-mi-na" },
+  { artist_id = "i-o-i/kim-chung-ha" },
+  { artist_id = "i-o-i/kim-do-yeon" },
+  { artist_id = "i-o-i/kim-se-jeong" },
+  { artist_id = "i-o-i/kim-so-hye" },
+  { artist_id = "i-o-i/lim-na-young" },
+  { artist_id = "i-o-i/yu-yeun-jung" },
+  { artist_id = "i-o-i/zhou-jieqiong" },
 ]

@@ -7,17 +7,17 @@ names = [
   { name = "Lovelyz", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ id = "woollim-entertainment" }]
+labels = [{ label_id = "woollim-entertainment" }]
 
 members = [
-  { id = "lovelyz/baby-soul" },
-  { id = "lovelyz/yoo-ji-ae" },
-  { id = "lovelyz/seo-ji-su" },
-  { id = "lovelyz/lee-mi-ju" },
-  { id = "lovelyz/kim-ji-yeon" },
-  { id = "lovelyz/jin" },
-  { id = "lovelyz/ryu-su-jeong" },
-  { id = "lovelyz/jeong-ye-in" },
+  { artist_id = "lovelyz/baby-soul" },
+  { artist_id = "lovelyz/yoo-ji-ae" },
+  { artist_id = "lovelyz/seo-ji-su" },
+  { artist_id = "lovelyz/lee-mi-ju" },
+  { artist_id = "lovelyz/kim-ji-yeon" },
+  { artist_id = "lovelyz/jin" },
+  { artist_id = "lovelyz/ryu-su-jeong" },
+  { artist_id = "lovelyz/jeong-ye-in" },
 ]
 
 urls = [

@@ -7,7 +7,7 @@ names = [
   { name = "Hyejeong", locale = "ko-Latn", kind = "stage", default = true },
 ]
 
-labels = [{ id = "fnc-entertainment" }]
+labels = [{ label_id = "fnc-entertainment" }]
 
 [metadata]
 blood_type = "A"

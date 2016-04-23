@@ -8,6 +8,6 @@ names = [
 ]
 
 members = [
-  { id = "crayon-pop/cho-a" },
-  { id = "crayon-pop/way" },
+  { artist_id = "crayon-pop/cho-a" },
+  { artist_id = "crayon-pop/way" },
 ]

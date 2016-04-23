@@ -9,7 +9,7 @@ names = [
   { name = "Park Chan Mi", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "fnc-entertainment" }]
+labels = [{ label_id = "fnc-entertainment" }]
 
 [metadata]
 blood_type = "AB"

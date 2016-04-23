@@ -9,7 +9,7 @@ names = [
   { name = "Lee Da Som", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "sidushq" }]
+labels = [{ label_id = "sidushq" }]
 
 urls = [
   { url = "https://instagram.com/chu_dasom/" },

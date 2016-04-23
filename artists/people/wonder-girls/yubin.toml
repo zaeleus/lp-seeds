@@ -9,7 +9,7 @@ names = [
   { name = "Kim Yubin", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "jyp-entertainment" }]
+labels = [{ label_id = "jyp-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/wgyubin" }

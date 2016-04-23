@@ -8,6 +8,6 @@ names = [
 ]
 
 members = [
-  { id = "exid/hani" },
-  { id = "exid/solji" },
+  { artist_id = "exid/hani" },
+  { artist_id = "exid/solji" },
 ]

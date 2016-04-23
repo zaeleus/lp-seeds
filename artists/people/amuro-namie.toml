@@ -7,7 +7,7 @@ names = [
   { name = "Amuro Namie", locale = "ko-Latn", kind = "real", default = true },
 ]
 
-labels = [{ id = "avex-trax" }]
+labels = [{ label_id = "avex-trax" }]
 
 urls = [
   { url = "http://namieamuro.jp/" },

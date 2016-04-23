@@ -7,7 +7,7 @@ names = [
   { name = "Lee Ki Kwang", locale = "ko-Latn", kind = "real", default = true },
 ]
 
-labels = [{ id = "cube-entertainment" }]
+labels = [{ label_id = "cube-entertainment" }]
 
 urls = [
   { url = "https://instagram.com/gttk0000" },

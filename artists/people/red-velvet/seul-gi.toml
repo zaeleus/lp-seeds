@@ -9,7 +9,7 @@ names = [
   { name = "Kang Seul Gi", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "sm-entertainment" }]
+labels = [{ label_id = "sm-entertainment" }]
 
 [metadata]
 height = 162

@@ -7,13 +7,13 @@ names = [
   { name = "BESTie", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ id = "ynb-entertainment" }]
+labels = [{ label_id = "ynb-entertainment" }]
 
 members = [
-  { id = "bestie/dahye" },
-  { id = "bestie/hae-ryung" },
-  { id = "bestie/hye-yeon" },
-  { id = "bestie/u-ji" },
+  { artist_id = "bestie/dahye" },
+  { artist_id = "bestie/hae-ryung" },
+  { artist_id = "bestie/hye-yeon" },
+  { artist_id = "bestie/u-ji" },
 ]
 
 urls = [

@@ -9,7 +9,7 @@ names = [
   { name = "Jung Yujin", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "music-k-entertainment" }]
+labels = [{ label_id = "music-k-entertainment" }]
 
 [metadata]
 blood_type = "AB"

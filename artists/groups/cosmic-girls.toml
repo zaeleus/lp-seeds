@@ -12,18 +12,18 @@ names = [
 ]
 
 members = [
-  { id = "cosmic-girls/cheng-xiao" },
-  { id = "cosmic-girls/bona" },
-  { id = "cosmic-girls/dayoung" },
-  { id = "cosmic-girls/xuan-yi" },
-  { id = "cosmic-girls/eunseo" },
-  { id = "cosmic-girls/yeoreum" },
-  { id = "cosmic-girls/seol-a" },
-  { id = "cosmic-girls/exy" },
-  { id = "cosmic-girls/soobin" },
-  { id = "cosmic-girls/dawon" },
-  { id = "cosmic-girls/mei-qi" },
-  { id = "cosmic-girls/luda" },
+  { artist_id = "cosmic-girls/cheng-xiao" },
+  { artist_id = "cosmic-girls/bona" },
+  { artist_id = "cosmic-girls/dayoung" },
+  { artist_id = "cosmic-girls/xuan-yi" },
+  { artist_id = "cosmic-girls/eunseo" },
+  { artist_id = "cosmic-girls/yeoreum" },
+  { artist_id = "cosmic-girls/seol-a" },
+  { artist_id = "cosmic-girls/exy" },
+  { artist_id = "cosmic-girls/soobin" },
+  { artist_id = "cosmic-girls/dawon" },
+  { artist_id = "cosmic-girls/mei-qi" },
+  { artist_id = "cosmic-girls/luda" },
 ]
 
 urls = [

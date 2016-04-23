@@ -8,16 +8,16 @@ names = [
 ]
 
 labels = [
-  { id = "yg-entertainment" },
-  { id = "ygex" },
+  { label_id = "yg-entertainment" },
+  { label_id = "ygex" },
 ]
 
 members = [
-  { id = "bigbang/g-dragon" },
-  { id = "bigbang/taeyang" },
-  { id = "bigbang/t-o-p" },
-  { id = "bigbang/daesung" },
-  { id = "bigbang/seungri" },
+  { artist_id = "bigbang/g-dragon" },
+  { artist_id = "bigbang/taeyang" },
+  { artist_id = "bigbang/t-o-p" },
+  { artist_id = "bigbang/daesung" },
+  { artist_id = "bigbang/seungri" },
 ]
 
 urls = [

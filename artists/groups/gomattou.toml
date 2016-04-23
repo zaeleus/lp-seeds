@@ -9,7 +9,7 @@ names = [
 ]
 
 members = [
-  { id = "morning-musume/goto-maki" },
-  { id = "matsuura-aya" },
-  { id = "morning-musume/fujimoto-miki" },
+  { artist_id = "morning-musume/goto-maki" },
+  { artist_id = "matsuura-aya" },
+  { artist_id = "morning-musume/fujimoto-miki" },
 ]

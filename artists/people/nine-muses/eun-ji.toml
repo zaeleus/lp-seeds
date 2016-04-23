@@ -9,7 +9,7 @@ names = [
   { name = "Park Eun Ji", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ id = "star-empire-entertainment" }]
+labels = [{ label_id = "star-empire-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/9m_eunji" },

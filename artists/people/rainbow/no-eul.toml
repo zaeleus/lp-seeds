@@ -7,7 +7,7 @@ names = [
   { name = "No Eul", locale = "ko-Latn", kind = "stage", default = true },
 ]
 
-labels = [{ id = "dsp-media" }]
+labels = [{ label_id = "dsp-media" }]
 
 [metadata]
 height = 164

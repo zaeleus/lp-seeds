@@ -8,12 +8,12 @@ names = [
 ]
 
 members = [
-  { id = "g-friend/sowon" },
-  { id = "g-friend/yerin" },
-  { id = "g-friend/eunha" },
-  { id = "g-friend/yuju" },
-  { id = "g-friend/sinb" },
-  { id = "g-friend/umji" },
+  { artist_id = "g-friend/sowon" },
+  { artist_id = "g-friend/yerin" },
+  { artist_id = "g-friend/eunha" },
+  { artist_id = "g-friend/yuju" },
+  { artist_id = "g-friend/sinb" },
+  { artist_id = "g-friend/umji" },
 ]
 
 urls = [

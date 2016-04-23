@@ -7,17 +7,17 @@ names = [
   { name = "APink", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ id = "a-cube-entertainment" }]
+labels = [{ label_id = "a-cube-entertainment" }]
 
 members = [
-  { id = "apink/cho-rong" },
-  { id = "apink/bo-mi" },
-  { id = "apink/eun-ji" },
-  { id = "apink/na-eun" },
-  { id = "apink/nam-joo" },
-  { id = "apink/ha-young" },
+  { artist_id = "apink/cho-rong" },
+  { artist_id = "apink/bo-mi" },
+  { artist_id = "apink/eun-ji" },
+  { artist_id = "apink/na-eun" },
+  { artist_id = "apink/nam-joo" },
+  { artist_id = "apink/ha-young" },
 
-  { id = "apink/yoo-kyung", ended_on = "2013-04" },
+  { artist_id = "apink/yoo-kyung", ended_on = "2013-04" },
 ]
 
 urls = [

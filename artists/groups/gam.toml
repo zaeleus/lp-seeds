@@ -8,9 +8,9 @@ names = [
   { name = "GAM", locale = "ja-Latn", default = true },
 ]
 
-labels = [{ id = "hachama" }]
+labels = [{ label_id = "hachama" }]
 
 members = [
-  { id = "matsuura-aya" },
-  { id = "morning-musume/fujimoto-miki" },
+  { artist_id = "matsuura-aya" },
+  { artist_id = "morning-musume/fujimoto-miki" },
 ]

@@ -10,9 +10,9 @@ names = [
 ]
 
 labels = [
-  { id = "sm-entertainment" },
-  { id = "avex-trax" },
-  { id = "sm-entertainment-usa" },
+  { label_id = "sm-entertainment" },
+  { label_id = "avex-trax" },
+  { label_id = "sm-entertainment-usa" },
 ]
 
 urls = [
