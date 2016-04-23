@@ -6,3 +6,8 @@ names = [
   { name = "안수민", locale = "ko", kind = "real", original = true },
   { name = "Ahn Soo Min", locale = "ko-Latn", kind = "real", default = true },
 ]
+
+urls = [
+  { url = "https://www.instagram.com/soomz91/?hl=en" },
+  { url = "https://soundcloud.com/soomz1" },
+]
