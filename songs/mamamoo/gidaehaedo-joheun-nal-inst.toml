@@ -1,0 +1,5 @@
+names = [
+  { name = "기대해도 좋은 날 (Inst.)", locale = "ko", original = true },
+  { name = "Gidaehaedo Joheun Nal (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Woo Hoo (Inst.)", locale = "en" },
+]
