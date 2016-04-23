@@ -1,0 +1,10 @@
+names = [
+  { name = "愛をちょうだい feat. TAKANORI NISHIKAWA (T.M.Revolution)", locale = "ja", original = true },
+  { name = "Ai wo Choudai feat. TAKANORI NISHIKAWA (T.M.Revolution)", locale = "ja-Latn", default = true },
+  { name = "Give Me the Love feat. TAKANORI NISHIKAWA (T.M.Revolution)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=OCoEQqal6kM", name = "Music Video (Short Version)" },
+  { url = "https://www.youtube.com/watch?v=8gzadsYCB7c", name = "Music Video" },
+]

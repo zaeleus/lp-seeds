@@ -1,0 +1,129 @@
+artist_id = "aoa"
+kind = "single"
+
+names = [
+  { name = "愛をちょうだい feat. TAKANORI NISHIKAWA (T.M.Revolution)", locale = "ja", original = true },
+  { name = "Ai wo Choudai feat. TAKANORI NISHIKAWA (T.M.Revolution)", locale = "ja-Latn", default = true },
+  { name = "Give Me the Love feat. TAKANORI NISHIKAWA (T.M.Revolution)", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "UICV-9166"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition Type A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1172425/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "UICV-9167"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition Type B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1172426/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "UICV-9168"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Type C"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1172427/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "UICV-9169"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1172428/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "UICV-9170"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Seolhyun ver."
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1172430/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "UICV-9171"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Choa ver."
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1172431/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "UICV-9172"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Hyejeong ver."
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1172432/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "UICV-9173"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Chanmi ver."
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1172433/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "UICV-9174"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Yuna ver."
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1172434/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "UICV-9175"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Mina ver."
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1172435/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "UICV-9176"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Jimin ver."
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1172436/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1100033895" },
+  { url = "http://recochoku.jp/album/A1004254672/" },
+  { url = "http://mora.jp/package/43000006/00600406702654/" },
+  { url = "https://open.spotify.com/album/6vZII6fboicE9nQEJthHyH" },
+]

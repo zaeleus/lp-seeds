@@ -1,0 +1,50 @@
+medium_ids = [
+  "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song_id = "aoa/still-falls-the-rain"
+duration = "3:17"
+names = [
+  { name = "Still falls the rain (Japanese ver.)", locale = "jp", original = true, default = true },
+]
+
+[[tracks]]
+position = 3
+song_id = "aoa/girl-s-heart"
+duration = "3:19"
+names = [
+  { name = "Girl's Heart (Japanese ver.)", locale = "jp", original = true, default = true },
+]
+
+[[tracks]]
+position = 4
+song_id = "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution-karaoke-ver"
+duration = "3:45"
+names = [
+  { name = "愛をちょうだい feat. TAKANORI NISHIKAWA (T.M.Revolution) (Karaoke ver.)", locale = "ja", original = true },
+  { name = "Ai wo Choudai feat. TAKANORI NISHIKAWA (T.M.Revolution) (Karaoke Ver.)", locale = "ja-Latn", default = true },
+  { name = "Give Me the Love feat. TAKANORI NISHIKAWA (T.M.Revolution) (Karaoke Ver.)", locale = "en" },
+]
+
+[[tracks]]
+position = 5
+song_id = "aoa/still-falls-the-rain-instrumental"
+duration = "3:17"
+names = [
+  { name = "Still falls the rain (Instrumental)", locale = "jp", original = true, default = true },
+]
+
+[[tracks]]
+position = 6
+song_id = "aoa/girl-s-heart-instrumental"
+duration = "3:19"
+names = [
+  { name = "Girl's Heart (Instrumental)", locale = "jp", original = true, default = true },
+]

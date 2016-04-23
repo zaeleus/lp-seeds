@@ -1,0 +1,5 @@
+names = [
+  { name = "愛をちょうだい feat. TAKANORI NISHIKAWA (T.M.Revolution)〈Karaoke ver.〉", locale = "ja", original = true },
+  { name = "Ai wo Choudai feat. TAKANORI NISHIKAWA (T.M.Revolution) <Karaoke Ver.>", locale = "ja-Latn", default = true },
+  { name = "Give Me the Love feat. TAKANORI NISHIKAWA (T.M.Revolution) <Karaoke Ver.>", locale = "en" },
+]
