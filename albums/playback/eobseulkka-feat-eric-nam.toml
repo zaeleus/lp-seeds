@@ -12,7 +12,7 @@ released_on = "2015-09-07"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
-  { url = "https://itunes.apple.com/album/eobs-eulkka-feat.-elignam/id1036078493" },
+  { url = "https://itunes.apple.com/us/album/id1036078493" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2638056" },
   { url = "http://www.mnet.com/album/492484" },
 ]

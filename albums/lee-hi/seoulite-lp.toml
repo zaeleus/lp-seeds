@@ -17,7 +17,7 @@ country = "KR"
 media = [{ kind = "digital" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=045401039" },
-  { url = "https://itunes.apple.com/us/album/seoulite-ep/id1105343652" },
+  { url = "https://itunes.apple.com/us/album/id1105343652" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2680542" },
   { url = "http://www.mnet.com/album/543699" },
 ]

@@ -10,7 +10,7 @@ released_on = "2016-04-10"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
-  { url = "https://itunes.apple.com/us/album/still-alive-single/id1101087564" },
+  { url = "https://itunes.apple.com/us/album/id1101087564" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2678716" },
   { url = "http://www.mnet.com/album/541465" },
 ]

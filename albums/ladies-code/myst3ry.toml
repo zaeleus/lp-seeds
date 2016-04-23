@@ -10,7 +10,7 @@ released_on = "2016-02-24"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
-  { url = "https://itunes.apple.com/us/album/myst3ry-single/id1087256810" },
+  { url = "https://itunes.apple.com/us/album/id1087256810" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2668810" },
   { url = "http://www.mnet.com/track/5211716" },
   { url = "https://open.spotify.com/album/3NCk1kfK4TbWSAZ7d7qdxB" },

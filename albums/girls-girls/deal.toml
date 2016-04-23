@@ -11,7 +11,7 @@ country = "KR"
 media = [{ kind = "digital" }]
 urls = [
   { url = "https://play.google.com/store/music/album?id=Bllzt4yv2kae7vkny7rg5luvjna" },
-  { url = "https://itunes.apple.com/album/strong-girls-single/id1065711257" },
+  { url = "https://itunes.apple.com/us/album/id1065711257" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2655221" },
   { url = "http://www.mnet.com/album/514704" },
 ]

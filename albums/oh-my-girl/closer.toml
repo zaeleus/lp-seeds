@@ -19,7 +19,7 @@ released_on = "2015-10-08"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
-  { url = "https://itunes.apple.com/us/album/closer-ep/id1047553008" },
+  { url = "https://itunes.apple.com/us/album/id1047553008" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2643506" },
   { url = "http://www.mnet.com/album/500380" },
 ]

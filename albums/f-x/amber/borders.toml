@@ -10,7 +10,7 @@ released_on = "2016-03-25"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
-  { url = "https://itunes.apple.com/us/album/borders-single/id1096008145" },
+  { url = "https://itunes.apple.com/us/album/id1096008145" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2675338" },
   { url = "http://www.mnet.com/album/537874" },
 ]

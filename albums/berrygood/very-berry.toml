@@ -10,7 +10,7 @@ released_on = "2016-04-20"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
-  { url = "https://itunes.apple.com/us/album/very-berry/id1105767583" },
+  { url = "https://itunes.apple.com/us/album/id1105767583" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2680583" },
   { url = "http://www.mnet.com/album/543712" },
   { url = "https://open.spotify.com/album/2W2s55YE3240CYAVCpSg5w" },
