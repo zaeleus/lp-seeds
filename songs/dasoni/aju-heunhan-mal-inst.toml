@@ -1,5 +1,5 @@
 names = [
   { name = "아주 흔한 말 (Inst.)", locale = "ko", original = true },
-  { name = "Aju Heunhan Mal (Inst.)", locale = "ko-Latn" },
-  { name = "Common Words (Inst.)", locale = "en", default = true },
+  { name = "Aju Heunhan Mal (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Common Words (Inst.)", locale = "en" },
 ]
