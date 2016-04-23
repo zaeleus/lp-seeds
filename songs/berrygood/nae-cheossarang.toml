@@ -3,3 +3,10 @@ names = [
   { name = "Nae Cheossarang", locale = "ko-Latn", default = true },
   { name = "My First Love", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=vYy2GMs85Gs", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=gB_3XEGhCSY", name = "Music Video (Kim Bo Ra ver.)" },
+  { url = "https://www.youtube.com/watch?v=MHz-7cUQKNQ", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=qoDNqZAwZpo", name = "Music Video Making" },
+]

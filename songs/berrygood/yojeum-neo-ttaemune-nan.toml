@@ -3,3 +3,14 @@ names = [
   { name = "Yojeum Neo Ttaemune Nan", locale = "ko-Latn", default = true },
   { name = "Because of You", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=dl4qo2YmYKU", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=oe9EHPpBg_0", name = "Teaser (Sehyung ver.)" },
+  { url = "https://www.youtube.com/watch?v=4NLYBmCtoos", name = "Teaser (Gowoon ver.)" },
+  { url = "https://www.youtube.com/watch?v=NTGsQ0DURio", name = "Teaser (Taeha ver.)" },
+  { url = "https://www.youtube.com/watch?v=DDCRsZfi9sA", name = "Teaser (Daye ver.)" },
+  { url = "https://www.youtube.com/watch?v=f8Gb9fCFQHM", name = "Teaser (Seoyul ver.)" },
+  { url = "https://www.youtube.com/watch?v=ccniW5-Frj4", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=9KgSW2gVU6I", name = "Music Video Making" },
+]
