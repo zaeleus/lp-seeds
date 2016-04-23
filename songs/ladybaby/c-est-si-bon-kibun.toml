@@ -1,0 +1,8 @@
+names = [
+  { name = "セシボン・キブン", locale = "ja", original = true },
+  { name = "C'est si bon Kibun", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=yhT2-oX5kzk", name = "Music Video" },
+]

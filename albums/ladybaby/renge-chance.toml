@@ -1,0 +1,29 @@
+artist_id = "ladybaby"
+kind = "single"
+
+names = [
+  { name = "蓮華チャンス!", locale = "ja", original = true },
+  { name = "Renge Chance!", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released_on = "2016-04-13"
+country = "JP"
+catalog_number = "CLSR-0003"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/653371/products/1172186/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-13"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.amazon.com/gp/product/B01CT6Z3VS" },
+  { url = "https://play.google.com/store/music/album?id=Bmyjfyqkiaovrn6hajqr7ih27je" },
+  { url = "https://itunes.apple.com/us/album/id1092102901" },
+  { url = "http://mora.jp/package/43000074/TCJPR0000299656/" },
+  { url = "http://recochoku.jp/album/A1004078667/" },
+  { url = "https://open.spotify.com/album/0GUxKmsovbKlK1KgQ7zxlT" },
+]
