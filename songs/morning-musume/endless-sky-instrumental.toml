@@ -1,3 +1,11 @@
 names = [
   { name = "ENDLESS SKY (Instrumental)", locale = "ja", original = true, default = true },
 ]
+
+artist_credits = [{
+  artist_id = "morning-musume",
+  names = [
+    { name = "モーニング娘。 '15", locale = "ja", original = true },
+    { name = "Morning Musume '15", locale = "ja-Latn", default = true },
+  ],
+}]

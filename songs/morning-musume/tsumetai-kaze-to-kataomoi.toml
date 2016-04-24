@@ -4,9 +4,13 @@ names = [
   { name = "The Cold Wind and Lonely Love", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "morning-musume", name = "Morning Musume '15" },
-]
+artist_credits = [{
+  artist_id = "morning-musume",
+  names = [
+    { name = "モーニング娘。 '15", locale = "ja", original = true },
+    { name = "Morning Musume '15", locale = "ja-Latn", default = true },
+  ],
+}]
 
 urls = [
   { url = "https://www.youtube.com/watch?v=8RX_cXqYQ8Q", name = "Music Video" },

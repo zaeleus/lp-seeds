@@ -6,7 +6,7 @@ artist_credits = [{
   artist_id = "morning-musume",
   names = [
     { name = "モーニング娘。 '15", locale = "ja", original = true },
-    { name = "Morning Musume '15'", locale = "ja-Latn", default = true },
+    { name = "Morning Musume '15", locale = "ja-Latn", default = true },
   ],
 }]
 
