@@ -8,3 +8,9 @@ names = [
   { name = "박낙준", locale = "ko", kind = "real" },
   { name = "Park Nak Jun", locale = "ko-Latn", kind = "real" },
 ]
+
+urls = [
+  { url = "http://bernardpark.jype.com/" },
+  { url = "https://www.facebook.com/BernardParkOfficial" },
+  { url = "https://twitter.com/JYPEBernardPark" },
+]
