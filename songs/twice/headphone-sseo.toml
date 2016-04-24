@@ -1,0 +1,4 @@
+names = [
+  { name = "Headphone 써", locale = "ko", original = true },
+  { name = "Headphone Sseo", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,13 @@
+names = [
+  { name = "CHEER UP", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=aTAjYf4roo4", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=jeC1_F5cauw", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=V2JUcAj4KnY", name = "Teaser 3" },
+  { url = "https://www.youtube.com/watch?v=oUMMX9a2NVE", name = "Teaser 4" },
+  { url = "https://www.youtube.com/watch?v=Id9GlwBk49Y", name = "MV Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=xe9UVM4yfhE", name = "MV Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=c7rCyll5AeY", name = "Music Video" },
+]
