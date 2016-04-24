@@ -14,7 +14,7 @@ members = [
   { artist_id = "2ne1/cl" },
   { artist_id = "2ne1/bom" },
   { artist_id = "2ne1/dara" },
-  { artist_id = "2ne1/minzy" },
+  { artist_id = "2ne1/minzy", ended_on = "2016-05-05" },
 ]
 
 urls = [
