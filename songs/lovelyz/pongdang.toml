@@ -1,4 +1,5 @@
 names = [
   { name = "퐁당", locale = "ko", original = true },
   { name = "Pongdang", locale = "ko-Latn", default = true },
+  { name = "Fondant", locale = "en" },
 ]
