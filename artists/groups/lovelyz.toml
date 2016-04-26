@@ -12,8 +12,8 @@ labels = [{ label_id = "woollim-entertainment" }]
 members = [
   { artist_id = "lovelyz/baby-soul" },
   { artist_id = "lovelyz/yoo-ji-ae" },
-  { artist_id = "lovelyz/seo-ji-su" },
-  { artist_id = "lovelyz/lee-mi-ju" },
+  { artist_id = "lovelyz/seo-ji-soo" },
+  { artist_id = "lovelyz/lee-mi-joo" },
   { artist_id = "lovelyz/kim-ji-yeon" },
   { artist_id = "lovelyz/jin" },
   { artist_id = "lovelyz/ryu-su-jeong" },

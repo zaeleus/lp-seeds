@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "이미주", locale = "ko", kind = "real", original = true },
-  { name = "Lee Mi Ju", locale = "ko-Latn", kind = "real", default = true },
+  { name = "Lee Mi Joo", locale = "ko-Latn", kind = "real", default = true },
 ]
 
 labels = [{ label_id = "woollim-entertainment" }]

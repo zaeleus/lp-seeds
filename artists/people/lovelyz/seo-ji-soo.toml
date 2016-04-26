@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "수지수", locale = "ko", kind = "real", original = true },
-  { name = "Seo Ji Su", locale = "ko-Latn", kind = "real", default = true },
+  { name = "Seo Ji Soo", locale = "ko-Latn", kind = "real", default = true },
 ]
 
 labels = [{ label_id = "woollim-entertainment" }]
