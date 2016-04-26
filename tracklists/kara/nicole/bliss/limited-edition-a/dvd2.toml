@@ -1,0 +1,22 @@
+medium_ids = [
+  "kara/nicole/bliss/limited-edition-a/dvd2",
+]
+
+[[tracks]]
+position = 1
+names = [
+  { name = "HAPPY Music Video", locale = "jp", original = true, default = true },
+]
+
+[[tracks]]
+position = 2
+names = [
+  { name = "Making Film", locale = "jp", original = true, default = true },
+]
+
+[[tracks]]
+position = 3
+names = [
+  { name = "おまけ映像集", locale = "jp", original = true },
+  { name = "Bonus Footage", locale = "en", default = true },
+]

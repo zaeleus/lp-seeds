@@ -1,0 +1,46 @@
+artist_id = "kara/nicole"
+kind = "lp"
+
+names = [
+  { name = "bliss", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-04-27"
+country = "JP"
+catalog_number = "VBZJ-14"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/536666/products/1168859/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-27"
+country = "JP"
+catalog_number = "VBZJ-15"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/536666/products/1168860/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-27"
+country = "JP"
+catalog_number = "VBCJ-60003"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/536666/products/1168861/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-27"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1097439286" },
+  { url = "http://mora.jp/package/43000005/VBCJ-60003/" },
+  { url = "http://recochoku.jp/album/A1004296028/" },
+]
