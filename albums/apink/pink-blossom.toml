@@ -1,5 +1,5 @@
 artist_id = "apink"
-kind = "lp"
+kind = "ep"
 
 names = [
   { name = "Pink Blossom", locale = "ko", original = true, default = true },
