@@ -1,0 +1,38 @@
+artist_id = "kyary-pamyu-pamyu"
+kind = "single"
+
+names = [
+  { name = "最＆高", locale = "ja", original = true },
+  { name = "Sai & Kou", locale = "ja-Latn" },
+  { name = "Sai & Co", locale = "en", default = true },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "WPZL-31156~7"
+disambiguation = "Limited Edition"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/542438/products/1176505/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "WPCL-12338"
+disambiguation = "Regular Edition"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/542438/products/1176506/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1098010290" },
+  { url = "http://mora.jp/package/43000008/190295973889/" },
+  { url = "http://recochoku.jp/album/A1004245203/" },
+]

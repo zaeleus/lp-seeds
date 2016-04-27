@@ -1,0 +1,5 @@
+names = [
+  { name = "もんだいガール -extended mix-", locale = "ja", original = true },
+  { name = "Mondai Girl -extended mix-", locale = "ja-Latn", default = true },
+  { name = "Problem Girl -extended mix-", locale = "en" },
+]

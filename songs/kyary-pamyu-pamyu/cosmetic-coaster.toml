@@ -1,0 +1,4 @@
+names = [
+  { name = "コスメティックコースター", locale = "ja", original = true },
+  { name = "Cosmetic Coaster", locale = "en", default = true },
+]

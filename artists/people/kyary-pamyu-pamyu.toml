@@ -1,0 +1,19 @@
+kind = "person"
+started_on = "1993-01-29"
+country = "JP"
+
+names = [
+  { name = "きゃりーぱみゅぱみゅ", locale = "ja", kind = "stage", original = true },
+  { name = "Kyary Pamyu Pamyu", locale = "ja-Latn", kind = "stage", default = true },
+  { name = "竹村桐子", locale = "ja", kind = "real" },
+  { name = "Takemura Kiriko", locale = "ja-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "http://kyary.asobisystem.com/" },
+  { url = "https://www.youtube.com/channel/UCMMEwnArQWFNU1VrRlbIDtg" },
+]
+
+[metadata]
+blood_type = "B"
+height = 157

@@ -1,0 +1,4 @@
+names = [
+  { name = "コスメティックコースター -instrumental-", locale = "ja", original = true },
+  { name = "Cosmetic Coaster -instrumental-", locale = "en", default = true },
+]

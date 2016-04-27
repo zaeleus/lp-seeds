@@ -1,0 +1,9 @@
+names = [
+  { name = "最＆高", locale = "ja", original = true },
+  { name = "Sai & Kou", locale = "ja-Latn" },
+  { name = "Sai & Co", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=BRWK5I49jOs", name = "Music Video" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "最＆高 -instrumental-", locale = "ja", original = true },
+  { name = "Sai & Kou -instrumental-", locale = "ja-Latn" },
+  { name = "Sai & Co -instrumental-", locale = "en", default = true },
+]
