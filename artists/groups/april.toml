@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "에이프릴", locale = "ko", original = true },
-  { name = "April", locale = "ko-Latn", default = true },
+  { name = "APRIL", locale = "ko-Latn", default = true },
 ]
 
 # TODO members
