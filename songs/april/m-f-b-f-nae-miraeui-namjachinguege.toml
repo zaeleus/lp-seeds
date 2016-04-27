@@ -1,0 +1,5 @@
+names = [
+  { name = "M.F.B.F. (내 미래의 남자친구에게)", locale = "ko", original = true },
+  { name = "M.F.B.F. (Nae Miraeui Namjachinguege)", locale = "ko-Latn", default = true },
+  { name = "M.F.B.F. (For My Future Boyfriend)", locale = "en" },
+]

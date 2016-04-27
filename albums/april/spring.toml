@@ -1,0 +1,28 @@
+artist_id = "april"
+kind = "ep"
+
+names = [
+  { name = "Spring", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=PAHUL6tNN-M", name = "Album Teaser" },
+]
+
+[[releases]]
+released_on = "2016-04-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2681814" },
+  { url = "http://www.mnet.com/album/545368" },
+]
+
+[[releases]]
+released_on = "2016-04-27"
+country = "KR"
+catalog_number = "L100005199"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001209469" },
+]

@@ -1,0 +1,34 @@
+medium_ids = [
+  "april/spring/default/cd1",
+  "april/spring/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "april/wake-up"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song_id = "april/tinkerbell"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song_id = "april/m-f-b-f-nae-miraeui-namjachinguege"
+duration = "2:58"
+
+[[tracks]]
+position = 4
+song_id = "april/nuneul-tteumyeon"
+duration = "3:50"
+
+[[tracks]]
+position = 5
+song_id = "april/jelly"
+duration = "3:44"
+
+[[tracks]]
+position = 6
+song_id = "april/tinkerbell-inst"
+duration = "3:21"

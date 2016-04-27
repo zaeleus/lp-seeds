@@ -1,0 +1,5 @@
+names = [
+  { name = "눈을 뜨면", locale = "ko", original = true },
+  { name = "Nuneul Tteumyeon", locale = "ko-Latn", default = true },
+  { name = "Open Your Eyes", locale = "en" },
+]

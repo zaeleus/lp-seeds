@@ -1,0 +1,20 @@
+kind = "group"
+started_on = "2015-08"
+country = "KR"
+
+names = [
+  { name = "에이프릴", locale = "ko", original = true },
+  { name = "April", locale = "ko-Latn", default = true },
+]
+
+# TODO members
+members = []
+
+urls = [
+  { url = "http://dspmedia.co.kr/april/" },
+  { url = "http://cafe.daum.net/officialAPRIL" },
+  { url = "https://twitter.com/april_dspmedia" },
+  { url = "https://www.youtube.com/channel/UCzd-QY2q6hFyNb_bn9vtWQw" },
+  { url = "https://www.facebook.com/APRIL.DSPmedia" },
+  { url = "https://www.instagram.com/official.april/" },
+]

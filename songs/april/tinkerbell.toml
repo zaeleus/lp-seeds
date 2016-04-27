@@ -1,0 +1,9 @@
+names = [
+  { name = "팅커벨", locale = "ko", original = true },
+  { name = "Tinkerbell", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ezJmz6EseQw", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=B9FTAcOK3cA", name = "Music Video" },
+]
