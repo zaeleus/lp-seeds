@@ -1,6 +1,6 @@
 names = [
   { name = "팅커벨", locale = "ko", original = true },
-  { name = "Tinkerbell", locale = "en", default = true },
+  { name = "Tinker Bell", locale = "en", default = true },
 ]
 
 urls = [

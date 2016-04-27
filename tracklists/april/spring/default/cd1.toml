@@ -10,7 +10,7 @@ duration = "3:17"
 
 [[tracks]]
 position = 2
-song_id = "april/tinkerbell"
+song_id = "april/tinker-bell"
 duration = "3:21"
 
 [[tracks]]
@@ -30,5 +30,5 @@ duration = "3:44"
 
 [[tracks]]
 position = 6
-song_id = "april/tinkerbell-inst"
+song_id = "april/tinker-bell-inst"
 duration = "3:21"
