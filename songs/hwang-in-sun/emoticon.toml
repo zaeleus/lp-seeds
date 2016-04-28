@@ -1,0 +1,10 @@
+names = [
+  { name = "이모티콘 (Emoticon)", locale = "ko", original = true },
+  { name = "Emoticon", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=mvEc6wMRCt8", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=h2wnXUznZlo", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=P7Kt32g-Nao", name = "Music Video" },
+]

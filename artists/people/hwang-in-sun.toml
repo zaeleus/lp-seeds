@@ -1,0 +1,13 @@
+kind = "person"
+#started_on = ""
+country = "KR"
+
+names = [
+  { name = "황인선", locale = "ko", kind = "real", original = true },
+  { name = "Hwang In Sun", locale = "ko-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"
+height = 165
+weight = 49

@@ -1,0 +1,17 @@
+artist_id = "hwang-in-sun"
+kind = "single"
+
+names = [
+  { name = "이모티콘 (Emoticon)", locale = "ko", original = true },
+  { name = "Emoticon", locale = "en", default = true },
+]
+
+[[releases]]
+released_on = "2016-04-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.hanteo.com/search/album_info.asp?mcode=809705539" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2682073" },
+  { url = "http://www.mnet.com/album/545361" },
+]
