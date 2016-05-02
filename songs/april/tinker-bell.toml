@@ -6,4 +6,5 @@ names = [
 urls = [
   { url = "https://www.youtube.com/watch?v=ezJmz6EseQw", name = "Teaser" },
   { url = "https://www.youtube.com/watch?v=B9FTAcOK3cA", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=hTGb5JDgnKQ", name = "Special Choreography" },
 ]
