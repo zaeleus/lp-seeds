@@ -1,0 +1,10 @@
+names = [
+  { name = "돌직구", locale = "ko", original = true },
+  { name = "Doljikgu", locale = "ko-Latn", default = true },
+  { name = "Curveball", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=hn1FddwV32w", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=lltYaxXSH4I", name = "Music Video" },
+]

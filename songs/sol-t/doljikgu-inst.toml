@@ -1,0 +1,5 @@
+names = [
+  { name = "돌직구 (Inst.)", locale = "ko", original = true },
+  { name = "Doljikgu (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Curveball (Inst.)", locale = "en" },
+]

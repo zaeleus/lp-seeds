@@ -1,0 +1,5 @@
+names = [
+  { name = "돌직구 (Ferry Remix) (DJ Edit)", locale = "ko", original = true },
+  { name = "Doljikgu (Ferry Remix) (DJ Edit)", locale = "ko-Latn", default = true },
+  { name = "Curveball (Ferry Remix) (DJ Edit)", locale = "en" },
+]
