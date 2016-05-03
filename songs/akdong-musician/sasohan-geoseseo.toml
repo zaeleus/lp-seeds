@@ -1,0 +1,5 @@
+names = [
+  { name = "사소한 것에서", locale = "ko", original = true },
+  { name = "Sasohan Geoseseo", locale = "ko-Latn", default = true },
+  { name = "Every Little Thing", locale = "en" },
+]

@@ -1,0 +1,11 @@
+names = [
+  { name = "사람들이 움직이는 게", locale = "ko", original = true },
+  { name = "Saramdeuri Umjigineun Ge", locale = "ko-Latn", default = true },
+  { name = "How People Move", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=dlkl9iBuUbI", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=gBSE3SDB1wk", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=sbc2yBheAbo", name = "Music Video" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "초록창가", locale = "ko", original = true },
+  { name = "Chorokchangga", locale = "ko-Latn", default = true },
+  { name = "Green Window", locale = "en" },
+]
