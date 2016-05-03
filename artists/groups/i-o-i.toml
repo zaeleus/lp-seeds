@@ -9,6 +9,7 @@ names = [
 
 urls = [
   { url = "http://mnettv.interest.me/produce101/main.dbp" },
+  { url = "http://cafe.daum.net/IOIofficial" },
   { url = "https://www.instagram.com/ioi_official_ig/" },
   { url = "https://www.facebook.com/ioi.official.page/" },
 ]
