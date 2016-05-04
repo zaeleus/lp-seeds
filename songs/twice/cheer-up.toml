@@ -13,4 +13,5 @@ urls = [
   { url = "https://www.youtube.com/watch?v=7T4wxA2BGTo", name = "Dance Video" },
   { url = "https://www.youtube.com/watch?v=L7_i-r9mo9w", name = "Dance Video 2" },
   { url = "https://www.youtube.com/watch?v=aeNcp5tWh0Q", name = "Lyric M (MBC)" },
+  { url = "https://www.youtube.com/watch?v=3tgvMMLWgqk", name = "Music Video @ Basketball Court" },
 ]
