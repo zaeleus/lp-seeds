@@ -1,0 +1,5 @@
+names = [
+  { name = "벚꽃이 지면", locale = "ko", original = true },
+  { name = "Beojkkocci Jimyeon", locale = "ko-Latn", default = true },
+  { name = "When the Cherry Blossoms Fade", locale = "en" },
+]

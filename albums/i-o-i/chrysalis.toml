@@ -1,0 +1,15 @@
+artist_id = "i-o-i"
+kind = "ep"
+
+names = [
+  { name = "Chrysalis", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-05-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2683309" },
+  { url = "http://www.mnet.com/album/546866" },
+]

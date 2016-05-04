@@ -1,0 +1,9 @@
+names = [
+  { name = "Dream Girls", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=hjMjdRry20s", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=sO1uxOVPxlo", name = "MelOn Premiere Teaser" },
+  { url = "https://www.youtube.com/watch?v=1BVV9UqELbA", name = "Music Video" },
+]
