@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1986-04-02"
+country = "NL"
+
+names = [
+  { name = "R3hab", locale = "en", kind = "stage", original = true, default = true },
+  { name = "Fadil El Ghoul", locale = "en", kind = "real" },
+]

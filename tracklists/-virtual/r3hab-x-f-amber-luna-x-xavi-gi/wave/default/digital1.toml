@@ -1,0 +1,13 @@
+medium_ids = [
+  "-virtual/r3hab-x-f-amber-luna-x-xavi-gi/wave/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "-virtual/r3hab-x-f-amber-luna-x-xavi-gi/wave"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song_id = "-virtual/r3hab-x-f-amber-luna-x-xavi-gi/wave-xavi-gi-ver"
+duration = "3:48"

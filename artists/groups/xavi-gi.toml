@@ -1,0 +1,10 @@
+kind = "group"
+#started_on = ""
+country = "KR"
+
+names = [
+  { name = "Xavi & Gi", locale = "ko", original = true, default = true },
+]
+
+# TODO members
+members = []

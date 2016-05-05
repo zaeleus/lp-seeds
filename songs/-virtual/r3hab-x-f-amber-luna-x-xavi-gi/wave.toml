@@ -1,0 +1,28 @@
+names = [
+  { name = "Wave", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [
+  {
+    artist_id = "r3hab",
+    separator = " X f(",
+  },
+  {
+    artist_id = "f-x/amber",
+    names = [
+      { name = "Amber", locale = "ko", original = true, default = true },
+    ],
+    separator = "+",
+  },
+  {
+    artist_id = "f-x/luna",
+    names = [
+      { name = "Luna", locale = "ko", original = true, default = true },
+    ],
+    separator = ")",
+  }
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=VkFFGVfquFU", name = "Music Video" },
+]
