@@ -1,0 +1,11 @@
+names = [
+  { name = "절묘해", locale = "ko", original = true },
+  { name = "Jeolmyohae", locale = "ko-Latn", default = true },
+  { name = "exquisite!", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=gHhk2oM2yAc", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=yHttanRj6VU", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=5iGgobJgBx8", name = "Music Video (Dance Ver.)" },
+]

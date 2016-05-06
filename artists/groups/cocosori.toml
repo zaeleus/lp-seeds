@@ -1,0 +1,21 @@
+kind = "group"
+started_on = "2016"
+country = "KR"
+
+names = [
+  { name = "코코소리", locale = "ko", original = true },
+  { name = "CocoSori", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { artist_id = "cocosori/coco" },
+  { artist_id = "cocosori/sori" },
+]
+
+urls = [
+  { url = "https://www.facebook.com/cocosori22/" },
+  { url = "https://www.instagram.com/cocosori22/" },
+  { url = "https://twitter.com/cocosori22" },
+  { url = "https://www.youtube.com/channel/UCs8mykFbrWX0BiyYKyX718Q" },
+  { url = "https://www.youtube.com/channel/UC1uulNFLbUXImZLzlfeWlcw" },
+]
