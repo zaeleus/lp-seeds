@@ -17,6 +17,7 @@ urls = [
   { url = "https://itunes.apple.com/us/album/id1108270707" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2681814" },
   { url = "http://www.mnet.com/album/545368" },
+  { url = "https://open.spotify.com/album/2tvrADeSm5OAx5XW2lDWkF" },
 ]
 
 [[releases]]
