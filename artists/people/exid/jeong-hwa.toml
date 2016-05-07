@@ -4,9 +4,9 @@ country = "KR"
 
 names = [
   { name = "정화", locale = "ko", kind = "stage", original = true },
-  { name = "Jung Hwa", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Jeong Hwa", locale = "ko-Latn", kind = "stage", default = true },
   { name = "박정화", locale = "ko", kind = "real" },
-  { name = "Park Jung Hwa", locale = "ko-Latn", kind = "real" },
+  { name = "Park Jeong Hwa", locale = "ko-Latn", kind = "real" },
 ]
 
 labels = [{ label_id = "yedang-entertainment" }]

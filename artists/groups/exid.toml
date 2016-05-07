@@ -12,7 +12,7 @@ labels = [{ label_id = "yedang-entertainment" }]
 members = [
   { artist_id = "exid/hani", started_on = "2012-02" },
   { artist_id = "exid/hyerin", started_on = "2012-08" },
-  { artist_id = "exid/jung-hwa", started_on = "2012-02" },
+  { artist_id = "exid/jeong-hwa", started_on = "2012-02" },
   { artist_id = "exid/le", started_on = "2012-02" },
   { artist_id = "exid/solji", started_on = "2012-08" },
   { artist_id = "bestie/hae-ryung", started_on = "2012-02", ended_on = "2012-04" },
