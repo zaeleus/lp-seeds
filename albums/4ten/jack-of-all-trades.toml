@@ -1,0 +1,26 @@
+artist_id = "4ten"
+kind = "ep"
+
+names = [
+  { name = "JACK OF ALL TRADES", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-02-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1086912839" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2668567" },
+  { url = "http://www.mnet.com/album/531081" },
+  { url = "https://open.spotify.com/album/7nswXhvYionWuJBOaAfxqi" },
+]
+
+[[releases]]
+released_on = "2016-02-23"
+country = "KR"
+catalog_number = "CMCC-10752"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=034203290" },
+]

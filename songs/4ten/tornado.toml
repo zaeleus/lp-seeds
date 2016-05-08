@@ -1,0 +1,10 @@
+names = [
+  { name = "토네이도 (Tornado)", locale = "ko", original = true },
+  { name = "Tornado", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=KM3pwxuumOI", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=4fRheHdJGj0", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=NCqUQxikvuI", name = "Music Video" },
+]

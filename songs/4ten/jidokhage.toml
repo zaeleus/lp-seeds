@@ -1,0 +1,10 @@
+names = [
+  { name = "지독하게", locale = "ko", original = true },
+  { name = "Jidokhage", locale = "ko-Latn", default = true },
+  { name = "Severely", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=O-TYM9Mt9sw", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=BxpOCMH3NeQ", name = "Music Video" },
+]

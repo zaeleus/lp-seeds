@@ -1,0 +1,11 @@
+kind = "group"
+started_on = "2014"
+country = "KR"
+
+names = [
+  { name = "포텐", locale = "ko", original = true },
+  { name = "4TEN", locale = "ko-Latn", default = true },
+]
+
+# TODO members
+members = []
