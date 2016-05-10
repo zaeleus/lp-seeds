@@ -5,6 +5,3 @@ country = "KR"
 names = [
   { name = "MATILDA", locale = "ko", original = true, default = true },
 ]
-
-# TODO members
-members = []

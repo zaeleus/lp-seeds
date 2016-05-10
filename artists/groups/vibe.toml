@@ -6,6 +6,3 @@ names = [
   { name = "바이브", locale = "ko", original = true },
   { name = "Vibe", locale = "ko-Latn", default = true },
 ]
-
-# TODO members
-members = []

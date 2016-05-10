@@ -6,6 +6,3 @@ names = [
   { name = "화려강산", locale = "ko", original = true },
   { name = "Hualyeogangsan", locale = "ko-Latn", default = true },
 ]
-
-# TODO add members
-members = []

@@ -9,6 +9,3 @@ names = [
 urls = [
   { url = "http://www.clearstone.co.jp/ladybaby/" },
 ]
-
-# TODO members
-members = []

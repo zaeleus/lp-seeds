@@ -7,9 +7,6 @@ names = [
   { name = "Playback", locale = "ko-Latn", default = true },
 ]
 
-# TODO members
-members = []
-
 urls = [
   { url = "https://www.facebook.com/followplayback" },
   { url = "https://www.instagram.com/followplayback/" },

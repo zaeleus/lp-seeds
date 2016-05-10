@@ -6,6 +6,3 @@ names = [
   { name = "소녀온탑", locale = "ko", original = true },
   { name = "Girls On Top", locale = "ko-Latn", default = true },
 ]
-
-# TODO add members
-members = []

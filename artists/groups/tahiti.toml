@@ -7,9 +7,6 @@ names = [
   { name = "TAHITI", locale = "ko-Latn", default = true },
 ]
 
-# TODO members
-members = []
-
 urls = [
   { url = "http://www.dreamstar.co.kr/tahiti_home" },
   { url = "http://cafe.daum.net/DSTAHITI" },

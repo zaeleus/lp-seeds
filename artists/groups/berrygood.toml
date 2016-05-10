@@ -7,9 +7,6 @@ names = [
   { name = "BerryGood", locale = "ko-Latn", default = true },
 ]
 
-# TODO members
-members = []
-
 urls = [
   { url = "http://cafe.daum.net/BerryGood" },
   { url = "https://www.facebook.com/Berrygoodofficial" },
