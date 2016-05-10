@@ -1,0 +1,3 @@
+names = [
+  { name = "Once in a Lifetime", locale = "ko", original = true, default = true },
+]

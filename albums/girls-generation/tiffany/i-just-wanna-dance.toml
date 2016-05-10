@@ -1,0 +1,25 @@
+artist_id = "girls-generation/tiffany"
+kind = "ep"
+
+names = [
+  { name = "I Just Wanna Dance", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-05-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1111017682" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2684087" },
+  { url = "http://www.mnet.com/album/547812" },
+]
+
+[[releases]]
+released_on = "2016-05-11"
+country = "KR"
+catalog_number = "SMK-0659"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=002500003" },
+]
