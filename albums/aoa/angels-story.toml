@@ -8,6 +8,16 @@ names = [
 [[releases]]
 released_on = "2012-07-30"
 country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1080563760" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2138811" },
+  { url = "http://www.mnet.com/album/262762" },
+]
+
+[[releases]]
+released_on = "2012-07-30"
+country = "KR"
 catalog_number = "CMCC-9949"
 media = [{ kind = "cd" }]
 urls = [

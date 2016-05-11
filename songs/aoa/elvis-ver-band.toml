@@ -1,0 +1,7 @@
+names = [
+  { name = "ELVIS (Ver. Band)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Q9Cq5m_uu0M", name = "Music Video" },
+]

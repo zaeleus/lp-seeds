@@ -1,0 +1,18 @@
+medium_ids = [
+  "aoa/angels-story/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "aoa/elvis"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song_id = "aoa/love-is-only-you"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song_id = "aoa/temptation"
+duration = "3:44"
