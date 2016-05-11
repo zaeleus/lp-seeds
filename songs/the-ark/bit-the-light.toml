@@ -1,0 +1,12 @@
+names = [
+  { name = "빛 (The Light)", locale = "ko", original = true },
+  { name = "Bit (The Light)", locale = "ko-Latn", default = true },
+  { name = "The Light", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=b4h5OfY6XU0", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=c-cOZgaotPY", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=y3EeGtbv3vU", name = "MV Making & Interview Film" },
+  { url = "https://www.youtube.com/watch?v=h9ntI1yGmc4", name = "Dance Practice" },
+]

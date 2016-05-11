@@ -1,0 +1,17 @@
+artist_id = "the-ark"
+kind = "single"
+
+names = [
+  { name = "Somebody 4 Life", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2015-04-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id984341449" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2312957" },
+  { url = "http://www.mnet.com/album/424953" },
+]
+
