@@ -1,0 +1,12 @@
+names = [
+  { name = "하나 더 (One More)", locale = "ko", original = true },
+  { name = "Hana Deo (One More)", locale = "ko-Latn", default = true },
+  { name = "One More", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=DI5seWPMbA0", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=n9sEjiBew18", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=AknroaW4Dwo", name = "Practice Performance (Eye Contact Ver.)" },
+  { url = "https://www.youtube.com/watch?v=fZ-RTyflOEs", name = "M/V Making" },
+]
