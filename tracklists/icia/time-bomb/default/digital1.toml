@@ -1,0 +1,13 @@
+medium_ids = [
+  "icia/time-bomb/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "icia/time-bomb"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song_id = "icia/time-bomb-inst"
+duration = "3:29"

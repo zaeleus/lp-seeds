@@ -1,0 +1,8 @@
+names = [
+  { name = "Time Bomb", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=0P-cFuqW53o", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=RP1hMjmxFnc", name = "Music Video" },
+]
