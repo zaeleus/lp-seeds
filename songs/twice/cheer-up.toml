@@ -14,4 +14,6 @@ urls = [
   { url = "https://www.youtube.com/watch?v=L7_i-r9mo9w", name = "Music Video @ Stadium" },
   { url = "https://www.youtube.com/watch?v=aeNcp5tWh0Q", name = "Lyric M (MBC)" },
   { url = "https://www.youtube.com/watch?v=3tgvMMLWgqk", name = "Music Video @ Basketball Court" },
+  { url = "https://www.youtube.com/watch?v=f4JJmDuv_C0", name = "Mirrored Choreography (1theK Dance Cover Contest)" },
+  { url = "https://www.youtube.com/watch?v=t9ETveuWsaU", name = "Music Video (Magic Rod Ver.)" },
 ]
