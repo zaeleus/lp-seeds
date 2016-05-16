@@ -1,0 +1,10 @@
+names = [
+  { name = "Good Luck", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=CHNqMdJfM8Y", name = "Teaser 1 (Weekday Ver.)" },
+  { url = "https://www.youtube.com/watch?v=Acu9kDa-mOk", name = "Teaser 2 (Weekend Ver.)" },
+  { url = "https://www.youtube.com/watch?v=ohhM4sfk-AQ", name = "Teaser 3" },
+  { url = "https://www.youtube.com/watch?v=sno_genwMz8", name = "Music Video" },
+]
