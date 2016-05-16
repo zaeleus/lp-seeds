@@ -1,0 +1,25 @@
+artist_id = "jessica"
+kind = "ep"
+
+names = [
+  { name = "With Love, J", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-05-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1113364616" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2685056" },
+  { url = "http://www.mnet.com/album/549002" },
+]
+
+[[releases]]
+released_on = "2016-05-17"
+country = "KR"
+catalog_number = "INT-0056"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=055400084" },
+]

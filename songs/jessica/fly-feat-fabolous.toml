@@ -1,0 +1,9 @@
+names = [
+  { name = "Fly (Feat. Fabolous)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=rUoCxIEOuuQ", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=zxLRfk2R7KM", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=iZpq8FjJr2E", name = "Music Video" },
+]
