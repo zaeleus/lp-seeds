@@ -1,0 +1,13 @@
+medium_ids = [
+  "f-x/amber/on-my-own/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "f-x/amber/on-my-own-feat-gen-neo"
+duration = "2:44"
+
+[[tracks]]
+position = 2
+song_id = "f-x/amber/on-my-own-korean-ver-feat-gen-neo"
+duration = "2:44"
