@@ -1,0 +1,25 @@
+medium_ids = [
+  "amuro-namie/mint/cd-dvd/cd1",
+  "amuro-namie/mint/cd/cd1",
+  "amuro-namie/mint/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "amuro-namie/mint"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song_id = "amuro-namie/chit-chat"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song_id = "amuro-namie/mint-instrumental"
+duration = "3:49"
+
+[[tracks]]
+position = 4
+song_id = "amuro-namie/chit-chat-instrumental"
+duration = "3:42"

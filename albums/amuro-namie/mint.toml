@@ -1,0 +1,41 @@
+artist_id = "amuro-namie"
+kind = "single"
+
+names = [
+  { name = "Mint", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=OKQBIOS95Uk", name = "30sec TV-SPOT"}
+]
+
+[[releases]]
+released_on = "2016-05-18"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000002/AVCN-99034/" },
+  { url = "http://recochoku.jp/album/A1004363325/" },
+]
+
+[[releases]]
+released_on = "2016-05-18"
+country = "JP"
+catalog_number = "AVCN-99033/B"
+disambiguation = "CD+DVD"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/191925/products/1176869/1/" },
+  { url = "http://namieamuro.jp/discography/single42.html" },
+]
+
+[[releases]]
+released_on = "2016-05-18"
+country = "JP"
+catalog_number = "AVCN-99034"
+disambiguation = "CD"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/191925/products/1176870/1/" },
+  { url = "http://namieamuro.jp/discography/single42.html" },
+]

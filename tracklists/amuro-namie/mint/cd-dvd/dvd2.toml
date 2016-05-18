@@ -1,0 +1,9 @@
+medium_ids = [
+  "amuro-namie/mint/cd-dvd/dvd2",
+]
+
+[[tracks]]
+position = 1
+names = [
+  { name = "Mint -Music Video-", locale = "ja", original = true, default = true },
+]
