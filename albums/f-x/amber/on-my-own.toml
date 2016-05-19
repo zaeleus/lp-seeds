@@ -21,4 +21,5 @@ urls = [
   { url = "https://itunes.apple.com/us/album/id1114476228" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2685384" },
   { url = "http://www.mnet.com/album/549512" },
+  { url = "https://open.spotify.com/album/1kvQLF2xFyc7VBZqmBY0Bc" },
 ]
