@@ -9,3 +9,7 @@ artist_credits = [{
     { name = "AMBER", locale = "ko-Latn", default = true },
   ],
 }]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=nNqwlNnw_JE", name = "Music Video" },
+]
