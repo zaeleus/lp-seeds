@@ -1,0 +1,9 @@
+names = [
+  { name = "울려 퍼져라 (Touch You)", locale = "ko", original = true },
+  { name = "Ullyeo Peojyeora (Touch You)", locale = "ko-Latn", default = true  },
+  { name = "Touch You", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=8G0wj-ixaWs", name = "Music Video" },
+]

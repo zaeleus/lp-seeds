@@ -1,0 +1,5 @@
+names = [
+  { name = "울려 퍼져라 (Touch You) (Inst.)", locale = "ko", original = true },
+  { name = "Ullyeo Peojyeora (Touch You) (Inst.)", locale = "ko-Latn", default = true  },
+  { name = "Touch You (Inst.)", locale = "en" },
+]

@@ -1,0 +1,17 @@
+artist_id = "dana"
+kind = "single"
+
+names = [
+  { name = "울려 퍼져라 (Touch You)", locale = "ko", original = true },
+  { name = "Ullyeo Peojyeora (Touch You)", locale = "ko-Latn", default = true  },
+  { name = "Touch You", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-05-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2686006" },
+  { url = "http://www.mnet.com/album/550304" },
+]
