@@ -1,0 +1,10 @@
+names = [
+  { name = "연애세포 (LOVE CELLS)", locale = "ko", original = true },
+  { name = "Yeonaesepo (LOVE CELLS)", locale = "ko-Latn", default = true },
+  { name = "LOVE CELLS", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=m8qMCjhXIng", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=ItewCTmaL4Q", name = "Music Video" },
+]

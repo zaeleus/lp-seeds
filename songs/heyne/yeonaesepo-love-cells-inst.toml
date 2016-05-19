@@ -1,0 +1,5 @@
+names = [
+  { name = "연애세포 (LOVE CELLS) (Inst.)", locale = "ko", original = true },
+  { name = "Yeonaesepo (LOVE CELLS) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "LOVE CELLS (Inst.)", locale = "en" },
+]

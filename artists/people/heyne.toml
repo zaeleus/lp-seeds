@@ -1,0 +1,23 @@
+kind = "person"
+started_on = "1992-06-03"
+country = "KR"
+
+names = [
+  { name = "혜이니", locale = "ko", kind = "stage", original = true },
+  { name = "HEYNE", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김혜인", locale = "ko", kind = "real" },
+  { name = "Kim Hye In", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "http://www.crescendomusic.co.kr/heyne" },
+  { url = "http://cafe.daum.net/heyne" },
+  { url = "https://www.facebook.com/OfficialHEYNE" },
+  { url = "https://twitter.com/hye2nk" },
+  { url = "https://www.youtube.com/user/HEYNEofficial" },
+]
+
+[metadata]
+blood_type = "B"
+height = 150
+weight = 36

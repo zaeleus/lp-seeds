@@ -1,0 +1,17 @@
+artist_id = "heyne"
+kind = "single"
+
+names = [
+  { name = "연애세포 (LOVE CELLS)", locale = "ko", original = true },
+  { name = "Yeonaesepo (LOVE CELLS)", locale = "ko-Latn", default = true },
+  { name = "LOVE CELLS", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-05-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2685451" },
+  { url = "http://www.mnet.com/album/549656" },
+]

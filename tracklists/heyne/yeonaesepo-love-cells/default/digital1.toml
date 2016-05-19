@@ -1,0 +1,13 @@
+medium_ids = [
+  "heyne/yeonaesepo-love-cells/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "heyne/yeonaesepo-love-cells"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song_id = "heyne/yeonaesepo-love-cells-inst"
+duration = "3:22"
