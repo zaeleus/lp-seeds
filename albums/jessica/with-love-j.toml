@@ -5,6 +5,10 @@ names = [
   { name = "With Love, J", locale = "ko", original = true, default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=NB4Nzqdb328", name = "Jacket Shoot Behind the Scenes" },
+]
+
 [[releases]]
 released_on = "2016-05-17"
 country = "KR"
