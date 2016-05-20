@@ -1,0 +1,12 @@
+names = [
+  { name = "HOT PINK", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ek9QqE6sX7g", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=Q5PW7NlAlYE", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=8NaeaLW8CLY", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=iPjeS8dBdN8", name = "MV Making" },
+  { url = "https://www.youtube.com/watch?v=xYR_9W53sOk", name = "Dance Video" },
+  { url = "https://www.youtube.com/watch?v=AwbjFws-EPM", name = "MV Making 360VR" },
+]

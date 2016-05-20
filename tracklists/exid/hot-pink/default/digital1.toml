@@ -1,0 +1,8 @@
+medium_ids = [
+  "exid/hot-pink/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "exid/hot-pink"
+duration = "3:20"
