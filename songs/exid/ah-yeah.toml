@@ -1,0 +1,12 @@
+names = [
+  { name = "아예 (Ah Yeah)", locale = "ko", original = true },
+  { name = "Ah Yeah", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=RaRUuAHzx5Y", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=egqDPipqIAg", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=iP2EdQokVSE", name = "Dance Practice Video (Original Ver.)" },
+  { url = "https://www.youtube.com/watch?v=ET_9lxm2yls", name = "MV Making" },
+  { url = "https://www.youtube.com/watch?v=W16ruHPY8uo", name = "Dance Video (Eye Contact Ver.)" },
+]

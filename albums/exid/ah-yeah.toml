@@ -5,6 +5,23 @@ names = [
   { name = "AH YEAH", locale = "ko", original = true, default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=1bznhU0vPVk", name = "Album Preview" },
+  { url = "https://www.youtube.com/watch?v=NwOFv3syKFA", name = "Recording Making" },
+  { url = "https://www.youtube.com/watch?v=9wUhogNPGq0", name = "Jacket Making" },
+]
+
+[[releases]]
+released_on = "2015-04-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://play.google.com/store/music/album?id=Bm3vrhsyoxa5zuaost3obabtzcu" },
+  { url = "https://itunes.apple.com/us/album/id982223883" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2313635" },
+  { url = "http://www.mnet.com/album/425402" },
+]
+
 [[releases]]
 released_on = "2015-04-13"
 country = "KR"
