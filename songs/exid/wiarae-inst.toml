@@ -1,0 +1,5 @@
+names = [
+  { name = "위아래 (Inst.)", locale = "ko", original = true },
+  { name = "Wiarae (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Up & Down (Inst.)", locale = "en" },
+]
