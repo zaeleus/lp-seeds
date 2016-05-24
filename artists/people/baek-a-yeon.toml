@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1993-03-11"
+country = "KR"
+
+names = [
+  { name = "백아연", locale = "ko", kind = "real", original = true },
+  { name = "Baek A Yeon", locale = "ko-Latn", kind = "real", default = true },
+]
