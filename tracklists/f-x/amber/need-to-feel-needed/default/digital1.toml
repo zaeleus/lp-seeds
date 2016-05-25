@@ -1,0 +1,8 @@
+medium_ids = [
+  "f-x/amber/need-to-feel-needed/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "f-x/amber/need-to-feel-needed"
+duration = "3:28"
