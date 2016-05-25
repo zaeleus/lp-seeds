@@ -1,0 +1,11 @@
+names = [
+  { name = "알쏭달쏭", locale = "ko", original = true },
+  { name = "Alssongdalssong", locale = "ko-Latn", default = true },
+  { name = "The Secret", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=YPssPnkAffU", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=NGc5AjSf-GI", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=N4a1dHfBzhg", name = "Music Video" },
+]

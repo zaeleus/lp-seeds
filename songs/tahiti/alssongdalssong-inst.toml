@@ -1,0 +1,5 @@
+names = [
+  { name = "알쏭달쏭 (Inst.)", locale = "ko", original = true },
+  { name = "Alssongdalssong (Inst.)", locale = "ko-Latn", default = true },
+  { name = "The Secret (Inst.)", locale = "en" },
+]
