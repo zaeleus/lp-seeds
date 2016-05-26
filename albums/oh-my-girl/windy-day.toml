@@ -1,0 +1,24 @@
+artist_id = "oh-my-girl"
+kind = "ep"
+
+names = [
+  { name = "WINDY DAY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-05-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2687152" },
+  { url = "http://www.mnet.com/album/551471" },
+]
+
+[[releases]]
+released_on = "2016-05-26"
+country = "KR"
+catalog_number = "L200001248"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001209537" },
+]

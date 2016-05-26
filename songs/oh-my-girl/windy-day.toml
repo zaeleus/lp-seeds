@@ -1,0 +1,8 @@
+names = [
+  { name = "WINDY DAY", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=JbAgo11NAAA", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=AJqhKWo89FQ", name = "Music Video" },
+]
