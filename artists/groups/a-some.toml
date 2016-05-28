@@ -1,0 +1,12 @@
+kind = "group"
+started_on = "2016"
+country = "KR"
+
+names = [
+  { name = "어썸", locale = "ko", original = true },
+  { name = "A.SOME", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/channel/UCAYRri6NeG8EJMCzQS7QXRQ" },
+]
