@@ -3,3 +3,7 @@ names = [
   { name = "Ranrarun ~Anata ni Muchuu~", locale = "ja-Latn", default = true },
   { name = "Ranrarun ~Engrossed in You~", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=yb19As-pFNU", name = "Music Video" },
+]
