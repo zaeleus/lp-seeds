@@ -1,0 +1,8 @@
+medium_ids = [
+  "a-some/nae-son-nohjima/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "a-some/nae-son-nohjima"
+duration = "3:39"
