@@ -1,0 +1,11 @@
+medium_ids = [
+  "angerme/tsugitsugi-zokuzoku-itoshima-distance-koi-nara-tokku-ni-hajimatteru/limited-edition-b/dvd2",
+]
+
+[[tracks]]
+position = 1
+duration = "6:08"
+names = [
+  { name = "糸島Distance (Music Video)", locale = "ja", original = true },
+  { name = "Itoshima Distance (Music Video)", locale = "ja-Latn", default = true },
+]

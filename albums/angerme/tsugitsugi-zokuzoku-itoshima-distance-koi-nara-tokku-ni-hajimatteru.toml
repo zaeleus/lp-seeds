@@ -1,0 +1,68 @@
+artist_id = "angerme"
+kind = "single"
+
+names = [
+  { name = "次々続々／糸島Distance／恋ならとっくに始まってる", locale = "ja", original = true },
+  { name = "Tsugitsugi Zokuzoku / Itoshima Distance / Koi Nara Tokku ni Hajimatteru", locale = "ja-Latn", default = true },
+  { name = "One by One, One After Another / Itoshima Distance / Love's Already Begun", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-04-27"
+country = "JP"
+catalog_number = "HKCN-50481~2"
+disambiguation = "Limited Edition A"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/494978/products/1169581/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-27"
+country = "JP"
+catalog_number = "HKCN-50483~4"
+disambiguation = "Limited Edition B"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/494978/products/1169583/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-27"
+country = "JP"
+catalog_number = "HKCN-50485~6"
+disambiguation = "Limited Edition C"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/494978/products/1169584/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-27"
+country = "JP"
+catalog_number = "HKCN-50489"
+disambiguation = "Regular Edition A"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/494978/products/1169587/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-27"
+country = "JP"
+catalog_number = "HKCN-50490"
+disambiguation = "Regular Edition B"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/494978/products/1169589/1/" },
+]
+
+[[releases]]
+released_on = "2016-04-27"
+country = "JP"
+catalog_number = "HKCN-50491"
+disambiguation = "Regular Edition C"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/494978/products/1171608/1/" },
+]

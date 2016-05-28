@@ -1,0 +1,9 @@
+names = [
+  { name = "恋ならとっくに始まってる", locale = "ja", original = true },
+  { name = "Koi Nara Tokku ni Hajimatteru", locale = "ja-Latn", default = true },
+  { name = "Love's Already Begun", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=7KuU6MZ5Nck", name = "Music Video" },
+]

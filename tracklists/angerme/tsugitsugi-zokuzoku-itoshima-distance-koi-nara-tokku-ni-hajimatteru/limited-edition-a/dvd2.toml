@@ -1,0 +1,12 @@
+medium_ids = [
+  "angerme/tsugitsugi-zokuzoku-itoshima-distance-koi-nara-tokku-ni-hajimatteru/limited-edition-a/dvd2",
+]
+
+[[tracks]]
+position = 1
+duration = "6:12"
+names = [
+  { name = "次々続々 (Music Video)", locale = "ja", original = true },
+  { name = "Tsugitsugi Zokuzoku (Music Video)", locale = "ja-Latn", default = true },
+  { name = "One by One, One After Another (Music Video)", locale = "en" },
+]

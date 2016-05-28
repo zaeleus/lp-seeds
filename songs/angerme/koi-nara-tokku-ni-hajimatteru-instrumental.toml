@@ -1,0 +1,5 @@
+names = [
+  { name = "恋ならとっくに始まってる (Instrumental)", locale = "ja", original = true },
+  { name = "Koi Nara Tokku ni Hajimatteru (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Love's Already Begun (Instrumental)", locale = "en" },
+]

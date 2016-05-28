@@ -1,0 +1,5 @@
+names = [
+  { name = "次々続々 (Instrumental)", locale = "ja", original = true },
+  { name = "Tsugitsugi Zokuzoku (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "One by One, One After Another (Instrumental)", locale = "en" },
+]

@@ -1,0 +1,12 @@
+medium_ids = [
+  "angerme/tsugitsugi-zokuzoku-itoshima-distance-koi-nara-tokku-ni-hajimatteru/limited-edition-c/dvd2",
+]
+
+[[tracks]]
+position = 1
+duration = "5:42"
+names = [
+  { name = "恋ならとっくに始まってる (Music Video)", locale = "ja", original = true },
+  { name = "Koi Nara Tokku ni Hajimatteru (Music Video)", locale = "ja-Latn", default = true },
+  { name = "Love's Already Begun (Music Video)", locale = "en" },
+]

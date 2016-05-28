@@ -1,0 +1,9 @@
+names = [
+  { name = "次々続々", locale = "ja", original = true },
+  { name = "Tsugitsugi Zokuzoku", locale = "ja-Latn", default = true },
+  { name = "One by One, One After Another", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=PdgtxpNv6mw", name = "Music Video" },
+]
