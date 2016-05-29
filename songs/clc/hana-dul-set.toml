@@ -1,0 +1,5 @@
+names = [
+  { name = "하나, 둘, 셋", locale = "ko", original = true },
+  { name = "Hana, Dul, Set", locale = "ko-Latn", default = true },
+  { name = "One, Two, Three", locale = "en" },
+]

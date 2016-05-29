@@ -1,0 +1,5 @@
+names = [
+  { name = "어느 별에서 왔니 (What Planet Are You From?)", locale = "ko", original = true },
+  { name = "Eoneu Byeoreseo Wassni (What Planet Are You From?)", locale = "ko-Latn", default = true },
+  { name = "What Planet Are You From?", locale = "en" },
+]

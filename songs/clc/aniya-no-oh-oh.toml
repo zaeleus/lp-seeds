@@ -1,0 +1,10 @@
+names = [
+  { name = "아니야 (No Oh Oh)", locale = "ko", original = true },
+  { name = "Aniya (No Oh Oh)", locale = "ko-Latn", default = true },
+  { name = "No Oh Oh", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=dxD4RVbaIN4", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=GoV7B9K23ts", name = "Music Video" },
+]
