@@ -11,3 +11,6 @@ names = [
 released_on = "2016-02-12"
 country = "KR"
 media = [{ kind = "digital" }]
+urls = [
+  { url = "https://open.spotify.com/album/47fA0HbnluRCnMavi6VwfD" },
+]
