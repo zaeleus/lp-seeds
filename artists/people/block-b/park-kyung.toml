@@ -1,0 +1,18 @@
+kind = "person"
+started_on = "1992-07-08"
+country = "KR"
+
+names = [
+  { name = "박경", locale = "ko", kind = "real", original = true },
+  { name = "Park Kyung", locale = "ko-Latn", kind = "real", default = true },
+]
+
+urls = [
+  { url = "https://www.instagram.com/qkrrud78/" },
+  { url = "https://twitter.com/kyungpark1992" },
+]
+
+[metadata]
+blood_type = "B"
+height = 176
+weight = 56

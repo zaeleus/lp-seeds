@@ -1,0 +1,19 @@
+artist_id = "block-b/park-kyung"
+kind = "single"
+
+names = [
+  { name = "자격지심", locale = "ko", original = true },
+  { name = "Jagyeokjisim", locale = "ko-Latn", default = true },
+  { name = "Inferiority Complex", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-05-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1116922814" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2685311" },
+  { url = "http://www.mnet.com/album/551124" },
+  { url = "https://open.spotify.com/album/0WkXveHN5p6Md6ouIFJzBS" },
+]

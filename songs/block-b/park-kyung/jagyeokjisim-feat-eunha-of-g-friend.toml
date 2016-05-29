@@ -1,0 +1,11 @@
+names = [
+  { name = "자격지심 (Feat. 은하 Of 여자친구)", locale = "ko", original = true },
+  { name = "Jagyeokjisim (Feat. Eunha Of G-Friend)", locale = "ko-Latn", default = true },
+  { name = "Inferiority Complex (Feat. Eunha Of G-Friend)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=CYsS2PqSeXE", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=OHKae85L7c4", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=AL2E1JDw2cA", name = "Music Video" },
+]
