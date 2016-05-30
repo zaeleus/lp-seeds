@@ -1,0 +1,10 @@
+medium_ids = [
+  "juice-juice/next-is-you-karada-dake-ga-otona-ni-nattan-ja-nai/limited-edition-c/dvd2",
+]
+
+[[tracks]]
+position = 1
+duration = "4:47"
+names = [
+  { name = "Next is you! (Dance Shot Ver.)", locale = "ja", original = true, default = true },
+]

@@ -1,0 +1,74 @@
+artist_id = "juice-juice"
+kind = "single"
+
+names = [
+  { name = "Next is you!／カラダだけが大人になったんじゃない", locale = "ja", original = true },
+  { name = "Next is you! / Karada Dake ga Otona ni Nattan ja nai", locale = "ja-Latn", default = true },
+  { name = "Next is you! / It's Not Just My Body That's Grown Up", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-02-03"
+country = "JP"
+catalog_number = "HKCN-50471"
+disambiguation = "Limited Edition A"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/587778/products/1161602/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50471/" },
+]
+
+[[releases]]
+released_on = "2016-02-03"
+country = "JP"
+catalog_number = "HKCN-50473"
+disambiguation = "Limited Edition B"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/587778/products/1161604/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50471/" },
+]
+
+[[releases]]
+released_on = "2016-02-03"
+country = "JP"
+catalog_number = "HKCN-50475"
+disambiguation = "Limited Edition C"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/587778/products/1161605/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50471/" },
+]
+
+[[releases]]
+released_on = "2016-02-03"
+country = "JP"
+catalog_number = "HKCN-50477"
+disambiguation = "Limited Edition D"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/587778/products/1161607/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50471/" },
+]
+
+[[releases]]
+released_on = "2016-02-03"
+country = "JP"
+catalog_number = "HKCN-50479"
+disambiguation = "Regular Edition A"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/587778/products/1161608/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50471/" },
+]
+
+[[releases]]
+released_on = "2016-02-03"
+country = "JP"
+catalog_number = "HKCN-50480"
+disambiguation = "Regular Edition B"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/587778/products/1161610/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50471/" },
+]

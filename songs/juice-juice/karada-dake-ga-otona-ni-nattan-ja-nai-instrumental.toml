@@ -1,0 +1,5 @@
+names = [
+  { name = "カラダだけが大人になったんじゃない (Instrumental)", locale = "ja", original = true },
+  { name = "Karada Dake ga Otona ni Nattan ja nai (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "It's Not Just My Body That's Grown Up (Instrumental)", locale = "en" },
+]

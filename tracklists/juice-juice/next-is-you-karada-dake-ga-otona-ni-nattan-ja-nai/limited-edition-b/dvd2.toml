@@ -1,0 +1,12 @@
+medium_ids = [
+  "juice-juice/next-is-you-karada-dake-ga-otona-ni-nattan-ja-nai/limited-edition-b/dvd2",
+]
+
+[[tracks]]
+position = 1
+duration = "5:30"
+names = [
+  { name = "カラダだけが大人になったんじゃない (Music Video)", locale = "ja", original = true },
+  { name = "Karada Dake ga Otona ni Nattan ja nai (Music Video)", locale = "ja-Latn", default = true },
+  { name = "It's Not Just My Body That's Grown Up (Music Video)", locale = "en" },
+]
