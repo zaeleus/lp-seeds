@@ -1,0 +1,82 @@
+artist_id = "morning-musume"
+kind = "single"
+
+names = [
+  { name = "泡沫サタデーナイト！／The Vision／Tokyoという片隅", locale = "ja", original = true },
+  { name = "Utakata Saturday Night! / The Vision / Tokyo to Iu Katasumi", locale = "ja-Latn", default = true },
+  { name = "Ephemeral Saturday Night! / The Vision / In a Corner of a City Called Tokyo", locale = "en" },
+]
+
+artist_credits = [{
+  artist_id = "morning-musume",
+  names = [
+    { name = "モーニング娘。 '16", locale = "ja", original = true },
+    { name = "Morning Musume '16", locale = "ja-Latn", default = true },
+  ],
+}]
+
+[[releases]]
+released_on = "2016-05-11"
+country = "JP"
+catalog_number = "EPCE-7217"
+disambiguation = "Limited Edition A"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1173104/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7217/" },
+]
+
+[[releases]]
+released_on = "2016-05-11"
+country = "JP"
+catalog_number = "EPCE-7219"
+disambiguation = "Limited Edition B"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1173105/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7217/" },
+]
+
+[[releases]]
+released_on = "2016-05-11"
+country = "JP"
+catalog_number = "EPCE-7221"
+disambiguation = "Limited Edition C"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1173106/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7217/" },
+]
+
+[[releases]]
+released_on = "2016-05-11"
+country = "JP"
+catalog_number = "EPCE-7223"
+disambiguation = "Regular Edition A"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1173107/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7217/" },
+]
+
+[[releases]]
+released_on = "2016-05-11"
+country = "JP"
+catalog_number = "EPCE-7224"
+disambiguation = "Regular Edition B"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1173108/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7217/" },
+]
+
+[[releases]]
+released_on = "2016-05-11"
+country = "JP"
+catalog_number = "EPCE-7225"
+disambiguation = "Regular Edition C"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/169712/products/1173109/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7217/" },
+]

@@ -1,0 +1,12 @@
+medium_ids = [
+  "morning-musume/utakata-saturday-night-the-vision-tokyo-to-iu-katasumi/limited-edition-a/dvd2",
+]
+
+[[tracks]]
+position = 1
+duration = "5:12"
+names = [
+  { name = "泡沫サタデーナイト！ (Music Video)", locale = "ja", original = true },
+  { name = "Utakata Saturday Night! (Music Video)", locale = "ja-Latn", default = true },
+  { name = "Ephemeral Saturday Night! (Music Video)", locale = "en" },
+]

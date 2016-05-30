@@ -1,0 +1,13 @@
+names = [
+  { name = "Tokyoという片隅 (Instrumental)", locale = "ja", original = true },
+  { name = "Tokyo to Iu Katasumi (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "In a Corner of a City Called Tokyo (Instrumental)", locale = "en" },
+]
+
+artist_credits = [{
+  artist_id = "morning-musume",
+  names = [
+    { name = "モーニング娘。 '16", locale = "ja", original = true },
+    { name = "Morning Musume '16", locale = "ja-Latn", default = true },
+  ],
+}]

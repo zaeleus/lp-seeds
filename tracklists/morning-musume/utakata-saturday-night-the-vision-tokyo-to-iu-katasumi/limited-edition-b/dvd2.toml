@@ -1,0 +1,10 @@
+medium_ids = [
+  "morning-musume/utakata-saturday-night-the-vision-tokyo-to-iu-katasumi/limited-edition-b/dvd2",
+]
+
+[[tracks]]
+position = 1
+duration = "6:54"
+names = [
+  { name = "The Vision (Music Video)", locale = "ja", original = true, default = true },
+]

@@ -1,0 +1,38 @@
+medium_ids = [
+  "morning-musume/utakata-saturday-night-the-vision-tokyo-to-iu-katasumi/limited-edition-a/cd1",
+  "morning-musume/utakata-saturday-night-the-vision-tokyo-to-iu-katasumi/limited-edition-b/cd1",
+  "morning-musume/utakata-saturday-night-the-vision-tokyo-to-iu-katasumi/limited-edition-c/cd1",
+  "morning-musume/utakata-saturday-night-the-vision-tokyo-to-iu-katasumi/regular-edition-a/cd1",
+  "morning-musume/utakata-saturday-night-the-vision-tokyo-to-iu-katasumi/regular-edition-b/cd1",
+  "morning-musume/utakata-saturday-night-the-vision-tokyo-to-iu-katasumi/regular-edition-c/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "morning-musume/utakata-saturday-night"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song_id = "morning-musume/the-vision"
+duration = "5:27"
+
+[[tracks]]
+position = 3
+song_id = "morning-musume/tokyo-to-iu-katasumi"
+duration = "4:33"
+
+[[tracks]]
+position = 4
+song_id = "morning-musume/utakata-saturday-night-instrumental"
+duration = "3:48"
+
+[[tracks]]
+position = 5
+song_id = "morning-musume/the-vision-instrumental"
+duration = "5:27"
+
+[[tracks]]
+position = 6
+song_id = "morning-musume/tokyo-to-iu-katasumi-instrumental"
+duration = "4:35"

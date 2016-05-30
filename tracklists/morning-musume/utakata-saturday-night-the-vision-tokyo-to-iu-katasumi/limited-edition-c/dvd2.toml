@@ -1,0 +1,12 @@
+medium_ids = [
+  "morning-musume/utakata-saturday-night-the-vision-tokyo-to-iu-katasumi/limited-edition-c/dvd2",
+]
+
+[[tracks]]
+position = 1
+duration = "5:06"
+names = [
+  { name = "Tokyoという片隅 (Music Video)", locale = "ja", original = true },
+  { name = "Tokyo to Iu Katasumi (Music Video)", locale = "ja-Latn", default = true },
+  { name = "In a Corner of a City Called Tokyo (Music Video)", locale = "en" },
+]
