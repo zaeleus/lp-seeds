@@ -1,0 +1,5 @@
+names = [
+  { name = "何故 人は争うんだろう？ (Instrumental)", locale = "ja", original = true },
+  { name = "Naze Hito wa Arasoun Darou? (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Why Do People Fight? (Instrumental)", locale = "en" },
+]

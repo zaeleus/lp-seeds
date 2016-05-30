@@ -1,0 +1,10 @@
+medium_ids = [
+  "c-ute/naze-hito-wa-arasoun-darou-summer-wind-jinsei-wa-step/limited-edition-b/dvd2",
+]
+
+[[tracks]]
+position = 1
+duration = "5:08"
+names = [
+  { name = "Summer Wind (Music Video)", locale = "ja", original = true, default = true },
+]

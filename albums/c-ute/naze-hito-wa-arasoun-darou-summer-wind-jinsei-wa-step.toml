@@ -1,0 +1,74 @@
+artist_id = "c-ute"
+kind = "single"
+
+names = [
+  { name = "何故 人は争うんだろう？／Summer Wind／人生はSTEP!", locale = "ja", original = true },
+  { name = "Naze Hito wa Arasoun Darou? / Summer Wind / Jinsei wa STEP!", locale = "ja-Latn", default = true },
+  { name = "Why Do People Fight? / Summer Wind / Life is STEP!", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "EPCE-7208"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/398106/products/1172060/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7208/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "EPCE-7210"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/398106/products/1172061/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7208/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "EPCE-7212"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition C"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/398106/products/1172062/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7208/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "EPCE-7214"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/398106/products/1172063/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7208/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "EPCE-7215"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/398106/products/1172064/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7208/" },
+]
+
+[[releases]]
+released_on = "2016-04-20"
+country = "JP"
+catalog_number = "EPCE-7216"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition C"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/398106/products/1172065/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7208/" },
+]

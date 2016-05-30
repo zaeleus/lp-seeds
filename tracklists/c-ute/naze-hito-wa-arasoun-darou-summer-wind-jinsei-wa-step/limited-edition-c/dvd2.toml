@@ -1,0 +1,12 @@
+medium_ids = [
+  "c-ute/naze-hito-wa-arasoun-darou-summer-wind-jinsei-wa-step/limited-edition-c/dvd2",
+]
+
+[[tracks]]
+position = 1
+duration = "6:16"
+names = [
+  { name = "人生はSTEP! (Music Video)", locale = "ja", original = true },
+  { name = "Jinsei wa STEP! (Music Video)", locale = "ja-Latn", default = true },
+  { name = "Life is STEP! (Music Video)", locale = "en" },
+]

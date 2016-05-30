@@ -1,0 +1,5 @@
+names = [
+  { name = "人生はSTEP! (Instrumental)", locale = "ja", original = true },
+  { name = "Jinsei wa STEP! (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Life is STEP! (Instrumental)", locale = "en" },
+]
