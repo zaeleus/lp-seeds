@@ -2,3 +2,7 @@ names = [
   { name = "사랑애 (哀)", locale = "ko", original = true },
   { name = "Sarangae (Ae)", locale = "ko-Latn", default = true },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=BabrsWtxTI0", name = "Music Video" },
+]
