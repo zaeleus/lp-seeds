@@ -1,0 +1,9 @@
+names = [
+  { name = "맥주 두 잔", locale = "ko", original = true },
+  { name = "Maekju Du Jan", locale = "ko-Latn", default = true },
+  { name = "2 BEER", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=G4BolnueTeE", name = "Music Video" },
+]
