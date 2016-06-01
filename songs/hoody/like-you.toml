@@ -1,0 +1,10 @@
+names = [
+  { name = "Like You", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=RplscDM9TTM", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=7Ff0tobfVao", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=dmE7FjfutvQ", name = "Teaser 3" },
+  { url = "https://www.youtube.com/watch?v=JaSIPgnclCU", name = "Music Video" },
+]
