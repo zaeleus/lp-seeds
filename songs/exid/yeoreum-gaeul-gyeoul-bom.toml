@@ -1,0 +1,5 @@
+names = [
+  { name = "여름, 가을, 겨울, 봄", locale = "ko", original = true },
+  { name = "Yeoreum, Gaeul, Gyeoul, Bom", locale = "ko-Latn", default = true },
+  { name = "Like the Seasons", locale = "en" },
+]

@@ -1,0 +1,32 @@
+artist_id = "exid"
+kind = "lp"
+
+names = [
+  { name = "STREET", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=yDFG-CRpoN4", name = "Highlight Video" },
+  { url = "https://www.youtube.com/watch?v=hviX0UUnMJ0", name = "Recording Making" },
+  { url = "https://www.youtube.com/watch?v=UnEtzMPZ6zU", name = "Jacket Making" },
+]
+
+[[releases]]
+released_on = "2016-06-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://play.google.com/store/music/album?id=Bqtjynpebr3oochy42j3z3fuju4" },
+  { url = "https://itunes.apple.com/us/album/street/id1118367147" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2688323" },
+  { url = "http://www.mnet.com/album/552765" },
+]
+
+[[releases]]
+released_on = "2016-06-01"
+country = "KR"
+catalog_number = "S90897C"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=026900206" },
+]
