@@ -1,0 +1,13 @@
+medium_ids = [
+  "fiestar/apple-pie/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "fiestar/apple-pie"
+duration = ""
+
+[[tracks]]
+position = 2
+song_id = "fiestar/apple-pie-inst"
+duration = ""

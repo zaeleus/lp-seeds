@@ -1,0 +1,8 @@
+names = [
+  { name = "APPLE PIE", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=nNP-rRw3B14", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=3BpnB47Fxts", name = "Music Video" },
+]
