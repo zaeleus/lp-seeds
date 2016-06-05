@@ -1,0 +1,8 @@
+medium_ids = [
+  "heize/and-july/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "heize/shut-up-groove-feat-dean"
+duration = "3:19"

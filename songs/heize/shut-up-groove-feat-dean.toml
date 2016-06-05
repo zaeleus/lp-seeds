@@ -1,0 +1,8 @@
+names = [
+  { name = "Shut Up & Groove (Feat. DEAN)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=WnEOtnmZxqM", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=sk6WiGOmlso", name = "Music Video" },
+]
