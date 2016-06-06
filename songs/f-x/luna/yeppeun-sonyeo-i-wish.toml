@@ -1,0 +1,13 @@
+names = [
+  { name = "예쁜 소녀 (I Wish)", locale = "ko", original = true },
+  { name = "Yeppeun Sonyeo (I Wish)", locale = "ko-Latn", default = true },
+  { name = "Pretty Girl (I Wish)", locale = "en" },
+]
+
+artist_credits = [{
+  artist_id = "f-x/luna",
+  names = [
+    { name = "루나", locale = "ko", original = true },
+    { name = "LUNA", locale = "ko-Latn", default = true },
+  ],
+}]

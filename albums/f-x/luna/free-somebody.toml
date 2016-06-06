@@ -1,0 +1,35 @@
+artist_id = "f-x/luna"
+kind = "ep"
+
+names = [
+  { name = "Free Somebody", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [{
+  artist_id = "f-x/luna",
+  names = [
+    { name = "루나", locale = "ko", original = true },
+    { name = "LUNA", locale = "ko-Latn", default = true },
+  ],
+}]
+
+[[releases]]
+released_on = "2016-05-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://play.google.com/store/music/album?id=B7bfqv24o7j7kip4nfaie6l4h6i" },
+  { url = "https://itunes.apple.com/us/album/id1118812969" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2688030" },
+  { url = "http://www.mnet.com/album/552527" },
+  { url = "https://open.spotify.com/album/4QT7hlGzXILyprXcvWeLEp" },
+]
+
+[[releases]]
+released_on = "2016-05-31"
+country = "KR"
+catalog_number = ""
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=024100049" },
+]

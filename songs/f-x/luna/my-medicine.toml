@@ -1,0 +1,11 @@
+names = [
+  { name = "My Medicine", locale = "ko", original = true, default = true },
+]
+
+artist_credits = [{
+  artist_id = "f-x/luna",
+  names = [
+    { name = "루나", locale = "ko", original = true },
+    { name = "LUNA", locale = "ko-Latn", default = true },
+  ],
+}]
