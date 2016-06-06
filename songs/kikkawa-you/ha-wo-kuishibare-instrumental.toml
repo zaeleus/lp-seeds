@@ -1,0 +1,5 @@
+names = [
+  { name = "歯をくいしばれっっ！ (Instrumental)", locale = "ja", original = true },
+  { name = "Ha wo Kuishibare! (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Let My Teeth Clenched! (Instrumental)", locale = "en" },
+]

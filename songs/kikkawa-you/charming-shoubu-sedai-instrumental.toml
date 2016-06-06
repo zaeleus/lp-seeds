@@ -1,0 +1,5 @@
+names = [
+  { name = "チャーミング勝負世代 (Instrumental)", locale = "ja", original = true },
+  { name = "Charming Shoubu Sedai (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Charming Generation (Instrumental)", locale = "en" },
+]

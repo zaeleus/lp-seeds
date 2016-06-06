@@ -1,0 +1,9 @@
+names = [
+  { name = "チャーミング勝負世代", locale = "ja", original = true },
+  { name = "Charming Shoubu Sedai", locale = "ja-Latn", default = true },
+  { name = "Charming Generation", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Sivm8YaQ3qY", name = "Music Video" },
+]

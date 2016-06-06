@@ -1,0 +1,9 @@
+names = [
+  { name = "歯をくいしばれっっ！", locale = "ja", original = true },
+  { name = "Ha wo Kuishibare!", locale = "ja-Latn", default = true },
+  { name = "Let My Teeth Clenched!", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=8zHS7ndc2uk", name = "Music Video" },
+]

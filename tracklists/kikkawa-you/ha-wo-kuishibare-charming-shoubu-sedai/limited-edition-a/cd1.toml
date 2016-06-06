@@ -1,0 +1,24 @@
+medium_ids = [
+  "kikkawa-you/ha-wo-kuishibare-charming-shoubu-sedai/limited-edition-a/cd1",
+  "kikkawa-you/ha-wo-kuishibare-charming-shoubu-sedai/regular-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song_id = "kikkawa-you/ha-wo-kuishibare"
+duration = "4:12"
+
+[[tracks]]
+position = 2
+song_id = "kikkawa-you/charming-shoubu-sedai"
+duration = "3:46"
+
+[[tracks]]
+position = 3
+song_id = "kikkawa-you/ha-wo-kuishibare-instrumental"
+duration = "4:12"
+
+[[tracks]]
+position = 4
+song_id = "kikkawa-you/charming-shoubu-sedai-instrumental"
+duration = "3:46"

@@ -1,0 +1,41 @@
+artist_id = "kikkawa-you"
+kind = "single"
+
+names = [
+  { name = "歯をくいしばれっっ！／チャーミング勝負世代", locale = "ja", original = true },
+  { name = "Ha wo Kuishibare! / Charming Shoubu Sedai", locale = "ja-Latn", default = true },
+  { name = "Let My Teeth Clenched! / Charming Generation", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-06-01"
+country = "JP"
+catalog_number = "POCS-1442"
+disambiguation = "Regular Edition"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/460663/products/1177415/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/POCS-9131/" },
+]
+
+[[releases]]
+released_on = "2016-06-01"
+country = "JP"
+catalog_number = "POCS-9131"
+disambiguation = "Limited Edition A"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/460663/products/1177413/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/POCS-9131/" },
+]
+
+[[releases]]
+released_on = "2016-06-01"
+country = "JP"
+catalog_number = "POCS-9132"
+disambiguation = "Limited Edition B"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/460663/products/1177414/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/POCS-9131/" },
+]
