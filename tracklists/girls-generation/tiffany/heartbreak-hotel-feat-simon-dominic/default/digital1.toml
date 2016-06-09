@@ -1,0 +1,13 @@
+medium_ids = [
+  "girls-generation/tiffany/heartbreak-hotel-feat-simon-dominic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "girls-generation/tiffany/heartbreak-hotel-feat-simon-dominic"
+duration = "4:24"
+
+[[tracks]]
+position = 2
+song_id = "girls-generation/tiffany/heartbreak-hotel-feat-simon-dominic-inst"
+duration = "4:24"
