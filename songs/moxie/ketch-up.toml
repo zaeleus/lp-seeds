@@ -1,0 +1,9 @@
+names = [
+  { name = "Ketch Up", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=TPFYpJLn1DE", name = "Music Video (Full Ver.)" },
+  { url = "https://www.youtube.com/watch?v=1sHs68gwRrE", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=LYL6VVBBV-0", name = "Rooftop Practice" },
+]

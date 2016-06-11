@@ -1,0 +1,16 @@
+artist_id = "moxie"
+kind = "single"
+
+names = [
+  { name = "Ketch Up", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-05-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1112061175" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2683099" },
+  { url = "http://www.mnet.com/album/546630" },
+]
