@@ -1,0 +1,8 @@
+kind = "person"
+started_on = "1991-03-16"
+country = "KR"
+
+names = [
+  { name = "이진아", locale = "ko", kind = "real", original = true },
+  { name = "Lee Jin Ah", locale = "ko-Latn", kind = "real", default = true },
+]
