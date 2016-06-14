@@ -1,0 +1,17 @@
+artist_id = "younha"
+kind = "single"
+
+names = [
+  { name = "알아듣겠지 (Feat. HA:TFELT, 치타)", locale = "ko", original = true },
+  { name = "Aradeutgessji (Feat. HA:TFELT, Cheetah)", locale = "ko-Latn", default = true },
+  { name = "Get It? (Feat. HA:TFELT, Cheetah)", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-06-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/song/detail.htm?songId=8219727" },
+  { url = "http://www.mnet.com/album/554970" },
+]

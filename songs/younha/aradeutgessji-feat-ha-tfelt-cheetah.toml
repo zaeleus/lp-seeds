@@ -1,0 +1,10 @@
+names = [
+  { name = "알아듣겠지 (Feat. HA:TFELT, 치타)", locale = "ko", original = true },
+  { name = "Aradeutgessji (Feat. HA:TFELT, Cheetah)", locale = "ko-Latn", default = true },
+  { name = "Get It? (Feat. HA:TFELT, Cheetah)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=5K1BMSBx8Eg", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=aeo_nWsu5cs", name = "Music Video" },
+]

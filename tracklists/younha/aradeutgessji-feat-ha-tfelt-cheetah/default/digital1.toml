@@ -1,0 +1,8 @@
+medium_ids = [
+  "younha/aradeutgessji-feat-ha-tfelt-cheetah/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "younha/aradeutgessji-feat-ha-tfelt-cheetah"
+duration = "3:34"
