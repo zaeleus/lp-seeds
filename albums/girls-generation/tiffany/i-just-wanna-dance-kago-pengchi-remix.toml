@@ -1,0 +1,18 @@
+artist_id = "girls-generation/tiffany"
+kind = "single"
+
+names = [
+  { name = "I Just Wanna Dance (Kago Pengchi Remix)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-05-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://play.google.com/store/music/album?id=Bdsi4soaxca5korfo3cx5wqo7wq" },
+  { url = "https://itunes.apple.com/us/album/id1116083449" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2686334" },
+  { url = "http://www.mnet.com/album/550661" },
+  { url = "https://open.spotify.com/album/1dsndBeanEyOh6ZdzhxqXJ" },
+]
