@@ -1,0 +1,19 @@
+names = [
+  { name = "그 길에서", locale = "ko", original = true },
+  { name = "Geu Gireseo", locale = "ko-Latn", default = true },
+  { name = "On the Road", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ldq8rYJyWv8", name = "Drama Teaser" },
+  { url = "https://www.youtube.com/watch?v=V8Tuhe2rT-0", name = "Main Teaser" },
+  { url = "https://www.youtube.com/watch?v=mWi5CZMb8pA", name = "Dance Teaser" },
+  { url = "https://www.youtube.com/watch?v=fEYF3T0kQEo", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=fUcOxeBqVfw", name = "Special Video (Eunice Ver.)" },
+  { url = "https://www.youtube.com/watch?v=mn4_UeNvcPI", name = "Music Video Making" },
+  { url = "https://www.youtube.com/watch?v=QW3pGrUTqCw", name = "Special Video (Eunchae Ver.)" },
+  { url = "https://www.youtube.com/watch?v=DEJ-RjzDRXA", name = "Special Video (Jenny Ver.)" },
+  { url = "https://www.youtube.com/watch?v=Fnq_xELZUHE", name = "Special Video (Yebin Ver.)" },
+  { url = "https://www.youtube.com/watch?v=xHyMYr_RpeQ", name = "Special Video (Eunjin Ver.)" },
+  { url = "https://www.youtube.com/watch?v=2SsvE4xO92I", name = "Special Video (Huihyeon Ver.)" },
+]

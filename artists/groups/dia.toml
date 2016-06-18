@@ -1,0 +1,15 @@
+kind = "group"
+started_on = "2015-09"
+country = "KR"
+
+names = [
+  { name = "다이아", locale = "ko", original = true },
+  { name = "DIA", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "http://cafe.daum.net/officialdia/" },
+  { url = "https://www.facebook.com/mbk.dia/" },
+  { url = "https://www.instagram.com/mbk.dia/" },
+  { url = "https://twitter.com/dia_official" },
+]

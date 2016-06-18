@@ -1,0 +1,25 @@
+artist_id = "dia"
+kind = "ep"
+
+names = [
+  { name = "HAPPY ENDING", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-06-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1123988396" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2690816" },
+  { url = "http://www.mnet.com/album/555043" },
+]
+
+[[releases]]
+released_on = "2016-06-14"
+country = "KR"
+catalog_number = "INT-0059"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nAlbum_info2.asp?mcode=007400147" },
+]
