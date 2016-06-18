@@ -1,0 +1,15 @@
+kind = "person"
+started_on = "1980-02-28"
+country = "KR"
+
+names = [
+  { name = "바다", locale = "ko", kind = "stage", original = true },
+  { name = "Bada", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "최성희", locale = "ko", kind = "real" },
+  { name = "Choi Sung Hee", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood_type = "AB"
+height = 164
+weight = 47

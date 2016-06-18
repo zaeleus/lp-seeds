@@ -1,0 +1,8 @@
+names = [
+  { name = "FLOWER (Feat. Kanto)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=GciWYDU3D0Y", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=J-RhP7PPVbQ", name = "Music Video" },
+]

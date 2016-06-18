@@ -1,0 +1,16 @@
+artist_id = "bada"
+kind = "single"
+
+names = [
+  { name = "FLOWER", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-06-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1123501412" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2690579" },
+  { url = "http://www.mnet.com/album/554943" },
+]
