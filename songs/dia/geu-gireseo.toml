@@ -16,4 +16,5 @@ urls = [
   { url = "https://www.youtube.com/watch?v=Fnq_xELZUHE", name = "Special Video (Yebin Ver.)" },
   { url = "https://www.youtube.com/watch?v=xHyMYr_RpeQ", name = "Special Video (Eunjin Ver.)" },
   { url = "https://www.youtube.com/watch?v=2SsvE4xO92I", name = "Special Video (Huihyeon Ver.)" },
+  { url = "https://www.youtube.com/watch?v=L-N4QzQobzQ", name = "Special Video (Chaeyeon Ver.)" },
 ]
