@@ -1,0 +1,25 @@
+artist_id = "-virtual/san-e-raina"
+kind = "single"
+
+names = [
+  { name = "달고나", locale = "ko", original = true },
+  { name = "Dalgona", locale = "ko-Latn", default = true },
+  { name = "Sugar and Me", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "san-e", separator = ", " },
+  { artist_id = "after-school/raina" },
+]
+
+[[releases]]
+released_on = "2016-06-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://play.google.com/store/music/album?id=Bugcbhrq64t2ltusjalbjacn44m" },
+  { url = "https://itunes.apple.com/us/album/id1125234539" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2690926" },
+  { url = "http://www.mnet.com/album/556196" },
+  { url = "https://open.spotify.com/album/3hcOeqWj5793tiQKM8m11k" },
+]

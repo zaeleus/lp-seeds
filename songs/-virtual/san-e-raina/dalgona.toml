@@ -1,0 +1,15 @@
+names = [
+  { name = "달고나", locale = "ko", original = true },
+  { name = "Dalgona", locale = "ko-Latn", default = true },
+  { name = "Sugar and Me", locale = "en" },
+]
+
+artist_credits = [
+  { artist_id = "san-e", separator = ", " },
+  { artist_id = "after-school/raina" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ztX9cTCfLUk", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=8avNw5EWBYs", name = "Music Video" },
+]
