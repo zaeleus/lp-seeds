@@ -1,0 +1,5 @@
+names = [
+  { name = "역시 혹시 다시", locale = "ko", original = true },
+  { name = "Yeoksi Hoksi Dasi", locale = "ko-Latn", default = true },
+  { name = "Indeed, Maybe, Again", locale = "en" },
+]
