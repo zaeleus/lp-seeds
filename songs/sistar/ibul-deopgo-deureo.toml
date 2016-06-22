@@ -1,0 +1,5 @@
+names = [
+  { name = "이불 덮고 들어", locale = "ko", original = true },
+  { name = "Ibul Deopgo Deureo", locale = "ko-Latn", default = true },
+  { name = "My Sad Lullaby", locale = "en" },
+]
