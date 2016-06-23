@@ -1,0 +1,5 @@
+names = [
+  { name = "꽃 (Inst.)", locale = "ko", original = true },
+  { name = "Kkot (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Flower (Inst.)", locale = "en" },
+]

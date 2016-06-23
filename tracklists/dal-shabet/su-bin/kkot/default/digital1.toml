@@ -1,0 +1,23 @@
+medium_ids = [
+  "dal-shabet/su-bin/kkot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "dal-shabet/su-bin/miwo"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song_id = "dal-shabet/su-bin/kkot"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song_id = "dal-shabet/su-bin/miwo-inst"
+duration = "3:43"
+
+[[tracks]]
+position = 4
+song_id = "dal-shabet/su-bin/kkot-inst"
+duration = "3:16"
