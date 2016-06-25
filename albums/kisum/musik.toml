@@ -1,0 +1,30 @@
+artist_id = "kisum"
+kind = "ep"
+
+names = [
+  { name = "Musik", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=QnhfyeT_aCI", name = "Highlight Medley" },
+]
+
+[[releases]]
+released_on = "2016-06-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://play.google.com/store/music/album?id=Bawrolshkptkzne7vf2lojo6o5q" },
+  { url = "https://itunes.apple.com/us/album/id1127139085" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2693220" },
+  { url = "http://www.mnet.com/album/557243" },
+]
+
+[[releases]]
+released_on = "2016-06-23"
+country = "KR"
+catalog_number = "L100005219"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001209576" },
+]

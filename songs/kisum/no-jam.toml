@@ -1,0 +1,9 @@
+names = [
+  { name = "No Jam", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=1qmwwQYaT9c", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=rRWoGhDctco", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=9V9WciayKIw", name = "Music Video (Live)" },
+]

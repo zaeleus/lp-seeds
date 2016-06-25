@@ -1,0 +1,8 @@
+names = [
+  { name = "옥타빵", locale = "ko", original = true },
+  { name = "Ocktabbang", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=_xJUrrrkR3I", name = "Teaser" },
+]
