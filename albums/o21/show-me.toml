@@ -1,0 +1,15 @@
+artist_id = "o21"
+kind = "single"
+
+names = [
+  { name = "SHOW ME", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-06-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2691882" },
+  { url = "http://www.mnet.com/album/556661" },
+]

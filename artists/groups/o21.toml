@@ -1,0 +1,8 @@
+kind = "group"
+started_on = "2016"
+country = "KR"
+
+names = [
+  { name = "O21", locale = "ko", original = true, default = true },
+  { name = "O TO ONE", locale = "ko" },
+]
