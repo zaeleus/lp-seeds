@@ -1,0 +1,33 @@
+medium_ids = [
+  "girls-generation/taeyeon/why/default/cd1",
+  "girls-generation/taeyeon/why/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "girls-generation/taeyeon/why"
+
+[[tracks]]
+position = 2
+song_id = "girls-generation/taeyeon/starlight-feat-dean"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song_id = "girls-generation/taeyeon/fashion"
+
+[[tracks]]
+position = 4
+song_id = "girls-generation/taeyeon/hands-on-me"
+
+[[tracks]]
+position = 5
+song_id = "girls-generation/taeyeon/up-down-feat-hyoyeon"
+
+[[tracks]]
+position = 6
+song_id = "girls-generation/taeyeon/good-thing"
+
+[[tracks]]
+position = 7
+song_id = "girls-generation/taeyeon/night"
