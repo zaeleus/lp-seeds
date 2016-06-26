@@ -1,0 +1,13 @@
+medium_ids = [
+  "pledis-girlz/we/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "pledis-girlz/we"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song_id = "pledis-girlz/we-inst"
+duration = "3:54"

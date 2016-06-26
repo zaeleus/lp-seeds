@@ -1,0 +1,8 @@
+kind = "group"
+started_on = "2016"
+country = "KR"
+
+names = [
+  { name = "플레디스걸즈", locale = "ko", original = true },
+  { name = "PLEDIS Girlz", locale = "ko-Latn", default = true },
+]

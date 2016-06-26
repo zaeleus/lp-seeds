@@ -1,0 +1,15 @@
+artist_id = "pledis-girlz"
+kind = "single"
+
+names = [
+  { name = "WE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-06-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2693806" },
+  { url = "http://www.mnet.com/album/557947" },
+]
