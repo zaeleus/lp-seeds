@@ -1,0 +1,13 @@
+names = [
+  { name = "하이힐", locale = "ko", original = true },
+  { name = "Haihil", locale = "ko-Latn" },
+  { name = "High Heels", locale = "en", default = true },
+]
+
+urls = [
+  #{ url = "http://www.vlive.tv/video/10232", name = "Teaser 1" },
+  #{ url = "http://www.vlive.tv/video/10281", name = "Teaser 2" },
+  #{ url = "http://www.vlive.tv/video/10302", name = "Teaser 3" },
+  { url = "https://www.youtube.com/watch?v=O85MJa105fc", name = "Teaser 4" },
+  { url = "https://www.youtube.com/watch?v=a_0GkKQ_nzc", name = "Music Video" },
+]
