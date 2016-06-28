@@ -1,0 +1,12 @@
+kind = "person"
+started_on = "1978-10-02"
+country = "JP"
+
+names = [
+  { name = "浜崎あゆみ", locale = "ja", kind = "stage", original = true },
+  { name = "Hamasaki Ayumi", locale = "ja-Latn", kind = "stage", default = true },
+  { name = "濱崎歩", locale = "ja", kind = "real" },
+  { name = "Hamasaki Ayumi", locale = "ja-Latn", kind = "real" },
+  { name = "あゆ", locale = "ja", kind = "nickname" },
+  { name = "Ayu", locale = "ja-Latn", kind = "nickname" },
+]

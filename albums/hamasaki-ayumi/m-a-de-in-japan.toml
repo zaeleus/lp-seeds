@@ -1,0 +1,47 @@
+artist_id = "hamasaki-ayumi"
+kind = "lp"
+
+names = [
+  { name = "M(A)DE IN JAPAN", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-06-29"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000002/ANTCD-18427_F/" },
+]
+
+[[releases]]
+released_on = "2016-06-29"
+country = "JP"
+catalog_number = "AVCD-93438/B"
+disambiguation = "CD+DVD"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://avex.jp/ayu/discography/detail.php?id=1013959" },
+  { url = "http://www.oricon.co.jp/prof/246497/products/1182805/1/" },
+]
+
+[[releases]]
+released_on = "2016-06-29"
+country = "JP"
+catalog_number = "AVCD-93439/B"
+disambiguation = "CD+BD"
+media = [{ kind = "cd" }, { kind = "blu-ray" }]
+urls = [
+  { url = "http://avex.jp/ayu/discography/detail.php?id=1013959" },
+  { url = "http://www.oricon.co.jp/prof/246497/products/1182807/1/" },
+]
+
+[[releases]]
+released_on = "2016-06-29"
+country = "JP"
+catalog_number = "AVCD-93440"
+disambiguation = "CD Only"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://avex.jp/ayu/discography/detail.php?id=1013959" },
+  { url = "http://www.oricon.co.jp/prof/246497/products/1182808/1/" },
+]
