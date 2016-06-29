@@ -12,6 +12,7 @@ released_on = "2016-05-25"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
+  { url = "https://play.google.com/store/music/album?id=Bbqgsvlodjdrzuxpzktkpegdzt4" },
   { url = "https://itunes.apple.com/us/album/id1116922814" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2685311" },
   { url = "http://www.mnet.com/album/551124" },
