@@ -5,4 +5,5 @@ names = [
 urls = [
   { url = "https://www.youtube.com/watch?v=vWNFSG_si8w", name = "Teaser" },
   { url = "https://www.youtube.com/watch?v=Flq-Ihs1CeQ", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=ErfYlsY16UQ", name = "Dance Practice" },
 ]
