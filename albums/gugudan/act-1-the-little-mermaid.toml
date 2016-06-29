@@ -1,0 +1,32 @@
+artist_id = "gugudan"
+kind = "ep"
+
+names = [
+  { name = "Act.1 The Little Mermaid", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=mMtm-VMubh8", name = "Debut Film 1" },
+  { url = "https://www.youtube.com/watch?v=LUsCt8Q0hEY", name = "Debut Film 2" },
+  { url = "https://www.youtube.com/watch?v=mHVXRcV2gQo", name = "Highlight Medley" },
+  { url = "https://www.youtube.com/watch?v=rwc0a6Pmp38", name = "Debut Film 3" },
+]
+
+[[releases]]
+released_on = "2016-06-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1128322245" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2694101" },
+  { url = "http://www.mnet.com/album/558278" },
+]
+
+[[releases]]
+released_on = "2016-06-28"
+country = "KR"
+catalog_number = "CMDC-10827"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nAlbum_info2.asp?mcode=000601096" },
+]

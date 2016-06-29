@@ -1,0 +1,5 @@
+names = [
+  { name = "일기 (Diary)", locale = "ko", original = true },
+  { name = "Ilgi (Diary)", locale = "ko-Latn", default = true },
+  { name = "Diary", locale = "en" },
+]

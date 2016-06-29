@@ -1,0 +1,9 @@
+names = [
+  { name = "Wonderland", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=EhT3Q2cG14M", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=e1MlOilSGl8", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=bi8Yi55awg8", name = "Music Video" },
+]

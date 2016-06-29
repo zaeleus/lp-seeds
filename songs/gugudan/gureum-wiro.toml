@@ -1,0 +1,5 @@
+names = [
+  { name = "구름 위로", locale = "ko", original = true },
+  { name = "Gureum Wiro", locale = "ko-Latn", default = true },
+  { name = "Could This Be Love", locale = "en" },
+]
