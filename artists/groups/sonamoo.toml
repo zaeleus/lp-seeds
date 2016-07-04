@@ -1,0 +1,8 @@
+kind = "group"
+started_on = "2014-12-29"
+country = "KR"
+
+names = [
+  { name = "소나무", locale = "ko", original = true },
+  { name = "SONAMOO", locale = "ko-Latn", default = true },
+]

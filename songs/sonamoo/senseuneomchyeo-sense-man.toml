@@ -1,0 +1,5 @@
+names = [
+  { name = "센스넘쳐 (Sense Man)", locale = "ko", original = true },
+  { name = "Senseuneomchyeo (Sense Man)", locale = "ko-Latn", default = true },
+  { name = "Sense Man", locale = "en" },
+]

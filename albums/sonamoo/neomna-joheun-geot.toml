@@ -1,0 +1,38 @@
+artist_id = "sonamoo"
+kind = "ep"
+
+names = [
+  { name = "넘나 좋은 것", locale = "ko", original = true },
+  { name = "Neomna Joheun Geot", locale = "ko-Latn", default = true },
+  { name = "I Like U Too Much", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-06-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1129035933" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2694420" },
+  { url = "http://www.mnet.com/album/558621" },
+]
+
+[[releases]]
+released_on = "2016-06-29"
+country = "KR"
+catalog_number = "L200001268"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001209591" },
+]
+
+[[releases]]
+released_on = "2016-06-29"
+country = "KR"
+catalog_number = "L200001269"
+media = [{ kind = "cd" }]
+disambiguation = "Special Edition"
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001209592" },
+]

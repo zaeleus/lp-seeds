@@ -1,0 +1,10 @@
+names = [
+  { name = "넘나 좋은 것 (I Like U Too Much)", locale = "ko", original = true },
+  { name = "Neomna Joheun Geot (I Like U Too Much)", locale = "ko-Latn", default = true },
+  { name = "I Like U Too Much", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=cCBf5_8eZws", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=9YmVUjBB6Hc", name = "Music Video" },
+]
