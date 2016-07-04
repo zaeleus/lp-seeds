@@ -1,0 +1,13 @@
+medium_ids = [
+  "wanna-b/waeyo-why/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "wanna-b/waeyo-why"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song_id = "wanna-b/waeyo-why-inst"
+duration = "3:28"
