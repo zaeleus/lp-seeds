@@ -7,4 +7,5 @@ urls = [
   { url = "https://www.youtube.com/watch?v=szDohCfhaDo", name = "Teaser 2" },
   { url = "https://www.youtube.com/watch?v=RnDSODY7bVE", name = "Music Video" },
   { url = "https://www.youtube.com/watch?v=zthVf2dRCfY", name = "Music Video (Dance Ver.)" },
+  { url = "https://www.youtube.com/watch?v=0eRBUiOnGMg", name = "Dingo Music Cube Live" },
 ]
