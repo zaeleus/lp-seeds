@@ -1,0 +1,5 @@
+names = [
+  { name = "비가 내리면 (Feat. 라비 of 빅스)", locale = "ko", original = true },
+  { name = "Biga Naerimyeon (Feat. Ravi of VIXX)", locale = "ko-Latn", default = true },
+  { name = "When It Rains (Feat. Ravi of VIXX)", locale = "en" },
+]

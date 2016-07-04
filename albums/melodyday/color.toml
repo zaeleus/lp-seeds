@@ -1,0 +1,25 @@
+artist_id = "melodyday"
+kind = "ep"
+
+names = [
+  { name = "COLOR", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-07-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2694960" },
+  { url = "http://www.mnet.com/album/559408" },
+]
+
+[[releases]]
+released_on = "2016-07-01"
+country = "KR"
+catalog_number = "L100005218"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001209593" },
+]
+

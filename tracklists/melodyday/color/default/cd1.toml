@@ -1,0 +1,34 @@
+medium_ids = [
+  "melodyday/color/default/cd1",
+  "melodyday/color/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "melodyday/paint-your-love"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song_id = "melodyday/color"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song_id = "melodyday/satellite"
+duration = "3:39"
+
+[[tracks]]
+position = 4
+song_id = "melodyday/neol-neukkigo-neol-neukkimyeo"
+duration = "3:34"
+
+[[tracks]]
+position = 5
+song_id = "melodyday/miwo-miwo-miwo"
+duration = "3:42"
+
+[[tracks]]
+position = 6
+song_id = "melodyday/biga-naerimyeon-feat-ravi-of-vixx"
+duration = "3:20"
