@@ -1,0 +1,24 @@
+artist_id = "wonder-girls"
+kind = "single"
+
+names = [
+  { name = "Why So Lonely", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-07-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2695552" },
+  { url = "http://www.mnet.com/album/559912" },
+]
+
+[[releases]]
+released_on = "2016-07-05"
+country = "KR"
+catalog_number = "JYPK-0676"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=045401144" },
+]

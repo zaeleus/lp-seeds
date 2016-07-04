@@ -1,0 +1,19 @@
+medium_ids = [
+  "wonder-girls/why-so-lonely/default/cd1",
+  "wonder-girls/why-so-lonely/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "wonder-girls/why-so-lonely"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song_id = "wonder-girls/areumdaun-geudaeege"
+duration = "3:11"
+
+[[tracks]]
+position = 3
+song_id = "wonder-girls/sweet-easy"
+duration = "3:21"
