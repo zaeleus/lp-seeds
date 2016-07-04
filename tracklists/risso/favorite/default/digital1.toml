@@ -1,0 +1,8 @@
+medium_ids = [
+  "risso/favorite/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "risso/favorite"
+duration = "3:21"
