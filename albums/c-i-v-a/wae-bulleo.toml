@@ -1,0 +1,17 @@
+artist_id = "c-i-v-a"
+kind = "single"
+
+names = [
+  { name = "왜 불러", locale = "ko", original = true },
+  { name = "Wae Bulleo", locale = "ko-Latn", default = true },
+  { name = "Why", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-07-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2695859" },
+  { url = "http://www.mnet.com/album/560847" },
+]

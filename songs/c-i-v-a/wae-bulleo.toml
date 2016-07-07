@@ -1,0 +1,11 @@
+names = [
+  { name = "왜 불러", locale = "ko", original = true },
+  { name = "Wae Bulleo", locale = "ko-Latn", default = true },
+  { name = "Why", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=aLRbcKeSPts", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=ASOv4CGiwOk", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=u2Rsi9QTyqY", name = "MV Filming" },
+]
