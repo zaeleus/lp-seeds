@@ -1,0 +1,17 @@
+artist_id = "unnies"
+kind = "single"
+
+names = [
+  { name = "언니들의 슬램덩크", locale = "ko", original = true },
+  { name = "Eonnideurui Seullaemdeongkeu", locale = "ko-Latn", default = true },
+  { name = "Sister's Slam Dunk", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-07-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2694921" },
+  { url = "http://www.mnet.com/album/559253" },
+]

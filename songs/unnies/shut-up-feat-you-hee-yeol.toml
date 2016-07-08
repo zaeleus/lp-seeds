@@ -1,0 +1,9 @@
+names = [
+  { name = "Shut Up (Feat. 유희열)", locale = "ko", original = true },
+  { name = "Shut Up (Feat. You Hee Yeol)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=cyZWNE6yf7M", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=XpsYpknXtCA", name = "Music Video" },
+]
