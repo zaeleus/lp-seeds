@@ -1,0 +1,5 @@
+names = [
+  { name = "바람에 날려 (Gone with the wind)", locale = "ko", original = true },
+  { name = "Barame Nallyeo (Gone with the wind)", locale = "ko-Latn", default = true  },
+  { name = "Gone with the wind", locale = "en" },
+]

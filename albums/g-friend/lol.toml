@@ -1,0 +1,40 @@
+artist_id = "g-friend"
+kind = "lp"
+
+names = [
+  { name = "LOL", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=6IJ_A9Xq3RQ", name = "Highlight Medley" },
+  { url = "https://www.youtube.com/watch?v=NTRv_yJsTHA", name = "Jacket Shooting Behind" },
+]
+
+[[releases]]
+released_on = "2016-07-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2696751" },
+  { url = "http://www.mnet.com/album/561154" },
+]
+
+[[releases]]
+released_on = "2016-07-11"
+country = "KR"
+catalog_number = "L200001273"
+media = [{ kind = "cd" }]
+disambiguation = "Lots of Love Ver."
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001209613" },
+]
+
+[[releases]]
+released_on = "2016-07-11"
+country = "KR"
+catalog_number = "L200001274"
+media = [{ kind = "cd" }]
+disambiguation = "Laughing Out Loud Ver."
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001209614" },
+]

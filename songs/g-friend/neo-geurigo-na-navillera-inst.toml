@@ -1,0 +1,5 @@
+names = [
+  { name = "너 그리고 나 (NAVILLERA) (Inst.)", locale = "ko", original = true },
+  { name = "Neo Geurigo Na (NAVILLERA) (Inst.)", locale = "ko-Latn", default = true  },
+  { name = "NAVILLERA (Inst.)", locale = "en" },
+]

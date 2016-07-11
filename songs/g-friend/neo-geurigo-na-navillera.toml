@@ -1,0 +1,11 @@
+names = [
+  { name = "너 그리고 나 (NAVILLERA)", locale = "ko", original = true },
+  { name = "Neo Geurigo Na (NAVILLERA)", locale = "ko-Latn", default = true  },
+  { name = "NAVILLERA", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=8zOcHMdrS6A", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=r4noeHLS058", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=Se8bbsUFjC8", name = "Music Video" },
+]

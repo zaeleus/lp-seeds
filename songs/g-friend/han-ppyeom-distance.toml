@@ -1,0 +1,5 @@
+names = [
+  { name = "한 뼘 (Distance)", locale = "ko", original = true },
+  { name = "Han Ppyeom (Distance)", locale = "ko-Latn", default = true  },
+  { name = "Distance", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "물들어요 (Fall in Love)", locale = "ko", original = true },
+  { name = "Muldeureoyo (Fall in Love)", locale = "ko-Latn", default = true  },
+  { name = "Fall in Lov", locale = "en" },
+]

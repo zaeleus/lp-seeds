@@ -1,0 +1,5 @@
+names = [
+  { name = "물꽃놀이 (Water Flower)", locale = "ko", original = true },
+  { name = "Mulkkoccnori (Water Flower)", locale = "ko-Latn", default = true  },
+  { name = "Water Flower", locale = "en" },
+]

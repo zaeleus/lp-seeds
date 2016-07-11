@@ -1,0 +1,5 @@
+names = [
+  { name = " 나의 일기장 (Sunshine)", locale = "ko", original = true },
+  { name = "Naui Ilgijang (Sunshine)", locale = "ko-Latn", default = true  },
+  { name = "Sunshine", locale = "en" },
+]

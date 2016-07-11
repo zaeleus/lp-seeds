@@ -1,0 +1,5 @@
+names = [
+  { name = "나침반 (Compas)", locale = "ko", original = true },
+  { name = "Nachimban (Compas)", locale = "ko-Latn", default = true  },
+  { name = "Compas", locale = "en" },
+]
