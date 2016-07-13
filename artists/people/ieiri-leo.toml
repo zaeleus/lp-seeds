@@ -1,0 +1,11 @@
+kind = "person"
+started_on = "1994-12-13"
+country = "JP"
+
+names = [
+  { name = "家入レオ", locale = "ja", kind = "real", original = true },
+  { name = "Ieiri Leo", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood_type = "A"

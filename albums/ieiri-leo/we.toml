@@ -1,0 +1,39 @@
+artist_id = "ieiri-leo"
+kind = "lp"
+
+names = [
+  { name = "WE", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-07-06"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1124863330" },
+  { url = "http://mora.jp/package/43000005/VICL-64588_F/" },
+  { url = "http://mora.jp/package/43000005/VICL-64588/" },
+  { url = "http://recochoku.jp/album/A1004458622/" },
+]
+
+[[releases]]
+released_on = "2016-07-06"
+country = "JP"
+catalog_number = "VICL-64588"
+disambiguation = "Regular Edition"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.jvcmusic.co.jp/-/Discography/A023686/VICL-64588.html" },
+  { url = "http://www.oricon.co.jp/prof/554427/products/1181231/1/" },
+]
+
+[[releases]]
+released_on = "2016-07-06"
+country = "JP"
+catalog_number = "VIZL-986"
+disambiguation = "Limited Edition"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+urls = [
+  { url = "http://www.jvcmusic.co.jp/-/Discography/A023686/VIZL-986.html" },
+  { url = "http://www.oricon.co.jp/prof/554427/products/1181230/1/" },
+]
