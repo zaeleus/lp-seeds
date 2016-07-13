@@ -1,0 +1,8 @@
+kind = "person"
+#started_on = ""
+country = "JP"
+
+names = [
+  { name = "大比良瑞希", locale = "ja", kind = "real", original = true },
+  { name = "Ohira Mizuki", locale = "ja-Latn", kind = "real", default = true },
+]

@@ -1,0 +1,29 @@
+artist_id = "ohira-mizuki"
+kind = "lp"
+
+names = [
+  { name = "TRUE ROMANCE", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=yU5A3w5-td8", name = "Song Trailers" },
+]
+
+[[releases]]
+released_on = "2016-07-06"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.amazon.co.jp/dp/B01FIMV2QU" },
+  { url = "https://itunes.apple.com/us/album/id1130621705" },
+  { url = "http://recochoku.jp/album/A1004518376/" },
+]
+
+[[releases]]
+released_on = "2016-07-06"
+country = "JP"
+catalog_number = "MIII-0002"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/676418/products/1184109/1/" },
+]
