@@ -1,0 +1,17 @@
+artist_id = "baek-a-yeon"
+kind = "single"
+
+names = [
+  { name = "이럴거면 그러지말지", locale = "ko", original = true },
+  { name = "Ireolgeomyeon Geureojimalji", locale = "ko-Latn", default = true },
+  { name = "Shouldn't Have...", locale = "en" },
+]
+
+[[releases]]
+released_on = "2015-05-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2319508" },
+  { url = "http://www.mnet.com/album/455964" },
+]

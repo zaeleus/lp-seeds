@@ -1,0 +1,9 @@
+names = [
+  { name = "이럴거면 그러지말지 (Feat. Young K)", locale = "ko", original = true },
+  { name = "Ireolgeomyeon Geureojimalji (Feat. Young K)", locale = "ko-Latn", default = true },
+  { name = "Shouldn't Have... (Feat. Young K)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=x815A21RIto", name = "Music Video" },
+]
