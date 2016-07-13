@@ -8,8 +8,10 @@ names = [
 [[releases]]
 released_on = "2016-04-20"
 country = "KR"
-#catalog_number = "" # TODO catalog number
 media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.yesasia.com/us/1049690696-0-0-0-en/info.html" },
+]
 
 [[releases]]
 released_on = "2016-04-20"
