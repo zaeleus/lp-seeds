@@ -1,0 +1,40 @@
+artist_id = "silent-siren"
+kind = "lp"
+
+names = [
+  { name = "S", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Tx8ux3ICWXg", name = "Sampler" },
+]
+
+[[releases]]
+released_on = "2016-03-02"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1084631653" },
+  { url = "http://mora.jp/package/43000015/MUCD-1344/" },
+  { url = "http://recochoku.jp/album/A1004057236/" },
+]
+
+[[releases]]
+released_on = "2016-03-02"
+country = "JP"
+catalog_number = "MUCD-1344"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/556983/products/1163728/1/" },
+]
+
+[[releases]]
+released_on = "2016-03-02"
+country = "JP"
+catalog_number = "MUCD-8070/1"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/556983/products/1163726/1/" },
+]

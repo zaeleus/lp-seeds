@@ -1,0 +1,8 @@
+names = [
+  { name = "チェリボム", locale = "ja", original = true },
+  { name = "Cherry Bomb", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Sl7B_7h2-OM", name = "Music Video" },
+]

@@ -1,0 +1,8 @@
+names = [
+  { name = "八月の夜", locale = "ja", original = true },
+  { name = "Hachigatsu no Yoru", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=TuRm1JzAsVg", name = "Music Video" },
+]

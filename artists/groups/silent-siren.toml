@@ -1,0 +1,7 @@
+kind = "group"
+started_on = "2010"
+country = "JP"
+
+names = [
+  { name = "Silent Siren", locale = "ja", original = true, default = true },
+]
