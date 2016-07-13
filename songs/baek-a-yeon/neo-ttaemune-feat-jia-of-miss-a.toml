@@ -1,0 +1,4 @@
+names = [
+  { name = "너 때문에 (Feat. Jia of miss A)", locale = "ko", original = true },
+  { name = "Neo Ttaemune (Feat. Jia of miss A)", locale = "ko-Latn", default = true },
+]

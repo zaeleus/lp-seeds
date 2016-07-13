@@ -1,0 +1,29 @@
+medium_ids = [
+  "baek-a-yeon/a-good-girl/default/cd1",
+  "baek-a-yeon/a-good-girl/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "baek-a-yeon/a-good-boy"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song_id = "baek-a-yeon/malhaejwo"
+duration = "4:24"
+
+[[tracks]]
+position = 3
+song_id = "baek-a-yeon/neo-ttaemune-feat-jia-of-miss-a"
+duration = "3:50"
+
+[[tracks]]
+position = 4
+song_id = "baek-a-yeon/mame-deureo-feat-baro-of-b1a4"
+duration = "3:18"
+
+[[tracks]]
+position = 5
+song_id = "baek-a-yeon/sansocheoreom"
+duration = "3:28"

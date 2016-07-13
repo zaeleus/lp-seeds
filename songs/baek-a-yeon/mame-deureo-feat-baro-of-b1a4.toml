@@ -1,0 +1,4 @@
+names = [
+  { name = "맘에 들어 (Feat. 바로 of B1A4)", locale = "ko", original = true },
+  { name = "Mame Deureo (Feat. Baro of B1A4)", locale = "ko-Latn", default = true },
+]

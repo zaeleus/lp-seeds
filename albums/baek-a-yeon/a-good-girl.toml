@@ -1,0 +1,25 @@
+artist_id = "baek-a-yeon"
+kind = "ep"
+
+names = [
+  { name = "a Good Girl", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2013-06-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2189139" },
+  { url = "http://www.mnet.com/album/294323" },
+]
+
+[[releases]]
+released_on = "2013-06-17"
+country = "KR"
+catalog_number = "JYPK-0261"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=050000238" },
+  { url = "http://100ayeon.jype.com/discography.asp?idx=2" },
+]
