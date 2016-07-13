@@ -1,0 +1,13 @@
+kind = "group"
+started_on = "2016"
+country = "KR"
+
+names = [
+  { name = "하이 수현", locale = "ko", original = true },
+  { name = "HI SUHYUN", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { artist_id = "lee-hi" },
+  { artist_id = "akdong-musician/lee-soo-hyun" },
+]

@@ -1,0 +1,17 @@
+artist_id = "hi-suhyun"
+kind = "single"
+
+names = [
+  { name = "나는 달라", locale = "ko", original = true },
+  { name = "Naneun Dalla", locale = "ko-Latn", default = true },
+  { name = "I'm Different", locale = "en" },
+]
+
+[[releases]]
+released_on = "2014-11-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2290103" },
+  { url = "http://www.mnet.com/album/382219" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "나는 달라 (Feat. BOBBY)", locale = "ko", original = true },
+  { name = "Naneun Dalla (Feat. BOBBY)", locale = "ko-Latn", default = true },
+  { name = "I'm Different (Feat. BOBBY)", locale = "en" },
+]
