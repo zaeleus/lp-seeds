@@ -1,0 +1,4 @@
+names = [
+  { name = "아무일 없었다는 듯 (Duet. 알리)", locale = "ko", original = true },
+  { name = "Amuil Eopseossdaneun Deut (Duet. Ali)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "친구로 남아줄게 (Duet. 긱스)", locale = "ko", original = true },
+  { name = "Chinguro Namajulge (Duet. Geeks)", locale = "ko-Latn", default = true },
+  { name = "I'll Stay as Your Friend (Duet. Geeks)", locale = "en" },
+]

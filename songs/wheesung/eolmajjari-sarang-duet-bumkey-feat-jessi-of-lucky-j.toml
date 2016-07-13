@@ -1,0 +1,9 @@
+names = [
+  { name = "얼마짜리 사랑 (Duet. 범키, feat. 제시 of 럭키제이)", locale = "ko", original = true },
+  { name = "Eolmajjari Sarang (Duet. Bumkey, feat. Jessi of Lucky J)", locale = "ko-Latn", default = true },
+  { name = "How Much Is Your Love (Duet. Bumkey, feat. Jessi of Lucky J)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=DXEiP0OTFwA", name = "Music Video" },
+]

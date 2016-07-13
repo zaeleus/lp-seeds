@@ -1,0 +1,9 @@
+names = [
+  { name = "제껴 (feat. LE of EXID)", locale = "ko", original = true },
+  { name = "Jekkyeo (feat. LE of EXID)", locale = "ko-Latn", default = true },
+  { name = "Hold Over (feat. LE of EXID)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=R_dcmPBd12M", name = "Music Video" },
+]

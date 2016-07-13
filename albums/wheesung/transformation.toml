@@ -1,0 +1,25 @@
+artist_id = "wheesung"
+kind = "ep"
+
+names = [
+  { name = "Transformation", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released_on = "2016-06-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1123585244" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2690791" },
+  { url = "http://www.mnet.com/album/555172" },
+]
+
+[[releases]]
+released_on = "2016-06-14"
+country = "KR"
+catalog_number = "KTMCD-0671"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=045401105" },
+]

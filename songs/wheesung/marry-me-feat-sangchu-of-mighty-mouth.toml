@@ -1,0 +1,4 @@
+names = [
+  { name = "Marry Me (feat. 상추 of 마이티마우스)", locale = "ko", original = true },
+  { name = "Marry Me (feat. Sangchu of Mighty Mouth)", locale = "ko-Latn", default = true },
+]
