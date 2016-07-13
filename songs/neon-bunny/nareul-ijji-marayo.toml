@@ -1,0 +1,5 @@
+names = [
+  { name = "나를 잊지 말아요", locale = "ko", original = true },
+  { name = "Nareul Ijji Marayo", locale = "ko-Latn", default = true },
+  { name = "Don't forget me", locale = "en" },
+]

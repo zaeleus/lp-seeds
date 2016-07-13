@@ -1,0 +1,5 @@
+names = [
+  { name = "서울하늘", locale = "ko", original = true },
+  { name = "Seoulhaneul", locale = "ko-Latn", default = true },
+  { name = "Romance in Seoul", locale = "en" },
+]

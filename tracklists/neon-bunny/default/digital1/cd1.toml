@@ -1,0 +1,48 @@
+medium_ids = [
+  "neon-bunny/stay-gold/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "neon-bunny/seoulhaneul"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song_id = "neon-bunny/bildinguisup"
+duration = "3:52"
+
+[[tracks]]
+position = 3
+song_id = "neon-bunny/room314"
+duration = "4:02"
+
+[[tracks]]
+position = 4
+song_id = "neon-bunny/all-i-want-is-you"
+duration = "4:00"
+
+[[tracks]]
+position = 5
+song_id = "neon-bunny/neoyeoya"
+duration = "4:12"
+
+[[tracks]]
+position = 6
+song_id = "neon-bunny/ai"
+duration = "4:08"
+
+[[tracks]]
+position = 7
+song_id = "neon-bunny/bugaksanro"
+duration = "1:58"
+
+[[tracks]]
+position = 8
+song_id = "neon-bunny/new-moon"
+duration = "4:36"
+
+[[tracks]]
+position = 9
+song_id = "neon-bunny/nareul-ijji-marayo"
+duration = "4:20"

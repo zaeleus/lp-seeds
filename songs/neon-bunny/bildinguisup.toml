@@ -1,0 +1,5 @@
+names = [
+  { name = "빌딩의숲", locale = "ko", original = true },
+  { name = "Bildinguisup", locale = "ko-Latn", default = true },
+  { name = "Forest of Skyscrapers", locale = "en" },
+]
