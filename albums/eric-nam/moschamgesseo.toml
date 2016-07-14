@@ -1,0 +1,17 @@
+artist_id = "exid"
+kind = "single"
+
+names = [
+  { name = "못참겠어", locale = "ko", original = true },
+  { name = "Moschamgesseo", locale = "ko-Latn", default = true },
+  { name = "Can't Help Myself", locale = "en" },
+]
+
+[[releases]]
+released_on = "2016-07-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2697377" },
+  { url = "http://www.mnet.com/album/562436" },
+]

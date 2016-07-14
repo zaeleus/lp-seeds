@@ -1,0 +1,10 @@
+names = [
+  { name = "못참겠어 (Feat. Loco)", locale = "ko", original = true },
+  { name = "Moschamgesseo (Feat. Loco)", locale = "ko-Latn", default = true },
+  { name = "Can't Help Myself (Feat. Loco)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=s9_PKq8NlB4", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=myns4nPoprE", name = "Music Video" },
+]

@@ -1,0 +1,8 @@
+medium_ids = [
+  "eric-nam/moschamgesseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song_id = "eric-nam/moschamgesseo-feat-loco"
+duration = "3:09"
