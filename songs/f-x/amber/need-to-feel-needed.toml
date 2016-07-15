@@ -2,8 +2,8 @@ names = [
   { name = "Need To Feel Needed", locale = "ko", original = true, default = true },
 ]
 
-[[artist_credits]]
-artist_id = "f-x/amber"
+[[artist-credits]]
+artist-id = "f-x/amber"
 names = [
   { name = "엠버", locale = "ko", original = true },
   { name = "AMBER", locale = "ko-Latn", default = true },

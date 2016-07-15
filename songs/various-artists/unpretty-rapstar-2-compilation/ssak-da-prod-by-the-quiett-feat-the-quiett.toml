@@ -4,6 +4,6 @@ names = [
   { name = "Entirely (Prod. by The Quiett / Feat. The Quiett)", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "wonder-girls/yubin" },
+artist-credits = [
+  { artist-id = "wonder-girls/yubin" },
 ]

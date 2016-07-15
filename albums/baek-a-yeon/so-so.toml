@@ -1,4 +1,4 @@
-artist_id = "baek-a-yeon"
+artist-id = "baek-a-yeon"
 kind = "single"
 
 names = [
@@ -7,7 +7,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-05-24"
+released-on = "2016-05-24"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

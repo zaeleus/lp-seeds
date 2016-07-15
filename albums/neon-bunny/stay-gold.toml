@@ -1,4 +1,4 @@
-artist_id = "neon-bunny"
+artist-id = "neon-bunny"
 kind = "lp"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-07-13"
+released-on = "2016-07-13"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

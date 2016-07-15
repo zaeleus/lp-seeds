@@ -1,8 +1,8 @@
-medium_ids = [
+medium-ids = [
   "utada-hikaru/manatsu-no-tooriame/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "utada-hikaru/manatsu-no-tooriame"
+song-id = "utada-hikaru/manatsu-no-tooriame"
 duration = "5:41"

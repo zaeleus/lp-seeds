@@ -1,18 +1,18 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/love-namida-iro/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/love-namida-iro"
+song-id = "matsuura-aya/love-namida-iro"
 duration = "4:19"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/oo-joshi-kousei-no-shuchou"
+song-id = "matsuura-aya/oo-joshi-kousei-no-shuchou"
 duration = "4:54"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/love-namida-iro-instrumental"
+song-id = "matsuura-aya/love-namida-iro-instrumental"
 duration = "4:15"

@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2013"
+started-on = "2013"
 country = "KR"
 
 names = [
@@ -7,13 +7,13 @@ names = [
   { name = "BESTie", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "ynb-entertainment" }]
+labels = [{ label-id = "ynb-entertainment" }]
 
 members = [
-  { artist_id = "bestie/dahye" },
-  { artist_id = "bestie/hae-ryung" },
-  { artist_id = "bestie/hye-yeon" },
-  { artist_id = "bestie/u-ji" },
+  { artist-id = "bestie/dahye" },
+  { artist-id = "bestie/hae-ryung" },
+  { artist-id = "bestie/hye-yeon" },
+  { artist-id = "bestie/u-ji" },
 ]
 
 urls = [

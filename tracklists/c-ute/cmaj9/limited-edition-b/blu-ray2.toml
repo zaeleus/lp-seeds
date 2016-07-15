@@ -1,10 +1,10 @@
-medium_ids = [
+medium-ids = [
   "c-ute/cmaj9/limited-edition-b/blu-ray2",
 ]
 
 [[tracks]]
 position = 1
-song_id = "c-ute/iron-heart"
+song-id = "c-ute/iron-heart"
 names = [
   { name = "アイアンハート(Music Video)", locale = "ja", original = true },
   { name = "Iron Heart (Music Video)", locale = "en", default = true },
@@ -12,7 +12,7 @@ names = [
 
 [[tracks]]
 position = 2
-song_id = "c-ute/arigatou-mugen-no-yell"
+song-id = "c-ute/arigatou-mugen-no-yell"
 names = [
   { name = "ありがとう～無限のエール～(°C-ute Ver.)", locale = "ja", original = true },
   { name = "Arigatou ~Mugen no Yell~ (°C-ute Ver.)", locale = "ja-Latn", default = true },
@@ -20,7 +20,7 @@ names = [
 
 [[tracks]]
 position = 3
-song_id = "c-ute/arashi-wo-okosunda-exciting-fight"
+song-id = "c-ute/arashi-wo-okosunda-exciting-fight"
 names = [
   { name = "嵐を起こすんだ Exciting Fight！(°C-ute Ver.)", locale = "ja", original = true },
   { name = "Arashi wo Okosunda Exciting Fight! (°C-ute Ver.)", locale = "ja-Latn", default = true },

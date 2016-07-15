@@ -5,7 +5,7 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "tsunku", kind = "lyricist" },
-  { artist_id = "tsunku", kind = "composer" },
-  { artist_id = "kohno-shin", kind = "arranger" },
+  { artist-id = "tsunku", kind = "lyricist" },
+  { artist-id = "tsunku", kind = "composer" },
+  { artist-id = "kohno-shin", kind = "arranger" },
 ]

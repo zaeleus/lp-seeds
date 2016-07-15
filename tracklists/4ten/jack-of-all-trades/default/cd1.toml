@@ -1,29 +1,29 @@
-medium_ids = [
+medium-ids = [
   "4ten/jack-of-all-trades/default/cd1",
   "4ten/jack-of-all-trades/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "4ten/tornado"
+song-id = "4ten/tornado"
 duration = "3:31"
 
 [[tracks]]
 position = 2
-song_id = "4ten/jidokhage"
+song-id = "4ten/jidokhage"
 duration = "3:35"
 
 [[tracks]]
 position = 3
-song_id = "4ten/ooo"
+song-id = "4ten/ooo"
 duration = "3:43"
 
 [[tracks]]
 position = 4
-song_id = "4ten/wae-irae"
+song-id = "4ten/wae-irae"
 duration = "3:28"
 
 [[tracks]]
 position = 5
-song_id = "4ten/salsalhae"
+song-id = "4ten/salsalhae"
 duration = "3:31"

@@ -1,4 +1,4 @@
-artist_id = "angerme"
+artist-id = "angerme"
 kind = "single"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-04-27"
+released-on = "2016-04-27"
 country = "JP"
-catalog_number = "HKCN-50481~2"
+catalog-number = "HKCN-50481~2"
 disambiguation = "Limited Edition A"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -18,9 +18,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-27"
+released-on = "2016-04-27"
 country = "JP"
-catalog_number = "HKCN-50483~4"
+catalog-number = "HKCN-50483~4"
 disambiguation = "Limited Edition B"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -28,9 +28,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-27"
+released-on = "2016-04-27"
 country = "JP"
-catalog_number = "HKCN-50485~6"
+catalog-number = "HKCN-50485~6"
 disambiguation = "Limited Edition C"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -38,9 +38,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-27"
+released-on = "2016-04-27"
 country = "JP"
-catalog_number = "HKCN-50489"
+catalog-number = "HKCN-50489"
 disambiguation = "Regular Edition A"
 media = [{ kind = "cd" }]
 urls = [
@@ -48,9 +48,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-27"
+released-on = "2016-04-27"
 country = "JP"
-catalog_number = "HKCN-50490"
+catalog-number = "HKCN-50490"
 disambiguation = "Regular Edition B"
 media = [{ kind = "cd" }]
 urls = [
@@ -58,9 +58,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-27"
+released-on = "2016-04-27"
 country = "JP"
-catalog_number = "HKCN-50491"
+catalog-number = "HKCN-50491"
 disambiguation = "Regular Edition C"
 media = [{ kind = "cd" }]
 urls = [

@@ -1,34 +1,34 @@
-medium_ids = [
+medium-ids = [
   "girls-generation/tiffany/i-just-wanna-dance/default/cd1",
   "girls-generation/tiffany/i-just-wanna-dance/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "girls-generation/tiffany/i-just-wanna-dance"
+song-id = "girls-generation/tiffany/i-just-wanna-dance"
 duration = "3:29"
 
 [[tracks]]
 position = 2
-song_id = "girls-generation/tiffany/talk"
+song-id = "girls-generation/tiffany/talk"
 duration = "3:34"
 
 [[tracks]]
 position = 3
-song_id = "girls-generation/tiffany/fool"
+song-id = "girls-generation/tiffany/fool"
 duration = "3:28"
 
 [[tracks]]
 position = 4
-song_id = "girls-generation/tiffany/what-do-i-do"
+song-id = "girls-generation/tiffany/what-do-i-do"
 duration = "3:03"
 
 [[tracks]]
 position = 5
-song_id = "girls-generation/tiffany/yellow-light"
+song-id = "girls-generation/tiffany/yellow-light"
 duration = "3:22"
 
 [[tracks]]
 position = 6
-song_id = "girls-generation/tiffany/once-in-a-lifetime"
+song-id = "girls-generation/tiffany/once-in-a-lifetime"
 duration = "3:51"

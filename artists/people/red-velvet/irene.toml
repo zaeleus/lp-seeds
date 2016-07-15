@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-03-29"
+started-on = "1991-03-29"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Bae Juhyun", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "sm-entertainment" }]
+labels = [{ label-id = "sm-entertainment" }]
 
 [metadata]
 height = 160
 weight = 44
-blood_type = "A"
+blood-type = "A"

@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1994-03-20"
+started-on = "1994-03-20"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Yeon Yoo Ri", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "the-entertainment-pascal" }]
+labels = [{ label-id = "the-entertainment-pascal" }]
 
 [metadata]
 height = 168

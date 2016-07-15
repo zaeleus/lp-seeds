@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1993-08-23"
+started-on = "1993-08-23"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Seo Hye Rin", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "yedang-entertainment" }]
+labels = [{ label-id = "yedang-entertainment" }]
 
 [metadata]
 height = 165

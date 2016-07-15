@@ -5,7 +5,7 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "apink/cho-rong", kind = "lyricist" },
-  { artist_id = "kim-jin-hwan", kind = "composer" },
-  { artist_id = "kim-jin-hwan", kind = "arranger" },
+  { artist-id = "apink/cho-rong", kind = "lyricist" },
+  { artist-id = "kim-jin-hwan", kind = "composer" },
+  { artist-id = "kim-jin-hwan", kind = "arranger" },
 ]

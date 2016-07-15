@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2016-02-25"
+started-on = "2016-02-25"
 country = "KR"
 
 names = [
@@ -12,18 +12,18 @@ names = [
 ]
 
 members = [
-  { artist_id = "cosmic-girls/cheng-xiao" },
-  { artist_id = "cosmic-girls/bona" },
-  { artist_id = "cosmic-girls/dayoung" },
-  { artist_id = "cosmic-girls/xuan-yi" },
-  { artist_id = "cosmic-girls/eunseo" },
-  { artist_id = "cosmic-girls/yeoreum" },
-  { artist_id = "cosmic-girls/seol-a" },
-  { artist_id = "cosmic-girls/exy" },
-  { artist_id = "cosmic-girls/soobin" },
-  { artist_id = "cosmic-girls/dawon" },
-  { artist_id = "cosmic-girls/mei-qi" },
-  { artist_id = "cosmic-girls/luda" },
+  { artist-id = "cosmic-girls/cheng-xiao" },
+  { artist-id = "cosmic-girls/bona" },
+  { artist-id = "cosmic-girls/dayoung" },
+  { artist-id = "cosmic-girls/xuan-yi" },
+  { artist-id = "cosmic-girls/eunseo" },
+  { artist-id = "cosmic-girls/yeoreum" },
+  { artist-id = "cosmic-girls/seol-a" },
+  { artist-id = "cosmic-girls/exy" },
+  { artist-id = "cosmic-girls/soobin" },
+  { artist-id = "cosmic-girls/dawon" },
+  { artist-id = "cosmic-girls/mei-qi" },
+  { artist-id = "cosmic-girls/luda" },
 ]
 
 urls = [

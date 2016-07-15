@@ -1,4 +1,4 @@
-artist_id = "melodyday"
+artist-id = "melodyday"
 kind = "ep"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-07-01"
+released-on = "2016-07-01"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -15,9 +15,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-07-01"
+released-on = "2016-07-01"
 country = "KR"
-catalog_number = "L100005218"
+catalog-number = "L100005218"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=001209593" },

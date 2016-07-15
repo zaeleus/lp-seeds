@@ -1,34 +1,34 @@
-medium_ids = [
+medium-ids = [
   "gugudan/act-1-the-little-mermaid/default/cd1",
   "gugudan/act-1-the-little-mermaid/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "gugudan/wonderland"
+song-id = "gugudan/wonderland"
 duration = "3:04"
 
 [[tracks]]
 position = 2
-song_id = "gugudan/gureum-wiro"
+song-id = "gugudan/gureum-wiro"
 duration = "3:13"
 
 [[tracks]]
 position = 3
-song_id = "gugudan/good-boy"
+song-id = "gugudan/good-boy"
 duration = "2:54"
 
 [[tracks]]
 position = 4
-song_id = "gugudan/ilgi-diary"
+song-id = "gugudan/ilgi-diary"
 duration = "3:38"
 
 [[tracks]]
 position = 5
-song_id = "gugudan/maybe-tomorrow"
+song-id = "gugudan/maybe-tomorrow"
 duration = "4:48"
 
 [[tracks]]
 position = 6
-song_id = "gugudan/wonderland-inst"
+song-id = "gugudan/wonderland-inst"
 duration = "3:04"

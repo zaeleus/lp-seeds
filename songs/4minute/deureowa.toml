@@ -4,7 +4,7 @@ names = [
   { name = "Come In", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "4minute/ga-yoon", separator = ", " },
-  { artist_id = "4minute/hyun-a" },
+artist-credits = [
+  { artist-id = "4minute/ga-yoon", separator = ", " },
+  { artist-id = "4minute/hyun-a" },
 ]

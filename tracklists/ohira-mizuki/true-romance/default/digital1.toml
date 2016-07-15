@@ -1,64 +1,64 @@
-medium_ids = [
+medium-ids = [
   "ohira-mizuki/true-romance/default/cd1",
   "ohira-mizuki/true-romance/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "ohira-mizuki/romance-intro"
+song-id = "ohira-mizuki/romance-intro"
 duration = "1:13"
 
 [[tracks]]
 position = 2
-song_id = "ohira-mizuki/time-limit"
+song-id = "ohira-mizuki/time-limit"
 duration = "4:39"
 
 [[tracks]]
 position = 3
-song_id = "ohira-mizuki/binetsu"
+song-id = "ohira-mizuki/binetsu"
 duration = "5:07"
 
 [[tracks]]
 position = 4
-song_id = "ohira-mizuki/everything-gives-me-chance-what-i-love-it"
+song-id = "ohira-mizuki/everything-gives-me-chance-what-i-love-it"
 duration = "6:12"
 
 [[tracks]]
 position = 5
-song_id = "ohira-mizuki/takibi"
+song-id = "ohira-mizuki/takibi"
 duration = "2:56"
 
 [[tracks]]
 position = 6
-song_id = "ohira-mizuki/good-night"
+song-id = "ohira-mizuki/good-night"
 duration = "3:28"
 
 [[tracks]]
 position = 7
-song_id = "ohira-mizuki/hokakebune"
+song-id = "ohira-mizuki/hokakebune"
 duration = "4:58"
 
 [[tracks]]
 position = 8
-song_id = "ohira-mizuki/sunday-monday"
+song-id = "ohira-mizuki/sunday-monday"
 duration = "3:49"
 
 [[tracks]]
 position = 9
-song_id = "ohira-mizuki/aspiration"
+song-id = "ohira-mizuki/aspiration"
 duration = "3:46"
 
 [[tracks]]
 position = 10
-song_id = "ohira-mizuki/happy-birthday"
+song-id = "ohira-mizuki/happy-birthday"
 duration = "4:58"
 
 [[tracks]]
 position = 11
-song_id = "ohira-mizuki/mezame-no-long-song"
+song-id = "ohira-mizuki/mezame-no-long-song"
 duration = "4:44"
 
 [[tracks]]
 position = 12
-song_id = "ohira-mizuki/high-end-veil"
+song-id = "ohira-mizuki/high-end-veil"
 duration = "4:03"

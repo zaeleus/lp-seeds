@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1987-05-05"
+started-on = "1987-05-05"
 country = "KR"
 
 names = [
@@ -9,12 +9,12 @@ names = [
   { name = "Lee Joo Hyun", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "star-empire-entertainment" }]
+labels = [{ label-id = "star-empire-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/leesemonni" },
 ]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 height = 174

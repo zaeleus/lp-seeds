@@ -1,18 +1,18 @@
-artist_id = "2ne1/bom"
+artist-id = "2ne1/bom"
 kind = "single"
 
 names = [
   { name = "You And I", locale = "ko", original = true, default = true },
 ]
 
-[[artist_credits]]
-artist_id = "2ne1/bom"
+[[artist-credits]]
+artist-id = "2ne1/bom"
 names = [
   { name = "박봄", locale = "ko", original = true},
   { name = "Park Bom", locale = "ko-Latn", default = true },
 ]
 
 [[releases]]
-released_on = "2009-10-29"
+released-on = "2009-10-29"
 country = "KR"
 media = [{ kind = "digital" }]

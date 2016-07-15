@@ -4,12 +4,12 @@ names = [
   { name = "A 16-year-old Love", locale = "en" },
 ]
 
-[[artist_credits]]
-artist_id = "morning-musume/abe-natsumi"
+[[artist-credits]]
+artist-id = "morning-musume/abe-natsumi"
 separator = " & "
 
-[[artist_credits]]
-artist_id = "c-ute/yajima-maimi"
+[[artist-credits]]
+artist-id = "c-ute/yajima-maimi"
 names = [
   { name = "矢島舞美 (°C-ute)", locale = "ja", kind = "real", original = true },
   { name = "Yajima Maimi (°C-ute)", locale = "ja-Latn", kind = "real", default = true },

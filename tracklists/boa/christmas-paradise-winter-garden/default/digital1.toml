@@ -1,8 +1,8 @@
-medium_ids = [
+medium-ids = [
   "boa/christmas-paradise-winter-garden/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "boa/christmas-paradise"
+song-id = "boa/christmas-paradise"
 duration = "3:56"

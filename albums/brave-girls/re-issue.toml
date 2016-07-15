@@ -1,4 +1,4 @@
-artist_id = "brave-girls"
+artist-id = "brave-girls"
 kind = "ep"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2012-02-22"
+released-on = "2012-02-22"
 country = "KR"
-catalog_number = "L200000885"
+catalog-number = "L200000885"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nAlbum_info2.asp?mcode=001207523" },

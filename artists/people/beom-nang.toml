@@ -1,5 +1,5 @@
 kind = "person" # TODO is this a person?
-#started_on = ""
+#started-on = ""
 country = "KR"
 
 names = [

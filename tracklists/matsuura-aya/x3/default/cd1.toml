@@ -1,15 +1,15 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/x3/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/good-bye-natsuo"
+song-id = "matsuura-aya/good-bye-natsuo"
 duration = "4:19"
 
 [[tracks]]
 position = 2
-song_id = "salt5/get-up-rapper"
+song-id = "salt5/get-up-rapper"
 duration = "3:44"
 names = [
   { name = "GET UP！ラッパー (松浦 Version)", locale = "ja", original = true },
@@ -18,37 +18,37 @@ names = [
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/kanousei-no-michi"
+song-id = "matsuura-aya/kanousei-no-michi"
 duration = "3:41"
 
 [[tracks]]
 position = 4
-song_id = "matsuura-aya/ne-e"
+song-id = "matsuura-aya/ne-e"
 duration = "3:28"
 
 [[tracks]]
 position = 5
-song_id = "matsuura-aya/original-jinsei"
+song-id = "matsuura-aya/original-jinsei"
 duration = "3:29"
 
 [[tracks]]
 position = 6
-song_id = "matsuura-aya/koishite-gomen-ne"
+song-id = "matsuura-aya/koishite-gomen-ne"
 duration = "5:18"
 
 [[tracks]]
 position = 7
-song_id = "matsuura-aya/the-last-night"
+song-id = "matsuura-aya/the-last-night"
 duration = "5:13"
 
 [[tracks]]
 position = 8
-song_id = "matsuura-aya/watashi-to-watashi-to-watashi"
+song-id = "matsuura-aya/watashi-to-watashi-to-watashi"
 duration = "4:32"
 
 [[tracks]]
 position = 9
-song_id = "matsuura-aya/yeah-meccha-holiday"
+song-id = "matsuura-aya/yeah-meccha-holiday"
 duration = "4:09"
 names = [
   { name = "Yeah! めっちゃホリデイ (HIGH TUNED mix)", locale = "ja", original = true },
@@ -58,10 +58,10 @@ names = [
 
 [[tracks]]
 position = 10
-song_id = "matsuura-aya/namida-no-wake"
+song-id = "matsuura-aya/namida-no-wake"
 duration = "4:08"
 
 [[tracks]]
 position = 11
-song_id = "matsuura-aya/love-train"
+song-id = "matsuura-aya/love-train"
 duration = "6:17"

@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2014"
+started-on = "2014"
 country = "KR"
 
 names = [
@@ -8,12 +8,12 @@ names = [
 ]
 
 members = [
-  { artist_id = "laboum/hae-in" },
-  { artist_id = "laboum/sol-bin" },
-  { artist_id = "laboum/yul-hee" },
-  { artist_id = "laboum/so-yeon" },
-  { artist_id = "laboum/zn" },
-  { artist_id = "laboum/yu-jeong" },
+  { artist-id = "laboum/hae-in" },
+  { artist-id = "laboum/sol-bin" },
+  { artist-id = "laboum/yul-hee" },
+  { artist-id = "laboum/so-yeon" },
+  { artist-id = "laboum/zn" },
+  { artist-id = "laboum/yu-jeong" },
 ]
 
 urls = [

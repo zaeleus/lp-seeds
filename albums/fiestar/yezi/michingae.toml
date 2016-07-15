@@ -1,4 +1,4 @@
-artist_id = "fiestar/yezi"
+artist-id = "fiestar/yezi"
 kind = "single"
 
 names = [
@@ -8,7 +8,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-12-11"
+released-on = "2015-12-11"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

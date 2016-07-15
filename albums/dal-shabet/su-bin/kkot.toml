@@ -1,4 +1,4 @@
-artist_id = "dal-shabet/su-bin"
+artist-id = "dal-shabet/su-bin"
 kind = "single"
 
 names = [
@@ -8,7 +8,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-05-12"
+released-on = "2016-05-12"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

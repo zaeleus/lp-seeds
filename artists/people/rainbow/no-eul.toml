@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1989-05-10"
+started-on = "1989-05-10"
 country = "KR"
 
 names = [
@@ -7,7 +7,7 @@ names = [
   { name = "No Eul", locale = "ko-Latn", kind = "stage", default = true },
 ]
 
-labels = [{ label_id = "dsp-media" }]
+labels = [{ label-id = "dsp-media" }]
 
 [metadata]
 height = 164

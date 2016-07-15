@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2016"
+started-on = "2016"
 country = "KR"
 
 names = [
@@ -8,8 +8,8 @@ names = [
 ]
 
 members = [
-  { artist_id = "cocosori/coco" },
-  { artist_id = "cocosori/sori" },
+  { artist-id = "cocosori/coco" },
+  { artist-id = "cocosori/sori" },
 ]
 
 urls = [

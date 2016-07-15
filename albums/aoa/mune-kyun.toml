@@ -1,4 +1,4 @@
-artist_id = "aoa"
+artist-id = "aoa"
 kind = "single"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-07-29"
+released-on = "2015-07-29"
 country = "JP"
-catalog_number = "UICV-9111"
+catalog-number = "UICV-9111"
 media = [{ kind = "cd" }]
 disambiguation = "Sexy ver. Type A"
 urls = [
@@ -18,9 +18,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-07-29"
+released-on = "2015-07-29"
 country = "JP"
-catalog_number = "UICV-9112"
+catalog-number = "UICV-9112"
 media = [{ kind = "cd" }]
 disambiguation = "Sexy ver. Type B"
 urls = [
@@ -28,9 +28,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-07-29"
+released-on = "2015-07-29"
 country = "JP"
-catalog_number = "UICV-9113"
+catalog-number = "UICV-9113"
 media = [{ kind = "cd" }]
 disambiguation = "Cutie ver. Type A"
 urls = [
@@ -38,9 +38,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-07-29"
+released-on = "2015-07-29"
 country = "JP"
-catalog_number = "UICV-9114"
+catalog-number = "UICV-9114"
 media = [{ kind = "cd" }]
 disambiguation = "Cutie ver. Type B"
 urls = [
@@ -48,9 +48,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-07-29"
+released-on = "2015-07-29"
 country = "JP"
-catalog_number = "UICV-9115"
+catalog-number = "UICV-9115"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition Seolhyun ver."
 urls = [
@@ -58,9 +58,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-07-29"
+released-on = "2015-07-29"
 country = "JP"
-catalog_number = "UICV-9116"
+catalog-number = "UICV-9116"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition Choa ver."
 urls = [
@@ -68,9 +68,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-07-29"
+released-on = "2015-07-29"
 country = "JP"
-catalog_number = "UICV-9117"
+catalog-number = "UICV-9117"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition Hyejeong ver."
 urls = [
@@ -78,9 +78,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-07-29"
+released-on = "2015-07-29"
 country = "JP"
-catalog_number = "UICV-9118"
+catalog-number = "UICV-9118"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition Chanmi ver."
 urls = [
@@ -88,9 +88,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-07-29"
+released-on = "2015-07-29"
 country = "JP"
-catalog_number = "UICV-9119"
+catalog-number = "UICV-9119"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition Yuna ver."
 urls = [
@@ -98,9 +98,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-07-29"
+released-on = "2015-07-29"
 country = "JP"
-catalog_number = "UICV-9120"
+catalog-number = "UICV-9120"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition Mina ver."
 urls = [
@@ -108,9 +108,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-07-29"
+released-on = "2015-07-29"
 country = "JP"
-catalog_number = "UICV-9121"
+catalog-number = "UICV-9121"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition Jimin ver."
 urls = [

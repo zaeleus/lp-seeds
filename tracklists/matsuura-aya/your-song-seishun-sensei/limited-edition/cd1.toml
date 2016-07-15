@@ -1,19 +1,19 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/your-song-seishun-sensei/limited-edition/cd1",
   "matsuura-aya/your-song-seishun-sensei/regular-edition/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/your-song-seishun-sensei"
+song-id = "matsuura-aya/your-song-seishun-sensei"
 duration = "5:14"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/shining-day"
+song-id = "matsuura-aya/shining-day"
 duration = "4:46"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/your-song-seishun-sensei-instrumental"
+song-id = "matsuura-aya/your-song-seishun-sensei-instrumental"
 duration = "5:10"

@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2010-06-06"
+started-on = "2010-06-06"
 country = "KR"
 
 names = [
@@ -8,7 +8,7 @@ names = [
 ]
 
 members = [
-  { artist_id = "after-school/raina" },
-  { artist_id = "after-school/nana" },
-  { artist_id = "after-school/lizzy" },
+  { artist-id = "after-school/raina" },
+  { artist-id = "after-school/nana" },
+  { artist-id = "after-school/lizzy" },
 ]

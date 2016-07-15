@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1993-09-21"
+started-on = "1993-09-21"
 country = "KR"
 
 names = [
@@ -11,9 +11,9 @@ names = [
   { name = "Quán Mín Yǎ", locale = "zh-Latn" },
 ]
 
-labels = [{ label_id = "fnc-entertainment" }]
+labels = [{ label-id = "fnc-entertainment" }]
 
 [metadata]
-blood_type = "AB"
+blood-type = "AB"
 weight = 43
 height = 160

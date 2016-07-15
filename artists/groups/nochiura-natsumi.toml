@@ -1,6 +1,6 @@
 kind = "group"
-started_on = "2004"
-ended_on = "2005"
+started-on = "2004"
+ended-on = "2005"
 country = "JP"
 
 names = [
@@ -8,10 +8,10 @@ names = [
   { name = "Nochiura Natsumi", locale = "ja-Latn", default = true },
 ]
 
-labels = [{ label_id = "hachama" }]
+labels = [{ label-id = "hachama" }]
 
 members = [
-  { artist_id = "morning-musume/abe-natsumi" },
-  { artist_id = "matsuura-aya" },
-  { artist_id = "morning-musume/goto-maki" },
+  { artist-id = "morning-musume/abe-natsumi" },
+  { artist-id = "matsuura-aya" },
+  { artist-id = "morning-musume/goto-maki" },
 ]

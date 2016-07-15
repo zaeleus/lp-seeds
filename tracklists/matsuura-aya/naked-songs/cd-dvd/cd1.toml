@@ -1,64 +1,64 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/naked-songs/cd-dvd/cd1",
   "matsuura-aya/naked-songs/cd/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/feel-your-groove"
+song-id = "matsuura-aya/feel-your-groove"
 duration = "3:41"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/rock-my-body"
+song-id = "matsuura-aya/rock-my-body"
 duration = "4:23"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/hitori"
+song-id = "matsuura-aya/hitori"
 duration = "3:24"
 
 [[tracks]]
 position = 4
-song_id = "matsuura-aya/oshare"
+song-id = "matsuura-aya/oshare"
 duration = "5:00"
 
 [[tracks]]
 position = 5
-song_id = "matsuura-aya/i-know"
+song-id = "matsuura-aya/i-know"
 duration = "4:21"
 
 [[tracks]]
 position = 6
-song_id = "matsuura-aya/hajimete-kuchibiru-wo-kasaneta-yoru"
+song-id = "matsuura-aya/hajimete-kuchibiru-wo-kasaneta-yoru"
 duration = "4:43"
 
 [[tracks]]
 position = 7
-song_id = "matsuura-aya/love-namida-iro"
+song-id = "matsuura-aya/love-namida-iro"
 duration = "4:04"
 
 [[tracks]]
 position = 8
-song_id = "matsuura-aya/dokkidoki-love-mail"
+song-id = "matsuura-aya/dokkidoki-love-mail"
 duration = "4:26"
 
 [[tracks]]
 position = 9
-song_id = "matsuura-aya/tropica-l-koishite-ru"
+song-id = "matsuura-aya/tropica-l-koishite-ru"
 duration = "4:24"
 
 [[tracks]]
 position = 10
-song_id = "matsuura-aya/don-t-know-why"
+song-id = "matsuura-aya/don-t-know-why"
 duration = "3:14"
 
 [[tracks]]
 position = 11
-song_id = "matsuura-aya/suna-wo-kamu-you-ni-namida"
+song-id = "matsuura-aya/suna-wo-kamu-you-ni-namida"
 duration = "4:17"
 
 [[tracks]]
 position = 12
-song_id = "matsuura-aya/dearest"
+song-id = "matsuura-aya/dearest"
 duration = "5:14"

@@ -1,4 +1,4 @@
-artist_id = "apink"
+artist-id = "apink"
 kind = "lp"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-07-16"
+released-on = "2015-07-16"
 country = "KR"
-catalog_number = "L200001127"
+catalog-number = "L200001127"
 disambiguation = "White Ver."
 media = [{ position = 1, kind = "cd" }]
 urls = [
@@ -16,9 +16,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-07-16"
+released-on = "2015-07-16"
 country = "KR"
-catalog_number = "L200001128"
+catalog-number = "L200001128"
 disambiguation = "Red Ver."
 media = [{ kind = "cd" }]
 urls = [

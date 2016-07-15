@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-10-11"
+started-on = "1991-10-11"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Cho So Jin", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "star-empire-entertainment" }]
+labels = [{ label-id = "star-empire-entertainment" }]
 
 urls = [
   { url = "https://www.instagram.com/josojin_1011/" },
@@ -17,6 +17,6 @@ urls = [
 ]
 
 [metadata]
-blood_type = "AB"
+blood-type = "AB"
 height = 170
 weight = 47

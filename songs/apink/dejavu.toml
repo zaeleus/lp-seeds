@@ -3,7 +3,7 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "apink/cho-rong", kind = "lyricist" },
-  { artist_id = "choi-yong-chan", kind = "composer" },
-  { artist_id = "choi-yong-chan", kind = "arranger" },
+  { artist-id = "apink/cho-rong", kind = "lyricist" },
+  { artist-id = "choi-yong-chan", kind = "composer" },
+  { artist-id = "choi-yong-chan", kind = "arranger" },
 ]

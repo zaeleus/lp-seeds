@@ -1,4 +1,4 @@
-artist_id = "matsuura-aya"
+artist-id = "matsuura-aya"
 kind = "lp"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2003-01-29"
+released-on = "2003-01-29"
 country = "JP"
-catalog_number = "EPCE-5195"
+catalog-number = "EPCE-5195"
 media = [{ kind = "cd" }]

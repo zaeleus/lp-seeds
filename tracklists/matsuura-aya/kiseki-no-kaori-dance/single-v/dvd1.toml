@@ -1,10 +1,10 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/kiseki-no-kaori-dance/single-v/dvd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/kiseki-no-kaori-dance"
+song-id = "matsuura-aya/kiseki-no-kaori-dance"
 names = [
   { name = "奇跡の香りダンス。(PV)", locale = "ja", original = true },
   { name = "Kiseki no Kaori Dance. (PV)", locale = "ja-Latn", default = true },
@@ -13,7 +13,7 @@ names = [
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/kiseki-no-kaori-dance"
+song-id = "matsuura-aya/kiseki-no-kaori-dance"
 names = [
   { name = "奇跡の香りダンス。(Close-up Ver.)", locale = "ja", original = true },
   { name = "Kiseki no Kaori Dance. (Close-up Ver.)", locale = "ja-Latn", default = true },

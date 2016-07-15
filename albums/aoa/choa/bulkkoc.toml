@@ -1,4 +1,4 @@
-artist_id = "aoa/choa"
+artist-id = "aoa/choa"
 kind = "single"
 
 names = [
@@ -8,6 +8,6 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-12-17"
+released-on = "2015-12-17"
 country = "KR"
 media = [{ kind = "digital" }]

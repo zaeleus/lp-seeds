@@ -1,6 +1,6 @@
 kind = "group"
-started_on = "2004-06-19"
-ended_on = "2007"
+started-on = "2004-06-19"
+ended-on = "2007"
 country = "JP"
 
 names = [
@@ -9,6 +9,6 @@ names = [
 ]
 
 members = [
-  { artist_id = "morning-musume/ishikawa-rika" },
-  { artist_id = "morning-musume/michishige-sayumi" },
+  { artist-id = "morning-musume/ishikawa-rika" },
+  { artist-id = "morning-musume/michishige-sayumi" },
 ]

@@ -1,4 +1,4 @@
-artist_id = "morning-musume"
+artist-id = "morning-musume"
 kind = "single"
 
 names = [
@@ -7,17 +7,17 @@ names = [
   { name = "Oh my wish! / Refresh My Heart / The Courage to Jump in Right Now", locale = "en" },
 ]
 
-[[artist_credits]]
-artist_id = "morning-musume"
+[[artist-credits]]
+artist-id = "morning-musume"
 names = [
   { name = "モーニング娘。 '15", locale = "ja", original = true },
   { name = "Morning Musume '15", locale = "ja-Latn", default = true },
 ]
 
 [[releases]]
-released_on = "2015-08-19"
+released-on = "2015-08-19"
 country = "JP"
-catalog_number = "EPCE-7129~30"
+catalog-number = "EPCE-7129~30"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition A"
 urls = [
@@ -25,9 +25,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-08-19"
+released-on = "2015-08-19"
 country = "JP"
-catalog_number = "EPCE-7131~2"
+catalog-number = "EPCE-7131~2"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition B"
 urls = [
@@ -35,9 +35,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-08-19"
+released-on = "2015-08-19"
 country = "JP"
-catalog_number = "EPCE-7133~4"
+catalog-number = "EPCE-7133~4"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition C"
 urls = [
@@ -45,9 +45,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-08-19"
+released-on = "2015-08-19"
 country = "JP"
-catalog_number = "EPCE-7135"
+catalog-number = "EPCE-7135"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition A"
 urls = [
@@ -55,9 +55,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-08-19"
+released-on = "2015-08-19"
 country = "JP"
-catalog_number = "EPCE-7136"
+catalog-number = "EPCE-7136"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition B"
 urls = [
@@ -65,9 +65,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-08-19"
+released-on = "2015-08-19"
 country = "JP"
-catalog_number = "EPCE-7137"
+catalog-number = "EPCE-7137"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition C"
 urls = [

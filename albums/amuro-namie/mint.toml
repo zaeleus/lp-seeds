@@ -1,4 +1,4 @@
-artist_id = "amuro-namie"
+artist-id = "amuro-namie"
 kind = "single"
 
 names = [
@@ -10,7 +10,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-05-18"
+released-on = "2016-05-18"
 country = "JP"
 media = [{ kind = "digital" }]
 urls = [
@@ -19,9 +19,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-05-18"
+released-on = "2016-05-18"
 country = "JP"
-catalog_number = "AVCN-99033/B"
+catalog-number = "AVCN-99033/B"
 disambiguation = "CD+DVD"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -30,9 +30,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-05-18"
+released-on = "2016-05-18"
 country = "JP"
-catalog_number = "AVCN-99034"
+catalog-number = "AVCN-99034"
 disambiguation = "CD"
 media = [{ kind = "cd" }]
 urls = [

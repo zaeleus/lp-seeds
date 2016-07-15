@@ -3,10 +3,10 @@ names = [
   { name = "Superstar (Prod. by D.O)", locale = "en", default = true },
 ]
 
-artist_credits = [
-  { artist_id = "kisum", separator = ", " },
-  { artist_id = "san-e", separator = ", " },
-  { artist_id = "tae-wan" }, # TODO check name
+artist-credits = [
+  { artist-id = "kisum", separator = ", " },
+  { artist-id = "san-e", separator = ", " },
+  { artist-id = "tae-wan" }, # TODO check name
 ]
 
 urls = [

@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1996-12-29"
+started-on = "1996-12-29"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Minatozaki Sana", locale = "ja-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "jyp-entertainment" }]
+labels = [{ label-id = "jyp-entertainment" }]
 
 [metadata]
-blood_type = "B"
+blood-type = "B"
 weight = 48
 height = 168

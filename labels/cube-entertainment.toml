@@ -1,4 +1,4 @@
-started_on = "2006-08-29"
+started-on = "2006-08-29"
 
 names = [
   { name = "Cube Entertainment", locale = "ko", default = true, original = true },

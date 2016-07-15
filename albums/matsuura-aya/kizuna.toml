@@ -1,4 +1,4 @@
-artist_id = "matsuura-aya"
+artist-id = "matsuura-aya"
 kind = "single"
 
 names = [
@@ -8,15 +8,15 @@ names = [
 ]
 
 [[releases]]
-released_on = "2008-05-21"
+released-on = "2008-05-21"
 country = "JP"
-catalog_number = "EPCE-5558"
+catalog-number = "EPCE-5558"
 media = [{ kind = "cd" }]
 disambiguation = "CD"
 
 [[releases]]
-released_on = "2008-06-04"
+released-on = "2008-06-04"
 country = "JP"
-catalog_number = "EPBE-5293"
+catalog-number = "EPBE-5293"
 media = [{ kind = "dvd" }]
 disambiguation = "Single V"

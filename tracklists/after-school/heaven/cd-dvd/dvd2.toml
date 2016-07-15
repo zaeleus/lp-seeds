@@ -1,22 +1,22 @@
-medium_ids = [
+medium-ids = [
   "after-school/heaven/cd-dvd/dvd2",
 ]
 
 [[tracks]]
 position = 1
-song_id = "after-school/heaven"
+song-id = "after-school/heaven"
 names = [
   { name = "Heaven (Music Video)", locale = "ja", original = true, default = true },
 ]
 
 [[tracks]]
 position = 2
-song_id = "after-school/cheot-sarang"
+song-id = "after-school/cheot-sarang"
 names = [
   { name = "First Love (Music Video)", locale = "ja", original = true, default = true },
 ]
-[[tracks.artist_credits]]
-artist_id = "after-school"
+[[tracks.artist-credits]]
+artist-id = "after-school"
 names = [
   { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
 ]
@@ -26,8 +26,8 @@ position = 3
 names = [
   { name = "Heaven (Making Movie)", locale = "ja", original = true, default = true },
 ]
-[[tracks.artist_credits]]
-artist_id = "after-school"
+[[tracks.artist-credits]]
+artist-id = "after-school"
 names = [
   { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
 ]

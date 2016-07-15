@@ -1,18 +1,18 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/100kai-no-kiss/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/100kai-no-kiss"
+song-id = "matsuura-aya/100kai-no-kiss"
 duration = "4:38"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/merry-x-mas-for-you"
+song-id = "matsuura-aya/merry-x-mas-for-you"
 duration = "3:58"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/100kai-no-kiss-instrumental"
+song-id = "matsuura-aya/100kai-no-kiss-instrumental"
 duration = "4:36"

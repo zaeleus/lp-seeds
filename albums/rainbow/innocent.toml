@@ -1,4 +1,4 @@
-artist_id = "rainbow"
+artist-id = "rainbow"
 kind = "ep"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-02-11"
+released-on = "2015-02-11"
 country = "KR"
-catalog_number = "L100005006"
+catalog-number = "L100005006"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nAlbum_info2.asp?mcode=001208839" },

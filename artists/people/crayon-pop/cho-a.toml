@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1990-07-12"
+started-on = "1990-07-12"
 country = "KR"
 
 names = [
@@ -10,8 +10,8 @@ names = [
   { name = "Heo Min Jin", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "chrome-entertainment" }]
+labels = [{ label-id = "chrome-entertainment" }]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 height = 158

@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1988-02-02"
+started-on = "1988-02-02"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Go Woo Ri", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "dsp-media" }]
+labels = [{ label-id = "dsp-media" }]
 
 [metadata]
 height = 165

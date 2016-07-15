@@ -1,4 +1,4 @@
-artist_id = "2eyes"
+artist-id = "2eyes"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-08-26"
+released-on = "2015-08-26"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "mamamoo/lg-g5-friends-ost/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "mamamoo/gidaehaedo-joheun-nal"
+song-id = "mamamoo/gidaehaedo-joheun-nal"
 duration = "3:13"
 
 [[tracks]]
 position = 2
-song_id = "mamamoo/gidaehaedo-joheun-nal-inst"
+song-id = "mamamoo/gidaehaedo-joheun-nal-inst"
 duration = "3:05"

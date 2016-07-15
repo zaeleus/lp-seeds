@@ -1,33 +1,33 @@
-medium_ids = [
+medium-ids = [
   "stellar/jjillyeo/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "stellar/do-you-hear-me"
+song-id = "stellar/do-you-hear-me"
 duration = "0:55"
 
 [[tracks]]
 position = 2
-song_id = "stellar/jjillyeo"
+song-id = "stellar/jjillyeo"
 duration = "3:32"
 
 [[tracks]]
 position = 3
-song_id = "stellar/insomnia"
+song-id = "stellar/insomnia"
 duration = "3:23"
 
 [[tracks]]
 position = 4
-song_id = "stellar/love-spell"
+song-id = "stellar/love-spell"
 duration = "3:55"
 
 [[tracks]]
 position = 5
-song_id = "stellar/cinderella"
+song-id = "stellar/cinderella"
 duration = "3:16"
 
 [[tracks]]
 position = 6
-song_id = "stellar/tteollyeoyo"
+song-id = "stellar/tteollyeoyo"
 duration = "3:02"

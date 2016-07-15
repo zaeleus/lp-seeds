@@ -1,38 +1,38 @@
-medium_ids = [
+medium-ids = [
   "4minute/hit-your-heart/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "4minute/who-s-next-feat-beast"
+song-id = "4minute/who-s-next-feat-beast"
 duration = "1:57"
 
 [[tracks]]
 position = 2
-song_id = "4minute/huh"
+song-id = "4minute/huh"
 duration = "3:48"
 
 [[tracks]]
 position = 3
-song_id = "4minute/invitation"
+song-id = "4minute/invitation"
 duration = "3:22"
 
 [[tracks]]
 position = 4
-song_id = "4minute/i-my-me-mine"
+song-id = "4minute/i-my-me-mine"
 duration = "3:26"
 
 [[tracks]]
 position = 5
-song_id = "4minute/bababa"
+song-id = "4minute/bababa"
 duration = "3:26"
 
 [[tracks]]
 position = 6
-song_id = "4minute/highlight"
+song-id = "4minute/highlight"
 duration = "3:30"
 
 [[tracks]]
 position = 7
-song_id = "4minute/taeyeonhage-dangyeonhage"
+song-id = "4minute/taeyeonhage-dangyeonhage"
 duration = "4:01"

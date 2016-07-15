@@ -1,8 +1,8 @@
-medium_ids = [
+medium-ids = [
   "o21/show-me/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "o21/show-me"
+song-id = "o21/show-me"
 duration = "3:13"

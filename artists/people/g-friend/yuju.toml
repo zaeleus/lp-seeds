@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1997-10-04"
+started-on = "1997-10-04"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Choi Yu Na", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "source-music-entertainment" }]
+labels = [{ label-id = "source-music-entertainment" }]
 
 [metadata]
 height = 169
 weight = 49
-blood_type = "B"
+blood-type = "B"

@@ -1,4 +1,4 @@
-artist_id = "fiestar"
+artist-id = "fiestar"
 kind = "ep"
 
 names = [
@@ -6,16 +6,16 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-03-09"
+released-on = "2016-03-09"
 country = "KR"
-catalog_number = "L100005189"
+catalog-number = "L100005189"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=001209396" },
 ]
 
 [[releases]]
-released_on = "2016-03-09"
+released-on = "2016-03-09"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

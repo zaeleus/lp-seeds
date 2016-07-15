@@ -1,10 +1,10 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/chocolate-damashii/single-v/dvd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/chocolate-damashii"
+song-id = "matsuura-aya/chocolate-damashii"
 names = [
   { name = "チョコレート魂 (PV)", locale = "ja", original = true },
   { name = "Chocolate Damashii (PV)", locale = "ja-Latn", default = true },
@@ -13,7 +13,7 @@ names = [
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/chocolate-damashii"
+song-id = "matsuura-aya/chocolate-damashii"
 names = [
   { name = "チョコレート魂 (Sweet Ayaya Ver.)", locale = "ja", original = true },
   { name = "Chocolate Damashii (Sweet Ayaya Ver.)", locale = "ja-Latn", default = true },

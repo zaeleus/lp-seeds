@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2010"
+started-on = "2010"
 country = "KR"
 
 names = [
@@ -7,9 +7,9 @@ names = [
   { name = "Honey Dew", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "top-class-entertainment" }]
+labels = [{ label-id = "top-class-entertainment" }]
 
 members = [
-  { artist_id = "stellar/lee-seul" },
-  { artist_id = "stellar/joa" },
+  { artist-id = "stellar/lee-seul" },
+  { artist-id = "stellar/joa" },
 ]

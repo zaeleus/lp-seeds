@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution/limited-edition-type-a/cd1",
   "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution/limited-edition-type-b/cd1",
   "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution/limited-edition-type-c/cd1",
@@ -7,30 +7,30 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution"
+song-id = "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution"
 duration = "3:45"
 
 [[tracks]]
 position = 2
-song_id = "aoa/still-falls-the-rain"
+song-id = "aoa/still-falls-the-rain"
 duration = "3:17"
 
 [[tracks]]
 position = 3
-song_id = "aoa/girl-s-heart"
+song-id = "aoa/girl-s-heart"
 duration = "3:19"
 
 [[tracks]]
 position = 4
-song_id = "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution-karaoke-ver"
+song-id = "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution-karaoke-ver"
 duration = "3:45"
 
 [[tracks]]
 position = 5
-song_id = "aoa/still-falls-the-rain-instrumental"
+song-id = "aoa/still-falls-the-rain-instrumental"
 duration = "3:17"
 
 [[tracks]]
 position = 6
-song_id = "aoa/girl-s-heart-instrumental"
+song-id = "aoa/girl-s-heart-instrumental"
 duration = "3:19"

@@ -1,4 +1,4 @@
-artist_id = "baek-a-yeon"
+artist-id = "baek-a-yeon"
 kind = "ep"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2013-06-17"
+released-on = "2013-06-17"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -15,9 +15,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2013-06-17"
+released-on = "2013-06-17"
 country = "KR"
-catalog_number = "JYPK-0261"
+catalog-number = "JYPK-0261"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=050000238" },

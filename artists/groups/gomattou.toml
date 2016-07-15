@@ -1,6 +1,6 @@
 kind = "group"
-started_on = "2002"
-ended_on = "2002"
+started-on = "2002"
+ended-on = "2002"
 country = "JP"
 
 names = [
@@ -9,7 +9,7 @@ names = [
 ]
 
 members = [
-  { artist_id = "morning-musume/goto-maki" },
-  { artist_id = "matsuura-aya" },
-  { artist_id = "morning-musume/fujimoto-miki" },
+  { artist-id = "morning-musume/goto-maki" },
+  { artist-id = "matsuura-aya" },
+  { artist-id = "morning-musume/fujimoto-miki" },
 ]

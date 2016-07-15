@@ -1,28 +1,28 @@
-medium_ids = [
+medium-ids = [
   "2yoon/harvest-moon/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "2yoon/24-7"
+song-id = "2yoon/24-7"
 duration = "3:25"
 
 [[tracks]]
 position = 2
-song_id = "2yoon/agmong-feat-jung-il-hoon-of-btob"
+song-id = "2yoon/agmong-feat-jung-il-hoon-of-btob"
 duration = "3:41"
 
 [[tracks]]
 position = 3
-song_id = "2yoon/why-not"
+song-id = "2yoon/why-not"
 duration = "2:46"
 
 [[tracks]]
 position = 4
-song_id = "2yoon/sse-sse-sse-feat-kikaflo"
+song-id = "2yoon/sse-sse-sse-feat-kikaflo"
 duration = "3:42"
 
 [[tracks]]
 position = 5
-song_id = "2yoon/black-swan-feat-nassun"
+song-id = "2yoon/black-swan-feat-nassun"
 duration = "3:21"

@@ -4,12 +4,12 @@ names = [
   { name = "With You", locale = "en" },
 ]
 
-[[artist_credits]]
-artist_id = "bernard-park"
+[[artist-credits]]
+artist-id = "bernard-park"
 separator = " x "
 
-[[artist_credits]]
-artist_id = "wonder-girls/hae-lim"
+[[artist-credits]]
+artist-id = "wonder-girls/hae-lim"
 names = [
   { name = "혜림 (원더걸스)", locale = "ko", original = true },
   { name = "Hye Rim (Wonder Girls)", locale = "ko-Latn", default = true },

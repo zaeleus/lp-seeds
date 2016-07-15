@@ -1,4 +1,4 @@
-artist_id = "ohira-mizuki"
+artist-id = "ohira-mizuki"
 kind = "lp"
 
 names = [
@@ -10,7 +10,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-07-06"
+released-on = "2016-07-06"
 country = "JP"
 media = [{ kind = "digital" }]
 urls = [
@@ -20,9 +20,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-07-06"
+released-on = "2016-07-06"
 country = "JP"
-catalog_number = "MIII-0002"
+catalog-number = "MIII-0002"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://www.oricon.co.jp/prof/676418/products/1184109/1/" },

@@ -1,8 +1,8 @@
-medium_ids = [
+medium-ids = [
   "i-o-i/crush/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "i-o-i/crush"
+song-id = "i-o-i/crush"
 duration = "3:32"

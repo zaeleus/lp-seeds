@@ -1,4 +1,4 @@
-artist_id = "aoa/jimin"
+artist-id = "aoa/jimin"
 kind = "single"
 
 names = [
@@ -12,7 +12,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-03"
+released-on = "2016-03-03"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

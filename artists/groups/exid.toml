@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2012"
+started-on = "2012"
 country = "KR"
 
 names = [
@@ -7,17 +7,17 @@ names = [
   { name = "EXID", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "yedang-entertainment" }]
+labels = [{ label-id = "yedang-entertainment" }]
 
 members = [
-  { artist_id = "exid/hani", started_on = "2012-02" },
-  { artist_id = "exid/hyerin", started_on = "2012-08" },
-  { artist_id = "exid/jeong-hwa", started_on = "2012-02" },
-  { artist_id = "exid/le", started_on = "2012-02" },
-  { artist_id = "exid/solji", started_on = "2012-08" },
-  { artist_id = "bestie/hae-ryung", started_on = "2012-02", ended_on = "2012-04" },
-  { artist_id = "bestie/hye-yeon", started_on = "2012-02", ended_on = "2012-04" },
-  { artist_id = "bestie/u-ji", started_on = "2012-02", ended_on = "2012-04" },
+  { artist-id = "exid/hani", started-on = "2012-02" },
+  { artist-id = "exid/hyerin", started-on = "2012-08" },
+  { artist-id = "exid/jeong-hwa", started-on = "2012-02" },
+  { artist-id = "exid/le", started-on = "2012-02" },
+  { artist-id = "exid/solji", started-on = "2012-08" },
+  { artist-id = "bestie/hae-ryung", started-on = "2012-02", ended-on = "2012-04" },
+  { artist-id = "bestie/hye-yeon", started-on = "2012-02", ended-on = "2012-04" },
+  { artist-id = "bestie/u-ji", started-on = "2012-02", ended-on = "2012-04" },
 ]
 
 urls = [

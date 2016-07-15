@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2012"
+started-on = "2012"
 country = "KR"
 
 names = [
@@ -9,19 +9,19 @@ names = [
 ]
 
 labels = [
-  { label_id = "fnc-entertainment" },
-  { label_id = "universal-music-japan" },
+  { label-id = "fnc-entertainment" },
+  { label-id = "universal-music-japan" },
 ]
 
 members = [
-  { artist_id = "aoa/chanmi" },
-  { artist_id = "aoa/choa" },
-  { artist_id = "aoa/hyejeong" },
-  { artist_id = "aoa/jimin" },
-  { artist_id = "aoa/mina" },
-  { artist_id = "aoa/seolhyun" },
-  { artist_id = "aoa/youkyoung" },
-  { artist_id = "aoa/yuna" },
+  { artist-id = "aoa/chanmi" },
+  { artist-id = "aoa/choa" },
+  { artist-id = "aoa/hyejeong" },
+  { artist-id = "aoa/jimin" },
+  { artist-id = "aoa/mina" },
+  { artist-id = "aoa/seolhyun" },
+  { artist-id = "aoa/youkyoung" },
+  { artist-id = "aoa/yuna" },
 ]
 
 urls = [

@@ -1,38 +1,38 @@
-medium_ids = [
+medium-ids = [
   "4minute/volume-up/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "4minute/get-on-the-floor"
+song-id = "4minute/get-on-the-floor"
 duration = "1:46"
 
 [[tracks]]
 position = 2
-song_id = "4minute/volume-up"
+song-id = "4minute/volume-up"
 duration = "3:50"
 
 [[tracks]]
 position = 3
-song_id = "4minute/i-m-ok"
+song-id = "4minute/i-m-ok"
 duration = "3:27"
 
 [[tracks]]
 position = 4
-song_id = "4minute/say-my-name"
+song-id = "4minute/say-my-name"
 duration = "3:17"
 
 [[tracks]]
 position = 5
-song_id = "4minute/femme-fatale"
+song-id = "4minute/femme-fatale"
 duration = "3:29"
 
 [[tracks]]
 position = 6
-song_id = "4minute/dream-racer"
+song-id = "4minute/dream-racer"
 duration = "3:31"
 
 [[tracks]]
 position = 7
-song_id = "4minute/black-cat"
+song-id = "4minute/black-cat"
 duration = "3:16"

@@ -1,4 +1,4 @@
-artist_id = "girls-generation/tiffany"
+artist-id = "girls-generation/tiffany"
 kind = "ep"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-05-11"
+released-on = "2016-05-11"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -16,9 +16,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-05-11"
+released-on = "2016-05-11"
 country = "KR"
-catalog_number = "SMK-0659"
+catalog-number = "SMK-0659"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=002500003" },

@@ -9,5 +9,5 @@ urls = [
 ]
 
 contributions = [
-  { artist_id = "brown-eyed-soul/ahn-jung-yup", kind = "performer" },
+  { artist-id = "brown-eyed-soul/ahn-jung-yup", kind = "performer" },
 ]

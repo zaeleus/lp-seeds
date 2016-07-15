@@ -1,4 +1,4 @@
-artist_id = "g-friend"
+artist-id = "g-friend"
 kind = "lp"
 
 names = [
@@ -11,7 +11,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-07-11"
+released-on = "2016-07-11"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -20,9 +20,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-07-11"
+released-on = "2016-07-11"
 country = "KR"
-catalog_number = "L200001273"
+catalog-number = "L200001273"
 media = [{ kind = "cd" }]
 disambiguation = "Lots of Love Ver."
 urls = [
@@ -30,9 +30,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-07-11"
+released-on = "2016-07-11"
 country = "KR"
-catalog_number = "L200001274"
+catalog-number = "L200001274"
 media = [{ kind = "cd" }]
 disambiguation = "Laughing Out Loud Ver."
 urls = [

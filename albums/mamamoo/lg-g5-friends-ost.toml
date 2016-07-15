@@ -1,4 +1,4 @@
-artist_id = "mamamoo"
+artist-id = "mamamoo"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-04-04"
+released-on = "2016-04-04"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

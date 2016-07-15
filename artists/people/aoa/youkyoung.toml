@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1993-03-15"
+started-on = "1993-03-15"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Seo Yoo Kyung", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "fnc-entertainment" }]
+labels = [{ label-id = "fnc-entertainment" }]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 weight = 48
 height = 167

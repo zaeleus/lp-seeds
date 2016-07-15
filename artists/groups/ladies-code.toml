@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2013"
+started-on = "2013"
 country = "KR"
 
 names = [
@@ -7,12 +7,12 @@ names = [
   { name = "LADIES' CODE", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "polaris-entertainment" }]
+labels = [{ label-id = "polaris-entertainment" }]
 
 members = [
-  { artist_id = "ladies-code/ashley" },
-  { artist_id = "ladies-code/eunb", ended_on = "2014-09-03" },
-  { artist_id = "ladies-code/rise", ended_on = "2014-09-07" },
-  { artist_id = "ladies-code/so-jung" },
-  { artist_id = "ladies-code/zuny" },
+  { artist-id = "ladies-code/ashley" },
+  { artist-id = "ladies-code/eunb", ended-on = "2014-09-03" },
+  { artist-id = "ladies-code/rise", ended-on = "2014-09-07" },
+  { artist-id = "ladies-code/so-jung" },
+  { artist-id = "ladies-code/zuny" },
 ]

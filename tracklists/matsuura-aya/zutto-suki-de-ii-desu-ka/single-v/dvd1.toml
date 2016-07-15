@@ -1,14 +1,14 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/zutto-suki-de-ii-desu-ka/single-v/dvd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/zutto-suki-de-ii-desu-ka"
+song-id = "matsuura-aya/zutto-suki-de-ii-desu-ka"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/zutto-suki-de-ii-desu-ka"
+song-id = "matsuura-aya/zutto-suki-de-ii-desu-ka"
 names = [
   { name = "ずっと 好きでいいですか (Another Edition)", locale = "ja", original = true },
   { name = "Zutto Suki de Ii Desu ka (Another Edition)", locale = "ja-Latn", default = true },

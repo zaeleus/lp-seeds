@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1995-01-03"
+started-on = "1995-01-03"
 country = "KR"
 
 names = [
@@ -9,13 +9,13 @@ names = [
   { name = "Kim Seol Hyun", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "fnc-entertainment" }]
+labels = [{ label-id = "fnc-entertainment" }]
 
 urls = [
   { url = "https://instagram.com/sh_9513/" },
 ]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 weight = 48
 height = 167

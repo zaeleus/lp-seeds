@@ -1,8 +1,8 @@
-medium_ids = [
+medium-ids = [
   "lovelyz/eojecheoreom-gunnait/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "lovelyz/eojecheoreom-gunnait"
+song-id = "lovelyz/eojecheoreom-gunnait"
 duration = "3:41"

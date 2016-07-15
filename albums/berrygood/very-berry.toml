@@ -1,4 +1,4 @@
-artist_id = "berrygood"
+artist-id = "berrygood"
 kind = "ep"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-04-20"
+released-on = "2016-04-20"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -17,9 +17,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-20"
+released-on = "2016-04-20"
 country = "KR"
-catalog_number = "CMDC-10775"
+catalog-number = "CMDC-10775"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=000800338" },

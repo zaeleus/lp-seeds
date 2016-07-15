@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1987-10-05"
+started-on = "1987-10-05"
 country = "KR"
 
 # TODO check birth/real names
@@ -11,6 +11,6 @@ names = [
 ]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 height = 163
 weight = 46

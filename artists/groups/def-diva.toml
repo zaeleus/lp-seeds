@@ -1,18 +1,18 @@
 kind = "group"
-started_on = "2005"
-ended_on = "2007"
+started-on = "2005"
+ended-on = "2007"
 country = "JP"
 
 names = [
   { name = "DEF.DIVA", locale = "ja", original = true, default = true },
 ]
 
-labels = [{ label_id = "zetima" }]
+labels = [{ label-id = "zetima" }]
 
 members = [
-  { artist_id = "morning-musume/abe-natsumi" },
-  { artist_id = "morning-musume/goto-maki" },
-  { artist_id = "morning-musume/ishikawa-rika" },
-  { artist_id = "matsuura-aya" },
+  { artist-id = "morning-musume/abe-natsumi" },
+  { artist-id = "morning-musume/goto-maki" },
+  { artist-id = "morning-musume/ishikawa-rika" },
+  { artist-id = "matsuura-aya" },
 ]
 

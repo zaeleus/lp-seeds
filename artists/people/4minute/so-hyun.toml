@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1994-08-30"
+started-on = "1994-08-30"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Kwon So Hyun", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "cube-entertainment" }]
+labels = [{ label-id = "cube-entertainment" }]
 
 urls = [
   { url = "https://instagram.com/kkwonsso_4m/" },
@@ -17,6 +17,6 @@ urls = [
 ]
 
 [metadata]
-blood_type = "B"
+blood-type = "B"
 weight = 47
 height = 159

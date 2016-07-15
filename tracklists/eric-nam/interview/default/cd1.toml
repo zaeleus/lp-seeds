@@ -1,29 +1,29 @@
-medium_ids = [
+medium-ids = [
   "eric-nam/interview/default/cd1",
   "eric-nam/interview/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "eric-nam/interview"
+song-id = "eric-nam/interview"
 duration = "3:25"
 
 [[tracks]]
 position = 2
-song_id = "eric-nam/good-for-you"
+song-id = "eric-nam/good-for-you"
 duration = "3:14"
 
 [[tracks]]
 position = 3
-song_id = "eric-nam/stop-the-rain"
+song-id = "eric-nam/stop-the-rain"
 duration = "3:19"
 
 [[tracks]]
 position = 4
-song_id = "eric-nam/no-comment"
+song-id = "eric-nam/no-comment"
 duration = "3:47"
 
 [[tracks]]
 position = 5
-song_id = "eric-nam/good-for-you-international-ver"
+song-id = "eric-nam/good-for-you-international-ver"
 duration = "3:13"

@@ -1,39 +1,39 @@
-medium_ids = [
+medium-ids = [
   "berrygood/very-berry/default/cd1",
   "berrygood/very-berry/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "berrygood/hamkkehaesseum"
+song-id = "berrygood/hamkkehaesseum"
 duration = "3:38"
 
 [[tracks]]
 position = 2
-song_id = "berrygood/angel"
+song-id = "berrygood/angel"
 duration = "3:18"
 
 [[tracks]]
 position = 3
-song_id = "berrygood/yojeum-neo-ttaemune-nan"
+song-id = "berrygood/yojeum-neo-ttaemune-nan"
 duration = "3:08"
 
 [[tracks]]
 position = 4
-song_id = "berrygood/love-letter"
+song-id = "berrygood/love-letter"
 duration = "3:18"
 
 [[tracks]]
 position = 5
-song_id = "berrygood/nae-cheossarang"
+song-id = "berrygood/nae-cheossarang"
 duration = "3:49"
 
 [[tracks]]
 position = 6
-song_id = "berrygood/hamkkehaesseum-inst"
+song-id = "berrygood/hamkkehaesseum-inst"
 duration = "3:38"
 
 [[tracks]]
 position = 7
-song_id = "berrygood/angel-inst"
+song-id = "berrygood/angel-inst"
 duration = "3:18"

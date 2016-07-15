@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1987-09-09"
+started-on = "1987-09-09"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Jae Kyung", locale = "ko-Latn", kind = "stage" },
 ]
 
-labels = [{ label_id = "star-empire-entertainment" }]
+labels = [{ label-id = "star-empire-entertainment" }]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 height = 174
 weight = 50

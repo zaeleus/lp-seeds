@@ -1,28 +1,28 @@
-medium_ids = [
+medium-ids = [
   "apink/seven-springs-of-apink/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "apink/seven-springs-of-apink"
+song-id = "apink/seven-springs-of-apink"
 duration = "1:44"
 
 [[tracks]]
 position = 2
-song_id = "apink/mollayo"
+song-id = "apink/mollayo"
 duration = "3:42"
 
 [[tracks]]
 position = 3
-song_id = "apink/it-girl"
+song-id = "apink/it-girl"
 duration = "3:23"
 
 [[tracks]]
 position = 4
-song_id = "apink/wishlist"
+song-id = "apink/wishlist"
 duration = "3:33"
 
 [[tracks]]
 position = 5
-song_id = "apink/boo"
+song-id = "apink/boo"
 duration = "3:08"

@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "tahiti/alssongdalssong/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "tahiti/alssongdalssong"
+song-id = "tahiti/alssongdalssong"
 duration = "3:15"
 
 [[tracks]]
 position = 2
-song_id = "tahiti/alssongdalssong-inst"
+song-id = "tahiti/alssongdalssong-inst"
 duration = "3:15"

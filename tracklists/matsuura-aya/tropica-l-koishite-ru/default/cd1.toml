@@ -1,18 +1,18 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/tropica-l-koishite-ru/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/tropica-l-koishite-ru"
+song-id = "matsuura-aya/tropica-l-koishite-ru"
 duration = "4:41"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/yuugure"
+song-id = "matsuura-aya/yuugure"
 duration = "4:51"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/tropica-l-koishite-ru-instrumental"
+song-id = "matsuura-aya/tropica-l-koishite-ru-instrumental"
 duration = "4:34"

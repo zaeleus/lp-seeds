@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1977-09-20"
+started-on = "1977-09-20"
 country = "KR"
 
 names = [
@@ -7,7 +7,7 @@ names = [
   { name = "Amuro Namie", locale = "ko-Latn", kind = "real", default = true },
 ]
 
-labels = [{ label_id = "avex-trax" }]
+labels = [{ label-id = "avex-trax" }]
 
 urls = [
   { url = "http://namieamuro.jp/" },
@@ -17,7 +17,7 @@ urls = [
 ]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 weight = 40
 height = 159
 

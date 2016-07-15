@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1999-03-05"
+started-on = "1999-03-05"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Kim Yerim", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "sm-entertainment" }]
+labels = [{ label-id = "sm-entertainment" }]
 
 [metadata]
 height = 158
 weight = 45
-blood_type = "O"
+blood-type = "O"

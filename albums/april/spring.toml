@@ -1,4 +1,4 @@
-artist_id = "april"
+artist-id = "april"
 kind = "ep"
 
 names = [
@@ -10,7 +10,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-27"
+released-on = "2016-04-27"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -21,9 +21,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-27"
+released-on = "2016-04-27"
 country = "KR"
-catalog_number = "L100005199"
+catalog-number = "L100005199"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=001209469" },

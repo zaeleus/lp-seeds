@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "kisum/love-talk/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "kisum/love-talk-feat-hwasa-of-mamamoo"
+song-id = "kisum/love-talk-feat-hwasa-of-mamamoo"
 duration = "3:41"
 
 [[tracks]]
 position = 2
-song_id = "kisum/love-talk-inst"
+song-id = "kisum/love-talk-inst"
 duration = "3:41"

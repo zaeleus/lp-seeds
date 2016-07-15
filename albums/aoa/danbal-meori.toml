@@ -1,4 +1,4 @@
-artist_id = "aoa"
+artist-id = "aoa"
 kind = "ep"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2014-06-19"
+released-on = "2014-06-19"
 country = "KR"
-catalog_number = "CMCC-10317"
+catalog-number = "CMCC-10317"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=034202541" },

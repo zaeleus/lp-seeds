@@ -1,5 +1,5 @@
 kind = "person"
-started_on = ""
+started-on = ""
 country = "KR"
 
 names = [
@@ -10,9 +10,9 @@ names = [
   { name = "Sally Zhou", locale = "en", kind = "real" },
 ]
 
-labels = [{ label_id = "jyp-entertainment" }]
+labels = [{ label-id = "jyp-entertainment" }]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 weight = 48
 height = 170

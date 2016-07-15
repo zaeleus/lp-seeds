@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2015"
+started-on = "2015"
 country = "KR"
 
 names = [
@@ -7,17 +7,17 @@ names = [
   { name = "Oh My Girl", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "wm-entertainment" }]
+labels = [{ label-id = "wm-entertainment" }]
 
 members = [
-  { artist_id = "oh-my-girl/hyo-jung" },
-  { artist_id = "oh-my-girl/jin-e" },
-  { artist_id = "oh-my-girl/mimi" },
-  { artist_id = "oh-my-girl/yoo-a" },
-  { artist_id = "oh-my-girl/seung-hee" },
-  { artist_id = "oh-my-girl/ji-ho" },
-  { artist_id = "oh-my-girl/binnie" },
-  { artist_id = "oh-my-girl/arin" },
+  { artist-id = "oh-my-girl/hyo-jung" },
+  { artist-id = "oh-my-girl/jin-e" },
+  { artist-id = "oh-my-girl/mimi" },
+  { artist-id = "oh-my-girl/yoo-a" },
+  { artist-id = "oh-my-girl/seung-hee" },
+  { artist-id = "oh-my-girl/ji-ho" },
+  { artist-id = "oh-my-girl/binnie" },
+  { artist-id = "oh-my-girl/arin" },
 ]
 
 urls = [

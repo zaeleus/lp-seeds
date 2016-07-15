@@ -1,16 +1,16 @@
 kind = "group"
-started_on = "2014"
+started-on = "2014"
 country = "KR"
 
 names = [
   { name = "GDxTaeyang", locale = "ko", original = true, default = true },
 ]
 
-labels = [{ label_id = "yg-entertainment" }]
+labels = [{ label-id = "yg-entertainment" }]
 
 members = [
-  { artist_id = "bigbang/g-dragon" },
-  { artist_id = "bigbang/taeyang" },
+  { artist-id = "bigbang/g-dragon" },
+  { artist-id = "bigbang/taeyang" },
 ]
 
 urls = [

@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "kittib/doin-good/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "kittib/doin-good-feat-verbal-jint"
+song-id = "kittib/doin-good-feat-verbal-jint"
 duration = "3:26"
 
 [[tracks]]
 position = 2
-song_id = "kittib/doin-good-inst"
+song-id = "kittib/doin-good-inst"
 duration = "3:26"

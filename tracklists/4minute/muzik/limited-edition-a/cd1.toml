@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "4minute/muzik/limited-edition-a/cd1",
   "4minute/muzik/limited-edition-b/cd1",
   "4minute/muzik/limited-edition-c/cd1",
@@ -7,36 +7,36 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "4minute/muzik-japanese-version"
+song-id = "4minute/muzik-japanese-version"
 
 [[tracks]]
 position = 2
-song_id = "4minute/hot-issue"
+song-id = "4minute/hot-issue"
 names = [
   { name = "HOT ISSUE (Original Version)", locale = "ja", original = true, default = true },
 ]
-[[tracks.artist_credits]]
-artist_id = "4minute"
+[[tracks.artist-credits]]
+artist-id = "4minute"
 names = [
   { name = "4Minute", locale = "ja", original = true, default = true },
 ]
 
 [[tracks]]
 position = 3
-song_id = "4minute/muzik"
+song-id = "4minute/muzik"
 names = [
   { name = "Muzik (Original Version)", locale = "ja", original = true, default = true },
 ]
-[[tracks.artist_credits]]
-artist_id = "4minute"
+[[tracks.artist-credits]]
+artist-id = "4minute"
 names = [
   { name = "4Minute", locale = "ja", original = true, default = true },
 ]
 
 [[tracks]]
 position = 4
-song_id = "4minute/muzik-instrumental"
+song-id = "4minute/muzik-instrumental"
 
 [[tracks]]
 position = 5
-song_id = "4minute/hot-issue-instrumental"
+song-id = "4minute/hot-issue-instrumental"

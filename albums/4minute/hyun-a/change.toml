@@ -1,4 +1,4 @@
-artist_id = "4minute/hyun-a"
+artist-id = "4minute/hyun-a"
 kind = "ep"
 
 names = [
@@ -6,6 +6,6 @@ names = [
 ]
 
 [[releases]]
-released_on = "2010-01-04"
+released-on = "2010-01-04"
 country = "KR"
 media = [{ kind = "digital" }]

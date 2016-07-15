@@ -1,4 +1,4 @@
-artist_id = "girls-girls"
+artist-id = "girls-girls"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-12-08"
+released-on = "2015-12-08"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1993-03-16"
+started-on = "1993-03-16"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Lee Hyo Eun", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "the-entertainment-pascal" }]
+labels = [{ label-id = "the-entertainment-pascal" }]
 
 [metadata]
 height = 170

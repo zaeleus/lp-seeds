@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1993-08-10"
+started-on = "1993-08-10"
 country = "KR"
 
 names = [
@@ -7,9 +7,9 @@ names = [
   { name = "Hyejeong", locale = "ko-Latn", kind = "stage", default = true },
 ]
 
-labels = [{ label_id = "fnc-entertainment" }]
+labels = [{ label-id = "fnc-entertainment" }]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 weight = 49
 height = 170

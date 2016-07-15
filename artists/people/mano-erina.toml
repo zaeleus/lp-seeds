@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-04-11"
+started-on = "1991-04-11"
 country = "JP"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Manoeri", locale = "ja-Latn", kind = "nickname" },
 ]
 
-labels = [{ label_id = "hachama" }]
+labels = [{ label-id = "hachama" }]
 
 urls = [
   { url = "https://en.wikipedia.org/wiki/Erina_Mano" },
@@ -18,5 +18,5 @@ urls = [
 ]
 
 [metadata]
-blood_type = "B"
+blood-type = "B"
 

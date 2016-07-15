@@ -1,39 +1,39 @@
-medium_ids = [
+medium-ids = [
   "lovelyz/a-new-trilogy/default/cd1",
   "lovelyz/a-new-trilogy/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "lovelyz/moonrise"
+song-id = "lovelyz/moonrise"
 duration = "0:40"
 
 [[tracks]]
 position = 2
-song_id = "lovelyz/destiny-naui-jigu"
+song-id = "lovelyz/destiny-naui-jigu"
 duration = "3:33"
 
 [[tracks]]
 position = 3
-song_id = "lovelyz/pongdang"
+song-id = "lovelyz/pongdang"
 duration = "3:29"
 
 [[tracks]]
 position = 4
-song_id = "lovelyz/chaekgalpi"
+song-id = "lovelyz/chaekgalpi"
 duration = "3:28"
 
 [[tracks]]
 position = 5
-song_id = "lovelyz/1cm"
+song-id = "lovelyz/1cm"
 duration = "3:41"
 
 [[tracks]]
 position = 6
-song_id = "lovelyz/maeum-chwigeupjuui"
+song-id = "lovelyz/maeum-chwigeupjuui"
 duration = "3:54"
 
 [[tracks]]
 position = 7
-song_id = "lovelyz/inhyeong"
+song-id = "lovelyz/inhyeong"
 duration = "3:27"

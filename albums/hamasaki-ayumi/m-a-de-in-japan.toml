@@ -1,4 +1,4 @@
-artist_id = "hamasaki-ayumi"
+artist-id = "hamasaki-ayumi"
 kind = "lp"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-06-29"
+released-on = "2016-06-29"
 country = "JP"
 media = [{ kind = "digital" }]
 urls = [
@@ -14,9 +14,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-29"
+released-on = "2016-06-29"
 country = "JP"
-catalog_number = "AVCD-93438/B"
+catalog-number = "AVCD-93438/B"
 disambiguation = "CD+DVD"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -25,9 +25,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-29"
+released-on = "2016-06-29"
 country = "JP"
-catalog_number = "AVCD-93439/B"
+catalog-number = "AVCD-93439/B"
 disambiguation = "CD+BD"
 media = [{ kind = "cd" }, { kind = "blu-ray" }]
 urls = [
@@ -36,9 +36,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-29"
+released-on = "2016-06-29"
 country = "JP"
-catalog_number = "AVCD-93440"
+catalog-number = "AVCD-93440"
 disambiguation = "CD Only"
 media = [{ kind = "cd" }]
 urls = [

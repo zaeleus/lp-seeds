@@ -1,4 +1,4 @@
-artist_id = "crayon-pop"
+artist-id = "crayon-pop"
 kind = "single"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-11-18"
+released-on = "2015-11-18"
 country = "JP"
-catalog_number = "PCCA-70464"
+catalog-number = "PCCA-70464"
 disambiguation = "Limited CD+GOODS Edition"
 media = [{ kind = "cd" }]
 urls = [
@@ -16,9 +16,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-11-18"
+released-on = "2015-11-18"
 country = "JP"
-catalog_number = "PCCA-04283"
+catalog-number = "PCCA-04283"
 disambiguation = "Limited CD+DVD Edition"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -26,9 +26,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-11-18"
+released-on = "2015-11-18"
 country = "JP"
-catalog_number = "PCCA-70450"
+catalog-number = "PCCA-70450"
 disambiguation = "Regular Edition"
 media = [{ kind = "cd" }]
 urls = [
@@ -36,8 +36,8 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-11-18"
+released-on = "2015-11-18"
 country = "JP"
-catalog_number = "SCCA-00033"
+catalog-number = "SCCA-00033"
 disambiguation = "PCSC Edition"
 media = [{ kind = "cd" }]

@@ -2,8 +2,8 @@ names = [
   { name = "Unpretty Dreams (Prod. by GRAY)", locale = "ko", original = true, default = true },
 ]
 
-artist_credits = [
-  { artist_id = "lucky-j/jessi" },
+artist-credits = [
+  { artist-id = "lucky-j/jessi" },
 ]
 
 urls = [

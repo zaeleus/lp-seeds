@@ -1,10 +1,10 @@
-medium_ids = [
+medium-ids = [
   "country-girls/boogie-woogie-love-koi-wa-magnet-ranrarun-anata-ni-muchuu/limited-edition-c/dvd2",
 ]
 
 [[tracks]]
 position = 1
-song_id = "country-girls/ranrarun-anata-ni-muchuu"
+song-id = "country-girls/ranrarun-anata-ni-muchuu"
 names = [
   { name = "ランラルン〜あなたに夢中〜 (Music Video)", locale = "ja", original = true },
   { name = "Ranrarun ~Anata ni Muchuu~ (Music Video)", locale = "ja-Latn", default = true },

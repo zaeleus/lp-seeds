@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "apink/nega-sonjishaejumyeon/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "apink/nega-sonjishaejumyeon"
+song-id = "apink/nega-sonjishaejumyeon"
 duration = "4:19"
 
 [[tracks]]
 position = 2
-song_id = "apink/nega-sonjishaejumyeon-inst"
+song-id = "apink/nega-sonjishaejumyeon-inst"
 duration = "4:19"

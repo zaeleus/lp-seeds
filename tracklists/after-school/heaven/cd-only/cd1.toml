@@ -1,31 +1,31 @@
-medium_ids = [
+medium-ids = [
   "after-school/heaven/cd-only/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "after-school/heaven"
+song-id = "after-school/heaven"
 
 [[tracks]]
 position = 2
-song_id = "after-school/crazy-driver"
+song-id = "after-school/crazy-driver"
 
 [[tracks]]
 position = 3
-song_id = "after-school/cheot-sarang"
+song-id = "after-school/cheot-sarang"
 names = [
   { name = "First Love", locale = "ja", original = true, default = true },
 ]
-[[tracks.artist_credits]]
-artist_id = "after-school"
+[[tracks.artist-credits]]
+artist-id = "after-school"
 names = [
   { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
 ]
 
 [[tracks]]
 position = 4
-song_id = "after-school/heaven-instrumental"
+song-id = "after-school/heaven-instrumental"
 
 [[tracks]]
 position = 5
-song_id = "after-school/crazy-driver-instrumental"
+song-id = "after-school/crazy-driver-instrumental"

@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1992-06-06"
+started-on = "1992-06-06"
 country = "KR"
 
 names = [
@@ -9,13 +9,13 @@ names = [
   { name = "Kim Hyun Ah", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "cube-entertainment" }]
+labels = [{ label-id = "cube-entertainment" }]
 
 urls = [
   { url = "https://instagram.com/hyunah_aa/" },
 ]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 weight = 44
 height = 164

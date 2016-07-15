@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2011-01-03"
+started-on = "2011-01-03"
 country = "KR"
 
 names = [
@@ -7,16 +7,16 @@ names = [
   { name = "Dal★Shabet", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "happyface-entertainment" }]
+labels = [{ label-id = "happyface-entertainment" }]
 
 members = [
-  { artist_id = "dal-shabet/serri", started_on = "2011-01" },
-  { artist_id = "dal-shabet/ah-young", started_on = "2011-01" },
-  { artist_id = "dal-shabet/su-bin", started_on = "2011-01" },
-  { artist_id = "dal-shabet/woo-hee", started_on = "2012-06" },
-  { artist_id = "dal-shabet/vicky", started_on = "2011-01", ended_on = "2012-06" },
-  { artist_id = "dal-shabet/ji-yool", started_on = "2011-01", ended_on = "2015-12-09" },
-  { artist_id = "dal-shabet/ka-eun", started_on = "2011-01", ended_on = "2015-12-09" },
+  { artist-id = "dal-shabet/serri", started-on = "2011-01" },
+  { artist-id = "dal-shabet/ah-young", started-on = "2011-01" },
+  { artist-id = "dal-shabet/su-bin", started-on = "2011-01" },
+  { artist-id = "dal-shabet/woo-hee", started-on = "2012-06" },
+  { artist-id = "dal-shabet/vicky", started-on = "2011-01", ended-on = "2012-06" },
+  { artist-id = "dal-shabet/ji-yool", started-on = "2011-01", ended-on = "2015-12-09" },
+  { artist-id = "dal-shabet/ka-eun", started-on = "2011-01", ended-on = "2015-12-09" },
 ]
 
 urls = [

@@ -9,65 +9,65 @@ urls = [
 ]
 
 [[contributions]]
-artist_id = "4minute/ga-yoon"
+artist-id = "4minute/ga-yoon"
 kind = "performer"
 
 [[contributions]]
-artist_id = "4minute/hyun-a"
+artist-id = "4minute/hyun-a"
 kind = "performer"
 
 [[contributions]]
-artist_id = "4minute/ji-hyun"
+artist-id = "4minute/ji-hyun"
 kind = "performer"
 
 [[contributions]]
-artist_id = "4minute/ji-yoon"
+artist-id = "4minute/ji-yoon"
 kind = "performer"
 
 [[contributions]]
-artist_id = "4minute/so-hyun"
+artist-id = "4minute/so-hyun"
 kind = "performer"
 
 [[contributions]]
-artist_id = "seo-jae-woo"
+artist-id = "seo-jae-woo"
 kind = "lyricist"
 
 [[contributions]]
-artist_id = "son-young-jin"
+artist-id = "son-young-jin"
 kind = "lyricist"
 
 [[contributions]]
-artist_id = "4minute/hyun-a"
+artist-id = "4minute/hyun-a"
 kind = "lyricist"
 
 [[contributions]]
 kind = "lyricist"
-[[contributions.artist_credits]]
-artist_id = "4minute/ji-yoon"
+[[contributions.artist-credits]]
+artist-id = "4minute/ji-yoon"
 names = [
   { name = "Jenyer", locale = "ko", original = true, default = true },
 ]
 
 [[contributions]]
-artist_id = "seo-jae-woo"
+artist-id = "seo-jae-woo"
 kind = "composer"
 
 [[contributions]]
-artist_id = "son-young-jin"
+artist-id = "son-young-jin"
 kind = "composer"
 
 [[contributions]]
-artist_id = "skrillex"
+artist-id = "skrillex"
 kind = "composer"
 
 [[contributions]]
-artist_id = "seo-jae-woo"
+artist-id = "seo-jae-woo"
 kind = "arranger"
 
 [[contributions]]
-artist_id = "son-young-jin"
+artist-id = "son-young-jin"
 kind = "arranger"
 
 [[contributions]]
-artist_id = "skrillex"
+artist-id = "skrillex"
 kind = "arranger"

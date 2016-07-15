@@ -1,4 +1,4 @@
-artist_id = "ladies-code"
+artist-id = "ladies-code"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-02-24"
+released-on = "2016-02-24"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -17,9 +17,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-02-24"
+released-on = "2016-02-24"
 country = "KR"
-catalog_number = "DK-0887"
+catalog-number = "DK-0887"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=006621467" },

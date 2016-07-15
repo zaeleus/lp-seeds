@@ -1,4 +1,4 @@
-artist_id = "the-ark"
+artist-id = "the-ark"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-04-10"
+released-on = "2015-04-10"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1992-06-27"
+started-on = "1992-06-27"
 country = "KR"
 
 names = [
@@ -9,13 +9,13 @@ names = [
   { name = "Ahn So Hee", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "jyp-entertainment" }]
+labels = [{ label-id = "jyp-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/wgsohee" }
 ]
 
 [metadata]
-blood_type = "AB"
+blood-type = "AB"
 weight = 43
 height = 163

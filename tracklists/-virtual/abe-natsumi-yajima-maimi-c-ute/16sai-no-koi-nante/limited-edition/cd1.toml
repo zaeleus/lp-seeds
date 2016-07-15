@@ -1,20 +1,20 @@
-medium_ids = [
+medium-ids = [
   "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante/limited-edition/cd1",
   "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante/regular-edition/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante"
+song-id = "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante"
 
 [[tracks]]
 position = 2
-song_id = "-virtual/abe-natsumi-yajima-maimi-c-ute/watashi-no-koibito-na-no-ni"
+song-id = "-virtual/abe-natsumi-yajima-maimi-c-ute/watashi-no-koibito-na-no-ni"
 
 [[tracks]]
 position = 3
-song_id = "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante-instrumental"
+song-id = "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante-instrumental"
 
 [[tracks]]
 position = 4
-song_id = "-virtual/abe-natsumi-yajima-maimi-c-ute/watashi-no-koibito-na-no-ni-instrumental"
+song-id = "-virtual/abe-natsumi-yajima-maimi-c-ute/watashi-no-koibito-na-no-ni-instrumental"

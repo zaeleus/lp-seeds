@@ -1,12 +1,12 @@
-medium_ids = [
+medium-ids = [
   "apink/sunday-monday-japanese-ver/limited-edition-c/cd1",
   "apink/sunday-monday-japanese-ver/regular-edition/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "apink/sunday-monday-japanese-ver"
+song-id = "apink/sunday-monday-japanese-ver"
 
 [[tracks]]
 position = 2
-song_id = "apink/sunday-monday-inst"
+song-id = "apink/sunday-monday-inst"

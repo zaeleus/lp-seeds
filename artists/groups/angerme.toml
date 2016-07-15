@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2009"
+started-on = "2009"
 country = "JP"
 
 names = [
@@ -8,17 +8,17 @@ names = [
 ]
 
 members = [
-  { artist_id = "angerme/wada-ayaka" },
-  { artist_id = "angerme/fukuda-kanon" },
-  { artist_id = "angerme/nakanishi-kana" },
-  { artist_id = "angerme/takeuchi-akari" },
-  { artist_id = "angerme/katsuta-rina" },
-  { artist_id = "angerme/tamura-meimi" },
-  { artist_id = "angerme/murota-mizuki" },
-  { artist_id = "angerme/aikawa-maho" },
-  { artist_id = "angerme/sasaki-rikako" },
+  { artist-id = "angerme/wada-ayaka" },
+  { artist-id = "angerme/fukuda-kanon" },
+  { artist-id = "angerme/nakanishi-kana" },
+  { artist-id = "angerme/takeuchi-akari" },
+  { artist-id = "angerme/katsuta-rina" },
+  { artist-id = "angerme/tamura-meimi" },
+  { artist-id = "angerme/murota-mizuki" },
+  { artist-id = "angerme/aikawa-maho" },
+  { artist-id = "angerme/sasaki-rikako" },
 
-  { artist_id = "angerme/maeda-yuuka", ended_on = "2011-12-31" },
-  { artist_id = "angerme/ogawa-sasaki", ended_on = "2011-08-27" },
-  { artist_id = "angerme/kosuga-fuyuka", ended_on = "2011-09-10" },
+  { artist-id = "angerme/maeda-yuuka", ended-on = "2011-12-31" },
+  { artist-id = "angerme/ogawa-sasaki", ended-on = "2011-08-27" },
+  { artist-id = "angerme/kosuga-fuyuka", ended-on = "2011-09-10" },
 ]

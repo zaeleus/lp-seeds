@@ -1,4 +1,4 @@
-artist_id = "matsuura-aya"
+artist-id = "matsuura-aya"
 kind = "single"
 
 names = [
@@ -8,22 +8,22 @@ names = [
 ]
 
 [[releases]]
-released_on = "2003-03-12"
+released-on = "2003-03-12"
 country = "JP"
-catalog_number = "EPCE-5203"
+catalog-number = "EPCE-5203"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition"
 
 [[releases]]
-released_on = "2003-03-12"
+released-on = "2003-03-12"
 country = "JP"
-catalog_number = "EPCE-5204"
+catalog-number = "EPCE-5204"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
 
 [[releases]]
-released_on = "2003-03-12"
+released-on = "2003-03-12"
 country = "JP"
-catalog_number = "EPBE-5063"
+catalog-number = "EPBE-5063"
 media = [{ kind = "dvd" }]
 disambiguation = "Single V"

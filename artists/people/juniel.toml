@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1993-09-03"
+started-on = "1993-09-03"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Choi Jun Hee", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "fnc-entertainment" }]
+labels = [{ label-id = "fnc-entertainment" }]
 
 urls = [
   { url = "http://www.fncent.com/JUNIEL/b/introduce/1302" },

@@ -4,8 +4,8 @@ names = [
   { name = "The Cold Wind and Lonely Love", locale = "en" },
 ]
 
-[[artist_credits]]
-artist_id = "morning-musume"
+[[artist-credits]]
+artist-id = "morning-musume"
 names = [
   { name = "モーニング娘。 '15", locale = "ja", original = true },
   { name = "Morning Musume '15", locale = "ja-Latn", default = true },
@@ -16,22 +16,22 @@ urls = [
 ]
 
 contributions = [
-  { artist_id = "morning-musume/fukumura-mizuki", kind = "performer" },
-  { artist_id = "morning-musume/ikuta-erina", kind = "performer" },
-  { artist_id = "morning-musume/sayashi-riho", kind = "performer" },
-  { artist_id = "morning-musume/suzuki-kanon", kind = "performer" },
-  { artist_id = "morning-musume/iikubo-haruna", kind = "performer" },
-  { artist_id = "morning-musume/ishida-ayumi", kind = "performer" },
-  { artist_id = "morning-musume/sato-masaki", kind = "performer" },
-  { artist_id = "morning-musume/kudo-haruka", kind = "performer" },
-  { artist_id = "morning-musume/oda-sakura", kind = "performer" },
-  { artist_id = "morning-musume/ogata-haruna", kind = "performer" },
-  { artist_id = "morning-musume/nonaka-miki", kind = "performer" },
-  { artist_id = "morning-musume/makino-maria", kind = "performer" },
-  { artist_id = "morning-musume/haga-akane", kind = "performer" },
+  { artist-id = "morning-musume/fukumura-mizuki", kind = "performer" },
+  { artist-id = "morning-musume/ikuta-erina", kind = "performer" },
+  { artist-id = "morning-musume/sayashi-riho", kind = "performer" },
+  { artist-id = "morning-musume/suzuki-kanon", kind = "performer" },
+  { artist-id = "morning-musume/iikubo-haruna", kind = "performer" },
+  { artist-id = "morning-musume/ishida-ayumi", kind = "performer" },
+  { artist-id = "morning-musume/sato-masaki", kind = "performer" },
+  { artist-id = "morning-musume/kudo-haruka", kind = "performer" },
+  { artist-id = "morning-musume/oda-sakura", kind = "performer" },
+  { artist-id = "morning-musume/ogata-haruna", kind = "performer" },
+  { artist-id = "morning-musume/nonaka-miki", kind = "performer" },
+  { artist-id = "morning-musume/makino-maria", kind = "performer" },
+  { artist-id = "morning-musume/haga-akane", kind = "performer" },
 
-  { artist_id = "kodama-ameko", kind = "lyricist" },
-  { artist_id = "miura-yoshiko", kind = "lyricist" },
-  { artist_id = "taisei", kind = "composer" },
-  { artist_id = "hamada-pierre-yusuke", kind = "arranger" },
+  { artist-id = "kodama-ameko", kind = "lyricist" },
+  { artist-id = "miura-yoshiko", kind = "lyricist" },
+  { artist-id = "taisei", kind = "composer" },
+  { artist-id = "hamada-pierre-yusuke", kind = "arranger" },
 ]

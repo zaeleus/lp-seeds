@@ -1,29 +1,29 @@
-medium_ids = [
+medium-ids = [
   "clc/refresh/default/cd1",
   "clc/refresh/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "clc/yeppeojige"
+song-id = "clc/yeppeojige"
 duration = "3:24"
 
 [[tracks]]
 position = 2
-song_id = "clc/refresh"
+song-id = "clc/refresh"
 duration = "3:26"
 
 [[tracks]]
 position = 3
-song_id = "clc/yaya-say-bye-to-solo"
+song-id = "clc/yaya-say-bye-to-solo"
 duration = "3:13"
 
 [[tracks]]
 position = 4
-song_id = "clc/oppa-chingu"
+song-id = "clc/oppa-chingu"
 duration = "3:25"
 
 [[tracks]]
 position = 5
-song_id = "clc/eighteen"
+song-id = "clc/eighteen"
 duration = "3:29"

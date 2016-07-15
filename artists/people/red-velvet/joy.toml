@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1996-09-03"
+started-on = "1996-09-03"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Park Soo Young", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "sm-entertainment" }]
+labels = [{ label-id = "sm-entertainment" }]
 
 [metadata]
 height = 163
 weight = 43
-blood_type = "A"
+blood-type = "A"

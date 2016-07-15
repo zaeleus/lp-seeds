@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1989-01-10"
+started-on = "1989-01-10"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Heo Sol Ji", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "yedang-entertainment" }]
+labels = [{ label-id = "yedang-entertainment" }]
 
 [metadata]
 height = 168

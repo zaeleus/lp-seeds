@@ -1,4 +1,4 @@
-artist_id = "gam"
+artist-id = "gam"
 kind = "single"
 
 names = [
@@ -7,9 +7,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2006-10-18"
+released-on = "2006-10-18"
 country = "JP"
-catalog_number = "HKCN-50040~1"
+catalog-number = "HKCN-50040~1"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition"
 urls = [
@@ -17,9 +17,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2006-10-18"
+released-on = "2006-10-18"
 country = "JP"
-catalog_number = "HKCN-50042"
+catalog-number = "HKCN-50042"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
 urls = [
@@ -27,9 +27,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2006-11-15"
+released-on = "2006-11-15"
 country = "JP"
-catalog_number = "HKBN-50074"
+catalog-number = "HKBN-50074"
 media = [{ kind = "dvd" }]
 disambiguation = "Single V"
 urls = [

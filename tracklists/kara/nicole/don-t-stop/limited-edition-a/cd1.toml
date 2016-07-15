@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "kara/nicole/don-t-stop/limited-edition-a/cd1",
   "kara/nicole/don-t-stop/limited-edition-b/cd1",
   "kara/nicole/don-t-stop/limited-edition-c/cd1",
@@ -6,16 +6,16 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "kara/nicole/don-t-stop"
+song-id = "kara/nicole/don-t-stop"
 
 [[tracks]]
 position = 2
-song_id = "kara/nicole/best-man"
+song-id = "kara/nicole/best-man"
 
 [[tracks]]
 position = 3
-song_id = "kara/nicole/don-t-stop-instrumental"
+song-id = "kara/nicole/don-t-stop-instrumental"
 
 [[tracks]]
 position = 4
-song_id = "kara/nicole/best-man-instrumental"
+song-id = "kara/nicole/best-man-instrumental"

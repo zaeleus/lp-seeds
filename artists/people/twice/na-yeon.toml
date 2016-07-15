@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1995-09-21"
+started-on = "1995-09-21"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Im Na Yeon", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "jyp-entertainment" }]
+labels = [{ label-id = "jyp-entertainment" }]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 weight = 47
 height = 163

@@ -1,14 +1,14 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/egao/single-v/dvd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/egao"
+song-id = "matsuura-aya/egao"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/egao"
+song-id = "matsuura-aya/egao"
 names = [
   { name = "笑顔 (Close-up Ver.)", locale = "ja", original = true },
   { name = "Egao (Close-up Ver.)", locale = "ja-Latn", default = true },

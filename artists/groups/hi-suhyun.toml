@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2016"
+started-on = "2016"
 country = "KR"
 
 names = [
@@ -8,6 +8,6 @@ names = [
 ]
 
 members = [
-  { artist_id = "lee-hi" },
-  { artist_id = "akdong-musician/lee-soo-hyun" },
+  { artist-id = "lee-hi" },
+  { artist-id = "akdong-musician/lee-soo-hyun" },
 ]

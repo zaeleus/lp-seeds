@@ -1,4 +1,4 @@
-artist_id = "perfume"
+artist-id = "perfume"
 kind = "lp"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-04-06"
+released-on = "2016-04-06"
 country = "JP"
-catalog_number = "UPCP-9013"
+catalog-number = "UPCP-9013"
 media = [{ kind = "cd" }, { kind = "cd" }, { kind = "blu-ray" }]
 disambiguation = "Limited Edition A"
 urls = [
@@ -17,9 +17,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-06"
+released-on = "2016-04-06"
 country = "JP"
-catalog_number = "UPCP-9014"
+catalog-number = "UPCP-9014"
 media = [{ kind = "cd" }, { kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition B"
 urls = [
@@ -28,9 +28,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-06"
+released-on = "2016-04-06"
 country = "JP"
-catalog_number = "UPCP-1002"
+catalog-number = "UPCP-1002"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
 urls = [

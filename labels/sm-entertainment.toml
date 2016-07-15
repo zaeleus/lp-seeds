@@ -1,4 +1,4 @@
-started_on = "1995-02"
+started-on = "1995-02"
 
 names = [
   { name = "SM엔터테인먼트", locale = "ko", original = true },

@@ -4,8 +4,8 @@ names = [
   { name = "Hopefully Sky (Feat. Hareem)", locale = "en" },
 ]
 
-[[artist_credits]]
-artist_id = "apink/eun-ji"
+[[artist-credits]]
+artist-id = "apink/eun-ji"
 names = [
   { name = "정은지", locale = "ko", original = true },
   { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },

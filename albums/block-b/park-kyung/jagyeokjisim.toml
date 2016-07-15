@@ -1,4 +1,4 @@
-artist_id = "block-b/park-kyung"
+artist-id = "block-b/park-kyung"
 kind = "single"
 
 names = [
@@ -8,7 +8,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-05-25"
+released-on = "2016-05-25"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

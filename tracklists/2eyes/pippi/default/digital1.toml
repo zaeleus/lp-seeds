@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "2eyes/pippi/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "2eyes/pippi"
+song-id = "2eyes/pippi"
 duration = "3:20"
 
 [[tracks]]
 position = 2
-song_id = "2eyes/pippi-inst"
+song-id = "2eyes/pippi-inst"
 duration = "3:21"

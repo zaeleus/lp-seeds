@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1988-03-03"
+started-on = "1988-03-03"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Kang Eun Hye", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "happyface-entertainment" }]
+labels = [{ label-id = "happyface-entertainment" }]
 
 [metadata]
 height = 172

@@ -5,7 +5,7 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "nakano-yuuta", kind = "lyricist" },
-  { artist_id = "nakano-yuuta", kind = "composer" },
-  { artist_id = "nakano-yuuta", kind = "arranger" },
+  { artist-id = "nakano-yuuta", kind = "lyricist" },
+  { artist-id = "nakano-yuuta", kind = "composer" },
+  { artist-id = "nakano-yuuta", kind = "arranger" },
 ]

@@ -1,14 +1,14 @@
-medium_ids = [
+medium-ids = [
   'crayon-pop/uh-ee/default/digital1',
   'crayon-pop/uh-ee/default/cd1',
 ]
 
 [[tracks]]
 position = 1
-song_id = "crayon-pop/uh-ee"
+song-id = "crayon-pop/uh-ee"
 duration = "3:13"
 
 [[tracks]]
 position = 2
-song_id = "crayon-pop/uh-ee-inst"
+song-id = "crayon-pop/uh-ee-inst"
 duration = "3:13"

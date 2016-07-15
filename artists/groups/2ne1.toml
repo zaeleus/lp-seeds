@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2009"
+started-on = "2009"
 country = "KR"
 
 names = [
@@ -8,13 +8,13 @@ names = [
   { name = "トゥエニィワン", locale = "ja" },
 ]
 
-labels = [{ label_id = "yg-entertainment" }]
+labels = [{ label-id = "yg-entertainment" }]
 
 members = [
-  { artist_id = "2ne1/cl" },
-  { artist_id = "2ne1/bom" },
-  { artist_id = "2ne1/dara" },
-  { artist_id = "2ne1/minzy", ended_on = "2016-05-05" },
+  { artist-id = "2ne1/cl" },
+  { artist-id = "2ne1/bom" },
+  { artist-id = "2ne1/dara" },
+  { artist-id = "2ne1/minzy", ended-on = "2016-05-05" },
 ]
 
 urls = [

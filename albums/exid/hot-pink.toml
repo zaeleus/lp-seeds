@@ -1,4 +1,4 @@
-artist_id = "exid"
+artist-id = "exid"
 kind = "single"
 
 names = [
@@ -10,7 +10,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-11-18"
+released-on = "2015-11-18"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

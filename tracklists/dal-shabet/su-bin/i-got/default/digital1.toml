@@ -1,28 +1,28 @@
-medium_ids = [
+medium-ids = [
   "dal-shabet/su-bin/i-got/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "dal-shabet/su-bin/nothing"
+song-id = "dal-shabet/su-bin/nothing"
 duration = "3:21"
 
 [[tracks]]
 position = 2
-song_id = "dal-shabet/su-bin/miwo"
+song-id = "dal-shabet/su-bin/miwo"
 duration = "3:16"
 
 [[tracks]]
 position = 3
-song_id = "dal-shabet/su-bin/i-got"
+song-id = "dal-shabet/su-bin/i-got"
 duration = "3:31"
 
 [[tracks]]
 position = 4
-song_id = "dal-shabet/su-bin/kkot"
+song-id = "dal-shabet/su-bin/kkot"
 duration = "3:43"
 
 [[tracks]]
 position = 5
-song_id = "dal-shabet/su-bin/yeoksi-hoksi-dasi"
+song-id = "dal-shabet/su-bin/yeoksi-hoksi-dasi"
 duration = "3:20"

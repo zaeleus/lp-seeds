@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "cocosori/jeolmyohae/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "cocosori/jeolmyohae"
+song-id = "cocosori/jeolmyohae"
 duration = "3:32"
 
 [[tracks]]
 position = 2
-song_id = "cocosori/jeolmyohae-inst"
+song-id = "cocosori/jeolmyohae-inst"
 duration = "3:30"

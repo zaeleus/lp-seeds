@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2006-08"
+started-on = "2006-08"
 country = "JP"
 
 names = [
@@ -7,8 +7,8 @@ names = [
 ]
 
 members = [
-  { artist_id = "scandal/haruna" },
-  { artist_id = "scandal/mami" },
-  { artist_id = "scandal/tomomi" },
-  { artist_id = "scandal/rina" },
+  { artist-id = "scandal/haruna" },
+  { artist-id = "scandal/mami" },
+  { artist-id = "scandal/tomomi" },
+  { artist-id = "scandal/rina" },
 ]

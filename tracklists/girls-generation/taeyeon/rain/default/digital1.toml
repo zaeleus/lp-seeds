@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "girls-generation/taeyeon/rain/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "girls-generation/taeyeon/rain"
+song-id = "girls-generation/taeyeon/rain"
 duration = "3:42"
 
 [[tracks]]
 position = 2
-song_id = "girls-generation/taeyeon/bimil-secret"
+song-id = "girls-generation/taeyeon/bimil-secret"
 duration = "3:37"

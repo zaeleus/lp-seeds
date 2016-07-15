@@ -1,4 +1,4 @@
-artist_id = "scandal"
+artist-id = "scandal"
 kind = "lp"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-03-02"
+released-on = "2016-03-02"
 country = "JP"
-catalog_number = "ESCL-4590~1"
+catalog-number = "ESCL-4590~1"
 disambiguation = "Limited Edition (CD+T-Shirt)"
 media = [{ kind = "cd" }]
 urls = [
@@ -17,9 +17,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-02"
+released-on = "2016-03-02"
 country = "JP"
-catalog_number = "ESCL-4592~3"
+catalog-number = "ESCL-4592~3"
 disambiguation = "Limited Edition (CD+DVD)"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -28,9 +28,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-02"
+released-on = "2016-03-02"
 country = "JP"
-catalog_number = "ESCL-4594"
+catalog-number = "ESCL-4594"
 disambiguation = "Regular Edition"
 media = [{ kind = "cd" }]
 urls = [

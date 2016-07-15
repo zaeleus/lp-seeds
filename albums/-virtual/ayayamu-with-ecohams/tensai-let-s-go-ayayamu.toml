@@ -1,4 +1,4 @@
-artist_id = "-virtual/ayayamu-with-ecohams"
+artist-id = "-virtual/ayayamu-with-ecohams"
 kind = "single"
 
 names = [
@@ -7,23 +7,23 @@ names = [
   { name = "Genius! LET'S GO Ayayamu", locale = "en" },
 ]
 
-[[artist_credits]]
-artist_id = "matsuura-aya"
+[[artist-credits]]
+artist-id = "matsuura-aya"
 names = [
   { name = "あややム", locale = "ja", original = true },
   { name = "Ayayamu", locale = "ja-Latn", default = true },
 ]
 separator = " with "
 
-[[artist_credits]]
-artist_id = "ecomoni"
+[[artist-credits]]
+artist-id = "ecomoni"
 names = [
   { name = "エコハムず", locale = "ja", original = true },
   { name = "Ecohams", locale = "ja-Latn", default = true },
 ]
 
 [[releases]]
-released_on = "2004-11-26"
+released-on = "2004-11-26"
 country = "JP"
-catalog_number = "EPCE-5331"
+catalog-number = "EPCE-5331"
 media = [{ kind = "cd" }]

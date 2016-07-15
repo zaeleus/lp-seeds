@@ -4,8 +4,8 @@ names = [
   { name = "I'll Tell You", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "4minute/ji-hyun", separator = ", " },
-  { artist_id = "4minute/ji-yoon", separator = ", " },
-  { artist_id = "4minute/so-hyun" },
+artist-credits = [
+  { artist-id = "4minute/ji-hyun", separator = ", " },
+  { artist-id = "4minute/ji-yoon", separator = ", " },
+  { artist-id = "4minute/so-hyun" },
 ]

@@ -3,7 +3,7 @@ names = [
   { name = "Bominga Bwa (Spring Love) (Inst.)", locale = "ko-Latn", default = true },
 ]
 
-artist_credits = [
-  { artist_id = "eric-nam", separator = " x " },
-  { artist_id = "red-velvet/wendy" },
+artist-credits = [
+  { artist-id = "eric-nam", separator = " x " },
+  { artist-id = "red-velvet/wendy" },
 ]

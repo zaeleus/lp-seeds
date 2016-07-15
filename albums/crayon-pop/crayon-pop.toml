@@ -1,4 +1,4 @@
-artist_id = "crayon-pop"
+artist-id = "crayon-pop"
 kind = "lp"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-01-20"
+released-on = "2016-01-20"
 country = "JP"
-catalog_number = "PCCA-04326"
+catalog-number = "PCCA-04326"
 disambiguation = "Limited Edition"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -16,9 +16,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-01-20"
+released-on = "2016-01-20"
 country = "JP"
-catalog_number = "PCCA-04327"
+catalog-number = "PCCA-04327"
 disambiguation = "Regular Edition"
 media = [{ kind = "cd" }]
 urls = [

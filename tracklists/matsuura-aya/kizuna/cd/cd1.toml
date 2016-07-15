@@ -1,18 +1,18 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/kizuna/cd/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/kizuna"
+song-id = "matsuura-aya/kizuna"
 duration = "4:36"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/hitori"
+song-id = "matsuura-aya/hitori"
 duration = "3:42"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/kizuna-instrumental"
+song-id = "matsuura-aya/kizuna-instrumental"
 duration = "4:31"

@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "aoa/choa/bulkkoc/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "aoa/choa/bulkkoc"
+song-id = "aoa/choa/bulkkoc"
 duration = "3:59"
 
 [[tracks]]
 position = 2
-song_id = "aoa/choa/bulkkoc-inst"
+song-id = "aoa/choa/bulkkoc-inst"
 duration = "3:59"

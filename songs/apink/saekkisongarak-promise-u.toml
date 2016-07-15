@@ -9,10 +9,10 @@ urls = [
 ]
 
 contributions = [
-  { artist_id = "apink/eun-ji", kind = "lyricist" },
-  { artist_id = "beom-nang", kind = "lyricist" },
-  { artist_id = "apink/eun-ji", kind = "composer" },
-  { artist_id = "beom-nang", kind = "composer" },
-  { artist_id = "apink/eun-ji", kind = "arranger" },
-  { artist_id = "beom-nang", kind = "arranger" },
+  { artist-id = "apink/eun-ji", kind = "lyricist" },
+  { artist-id = "beom-nang", kind = "lyricist" },
+  { artist-id = "apink/eun-ji", kind = "composer" },
+  { artist-id = "beom-nang", kind = "composer" },
+  { artist-id = "apink/eun-ji", kind = "arranger" },
+  { artist-id = "beom-nang", kind = "arranger" },
 ]

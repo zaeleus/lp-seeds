@@ -4,9 +4,9 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "dal-shabet/ah-young", kind = "performer" },
-  { artist_id = "dk-hine", kind = "lyricist" },
-  { artist_id = "dk-hine", kind = "composer" },
-  { artist_id = "dk-hine", kind = "arranger" },
-  { artist_id = "maven", kind = "arranger" },
+  { artist-id = "dal-shabet/ah-young", kind = "performer" },
+  { artist-id = "dk-hine", kind = "lyricist" },
+  { artist-id = "dk-hine", kind = "composer" },
+  { artist-id = "dk-hine", kind = "arranger" },
+  { artist-id = "maven", kind = "arranger" },
 ]

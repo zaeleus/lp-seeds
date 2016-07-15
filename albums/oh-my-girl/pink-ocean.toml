@@ -1,4 +1,4 @@
-artist_id = "oh-my-girl"
+artist-id = "oh-my-girl"
 kind = "ep"
 
 names = [
@@ -10,16 +10,16 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-28"
+released-on = "2016-03-28"
 country = "KR"
-catalog_number = "L200001212"
+catalog-number = "L200001212"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=001209430" },
 ]
 
 [[releases]]
-released_on = "2016-03-28"
+released-on = "2016-03-28"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

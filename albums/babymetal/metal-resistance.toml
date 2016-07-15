@@ -1,4 +1,4 @@
-artist_id = "babymetal"
+artist-id = "babymetal"
 kind = "lp"
 
 names = [
@@ -10,9 +10,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-01"
+released-on = "2016-04-01"
 country = "JP"
-catalog_number = "TFCC-86545"
+catalog-number = "TFCC-86545"
 disambiguation = "Limited Edition"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -20,9 +20,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-01"
+released-on = "2016-04-01"
 country = "JP"
-catalog_number = "TFCC-86546"
+catalog-number = "TFCC-86546"
 disambiguation = "Regular Edition"
 media = [{ kind = "cd" }]
 urls = [
@@ -30,8 +30,8 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-01"
+released-on = "2016-04-01"
 country = "JP"
-catalog_number = "ONEC-0002"
+catalog-number = "ONEC-0002"
 disambiguation = "THE ONE Limited Edition"
 media = [{ kind = "cd" }, { kind = "blu-ray" }]

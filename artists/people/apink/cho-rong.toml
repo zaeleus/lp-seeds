@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-03-03"
+started-on = "1991-03-03"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Park Cho Rong", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "a-cube-entertainment" }]
+labels = [{ label-id = "a-cube-entertainment" }]
 
 [metadata]
 weight = 46

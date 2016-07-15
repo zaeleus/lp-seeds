@@ -1,4 +1,4 @@
-artist_id = "c-ute"
+artist-id = "c-ute"
 kind = "single"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-04-20"
+released-on = "2016-04-20"
 country = "JP"
-catalog_number = "EPCE-7208"
+catalog-number = "EPCE-7208"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition A"
 urls = [
@@ -19,9 +19,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-20"
+released-on = "2016-04-20"
 country = "JP"
-catalog_number = "EPCE-7210"
+catalog-number = "EPCE-7210"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition B"
 urls = [
@@ -30,9 +30,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-20"
+released-on = "2016-04-20"
 country = "JP"
-catalog_number = "EPCE-7212"
+catalog-number = "EPCE-7212"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition C"
 urls = [
@@ -41,9 +41,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-20"
+released-on = "2016-04-20"
 country = "JP"
-catalog_number = "EPCE-7214"
+catalog-number = "EPCE-7214"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition A"
 urls = [
@@ -52,9 +52,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-20"
+released-on = "2016-04-20"
 country = "JP"
-catalog_number = "EPCE-7215"
+catalog-number = "EPCE-7215"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition B"
 urls = [
@@ -63,9 +63,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-20"
+released-on = "2016-04-20"
 country = "JP"
-catalog_number = "EPCE-7216"
+catalog-number = "EPCE-7216"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition C"
 urls = [

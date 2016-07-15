@@ -1,4 +1,4 @@
-artist_id = "nine-muses"
+artist-id = "nine-muses"
 kind = "ep"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-07-02"
+released-on = "2015-07-02"
 country = "KR"
-catalog_number = "KTMCD-0539"
+catalog-number = "KTMCD-0539"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=045400799" },

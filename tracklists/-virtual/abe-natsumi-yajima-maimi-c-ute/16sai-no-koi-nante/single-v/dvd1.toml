@@ -1,10 +1,10 @@
-medium_ids = [
+medium-ids = [
   "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante/single-v/dvd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante"
+song-id = "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante"
 names = [
   { name = "16歳の恋なんて (MV)", locale = "ja", original = true },
   { name = "16sai no Koi Nante (MV)", locale = "ja-Latn", default = true },
@@ -13,7 +13,7 @@ names = [
 
 [[tracks]]
 position = 2
-song_id = "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante"
+song-id = "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante"
 names = [
   { name = "16歳の恋なんて (Close-up Ver.)", locale = "ja", original = true },
   { name = "16sai no Koi Nante (Close-up Ver.)", locale = "ja-Latn", default = true },

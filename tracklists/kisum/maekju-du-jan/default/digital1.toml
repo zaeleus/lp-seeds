@@ -1,8 +1,8 @@
-medium_ids = [
+medium-ids = [
   "kisum/maekju-du-jan/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "kisum/maekju-du-jan"
+song-id = "kisum/maekju-du-jan"
 duration = "3:39"

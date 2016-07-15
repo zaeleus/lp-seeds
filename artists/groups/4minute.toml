@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2009"
+started-on = "2009"
 country = "KR"
 
 names = [
@@ -8,14 +8,14 @@ names = [
   { name = "4Minute", locale = "ja" },
 ]
 
-labels = [{ label_id = "cube-entertainment" }]
+labels = [{ label-id = "cube-entertainment" }]
 
 members = [
-  { artist_id = "4minute/ga-yoon" },
-  { artist_id = "4minute/hyun-a" },
-  { artist_id = "4minute/ji-hyun" },
-  { artist_id = "4minute/ji-yoon" },
-  { artist_id = "4minute/so-hyun" },
+  { artist-id = "4minute/ga-yoon" },
+  { artist-id = "4minute/hyun-a" },
+  { artist-id = "4minute/ji-hyun" },
+  { artist-id = "4minute/ji-yoon" },
+  { artist-id = "4minute/so-hyun" },
 ]
 
 urls = [

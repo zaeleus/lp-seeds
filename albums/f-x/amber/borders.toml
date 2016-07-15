@@ -1,4 +1,4 @@
-artist_id = "f-x/amber"
+artist-id = "f-x/amber"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-03-25"
+released-on = "2016-03-25"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

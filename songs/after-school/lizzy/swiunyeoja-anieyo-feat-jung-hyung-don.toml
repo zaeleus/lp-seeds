@@ -9,6 +9,6 @@ urls = [
 ]
 
 contributions = [
-  { artist_id = "after-school/lizzy", kind = "performer" },
-  { artist_id = "jung-hyung-don", kind = "performer" },
+  { artist-id = "after-school/lizzy", kind = "performer" },
+  { artist-id = "jung-hyung-don", kind = "performer" },
 ]

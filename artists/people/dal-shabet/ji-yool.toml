@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-07-30"
+started-on = "1991-07-30"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Yang Jung Yoon", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "happyface-entertainment" }]
+labels = [{ label-id = "happyface-entertainment" }]
 
 [metadata]
 height = 166
 weight = 47
-blood_type = "AB"
+blood-type = "AB"

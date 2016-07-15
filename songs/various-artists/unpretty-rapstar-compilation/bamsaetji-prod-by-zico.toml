@@ -4,8 +4,8 @@ names = [
   { name = "Stayed Up All Night (Prod. by ZICO)", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "yuk-ji-dam" },
+artist-credits = [
+  { artist-id = "yuk-ji-dam" },
 ]
 
 urls = [

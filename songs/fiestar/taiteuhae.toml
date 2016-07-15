@@ -5,18 +5,18 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "fiestar/jei", kind = "performer" },
-  { artist_id = "fiestar/cao-lu", kind = "performer" },
-  { artist_id = "fiestar/linzy", kind = "performer" },
-  { artist_id = "fiestar/hyemi", kind = "performer" },
-  { artist_id = "fiestar/yezi", kind = "performer" },
+  { artist-id = "fiestar/jei", kind = "performer" },
+  { artist-id = "fiestar/cao-lu", kind = "performer" },
+  { artist-id = "fiestar/linzy", kind = "performer" },
+  { artist-id = "fiestar/hyemi", kind = "performer" },
+  { artist-id = "fiestar/yezi", kind = "performer" },
 
-  { artist_id = "fiestar/yezi", kind = "lyricist" },
-  { artist_id = "shinsadong-tiger", kind = "lyricist" },
-  { artist_id = "beom-nang", kind = "lyricist" },
+  { artist-id = "fiestar/yezi", kind = "lyricist" },
+  { artist-id = "shinsadong-tiger", kind = "lyricist" },
+  { artist-id = "beom-nang", kind = "lyricist" },
 
-  { artist_id = "shinsadong-tiger", kind = "composer" },
-  { artist_id = "beom-nang", kind = "composer" },
+  { artist-id = "shinsadong-tiger", kind = "composer" },
+  { artist-id = "beom-nang", kind = "composer" },
 
-  { artist_id = "shinsadong-tiger", kind = "arranger" },
+  { artist-id = "shinsadong-tiger", kind = "arranger" },
 ]

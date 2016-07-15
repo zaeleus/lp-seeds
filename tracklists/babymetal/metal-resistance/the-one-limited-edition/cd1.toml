@@ -1,65 +1,65 @@
-medium_ids = [
+medium-ids = [
   "babymetal/metal-resistance/the-one-limited-edition/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "babymetal/road-of-resistance"
+song-id = "babymetal/road-of-resistance"
 duration = "5:18"
 
 [[tracks]]
 position = 2
-song_id = "babymetal/karate"
+song-id = "babymetal/karate"
 duration = "4:23"
 
 [[tracks]]
 position = 3
-song_id = "babymetal/awadama-fever"
+song-id = "babymetal/awadama-fever"
 duration = "4:13"
 
 [[tracks]]
 position = 4
-song_id = "babymetal/yabaa"
+song-id = "babymetal/yabaa"
 duration = "3:49"
 
 [[tracks]]
 position = 5
-song_id = "babymetal/amore-aoboshi"
+song-id = "babymetal/amore-aoboshi"
 duration = "4:41"
 
 [[tracks]]
 position = 6
-song_id = "babymetal/meta-meta-tarou"
+song-id = "babymetal/meta-meta-tarou"
 duration = "4:07"
 
 [[tracks]]
 position = 7
-song_id = "babymetal/syncopation"
+song-id = "babymetal/syncopation"
 duration = "4:07"
 
 [[tracks]]
 position = 8
-song_id = "babymetal/gj"
+song-id = "babymetal/gj"
 duration = "2:57"
 
 [[tracks]]
 position = 9
-song_id = "babymetal/sis-anger"
+song-id = "babymetal/sis-anger"
 duration = "3:47"
 
 [[tracks]]
 position = 10
-song_id = "babymetal/no-rain-no-rainbow"
+song-id = "babymetal/no-rain-no-rainbow"
 duration = "4:53"
 
 [[tracks]]
 position = 11
-song_id = "babymetal/tales-of-the-destinies"
+song-id = "babymetal/tales-of-the-destinies"
 duration = "5:35"
 
 [[tracks]]
 position = 12
-song_id = "babymetal/the-one-unfinished-ver"
+song-id = "babymetal/the-one-unfinished-ver"
 # TODO track duration
 #duration = ""
 

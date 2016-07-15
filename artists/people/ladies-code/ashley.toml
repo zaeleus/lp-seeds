@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-11-09"
+started-on = "1991-11-09"
 country = "KR"
 
 names = [
@@ -9,4 +9,4 @@ names = [
   { name = "Choi Bi Na", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "polaris-entertainment" }]
+labels = [{ label-id = "polaris-entertainment" }]

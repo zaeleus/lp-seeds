@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "exid/wiarae/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "exid/wiarae"
+song-id = "exid/wiarae"
 duration = "3:09"
 
 [[tracks]]
 position = 2
-song_id = "exid/wiarae-inst"
+song-id = "exid/wiarae-inst"
 duration = "3:09"

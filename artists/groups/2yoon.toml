@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2013"
+started-on = "2013"
 country = "KR"
 
 names = [
@@ -7,9 +7,9 @@ names = [
   { name = "2YOON", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "cube-entertainment" }]
+labels = [{ label-id = "cube-entertainment" }]
 
 members = [
-  { artist_id = "4minute/ga-yoon" },
-  { artist_id = "4minute/ji-yoon" },
+  { artist-id = "4minute/ga-yoon" },
+  { artist-id = "4minute/ji-yoon" },
 ]

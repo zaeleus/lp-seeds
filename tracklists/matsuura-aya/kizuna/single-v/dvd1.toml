@@ -1,14 +1,14 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/kizuna/single-v/dvd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/kizuna"
+song-id = "matsuura-aya/kizuna"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/kizuna"
+song-id = "matsuura-aya/kizuna"
 names = [
   { name = "きずな (Close-up Ver.)", locale = "ja", original = true },
   { name = "Kizuna (Close-up Ver.)", locale = "ja-Latn", default = true },

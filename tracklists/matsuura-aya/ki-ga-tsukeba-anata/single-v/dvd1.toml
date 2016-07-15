@@ -1,10 +1,10 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/ki-ga-tsukeba-anata/single-v/dvd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/ki-ga-tsukeba-anata"
+song-id = "matsuura-aya/ki-ga-tsukeba-anata"
 
 [[tracks]]
 position = 2

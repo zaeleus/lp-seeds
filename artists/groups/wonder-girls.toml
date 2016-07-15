@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2007"
+started-on = "2007"
 country = "KR"
 
 names = [
@@ -8,16 +8,16 @@ names = [
   { name = "ワンダーガールズ", locale = "ja" },
 ]
 
-labels = [{ label_id = "jyp-entertainment" }]
+labels = [{ label-id = "jyp-entertainment" }]
 
 members = [
-  { artist_id = "wonder-girls/hae-lim", started_on = "2010-01-22" },
-  { artist_id = "wonder-girls/so-hee", ended_on = "2013-12-21" },
-  { artist_id = "wonder-girls/sun-mi", ended_on = "2010-01-22" },
-  { artist_id = "wonder-girls/sun-ye" },
-  { artist_id = "wonder-girls/ye-eun" },
-  { artist_id = "wonder-girls/yubin", started_on = "2007-09-07" },
-  { artist_id = "4minute/hyun-a", ended_on = "2007-07-31" }
+  { artist-id = "wonder-girls/hae-lim", started-on = "2010-01-22" },
+  { artist-id = "wonder-girls/so-hee", ended-on = "2013-12-21" },
+  { artist-id = "wonder-girls/sun-mi", ended-on = "2010-01-22" },
+  { artist-id = "wonder-girls/sun-ye" },
+  { artist-id = "wonder-girls/ye-eun" },
+  { artist-id = "wonder-girls/yubin", started-on = "2007-09-07" },
+  { artist-id = "4minute/hyun-a", ended-on = "2007-07-31" }
 ]
 
 urls = [

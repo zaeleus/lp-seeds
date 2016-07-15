@@ -1,4 +1,4 @@
-artist_id = "hwang-in-sun"
+artist-id = "hwang-in-sun"
 kind = "single"
 
 names = [
@@ -7,7 +7,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-04-28"
+released-on = "2016-04-28"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

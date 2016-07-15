@@ -1,4 +1,4 @@
-artist_id = "perfume"
+artist-id = "perfume"
 kind = "lp"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2013-10-02"
+released-on = "2013-10-02"
 country = "JP"
-catalog_number = "UPCP-9005"
+catalog-number = "UPCP-9005"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition"
 urls = [
@@ -17,9 +17,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2013-10-02"
+released-on = "2013-10-02"
 country = "JP"
-catalog_number = "UPCP-1001"
+catalog-number = "UPCP-1001"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
 urls = [
@@ -28,9 +28,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2014-05-14"
+released-on = "2014-05-14"
 country = "JP"
-catalog_number = "UPJP-9001/2"
+catalog-number = "UPJP-9001/2"
 media = [
   { kind = "vinyl", name = "Side One" },
   { kind = "vinyl", name = "Side Two" },
@@ -43,9 +43,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2014-05-14"
+released-on = "2014-05-14"
 country = "JP"
-catalog_number = "UPJP-9003/4"
+catalog-number = "UPJP-9003/4"
 media = [
   { kind = "vinyl", name = "Side One" },
   { kind = "vinyl", name = "Side Two" },
@@ -58,9 +58,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2014-05-14"
+released-on = "2014-05-14"
 country = "JP"
-catalog_number = "UPJP-9005/6"
+catalog-number = "UPJP-9005/6"
 media = [
   { kind = "vinyl", name = "Side One" },
   { kind = "vinyl", name = "Side Two" },

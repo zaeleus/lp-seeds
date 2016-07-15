@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "4minute/muzik/limited-edition-a/dvd2",
 ]
 
@@ -7,8 +7,8 @@ position = 1
 names = [
   { name = "4Minute in Tokyo", locale = "ja", original = true, default = true },
 ]
-[[tracks.artist_credits]]
-artist_id = "4minute"
+[[tracks.artist-credits]]
+artist-id = "4minute"
 names = [
   { name = "4Minute", locale = "ja", original = true, default = true },
 ]

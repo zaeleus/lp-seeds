@@ -1,10 +1,10 @@
-medium_ids = [
+medium-ids = [
   "country-girls/boogie-woogie-love-koi-wa-magnet-ranrarun-anata-ni-muchuu/limited-edition-b/dvd2",
 ]
 
 [[tracks]]
 position = 1
-song_id = "country-girls/koi-wa-magnet"
+song-id = "country-girls/koi-wa-magnet"
 names = [
   { name = "恋はマグネット (Music Video)", locale = "ja", original = true },
   { name = "Koi wa Magnet (Music Video)", locale = "ja-Latn", default = true },

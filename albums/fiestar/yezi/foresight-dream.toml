@@ -1,4 +1,4 @@
-artist_id = "fiestar/yezi"
+artist-id = "fiestar/yezi"
 kind = "single"
 
 names = [
@@ -6,16 +6,16 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-01-28"
+released-on = "2016-01-28"
 country = "KR"
-catalog_number = "L100005165"
+catalog-number = "L100005165"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=009200092" },
 ]
 
 [[releases]]
-released_on = "2016-01-28"
+released-on = "2016-01-28"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

@@ -1,19 +1,19 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/watarasebashi/limited-edition/cd1",
   "matsuura-aya/watarasebashi/regular-edition/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/watarasebashi"
+song-id = "matsuura-aya/watarasebashi"
 duration = "4:17"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/i-love-you-no-tsuzuki"
+song-id = "matsuura-aya/i-love-you-no-tsuzuki"
 duration = "5:01"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/watarasebashi-instrumental"
+song-id = "matsuura-aya/watarasebashi-instrumental"
 duration = "4:14"

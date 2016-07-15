@@ -1,6 +1,6 @@
 kind = "group"
-started_on = "2001"
-ended_on = "2001"
+started-on = "2001"
+ended-on = "2001"
 country = "JP"
 
 names = [
@@ -9,7 +9,7 @@ names = [
 ]
 
 members = [
-  { artist_id = "morning-musume/ishikawa-rika" },
-  { artist_id = "morning-musume/kago-ai" },
-  { artist_id = "matsuura-aya" },
+  { artist-id = "morning-musume/ishikawa-rika" },
+  { artist-id = "morning-musume/kago-ai" },
+  { artist-id = "matsuura-aya" },
 ]

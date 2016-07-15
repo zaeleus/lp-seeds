@@ -1,14 +1,14 @@
-medium_ids = [
+medium-ids = [
   "ladybaby/renge-chance/default/cd1",
   "ladybaby/renge-chance/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "ladybaby/renge-chance"
+song-id = "ladybaby/renge-chance"
 duration = "4:29"
 
 [[tracks]]
 position = 2
-song_id = "ladybaby/c-est-si-bon-kibun"
+song-id = "ladybaby/c-est-si-bon-kibun"
 duration = "4:40"

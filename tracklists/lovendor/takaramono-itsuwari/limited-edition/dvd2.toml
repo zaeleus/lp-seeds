@@ -1,10 +1,10 @@
-medium_ids = [
+medium-ids = [
   "lovendor/takaramono-itsuwari/limited-edition/dvd2",
 ]
 
 [[tracks]]
 position = 1
-song_id = "lovendor/takaramono"
+song-id = "lovendor/takaramono"
 names = [
   { name = "宝物 (Music Video)", locale = "ja", original = true },
   { name = "Takaramono (Music Video)", locale = "ja-Latn", default = true },
@@ -13,7 +13,7 @@ names = [
 
 [[tracks]]
 position = 2
-song_id = "lovendor/itsuwari"
+song-id = "lovendor/itsuwari"
 names = [
   { name = "イツワリ (Music Video)", locale = "ja", original = true },
   { name = "Itsuwari (Music Video)", locale = "ja-Latn", default = true },

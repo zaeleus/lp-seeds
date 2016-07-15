@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1993-06-12"
+started-on = "1993-06-12"
 country = "KR"
 
 names = [
@@ -9,4 +9,4 @@ names = [
   { name = "Song Da Hye", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "ynb-entertainment" }]
+labels = [{ label-id = "ynb-entertainment" }]

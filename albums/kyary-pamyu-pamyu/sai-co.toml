@@ -1,4 +1,4 @@
-artist_id = "kyary-pamyu-pamyu"
+artist-id = "kyary-pamyu-pamyu"
 kind = "single"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-04-20"
+released-on = "2016-04-20"
 country = "JP"
-catalog_number = "WPZL-31156~7"
+catalog-number = "WPZL-31156~7"
 disambiguation = "Limited Edition"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -18,9 +18,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-20"
+released-on = "2016-04-20"
 country = "JP"
-catalog_number = "WPCL-12338"
+catalog-number = "WPCL-12338"
 disambiguation = "Regular Edition"
 media = [{ kind = "cd" }]
 urls = [
@@ -28,7 +28,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-20"
+released-on = "2016-04-20"
 country = "JP"
 media = [{ kind = "digital" }]
 urls = [

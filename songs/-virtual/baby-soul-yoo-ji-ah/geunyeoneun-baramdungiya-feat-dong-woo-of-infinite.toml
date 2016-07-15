@@ -4,9 +4,9 @@ names = [
   { name = "She's a Flirt (Feat. Dong Woo of Infinite)", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "lovelyz/baby-soul", separator = " + " },
-  { artist_id = "yoo-ji-ah" },
+artist-credits = [
+  { artist-id = "lovelyz/baby-soul", separator = " + " },
+  { artist-id = "yoo-ji-ah" },
 ]
 
 urls = [

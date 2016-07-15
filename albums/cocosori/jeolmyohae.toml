@@ -1,4 +1,4 @@
-artist_id = "cocosori"
+artist-id = "cocosori"
 kind = "single"
 
 names = [
@@ -8,7 +8,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-04-29"
+released-on = "2016-04-29"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

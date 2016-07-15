@@ -1,4 +1,4 @@
-artist_id = "morning-musume"
+artist-id = "morning-musume"
 kind = "single"
 
 names = [
@@ -7,9 +7,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "1998-01-28"
+released-on = "1998-01-28"
 country = "JP"
-catalog_number = "EPDA-56"
+catalog-number = "EPDA-56"
 media = [{ kind = "cd" }] # TODO minidisc?
 disambiguation = "8cm Single"
 urls = [
@@ -17,9 +17,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2005-03-02"
+released-on = "2005-03-02"
 country = "JP"
-catalog_number = "EPCE-5313"
+catalog-number = "EPCE-5313"
 media = [{ kind = "cd" }]
 disambiguation = "12cm Single"
 urls = [

@@ -9,5 +9,5 @@ urls = [
 ]
 
 contributions = [
-  { artist_id = "eric-nam", kind = "performer" },
+  { artist-id = "eric-nam", kind = "performer" },
 ]

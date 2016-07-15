@@ -1,33 +1,33 @@
-medium_ids = [
+medium-ids = [
   "bestie/love-emotion/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "bestie/excuse-me"
+song-id = "bestie/excuse-me"
 duration = "3:18"
 
 [[tracks]]
 position = 2
-song_id = "bestie/hush-baby"
+song-id = "bestie/hush-baby"
 duration = "3:35"
 
 [[tracks]]
 position = 3
-song_id = "bestie/singgeul-bedeu-single-bed"
+song-id = "bestie/singgeul-bedeu-single-bed"
 duration = "3:10"
 
 [[tracks]]
 position = 4
-song_id = "bestie/i-m-so-fine-feat-almeng"
+song-id = "bestie/i-m-so-fine-feat-almeng"
 duration = "3:28"
 
 [[tracks]]
 position = 5
-song_id = "bestie/ireon-nal"
+song-id = "bestie/ireon-nal"
 duration = "3:29"
 
 [[tracks]]
 position = 6
-song_id = "bestie/excuse-me-inst"
+song-id = "bestie/excuse-me-inst"
 duration = "3:18"

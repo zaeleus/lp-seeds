@@ -1,34 +1,34 @@
-medium_ids = [
+medium-ids = [
   "laboum/sugar-sugar/default/cd1",
   "laboum/sugar-sugar/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "laboum/sugar-sugar"
+song-id = "laboum/sugar-sugar"
 duration = "3:27"
 
 [[tracks]]
 position = 2
-song_id = "laboum/jangnanhaep"
+song-id = "laboum/jangnanhaep"
 duration = "3:00"
 
 [[tracks]]
 position = 3
-song_id = "laboum/fantasy"
+song-id = "laboum/fantasy"
 duration = "3:17"
 
 [[tracks]]
 position = 4
-song_id = "laboum/sugar-sugar-inst"
+song-id = "laboum/sugar-sugar-inst"
 duration = "3:27"
 
 [[tracks]]
 position = 5
-song_id = "laboum/jangnanhaep-inst"
+song-id = "laboum/jangnanhaep-inst"
 duration = "3:00"
 
 [[tracks]]
 position = 6
-song_id = "laboum/fantasy-inst"
+song-id = "laboum/fantasy-inst"
 duration = "3:17"

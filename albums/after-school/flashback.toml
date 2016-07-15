@@ -1,4 +1,4 @@
-artist_id = "after-school"
+artist-id = "after-school"
 kind = "single"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2012-06-21"
+released-on = "2012-06-21"
 country = "KR"
-catalog_number = "L100004498"
+catalog-number = "L100004498"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001207640" },

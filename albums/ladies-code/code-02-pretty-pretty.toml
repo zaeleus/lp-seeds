@@ -1,4 +1,4 @@
-artist_id = "ladies-code"
+artist-id = "ladies-code"
 kind = "ep"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2013-09-05"
+released-on = "2013-09-05"
 country = "KR"
-catalog_number = "CMCC-10156"
+catalog-number = "CMCC-10156"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=034202294" },

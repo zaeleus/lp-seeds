@@ -1,8 +1,8 @@
-medium_ids = [
+medium-ids = [
   "dasoni/only-one/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "dasoni/only-one"
+song-id = "dasoni/only-one"
 duration = "3:43"

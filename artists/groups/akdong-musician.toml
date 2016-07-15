@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2014"
+started-on = "2014"
 country = "KR"
 
 names = [
@@ -9,8 +9,8 @@ names = [
 ]
 
 members = [
-  { artist_id = "akdong-musician/lee-chan-hyuk" },
-  { artist_id = "akdong-musician/lee-soo-hyun" },
+  { artist-id = "akdong-musician/lee-chan-hyuk" },
+  { artist-id = "akdong-musician/lee-soo-hyun" },
 ]
 
 urls = [

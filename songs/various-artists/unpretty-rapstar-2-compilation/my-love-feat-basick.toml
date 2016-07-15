@@ -3,6 +3,6 @@ names = [
   { name = "My Love (Feat. Basick)", locale = "ko-Latn", default = true },
 ]
 
-artist_credits = [
-  { artist_id = "sistar/hyo-rin" },
+artist-credits = [
+  { artist-id = "sistar/hyo-rin" },
 ]

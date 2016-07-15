@@ -1,14 +1,14 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/the-last-night/single-v/dvd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/the-last-night"
+song-id = "matsuura-aya/the-last-night"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/the-last-night"
+song-id = "matsuura-aya/the-last-night"
 names = [
   { name = "THE LAST NIGHT (AYAYA Close Up Ver.)", locale = "ja", original = true, default = true },
 ]

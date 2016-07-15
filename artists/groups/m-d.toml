@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2011-07-07"
+started-on = "2011-07-07"
 country = "KR"
 
 names = [
@@ -8,8 +8,8 @@ names = [
 ]
 
 members = [
-  { artist_id = "super-junior/heechul" },
-  { artist_id = "trax/jung-mo" },
+  { artist-id = "super-junior/heechul" },
+  { artist-id = "trax/jung-mo" },
 ]
 
 urls = [

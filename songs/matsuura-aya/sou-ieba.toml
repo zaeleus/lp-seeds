@@ -5,9 +5,9 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "tsunku", kind = "lyricist" },
-  { artist_id = "tsunku", kind = "composer" },
-  { artist_id = "suzuki-shunsuke", kind = "arranger" },
-  { artist_id = "murayama-tatsuya", kind = "arranger" }, # FIXME strings arranger
+  { artist-id = "tsunku", kind = "lyricist" },
+  { artist-id = "tsunku", kind = "composer" },
+  { artist-id = "suzuki-shunsuke", kind = "arranger" },
+  { artist-id = "murayama-tatsuya", kind = "arranger" }, # FIXME strings arranger
 ]
 

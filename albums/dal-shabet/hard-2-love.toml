@@ -1,4 +1,4 @@
-artist_id = "dal-shabet"
+artist-id = "dal-shabet"
 kind = "single"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-11-04"
+released-on = "2015-11-04"
 country = "JP"
-catalog_number = "POCS-9108"
+catalog-number = "POCS-9108"
 media = [{ kind = "cd" }]
 disambiguation = "Premium Edition"
 urls = [
@@ -16,9 +16,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-11-04"
+released-on = "2015-11-04"
 country = "JP"
-catalog_number = "POCS-1372"
+catalog-number = "POCS-1372"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
 urls = [

@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2012"
+started-on = "2012"
 country = "JP"
 
 names = [
@@ -8,10 +8,10 @@ names = [
 ]
 
 members = [
-  { artist_id = "morning-musume/tanaka-reina" },
-  { artist_id = "lovendor/okada-marina" },
-  { artist_id = "lovendor/uozumi-yuki" },
-  { artist_id = "lovendor/miyazawa-marin" },
+  { artist-id = "morning-musume/tanaka-reina" },
+  { artist-id = "lovendor/okada-marina" },
+  { artist-id = "lovendor/uozumi-yuki" },
+  { artist-id = "lovendor/miyazawa-marin" },
 ]
 
 urls = [

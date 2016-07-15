@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "lee-jin-ah/appetizer/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "lee-jin-ah/baebulleo"
+song-id = "lee-jin-ah/baebulleo"
 duration = "3:19"
 
 [[tracks]]
 position = 2
-song_id = "lee-jin-ah/like-love"
+song-id = "lee-jin-ah/like-love"
 duration = "2:49"

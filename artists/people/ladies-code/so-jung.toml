@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1993-09-03"
+started-on = "1993-09-03"
 country = "KR"
 
 names = [
@@ -9,4 +9,4 @@ names = [
   { name = "Lee So Jung", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "polaris-entertainment" }]
+labels = [{ label-id = "polaris-entertainment" }]

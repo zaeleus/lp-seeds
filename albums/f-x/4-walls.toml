@@ -1,4 +1,4 @@
-artist_id = "f-x"
+artist-id = "f-x"
 kind = "lp"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-10-27"
+released-on = "2015-10-27"
 country = "KR"
-catalog_number = "SMK-0569"
+catalog-number = "SMK-0569"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=045400884" },

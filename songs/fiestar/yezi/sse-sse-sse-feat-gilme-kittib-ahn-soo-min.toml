@@ -8,17 +8,17 @@ urls = [
 ]
 
 contributions = [
-  { artist_id = "fiestar/yezi", kind = "performer" },
-  { artist_id = "gilme", kind = "performer" },
-  { artist_id = "kittib", kind = "performer" },
-  { artist_id = "ahn-soo-min", kind = "performer" },
+  { artist-id = "fiestar/yezi", kind = "performer" },
+  { artist-id = "gilme", kind = "performer" },
+  { artist-id = "kittib", kind = "performer" },
+  { artist-id = "ahn-soo-min", kind = "performer" },
 
-  { artist_id = "fiestar/yezi", kind = "lyricist" },
-  { artist_id = "gilme", kind = "lyricist" },
-  { artist_id = "kittib", kind = "lyricist" },
-  { artist_id = "ahn-soo-min", kind = "lyricist" },
+  { artist-id = "fiestar/yezi", kind = "lyricist" },
+  { artist-id = "gilme", kind = "lyricist" },
+  { artist-id = "kittib", kind = "lyricist" },
+  { artist-id = "ahn-soo-min", kind = "lyricist" },
 
-  { artist_id = "assbrass", kind = "composer" },
+  { artist-id = "assbrass", kind = "composer" },
 
-  { artist_id = "assbrass", kind = "arranger" },
+  { artist-id = "assbrass", kind = "arranger" },
 ]

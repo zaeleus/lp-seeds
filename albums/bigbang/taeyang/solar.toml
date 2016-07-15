@@ -1,4 +1,4 @@
-artist_id = "bigbang/taeyang"
+artist-id = "bigbang/taeyang"
 kind = "lp"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2010-07-01"
+released-on = "2010-07-01"
 country = "KR"
-catalog_number = "CMBC-9549"
+catalog-number = "CMBC-9549"
 media = [{ kind = "cd" }]
 disambiguation = "Deluxe Edition"
 urls = [
@@ -16,9 +16,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2010-07-09"
+released-on = "2010-07-09"
 country = "KR"
-catalog_number = "CMBC-9555"
+catalog-number = "CMBC-9555"
 media = [{ kind = "cd" }]
 disambiguation = "Standard Edition"
 urls = [
@@ -26,9 +26,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2010-08-25"
+released-on = "2010-08-25"
 country = "KR"
-catalog_number = "CMBC-9567"
+catalog-number = "CMBC-9567"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "International Edition"
 urls = [

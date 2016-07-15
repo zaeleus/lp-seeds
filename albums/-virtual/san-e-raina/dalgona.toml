@@ -1,4 +1,4 @@
-artist_id = "-virtual/san-e-raina"
+artist-id = "-virtual/san-e-raina"
 kind = "single"
 
 names = [
@@ -7,13 +7,13 @@ names = [
   { name = "Sugar and Me", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "san-e", separator = ", " },
-  { artist_id = "after-school/raina" },
+artist-credits = [
+  { artist-id = "san-e", separator = ", " },
+  { artist-id = "after-school/raina" },
 ]
 
 [[releases]]
-released_on = "2016-06-17"
+released-on = "2016-06-17"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

@@ -5,13 +5,13 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "fiestar/yezi", kind = "performer" },
-  { artist_id = "san-e", kind = "performer" },
-  { artist_id = "fiestar/yezi", kind = "lyricist" },
-  { artist_id = "san-e", kind = "lyricist" },
-  { artist_id = "rhymer", kind = "composer" },
-  { artist_id = "lish", kind = "composer" },
-  { artist_id = "masterkey", kind = "composer" },
-  { artist_id = "lish", kind = "arranger" },
-  { artist_id = "masterkey", kind = "arranger" },
+  { artist-id = "fiestar/yezi", kind = "performer" },
+  { artist-id = "san-e", kind = "performer" },
+  { artist-id = "fiestar/yezi", kind = "lyricist" },
+  { artist-id = "san-e", kind = "lyricist" },
+  { artist-id = "rhymer", kind = "composer" },
+  { artist-id = "lish", kind = "composer" },
+  { artist-id = "masterkey", kind = "composer" },
+  { artist-id = "lish", kind = "arranger" },
+  { artist-id = "masterkey", kind = "arranger" },
 ]

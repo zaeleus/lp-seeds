@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2007-08"
+started-on = "2007-08"
 country = "JP"
 
 names = [
@@ -7,7 +7,7 @@ names = [
 ]
 
 members = [
-  { artist_id = "berryz-koubou/tsugunaga-momoko" },
-  { artist_id = "berryz-koubou/natsuyaki-miyabi" },
-  { artist_id = "c-ute/suzuki-airi" },
+  { artist-id = "berryz-koubou/tsugunaga-momoko" },
+  { artist-id = "berryz-koubou/natsuyaki-miyabi" },
+  { artist-id = "c-ute/suzuki-airi" },
 ]

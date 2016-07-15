@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1989-09-03"
+started-on = "1989-09-03"
 country = "KR"
 
 names = [
@@ -7,9 +7,9 @@ names = [
   { name = "Jang Hyun Seung", locale = "ko-Latn", kind = "real", default = true },
 ]
 
-labels = [{ label_id = "cube-entertainment" }]
+labels = [{ label-id = "cube-entertainment" }]
 
 [metadata]
-blood_type = "B"
+blood-type = "B"
 height = 177
 weight = 58

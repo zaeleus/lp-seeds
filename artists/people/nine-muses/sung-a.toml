@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1989-07-08"
+started-on = "1989-07-08"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Son Sung Ah", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "star-empire-entertainment" }]
+labels = [{ label-id = "star-empire-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/tjddkths" },

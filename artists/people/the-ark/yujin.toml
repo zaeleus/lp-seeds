@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1996-08-06"
+started-on = "1996-08-06"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Jung Yujin", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "music-k-entertainment" }]
+labels = [{ label-id = "music-k-entertainment" }]
 
 [metadata]
-blood_type = "AB"
+blood-type = "AB"

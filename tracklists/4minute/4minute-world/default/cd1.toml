@@ -1,28 +1,28 @@
-medium_ids = [
+medium-ids = [
   "4minute/4minute-world/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "4minute/wait-a-minute"
+song-id = "4minute/wait-a-minute"
 duration = "3:10"
 
 [[tracks]]
 position = 2
-song_id = "4minute/oneul-mwohae"
+song-id = "4minute/oneul-mwohae"
 duration = "3:26"
 
 [[tracks]]
 position = 3
-song_id = "4minute/allyeo-julge"
+song-id = "4minute/allyeo-julge"
 duration = "3:08"
 
 [[tracks]]
 position = 4
-song_id = "4minute/deureowa"
+song-id = "4minute/deureowa"
 duration = "3:34"
 
 [[tracks]]
 position = 5
-song_id = "4minute/gomawo"
+song-id = "4minute/gomawo"
 duration = "3:54"

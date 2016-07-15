@@ -1,5 +1,5 @@
 kind = "group"
-# started_on = ""
+# started-on = ""
 country = "KR"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 members = [
-  { artist_id = "lucky-j/j-kyun" },
-  { artist_id = "lucky-j/jessi" },
-  { artist_id = "lucky-j/j-yo" },
+  { artist-id = "lucky-j/j-kyun" },
+  { artist-id = "lucky-j/jessi" },
+  { artist-id = "lucky-j/j-yo" },
 ]
 
 urls = [

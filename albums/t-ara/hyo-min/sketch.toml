@@ -1,4 +1,4 @@
-artist_id = "t-ara/hyo-min"
+artist-id = "t-ara/hyo-min"
 kind = "ep"
 
 names = [
@@ -6,16 +6,16 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-03-17"
+released-on = "2016-03-17"
 country = "KR"
-catalog_number = "INT-0051"
+catalog-number = "INT-0051"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=055400068" },
 ]
 
 [[releases]]
-released_on = "2016-03-17"
+released-on = "2016-03-17"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

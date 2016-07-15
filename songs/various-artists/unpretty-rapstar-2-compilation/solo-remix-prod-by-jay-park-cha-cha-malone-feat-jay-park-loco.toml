@@ -3,6 +3,6 @@ names = [
   { name = "Solo (Remix) (Prod. by Jay Park, Cha Cha Malone / Feat. Jay Park, Loco)", locale = "ko-Latn", default = true },
 ]
 
-artist_credits = [
-  { artist_id = "fiestar/yezi" },
+artist-credits = [
+  { artist-id = "fiestar/yezi" },
 ]

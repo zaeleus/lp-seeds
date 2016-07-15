@@ -1,4 +1,4 @@
-artist_id = "rainbow-blaxx"
+artist-id = "rainbow-blaxx"
 kind = "ep"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2014-01-20"
+released-on = "2014-01-20"
 country = "KR"
-catalog_number = "L100004846"
+catalog-number = "L100004846"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001208312" },

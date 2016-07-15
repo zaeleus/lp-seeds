@@ -1,58 +1,58 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/double-rainbow/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/ima-wa-let-it-be"
+song-id = "matsuura-aya/ima-wa-let-it-be"
 duration = "4:54"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/happy-to-go"
+song-id = "matsuura-aya/happy-to-go"
 duration = "4:40"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/soulmate"
+song-id = "matsuura-aya/soulmate"
 duration = "5:12"
 
 [[tracks]]
 position = 4
-song_id = "matsuura-aya/double-rainbow"
+song-id = "matsuura-aya/double-rainbow"
 duration = "4:41"
 
 [[tracks]]
 position = 5
-song_id = "matsuura-aya/blue-bird"
+song-id = "matsuura-aya/blue-bird"
 duration = "4:43"
 
 [[tracks]]
 position = 6
-song_id = "matsuura-aya/kaze-ni-makasete"
+song-id = "matsuura-aya/kaze-ni-makasete"
 duration = "4:52"
 
 [[tracks]]
 position = 7
-song_id = "matsuura-aya/suna-wo-kamu-you-ni-namida"
+song-id = "matsuura-aya/suna-wo-kamu-you-ni-namida"
 duration = "4:09"
 
 [[tracks]]
 position = 8
-song_id = "matsuura-aya/toudai"
+song-id = "matsuura-aya/toudai"
 duration = "4:28"
 
 [[tracks]]
 position = 9
-song_id = "matsuura-aya/hikkosenai-kimochi"
+song-id = "matsuura-aya/hikkosenai-kimochi"
 duration = "5:05"
 
 [[tracks]]
 position = 10
-song_id = "matsuura-aya/onna-day-by-day"
+song-id = "matsuura-aya/onna-day-by-day"
 duration = "3:51"
 
 [[tracks]]
 position = 11
-song_id = "matsuura-aya/egao"
+song-id = "matsuura-aya/egao"
 duration = "5:45"

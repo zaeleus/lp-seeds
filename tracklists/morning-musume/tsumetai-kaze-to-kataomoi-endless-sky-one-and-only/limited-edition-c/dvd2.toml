@@ -1,10 +1,10 @@
-medium_ids = [
+medium-ids = [
   "morning-musume/tsumetai-kaze-to-kataomoi-endless-sky-one-and-only/limited-edition-c/dvd2",
 ]
 
 [[tracks]]
 position = 1
-song_id = "morning-musume/one-and-only"
+song-id = "morning-musume/one-and-only"
 names = [
   { name = "One and Only (Music Video)", locale = "ja", original = true, default = true },
 ]

@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1996-06-12"
+started-on = "1996-06-12"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Park Myung Eun", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "woollim-entertainment" }]
+labels = [{ label-id = "woollim-entertainment" }]
 
 [metadata]
-blood_type = "B"
+blood-type = "B"
 height = 165
 weight = 47

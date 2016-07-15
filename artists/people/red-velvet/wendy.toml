@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1994-02-21"
+started-on = "1994-02-21"
 country = "KR"
 
 names = [
@@ -10,9 +10,9 @@ names = [
   { name = "Wendy Son", locale = "en", kind = "real" },
 ]
 
-labels = [{ label_id = "sm-entertainment" }]
+labels = [{ label-id = "sm-entertainment" }]
 
 [metadata]
 height = 160
 weight = 40
-blood_type = "O"
+blood-type = "O"

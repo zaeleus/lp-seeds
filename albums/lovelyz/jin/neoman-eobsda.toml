@@ -1,4 +1,4 @@
-artist_id = "lovelyz/jin"
+artist-id = "lovelyz/jin"
 kind = "single"
 
 names = [
@@ -8,6 +8,6 @@ names = [
 ]
 
 [[releases]]
-released_on = "2013-11-08"
+released-on = "2013-11-08"
 country = "KR"
 media = [{ kind = "digital" }]

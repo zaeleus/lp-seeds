@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-06-06"
+started-on = "1991-06-06"
 country = "KR"
 
 names = [
@@ -7,7 +7,7 @@ names = [
   { name = "Son Dong Woo", locale = "ko-Latn", kind = "real", default = true },
 ]
 
-labels = [{ label_id = "cube-entertainment" }]
+labels = [{ label-id = "cube-entertainment" }]
 
 urls = [
   { url = "https://instagram.com/realbeastdw" },
@@ -15,6 +15,6 @@ urls = [
 ]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 height = 181
 weight = 64

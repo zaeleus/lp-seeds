@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2014"
+started-on = "2014"
 country = "KR"
 
 names = [
@@ -7,17 +7,17 @@ names = [
   { name = "Lovelyz", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "woollim-entertainment" }]
+labels = [{ label-id = "woollim-entertainment" }]
 
 members = [
-  { artist_id = "lovelyz/baby-soul" },
-  { artist_id = "lovelyz/yoo-ji-ae" },
-  { artist_id = "lovelyz/seo-ji-soo" },
-  { artist_id = "lovelyz/lee-mi-joo" },
-  { artist_id = "lovelyz/kim-ji-yeon" },
-  { artist_id = "lovelyz/jin" },
-  { artist_id = "lovelyz/ryu-su-jeong" },
-  { artist_id = "lovelyz/jeong-ye-in" },
+  { artist-id = "lovelyz/baby-soul" },
+  { artist-id = "lovelyz/yoo-ji-ae" },
+  { artist-id = "lovelyz/seo-ji-soo" },
+  { artist-id = "lovelyz/lee-mi-joo" },
+  { artist-id = "lovelyz/kim-ji-yeon" },
+  { artist-id = "lovelyz/jin" },
+  { artist-id = "lovelyz/ryu-su-jeong" },
+  { artist-id = "lovelyz/jeong-ye-in" },
 ]
 
 urls = [

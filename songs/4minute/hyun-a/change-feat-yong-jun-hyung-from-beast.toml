@@ -8,6 +8,6 @@ urls = [
 ]
 
 contributions = [
-  { artist_id = "4minute/hyun-a", kind = "performer" },
-  { artist_id = "beast/yong-jun-hyung", kind = "performer" },
+  { artist-id = "4minute/hyun-a", kind = "performer" },
+  { artist-id = "beast/yong-jun-hyung", kind = "performer" },
 ]

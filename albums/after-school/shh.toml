@@ -1,20 +1,20 @@
-artist_id = "after-school"
+artist-id = "after-school"
 kind = "single"
 
 names = [
   { name = "Shh", locale = "ja", original = true, default = true },
 ]
 
-[[artist_credits]]
-artist_id = "after-school"
+[[artist-credits]]
+artist-id = "after-school"
 names = [
   { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
 ]
 
 [[releases]]
-released_on = "2014-01-29"
+released-on = "2014-01-29"
 country = "JP"
-catalog_number = "AVCD-48898/B"
+catalog-number = "AVCD-48898/B"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "CD+DVD"
 urls = [
@@ -23,9 +23,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2014-01-29"
+released-on = "2014-01-29"
 country = "JP"
-catalog_number = "AVCD-48899"
+catalog-number = "AVCD-48899"
 media = [{ kind = "cd" }]
 disambiguation = "CD+Photobook"
 urls = [
@@ -34,9 +34,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2014-01-29"
+released-on = "2014-01-29"
 country = "JP"
-catalog_number = "AVCD-48900"
+catalog-number = "AVCD-48900"
 media = [{ kind = "cd" }]
 disambiguation = "CD Only"
 urls = [

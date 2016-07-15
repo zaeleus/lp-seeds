@@ -1,4 +1,4 @@
-artist_id = "wonder-girls"
+artist-id = "wonder-girls"
 kind = "lp"
 
 names = [
@@ -6,16 +6,16 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-08-03"
+released-on = "2015-08-03"
 country = "KR"
-catalog_number = "JYPK-0554"
+catalog-number = "JYPK-0554"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=045400823" },
 ]
 
 [[releases]]
-released_on = "2015-08-03"
+released-on = "2015-08-03"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

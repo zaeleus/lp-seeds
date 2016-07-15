@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1990-10-15"
+started-on = "1990-10-15"
 country = "KR"
 
 names = [
@@ -9,13 +9,13 @@ names = [
   { name = "Jeon Ji Yoon", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "cube-entertainment" }]
+labels = [{ label-id = "cube-entertainment" }]
 
 urls = [
   { url = "https://www.instagram.com/jenyerjiyoon/" },
 ]
 
 [metadata]
-blood_type = "B"
+blood-type = "B"
 weight = 47
 height = 165

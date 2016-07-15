@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1997-03-24"
+started-on = "1997-03-24"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Myoui Mina", locale = "ja-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "jyp-entertainment" }]
+labels = [{ label-id = "jyp-entertainment" }]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 weight = 46
 height = 163

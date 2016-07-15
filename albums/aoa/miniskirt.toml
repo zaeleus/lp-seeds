@@ -1,4 +1,4 @@
-artist_id = "aoa"
+artist-id = "aoa"
 kind = "single"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2014-10-01"
+released-on = "2014-10-01"
 country = "JP"
-catalog_number = "UICV-9069"
+catalog-number = "UICV-9069"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Type A"
 urls = [
@@ -18,9 +18,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2014-10-01"
+released-on = "2014-10-01"
 country = "JP"
-catalog_number = "UICV-9070"
+catalog-number = "UICV-9070"
 media = [{ kind = "cd" }]
 disambiguation = "Type B"
 urls = [

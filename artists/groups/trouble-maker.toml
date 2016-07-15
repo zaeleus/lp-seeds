@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2011"
+started-on = "2011"
 country = "KR"
 
 names = [
@@ -7,9 +7,9 @@ names = [
   { name = "Trouble Maker", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "cube-entertainment" }]
+labels = [{ label-id = "cube-entertainment" }]
 
 members = [
-  { artist_id = "beast/jang-hyun-seung" },
-  { artist_id = "4minute/hyun-a" },
+  { artist-id = "beast/jang-hyun-seung" },
+  { artist-id = "4minute/hyun-a" },
 ]

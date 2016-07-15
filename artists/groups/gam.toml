@@ -1,6 +1,6 @@
 kind = "group"
-started_on = "2006"
-ended_on = "2009"
+started-on = "2006"
+ended-on = "2009"
 country = "JP"
 
 names = [
@@ -8,9 +8,9 @@ names = [
   { name = "GAM", locale = "ja-Latn", default = true },
 ]
 
-labels = [{ label_id = "hachama" }]
+labels = [{ label-id = "hachama" }]
 
 members = [
-  { artist_id = "matsuura-aya" },
-  { artist_id = "morning-musume/fujimoto-miki" },
+  { artist-id = "matsuura-aya" },
+  { artist-id = "morning-musume/fujimoto-miki" },
 ]

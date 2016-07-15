@@ -1,4 +1,4 @@
-artist_id = "crayon-pop"
+artist-id = "crayon-pop"
 kind = "single"
 
 names = [
@@ -7,14 +7,14 @@ names = [
 ]
 
 [[releases]]
-released_on = "2014-04-01"
+released-on = "2014-04-01"
 country = "KR"
 media = [{ kind = "digital" }]
 
 [[releases]]
-released_on = "2014-04-01"
+released-on = "2014-04-01"
 country = "KR"
-catalog_number = "S90749C"
+catalog-number = "S90749C"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=800212499" },

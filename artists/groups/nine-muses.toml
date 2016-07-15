@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2010"
+started-on = "2010"
 country = "KR"
 
 names = [
@@ -7,23 +7,23 @@ names = [
   { name = "Nine Muses", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "star-empire-entertainment" }]
+labels = [{ label-id = "star-empire-entertainment" }]
 
 members = [
-  { artist_id = "nine-muses/hyun-a", started_on = "2010-10-14" },
-  { artist_id = "nine-muses/euaerin", started_on = "2010-08-12" },
-  { artist_id = "nine-muses/hye-mi", started_on = "2010-08-12" },
-  { artist_id = "nine-muses/min-ha", started_on = "2010-08-12" },
-  { artist_id = "nine-muses/kyung-ree", started_on = "2012-01-12" },
-  { artist_id = "nine-muses/sung-a", started_on = "2012-03-12" },
-  { artist_id = "nine-muses/so-jin", started_on = "2015-01-12" },
-  { artist_id = "nine-muses/keum-jo", started_on = "2015-01-12" },
-  { artist_id = "nine-muses/jae-kyung", started_on = "2010-08-12", ended_on = "2010-09-12" },
-  { artist_id = "nine-muses/rana", started_on = "2010-08-12", ended_on = "2011-02-11" },
-  { artist_id = "nine-muses/bini", started_on = "2010-08-12", ended_on = "2011-02-11" },
-  { artist_id = "nine-muses/eun-ji", started_on = "2010-08-12", ended_on = "2014-01-28" },
-  { artist_id = "nine-muses/lee-sem", started_on = "2010-08-12", ended_on = "2014-01-28" },
-  { artist_id = "nine-muses/sera", started_on = "2010-08-12", ended_on = "2014-06-23" },
+  { artist-id = "nine-muses/hyun-a", started-on = "2010-10-14" },
+  { artist-id = "nine-muses/euaerin", started-on = "2010-08-12" },
+  { artist-id = "nine-muses/hye-mi", started-on = "2010-08-12" },
+  { artist-id = "nine-muses/min-ha", started-on = "2010-08-12" },
+  { artist-id = "nine-muses/kyung-ree", started-on = "2012-01-12" },
+  { artist-id = "nine-muses/sung-a", started-on = "2012-03-12" },
+  { artist-id = "nine-muses/so-jin", started-on = "2015-01-12" },
+  { artist-id = "nine-muses/keum-jo", started-on = "2015-01-12" },
+  { artist-id = "nine-muses/jae-kyung", started-on = "2010-08-12", ended-on = "2010-09-12" },
+  { artist-id = "nine-muses/rana", started-on = "2010-08-12", ended-on = "2011-02-11" },
+  { artist-id = "nine-muses/bini", started-on = "2010-08-12", ended-on = "2011-02-11" },
+  { artist-id = "nine-muses/eun-ji", started-on = "2010-08-12", ended-on = "2014-01-28" },
+  { artist-id = "nine-muses/lee-sem", started-on = "2010-08-12", ended-on = "2014-01-28" },
+  { artist-id = "nine-muses/sera", started-on = "2010-08-12", ended-on = "2014-06-23" },
 ]
 
 urls = [

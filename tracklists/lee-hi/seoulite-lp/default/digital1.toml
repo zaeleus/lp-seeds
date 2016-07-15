@@ -1,33 +1,33 @@
-medium_ids = [
+medium-ids = [
   "lee-hi/seoulite-lp/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "lee-hi/my-star"
+song-id = "lee-hi/my-star"
 duration = "3:41"
 
 [[tracks]]
 position = 2
-song_id = "lee-hi/huimanggomun"
+song-id = "lee-hi/huimanggomun"
 duration = "3:56"
 
 [[tracks]]
 position = 3
-song_id = "lee-hi/seuchyeo-ganda"
+song-id = "lee-hi/seuchyeo-ganda"
 duration = "3:19"
 
 [[tracks]]
 position = 4
-song_id = "lee-hi/bamsaem-feat-tablo"
+song-id = "lee-hi/bamsaem-feat-tablo"
 duration = "3:40"
 
 [[tracks]]
 position = 5
-song_id = "lee-hi/anbwado-video-feat-bobby"
+song-id = "lee-hi/anbwado-video-feat-bobby"
 duration = "3:40"
 
 [[tracks]]
 position = 6
-song_id = "lee-hi/missing-u"
+song-id = "lee-hi/missing-u"
 duration = "4:08"

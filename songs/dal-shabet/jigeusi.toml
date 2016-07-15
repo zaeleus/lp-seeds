@@ -5,8 +5,8 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "dal-shabet/su-bin", kind = "lyricist" },
-  { artist_id = "dal-shabet/su-bin", kind = "composer" },
-  { artist_id = "kim-min-seob", kind = "arranger" },
-  { artist_id = "choi-sung-min", kind = "arranger" },
+  { artist-id = "dal-shabet/su-bin", kind = "lyricist" },
+  { artist-id = "dal-shabet/su-bin", kind = "composer" },
+  { artist-id = "kim-min-seob", kind = "arranger" },
+  { artist-id = "choi-sung-min", kind = "arranger" },
 ]

@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1990-03-06"
+started-on = "1990-03-06"
 country = "KR"
 
 names = [
@@ -11,9 +11,9 @@ names = [
   { name = "Pǔ Chū Yǎ", locale = "zh-Latn" },
 ]
 
-labels = [{ label_id = "fnc-entertainment" }]
+labels = [{ label-id = "fnc-entertainment" }]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 weight = 44
 height = 160

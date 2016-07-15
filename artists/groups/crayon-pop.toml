@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2012"
+started-on = "2012"
 country = "KR"
 
 names = [
@@ -7,14 +7,14 @@ names = [
   { name = "Crayon Pop", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "chrome-entertainment" }]
+labels = [{ label-id = "chrome-entertainment" }]
 
 members = [
-  { artist_id = "crayon-pop/cho-a" },
-  { artist_id = "crayon-pop/ellin" },
-  { artist_id = "crayon-pop/geum-mi" },
-  { artist_id = "crayon-pop/so-yul" },
-  { artist_id = "crayon-pop/way" },
+  { artist-id = "crayon-pop/cho-a" },
+  { artist-id = "crayon-pop/ellin" },
+  { artist-id = "crayon-pop/geum-mi" },
+  { artist-id = "crayon-pop/so-yul" },
+  { artist-id = "crayon-pop/way" },
 ]
 
 urls = [

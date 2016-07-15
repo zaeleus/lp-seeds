@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "girls-generation/yoona/deoksugung-doldamgirui-bom-feat-10cm/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "girls-generation/yoona/deoksugung-doldamgirui-bom-feat-10cm"
+song-id = "girls-generation/yoona/deoksugung-doldamgirui-bom-feat-10cm"
 duration = "3:16"
 
 [[tracks]]
 position = 2
-song_id = "girls-generation/yoona/deoksugung-doldamgirui-bom-feat-10cm-inst"
+song-id = "girls-generation/yoona/deoksugung-doldamgirui-bom-feat-10cm-inst"
 duration = "3:16"

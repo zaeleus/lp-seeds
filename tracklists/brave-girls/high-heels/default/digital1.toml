@@ -1,28 +1,28 @@
-medium_ids = [
+medium-ids = [
   "brave-girls/high-heels/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "brave-girls/high-heels"
+song-id = "brave-girls/high-heels"
 duration = "3:00"
 
 [[tracks]]
 position = 2
-song_id = "brave-girls/help-me"
+song-id = "brave-girls/help-me"
 duration = "3:20"
 
 [[tracks]]
 position = 3
-song_id = "brave-girls/whatever"
+song-id = "brave-girls/whatever"
 duration = "3:32"
 
 [[tracks]]
 position = 4
-song_id = "brave-girls/mannaji-malgeol"
+song-id = "brave-girls/mannaji-malgeol"
 duration = "4:04"
 
 [[tracks]]
 position = 5
-song_id = "brave-girls/byeonhaesseo"
+song-id = "brave-girls/byeonhaesseo"
 duration = "3:13"

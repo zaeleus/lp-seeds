@@ -1,4 +1,4 @@
-artist_id = "pledis-girlz"
+artist-id = "pledis-girlz"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-06-27"
+released-on = "2016-06-27"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

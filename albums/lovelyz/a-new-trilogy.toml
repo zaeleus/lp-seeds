@@ -1,4 +1,4 @@
-artist_id = "lovelyz"
+artist-id = "lovelyz"
 kind = "ep"
 
 names = [
@@ -12,7 +12,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-25"
+released-on = "2016-04-25"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -23,9 +23,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-25"
+released-on = "2016-04-25"
 country = "KR"
-catalog_number = "L200001237"
+catalog-number = "L200001237"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001209475" },

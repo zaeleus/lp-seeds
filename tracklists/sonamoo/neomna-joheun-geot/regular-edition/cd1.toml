@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "sonamoo/neomna-joheun-geot/regular-edition/cd1",
   "sonamoo/neomna-joheun-geot/special-edition/cd1",
   "sonamoo/neomna-joheun-geot/default/digital1",
@@ -6,30 +6,30 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "sonamoo/closer"
+song-id = "sonamoo/closer"
 duration = "1:11"
 
 [[tracks]]
 position = 2
-song_id = "sonamoo/senseuneomchyeo-sense-man"
+song-id = "sonamoo/senseuneomchyeo-sense-man"
 duration = "3:18"
 
 [[tracks]]
 position = 3
-song_id = "sonamoo/b-f"
+song-id = "sonamoo/b-f"
 duration = "3:30"
 
 [[tracks]]
 position = 4
-song_id = "sonamoo/neomna-joheun-geot-i-like-u-too-much"
+song-id = "sonamoo/neomna-joheun-geot-i-like-u-too-much"
 duration = "3:24"
 
 [[tracks]]
 position = 5
-song_id = "sonamoo/sugar-baby"
+song-id = "sonamoo/sugar-baby"
 duration = "3:15"
 
 [[tracks]]
 position = 6
-song_id = "sonamoo/i-do-love-you"
+song-id = "sonamoo/i-do-love-you"
 duration = "3:28"

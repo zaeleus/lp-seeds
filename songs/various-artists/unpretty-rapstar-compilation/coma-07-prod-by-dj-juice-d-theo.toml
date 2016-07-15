@@ -2,8 +2,8 @@ names = [
   { name = "Coma 07' (Prod. by DJ Juice, D.Theo)", locale = "ko", original = true, default = true },
 ]
 
-artist_credits = [
-  { artist_id = "cheetah" },
+artist-credits = [
+  { artist-id = "cheetah" },
 ]
 
 urls = [

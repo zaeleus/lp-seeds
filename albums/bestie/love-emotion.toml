@@ -1,4 +1,4 @@
-artist_id = "bestie"
+artist-id = "bestie"
 kind = "ep"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-05-08"
+released-on = "2015-05-08"
 country = "KR"
-catalog_number = "L200001109"
+catalog-number = "L200001109"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=001208925" },

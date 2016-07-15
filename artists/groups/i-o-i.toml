@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2016-04-01"
+started-on = "2016-04-01"
 country = "KR"
 
 names = [
@@ -15,15 +15,15 @@ urls = [
 ]
 
 members = [
-  { artist_id = "i-o-i/choi-yoo-jung" },
-  { artist_id = "i-o-i/jeon-so-mi" },
-  { artist_id = "i-o-i/jung-chae-yeon" },
-  { artist_id = "i-o-i/kang-mi-na" },
-  { artist_id = "i-o-i/kim-chung-ha" },
-  { artist_id = "i-o-i/kim-do-yeon" },
-  { artist_id = "i-o-i/kim-se-jeong" },
-  { artist_id = "i-o-i/kim-so-hye" },
-  { artist_id = "i-o-i/lim-na-young" },
-  { artist_id = "i-o-i/yu-yeun-jung" },
-  { artist_id = "i-o-i/zhou-jieqiong" },
+  { artist-id = "i-o-i/choi-yoo-jung" },
+  { artist-id = "i-o-i/jeon-so-mi" },
+  { artist-id = "i-o-i/jung-chae-yeon" },
+  { artist-id = "i-o-i/kang-mi-na" },
+  { artist-id = "i-o-i/kim-chung-ha" },
+  { artist-id = "i-o-i/kim-do-yeon" },
+  { artist-id = "i-o-i/kim-se-jeong" },
+  { artist-id = "i-o-i/kim-so-hye" },
+  { artist-id = "i-o-i/lim-na-young" },
+  { artist-id = "i-o-i/yu-yeun-jung" },
+  { artist-id = "i-o-i/zhou-jieqiong" },
 ]

@@ -1,18 +1,18 @@
-medium_ids = [
+medium-ids = [
   "c-i-v-a/wae-bulleo/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "c-i-v-a/wae-bulleo"
+song-id = "c-i-v-a/wae-bulleo"
 duration = "3:40"
 
 [[tracks]]
 position = 2
-song_id = "c-i-v-a/wae-bulleo-clean-ver"
+song-id = "c-i-v-a/wae-bulleo-clean-ver"
 duration = "3:40"
 
 [[tracks]]
 position = 3
-song_id = "c-i-v-a/wae-bulleo-inst"
+song-id = "c-i-v-a/wae-bulleo-inst"
 duration = "3:41"

@@ -9,6 +9,6 @@ urls = [
 ]
 
 performers = [
-  { artist_id = "lovelyz/baby-soul" },
-  { artist_id = "wheesung" },
+  { artist-id = "lovelyz/baby-soul" },
+  { artist-id = "wheesung" },
 ]

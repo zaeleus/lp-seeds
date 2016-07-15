@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1998-06-04"
+started-on = "1998-06-04"
 country = "KR"
 
 names = [
@@ -9,8 +9,8 @@ names = [
   { name = "Zheng Ye", locale = "zh-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "woollim-entertainment" }]
+labels = [{ label-id = "woollim-entertainment" }]
 
 [metadata]
-blood_type = "B"
+blood-type = "B"
 height = 166

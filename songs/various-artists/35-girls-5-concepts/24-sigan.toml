@@ -4,8 +4,8 @@ names = [
   { name = "24 Hours", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "make-some-noise" }
+artist-credits = [
+  { artist-id = "make-some-noise" }
 ]
 
 urls = [

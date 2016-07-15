@@ -7,8 +7,8 @@ urls = [
 ]
 
 contributions = [
-  { artist_id = "midas-t", kind = "lyricist" },
-  { artist_id = "midas-t", kind = "composer" },
-  { artist_id = "dj-koo", kind = "arranger" },
-  { artist_id = "maximite", kind = "arranger" },
+  { artist-id = "midas-t", kind = "lyricist" },
+  { artist-id = "midas-t", kind = "composer" },
+  { artist-id = "dj-koo", kind = "arranger" },
+  { artist-id = "maximite", kind = "arranger" },
 ]

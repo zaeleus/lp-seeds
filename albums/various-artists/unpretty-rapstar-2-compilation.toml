@@ -1,4 +1,4 @@
-artist_id = "various-artists"
+artist-id = "various-artists"
 kind = "lp"
 
 names = [
@@ -7,7 +7,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-12-02"
+released-on = "2015-12-02"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -16,9 +16,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-12-02"
+released-on = "2015-12-02"
 country = "KR"
-catalog_number = "CMDC-10702"
+catalog-number = "CMDC-10702"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://www.hanteo.com/search/nAlbum_info2.asp?mcode=034203173" },

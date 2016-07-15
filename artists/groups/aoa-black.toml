@@ -1,17 +1,17 @@
 kind = "group"
-started_on = "2012"
+started-on = "2012"
 country = "KR"
 
 names = [
   { name = "AOA Black", locale = "ko", default = true, original = true },
 ]
 
-labels = [{ label_id = "fnc-entertainment" }]
+labels = [{ label-id = "fnc-entertainment" }]
 
 members = [
-  { artist_id = "aoa/choa" },
-  { artist_id = "aoa/jimin" },
-  { artist_id = "aoa/mina" },
-  { artist_id = "aoa/youkyoung" },
-  { artist_id = "aoa/yuna" },
+  { artist-id = "aoa/choa" },
+  { artist-id = "aoa/jimin" },
+  { artist-id = "aoa/mina" },
+  { artist-id = "aoa/youkyoung" },
+  { artist-id = "aoa/yuna" },
 ]

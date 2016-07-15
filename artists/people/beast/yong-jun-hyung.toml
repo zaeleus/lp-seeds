@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1989-12-19"
+started-on = "1989-12-19"
 country = "KR"
 
 names = [
@@ -8,13 +8,13 @@ names = [
   { name = "Joker", locale = "ko", kind = "stage" },
 ]
 
-labels = [{ label_id = "cube-entertainment" }]
+labels = [{ label-id = "cube-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/Joker891219" }
 ]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 height = 178
 weight = 64

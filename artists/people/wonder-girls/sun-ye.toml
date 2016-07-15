@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1989-08-12"
+started-on = "1989-08-12"
 country = "KR"
 
 names = [
@@ -10,13 +10,13 @@ names = [
   { name = "Sun", locale = "en", kind = "stage" },
 ]
 
-labels = [{ label_id = "jyp-entertainment" }]
+labels = [{ label-id = "jyp-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/wgsun" }
 ]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 weight = 45
 height = 162

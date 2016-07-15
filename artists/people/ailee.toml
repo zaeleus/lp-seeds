@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1989-05-30"
+started-on = "1989-05-30"
 country = "KR"
 
 names = [
@@ -10,7 +10,7 @@ names = [
   { name = "Amy Lee", locale = "en", kind = "real" },
 ]
 
-labels = [{ label_id = "ymc-entertainment" }]
+labels = [{ label-id = "ymc-entertainment" }]
 
 urls = [
   { url = "http://www.ymcent.com/YMC/artist_ailee.php" },

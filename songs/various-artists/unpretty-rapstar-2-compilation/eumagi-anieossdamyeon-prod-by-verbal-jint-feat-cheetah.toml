@@ -4,6 +4,6 @@ names = [
   { name = "If It Weren't for Music (Prod. by Verbal Jint / Feat. Cheetah)", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "truedy" },
+artist-credits = [
+  { artist-id = "truedy" },
 ]

@@ -1,4 +1,4 @@
-artist_id = "-virtual/vibe-x-chen-x-heize"
+artist-id = "-virtual/vibe-x-chen-x-heize"
 kind = "single"
 
 names = [
@@ -6,14 +6,14 @@ names = [
   { name = "Sseomta (Lil' Something)", locale = "ko-Latn", default = true },
 ]
 
-artist_credits = [
-  { artist_id = "vibe", separator = " x " },
-  { artist_id = "exo/chen", separator = " x " },
-  { artist_id = "heize" },
+artist-credits = [
+  { artist-id = "vibe", separator = " x " },
+  { artist-id = "exo/chen", separator = " x " },
+  { artist-id = "heize" },
 ]
 
 [[releases]]
-released_on = "2016-04-08"
+released-on = "2016-04-08"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

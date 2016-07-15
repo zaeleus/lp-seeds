@@ -1,4 +1,4 @@
-artist_id = "girls-generation-tts"
+artist-id = "girls-generation-tts"
 kind = "ep"
 
 names = [
@@ -6,14 +6,14 @@ names = [
 ]
 
 [[releases]]
-released_on = "2012-04-29"
+released-on = "2012-04-29"
 country = "KR"
 media = [{ kind = "digital" }]
 
 [[releases]]
-released_on = "2012-05-02"
+released-on = "2012-05-02"
 country = "KR"
-catalog_number = "SMK-0174"
+catalog-number = "SMK-0174"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=000501650" },

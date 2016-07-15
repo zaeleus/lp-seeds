@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1999-11-23"
+started-on = "1999-11-23"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Cheon Jae In", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "music-k-entertainment" }]
+labels = [{ label-id = "music-k-entertainment" }]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"

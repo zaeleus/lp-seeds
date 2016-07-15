@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1994-06-03"
+started-on = "1994-06-03"
 country = "KR"
 
 names = [
@@ -9,12 +9,12 @@ names = [
   { name = "Jung Da Eun", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "sidushq" }]
+labels = [{ label-id = "sidushq" }]
 
 urls = [
   { url = "https://instagram.com/Da.ni370515/" },
 ]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 height = 168

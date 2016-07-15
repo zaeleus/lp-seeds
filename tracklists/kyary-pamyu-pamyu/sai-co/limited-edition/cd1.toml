@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "kyary-pamyu-pamyu/sai-co/limited-edition/cd1",
   "kyary-pamyu-pamyu/sai-co/regular-edition/cd1",
   "kyary-pamyu-pamyu/sai-co/default/digital1",
@@ -6,25 +6,25 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "kyary-pamyu-pamyu/sai-co"
+song-id = "kyary-pamyu-pamyu/sai-co"
 duration = "3:32"
 
 [[tracks]]
 position = 2
-song_id = "kyary-pamyu-pamyu/cosmetic-coaster"
+song-id = "kyary-pamyu-pamyu/cosmetic-coaster"
 duration = "3:25"
 
 [[tracks]]
 position = 3
-song_id = "kyary-pamyu-pamyu/mondai-girl-extended-mix"
+song-id = "kyary-pamyu-pamyu/mondai-girl-extended-mix"
 duration = "5:29"
 
 [[tracks]]
 position = 4
-song_id = "kyary-pamyu-pamyu/sai-co-instrumental"
+song-id = "kyary-pamyu-pamyu/sai-co-instrumental"
 duration = "3:32"
 
 [[tracks]]
 position = 5
-song_id = "kyary-pamyu-pamyu/cosmetic-coaster-instrumental"
+song-id = "kyary-pamyu-pamyu/cosmetic-coaster-instrumental"
 duration = "3:25"

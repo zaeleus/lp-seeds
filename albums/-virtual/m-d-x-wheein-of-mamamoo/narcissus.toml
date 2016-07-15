@@ -1,4 +1,4 @@
-artist_id = "-virtual/m-d-x-wheein-of-mamamoo"
+artist-id = "-virtual/m-d-x-wheein-of-mamamoo"
 kind = "single"
 
 names = [
@@ -6,19 +6,19 @@ names = [
   { name = "Narcissus", locale = "en", default = true },
 ]
 
-[[artist_credits]]
-artist_id = "m-d"
+[[artist-credits]]
+artist-id = "m-d"
 separator = " x "
 
-[[artist_credits]]
-artist_id = "mamamoo/wheein"
+[[artist-credits]]
+artist-id = "mamamoo/wheein"
 names = [
   { name = "휘인 (of 마마무)", locale = "ko", original = true },
   { name = "Wheein (of MAMAMOO)", locale = "ko-Latn", default = true },
 ]
 
 [[releases]]
-released_on = "2016-04-15"
+released-on = "2016-04-15"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

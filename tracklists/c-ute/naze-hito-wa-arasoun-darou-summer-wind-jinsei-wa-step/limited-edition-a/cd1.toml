@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "c-ute/naze-hito-wa-arasoun-darou-summer-wind-jinsei-wa-step/limited-edition-a/cd1",
   "c-ute/naze-hito-wa-arasoun-darou-summer-wind-jinsei-wa-step/limited-edition-b/cd1",
   "c-ute/naze-hito-wa-arasoun-darou-summer-wind-jinsei-wa-step/limited-edition-c/cd1",
@@ -9,30 +9,30 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "c-ute/naze-hito-wa-arasoun-darou"
+song-id = "c-ute/naze-hito-wa-arasoun-darou"
 duration = "4:21"
 
 [[tracks]]
 position = 2
-song_id = "c-ute/summer-wind"
+song-id = "c-ute/summer-wind"
 duration = "4:33"
 
 [[tracks]]
 position = 3
-song_id = "c-ute/jinsei-wa-step"
+song-id = "c-ute/jinsei-wa-step"
 duration = "4:08"
 
 [[tracks]]
 position = 4
-song_id = "c-ute/naze-hito-wa-arasoun-darou-instrumental"
+song-id = "c-ute/naze-hito-wa-arasoun-darou-instrumental"
 duration = "4:21"
 
 [[tracks]]
 position = 5
-song_id = "c-ute/summer-wind-instrumental"
+song-id = "c-ute/summer-wind-instrumental"
 duration = "4:33"
 
 [[tracks]]
 position = 6
-song_id = "c-ute/jinsei-wa-step-instrumental"
+song-id = "c-ute/jinsei-wa-step-instrumental"
 duration = "4:08"

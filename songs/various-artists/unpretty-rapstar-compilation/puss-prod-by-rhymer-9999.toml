@@ -3,9 +3,9 @@ names = [
   { name = "Puss (Prod. by Rhymer, 9999)", locale = "ko-Latn", default = true },
 ]
 
-artist_credits = [
-  { artist_id = "aoa/jimin", separator = ", " },
-  { artist_id = "iron" },
+artist-credits = [
+  { artist-id = "aoa/jimin", separator = ", " },
+  { artist-id = "iron" },
 ]
 
 urls = [

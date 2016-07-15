@@ -1,8 +1,8 @@
-medium_ids = [
+medium-ids = [
   "after-school/lizzy/swiunyeoja-anieyo/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "after-school/lizzy/swiunyeoja-anieyo-feat-jung-hyung-don"
+song-id = "after-school/lizzy/swiunyeoja-anieyo-feat-jung-hyung-don"
 duration = "3:18"

@@ -1,4 +1,4 @@
-artist_id = "dal-shabet"
+artist-id = "dal-shabet"
 kind = "ep"
 
 names = [
@@ -6,16 +6,16 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-01-05"
+released-on = "2016-01-05"
 country = "KR"
-catalog_number = "L200001194"
+catalog-number = "L200001194"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001209298" },
 ]
 
 [[releases]]
-released_on = "2016-01-05"
+released-on = "2016-01-05"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

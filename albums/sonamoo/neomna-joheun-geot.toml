@@ -1,4 +1,4 @@
-artist_id = "sonamoo"
+artist-id = "sonamoo"
 kind = "ep"
 
 names = [
@@ -8,7 +8,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-06-29"
+released-on = "2016-06-29"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -18,9 +18,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-29"
+released-on = "2016-06-29"
 country = "KR"
-catalog_number = "L200001268"
+catalog-number = "L200001268"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
 urls = [
@@ -28,9 +28,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-29"
+released-on = "2016-06-29"
 country = "KR"
-catalog_number = "L200001269"
+catalog-number = "L200001269"
 media = [{ kind = "cd" }]
 disambiguation = "Special Edition"
 urls = [

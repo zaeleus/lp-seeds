@@ -1,4 +1,4 @@
-artist_id = "a-de"
+artist-id = "a-de"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-06-23"
+released-on = "2016-06-23"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -18,9 +18,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-23"
+released-on = "2016-06-23"
 country = "KR"
-catalog_number = "CMDC-10824"
+catalog-number = "CMDC-10824"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=001204108" },

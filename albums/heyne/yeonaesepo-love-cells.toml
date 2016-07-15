@@ -1,4 +1,4 @@
-artist_id = "heyne"
+artist-id = "heyne"
 kind = "single"
 
 names = [
@@ -8,7 +8,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-05-19"
+released-on = "2016-05-19"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

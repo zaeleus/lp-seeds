@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1992-09-01"
+started-on = "1992-09-01"
 country = "KR"
 
 names = [
@@ -11,13 +11,13 @@ names = [
   { name = "Lim", locale = "en", kind = "stage" },
 ]
 
-labels = [{ label_id = "jyp-entertainment" }]
+labels = [{ label-id = "jyp-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/wg_lim" }
 ]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 weight = 46
 height = 164

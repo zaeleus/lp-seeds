@@ -1,28 +1,28 @@
-medium_ids = [
+medium-ids = [
   "4minute/name-is-4minute/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "4minute/what-s-my-name"
+song-id = "4minute/what-s-my-name"
 duration = "1:19"
 
 [[tracks]]
 position = 2
-song_id = "4minute/ireumi-mwoyeyo"
+song-id = "4minute/ireumi-mwoyeyo"
 duration = "3:06"
 
 [[tracks]]
 position = 3
-song_id = "4minute/whatever"
+song-id = "4minute/whatever"
 duration = "2:58"
 
 [[tracks]]
 position = 4
-song_id = "4minute/gimme-that"
+song-id = "4minute/gimme-that"
 duration = "3:23"
 
 [[tracks]]
 position = 5
-song_id = "4minute/domino"
+song-id = "4minute/domino"
 duration = "3:27"

@@ -1,36 +1,36 @@
-artist_id = "-virtual/r3hab-x-f-amber-luna-x-xavi-gi"
+artist-id = "-virtual/r3hab-x-f-amber-luna-x-xavi-gi"
 kind = "single"
 
 names = [
   { name = "Wave", locale = "ko", original = true, default = true },
 ]
 
-[[artist_credits]]
-artist_id = "r3hab"
+[[artist-credits]]
+artist-id = "r3hab"
 separator = " X f("
 
-[[artist_credits]]
-artist_id = "f-x/amber"
+[[artist-credits]]
+artist-id = "f-x/amber"
 names = [
   { name = "Amber", locale = "ko", original = true, default = true },
 ]
 separator = "+"
 
-[[artist_credits]]
-artist_id = "f-x/luna"
+[[artist-credits]]
+artist-id = "f-x/luna"
 names = [
   { name = "Luna", locale = "ko", original = true, default = true },
 ]
 separator = ") X "
 
-[[artist_credits]]
-artist_id = "xavi-gi"
+[[artist-credits]]
+artist-id = "xavi-gi"
 names = [
   { name = "Xavi&Gi", locale = "ko", original = true, default = true },
 ]
 
 [[releases]]
-released_on = "2016-05-06"
+released-on = "2016-05-06"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

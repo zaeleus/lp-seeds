@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "dana/ullyeo-peojyeora/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "dana/ullyeo-peojyeora-touch-you"
+song-id = "dana/ullyeo-peojyeora-touch-you"
 duration = ""
 
 [[tracks]]
 position = 2
-song_id = "dana/ullyeo-peojyeora-touch-you-inst"
+song-id = "dana/ullyeo-peojyeora-touch-you-inst"
 duration = ""

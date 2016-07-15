@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2007-08-05"
+started-on = "2007-08-05"
 country = "KR"
 
 names = [
@@ -12,15 +12,15 @@ names = [
 ]
 
 members = [
-  { artist_id = "girls-generation/taeyeon" },
-  { artist_id = "girls-generation/sunny" },
-  { artist_id = "girls-generation/tiffany" },
-  { artist_id = "girls-generation/hyoyeon" },
-  { artist_id = "girls-generation/yuri" },
-  { artist_id = "girls-generation/sooyoung" },
-  { artist_id = "girls-generation/yoona" },
-  { artist_id = "girls-generation/seo-hyun" },
-  { artist_id = "jessica", ended_on = "2014-09" },
+  { artist-id = "girls-generation/taeyeon" },
+  { artist-id = "girls-generation/sunny" },
+  { artist-id = "girls-generation/tiffany" },
+  { artist-id = "girls-generation/hyoyeon" },
+  { artist-id = "girls-generation/yuri" },
+  { artist-id = "girls-generation/sooyoung" },
+  { artist-id = "girls-generation/yoona" },
+  { artist-id = "girls-generation/seo-hyun" },
+  { artist-id = "jessica", ended-on = "2014-09" },
 ]
 
 urls = [

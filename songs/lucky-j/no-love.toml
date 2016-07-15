@@ -9,10 +9,10 @@ urls = [
 ]
 
 contributions = [
-  { artist_id = "famous-bro", kind = "lyricist" },
-  { artist_id = "lucky-j/j-kyun", kind = "lyricist" },
-  { artist_id = "famous-bro", kind = "composer" },
-  { artist_id = "paul", kind = "composer" },
-  { artist_id = "famous-bro", kind = "arranger" },
-  { artist_id = "paul", kind = "arranger" },
+  { artist-id = "famous-bro", kind = "lyricist" },
+  { artist-id = "lucky-j/j-kyun", kind = "lyricist" },
+  { artist-id = "famous-bro", kind = "composer" },
+  { artist-id = "paul", kind = "composer" },
+  { artist-id = "famous-bro", kind = "arranger" },
+  { artist-id = "paul", kind = "arranger" },
 ]

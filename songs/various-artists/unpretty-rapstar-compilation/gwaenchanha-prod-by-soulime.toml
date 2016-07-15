@@ -4,8 +4,8 @@ names = [
   { name = "It's All Good (Prod. by SouLime)", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "jolly-v" },
+artist-credits = [
+  { artist-id = "jolly-v" },
 ]
 
 urls = [

@@ -1,6 +1,6 @@
 kind = "group"
-started_on = "2004"
-ended_on = "2008"
+started-on = "2004"
+ended-on = "2008"
 country = "JP"
 
 names = [
@@ -11,7 +11,7 @@ names = [
 ]
 
 members = [
-  { artist_id = "morning-musume/ishikawa-rika" },
-  { artist_id = "v-u-den/miyoshi-erika" },
-  { artist_id = "v-u-den/okada-yui" },
+  { artist-id = "morning-musume/ishikawa-rika" },
+  { artist-id = "v-u-den/miyoshi-erika" },
+  { artist-id = "v-u-den/okada-yui" },
 ]

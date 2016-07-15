@@ -1,23 +1,23 @@
-medium_ids = [
+medium-ids = [
   "after-school/happy-pledis-1st-album/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "after-school/love-love-love"
+song-id = "after-school/love-love-love"
 duration = "3:00"
 
 [[tracks]]
 position = 2
-song_id = "after-school/someone-is-you"
+song-id = "after-school/someone-is-you"
 duration = "3:57"
 
 [[tracks]]
 position = 3
-song_id = "after-school/love-love-love-inst"
+song-id = "after-school/love-love-love-inst"
 duration = "3:00"
 
 [[tracks]]
 position = 4
-song_id = "after-school/someone-is-you-inst"
+song-id = "after-school/someone-is-you-inst"
 duration = "3:57"

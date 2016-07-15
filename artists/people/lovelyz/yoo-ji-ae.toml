@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1993-05-21"
+started-on = "1993-05-21"
 country = "KR"
 
 names = [
@@ -7,9 +7,9 @@ names = [
   { name = "Yoo Ji Ae", locale = "ko-Latn", kind = "real", default = true },
 ]
 
-labels = [{ label_id = "woollim-entertainment" }]
+labels = [{ label-id = "woollim-entertainment" }]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 height = 163
 weight = 43

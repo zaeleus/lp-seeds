@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "aoa/good-luck/default/digital1",
   "aoa/good-luck/week-ver/cd1",
   "aoa/good-luck/weekend-ver/cd1",
@@ -6,25 +6,25 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "aoa/good-luck"
+song-id = "aoa/good-luck"
 duration = "3:07"
 
 [[tracks]]
 position = 2
-song_id = "aoa/10-seconds"
+song-id = "aoa/10-seconds"
 duration = "3:56"
 
 [[tracks]]
 position = 3
-song_id = "aoa/cherry-pop"
+song-id = "aoa/cherry-pop"
 duration = "3:16"
 
 [[tracks]]
 position = 4
-song_id = "aoa/crazy-boy"
+song-id = "aoa/crazy-boy"
 duration = "3:29"
 
 [[tracks]]
 position = 5
-song_id = "aoa/good-luck/still-falls-the-rain"
+song-id = "aoa/good-luck/still-falls-the-rain"
 duration = "3:17"

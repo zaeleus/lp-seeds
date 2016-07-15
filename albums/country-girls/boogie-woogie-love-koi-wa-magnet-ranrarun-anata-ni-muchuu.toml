@@ -1,4 +1,4 @@
-artist_id = "country-girls"
+artist-id = "country-girls"
 kind = "single"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-03-09"
+released-on = "2016-03-09"
 country = "JP"
-catalog_number = "EPCE-7173~4"
+catalog-number = "EPCE-7173~4"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition A"
 urls = [
@@ -18,9 +18,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-09"
+released-on = "2016-03-09"
 country = "JP"
-catalog_number = "EPCE-7175~6"
+catalog-number = "EPCE-7175~6"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition B"
 urls = [
@@ -28,9 +28,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-09"
+released-on = "2016-03-09"
 country = "JP"
-catalog_number = "EPCE-7177~8"
+catalog-number = "EPCE-7177~8"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition C"
 urls = [
@@ -38,9 +38,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-09"
+released-on = "2016-03-09"
 country = "JP"
-catalog_number = "EPCE-7179"
+catalog-number = "EPCE-7179"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition A"
 urls = [
@@ -48,9 +48,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-09"
+released-on = "2016-03-09"
 country = "JP"
-catalog_number = "EPCE-7181"
+catalog-number = "EPCE-7181"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition B"
 urls = [
@@ -58,9 +58,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-09"
+released-on = "2016-03-09"
 country = "JP"
-catalog_number = "EPCE-7182"
+catalog-number = "EPCE-7182"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition C"
 urls = [

@@ -1,74 +1,74 @@
-medium_ids = [
+medium-ids = [
   "perfume/level3/limited-edition/cd1",
   "perfume/level3/regular-edition/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "perfume/enter-the-sphere"
+song-id = "perfume/enter-the-sphere"
 duration = "3:36"
 
 [[tracks]]
 position = 2
-song_id = "perfume/spring-of-life-album-mix"
+song-id = "perfume/spring-of-life-album-mix"
 duration = "5:59"
 
 [[tracks]]
 position = 3
-song_id = "perfume/magic-of-love-album-mix"
+song-id = "perfume/magic-of-love-album-mix"
 duration = "4:16"
 
 [[tracks]]
 position = 4
-song_id = "perfume/clockwork"
+song-id = "perfume/clockwork"
 duration = "4:32"
 
 [[tracks]]
 position = 5
-song_id = "perfume/1mm"
+song-id = "perfume/1mm"
 duration = "4:18"
 
 [[tracks]]
 position = 6
-song_id = "perfume/mirai-no-museum"
+song-id = "perfume/mirai-no-museum"
 duration = "3:21"
 
 [[tracks]]
 position = 7
-song_id = "perfume/party-maker"
+song-id = "perfume/party-maker"
 duration = "7:22"
 
 [[tracks]]
 position = 8
-song_id = "perfume/furikaeru-to-iru-yo"
+song-id = "perfume/furikaeru-to-iru-yo"
 duration = "6:16"
 
 [[tracks]]
 position = 9
-song_id = "perfume/point"
+song-id = "perfume/point"
 duration = "3:47"
 
 [[tracks]]
 position = 10
-song_id = "perfume/daijo-banai"
+song-id = "perfume/daijo-banai"
 duration = "3:04"
 
 [[tracks]]
 position = 11
-song_id = "perfume/handy-man"
+song-id = "perfume/handy-man"
 duration = "4:06"
 
 [[tracks]]
 position = 12
-song_id = "perfume/sleeping-beauty"
+song-id = "perfume/sleeping-beauty"
 duration = "4:53"
 
 [[tracks]]
 position = 13
-song_id = "perfume/spending-all-my-time-album-mix"
+song-id = "perfume/spending-all-my-time-album-mix"
 duration = "4:02"
 
 [[tracks]]
 position = 14
-song_id = "perfume/dream-land"
+song-id = "perfume/dream-land"
 duration = "5:17"

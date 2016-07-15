@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1987-01-19"
+started-on = "1987-01-19"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Moon Hyun Ah", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "star-empire-entertainment" }]
+labels = [{ label-id = "star-empire-entertainment" }]
 
 urls = [
   { url = "https://www.instagram.com/moongom119/" },
@@ -17,6 +17,6 @@ urls = [
 ]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 height = 172
 weight = 50

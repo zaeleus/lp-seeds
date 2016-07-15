@@ -1,19 +1,19 @@
-medium_ids = [
+medium-ids = [
   "after-school/shh/cd-only/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "after-school/shh"
+song-id = "after-school/shh"
 
 [[tracks]]
 position = 2
-song_id = "after-school/rock-it"
+song-id = "after-school/rock-it"
 
 [[tracks]]
 position = 3
-song_id = "after-school/shh-instrumental"
+song-id = "after-school/shh-instrumental"
 
 [[tracks]]
 position = 4
-song_id = "after-school/rock-it-instrumental"
+song-id = "after-school/rock-it-instrumental"

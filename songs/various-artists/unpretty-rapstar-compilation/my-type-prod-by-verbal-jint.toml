@@ -3,10 +3,10 @@ names = [
   { name = "My Type (Prod. by Verbal Jint)", locale = "ko-Latn", default = true },
 ]
 
-artist_credits = [
-  { artist_id = "lucky-j/jessi", separator = ", " },
-  { artist_id = "cheetah", separator = ", " },
-  { artist_id = "m-i-b/kangnam" },
+artist-credits = [
+  { artist-id = "lucky-j/jessi", separator = ", " },
+  { artist-id = "cheetah", separator = ", " },
+  { artist-id = "m-i-b/kangnam" },
 ]
 
 urls = [

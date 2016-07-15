@@ -4,16 +4,16 @@ names = [
   { name = "Genius! LET'S GO Ayayamu", locale = "en" },
 ]
 
-[[artist_credits]]
-artist_id = "matsuura-aya"
+[[artist-credits]]
+artist-id = "matsuura-aya"
 names = [
   { name = "あややム", locale = "ja", original = true },
   { name = "Ayayamu", locale = "ja-Latn", default = true },
 ]
 separator = " with "
 
-[[artist_credits]]
-artist_id = "ecomoni"
+[[artist-credits]]
+artist-id = "ecomoni"
 names = [
   { name = "エコハムず", locale = "ja", original = true },
   { name = "Ecohams", locale = "ja-Latn", default = true },

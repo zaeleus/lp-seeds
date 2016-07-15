@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-11-21"
+started-on = "1991-11-21"
 country = "KR"
 
 names = [
@@ -9,8 +9,8 @@ names = [
   { name = "Bae Woo Hee", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "happyface-entertainment" }]
+labels = [{ label-id = "happyface-entertainment" }]
 
 [metadata]
 height = 164
-blood_type = "AB"
+blood-type = "AB"

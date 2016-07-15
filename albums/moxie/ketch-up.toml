@@ -1,4 +1,4 @@
-artist_id = "moxie"
+artist-id = "moxie"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-05-09"
+released-on = "2016-05-09"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

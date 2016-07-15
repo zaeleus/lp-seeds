@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "-virtual/crayon-pop-kim-jang-hoon/hero/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "-virtual/crayon-pop-kim-jang-hoon/hero"
+song-id = "-virtual/crayon-pop-kim-jang-hoon/hero"
 duration = "3:15"
 
 [[tracks]]
 position = 2
-song_id = "-virtual/crayon-pop-kim-jang-hoon/hero-inst"
+song-id = "-virtual/crayon-pop-kim-jang-hoon/hero-inst"
 duration = "3:15"

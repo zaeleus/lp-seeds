@@ -1,39 +1,39 @@
-medium_ids = [
+medium-ids = [
   "wheesung/transformation/default/cd1",
   "wheesung/transformation/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "wheesung/marry-me-feat-sangchu-of-mighty-mouth"
+song-id = "wheesung/marry-me-feat-sangchu-of-mighty-mouth"
 duration = "4:15"
 
 [[tracks]]
 position = 2
-song_id = "wheesung/jekkyeo-feat-le-of-exid"
+song-id = "wheesung/jekkyeo-feat-le-of-exid"
 duration = "3:19"
 
 [[tracks]]
 position = 3
-song_id = "wheesung/norae-jom-kkeojwoyo"
+song-id = "wheesung/norae-jom-kkeojwoyo"
 duration = "3:09"
 
 [[tracks]]
 position = 4
-song_id = "wheesung/eolmajjari-sarang-duet-bumkey-feat-jessi-of-lucky-j"
+song-id = "wheesung/eolmajjari-sarang-duet-bumkey-feat-jessi-of-lucky-j"
 duration = "3:14"
 
 [[tracks]]
 position = 5
-song_id = "wheesung/chinguro-namajulge-duet-geeks"
+song-id = "wheesung/chinguro-namajulge-duet-geeks"
 duration = "3:35"
 
 [[tracks]]
 position = 6
-song_id = "wheesung/amuil-eopseossdaneun-deut-duet-ali"
+song-id = "wheesung/amuil-eopseossdaneun-deut-duet-ali"
 duration = "4:07"
 
 [[tracks]]
 position = 7
-song_id = "wheesung/kiss-duet-ailee"
+song-id = "wheesung/kiss-duet-ailee"
 duration = "3:04"

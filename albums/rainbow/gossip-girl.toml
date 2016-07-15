@@ -1,4 +1,4 @@
-artist_id = "rainbow"
+artist-id = "rainbow"
 kind = "ep"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2009-11-12"
+released-on = "2009-11-12"
 country = "KR"
-catalog_number = "CMCC-9410"
+catalog-number = "CMCC-9410"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=034201272" },

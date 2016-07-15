@@ -1,4 +1,4 @@
-artist_id = "lovendor"
+artist-id = "lovendor"
 kind = "single"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-02-24"
+released-on = "2016-02-24"
 country = "JP"
-catalog_number = "EPCE-7194~5"
+catalog-number = "EPCE-7194~5"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition"
 urls = [
@@ -18,9 +18,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-02-24"
+released-on = "2016-02-24"
 country = "JP"
-catalog_number = "EPCE-7196"
+catalog-number = "EPCE-7196"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition A"
 urls = [
@@ -28,9 +28,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-02-24"
+released-on = "2016-02-24"
 country = "JP"
-catalog_number = "EPCE-7197"
+catalog-number = "EPCE-7197"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition B"
 urls = [

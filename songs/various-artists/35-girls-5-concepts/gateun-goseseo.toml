@@ -4,8 +4,8 @@ names = [
   { name = "In the Same Space", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "girls-on-top" }
+artist-credits = [
+  { artist-id = "girls-on-top" }
 ]
 
 urls = [

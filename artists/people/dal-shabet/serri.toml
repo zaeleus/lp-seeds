@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1990-09-16"
+started-on = "1990-09-16"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Park Mi Yeon", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "happyface-entertainment" }]
+labels = [{ label-id = "happyface-entertainment" }]
 
 [metadata]
 height = 166

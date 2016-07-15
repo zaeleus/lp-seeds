@@ -1,63 +1,63 @@
-medium_ids = [
+medium-ids = [
   "mamamoo/melting/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "mamamoo/1cm-ui-jajonsim"
+song-id = "mamamoo/1cm-ui-jajonsim"
 duration = "3:04"
 
 [[tracks]]
 position = 2
-song_id = "mamamoo/urikkiri-words-don-t-come-easy"
+song-id = "mamamoo/urikkiri-words-don-t-come-easy"
 duration = "3:56"
 
 [[tracks]]
 position = 3
-song_id = "mamamoo/neon-is-mwondeul"
+song-id = "mamamoo/neon-is-mwondeul"
 duration = "3:50"
 
 [[tracks]]
 position = 4
-song_id = "mamamoo/geumyoilbam-feat-junggigo"
+song-id = "mamamoo/geumyoilbam-feat-junggigo"
 duration = "3:22"
 
 [[tracks]]
 position = 5
-song_id = "mamamoo/gohyangi"
+song-id = "mamamoo/gohyangi"
 duration = "3:21"
 
 [[tracks]]
 position = 6
-song_id = "mamamoo/emotion"
+song-id = "mamamoo/emotion"
 duration = "3:27"
 
 [[tracks]]
 position = 7
-song_id = "mamamoo/i-miss-you"
+song-id = "mamamoo/i-miss-you"
 duration = "4:16"
 
 [[tracks]]
 position = 8
-song_id = "mamamoo/funky-boy"
+song-id = "mamamoo/funky-boy"
 duration = "3:35"
 
 [[tracks]]
 position = 9
-song_id = "mamamoo/namanui-recipe"
+song-id = "mamamoo/namanui-recipe"
 duration = "2:49"
 
 [[tracks]]
 position = 10
-song_id = "mamamoo/goyangi-cat-fight"
+song-id = "mamamoo/goyangi-cat-fight"
 duration = "3:26"
 
 [[tracks]]
 position = 11
-song_id = "mamamoo/just"
+song-id = "mamamoo/just"
 duration = "3:41"
 
 [[tracks]]
 position = 12
-song_id = "mamamoo/girl-crush"
+song-id = "mamamoo/girl-crush"
 duration = "3:08"

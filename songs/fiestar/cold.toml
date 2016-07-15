@@ -3,20 +3,20 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "fiestar/jei", kind = "performer" },
-  { artist_id = "fiestar/cao-lu", kind = "performer" },
-  { artist_id = "fiestar/linzy", kind = "performer" },
-  { artist_id = "fiestar/hyemi", kind = "performer" },
-  { artist_id = "fiestar/yezi", kind = "performer" },
+  { artist-id = "fiestar/jei", kind = "performer" },
+  { artist-id = "fiestar/cao-lu", kind = "performer" },
+  { artist-id = "fiestar/linzy", kind = "performer" },
+  { artist-id = "fiestar/hyemi", kind = "performer" },
+  { artist-id = "fiestar/yezi", kind = "performer" },
 
-  { artist_id = "super-cheongdam", kind = "lyricist" },
-  { artist_id = "fiestar/hyemi", kind = "lyricist" },
-  { artist_id = "fiestar/yezi", kind = "lyricist" },
+  { artist-id = "super-cheongdam", kind = "lyricist" },
+  { artist-id = "fiestar/hyemi", kind = "lyricist" },
+  { artist-id = "fiestar/yezi", kind = "lyricist" },
 
-  { artist_id = "super-cheongdam", kind = "composer" },
-  { artist_id = "fiestar/hyemi", kind = "composer" },
-  { artist_id = "seo-ji-eun", kind = "composer" },
+  { artist-id = "super-cheongdam", kind = "composer" },
+  { artist-id = "fiestar/hyemi", kind = "composer" },
+  { artist-id = "seo-ji-eun", kind = "composer" },
 
-  { artist_id = "super-cheongdam", kind = "arranger" },
-  { artist_id = "seo-ji-eun", kind = "arranger" },
+  { artist-id = "super-cheongdam", kind = "arranger" },
+  { artist-id = "seo-ji-eun", kind = "arranger" },
 ]

@@ -1,80 +1,80 @@
-medium_ids = [
+medium-ids = [
   "lovelyz/hi/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "lovelyz/introducing-the-candy"
+song-id = "lovelyz/introducing-the-candy"
 duration = "0:54"
 
 [[tracks]]
 position = 2
-song_id = "lovelyz/candy-jelly-love"
+song-id = "lovelyz/candy-jelly-love"
 duration = "3:44"
 
 [[tracks]]
 position = 3
-song_id = "lovelyz/annyeong"
+song-id = "lovelyz/annyeong"
 duration = "3:27"
 
 [[tracks]]
 position = 4
-song_id = "lovelyz/noligongwon"
+song-id = "lovelyz/noligongwon"
 duration = "3:14"
 
 [[tracks]]
 position = 5
-song_id = "lovelyz/eojecheoreom-gunnait"
+song-id = "lovelyz/eojecheoreom-gunnait"
 duration = "3:41"
 
 [[tracks]]
 position = 6
-song_id = "lovelyz/ibyeol-chapter-1"
+song-id = "lovelyz/ibyeol-chapter-1"
 duration = "2:43"
 
 [[tracks]]
 position = 7
-song_id = "lovelyz/bimil-yeohaeng"
+song-id = "lovelyz/bimil-yeohaeng"
 duration = "3:41"
 
 [[tracks]]
 position = 8
-song_id = "lovelyz/baby-soul/namboda-motan-sai-feat-wheesung"
+song-id = "lovelyz/baby-soul/namboda-motan-sai-feat-wheesung"
 duration = "3:52"
 names = [
   { name = "남보다 못한사이 (Feat. 휘성) (Babysoul Solo)", locale = "ko", original = true },
   { name = "Namboda Motan Sai (Feat. Wheesung) (Babysoul Solo)", locale = "ko-Latn", default = true },
   { name = "No Better Than Others (Feat. Wheesung) (Babysoul Solo)", locale = "en" },
 ]
-artist_credits = [
-  { artist_id = "lovelyz" },
+artist-credits = [
+  { artist-id = "lovelyz" },
 ]
 
 [[tracks]]
 position = 9
-song_id = "lovelyz/geunyeoneun-baramdungiya-feat-dong-woo-of-infinite-babysoul-kei"
+song-id = "lovelyz/geunyeoneun-baramdungiya-feat-dong-woo-of-infinite-babysoul-kei"
 duration = "3:11"
 
 [[tracks]]
 position = 10
-song_id = "lovelyz/yoo-ji-ae/delight"
+song-id = "lovelyz/yoo-ji-ae/delight"
 duration = "3:26"
 names = [
   { name = "Delight (Yoo Ji-Ae Solo)", locale = "ko", original = true, default = true },
 ]
-artist_credits = [
-  { artist_id = "lovelyz" },
+artist-credits = [
+  { artist-id = "lovelyz" },
 ]
 
 [[tracks]]
 position = 11
-song_id = "lovelyz/jin/neoman-eobsda"
+song-id = "lovelyz/jin/neoman-eobsda"
 duration = "3:57"
 names = [
   { name = "너만 없다 (JIN Solo)", locale = "ko", original = true },
   { name = "Neoman Eobsda (JIN Solo)", locale = "ko-Latn", default = true },
   { name = "You're Gone (JIN Solo)", locale = "en" },
 ]
-artist_credits = [
-  { artist_id = "lovelyz" },
+artist-credits = [
+  { artist-id = "lovelyz" },
 ]

@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   'crayon-pop/dancing-all-night/limited-cd-goods-edition/cd1',
   'crayon-pop/dancing-all-night/limited-cd-dvd-edition/cd1',
   'crayon-pop/dancing-all-night/regular-edition/cd1',
@@ -7,16 +7,16 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "crayon-pop/dancing-all-night"
+song-id = "crayon-pop/dancing-all-night"
 
 [[tracks]]
 position = 2
-song_id = "crayon-pop/uh-ee-japanese-ver"
+song-id = "crayon-pop/uh-ee-japanese-ver"
 
 [[tracks]]
 position = 3
-song_id = "crayon-pop/dancing-all-night-instrumental"
+song-id = "crayon-pop/dancing-all-night-instrumental"
 
 [[tracks]]
 position = 4
-song_id = "crayon-pop/uh-ee-japanese-ver-instrumental"
+song-id = "crayon-pop/uh-ee-japanese-ver-instrumental"

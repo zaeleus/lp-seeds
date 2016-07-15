@@ -1,23 +1,23 @@
-medium_ids = [
+medium-ids = [
   "sol-t/doljikgu/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "sol-t/doljikgu"
+song-id = "sol-t/doljikgu"
 duration = "3:15"
 
 [[tracks]]
 position = 2
-song_id = "sol-t/doljikgu-ferry-remix"
+song-id = "sol-t/doljikgu-ferry-remix"
 duration = "4:04"
 
 [[tracks]]
 position = 3
-song_id = "sol-t/doljikgu-ferry-remix-dj-edit"
+song-id = "sol-t/doljikgu-ferry-remix-dj-edit"
 duration = "2:48"
 
 [[tracks]]
 position = 4
-song_id = "sol-t/doljikgu-inst"
+song-id = "sol-t/doljikgu-inst"
 duration = "3:13"

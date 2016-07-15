@@ -4,9 +4,9 @@ names = [
   { name = "Good Start 2015 (Prod. by Verbal Jint)", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "aoa/jimin", separator = ", " },
-  { artist_id = "2am/lim-seul-ong" }, # TODO check name
+artist-credits = [
+  { artist-id = "aoa/jimin", separator = ", " },
+  { artist-id = "2am/lim-seul-ong" }, # TODO check name
 ]
 
 urls = [

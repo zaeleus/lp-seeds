@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-12-02"
+started-on = "1991-12-02"
 country = "KR"
 
 names = [
@@ -7,9 +7,9 @@ names = [
   { name = "Kim Ga Young", locale = "ko-Latn", kind = "real", default = true },
 ]
 
-labels = [{ label_id = "the-entertainment-pascal" }]
+labels = [{ label-id = "the-entertainment-pascal" }]
 
 [metadata]
 height = 170
 weight = 48
-blood_type = "O"
+blood-type = "O"

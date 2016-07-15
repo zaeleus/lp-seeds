@@ -1,54 +1,54 @@
-medium_ids = [
+medium-ids = [
   "apink/pink-memory/red-ver/cd1",
   "apink/pink-memory/white-ver/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "apink/remember"
+song-id = "apink/remember"
 duration = "3:54"
 
 [[tracks]]
 position = 2
-song_id = "apink/perfume"
+song-id = "apink/perfume"
 duration = "3:04"
 
 [[tracks]]
 position = 3
-song_id = "apink/kkeullyeo"
+song-id = "apink/kkeullyeo"
 duration = "3:43"
 
 [[tracks]]
 position = 4
-song_id = "apink/dejavu"
+song-id = "apink/dejavu"
 duration = "3:42"
 
 [[tracks]]
 position = 5
-song_id = "apink/kkochipjeom"
+song-id = "apink/kkochipjeom"
 duration = "3:36"
 
 [[tracks]]
 position = 6
-song_id = "apink/what-a-boy-wants"
+song-id = "apink/what-a-boy-wants"
 duration = "3:30"
 
 [[tracks]]
 position = 7
-song_id = "apink/i-do"
+song-id = "apink/i-do"
 duration = "3:28"
 
 [[tracks]]
 position = 8
-song_id = "apink/singihajyo"
+song-id = "apink/singihajyo"
 duration = "4:11"
 
 [[tracks]]
 position = 9
-song_id = "apink/remember-inst"
+song-id = "apink/remember-inst"
 duration = "3:54"
 
 [[tracks]]
 position = 10
-song_id = "apink/saekkisongarak-promise-u"
+song-id = "apink/saekkisongarak-promise-u"
 duration = "3:44"

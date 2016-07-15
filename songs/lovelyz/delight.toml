@@ -3,5 +3,5 @@ names = [
 ]
 
 performers = [
-  { artist_id = "lovelyz/yoo-ji-ae" },
+  { artist-id = "lovelyz/yoo-ji-ae" },
 ]

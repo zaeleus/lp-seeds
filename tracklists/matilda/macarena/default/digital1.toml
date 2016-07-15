@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "matilda/macarena/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matilda/macarena"
+song-id = "matilda/macarena"
 duration = "2:56"
 
 [[tracks]]
 position = 2
-song_id = "matilda/macarena-inst"
+song-id = "matilda/macarena-inst"
 duration = "2:56"

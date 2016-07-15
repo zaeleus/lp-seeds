@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1996-08-19"
+started-on = "1996-08-19"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Jung Ye Rin", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "source-music-entertainment" }]
+labels = [{ label-id = "source-music-entertainment" }]
 
 [metadata]
 height = 167
 weight = 49
-blood_type = "O"
+blood-type = "O"

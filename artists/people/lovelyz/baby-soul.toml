@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1992-07-06"
+started-on = "1992-07-06"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Lee Soo Jung", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "woollim-entertainment" }]
+labels = [{ label-id = "woollim-entertainment" }]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 height = 158
 weight = 41

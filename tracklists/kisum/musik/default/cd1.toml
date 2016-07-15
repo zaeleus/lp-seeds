@@ -1,29 +1,29 @@
-medium_ids = [
+medium-ids = [
   "kisum/musik/default/cd1",
   "kisum/musik/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "kisum/no-jam"
+song-id = "kisum/no-jam"
 duration = "3:32"
 
 [[tracks]]
 position = 2
-song_id = "kisum/maekju-du-jan"
+song-id = "kisum/maekju-du-jan"
 duration = "3:39"
 
 [[tracks]]
 position = 3
-song_id = "kisum/jayusigan"
+song-id = "kisum/jayusigan"
 duration = "3:02"
 
 [[tracks]]
 position = 4
-song_id = "kisum/ocktabbang"
+song-id = "kisum/ocktabbang"
 duration = "3:47"
 
 [[tracks]]
 position = 5
-song_id = "kisum/cover-up"
+song-id = "kisum/cover-up"
 duration = "2:55"

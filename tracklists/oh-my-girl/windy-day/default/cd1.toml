@@ -1,44 +1,44 @@
-medium_ids = [
+medium-ids = [
   "oh-my-girl/windy-day/default/cd1",
   "oh-my-girl/windy-day/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "oh-my-girl/windy-day"
+song-id = "oh-my-girl/windy-day"
 duration = "4:09"
 
 [[tracks]]
 position = 2
-song_id = "oh-my-girl/stupid-in-love"
+song-id = "oh-my-girl/stupid-in-love"
 duration = "3:37"
 
 [[tracks]]
 position = 3
-song_id = "oh-my-girl/liar-liar"
+song-id = "oh-my-girl/liar-liar"
 duration = "3:13"
 
 [[tracks]]
 position = 4
-song_id = "oh-my-girl/b612"
+song-id = "oh-my-girl/b612"
 duration = "4:06"
 
 [[tracks]]
 position = 5
-song_id = "oh-my-girl/i-found-love"
+song-id = "oh-my-girl/i-found-love"
 duration = "3:34"
 
 [[tracks]]
 position = 6
-song_id = "oh-my-girl/knock-knock"
+song-id = "oh-my-girl/knock-knock"
 duration = "3:37"
 
 [[tracks]]
 position = 7
-song_id = "oh-my-girl/han-baljjak-du-baljjak"
+song-id = "oh-my-girl/han-baljjak-du-baljjak"
 duration = "3:43"
 
 [[tracks]]
 position = 8
-song_id = "oh-my-girl/liar-liar-chinese-ver"
+song-id = "oh-my-girl/liar-liar-chinese-ver"
 duration = "3:14"

@@ -1,14 +1,14 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/watarasebashi/single-v/dvd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/watarasebashi"
+song-id = "matsuura-aya/watarasebashi"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/watarasebashi"
+song-id = "matsuura-aya/watarasebashi"
 names = [
   { name = "渡良瀬橋 (Close-up Ver.)", locale = "ja", original = true },
   { name = "Watarasebashi (Close-up Ver.)", locale = "ja-Latn", default = true },

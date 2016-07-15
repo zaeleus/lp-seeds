@@ -3,8 +3,8 @@ names = [
   { name = "Yum-Yum", locale = "en", default = true },
 ]
 
-artist_credits = [
-  { artist_id = "7-go-up" }
+artist-credits = [
+  { artist-id = "7-go-up" }
 ]
 
 urls = [

@@ -1,4 +1,4 @@
-artist_id = "girls-generation"
+artist-id = "girls-generation"
 kind = "single"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-07-08"
+released-on = "2015-07-08"
 country = "KR"
-catalog_number = "SMK-0517"
+catalog-number = "SMK-0517"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=005800170" },

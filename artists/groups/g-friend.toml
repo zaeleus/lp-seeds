@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2015"
+started-on = "2015"
 country = "KR"
 
 names = [
@@ -8,12 +8,12 @@ names = [
 ]
 
 members = [
-  { artist_id = "g-friend/sowon" },
-  { artist_id = "g-friend/yerin" },
-  { artist_id = "g-friend/eunha" },
-  { artist_id = "g-friend/yuju" },
-  { artist_id = "g-friend/sinb" },
-  { artist_id = "g-friend/umji" },
+  { artist-id = "g-friend/sowon" },
+  { artist-id = "g-friend/yerin" },
+  { artist-id = "g-friend/eunha" },
+  { artist-id = "g-friend/yuju" },
+  { artist-id = "g-friend/sinb" },
+  { artist-id = "g-friend/umji" },
 ]
 
 urls = [

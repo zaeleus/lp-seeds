@@ -1,33 +1,33 @@
-medium_ids = [
+medium-ids = [
   "after-school/cheot-sarang/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "after-school/8-hot-girl"
+song-id = "after-school/8-hot-girl"
 duration = "1:06"
 
 [[tracks]]
 position = 2
-song_id = "after-school/cheot-sarang"
+song-id = "after-school/cheot-sarang"
 duration = "3:37"
 
 [[tracks]]
 position = 3
-song_id = "after-school/dressing-room"
+song-id = "after-school/dressing-room"
 duration = "3:35"
 
 [[tracks]]
 position = 4
-song_id = "after-school/time-s-up"
+song-id = "after-school/time-s-up"
 duration = "3:56"
 
 [[tracks]]
 position = 5
-song_id = "after-school/love-beat"
+song-id = "after-school/love-beat"
 duration = "3:40"
 
 [[tracks]]
 position = 6
-song_id = "after-school/hwajangeul-hada-ureosseo"
+song-id = "after-school/hwajangeul-hada-ureosseo"
 duration = "4:03"

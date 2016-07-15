@@ -1,68 +1,68 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/click-you-link-me/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/the-difference"
+song-id = "matsuura-aya/the-difference"
 duration = "5:21"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/feel-your-groove"
+song-id = "matsuura-aya/feel-your-groove"
 duration = "3:36"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/suna-wo-kamu-you-ni-namida"
+song-id = "matsuura-aya/suna-wo-kamu-you-ni-namida"
 duration = "4:36"
 
 [[tracks]]
 position = 4
-song_id = "matsuura-aya/yokohama-rondo"
+song-id = "matsuura-aya/yokohama-rondo"
 duration = "4:29"
 
 [[tracks]]
 position = 5
-song_id = "matsuura-aya/homu-ni-te"
+song-id = "matsuura-aya/homu-ni-te"
 duration = "4:42"
 
 [[tracks]]
 position = 6
-song_id = "matsuura-aya/click-you-link-me"
+song-id = "matsuura-aya/click-you-link-me"
 duration = "4:24"
 
 [[tracks]]
 position = 7
-song_id = "matsuura-aya/kataritsugu-koto"
+song-id = "matsuura-aya/kataritsugu-koto"
 duration = "4:43"
 
 [[tracks]]
 position = 8
-song_id = "matsuura-aya/interlude-okay"
+song-id = "matsuura-aya/interlude-okay"
 duration = "0:33"
 
 [[tracks]]
 position = 9
-song_id = "matsuura-aya/watarasebashi"
+song-id = "matsuura-aya/watarasebashi"
 duration = "3:48"
 
 [[tracks]]
 position = 10
-song_id = "matsuura-aya/dearest"
+song-id = "matsuura-aya/dearest"
 duration = "5:53"
 
 [[tracks]]
 position = 11
-song_id = "matsuura-aya/only-one"
+song-id = "matsuura-aya/only-one"
 duration = "5:11"
 
 [[tracks]]
 position = 12
-song_id = "matsuura-aya/hitori"
+song-id = "matsuura-aya/hitori"
 duration = "3:46"
 
 [[tracks]]
 position = 13
-song_id = "matsuura-aya/minna-hitori"
+song-id = "matsuura-aya/minna-hitori"
 duration = "4:31"

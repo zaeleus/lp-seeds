@@ -1,4 +1,4 @@
-artist_id = "unnies"
+artist-id = "unnies"
 kind = "single"
 
 names = [
@@ -8,7 +8,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-07-01"
+released-on = "2016-07-01"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

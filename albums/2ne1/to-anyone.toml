@@ -1,4 +1,4 @@
-artist_id = "2ne1"
+artist-id = "2ne1"
 kind = "lp"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2010-09-09"
+released-on = "2010-09-09"
 country = "KR"
-catalog_number = "CMBC-9601"
+catalog-number = "CMBC-9601"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=034201471" },

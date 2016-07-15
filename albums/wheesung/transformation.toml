@@ -1,4 +1,4 @@
-artist_id = "wheesung"
+artist-id = "wheesung"
 kind = "ep"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-06-14"
+released-on = "2016-06-14"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -16,9 +16,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-14"
+released-on = "2016-06-14"
 country = "KR"
-catalog_number = "KTMCD-0671"
+catalog-number = "KTMCD-0671"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=045401105" },

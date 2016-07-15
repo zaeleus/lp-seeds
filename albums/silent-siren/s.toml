@@ -1,4 +1,4 @@
-artist_id = "silent-siren"
+artist-id = "silent-siren"
 kind = "lp"
 
 names = [
@@ -10,7 +10,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-02"
+released-on = "2016-03-02"
 country = "JP"
 media = [{ kind = "digital" }]
 urls = [
@@ -20,9 +20,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-02"
+released-on = "2016-03-02"
 country = "JP"
-catalog_number = "MUCD-1344"
+catalog-number = "MUCD-1344"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
 urls = [
@@ -30,9 +30,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-02"
+released-on = "2016-03-02"
 country = "JP"
-catalog_number = "MUCD-8070/1"
+catalog-number = "MUCD-8070/1"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition"
 urls = [

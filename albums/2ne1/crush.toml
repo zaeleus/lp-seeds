@@ -1,4 +1,4 @@
-artist_id = "2ne1"
+artist-id = "2ne1"
 kind = "lp"
 
 names = [
@@ -8,7 +8,7 @@ names = [
 # TODO the many other releases
 
 [[releases]]
-released_on = "2014-02-26"
+released-on = "2014-02-26"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -19,9 +19,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2014-03-07"
+released-on = "2014-03-07"
 country = "KR"
-catalog_number = "YGK-0335"
+catalog-number = "YGK-0335"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=045400472" },

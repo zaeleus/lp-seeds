@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-05-26"
+started-on = "1991-05-26"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Cho Ja Young", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "happyface-entertainment" }]
+labels = [{ label-id = "happyface-entertainment" }]
 
 [metadata]
 height = 167
 weight = 47
-blood_type = "O"
+blood-type = "O"

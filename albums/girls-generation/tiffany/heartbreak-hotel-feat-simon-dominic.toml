@@ -1,19 +1,19 @@
-artist_id = "girls-generation/tiffany"
+artist-id = "girls-generation/tiffany"
 kind = "single"
 
 names = [
   { name = "Heartbreak Hotel (Feat. Simon Dominic)", locale = "ko", original = true, default = true },
 ]
 
-[[artist_credits]]
-artist_id = "girls-generation/tiffany"
+[[artist-credits]]
+artist-id = "girls-generation/tiffany"
 names = [
   { name = "티파니", locale = "ko", kind = "stage", original = true },
   { name = "TIFFANY", locale = "ko-Latn", kind = "stage", default = true },
 ]
 
 [[releases]]
-released_on = "2016-06-10"
+released-on = "2016-06-10"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

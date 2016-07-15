@@ -1,23 +1,23 @@
-medium_ids = [
+medium-ids = [
   "hwang-in-sun/emoticon/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "hwang-in-sun/emoticon"
+song-id = "hwang-in-sun/emoticon"
 duration = "3:13"
 
 [[tracks]]
 position = 2
-song_id = "hwang-in-sun/sarangae-ae"
+song-id = "hwang-in-sun/sarangae-ae"
 duration = "3:54"
 
 [[tracks]]
 position = 3
-song_id = "hwang-in-sun/emoticon-inst"
+song-id = "hwang-in-sun/emoticon-inst"
 duration = "3:13"
 
 [[tracks]]
 position = 4
-song_id = "hwang-in-sun/sarangae-ae-inst"
+song-id = "hwang-in-sun/sarangae-ae-inst"
 duration = "3:54"

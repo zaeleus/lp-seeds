@@ -1,18 +1,18 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/dokkidoki-love-mail/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/dokkidoki-love-mail"
+song-id = "matsuura-aya/dokkidoki-love-mail"
 duration = "4:30"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/machiawase"
+song-id = "matsuura-aya/machiawase"
 duration = "4:43"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/dokkidoki-love-mail-instrumental"
+song-id = "matsuura-aya/dokkidoki-love-mail-instrumental"
 duration = "4:27"

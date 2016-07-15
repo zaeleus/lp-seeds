@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-04-03"
+started-on = "1991-04-03"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Pyo Hye Mi", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "star-empire-entertainment" }]
+labels = [{ label-id = "star-empire-entertainment" }]
 
 urls = [
   { url = "https://www.instagram.com/pyopyohyemi/" },
@@ -17,5 +17,5 @@ urls = [
 ]
 
 [metadata]
-blood_type = "B"
+blood-type = "B"
 height = 171

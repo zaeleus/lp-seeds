@@ -1,4 +1,4 @@
-artist_id = "laboum"
+artist-id = "laboum"
 kind = "single"
 
 names = [
@@ -6,16 +6,16 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-03-25"
+released-on = "2015-03-25"
 country = "KR"
-catalog_number = "CMDC-10529"
+catalog-number = "CMDC-10529"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=007700085" },
 ]
 
 [[releases]]
-released_on = "2015-03-25"
+released-on = "2015-03-25"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

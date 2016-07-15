@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "tahiti/skip/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "tahiti/skip"
+song-id = "tahiti/skip"
 duration = "3:01"
 
 [[tracks]]
 position = 2
-song_id = "tahiti/skip-inst"
+song-id = "tahiti/skip-inst"
 duration = "3:01"

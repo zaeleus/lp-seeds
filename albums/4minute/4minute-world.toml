@@ -1,4 +1,4 @@
-artist_id = "4minute"
+artist-id = "4minute"
 kind = "ep"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2014-03-17"
+released-on = "2014-03-17"
 country = "KR"
-catalog_number = "DK-0797"
+catalog-number = "DK-0797"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=006619347" },

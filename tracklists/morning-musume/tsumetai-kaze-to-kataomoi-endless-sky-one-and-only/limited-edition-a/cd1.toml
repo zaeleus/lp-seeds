@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "morning-musume/tsumetai-kaze-to-kataomoi-endless-sky-one-and-only/limited-edition-a/cd1",
   "morning-musume/tsumetai-kaze-to-kataomoi-endless-sky-one-and-only/limited-edition-b/cd1",
   "morning-musume/tsumetai-kaze-to-kataomoi-endless-sky-one-and-only/limited-edition-c/cd1",
@@ -9,24 +9,24 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "morning-musume/tsumetai-kaze-to-kataomoi"
+song-id = "morning-musume/tsumetai-kaze-to-kataomoi"
 
 [[tracks]]
 position = 2
-song_id = "morning-musume/endless-sky"
+song-id = "morning-musume/endless-sky"
 
 [[tracks]]
 position = 3
-song_id = "morning-musume/one-and-only"
+song-id = "morning-musume/one-and-only"
 
 [[tracks]]
 position = 4
-song_id = "morning-musume/tsumetai-kaze-to-kataomoi-instrumental"
+song-id = "morning-musume/tsumetai-kaze-to-kataomoi-instrumental"
 
 [[tracks]]
 position = 5
-song_id = "morning-musume/endless-sky-instrumental"
+song-id = "morning-musume/endless-sky-instrumental"
 
 [[tracks]]
 position = 6
-song_id = "morning-musume/one-and-only-instrumental"
+song-id = "morning-musume/one-and-only-instrumental"

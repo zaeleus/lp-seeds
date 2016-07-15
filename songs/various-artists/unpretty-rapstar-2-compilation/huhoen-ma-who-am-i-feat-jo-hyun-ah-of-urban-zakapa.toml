@@ -4,6 +4,6 @@ names = [
   { name = "No Regrets (Who Am I) (Feat. Jo Hyun Ah of Urban Zakapa)", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "wonder-girls/yubin" },
+artist-credits = [
+  { artist-id = "wonder-girls/yubin" },
 ]

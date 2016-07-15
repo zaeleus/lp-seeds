@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "apink/brand-new-days/limited-edition-a/cd1",
   "apink/brand-new-days/limited-edition-b/cd1",
   "apink/brand-new-days/limited-edition-c/cd1",
@@ -7,20 +7,20 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "apink/brand-new-days"
+song-id = "apink/brand-new-days"
 duration = "3:44"
 
 [[tracks]]
 position = 2
-song_id = "apink/yeah-japanese-ver"
+song-id = "apink/yeah-japanese-ver"
 duration = "3:12"
 
 [[tracks]]
 position = 3
-song_id = "apink/brand-new-days-instrumental"
+song-id = "apink/brand-new-days-instrumental"
 duration = "3:44"
 
 [[tracks]]
 position = 4
-song_id = "apink/yeah-instrumental"
+song-id = "apink/yeah-instrumental"
 duration = "3:12"

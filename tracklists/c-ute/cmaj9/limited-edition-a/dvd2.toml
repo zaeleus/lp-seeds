@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "c-ute/cmaj9/limited-edition-a/dvd2",
 ]
 
@@ -14,7 +14,7 @@ names = [
 
 [[tracks]]
 position = 3
-song_id = "c-ute/love-take-it-all"
+song-id = "c-ute/love-take-it-all"
 
 [[tracks]]
 position = 4
@@ -26,11 +26,11 @@ names = [
 
 [[tracks]]
 position = 6
-song_id = "c-ute/the-future"
+song-id = "c-ute/the-future"
 
 [[tracks]]
 position = 7
-song_id = "c-ute/the-power"
+song-id = "c-ute/the-power"
 
 [[tracks]]
 position = 8
@@ -50,7 +50,7 @@ names = [
 
 [[tracks]]
 position = 17
-song_id = "c-ute/ai-tte-motto-zanshin"
+song-id = "c-ute/ai-tte-motto-zanshin"
 
 # 18, 19, 20
 

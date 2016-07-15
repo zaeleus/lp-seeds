@@ -1,4 +1,4 @@
-artist_id = "apink"
+artist-id = "apink"
 kind = "lp"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2012-05-09"
+released-on = "2012-05-09"
 country = "KR"
-catalog_number = "CMCC-9911"
+catalog-number = "CMCC-9911"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=811800229" },

@@ -1,4 +1,4 @@
-artist_id = "eric-nam"
+artist-id = "eric-nam"
 kind = "ep"
 
 names = [
@@ -10,16 +10,16 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-24"
+released-on = "2016-03-24"
 country = "KR"
-catalog_number = "CMAC-10766"
+catalog-number = "CMAC-10766"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=034203322" },
 ]
 
 [[releases]]
-released_on = "2016-03-24"
+released-on = "2016-03-24"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

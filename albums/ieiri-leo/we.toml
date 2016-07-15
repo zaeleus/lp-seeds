@@ -1,4 +1,4 @@
-artist_id = "ieiri-leo"
+artist-id = "ieiri-leo"
 kind = "lp"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-07-06"
+released-on = "2016-07-06"
 country = "JP"
 media = [{ kind = "digital" }]
 urls = [
@@ -17,9 +17,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-07-06"
+released-on = "2016-07-06"
 country = "JP"
-catalog_number = "VICL-64588"
+catalog-number = "VICL-64588"
 disambiguation = "Regular Edition"
 media = [{ kind = "cd" }]
 urls = [
@@ -28,9 +28,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-07-06"
+released-on = "2016-07-06"
 country = "JP"
-catalog_number = "VIZL-986"
+catalog-number = "VIZL-986"
 disambiguation = "Limited Edition"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [

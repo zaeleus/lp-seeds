@@ -1,4 +1,4 @@
-artist_id = "girls-generation/yoona"
+artist-id = "girls-generation/yoona"
 kind = "single"
 
 names = [
@@ -8,7 +8,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-03-11"
+released-on = "2016-03-11"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

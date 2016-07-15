@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2012-04-19"
+started-on = "2012-04-19"
 country = "KR"
 
 names = [
@@ -11,7 +11,7 @@ names = [
 ]
 
 members = [
-  { artist_id = "girls-generation/taeyeon" },
-  { artist_id = "girls-generation/tiffany" },
-  { artist_id = "girls-generation/seo-hyun" },
+  { artist-id = "girls-generation/taeyeon" },
+  { artist-id = "girls-generation/tiffany" },
+  { artist-id = "girls-generation/seo-hyun" },
 ]

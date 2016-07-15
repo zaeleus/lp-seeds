@@ -1,4 +1,4 @@
-artist_id = "-virtual/abe-natsumi-yajima-maimi-c-ute"
+artist-id = "-virtual/abe-natsumi-yajima-maimi-c-ute"
 kind = "single"
 
 names = [
@@ -7,34 +7,34 @@ names = [
   { name = "A 16-year-old Love", locale = "en" },
 ]
 
-[[artist_credits]]
-artist_id = "morning-musume/abe-natsumi"
+[[artist-credits]]
+artist-id = "morning-musume/abe-natsumi"
 separator = " & "
 
-[[artist_credits]]
-artist_id = "c-ute/yajima-maimi"
+[[artist-credits]]
+artist-id = "c-ute/yajima-maimi"
 names = [
   { name = "矢島舞美 (°C-ute)", locale = "ja", kind = "real", original = true },
   { name = "Yajima Maimi (°C-ute)", locale = "ja-Latn", kind = "real", default = true },
 ]
 
 [[releases]]
-released_on = "2008-01-16"
+released-on = "2008-01-16"
 country = "JP"
-catalog_number = "HKCN-50061"
+catalog-number = "HKCN-50061"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition"
 
 [[releases]]
-released_on = "2008-01-16"
+released-on = "2008-01-16"
 country = "JP"
-catalog_number = "HKCN-50062"
+catalog-number = "HKCN-50062"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
 
 [[releases]]
-released_on = "2008-02-06"
+released-on = "2008-02-06"
 country = "JP"
-catalog_number = "HKBN-50095"
+catalog-number = "HKBN-50095"
 media = [{ kind = "dvd" }]
 disambiguation = "Single V"

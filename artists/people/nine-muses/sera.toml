@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1987-10-03"
+started-on = "1987-10-03"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Ryu Sae Ra", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "star-empire-entertainment" }]
+labels = [{ label-id = "star-empire-entertainment" }]
 
 urls = [
   { url = "https://www.instagram.com/ryuserasera/" },
@@ -18,6 +18,6 @@ urls = [
 ]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 height = 170
 weight = 50

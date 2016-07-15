@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "ieiri-leo/we/default/digital1",
   "ieiri-leo/we/limited-edition/cd1",
   "ieiri-leo/we/regular-edition/cd1",
@@ -6,65 +6,65 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "ieiri-leo/bokutachi-no-mirai"
+song-id = "ieiri-leo/bokutachi-no-mirai"
 duration = "4:25"
 
 [[tracks]]
 position = 2
-song_id = "ieiri-leo/brand-new-tomorrow"
+song-id = "ieiri-leo/brand-new-tomorrow"
 duration = "4:40"
 
 [[tracks]]
 position = 3
-song_id = "ieiri-leo/kimi-ga-kureta-natsu"
+song-id = "ieiri-leo/kimi-ga-kureta-natsu"
 duration = "4:18"
 
 [[tracks]]
 position = 4
-song_id = "ieiri-leo/koukotsu"
+song-id = "ieiri-leo/koukotsu"
 duration = "3:53"
 
 [[tracks]]
 position = 5
-song_id = "ieiri-leo/party-girl"
+song-id = "ieiri-leo/party-girl"
 duration = "3:23"
 
 [[tracks]]
 position = 6
-song_id = "ieiri-leo/i-wish"
+song-id = "ieiri-leo/i-wish"
 duration = "4:58"
 
 [[tracks]]
 position = 7
-song_id = "ieiri-leo/we"
+song-id = "ieiri-leo/we"
 duration = "2:04"
 
 [[tracks]]
 position = 8
-song_id = "ieiri-leo/hello-to-the-world"
+song-id = "ieiri-leo/hello-to-the-world"
 duration = "3:51"
 
 [[tracks]]
 position = 9
-song_id = "ieiri-leo/city-boy-na-aitsu"
+song-id = "ieiri-leo/city-boy-na-aitsu"
 duration = "3:28"
 
 [[tracks]]
 position = 10
-song_id = "ieiri-leo/sayonara-summer-breeze"
+song-id = "ieiri-leo/sayonara-summer-breeze"
 duration = "5:00"
 
 [[tracks]]
 position = 11
-song_id = "ieiri-leo/soba-ni-ite-radio"
+song-id = "ieiri-leo/soba-ni-ite-radio"
 duration = "4:57"
 
 [[tracks]]
 position = 12
-song_id = "ieiri-leo/every-single-day"
+song-id = "ieiri-leo/every-single-day"
 duration = "5:31"
 
 [[tracks]]
 position = 13
-song_id = "ieiri-leo/obake-no-namida"
+song-id = "ieiri-leo/obake-no-namida"
 duration = "4:50"

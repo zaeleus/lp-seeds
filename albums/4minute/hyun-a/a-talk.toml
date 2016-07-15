@@ -1,4 +1,4 @@
-artist_id = "4minute/hyun-a"
+artist-id = "4minute/hyun-a"
 kind = "ep"
 
 names = [
@@ -6,14 +6,14 @@ names = [
 ]
 
 [[releases]]
-released_on = "2014-07-29"
+released-on = "2014-07-29"
 country = "KR"
 media = [{ kind = "digital" }]
 
 [[releases]]
-released_on = "2014-07-29"
+released-on = "2014-07-29"
 country = "KR"
-catalog_number = "DK-0808"
+catalog-number = "DK-0808"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=001000152" },

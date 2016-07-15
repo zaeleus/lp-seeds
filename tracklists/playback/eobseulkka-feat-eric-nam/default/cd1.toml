@@ -1,19 +1,19 @@
-medium_ids = [
+medium-ids = [
   "playback/eobseulkka-feat-eric-nam/default/digital1",
   "playback/eobseulkka-feat-eric-nam/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "playback/eobseulkka-feat-eric-nam"
+song-id = "playback/eobseulkka-feat-eric-nam"
 duration = "3:34"
 
 [[tracks]]
 position = 2
-song_id = "playback/eobseulkka-playback-ver"
+song-id = "playback/eobseulkka-playback-ver"
 duration = "3:34"
 
 [[tracks]]
 position = 3
-song_id = "playback/eobseulkka-inst"
+song-id = "playback/eobseulkka-inst"
 duration = "3:34"

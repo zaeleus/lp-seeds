@@ -1,4 +1,4 @@
-artist_id = "ladybaby"
+artist-id = "ladybaby"
 kind = "single"
 
 names = [
@@ -7,16 +7,16 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-04-13"
+released-on = "2016-04-13"
 country = "JP"
-catalog_number = "CLSR-0003"
+catalog-number = "CLSR-0003"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
   { url = "http://www.oricon.co.jp/prof/653371/products/1172186/1/" },
 ]
 
 [[releases]]
-released_on = "2016-04-13"
+released-on = "2016-04-13"
 country = "JP"
 media = [{ kind = "digital" }]
 urls = [

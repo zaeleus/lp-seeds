@@ -1,53 +1,53 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/omoi-afurete/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/kekkon-shinai-futari"
+song-id = "matsuura-aya/kekkon-shinai-futari"
 duration = "6:00"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/nanakai-utau-to-ii-koto-ga-aru-uta"
+song-id = "matsuura-aya/nanakai-utau-to-ii-koto-ga-aru-uta"
 duration = "4:53"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/beautiful-day"
+song-id = "matsuura-aya/beautiful-day"
 duration = "3:40"
 
 [[tracks]]
 position = 4
-song_id = "matsuura-aya/boomboomboom"
+song-id = "matsuura-aya/boomboomboom"
 duration = "4:46"
 
 [[tracks]]
 position = 5
-song_id = "matsuura-aya/omoi-afurete"
+song-id = "matsuura-aya/omoi-afurete"
 duration = "5:18"
 
 [[tracks]]
 position = 6
-song_id = "matsuura-aya/rescue-rescue"
+song-id = "matsuura-aya/rescue-rescue"
 duration = "4:14"
 
 [[tracks]]
 position = 7
-song_id = "matsuura-aya/chuuou-kaisatsu"
+song-id = "matsuura-aya/chuuou-kaisatsu"
 duration = "4:39"
 
 [[tracks]]
 position = 8
-song_id = "matsuura-aya/shinju"
+song-id = "matsuura-aya/shinju"
 duration = "4:53"
 
 [[tracks]]
 position = 9
-song_id = "matsuura-aya/fallin"
+song-id = "matsuura-aya/fallin"
 duration = "4:20"
 
 [[tracks]]
 position = 10
-song_id = "matsuura-aya/kizuna"
+song-id = "matsuura-aya/kizuna"
 duration = "4:31"

@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "perfume/level3/analog-record-clear/vinyl3",
   "perfume/level3/analog-record-pink/vinyl3",
   "perfume/level3/analog-record-yellow/vinyl3",
@@ -6,17 +6,17 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "perfume/furikaeru-to-iru-yo"
+song-id = "perfume/furikaeru-to-iru-yo"
 
 [[tracks]]
 position = 2
-song_id = "perfume/point"
+song-id = "perfume/point"
 
 [[tracks]]
 position = 3
-song_id = "perfume/daijo-banai"
+song-id = "perfume/daijo-banai"
 
 [[tracks]]
 position = 4
-song_id = "perfume/handy-man"
+song-id = "perfume/handy-man"
 

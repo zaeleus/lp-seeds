@@ -1,18 +1,18 @@
-medium_ids = [
+medium-ids = [
   "girls-generation/party/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "girls-generation/party"
+song-id = "girls-generation/party"
 duration = "3:13"
 
 [[tracks]]
 position = 2
-song_id = "girls-generation/check"
+song-id = "girls-generation/check"
 duration = "3:26"
 
 [[tracks]]
 position = 3
-song_id = "girls-generation/party"
+song-id = "girls-generation/party"
 duration = "3:13"

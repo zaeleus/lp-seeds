@@ -1,18 +1,18 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/yeah-meccha-holiday/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/yeah-meccha-holiday"
+song-id = "matsuura-aya/yeah-meccha-holiday"
 duration = "3:50"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/tsumannai-yo"
+song-id = "matsuura-aya/tsumannai-yo"
 duration = "4:39"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/yeah-meccha-holiday-instrumental"
+song-id = "matsuura-aya/yeah-meccha-holiday-instrumental"
 duration = "3:46"

@@ -1,4 +1,4 @@
-artist_id = "g-friend"
+artist-id = "g-friend"
 kind = "ep"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-07-27"
+released-on = "2015-07-27"
 country = "KR"
-catalog_number = "KTMCD-0551"
+catalog-number = "KTMCD-0551"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=045400817" },

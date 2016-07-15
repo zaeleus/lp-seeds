@@ -1,23 +1,23 @@
-medium_ids = [
+medium-ids = [
   "bada/flower/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "bada/amazing"
+song-id = "bada/amazing"
 duration = "3:11"
 
 [[tracks]]
 position = 2
-song_id = "bada/flower-feat-kanto"
+song-id = "bada/flower-feat-kanto"
 duration = "3:19"
 
 [[tracks]]
 position = 3
-song_id = "bada/make-a-wish"
+song-id = "bada/make-a-wish"
 duration = "3:28"
 
 [[tracks]]
 position = 4
-song_id = "bada/flower-feat-kanto-tak-remix"
+song-id = "bada/flower-feat-kanto-tak-remix"
 duration = "3:20"

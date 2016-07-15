@@ -1,4 +1,4 @@
-artist_id = "hi-suhyun"
+artist-id = "hi-suhyun"
 kind = "single"
 
 names = [
@@ -8,7 +8,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2014-11-11"
+released-on = "2014-11-11"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

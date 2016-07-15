@@ -1,23 +1,23 @@
-medium_ids = [
+medium-ids = [
   "mintty/eolleri-kkolleri/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "mintty/eolleri-kkolleri"
+song-id = "mintty/eolleri-kkolleri"
 duration = "3:25"
 
 [[tracks]]
 position = 2
-song_id = "mintty/true-love"
+song-id = "mintty/true-love"
 duration = "3:24"
 
 [[tracks]]
 position = 3
-song_id = "mintty/eolleri-kkolleri-inst"
+song-id = "mintty/eolleri-kkolleri-inst"
 duration = "3:24"
 
 [[tracks]]
 position = 4
-song_id = "mintty/true-love-inst"
+song-id = "mintty/true-love-inst"
 duration = "3:24"

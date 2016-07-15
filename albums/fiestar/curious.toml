@@ -1,4 +1,4 @@
-artist_id = "fiestar"
+artist-id = "fiestar"
 kind = "single"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2013-11-04"
+released-on = "2013-11-04"
 country = "KR"
-catalog_number = "L100004804"
+catalog-number = "L100004804"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=001208203" },

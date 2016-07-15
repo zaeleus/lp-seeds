@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2012"
+started-on = "2012"
 country = "KR"
 
 names = [
@@ -8,11 +8,11 @@ names = [
 ]
 
 members = [
-  { artist_id = "f-x/victoria" },
-  { artist_id = "f-x/amber" },
-  { artist_id = "f-x/luna" },
-  { artist_id = "f-x/krystal" },
-  { artist_id = "f-x/sulli", ended_on = "2015-08-07" },
+  { artist-id = "f-x/victoria" },
+  { artist-id = "f-x/amber" },
+  { artist-id = "f-x/luna" },
+  { artist-id = "f-x/krystal" },
+  { artist-id = "f-x/sulli", ended-on = "2015-08-07" },
 ]
 
 urls = [

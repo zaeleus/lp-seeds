@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1986-06-25"
+started-on = "1986-06-25"
 country = "JP"
 
 names = [
@@ -11,12 +11,12 @@ names = [
   { name = "Ayaya", locale = "ja-Latn", kind = "nickname" },
 ]
 
-labels = [{ label_id = "zetima" }]
+labels = [{ label-id = "zetima" }]
 
 urls = [
   { url = "https://en.wikipedia.org/wiki/Aya_Matsuura" },
 ]
 
 [metadata]
-blood_type = "B"
+blood-type = "B"
 height = 158

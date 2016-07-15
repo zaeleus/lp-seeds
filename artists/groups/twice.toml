@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2015-10-20"
+started-on = "2015-10-20"
 country = "KR"
 
 names = [
@@ -7,18 +7,18 @@ names = [
   { name = "TWICE", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "jyp-entertainment" }]
+labels = [{ label-id = "jyp-entertainment" }]
 
 members = [
-  { artist_id = "twice/chae-young" },
-  { artist_id = "twice/da-hyun" },
-  { artist_id = "twice/ji-hyo" },
-  { artist_id = "twice/jung-yeon" },
-  { artist_id = "twice/mina" },
-  { artist_id = "twice/momo" },
-  { artist_id = "twice/na-yeon" },
-  { artist_id = "twice/sana" },
-  { artist_id = "twice/tzuyu" },
+  { artist-id = "twice/chae-young" },
+  { artist-id = "twice/da-hyun" },
+  { artist-id = "twice/ji-hyo" },
+  { artist-id = "twice/jung-yeon" },
+  { artist-id = "twice/mina" },
+  { artist-id = "twice/momo" },
+  { artist-id = "twice/na-yeon" },
+  { artist-id = "twice/sana" },
+  { artist-id = "twice/tzuyu" },
 ]
 
 urls = [

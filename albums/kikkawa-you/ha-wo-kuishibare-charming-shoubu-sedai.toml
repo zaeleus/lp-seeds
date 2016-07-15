@@ -1,4 +1,4 @@
-artist_id = "kikkawa-you"
+artist-id = "kikkawa-you"
 kind = "single"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-06-01"
+released-on = "2016-06-01"
 country = "JP"
-catalog_number = "POCS-1442"
+catalog-number = "POCS-1442"
 disambiguation = "Regular Edition"
 media = [{ kind = "cd" }]
 urls = [
@@ -19,9 +19,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-01"
+released-on = "2016-06-01"
 country = "JP"
-catalog_number = "POCS-9131"
+catalog-number = "POCS-9131"
 disambiguation = "Limited Edition A"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -30,9 +30,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-01"
+released-on = "2016-06-01"
 country = "JP"
-catalog_number = "POCS-9132"
+catalog-number = "POCS-9132"
 disambiguation = "Limited Edition B"
 media = [{ kind = "cd" }]
 urls = [

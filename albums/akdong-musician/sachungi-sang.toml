@@ -1,4 +1,4 @@
-artist_id = "akdong-musician"
+artist-id = "akdong-musician"
 kind = "ep"
 
 names = [
@@ -12,7 +12,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-05-04"
+released-on = "2016-05-04"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

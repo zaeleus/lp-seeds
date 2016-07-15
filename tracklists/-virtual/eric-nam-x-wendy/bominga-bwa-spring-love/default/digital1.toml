@@ -1,14 +1,14 @@
-medium_ids = [
+medium-ids = [
   "-virtual/eric-nam-x-wendy/bominga-bwa-spring-love/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "-virtual/eric-nam-x-wendy/bominga-bwa-spring-love"
+song-id = "-virtual/eric-nam-x-wendy/bominga-bwa-spring-love"
 duration = "3:18"
 
 [[tracks]]
 position = 2
-song_id = "-virtual/eric-nam-x-wendy/bominga-bwa-spring-love-inst"
+song-id = "-virtual/eric-nam-x-wendy/bominga-bwa-spring-love-inst"
 duration = "3:18"
 

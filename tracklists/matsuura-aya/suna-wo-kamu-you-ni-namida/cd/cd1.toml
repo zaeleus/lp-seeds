@@ -1,18 +1,18 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/suna-wo-kamu-you-ni-namida/cd/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/suna-wo-kamu-you-ni-namida"
+song-id = "matsuura-aya/suna-wo-kamu-you-ni-namida"
 duration = "4:12"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/happiness"
+song-id = "matsuura-aya/happiness"
 duration = "4:50"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/suna-wo-kamu-you-ni-namida-instrumental"
+song-id = "matsuura-aya/suna-wo-kamu-you-ni-namida-instrumental"
 duration = "4:11"

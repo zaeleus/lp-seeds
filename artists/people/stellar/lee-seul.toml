@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1990-06-14"
+started-on = "1990-06-14"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Kim Lee Seul", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "the-entertainment-pascal" }]
+labels = [{ label-id = "the-entertainment-pascal" }]
 
 [metadata]
 height = 163
 weight = 41
-blood_type = "AB"
+blood-type = "AB"

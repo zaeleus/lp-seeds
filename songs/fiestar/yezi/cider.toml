@@ -9,11 +9,11 @@ urls = [
 ]
 
 contributions = [
-  { artist_id = "fiestar/yezi", kind = "performer" },
-  { artist_id = "fiestar/yezi", kind = "lyricist" },
-  { artist_id = "rhymer", kind = "lyricist" },
-  { artist_id = "eluphant/minos", kind = "lyricist" },
-  { artist_id = "rhymer", kind = "composer" },
-  { artist_id = "9999", kind = "composer" },
-  { artist_id = "9999", kind = "arranger" },
+  { artist-id = "fiestar/yezi", kind = "performer" },
+  { artist-id = "fiestar/yezi", kind = "lyricist" },
+  { artist-id = "rhymer", kind = "lyricist" },
+  { artist-id = "eluphant/minos", kind = "lyricist" },
+  { artist-id = "rhymer", kind = "composer" },
+  { artist-id = "9999", kind = "composer" },
+  { artist-id = "9999", kind = "arranger" },
 ]

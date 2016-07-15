@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-08-11"
+started-on = "1991-08-11"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Cho Hyun Young", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "dsp-media" }]
+labels = [{ label-id = "dsp-media" }]
 
 [metadata]
 height = 160

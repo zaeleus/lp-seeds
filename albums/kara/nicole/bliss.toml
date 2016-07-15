@@ -1,4 +1,4 @@
-artist_id = "kara/nicole"
+artist-id = "kara/nicole"
 kind = "lp"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-04-27"
+released-on = "2016-04-27"
 country = "JP"
-catalog_number = "VBZJ-14"
+catalog-number = "VBZJ-14"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition A"
 urls = [
@@ -16,9 +16,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-27"
+released-on = "2016-04-27"
 country = "JP"
-catalog_number = "VBZJ-15"
+catalog-number = "VBZJ-15"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition B"
 urls = [
@@ -26,9 +26,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-27"
+released-on = "2016-04-27"
 country = "JP"
-catalog_number = "VBCJ-60003"
+catalog-number = "VBCJ-60003"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
 urls = [
@@ -36,7 +36,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-27"
+released-on = "2016-04-27"
 country = "JP"
 media = [{ kind = "digital" }]
 urls = [

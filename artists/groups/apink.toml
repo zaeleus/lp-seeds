@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2011"
+started-on = "2011"
 country = "KR"
 
 names = [
@@ -7,17 +7,17 @@ names = [
   { name = "APink", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "a-cube-entertainment" }]
+labels = [{ label-id = "a-cube-entertainment" }]
 
 members = [
-  { artist_id = "apink/cho-rong" },
-  { artist_id = "apink/bo-mi" },
-  { artist_id = "apink/eun-ji" },
-  { artist_id = "apink/na-eun" },
-  { artist_id = "apink/nam-joo" },
-  { artist_id = "apink/ha-young" },
+  { artist-id = "apink/cho-rong" },
+  { artist-id = "apink/bo-mi" },
+  { artist-id = "apink/eun-ji" },
+  { artist-id = "apink/na-eun" },
+  { artist-id = "apink/nam-joo" },
+  { artist-id = "apink/ha-young" },
 
-  { artist_id = "apink/yoo-kyung", ended_on = "2013-04" },
+  { artist-id = "apink/yoo-kyung", ended-on = "2013-04" },
 ]
 
 urls = [

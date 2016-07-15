@@ -1,19 +1,19 @@
-artist_id = "girls-generation/taeyeon"
+artist-id = "girls-generation/taeyeon"
 kind = "ep"
 
 names = [
   { name = "Why", locale = "ko", original = true, default = true },
 ]
 
-[[artist_credits]]
-artist_id = "girls-generation/taeyeon"
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
 names = [
   { name = "태연", locale = "ko", kind = "stage", original = true },
   { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
 ]
 
 [[releases]]
-released_on = "2016-06-25"
+released-on = "2016-06-25"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -23,9 +23,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-25"
+released-on = "2016-06-25"
 country = "KR"
-catalog_number = "SMK-0649"
+catalog-number = "SMK-0649"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=821900516" },

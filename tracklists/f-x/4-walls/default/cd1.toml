@@ -1,53 +1,53 @@
-medium_ids = [
+medium-ids = [
   "f-x/4-walls/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "f-x/4-walls"
+song-id = "f-x/4-walls"
 duration = "3:27"
 
 [[tracks]]
 position = 2
-song_id = "f-x/glitter"
+song-id = "f-x/glitter"
 duration = "2:59"
 
 [[tracks]]
 position = 3
-song_id = "f-x/deja-vu"
+song-id = "f-x/deja-vu"
 duration = "3:40"
 
 [[tracks]]
 position = 4
-song_id = "f-x/x"
+song-id = "f-x/x"
 duration = "3:23"
 
 [[tracks]]
 position = 5
-song_id = "f-x/rude-love"
+song-id = "f-x/rude-love"
 duration = "4:18"
 
 [[tracks]]
 position = 6
-song_id = "f-x/diamond"
+song-id = "f-x/diamond"
 duration = "3:59"
 
 [[tracks]]
 position = 7
-song_id = "f-x/traveler-feat-zico"
+song-id = "f-x/traveler-feat-zico"
 duration = "3:38"
 
 [[tracks]]
 position = 8
-song_id = "f-x/papi"
+song-id = "f-x/papi"
 duration = "3:05"
 
 [[tracks]]
 position = 9
-song_id = "f-x/cash-me-out"
+song-id = "f-x/cash-me-out"
 duration = "3:21"
 
 [[tracks]]
 position = 10
-song_id = "f-x/when-i-m-alone"
+song-id = "f-x/when-i-m-alone"
 duration = "3:23"

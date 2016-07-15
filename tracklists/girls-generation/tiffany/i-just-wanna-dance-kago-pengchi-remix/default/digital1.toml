@@ -1,8 +1,8 @@
-medium_ids = [
+medium-ids = [
   "girls-generation/tiffany/i-just-wanna-dance-kago-pengchi-remix/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "girls-generation/tiffany/i-just-wanna-dance-kago-pengchi-remix"
+song-id = "girls-generation/tiffany/i-just-wanna-dance-kago-pengchi-remix"
 duration = "4:18"

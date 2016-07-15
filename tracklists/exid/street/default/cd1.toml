@@ -1,69 +1,69 @@
-medium_ids = [
+medium-ids = [
   "exid/street/default/cd1",
   "exid/street/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "exid/deryeodajullae"
+song-id = "exid/deryeodajullae"
 duration = "3:12"
 
 [[tracks]]
 position = 2
-song_id = "exid/l-i-e"
+song-id = "exid/l-i-e"
 duration = "3:31"
 
 [[tracks]]
 position = 3
-song_id = "exid/almyeonseo"
+song-id = "exid/almyeonseo"
 duration = "3:14"
 
 [[tracks]]
 position = 4
-song_id = "exid/hello-hani-solo"
+song-id = "exid/hello-hani-solo"
 duration = "3:10"
 
 [[tracks]]
 position = 5
-song_id = "exid/cream"
+song-id = "exid/cream"
 duration = "3:13"
 
 [[tracks]]
 position = 6
-song_id = "exid/3-solji-solo"
+song-id = "exid/3-solji-solo"
 duration = "3:38"
 
 [[tracks]]
 position = 7
-song_id = "exid/only-one"
+song-id = "exid/only-one"
 duration = "3:53"
 
 [[tracks]]
 position = 8
-song_id = "exid/dangyeonhae"
+song-id = "exid/dangyeonhae"
 duration = "3:32"
 
 [[tracks]]
 position = 9
-song_id = "exid/nyamnyamjjeopjjeop-jeonghwa-hyerin"
+song-id = "exid/nyamnyamjjeopjjeop-jeonghwa-hyerin"
 duration = "3:18"
 
 [[tracks]]
 position = 10
-song_id = "exid/yeoreum-gaeul-gyeoul-bom"
+song-id = "exid/yeoreum-gaeul-gyeoul-bom"
 duration = "3:46"
 
 [[tracks]]
 position = 11
-song_id = "exid/good"
+song-id = "exid/good"
 duration = "3:23"
 
 [[tracks]]
 position = 12
-song_id = "exid/hot-pink-remix"
+song-id = "exid/hot-pink-remix"
 duration = "2:54"
 
 [[tracks]]
 position = 13
-song_id = "exid/l-i-e-jannabi-mix"
+song-id = "exid/l-i-e-jannabi-mix"
 duration = "2:56"

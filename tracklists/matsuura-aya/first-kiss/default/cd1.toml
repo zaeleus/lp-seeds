@@ -1,58 +1,58 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/first-kiss/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/dokkidoki-love-mail"
+song-id = "matsuura-aya/dokkidoki-love-mail"
 duration = "4:29"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/tropica-l-koishite-ru"
+song-id = "matsuura-aya/tropica-l-koishite-ru"
 duration = "4:37"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/oshare"
+song-id = "matsuura-aya/oshare"
 duration = "4:52"
 
 [[tracks]]
 position = 4
-song_id = "matsuura-aya/100kai-no-kiss"
+song-id = "matsuura-aya/100kai-no-kiss"
 duration = "4:37"
 
 [[tracks]]
 position = 5
-song_id = "matsuura-aya/zettai-tokeru-mondai-x"
+song-id = "matsuura-aya/zettai-tokeru-mondai-x"
 duration = "3:37"
 
 [[tracks]]
 position = 6
-song_id = "matsuura-aya/egao-ni-namida-thank-you-dear-my-friends"
+song-id = "matsuura-aya/egao-ni-namida-thank-you-dear-my-friends"
 duration = "4:48"
 
 [[tracks]]
 position = 7
-song_id = "matsuura-aya/love-namida-iro"
+song-id = "matsuura-aya/love-namida-iro"
 duration = "4:17"
 
 [[tracks]]
 position = 8
-song_id = "matsuura-aya/sou-ieba"
+song-id = "matsuura-aya/sou-ieba"
 duration = "4:07"
 
 [[tracks]]
 position = 9
-song_id = "matsuura-aya/s-kun"
+song-id = "matsuura-aya/s-kun"
 duration = "4:14"
 
 [[tracks]]
 position = 10
-song_id = "matsuura-aya/watashi-no-sugoi-houhou"
+song-id = "matsuura-aya/watashi-no-sugoi-houhou"
 duration = "5:12"
 
 [[tracks]]
 position = 11
-song_id = "matsuura-aya/hajimete-kuchibiru-wo-kasaneta-yoru"
+song-id = "matsuura-aya/hajimete-kuchibiru-wo-kasaneta-yoru"
 duration = "3:59"

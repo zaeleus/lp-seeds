@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution/limited-edition-seolhyun-ver/cd1",
   "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution/limited-edition-choa-ver/cd1",
   "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution/limited-edition-hyejeong-ver/cd1",
@@ -10,10 +10,10 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution"
+song-id = "aoa/ai-wo-choudai-feat-takanori-nishikawa-t-m-revolution"
 duration = "3:45"
 
 [[tracks]]
 position = 2
-song_id = "aoa/still-falls-the-rain"
+song-id = "aoa/still-falls-the-rain"
 duration = "3:17"

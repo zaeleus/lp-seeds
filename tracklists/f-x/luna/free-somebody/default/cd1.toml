@@ -1,34 +1,34 @@
-medium_ids = [
+medium-ids = [
   "f-x/luna/free-somebody/default/cd1",
   "f-x/luna/free-somebody/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "f-x/luna/free-somebody"
+song-id = "f-x/luna/free-somebody"
 duration = "3:19"
 
 [[tracks]]
 position = 2
-song_id = "f-x/luna/breathe"
+song-id = "f-x/luna/breathe"
 duration = "3:39"
 
 [[tracks]]
 position = 3
-song_id = "f-x/luna/keep-on-doin"
+song-id = "f-x/luna/keep-on-doin"
 duration = "3:13"
 
 [[tracks]]
 position = 4
-song_id = "f-x/luna/yeppeun-sonyeo-i-wish"
+song-id = "f-x/luna/yeppeun-sonyeo-i-wish"
 duration = "3:42"
 
 [[tracks]]
 position = 5
-song_id = "f-x/luna/galaxy"
+song-id = "f-x/luna/galaxy"
 duration = "3:06"
 
 [[tracks]]
 position = 6
-song_id = "f-x/luna/my-medicine"
+song-id = "f-x/luna/my-medicine"
 duration = "3:22"

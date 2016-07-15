@@ -11,12 +11,12 @@ urls = [
 ]
 
 countibutions = [
-  { artist_id = "brave-brothers", kind = "lyricist" },
-  { artist_id = "maboos", kind = "lyricist" },
+  { artist-id = "brave-brothers", kind = "lyricist" },
+  { artist-id = "maboos", kind = "lyricist" },
 
-  { artist_id = "brave-brothers", kind = "composition" },
-  { artist_id = "maboos", kind = "composition" },
-  { artist_id = "js", kind = "composition" },
+  { artist-id = "brave-brothers", kind = "composition" },
+  { artist-id = "maboos", kind = "composition" },
+  { artist-id = "js", kind = "composition" },
 
-  { artist_id = "js", kind = "arranger" },
+  { artist-id = "js", kind = "arranger" },
 ]

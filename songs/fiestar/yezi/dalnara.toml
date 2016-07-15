@@ -5,9 +5,9 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "fiestar/yezi", kind = "performer" },
-  { artist_id = "fiestar/yezi", kind = "lyricist" },
-  { artist_id = "cj", kind = "composer" },
-  { artist_id = "sam-lewis", kind = "composer" },
-  { artist_id = "cj", kind = "arranger" },
+  { artist-id = "fiestar/yezi", kind = "performer" },
+  { artist-id = "fiestar/yezi", kind = "lyricist" },
+  { artist-id = "cj", kind = "composer" },
+  { artist-id = "sam-lewis", kind = "composer" },
+  { artist-id = "cj", kind = "arranger" },
 ]

@@ -2,8 +2,8 @@ names = [
   { name = "ONLY ONE", locale = "ko", original = true, default = true },
 ]
 
-[[artist_credits]]
-artist_id = "dasoni"
+[[artist-credits]]
+artist-id = "dasoni"
 names = [
   { name = "솔지하니", locale = "ko", original = true },
   { name = "SoljiHani", locale = "ko-Latn", default = true },

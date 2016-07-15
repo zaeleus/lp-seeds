@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2015"
+started-on = "2015"
 country = "KR"
 
 names = [
@@ -7,14 +7,14 @@ names = [
   { name = "THE ARK", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "music-k-entertainment" }]
+labels = [{ label-id = "music-k-entertainment" }]
 
 members = [
-  { artist_id = "the-ark/halla" },
-  { artist_id = "the-ark/jane" },
-  { artist_id = "the-ark/minju" },
-  { artist_id = "the-ark/yujin" },
-  { artist_id = "the-ark/yuna-kim" },
+  { artist-id = "the-ark/halla" },
+  { artist-id = "the-ark/jane" },
+  { artist-id = "the-ark/minju" },
+  { artist-id = "the-ark/yujin" },
+  { artist-id = "the-ark/yuna-kim" },
 ]
 
 urls = [

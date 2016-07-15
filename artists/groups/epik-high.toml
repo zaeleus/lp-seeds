@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2000"
+started-on = "2000"
 country = "KR"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 members = [
-  { artist_id = "epik-high/tablo" },
-  { artist_id = "epik-high/mithra-jin" },
-  { artist_id = "epik-high/dj-tukutz" },
+  { artist-id = "epik-high/tablo" },
+  { artist-id = "epik-high/mithra-jin" },
+  { artist-id = "epik-high/dj-tukutz" },
 ]
 
 urls = [

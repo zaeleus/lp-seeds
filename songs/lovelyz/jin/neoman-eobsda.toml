@@ -9,5 +9,5 @@ urls = [
 ]
 
 performers = [
-  { artist_id = "lovelyz/jin" },
+  { artist-id = "lovelyz/jin" },
 ]

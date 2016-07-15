@@ -1,44 +1,44 @@
-medium_ids = [
+medium-ids = [
   "exid/ah-yeah/default/cd1",
   "exid/ah-yeah/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "exid/ah-yeah"
+song-id = "exid/ah-yeah"
 duration = "3:19"
 
 [[tracks]]
 position = 2
-song_id = "exid/aseulhae"
+song-id = "exid/aseulhae"
 duration = "3:32"
 
 [[tracks]]
 position = 3
-song_id = "exid/todak-todak"
+song-id = "exid/todak-todak"
 duration = "3:51"
 
 [[tracks]]
 position = 4
-song_id = "exid/with-out-u"
+song-id = "exid/with-out-u"
 duration = "3:31"
 
 [[tracks]]
 position = 5
-song_id = "exid/1m"
+song-id = "exid/1m"
 duration = "3:51"
 
 [[tracks]]
 position = 6
-song_id = "exid/wiarae"
+song-id = "exid/wiarae"
 duration = "3:09"
 
 [[tracks]]
 position = 7
-song_id = "exid/maeilbam-ver-2"
+song-id = "exid/maeilbam-ver-2"
 duration = "4:14"
 
 [[tracks]]
 position = 8
-song_id = "exid/ah-yeah-inst"
+song-id = "exid/ah-yeah-inst"
 duration = "3:19"

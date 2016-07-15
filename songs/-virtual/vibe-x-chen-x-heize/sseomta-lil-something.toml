@@ -3,10 +3,10 @@ names = [
   { name = "Sseomta (Lil' Something)", locale = "ko-Latn", default = true },
 ]
 
-artist_credits = [
-  { artist_id = "vibe", separator = " x " },
-  { artist_id = "exo/chen", separator = " x " },
-  { artist_id = "heize" },
+artist-credits = [
+  { artist-id = "vibe", separator = " x " },
+  { artist-id = "exo/chen", separator = " x " },
+  { artist-id = "heize" },
 ]
 
 urls = [

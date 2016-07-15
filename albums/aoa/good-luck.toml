@@ -1,4 +1,4 @@
-artist_id = "aoa"
+artist-id = "aoa"
 kind = "ep"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-05-16"
+released-on = "2016-05-16"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -16,9 +16,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-05-16"
+released-on = "2016-05-16"
 country = "KR"
-catalog_number = "L200001243"
+catalog-number = "L200001243"
 media = [{ kind = "cd" }]
 disambiguation = "Week Ver."
 urls = [
@@ -26,9 +26,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-05-16"
+released-on = "2016-05-16"
 country = "KR"
-catalog_number = "L200001244"
+catalog-number = "L200001244"
 media = [{ kind = "cd" }]
 disambiguation = "Weekend Ver."
 urls = [

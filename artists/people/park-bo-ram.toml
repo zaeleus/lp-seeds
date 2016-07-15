@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1994-03-01"
+started-on = "1994-03-01"
 country = "KR"
 
 names = [

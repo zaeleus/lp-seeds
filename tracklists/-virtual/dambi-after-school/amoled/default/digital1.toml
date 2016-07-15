@@ -1,14 +1,14 @@
-medium_ids = [
+medium-ids = [
   "-virtual/dambi-after-school/amoled/default/digital1",
   "-virtual/dambi-after-school/amoled/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "-virtual/dambi-after-school/amoled"
+song-id = "-virtual/dambi-after-school/amoled"
 duration = "3:10"
 
 [[tracks]]
 position = 2
-song_id = "-virtual/dambi-after-school/amoled-inst"
+song-id = "-virtual/dambi-after-school/amoled-inst"
 duration = "3:08"

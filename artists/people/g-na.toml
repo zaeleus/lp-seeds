@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1987-09-13"
+started-on = "1987-09-13"
 country = "KR"
 
 names = [
@@ -8,7 +8,7 @@ names = [
   { name = "Choi Gina", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "cube-entertainment" }]
+labels = [{ label-id = "cube-entertainment" }]
 
 urls = [
   { url = "https://www.youtube.com/user/gnaofficial" },
@@ -18,6 +18,6 @@ urls = [
 ]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 height = 166
 weight = 50

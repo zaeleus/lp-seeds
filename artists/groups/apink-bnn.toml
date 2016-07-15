@@ -1,14 +1,14 @@
 kind = "group"
-started_on = "2014"
+started-on = "2014"
 country = "KR"
 
 names = [
   { name = "APink BnN", locale = "ko", original = true, default = true },
 ]
 
-labels = [{ label_id = "a-cube-entertainment" }]
+labels = [{ label-id = "a-cube-entertainment" }]
 
 members = [
-  { artist_id = "apink/bo-mi" },
-  { artist_id = "apink/nam-joo" },
+  { artist-id = "apink/bo-mi" },
+  { artist-id = "apink/nam-joo" },
 ]

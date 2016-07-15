@@ -1,4 +1,4 @@
-artist_id = "-virtual/baby-soul-yoo-ji-ah"
+artist-id = "-virtual/baby-soul-yoo-ji-ah"
 kind = "single"
 
 names = [
@@ -6,12 +6,12 @@ names = [
   { name = "Geunyeoneun Baramdungiya", locale = "ko-Latn", default = true },
 ]
 
-artist_credits = [
-  { artist_id = "lovelyz/baby-soul", separator = " + " },
-  { artist_id = "yoo-ji-ah" },
+artist-credits = [
+  { artist-id = "lovelyz/baby-soul", separator = " + " },
+  { artist-id = "yoo-ji-ah" },
 ]
 
 [[releases]]
-released_on = "2012-01-18"
+released-on = "2012-01-18"
 country = "KR"
 media = [{ kind = "digital" }]

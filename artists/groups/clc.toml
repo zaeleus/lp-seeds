@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2015-03-19"
+started-on = "2015-03-19"
 country = "KR"
 
 names = [
@@ -8,13 +8,13 @@ names = [
 ]
 
 members = [
-  { artist_id = "clc/seung-hee" },
-  { artist_id = "clc/sorn" },
-  { artist_id = "clc/yu-jin" },
-  { artist_id = "clc/seung-yeon" },
-  { artist_id = "clc/yee-eun" },
-  { artist_id = "clc/elkie", started_on = "2016-02" },
-  { artist_id = "clc/eun-bin", started_on = "2016-02" },
+  { artist-id = "clc/seung-hee" },
+  { artist-id = "clc/sorn" },
+  { artist-id = "clc/yu-jin" },
+  { artist-id = "clc/seung-yeon" },
+  { artist-id = "clc/yee-eun" },
+  { artist-id = "clc/elkie", started-on = "2016-02" },
+  { artist-id = "clc/eun-bin", started-on = "2016-02" },
 ]
 
 urls = [

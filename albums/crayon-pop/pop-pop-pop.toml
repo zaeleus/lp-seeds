@@ -1,4 +1,4 @@
-artist_id = "crayon-pop"
+artist-id = "crayon-pop"
 kind = "ep"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2014-11-19"
+released-on = "2014-11-19"
 country = "JP"
-catalog_number = "PCCA-04130"
+catalog-number = "PCCA-04130"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://www.oricon.co.jp/prof/600963/products/1102217/1/" },

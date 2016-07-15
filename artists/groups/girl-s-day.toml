@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2010"
+started-on = "2010"
 country = "KR"
 
 names = [
@@ -8,11 +8,11 @@ names = [
 ]
 
 members = [
-  { artist_id = "girl-s-day/so-jin" },
-  { artist_id = "girl-s-day/min-ah" },
-  { artist_id = "girl-s-day/yura", started_on = "2010-09-16" },
-  { artist_id = "girl-s-day/hyeri", started_on = "2010-09-14" },
-  { artist_id = "new-f-o/jn", ended_on = "2010-09-12" },
-  { artist_id = "girl-s-day/ji-in", ended_on = "2010-09-12" },
-  { artist_id = "girl-s-day/ji-hae", ended_on = "2012-10-17" },
+  { artist-id = "girl-s-day/so-jin" },
+  { artist-id = "girl-s-day/min-ah" },
+  { artist-id = "girl-s-day/yura", started-on = "2010-09-16" },
+  { artist-id = "girl-s-day/hyeri", started-on = "2010-09-14" },
+  { artist-id = "new-f-o/jn", ended-on = "2010-09-12" },
+  { artist-id = "girl-s-day/ji-in", ended-on = "2010-09-12" },
+  { artist-id = "girl-s-day/ji-hae", ended-on = "2012-10-17" },
 ]

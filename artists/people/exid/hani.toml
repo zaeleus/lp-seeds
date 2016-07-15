@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1992-05-01"
+started-on = "1992-05-01"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Ahn Hui Yeon", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "yedang-entertainment" }]
+labels = [{ label-id = "yedang-entertainment" }]
 
 [metadata]
 height = 168

@@ -1,4 +1,4 @@
-artist_id = "laboum"
+artist-id = "laboum"
 kind = "single"
 
 names = [
@@ -10,16 +10,16 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-06"
+released-on = "2016-04-06"
 country = "KR"
-catalog_number = "INT-0054"
+catalog-number = "INT-0054"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=055400073" },
 ]
 
 [[releases]]
-released_on = "2016-04-06"
+released-on = "2016-04-06"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

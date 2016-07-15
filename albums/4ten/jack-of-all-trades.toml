@@ -1,4 +1,4 @@
-artist_id = "4ten"
+artist-id = "4ten"
 kind = "ep"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-02-23"
+released-on = "2016-02-23"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -17,9 +17,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-02-23"
+released-on = "2016-02-23"
 country = "KR"
-catalog_number = "CMCC-10752"
+catalog-number = "CMCC-10752"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=034203290" },

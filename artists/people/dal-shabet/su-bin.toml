@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1994-02-12"
+started-on = "1994-02-12"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Cho Su Bin", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "happyface-entertainment" }]
+labels = [{ label-id = "happyface-entertainment" }]
 
 [metadata]
 height = 174
 weight = 50
-blood_type = "AB"
+blood-type = "AB"

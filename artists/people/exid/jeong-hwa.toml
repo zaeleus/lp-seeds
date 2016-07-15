@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1995-05-08"
+started-on = "1995-05-08"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Park Jeong Hwa", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "yedang-entertainment" }]
+labels = [{ label-id = "yedang-entertainment" }]
 
 [metadata]
 height = 168

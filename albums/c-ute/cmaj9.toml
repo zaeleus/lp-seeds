@@ -1,4 +1,4 @@
-artist_id = "c-ute"
+artist-id = "c-ute"
 kind = "lp"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-12-23"
+released-on = "2015-12-23"
 country = "JP"
-catalog_number = "EPCE-7158~9"
+catalog-number = "EPCE-7158~9"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition A"
 urls = [
@@ -17,9 +17,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-12-23"
+released-on = "2015-12-23"
 country = "JP"
-catalog_number = "EPCE-7160~1"
+catalog-number = "EPCE-7160~1"
 media = [{ kind = "cd" }, { kind = "blu-ray" }]
 disambiguation = "Limited Edition B"
 urls = [
@@ -28,9 +28,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-12-23"
+released-on = "2015-12-23"
 country = "JP"
-catalog_number = "EPCE-7162"
+catalog-number = "EPCE-7162"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
 urls = [

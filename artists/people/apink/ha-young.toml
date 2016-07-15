@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1996-07-19"
+started-on = "1996-07-19"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Oh Ha Young", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "a-cube-entertainment" }]
+labels = [{ label-id = "a-cube-entertainment" }]
 
 [metadata]
 weight = 45

@@ -2,6 +2,6 @@ names = [
   { name = "My Darling", locale = "ko", original = true, default = true },
 ]
 
-artist_credits = [
-  { artist_id = "apink-bnn" },
+artist-credits = [
+  { artist-id = "apink-bnn" },
 ]

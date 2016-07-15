@@ -5,13 +5,13 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "morning-musume/nakazawa-yuko", kind = "performer" },
-  { artist_id = "morning-musume/ishiguro-aya", kind = "performer" },
-  { artist_id = "morning-musume/iida-kaori", kind = "performer" },
-  { artist_id = "morning-musume/abe-natsumi", kind = "performer" },
-  { artist_id = "morning-musume/fukuda-asuka", kind = "performer" },
+  { artist-id = "morning-musume/nakazawa-yuko", kind = "performer" },
+  { artist-id = "morning-musume/ishiguro-aya", kind = "performer" },
+  { artist-id = "morning-musume/iida-kaori", kind = "performer" },
+  { artist-id = "morning-musume/abe-natsumi", kind = "performer" },
+  { artist-id = "morning-musume/fukuda-asuka", kind = "performer" },
 
-  { artist_id = "saeki-kenzou", kind = "lyricist" },
-  { artist_id = "sakurai-tetsutaro", kind = "composer" },
-  { artist_id = "sakurai-tetsutaro", kind = "arranger" },
+  { artist-id = "saeki-kenzou", kind = "lyricist" },
+  { artist-id = "sakurai-tetsutaro", kind = "composer" },
+  { artist-id = "sakurai-tetsutaro", kind = "arranger" },
 ]

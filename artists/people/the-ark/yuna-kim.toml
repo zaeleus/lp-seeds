@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1994-10-27"
+started-on = "1994-10-27"
 country = "KR"
 
 names = [
@@ -7,9 +7,9 @@ names = [
   { name = "Yuna Kim", locale = "ko-Latn", kind = "real", default = true },
 ]
 
-labels = [{ label_id = "music-k-entertainment" }]
+labels = [{ label-id = "music-k-entertainment" }]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 weight = 50
 height = 161

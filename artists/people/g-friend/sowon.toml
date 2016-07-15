@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1995-12-07"
+started-on = "1995-12-07"
 country = "KR"
 
 names = [
@@ -9,10 +9,10 @@ names = [
   { name = "Kim So Jung", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "source-music-entertainment" }]
+labels = [{ label-id = "source-music-entertainment" }]
 
 [metadata]
 height = 172
 weight = 50
-blood_type = "A"
+blood-type = "A"
 

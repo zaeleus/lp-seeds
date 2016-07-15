@@ -1,18 +1,18 @@
-medium_ids = [
+medium-ids = [
   "ladies-code/myst3re/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "ladies-code/my-flower-blossom-mix"
+song-id = "ladies-code/my-flower-blossom-mix"
 duration = "3:10"
 
 [[tracks]]
 position = 2
-song_id = "ladies-code/galaxy-the-3dge-mix"
+song-id = "ladies-code/galaxy-the-3dge-mix"
 duration = "3:33"
 
 [[tracks]]
 position = 3
-song_id = "ladies-code/chaconne-arieta-mix"
+song-id = "ladies-code/chaconne-arieta-mix"
 duration = "3:46"

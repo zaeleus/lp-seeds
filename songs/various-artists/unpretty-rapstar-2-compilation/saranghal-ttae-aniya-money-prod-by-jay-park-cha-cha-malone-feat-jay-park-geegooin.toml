@@ -4,6 +4,6 @@ names = [
   { name = "It's Not Time to Love (Money) (Prod. by Jay Park, Cha Cha Malone / Feat. Jay Park, Geegooin)", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "sistar/hyo-rin" },
+artist-credits = [
+  { artist-id = "sistar/hyo-rin" },
 ]

@@ -1,19 +1,19 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/the-last-night/limited-edition/cd1",
   "matsuura-aya/the-last-night/regular-edition/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/the-last-night"
+song-id = "matsuura-aya/the-last-night"
 duration = "5:15"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/do-you-love-me"
+song-id = "matsuura-aya/do-you-love-me"
 duration = "4:24"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/the-last-night-instrumental"
+song-id = "matsuura-aya/the-last-night-instrumental"
 duration = "5:11"

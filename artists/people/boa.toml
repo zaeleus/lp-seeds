@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1986-11-05"
+started-on = "1986-11-05"
 country = "KR"
 
 names = [
@@ -10,9 +10,9 @@ names = [
 ]
 
 labels = [
-  { label_id = "sm-entertainment" },
-  { label_id = "avex-trax" },
-  { label_id = "sm-entertainment-usa" },
+  { label-id = "sm-entertainment" },
+  { label-id = "avex-trax" },
+  { label-id = "sm-entertainment-usa" },
 ]
 
 urls = [
@@ -23,5 +23,5 @@ urls = [
 ]
 
 [metadat]
-blood_type = "AB"
+blood-type = "AB"
 height = 160

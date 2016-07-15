@@ -1,38 +1,38 @@
-medium_ids = [
+medium-ids = [
   "4minute/for-muzik/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "4minute/for-muzik"
+song-id = "4minute/for-muzik"
 duration = "1:25"
 
 [[tracks]]
 position = 2
-song_id = "4minute/muzik"
+song-id = "4minute/muzik"
 duration = "3:43"
 
 [[tracks]]
 position = 3
-song_id = "4minute/hot-issue"
+song-id = "4minute/hot-issue"
 duration = "3:27"
 
 [[tracks]]
 position = 4
-song_id = "4minute/what-a-girl-wants"
+song-id = "4minute/what-a-girl-wants"
 duration = "3:24"
 
 [[tracks]]
 position = 5
-song_id = "4minute/utgyeo"
+song-id = "4minute/utgyeo"
 duration = "3:30"
 
 [[tracks]]
 position = 6
-song_id = "4minute/anjullae"
+song-id = "4minute/anjullae"
 duration = "3:17"
 
 [[tracks]]
 position = 7
-song_id = "4minute/hot-issue-shinsadong-tiger-remix"
+song-id = "4minute/hot-issue-shinsadong-tiger-remix"
 duration = "3:14"

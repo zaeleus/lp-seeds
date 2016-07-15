@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2014"
+started-on = "2014"
 country = "KR"
 
 names = [
@@ -7,11 +7,11 @@ names = [
   { name = "Rainbow BLAXX", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "dsp-media" }]
+labels = [{ label-id = "dsp-media" }]
 
 members = [
-  { artist_id = "rainbow/jae-kyung" },
-  { artist_id = "rainbow/woo-ri" },
-  { artist_id = "rainbow/seung-ah" },
-  { artist_id = "rainbow/hyun-young" },
+  { artist-id = "rainbow/jae-kyung" },
+  { artist-id = "rainbow/woo-ri" },
+  { artist-id = "rainbow/seung-ah" },
+  { artist-id = "rainbow/hyun-young" },
 ]

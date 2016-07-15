@@ -1,33 +1,33 @@
-medium_ids = [
+medium-ids = [
   "kikkawa-you/ha-wo-kuishibare-charming-shoubu-sedai/limited-edition-b/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "kikkawa-you/ha-wo-kuishibare"
+song-id = "kikkawa-you/ha-wo-kuishibare"
 duration = "4:12"
 
 [[tracks]]
 position = 2
-song_id = "kikkawa-you/charming-shoubu-sedai"
+song-id = "kikkawa-you/charming-shoubu-sedai"
 duration = "3:46"
 
 [[tracks]]
 position = 3
-song_id = "kikkawa-you/maneiro"
+song-id = "kikkawa-you/maneiro"
 duration = "4:14"
 
 [[tracks]]
 position = 4
-song_id = "kikkawa-you/ha-wo-kuishibare-instrumental"
+song-id = "kikkawa-you/ha-wo-kuishibare-instrumental"
 duration = "4:12"
 
 [[tracks]]
 position = 5
-song_id = "kikkawa-you/charming-shoubu-sedai-instrumental"
+song-id = "kikkawa-you/charming-shoubu-sedai-instrumental"
 duration = "3:46"
 
 [[tracks]]
 position = 6
-song_id = "kikkawa-you/maneiro-instrumental"
+song-id = "kikkawa-you/maneiro-instrumental"
 duration = "4:14"

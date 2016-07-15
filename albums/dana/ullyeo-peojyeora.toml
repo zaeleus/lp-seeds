@@ -1,4 +1,4 @@
-artist_id = "dana"
+artist-id = "dana"
 kind = "single"
 
 names = [
@@ -8,7 +8,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-05-20"
+released-on = "2016-05-20"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

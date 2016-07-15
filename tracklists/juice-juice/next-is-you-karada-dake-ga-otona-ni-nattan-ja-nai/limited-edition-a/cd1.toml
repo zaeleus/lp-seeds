@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "juice-juice/next-is-you-karada-dake-ga-otona-ni-nattan-ja-nai/limited-edition-a/cd1",
   "juice-juice/next-is-you-karada-dake-ga-otona-ni-nattan-ja-nai/limited-edition-c/cd1",
   "juice-juice/next-is-you-karada-dake-ga-otona-ni-nattan-ja-nai/regular-edition-a/cd1",
@@ -6,20 +6,20 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "juice-juice/next-is-you"
+song-id = "juice-juice/next-is-you"
 duration = "4:30"
 
 [[tracks]]
 position = 2
-song_id = "juice-juice/karada-dake-ga-otona-ni-nattan-ja-nai"
+song-id = "juice-juice/karada-dake-ga-otona-ni-nattan-ja-nai"
 duration = "4:17"
 
 [[tracks]]
 position = 3
-song_id = "juice-juice/next-is-you-instrumental"
+song-id = "juice-juice/next-is-you-instrumental"
 duration = "4:30"
 
 [[tracks]]
 position = 4
-song_id = "juice-juice/karada-dake-ga-otona-ni-nattan-ja-nai-instrumental"
+song-id = "juice-juice/karada-dake-ga-otona-ni-nattan-ja-nai-instrumental"
 duration = "4:18"

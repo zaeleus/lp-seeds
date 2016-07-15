@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "baek-a-yeon/so-so/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "baek-a-yeon/so-so"
+song-id = "baek-a-yeon/so-so"
 duration = "3:32"
 
 [[tracks]]
 position = 2
-song_id = "baek-a-yeon/hal-mal"
+song-id = "baek-a-yeon/hal-mal"
 duration = "3:11"

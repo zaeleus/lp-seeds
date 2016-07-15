@@ -1,15 +1,15 @@
-medium_ids = [
+medium-ids = [
   "after-school/shh/cd-dvd/dvd2",
 ]
 
 [[tracks]]
 position = 1
-song_id = "after-school/shh"
+song-id = "after-school/shh"
 names = [
   { name = "Shh (MUSIC VIDEO)", locale = "ja", original = true, default = true },
 ]
-[[tracks.artist_credits]]
-artist_id = "after-school"
+[[tracks.artist-credits]]
+artist-id = "after-school"
 names = [
   { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
 ]
@@ -19,8 +19,8 @@ position = 2
 names = [
   { name = "Shh MUSIC VIDEO Making Movie", locale = "ja", original = true, default = true },
 ]
-[[tracks.artist_credits]]
-artist_id = "after-school"
+[[tracks.artist-credits]]
+artist-id = "after-school"
 names = [
   { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
 ]

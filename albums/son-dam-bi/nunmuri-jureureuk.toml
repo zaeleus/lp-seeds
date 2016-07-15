@@ -1,4 +1,4 @@
-artist_id = "son-dam-bi"
+artist-id = "son-dam-bi"
 kind = "ep"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2012-11-12"
+released-on = "2012-11-12"
 country = "KR"
-catalog_number = "WMCD-0144"
+catalog-number = "WMCD-0144"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=030800005" },

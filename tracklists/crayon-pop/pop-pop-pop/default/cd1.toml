@@ -1,44 +1,44 @@
-medium_ids = [
+medium-ids = [
   'crayon-pop/pop-pop-pop/default/cd1',
 ]
 
 [[tracks]]
 position = 1
-song_id = "crayon-pop/bbyong-song"
+song-id = "crayon-pop/bbyong-song"
 
 [[tracks]]
 position = 2
-song_id = "crayon-pop/saturday-night"
+song-id = "crayon-pop/saturday-night"
 
 [[tracks]]
 position = 3
-song_id = "crayon-pop/bing-bing"
+song-id = "crayon-pop/bing-bing"
 names = [
   { name = "BING BING", locale = "ja", original = true, default = true },
 ]
 
 [[tracks]]
 position = 4
-song_id = "crayon-pop/dancing-queen"
+song-id = "crayon-pop/dancing-queen"
 
 [[tracks]]
 position = 5
-song_id = "crayon-pop/bar-bar-bar"
+song-id = "crayon-pop/bar-bar-bar"
 names = [
   { name = "BAR BAR BAR", locale = "ja", original = true, default = true },
 ]
 
 [[tracks]]
 position = 6
-song_id = "crayon-pop/bar-bar-bar-edm-ver"
+song-id = "crayon-pop/bar-bar-bar-edm-ver"
 
 [[tracks]]
 position = 7
-song_id = "crayon-pop/uh-ee"
+song-id = "crayon-pop/uh-ee"
 names = [
   { name = "Uh-ee", locale = "ja", original = true, default = true },
 ]
 
 [[tracks]]
 position = 8
-song_id = "crayon-pop/uh-ee-edm-ver"
+song-id = "crayon-pop/uh-ee-edm-ver"

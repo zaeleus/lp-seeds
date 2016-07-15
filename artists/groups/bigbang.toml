@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2006"
+started-on = "2006"
 country = "KR"
 
 names = [
@@ -8,16 +8,16 @@ names = [
 ]
 
 labels = [
-  { label_id = "yg-entertainment" },
-  { label_id = "ygex" },
+  { label-id = "yg-entertainment" },
+  { label-id = "ygex" },
 ]
 
 members = [
-  { artist_id = "bigbang/g-dragon" },
-  { artist_id = "bigbang/taeyang" },
-  { artist_id = "bigbang/t-o-p" },
-  { artist_id = "bigbang/daesung" },
-  { artist_id = "bigbang/seungri" },
+  { artist-id = "bigbang/g-dragon" },
+  { artist-id = "bigbang/taeyang" },
+  { artist-id = "bigbang/t-o-p" },
+  { artist-id = "bigbang/daesung" },
+  { artist-id = "bigbang/seungri" },
 ]
 
 urls = [

@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-12-10"
+started-on = "1991-12-10"
 country = "KR"
 
 names = [
@@ -8,7 +8,7 @@ names = [
   { name = "Ahn Hyo Jin", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "yedang-entertainment" }]
+labels = [{ label-id = "yedang-entertainment" }]
 
 [metadata]
 height = 168

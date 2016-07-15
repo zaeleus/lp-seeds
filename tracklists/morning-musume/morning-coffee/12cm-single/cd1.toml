@@ -1,19 +1,19 @@
-medium_ids = [
+medium-ids = [
   "morning-musume/morning-coffee/12cm-single/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "morning-musume/morning-coffee"
+song-id = "morning-musume/morning-coffee"
 
 [[tracks]]
 position = 2
-song_id = "morning-musume/ai-no-tane"
+song-id = "morning-musume/ai-no-tane"
 
 [[tracks]]
 position = 3
-song_id = "morning-musume/morning-coffee-instrumental"
+song-id = "morning-musume/morning-coffee-instrumental"
 
 [[tracks]]
 position = 4
-song_id = "morning-musume/morning-coffee-unreleased-b-version"
+song-id = "morning-musume/morning-coffee-unreleased-b-version"

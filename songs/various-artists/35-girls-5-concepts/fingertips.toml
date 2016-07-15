@@ -2,8 +2,8 @@ names = [
   { name = "Fingertips", locale = "ko", original = true, default = true },
 ]
 
-artist_credits = [
-  { artist_id = "pinkrush" }
+artist-credits = [
+  { artist-id = "pinkrush" }
 ]
 
 urls = [

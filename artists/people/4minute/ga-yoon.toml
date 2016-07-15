@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1990-05-18"
+started-on = "1990-05-18"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Heo Ga Yoon", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "cube-entertainment" }]
+labels = [{ label-id = "cube-entertainment" }]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 weight = 47
 height = 165

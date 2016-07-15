@@ -1,43 +1,43 @@
-medium_ids = [
+medium-ids = [
   "apink/pink-luv/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "apink/luv"
+song-id = "apink/luv"
 duration = "3:58"
 
 [[tracks]]
 position = 2
-song_id = "apink/wanna-be"
+song-id = "apink/wanna-be"
 duration = "3:40"
 
 [[tracks]]
 position = 3
-song_id = "apink/secret"
+song-id = "apink/secret"
 duration = "3:57"
 
 [[tracks]]
 position = 4
-song_id = "apink/cheonsaga-anya"
+song-id = "apink/cheonsaga-anya"
 duration = "3:26"
 
 [[tracks]]
 position = 5
-song_id = "apink/donghwa-gateun-sarang"
+song-id = "apink/donghwa-gateun-sarang"
 duration = "3:52"
 
 [[tracks]]
 position = 6
-song_id = "apink/luv-inst"
+song-id = "apink/luv-inst"
 duration = "3:58"
 
 [[tracks]]
 position = 7
-song_id = "apink/good-morning-baby"
+song-id = "apink/good-morning-baby"
 duration = "3:40"
 
 [[tracks]]
 position = 8
-song_id = "apink/my-darling"
+song-id = "apink/my-darling"
 duration = "3:05"

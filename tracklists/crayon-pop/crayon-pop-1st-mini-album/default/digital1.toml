@@ -1,28 +1,28 @@
-medium_ids = [
+medium-ids = [
   'crayon-pop/crayon-pop-1st-mini-album/default/digital1',
 ]
 
 [[tracks]]
 position = 1
-song_id = "crayon-pop/bing-bing"
+song-id = "crayon-pop/bing-bing"
 duration = "3:06"
 
 [[tracks]]
 position = 2
-song_id = "crayon-pop/saturday-night"
+song-id = "crayon-pop/saturday-night"
 duration = "3:07"
 
 [[tracks]]
 position = 3
-song_id = "crayon-pop/bing-bing-inst"
+song-id = "crayon-pop/bing-bing-inst"
 duration = "3:07"
 
 [[tracks]]
 position = 4
-song_id = "crayon-pop/saturday-night-inst"
+song-id = "crayon-pop/saturday-night-inst"
 duration = "3:07"
 
 [[tracks]]
 position = 5
-song_id = "crayon-pop/saturday-night-dubstep-mix"
+song-id = "crayon-pop/saturday-night-dubstep-mix"
 duration = "3:39"

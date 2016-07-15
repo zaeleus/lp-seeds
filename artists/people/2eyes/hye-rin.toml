@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1993-07-23"
+started-on = "1993-07-23"
 country = "KR"
 
 names = [
@@ -9,12 +9,12 @@ names = [
   { name = "Kim Hye Rin", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "sidushq" }]
+labels = [{ label-id = "sidushq" }]
 
 urls = [
   { url = "https://instagram.com/hyelyn0723/" },
 ]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 height = 170

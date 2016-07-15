@@ -4,6 +4,6 @@ names = [
   { name = "On the Edge (Prod. by YDG / Feat. Microdot, YDG)", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "kittib" },
+artist-credits = [
+  { artist-id = "kittib" },
 ]

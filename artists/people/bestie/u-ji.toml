@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-01-02"
+started-on = "1991-01-02"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Jung Yoo Ji", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "ynb-entertainment" }]
+labels = [{ label-id = "ynb-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/bestie_UJI" },

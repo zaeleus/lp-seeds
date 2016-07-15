@@ -1,14 +1,14 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/your-song-seishun-sensei/single-v/dvd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/your-song-seishun-sensei"
+song-id = "matsuura-aya/your-song-seishun-sensei"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/your-song-seishun-sensei"
+song-id = "matsuura-aya/your-song-seishun-sensei"
 names = [
   { name = "YOUR SONG〜青春宣誓〜 (Close-up Ver.)", locale = "ja", original = true },
   { name = "YOUR SONG ~Seishun Sensei~ (Close-up Ver.)", locale = "ja-Latn", default = true },

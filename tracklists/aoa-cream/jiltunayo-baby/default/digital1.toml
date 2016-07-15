@@ -1,8 +1,8 @@
-medium_ids = [
+medium-ids = [
   "aoa-cream/jiltunayo-baby/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "aoa-cream/jiltunayo-baby"
+song-id = "aoa-cream/jiltunayo-baby"
 duration = "3:45"

@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1996-11-09"
+started-on = "1996-11-09"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Hirai Momo", locale = "ja-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "jyp-entertainment" }]
+labels = [{ label-id = "jyp-entertainment" }]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 weight = 48
 height = 170

@@ -1,4 +1,4 @@
-artist_id = "kara"
+artist-id = "kara"
 kind = "ep"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-05-27"
+released-on = "2015-05-27"
 country = "KR"
-catalog_number = "L100005044"
+catalog-number = "L100005044"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001208952" },

@@ -1,10 +1,10 @@
-medium_ids = [
+medium-ids = [
   "perfume/level3/limited-edition/dvd2",
 ]
 
 [[tracks]]
 position = 1
-song_id = "perfume/1mm"
+song-id = "perfume/1mm"
 names = [
   { name = "1mm -Video Clip-", locale = "ja", original = true, default = true },
 ]

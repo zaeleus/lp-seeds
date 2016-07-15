@@ -1,4 +1,4 @@
-started_on = "2006"
+started-on = "2006"
 
 names = [
   { name = "에프엔씨 엔터테인먼트", locale = "ko", original = true },

@@ -3,6 +3,6 @@ names = [
   { name = "Ruedy Boogie (Feat. Tiffany of Girls' Generation)", locale = "ko-Latn", default = true },
 ]
 
-artist_credits = [
-  { artist_id = "truedy" },
+artist-credits = [
+  { artist-id = "truedy" },
 ]

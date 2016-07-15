@@ -1,4 +1,4 @@
-artist_id = "twice"
+artist-id = "twice"
 kind = "ep"
 
 names = [
@@ -10,7 +10,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-25"
+released-on = "2016-04-25"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -19,9 +19,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-25"
+released-on = "2016-04-25"
 country = "KR"
-catalog_number = "JYPK-0652"
+catalog-number = "JYPK-0652"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=045401032" },

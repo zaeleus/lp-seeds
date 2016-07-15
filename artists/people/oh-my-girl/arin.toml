@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1999-06-18"
+started-on = "1999-06-18"
 country = "KR"
 
 names = [
@@ -7,7 +7,7 @@ names = [
   { name = "Arin", locale = "ko-Latn", kind = "stage", default = true },
 ]
 
-labels = [{ label_id = "wm-entertainment" }]
+labels = [{ label-id = "wm-entertainment" }]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"

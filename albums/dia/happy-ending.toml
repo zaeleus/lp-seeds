@@ -1,4 +1,4 @@
-artist_id = "dia"
+artist-id = "dia"
 kind = "ep"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-06-14"
+released-on = "2016-06-14"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -16,9 +16,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-14"
+released-on = "2016-06-14"
 country = "KR"
-catalog_number = "INT-0059"
+catalog-number = "INT-0059"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/nAlbum_info2.asp?mcode=007400147" },

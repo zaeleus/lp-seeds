@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2008"
+started-on = "2008"
 country = "KR"
 
 names = [
@@ -8,10 +8,10 @@ names = [
 ]
 
 members = [
-  { artist_id = "brown-eyed-girls/jea" },
-  { artist_id = "brown-eyed-girls/miryo" },
-  { artist_id = "brown-eyed-girls/narsha" },
-  { artist_id = "brown-eyed-girls/gain" },
+  { artist-id = "brown-eyed-girls/jea" },
+  { artist-id = "brown-eyed-girls/miryo" },
+  { artist-id = "brown-eyed-girls/narsha" },
+  { artist-id = "brown-eyed-girls/gain" },
 ]
 
 urls = [

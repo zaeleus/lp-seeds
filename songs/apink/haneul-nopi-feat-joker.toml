@@ -6,20 +6,20 @@ names = [
 
 [[contributions]]
 kind = "performer"
-[[contributions.artist_credits]]
-artist_id = "beast/yong-jun-hyung"
+[[contributions.artist-credits]]
+artist-id = "beast/yong-jun-hyung"
 names = [
   { name = "Joker", locale = "ko", original = true, default = true },
 ]
 
 [[contributions]]
-artist_id = "super-changddai"
+artist-id = "super-changddai"
 kind = "lyricist"
 
 [[contributions]]
-artist_id = "super-changddai"
+artist-id = "super-changddai"
 kind = "composer"
 
 [[contributions]]
-artist_id = "super-changddai"
+artist-id = "super-changddai"
 kind = "arranger"

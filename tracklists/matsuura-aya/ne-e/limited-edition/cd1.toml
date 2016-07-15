@@ -1,19 +1,19 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/ne-e/limited-edition/cd1",
   "matsuura-aya/ne-e/regular-edition/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/ne-e"
+song-id = "matsuura-aya/ne-e"
 duration = "3:31"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/onna-no-yuujou-mondai"
+song-id = "matsuura-aya/onna-no-yuujou-mondai"
 duration = "3:51"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/ne-e-instrumental"
+song-id = "matsuura-aya/ne-e-instrumental"
 duration = "3:28"

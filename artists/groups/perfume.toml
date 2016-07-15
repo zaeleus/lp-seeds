@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2000"
+started-on = "2000"
 country = "JP"
 
 names = [
@@ -9,10 +9,10 @@ names = [
 ]
 
 members = [
-  { artist_id = "perfume/nocchi", joined_on = "2001" },
-  { artist_id = "perfume/kashiyuka" },
-  { artist_id = "perfume/a-chan" },
-  { artist_id = "perfume/kawayuka", ended_on = "2001" },
+  { artist-id = "perfume/nocchi", joined_on = "2001" },
+  { artist-id = "perfume/kashiyuka" },
+  { artist-id = "perfume/a-chan" },
+  { artist-id = "perfume/kawayuka", ended-on = "2001" },
 ]
 
 urls = [

@@ -1,19 +1,19 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/good-bye-natsuo/limited-edition/cd1",
   "matsuura-aya/good-bye-natsuo/regular-edition/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/good-bye-natsuo"
+song-id = "matsuura-aya/good-bye-natsuo"
 duration = "4:20"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/watakushi-no-yotei"
+song-id = "matsuura-aya/watakushi-no-yotei"
 duration = "3:37"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/good-bye-natsuo-instrumental"
+song-id = "matsuura-aya/good-bye-natsuo-instrumental"
 duration = "4:17"

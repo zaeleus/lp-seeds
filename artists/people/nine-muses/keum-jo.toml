@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1992-12-17"
+started-on = "1992-12-17"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Lee Keum Jo", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "star-empire-entertainment" }]
+labels = [{ label-id = "star-empire-entertainment" }]
 
 urls = [
   { url = "https://www.instagram.com/keumjo_1217/" },
@@ -17,6 +17,6 @@ urls = [
 ]
 
 [metadata]
-blood_type = "AB"
+blood-type = "AB"
 height = 167
 weight = 48

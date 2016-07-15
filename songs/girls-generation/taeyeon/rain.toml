@@ -7,13 +7,13 @@ urls = [
 ]
 
 contributions = [
-  { artist_id = "girls-generation/taeyeon", kind = "performer" },
-  { artist_id = "bong-eun-young", kind = "lyricist" },
-  { artist_id = "mafly", kind = "lyricist" },
-  { artist_id = "lee-yoo-jin", kind = "lyricist" },
-  { artist_id = "matthew-tishler", kind = "composer" },
-  { artist_id = "aaron-benward", kind = "composer" },
-  { artist_id = "felicia-barton", kind = "composer" },
-  { artist_id = "olivia-holt", kind = "composer" },
-  { artist_id = "matthew-tishler", kind = "arranger" },
+  { artist-id = "girls-generation/taeyeon", kind = "performer" },
+  { artist-id = "bong-eun-young", kind = "lyricist" },
+  { artist-id = "mafly", kind = "lyricist" },
+  { artist-id = "lee-yoo-jin", kind = "lyricist" },
+  { artist-id = "matthew-tishler", kind = "composer" },
+  { artist-id = "aaron-benward", kind = "composer" },
+  { artist-id = "felicia-barton", kind = "composer" },
+  { artist-id = "olivia-holt", kind = "composer" },
+  { artist-id = "matthew-tishler", kind = "arranger" },
 ]

@@ -1,38 +1,38 @@
-medium_ids = [
+medium-ids = [
   "i-o-i/chrysalis/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "i-o-i/i-o-i-intro"
+song-id = "i-o-i/i-o-i-intro"
 duration = "0:44"
 
 [[tracks]]
 position = 2
-song_id = "i-o-i/dream-girls"
+song-id = "i-o-i/dream-girls"
 duration = "3:38"
 
 [[tracks]]
 position = 3
-song_id = "i-o-i/ttok-ttok-ttok"
+song-id = "i-o-i/ttok-ttok-ttok"
 duration = "3:50"
 
 [[tracks]]
 position = 4
-song_id = "i-o-i/doo-wap"
+song-id = "i-o-i/doo-wap"
 duration = "3:21"
 
 [[tracks]]
 position = 5
-song_id = "i-o-i/crush"
+song-id = "i-o-i/crush"
 duration = "3:32"
 
 [[tracks]]
 position = 6
-song_id = "i-o-i/beojkkocci-jimyeon"
+song-id = "i-o-i/beojkkocci-jimyeon"
 duration = "3:23"
 
 [[tracks]]
 position = 7
-song_id = "i-o-i/pick-me"
+song-id = "i-o-i/pick-me"
 duration = "3:46"

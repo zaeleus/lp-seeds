@@ -1,33 +1,33 @@
-medium_ids = [
+medium-ids = [
   'crayon-pop/fm/default/cd1',
 ]
 
 [[tracks]]
 position = 1
-song_id = "crayon-pop/fm"
+song-id = "crayon-pop/fm"
 duration = "3:41"
 
 [[tracks]]
 position = 2
-song_id = "crayon-pop/hapataka"
+song-id = "crayon-pop/hapataka"
 duration = "3:08"
 
 [[tracks]]
 position = 3
-song_id = "crayon-pop/1-2-3-4"
+song-id = "crayon-pop/1-2-3-4"
 duration = "3:06"
 
 [[tracks]]
 position = 4
-song_id = "crayon-pop/fm-inst"
+song-id = "crayon-pop/fm-inst"
 duration = "3:41"
 
 [[tracks]]
 position = 5
-song_id = "crayon-pop/hapataka-inst"
+song-id = "crayon-pop/hapataka-inst"
 duration = "3:08"
 
 [[tracks]]
 position = 6
-song_id = "crayon-pop/1-2-3-4-inst"
+song-id = "crayon-pop/1-2-3-4-inst"
 duration = "3:06"

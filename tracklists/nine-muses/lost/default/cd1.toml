@@ -1,34 +1,34 @@
-medium_ids = [
+medium-ids = [
   "nine-muses/lost/default/cd1",
   "nine-muses/lost/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "nine-muses/a-m-3-00"
+song-id = "nine-muses/a-m-3-00"
 duration = "1:13"
 
 [[tracks]]
 position = 2
-song_id = "nine-muses/jameun-anogo-baeneun-gopeugo"
+song-id = "nine-muses/jameun-anogo-baeneun-gopeugo"
 duration = "3:25"
 
 [[tracks]]
 position = 3
-song_id = "nine-muses/mollae-secret"
+song-id = "nine-muses/mollae-secret"
 duration = "3:29"
 
 [[tracks]]
 position = 4
-song_id = "nine-muses/koong-chit-dak-chit"
+song-id = "nine-muses/koong-chit-dak-chit"
 duration = "3:10"
 
 [[tracks]]
 position = 5
-song_id = "nine-muses/to-mine"
+song-id = "nine-muses/to-mine"
 duration = "3:17"
 
 [[tracks]]
 position = 6
-song_id = "nine-muses/jameun-anogo-baeneun-gopeugo-inst"
+song-id = "nine-muses/jameun-anogo-baeneun-gopeugo-inst"
 duration = "3:25"

@@ -1,4 +1,4 @@
-artist_id = "apink"
+artist-id = "apink"
 kind = "single"
 
 names = [
@@ -6,9 +6,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-03-23"
+released-on = "2016-03-23"
 country = "JP"
-catalog_number = "UPCH-89259"
+catalog-number = "UPCH-89259"
 disambiguation = "Limited Edition A"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -16,9 +16,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-23"
+released-on = "2016-03-23"
 country = "JP"
-catalog_number = "UPCH-89260"
+catalog-number = "UPCH-89260"
 disambiguation = "Limited Edition B"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -26,9 +26,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-23"
+released-on = "2016-03-23"
 country = "JP"
-catalog_number = "UPCH-89262"
+catalog-number = "UPCH-89262"
 disambiguation = "Limited Edition C"
 media = [{ kind = "cd" }]
 urls = [
@@ -36,9 +36,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-23"
+released-on = "2016-03-23"
 country = "JP"
-catalog_number = "UPCH-80422"
+catalog-number = "UPCH-80422"
 disambiguation = "Regular Edition"
 media = [{ kind = "cd" }]
 urls = [

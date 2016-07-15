@@ -1,12 +1,12 @@
-artist_id = "apink/eun-ji"
+artist-id = "apink/eun-ji"
 kind = "ep"
 
 names = [
   { name = "Dream", locale = "ko", original = true, default = true },
 ]
 
-[[artist_credits]]
-artist_id = "apink/eun-ji"
+[[artist-credits]]
+artist-id = "apink/eun-ji"
 names = [
   { name = "정은지", locale = "ko", original = true },
   { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
@@ -17,7 +17,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-18"
+released-on = "2016-04-18"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -28,9 +28,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-04-18"
+released-on = "2016-04-18"
 country = "KR"
-catalog_number = "L200001235"
+catalog-number = "L200001235"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=030700097" },

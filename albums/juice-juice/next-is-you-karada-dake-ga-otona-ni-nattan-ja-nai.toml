@@ -1,4 +1,4 @@
-artist_id = "juice-juice"
+artist-id = "juice-juice"
 kind = "single"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-02-03"
+released-on = "2016-02-03"
 country = "JP"
-catalog_number = "HKCN-50471"
+catalog-number = "HKCN-50471"
 disambiguation = "Limited Edition A"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -19,9 +19,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-02-03"
+released-on = "2016-02-03"
 country = "JP"
-catalog_number = "HKCN-50473"
+catalog-number = "HKCN-50473"
 disambiguation = "Limited Edition B"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -30,9 +30,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-02-03"
+released-on = "2016-02-03"
 country = "JP"
-catalog_number = "HKCN-50475"
+catalog-number = "HKCN-50475"
 disambiguation = "Limited Edition C"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -41,9 +41,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-02-03"
+released-on = "2016-02-03"
 country = "JP"
-catalog_number = "HKCN-50477"
+catalog-number = "HKCN-50477"
 disambiguation = "Limited Edition D"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 urls = [
@@ -52,9 +52,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-02-03"
+released-on = "2016-02-03"
 country = "JP"
-catalog_number = "HKCN-50479"
+catalog-number = "HKCN-50479"
 disambiguation = "Regular Edition A"
 media = [{ kind = "cd" }]
 urls = [
@@ -63,9 +63,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-02-03"
+released-on = "2016-02-03"
 country = "JP"
-catalog_number = "HKCN-50480"
+catalog-number = "HKCN-50480"
 disambiguation = "Regular Edition B"
 media = [{ kind = "cd" }]
 urls = [

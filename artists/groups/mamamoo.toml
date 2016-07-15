@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2014-06-18"
+started-on = "2014-06-18"
 country = "KR"
 
 names = [
@@ -8,8 +8,8 @@ names = [
 ]
 
 members = [
-  { artist_id = "mamamoo/solar" },
-  { artist_id = "mamamoo/moonbyul" },
-  { artist_id = "mamamoo/wheein" },
-  { artist_id = "mamamoo/hwasa" },
+  { artist-id = "mamamoo/solar" },
+  { artist-id = "mamamoo/moonbyul" },
+  { artist-id = "mamamoo/wheein" },
+  { artist-id = "mamamoo/hwasa" },
 ]

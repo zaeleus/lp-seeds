@@ -2,8 +2,8 @@ names = [
   { name = "HOT ISSUE (Instrumental)", locale = "ja", original = true, default = true },
 ]
 
-[[artist_credits]]
-artist_id = "4minute"
+[[artist-credits]]
+artist-id = "4minute"
 names = [
   { name = "4Minute", locale = "ja", original = true, default = true },
 ]

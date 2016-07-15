@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1991-01-08"
+started-on = "1991-01-08"
 country = "KR"
 
 names = [
@@ -11,13 +11,13 @@ names = [
   { name = "Shēng Zhī Mǐn", locale = "zh-Latn" },
 ]
 
-labels = [{ label_id = "fnc-entertainment" }]
+labels = [{ label-id = "fnc-entertainment" }]
 
 urls = [
   { url = "https://instagram.com/jiminbaby_18/" },
 ]
 
 [metadata]
-blood_type = "AB"
+blood-type = "AB"
 weight = 43
 height = 160

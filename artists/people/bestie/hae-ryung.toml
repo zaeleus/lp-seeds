@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1994-11-11"
+started-on = "1994-11-11"
 country = "KR"
 
 names = [
@@ -9,7 +9,7 @@ names = [
   { name = "Na Hae Ryung", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "ynb-entertainment" }]
+labels = [{ label-id = "ynb-entertainment" }]
 
 urls = [
   { url = "https://twitter.com/bestie_hr" },

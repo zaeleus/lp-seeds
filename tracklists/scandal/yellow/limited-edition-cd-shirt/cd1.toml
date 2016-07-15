@@ -1,4 +1,4 @@
-medium_ids = [
+medium-ids = [
   "scandal/yellow/limited-edition-cd-t-shirt/cd1",
   "scandal/yellow/limited-edition-cd-dvd/cd1",
   "scandal/yellow/regular-edition/cd1",
@@ -6,52 +6,52 @@ medium_ids = [
 
 [[tracks]]
 position = 1
-song_id = "scandal/room-no-7"
+song-id = "scandal/room-no-7"
 
 [[tracks]]
 position = 2
-song_id = "scandal/stamp"
+song-id = "scandal/stamp"
 
 [[tracks]]
 position = 3
-song_id = "scandal/love-me-do"
+song-id = "scandal/love-me-do"
 
 [[tracks]]
 position = 4
-song_id = "scandal/morning-sun"
+song-id = "scandal/morning-sun"
 
 [[tracks]]
 position = 5
-song_id = "scandal/sunday-drive"
+song-id = "scandal/sunday-drive"
 
 [[tracks]]
 position = 6
-song_id = "scandal/konya-wa-pizza-party"
+song-id = "scandal/konya-wa-pizza-party"
 
 [[tracks]]
 position = 7
-song_id = "scandal/heaven-na-kibun"
+song-id = "scandal/heaven-na-kibun"
 
 [[tracks]]
 position = 8
-song_id = "scandal/suki-suki"
+song-id = "scandal/suki-suki"
 
 [[tracks]]
 position = 9
-song_id = "scandal/love"
+song-id = "scandal/love"
 
 [[tracks]]
 position = 10
-song_id = "scandal/sisters"
+song-id = "scandal/sisters"
 
 [[tracks]]
 position = 11
-song_id = "scandal/happy-birthday"
+song-id = "scandal/happy-birthday"
 
 [[tracks]]
 position = 12
-song_id = "scandal/chiisana-honou"
+song-id = "scandal/chiisana-honou"
 
 [[tracks]]
 position = 13
-song_id = "scandal/your-song-english-ver"
+song-id = "scandal/your-song-english-ver"

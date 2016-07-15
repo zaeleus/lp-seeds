@@ -1,4 +1,4 @@
-artist_id = "boa"
+artist-id = "boa"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2015-12-22"
+released-on = "2015-12-22"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

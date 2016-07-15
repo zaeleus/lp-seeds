@@ -2,8 +2,8 @@ names = [
   { name = "Love Love Love (Inst.)", locale = "ko", original = true, default = true },
 ]
 
-[[artist_credits]]
-artist_id = "after-school"
+[[artist-credits]]
+artist-id = "after-school"
 names = [
   { name = "해피 플레디스", locale = "ko", original = true },
   { name = "Happy PLEDIS", locale = "ko-Latn", default = true },

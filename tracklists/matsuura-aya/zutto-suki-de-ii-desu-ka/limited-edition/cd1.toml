@@ -1,19 +1,19 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/zutto-suki-de-ii-desu-ka/limited-edition/cd1",
   "matsuura-aya/zutto-suki-de-ii-desu-ka/regular-edition/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/zutto-suki-de-ii-desu-ka"
+song-id = "matsuura-aya/zutto-suki-de-ii-desu-ka"
 duration = "4:08"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/yume"
+song-id = "matsuura-aya/yume"
 duration = "4:44"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/zutto-suki-de-ii-desu-ka-instrumental"
+song-id = "matsuura-aya/zutto-suki-de-ii-desu-ka-instrumental"
 duration = "4:03"

@@ -4,7 +4,7 @@ names = [
   { name = "La Ta Ta in the Universe", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "matsuura-aya", separator = " with " },
-  { artist_id = "taiyou-to-ciscomoon/inaba-atsuko" },
+artist-credits = [
+  { artist-id = "matsuura-aya", separator = " with " },
+  { artist-id = "taiyou-to-ciscomoon/inaba-atsuko" },
 ]

@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2013"
+started-on = "2013"
 country = "KR"
 
 names = [
@@ -8,6 +8,6 @@ names = [
 ]
 
 members = [
-  { artist_id = "exid/hani" },
-  { artist_id = "exid/solji" },
+  { artist-id = "exid/hani" },
+  { artist-id = "exid/solji" },
 ]

@@ -1,8 +1,8 @@
-medium_ids = [
+medium-ids = [
   "park-bo-ram/dynamic-love/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "park-bo-ram/dynamic-love"
+song-id = "park-bo-ram/dynamic-love"
 duration = "3:10"

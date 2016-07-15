@@ -4,6 +4,6 @@ names = [
   { name = "Don't Make Money (Feat. Chan Yeol of EXO)", locale = "en" },
 ]
 
-artist_credits = [
-  { artist_id = "heize" },
+artist-credits = [
+  { artist-id = "heize" },
 ]

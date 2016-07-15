@@ -1,13 +1,13 @@
-medium_ids = [
+medium-ids = [
   "brown-eyed-girls/jea/nappeun-yeoja/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "brown-eyed-girls/jea/nappeun-yeoja-feat-jung-yup"
+song-id = "brown-eyed-girls/jea/nappeun-yeoja-feat-jung-yup"
 duration = "4:08"
 
 [[tracks]]
 position = 2
-song_id = "brown-eyed-girls/jea/nunmulseom"
+song-id = "brown-eyed-girls/jea/nunmulseom"
 duration = "3:29"

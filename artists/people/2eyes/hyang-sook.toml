@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1992-04-24"
+started-on = "1992-04-24"
 country = "KR"
 
 names = [
@@ -9,12 +9,12 @@ names = [
   { name = "Lee Hyang Sook", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "sidushq" }]
+labels = [{ label-id = "sidushq" }]
 
 urls = [
   { url = "https://instagram.com/baby_sook/" },
 ]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 height = 165

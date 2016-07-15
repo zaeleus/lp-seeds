@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2013"
+started-on = "2013"
 country = "KR"
 
 names = [
@@ -7,14 +7,14 @@ names = [
   { name = "2EYES", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "sidushq" }]
+labels = [{ label-id = "sidushq" }]
 
 members = [
-  { artist_id = "2eyes/hyang-sook" },
-  { artist_id = "2eyes/yeon-jun" },
-  { artist_id = "2eyes/da-eun" },
-  { artist_id = "2eyes/hye-rin" },
-  { artist_id = "2eyes/da-som" },
+  { artist-id = "2eyes/hyang-sook" },
+  { artist-id = "2eyes/yeon-jun" },
+  { artist-id = "2eyes/da-eun" },
+  { artist-id = "2eyes/hye-rin" },
+  { artist-id = "2eyes/da-som" },
 ]
 
 urls = [

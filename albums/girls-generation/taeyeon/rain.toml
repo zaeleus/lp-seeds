@@ -1,4 +1,4 @@
-artist_id = "girls-generation/taeyeon"
+artist-id = "girls-generation/taeyeon"
 kind = "single"
 
 names = [
@@ -6,6 +6,6 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-02-03"
+released-on = "2016-02-03"
 country = "KR"
 media = [{ kind = "digital" }]

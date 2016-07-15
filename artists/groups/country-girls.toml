@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2014-11-04"
+started-on = "2014-11-04"
 country = "JP"
 
 names = [
@@ -8,14 +8,14 @@ names = [
 ]
 
 members = [
-  { artist_id = "berryz-koubou/tsugunaga-momoko", started_on = "2014-11-04" },
-  { artist_id = "country-girls/yamaki-risa", started_on = "2014-11-04" },
-  { artist_id = "country-girls/inaba-manaka", started_on = "2014-11-04" },
-  { artist_id = "country-girls/morito-chisaki", started_on = "2014-11-04" },
-  { artist_id = "country-girls/ozeki-mai", started_on = "2014-11-04" },
-  { artist_id = "country-girls/yanagawa-nanami", started_on = "2015-11-05" },
-  { artist_id = "country-girls/funaki-musubu", started_on = "2015-11-05" },
+  { artist-id = "berryz-koubou/tsugunaga-momoko", started-on = "2014-11-04" },
+  { artist-id = "country-girls/yamaki-risa", started-on = "2014-11-04" },
+  { artist-id = "country-girls/inaba-manaka", started-on = "2014-11-04" },
+  { artist-id = "country-girls/morito-chisaki", started-on = "2014-11-04" },
+  { artist-id = "country-girls/ozeki-mai", started-on = "2014-11-04" },
+  { artist-id = "country-girls/yanagawa-nanami", started-on = "2015-11-05" },
+  { artist-id = "country-girls/funaki-musubu", started-on = "2015-11-05" },
 
-  { artist_id = "country-girls/shimamura-uta", started_on = "2014-11-04", ended_on = "2015-06-12" }
+  { artist-id = "country-girls/shimamura-uta", started-on = "2014-11-04", ended-on = "2015-06-12" }
 ]
 

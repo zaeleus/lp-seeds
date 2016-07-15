@@ -1,4 +1,4 @@
-artist_id = "risso"
+artist-id = "risso"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-07-04"
+released-on = "2016-07-04"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

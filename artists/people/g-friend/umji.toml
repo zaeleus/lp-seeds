@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1998-08-19"
+started-on = "1998-08-19"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Kim Ye Won", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "source-music-entertainment" }]
+labels = [{ label-id = "source-music-entertainment" }]
 
 [metadata]
 height = 163
 weight = 45
-blood_type = "O"
+blood-type = "O"

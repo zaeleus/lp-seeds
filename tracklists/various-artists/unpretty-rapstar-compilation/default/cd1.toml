@@ -1,63 +1,63 @@
-medium_ids = [
+medium-ids = [
   "various-artists/unpretty-rapstar-compilation/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "various-artists/unpretty-rapstar-compilation/bamsaetji-prod-by-zico"
+song-id = "various-artists/unpretty-rapstar-compilation/bamsaetji-prod-by-zico"
 duration = "3:45"
 
 [[tracks]]
 position = 2
-song_id = "various-artists/unpretty-rapstar-compilation/sijagi-joha-2015-prod-by-verbal-jint"
+song-id = "various-artists/unpretty-rapstar-compilation/sijagi-joha-2015-prod-by-verbal-jint"
 duration = "3:25"
 
 [[tracks]]
 position = 3
-song_id = "various-artists/unpretty-rapstar-compilation/my-type-prod-by-verbal-jint"
+song-id = "various-artists/unpretty-rapstar-compilation/my-type-prod-by-verbal-jint"
 duration = "2:59"
 
 [[tracks]]
 position = 4
-song_id = "various-artists/unpretty-rapstar-compilation/t4sa-prod-by-mc-meta"
+song-id = "various-artists/unpretty-rapstar-compilation/t4sa-prod-by-mc-meta"
 duration = "3:15"
 
 [[tracks]]
 position = 5
-song_id = "various-artists/unpretty-rapstar-compilation/superstar-prod-by-d-o"
+song-id = "various-artists/unpretty-rapstar-compilation/superstar-prod-by-d-o"
 duration = "3:39"
 
 [[tracks]]
 position = 6
-song_id = "various-artists/unpretty-rapstar-compilation/amudo-moreuge-prod-by-mc-mong"
+song-id = "various-artists/unpretty-rapstar-compilation/amudo-moreuge-prod-by-mc-mong"
 duration = "3:37"
 
 [[tracks]]
 position = 7
-song_id = "various-artists/unpretty-rapstar-compilation/coma-07-prod-by-dj-juice-d-theo"
+song-id = "various-artists/unpretty-rapstar-compilation/coma-07-prod-by-dj-juice-d-theo"
 duration = "3:27"
 
 [[tracks]]
 position = 8
-song_id = "various-artists/unpretty-rapstar-compilation/puss-prod-by-rhymer-9999"
+song-id = "various-artists/unpretty-rapstar-compilation/puss-prod-by-rhymer-9999"
 duration = "3:02"
 
 [[tracks]]
 position = 9
-song_id = "various-artists/unpretty-rapstar-compilation/gwaenchanha-prod-by-soulime"
+song-id = "various-artists/unpretty-rapstar-compilation/gwaenchanha-prod-by-soulime"
 duration = "3:15"
 
 [[tracks]]
 position = 10
-song_id = "various-artists/unpretty-rapstar-compilation/unpretty-dreams-prod-by-gray"
+song-id = "various-artists/unpretty-rapstar-compilation/unpretty-dreams-prod-by-gray"
 duration = "3:18"
 
 [[tracks]]
 position = 11
-song_id = "various-artists/unpretty-rapstar-compilation/on-on-prod-by-the-quiett"
+song-id = "various-artists/unpretty-rapstar-compilation/on-on-prod-by-the-quiett"
 duration = "2:52"
 
 [[tracks]]
 position = 12
-song_id = "various-artists/unpretty-rapstar-compilation/to-mom-feat-insooni"
+song-id = "various-artists/unpretty-rapstar-compilation/to-mom-feat-insooni"
 duration = "3:01"

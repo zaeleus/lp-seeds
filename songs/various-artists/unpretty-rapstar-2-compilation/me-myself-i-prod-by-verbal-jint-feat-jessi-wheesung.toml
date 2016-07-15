@@ -3,6 +3,6 @@ names = [
   { name = "Me, Myself & I (Prod. by Verbal Jint / Feat. Jessi, Wheesung)", locale = "ko-Latn", default = true },
 ]
 
-artist_credits = [
-  { artist_id = "heize" },
+artist-credits = [
+  { artist-id = "heize" },
 ]

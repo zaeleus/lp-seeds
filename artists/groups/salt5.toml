@@ -1,6 +1,6 @@
 kind = "group"
-started_on = "2003"
-ended_on = "2003"
+started-on = "2003"
+ended-on = "2003"
 country = "JP"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 members = [
-  { artist_id = "morning-musume/abe-natsumi" },
-  { artist_id = "morning-musume/kago-ai" },
-  { artist_id = "morning-musume/ogawa-makoto" },
-  { artist_id = "maeda-yuki" },
-  { artist_id = "matsuura-aya" },
+  { artist-id = "morning-musume/abe-natsumi" },
+  { artist-id = "morning-musume/kago-ai" },
+  { artist-id = "morning-musume/ogawa-makoto" },
+  { artist-id = "maeda-yuki" },
+  { artist-id = "matsuura-aya" },
 ]

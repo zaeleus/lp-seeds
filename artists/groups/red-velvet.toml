@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2014"
+started-on = "2014"
 country = "KR"
 
 names = [
@@ -7,12 +7,12 @@ names = [
   { name = "Red Velvet", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "sm-entertainment" }]
+labels = [{ label-id = "sm-entertainment" }]
 
 members = [
-  { artist_id = "red-velvet/irene" },
-  { artist_id = "red-velvet/seul-gi" },
-  { artist_id = "red-velvet/wendy" },
-  { artist_id = "red-velvet/joy" },
-  { artist_id = "red-velvet/yeri", started_on = "2015-03-11" },
+  { artist-id = "red-velvet/irene" },
+  { artist-id = "red-velvet/seul-gi" },
+  { artist-id = "red-velvet/wendy" },
+  { artist-id = "red-velvet/joy" },
+  { artist-id = "red-velvet/yeri", started-on = "2015-03-11" },
 ]

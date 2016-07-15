@@ -1,39 +1,39 @@
-medium_ids = [
+medium-ids = [
   "sistar/moraae/default/cd1",
   "sistar/moraae/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "sistar/i-like-that"
+song-id = "sistar/i-like-that"
 duration = "3:41"
 
 [[tracks]]
 position = 2
-song_id = "sistar/kkeun"
+song-id = "sistar/kkeun"
 duration = "3:06"
 
 [[tracks]]
 position = 3
-song_id = "sistar/haebollae"
+song-id = "sistar/haebollae"
 duration = "3:08"
 
 [[tracks]]
 position = 4
-song_id = "sistar/yeah-yeah"
+song-id = "sistar/yeah-yeah"
 duration = "3:49"
 
 [[tracks]]
 position = 5
-song_id = "sistar/say-i-love-you"
+song-id = "sistar/say-i-love-you"
 duration = "3:09"
 
 [[tracks]]
 position = 6
-song_id = "sistar/ibul-deopgo-deureo"
+song-id = "sistar/ibul-deopgo-deureo"
 duration = "3:25"
 
 [[tracks]]
 position = 7
-song_id = "sistar/i-like-that-inst"
+song-id = "sistar/i-like-that-inst"
 duration = "3:41"

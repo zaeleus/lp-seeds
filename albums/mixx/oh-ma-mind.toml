@@ -1,4 +1,4 @@
-artist_id = "mixx"
+artist-id = "mixx"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-05-03"
+released-on = "2016-05-03"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

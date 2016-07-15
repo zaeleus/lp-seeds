@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2012"
+started-on = "2012"
 country = "KR"
 
 names = [
@@ -8,11 +8,11 @@ names = [
   { name = "Fifteen And", locale = "en" },
 ]
 
-labels = [{ label_id = "jyp-entertainment" }]
+labels = [{ label-id = "jyp-entertainment" }]
 
 members = [
-  { artist_id = "15and/jimin" },
-  { artist_id = "15and/yerin" },
+  { artist-id = "15and/jimin" },
+  { artist-id = "15and/yerin" },
 ]
 
 urls = [

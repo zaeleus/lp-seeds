@@ -1,18 +1,18 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/the-bigaku/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/the-bigaku"
+song-id = "matsuura-aya/the-bigaku"
 duration = "4:06"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/i-know"
+song-id = "matsuura-aya/i-know"
 duration = "4:42"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/the-bigaku-instrumental"
+song-id = "matsuura-aya/the-bigaku-instrumental"
 duration = "4:05"

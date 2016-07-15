@@ -1,28 +1,28 @@
-medium_ids = [
+medium-ids = [
   "fiestar/yezi/foresight-dream/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "fiestar/yezi/cider"
+song-id = "fiestar/yezi/cider"
 duration = "3:08"
 
 [[tracks]]
 position = 2
-song_id = "fiestar/yezi/dalnara"
+song-id = "fiestar/yezi/dalnara"
 duration = "3:03"
 
 [[tracks]]
 position = 3
-song_id = "fiestar/yezi/sse-sse-sse-feat-gilme-kittib-ahn-soo-min"
+song-id = "fiestar/yezi/sse-sse-sse-feat-gilme-kittib-ahn-soo-min"
 duration = "2:59"
 
 [[tracks]]
 position = 4
-song_id = "fiestar/yezi/michingae-feat-san-e"
+song-id = "fiestar/yezi/michingae-feat-san-e"
 duration = "2:59"
 
 [[tracks]]
 position = 5
-song_id = "fiestar/yezi/cider-inst"
+song-id = "fiestar/yezi/cider-inst"
 duration = "3:08"

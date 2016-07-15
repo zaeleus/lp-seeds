@@ -1,8 +1,8 @@
-medium_ids = [
+medium-ids = [
   "lucky-j/deullini/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "lucky-j/deullini"
+song-id = "lucky-j/deullini"
 duration = "3:16"

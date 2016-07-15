@@ -1,34 +1,34 @@
-medium_ids = [
+medium-ids = [
   "apink/eun-ji/dream/default/cd1",
   "apink/eun-ji/dream/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "apink/eun-ji/haneulbaragi-feat-hareem"
+song-id = "apink/eun-ji/haneulbaragi-feat-hareem"
 duration = "3:40"
 
 [[tracks]]
 position = 2
-song_id = "apink/eun-ji/sarangeun-baramcheoreom"
+song-id = "apink/eun-ji/sarangeun-baramcheoreom"
 duration = "3:53"
 
 [[tracks]]
 position = 3
-song_id = "apink/eun-ji/it-s-ok"
+song-id = "apink/eun-ji/it-s-ok"
 duration = "3:10"
 
 [[tracks]]
 position = 4
-song_id = "apink/eun-ji/home"
+song-id = "apink/eun-ji/home"
 duration = "3:23"
 
 [[tracks]]
 position = 5
-song_id = "apink/eun-ji/sarangiran"
+song-id = "apink/eun-ji/sarangiran"
 duration = "3:54"
 
 [[tracks]]
 position = 6
-song_id = "apink/eun-ji/haneulbaragi-piano-ver"
+song-id = "apink/eun-ji/haneulbaragi-piano-ver"
 duration = "4:16"

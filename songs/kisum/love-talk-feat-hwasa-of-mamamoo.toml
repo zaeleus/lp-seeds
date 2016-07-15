@@ -8,6 +8,6 @@ urls = [
 ]
 
 contributions = [
-  { artist_id = "kisum", kind = "performer" },
-  { artist_id = "mamamoo/hwasa", kind = "performer" },
+  { artist-id = "kisum", kind = "performer" },
+  { artist-id = "mamamoo/hwasa", kind = "performer" },
 ]

@@ -1,4 +1,4 @@
-artist_id = "kisum"
+artist-id = "kisum"
 kind = "ep"
 
 names = [
@@ -10,7 +10,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-23"
+released-on = "2016-06-23"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -22,9 +22,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-23"
+released-on = "2016-06-23"
 country = "KR"
-catalog_number = "L100005219"
+catalog-number = "L100005219"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=001209576" },

@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2012"
+started-on = "2012"
 country = "KR"
 
 names = [
@@ -7,10 +7,10 @@ names = [
   { name = "Rainbow Pixie", locale = "ko-Latn", default = true },
 ]
 
-labels = [{ label_id = "dsp-media" }]
+labels = [{ label-id = "dsp-media" }]
 
 members = [
-  { artist_id = "rainbow/seung-ah" },
-  { artist_id = "rainbow/ji-sook" },
-  { artist_id = "rainbow/hyun-young" },
+  { artist-id = "rainbow/seung-ah" },
+  { artist-id = "rainbow/ji-sook" },
+  { artist-id = "rainbow/hyun-young" },
 ]

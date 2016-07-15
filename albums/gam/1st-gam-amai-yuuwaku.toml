@@ -1,4 +1,4 @@
-artist_id = "gam"
+artist-id = "gam"
 kind = "lp"
 
 names = [
@@ -8,9 +8,9 @@ names = [
 ]
 
 [[releases]]
-released_on = "2007-05-23"
+released-on = "2007-05-23"
 country = "JP"
-catalog_number = "HKCN-50053~4"
+catalog-number = "HKCN-50053~4"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition"
 urls = [
@@ -18,9 +18,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2007-05-23"
+released-on = "2007-05-23"
 country = "JP"
-catalog_number = "HKCN-50055"
+catalog-number = "HKCN-50055"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
 urls = [

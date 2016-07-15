@@ -1,4 +1,4 @@
-artist_id = "rie-fu"
+artist-id = "rie-fu"
 kind = "lp"
 
 names = [
@@ -6,13 +6,13 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-04-06"
+released-on = "2016-04-06"
 country = "JP"
-catalog_number = "DQC-1519"
+catalog-number = "DQC-1519"
 media = [{ kind = "cd" }]
 
 [[releases]]
-released_on = "2016-04-06"
+released-on = "2016-04-06"
 country = "JP"
 media = [{ kind = "digital" }]
 urls = [

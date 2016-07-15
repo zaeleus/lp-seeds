@@ -1,4 +1,4 @@
-artist_id = "park-bo-ram"
+artist-id = "park-bo-ram"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-04-21"
+released-on = "2016-04-21"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

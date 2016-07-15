@@ -1,4 +1,4 @@
-artist_id = "kara/ji-young"
+artist-id = "kara/ji-young"
 kind = "single"
 
 names = [
@@ -6,16 +6,16 @@ names = [
   { name = "Saigo no Sayonara", locale = "ja-Latn", default = true },
 ]
 
-[[artist_credits]]
-artist_id = "kara/ji-young"
+[[artist-credits]]
+artist-id = "kara/ji-young"
 names = [
   { name = "JY", locale = "ja", original = true, default = true },
 ]
 
 [[releases]]
-released_on = "2016-03-16"
+released-on = "2016-03-16"
 country = "JP"
-catalog_number = "SRCL-8998/9"
+catalog-number = "SRCL-8998/9"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition"
 urls = [
@@ -23,9 +23,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-03-16"
+released-on = "2016-03-16"
 country = "JP"
-catalog_number = "SRCL-9000"
+catalog-number = "SRCL-9000"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
 urls = [

@@ -1,4 +1,4 @@
-artist_id = "exid"
+artist-id = "exid"
 kind = "lp"
 
 names = [
@@ -12,7 +12,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-01"
+released-on = "2016-06-01"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -24,9 +24,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-06-01"
+released-on = "2016-06-01"
 country = "KR"
-catalog_number = "S90897C"
+catalog-number = "S90897C"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=026900206" },

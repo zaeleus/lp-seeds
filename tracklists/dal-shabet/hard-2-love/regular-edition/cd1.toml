@@ -1,15 +1,15 @@
-medium_ids = [
+medium-ids = [
   "dal-shabet/hard-2-love/regular-edition/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "dal-shabet/hard-2-love"
+song-id = "dal-shabet/hard-2-love"
 
 [[tracks]]
 position = 2
-song_id = "dal-shabet/to-darling-japanese-ver"
+song-id = "dal-shabet/to-darling-japanese-ver"
 
 [[tracks]]
 position = 3
-song_id = "dal-shabet/hard-2-love-inst"
+song-id = "dal-shabet/hard-2-love-inst"

@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2009"
+started-on = "2009"
 country = "KR"
 
 names = [
@@ -9,15 +9,15 @@ names = [
 ]
 
 labels = [
-  { label_id = "cube-entertainment" },
-  { label_id = "beast-music" },
+  { label-id = "cube-entertainment" },
+  { label-id = "beast-music" },
 ]
 
 members = [
-  { artist_id = "beast/yoon-doo-joon" },
-  { artist_id = "beast/jang-hyun-seung" },
-  { artist_id = "beast/yong-jun-hyung" },
-  { artist_id = "beast/yang-yo-seob" },
-  { artist_id = "beast/lee-ki-kwang" },
-  { artist_id = "beast/son-dong-woon" },
+  { artist-id = "beast/yoon-doo-joon" },
+  { artist-id = "beast/jang-hyun-seung" },
+  { artist-id = "beast/yong-jun-hyung" },
+  { artist-id = "beast/yang-yo-seob" },
+  { artist-id = "beast/lee-ki-kwang" },
+  { artist-id = "beast/son-dong-woon" },
 ]

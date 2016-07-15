@@ -10,5 +10,5 @@ urls = [
 ]
 
 contributions = [
-  { artist_id = "kisum", kind = "performer" },
+  { artist-id = "kisum", kind = "performer" },
 ]

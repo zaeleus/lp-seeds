@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1994-02-10"
+started-on = "1994-02-10"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Kang Seul Gi", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "sm-entertainment" }]
+labels = [{ label-id = "sm-entertainment" }]
 
 [metadata]
 height = 162
 weight = 42
-blood_type = "A"
+blood-type = "A"

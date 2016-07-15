@@ -1,15 +1,15 @@
-medium_ids = [
+medium-ids = [
   'crayon-pop/lonely-christmas/default/digital1',
   'crayon-pop/lonely-christmas/default/cd1',
 ]
 
 [[tracks]]
 position = 1
-song_id = "crayon-pop/lonely-christmas"
+song-id = "crayon-pop/lonely-christmas"
 duration = "2:56"
 
 [[tracks]]
 position = 2
-song_id = "crayon-pop/lonely-christmas-inst"
+song-id = "crayon-pop/lonely-christmas-inst"
 duration = "2:56"
 

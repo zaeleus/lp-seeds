@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1992-07-28"
+started-on = "1992-07-28"
 country = "KR"
 
 names = [
@@ -9,9 +9,9 @@ names = [
   { name = "Cho Ka Eun", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "happyface-entertainment" }]
+labels = [{ label-id = "happyface-entertainment" }]
 
 [metadata]
 height = 172
 weight = 47
-blood_type = "A"
+blood-type = "A"

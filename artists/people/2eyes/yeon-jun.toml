@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1996-03-18"
+started-on = "1996-03-18"
 country = "KR"
 
 names = [
@@ -9,12 +9,12 @@ names = [
   { name = "Kim Yeon Jun", locale = "ko-Latn", kind = "real" },
 ]
 
-labels = [{ label_id = "sidushq" }]
+labels = [{ label-id = "sidushq" }]
 
 urls = [
   { url = "https://instagram.com/yeonjoon0318/" },
 ]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 height = 161

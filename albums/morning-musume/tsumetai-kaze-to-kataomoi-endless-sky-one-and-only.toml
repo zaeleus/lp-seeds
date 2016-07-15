@@ -1,4 +1,4 @@
-artist_id = "morning-musume"
+artist-id = "morning-musume"
 kind = "single"
 
 names = [
@@ -7,17 +7,17 @@ names = [
   { name = "The Cold Wind and Lonely Love / ENDLESS SKY / One and Only", locale = "en" },
 ]
 
-[[artist_credits]]
-artist_id = "morning-musume"
+[[artist-credits]]
+artist-id = "morning-musume"
 names = [
   { name = "モーニング娘。 '15", locale = "ja", original = true },
   { name = "Morning Musume '15", locale = "ja-Latn", default = true },
 ]
 
 [[releases]]
-released_on = "2015-12-29"
+released-on = "2015-12-29"
 country = "JP"
-catalog_number = "EPCE-7164~5"
+catalog-number = "EPCE-7164~5"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition A"
 urls = [
@@ -25,9 +25,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-12-29"
+released-on = "2015-12-29"
 country = "JP"
-catalog_number = "EPCE-7166~7"
+catalog-number = "EPCE-7166~7"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition B"
 urls = [
@@ -35,9 +35,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-12-29"
+released-on = "2015-12-29"
 country = "JP"
-catalog_number = "EPCE-7168~9"
+catalog-number = "EPCE-7168~9"
 media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition C"
 urls = [
@@ -45,9 +45,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-12-29"
+released-on = "2015-12-29"
 country = "JP"
-catalog_number = "EPCE-7170"
+catalog-number = "EPCE-7170"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition A"
 urls = [
@@ -55,9 +55,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-12-29"
+released-on = "2015-12-29"
 country = "JP"
-catalog_number = "EPCE-7171"
+catalog-number = "EPCE-7171"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition B"
 urls = [
@@ -65,9 +65,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2015-12-29"
+released-on = "2015-12-29"
 country = "JP"
-catalog_number = "EPCE-7172"
+catalog-number = "EPCE-7172"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition C"
 urls = [

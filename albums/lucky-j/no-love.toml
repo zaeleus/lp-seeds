@@ -1,4 +1,4 @@
-artist_id = "lucky-j"
+artist-id = "lucky-j"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released_on = "2016-01-08"
+released-on = "2016-01-08"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

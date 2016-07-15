@@ -1,4 +1,4 @@
-artist_id = "clc"
+artist-id = "clc"
 kind = "ep"
 
 names = [
@@ -11,7 +11,7 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-05-30"
+released-on = "2016-05-30"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
@@ -21,9 +21,9 @@ urls = [
 ]
 
 [[releases]]
-released_on = "2016-05-30"
+released-on = "2016-05-30"
 country = "KR"
-catalog_number = "CMCC-10809"
+catalog-number = "CMCC-10809"
 media = [{ kind = "cd" }]
 urls = [
   { url = "http://hanteo.com/search/album_info.asp?mcode=034203424", kind = "hanteo" },

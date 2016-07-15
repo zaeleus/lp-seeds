@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2008-12"
+started-on = "2008-12"
 country = "KR"
 
 names = [
@@ -9,16 +9,16 @@ names = [
 ]
 
 members = [
-  { artist_id = "after-school/uee", started_on = "2009-04-06" },
-  { artist_id = "after-school/raina", started_on = "2009-11-21" },
-  { artist_id = "after-school/nana", started_on = "2009-11-21" },
-  { artist_id = "after-school/lizzy", started_on = "2010-03-15" },
-  { artist_id = "after-school/e-young", started_on = "2010-12-21" },
-  { artist_id = "after-school/ka-eun", started_on = "2012-04-10" },
+  { artist-id = "after-school/uee", started-on = "2009-04-06" },
+  { artist-id = "after-school/raina", started-on = "2009-11-21" },
+  { artist-id = "after-school/nana", started-on = "2009-11-21" },
+  { artist-id = "after-school/lizzy", started-on = "2010-03-15" },
+  { artist-id = "after-school/e-young", started-on = "2010-12-21" },
+  { artist-id = "after-school/ka-eun", started-on = "2012-04-10" },
 
-  { artist_id = "after-school/so-young", ended_on = "2009-10-20" },
-  { artist_id = "after-school/bekah", ended_on = "2011-07-11" },
-  { artist_id = "after-school/kahi", ended_on = "2012-06-17" },
-  { artist_id = "after-school/juyeon", ended_on = "2014-12-31" },
-  { artist_id = "after-school/jung-a", ended_on = "2016-01-28" },
+  { artist-id = "after-school/so-young", ended-on = "2009-10-20" },
+  { artist-id = "after-school/bekah", ended-on = "2011-07-11" },
+  { artist-id = "after-school/kahi", ended-on = "2012-06-17" },
+  { artist-id = "after-school/juyeon", ended-on = "2014-12-31" },
+  { artist-id = "after-school/jung-a", ended-on = "2016-01-28" },
 ]

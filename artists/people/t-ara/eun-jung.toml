@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1988-12-12"
+started-on = "1988-12-12"
 country = "KR"
 
 names = [
@@ -11,6 +11,6 @@ names = [
 ]
 
 [metadata]
-blood_type = "O"
+blood-type = "O"
 height = 168
 weight = 47

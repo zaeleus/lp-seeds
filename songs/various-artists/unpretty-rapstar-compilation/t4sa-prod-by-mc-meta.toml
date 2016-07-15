@@ -3,10 +3,10 @@ names = [
   { name = "T4SA (Prod. by MC Meta)", locale = "ko-Latn", default = true },
 ]
 
-artist_credits = [
-  { artist_id = "aoa/jimin", separator = ", " },
-  { artist_id = "mc-meta", separator = ", " },
-  { artist_id = "nuck" },
+artist-credits = [
+  { artist-id = "aoa/jimin", separator = ", " },
+  { artist-id = "mc-meta", separator = ", " },
+  { artist-id = "nuck" },
 ]
 
 urls = [

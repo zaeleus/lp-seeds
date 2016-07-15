@@ -1,5 +1,5 @@
 kind = "person"
-started_on = "1990-03-30"
+started-on = "1990-03-30"
 country = "KR"
 
 names = [
@@ -7,7 +7,7 @@ names = [
   { name = "Lee Ki Kwang", locale = "ko-Latn", kind = "real", default = true },
 ]
 
-labels = [{ label_id = "cube-entertainment" }]
+labels = [{ label-id = "cube-entertainment" }]
 
 urls = [
   { url = "https://instagram.com/gttk0000" },
@@ -15,6 +15,6 @@ urls = [
 ]
 
 [metadata]
-blood_type = "A"
+blood-type = "A"
 height = 171
 weight = 58

@@ -1,4 +1,4 @@
-artist_id = "lovelyz/yoo-ji-ae"
+artist-id = "lovelyz/yoo-ji-ae"
 kind = "single"
 
 names = [
@@ -6,6 +6,6 @@ names = [
 ]
 
 [[releases]]
-released_on = "2013-04-24"
+released-on = "2013-04-24"
 country = "KR"
 media = [{ kind = "digital" }]

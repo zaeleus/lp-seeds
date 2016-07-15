@@ -1,8 +1,8 @@
-medium_ids = [
+medium-ids = [
   "mixx/oh-ma-mind/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "mixx/oh-ma-mind"
+song-id = "mixx/oh-ma-mind"
 duration = "3:36"

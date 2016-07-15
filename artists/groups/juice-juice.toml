@@ -1,5 +1,5 @@
 kind = "group"
-started_on = "2013-02-02"
+started-on = "2013-02-02"
 country = "JP"
 
 names = [
@@ -8,10 +8,10 @@ names = [
 ]
 
 members = [
-  { artist_id = "juice-juice/miyazaki-yuka", started_on = "2013-02-02" },
-  { artist_id = "juice-juice/kanazawa-tomoko", started_on = "2013-02-02" },
-  { artist_id = "juice-juice/takagi-sayuki", started_on = "2013-02-02" },
-  { artist_id = "juice-juice/miyamoto-karin", started_on = "2013-02-02" },
-  { artist_id = "juice-juice/uemura-akari", started_on = "2013-02-02" },
-  { artist_id = "juice-juice/otsuka-aina", started_on = "2013-02-02", ended_on = "2013-07-05" },
+  { artist-id = "juice-juice/miyazaki-yuka", started-on = "2013-02-02" },
+  { artist-id = "juice-juice/kanazawa-tomoko", started-on = "2013-02-02" },
+  { artist-id = "juice-juice/takagi-sayuki", started-on = "2013-02-02" },
+  { artist-id = "juice-juice/miyamoto-karin", started-on = "2013-02-02" },
+  { artist-id = "juice-juice/uemura-akari", started-on = "2013-02-02" },
+  { artist-id = "juice-juice/otsuka-aina", started-on = "2013-02-02", ended-on = "2013-07-05" },
 ]

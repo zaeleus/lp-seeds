@@ -1,19 +1,19 @@
-medium_ids = [
+medium-ids = [
   "matsuura-aya/sougen-no-hito/limited-edition/cd1",
   "matsuura-aya/sougen-no-hito/regular-edition/cd1",
 ]
 
 [[tracks]]
 position = 1
-song_id = "matsuura-aya/sougen-no-hito"
+song-id = "matsuura-aya/sougen-no-hito"
 duration = "5:12"
 
 [[tracks]]
 position = 2
-song_id = "matsuura-aya/yokohama-sing-a-song"
+song-id = "matsuura-aya/yokohama-sing-a-song"
 duration = "3:47"
 
 [[tracks]]
 position = 3
-song_id = "matsuura-aya/sougen-no-hito-instrumental"
+song-id = "matsuura-aya/sougen-no-hito-instrumental"
 duration = "5:10"

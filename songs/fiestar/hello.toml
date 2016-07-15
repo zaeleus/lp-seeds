@@ -3,16 +3,16 @@ names = [
 ]
 
 contributions = [
-  { artist_id = "fiestar/jei", kind = "performer" },
-  { artist_id = "fiestar/cao-lu", kind = "performer" },
-  { artist_id = "fiestar/linzy", kind = "performer" },
-  { artist_id = "fiestar/hyemi", kind = "performer" },
-  { artist_id = "fiestar/yezi", kind = "performer" },
+  { artist-id = "fiestar/jei", kind = "performer" },
+  { artist-id = "fiestar/cao-lu", kind = "performer" },
+  { artist-id = "fiestar/linzy", kind = "performer" },
+  { artist-id = "fiestar/hyemi", kind = "performer" },
+  { artist-id = "fiestar/yezi", kind = "performer" },
 
-  { artist_id = "4-beon-taja", kind = "lyricist" },
-  { artist_id = "fiestar/yezi", kind = "lyricist" },
+  { artist-id = "4-beon-taja", kind = "lyricist" },
+  { artist-id = "fiestar/yezi", kind = "lyricist" },
 
-  { artist_id = "4-beon-taja", kind = "composer" },
+  { artist-id = "4-beon-taja", kind = "composer" },
 
-  { artist_id = "4-beon-taja", kind = "arranger" },
+  { artist-id = "4-beon-taja", kind = "arranger" },
 ]
