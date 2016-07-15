@@ -8,31 +8,66 @@ urls = [
   { url = "https://www.youtube.com/watch?v=D_F9HUTYnl0", name = "Music Video" },
 ]
 
-contributions = [
-  { artist_id = "4minute/ga-yoon", kind = "performer" },
-  { artist_id = "4minute/hyun-a", kind = "performer" },
-  { artist_id = "4minute/ji-hyun", kind = "performer" },
-  { artist_id = "4minute/ji-yoon", kind = "performer" },
-  { artist_id = "4minute/so-hyun", kind = "performer" },
+[[contributions]]
+artist_id = "4minute/ga-yoon"
+kind = "performer"
 
-  { artist_id = "seo-jae-woo", kind = "lyricist" },
-  { artist_id = "son-young-jin", kind = "lyricist" },
-  { artist_id = "4minute/hyun-a", kind = "lyricist" },
-  {
-    artist_credits = [{
-      artist_id = "4minute/ji-yoon",
-      names = [
-        { name = "Jenyer", locale = "ko", original = true, default = true },
-      ],
-    }],
-    kind = "lyricist",
-  },
+[[contributions]]
+artist_id = "4minute/hyun-a"
+kind = "performer"
 
-  { artist_id = "seo-jae-woo", kind = "composer" },
-  { artist_id = "son-young-jin", kind = "composer" },
-  { artist_id = "skrillex", kind = "composer" },
+[[contributions]]
+artist_id = "4minute/ji-hyun"
+kind = "performer"
 
-  { artist_id = "seo-jae-woo", kind = "arranger" },
-  { artist_id = "son-young-jin", kind = "arranger" },
-  { artist_id = "skrillex", kind = "arranger" },
+[[contributions]]
+artist_id = "4minute/ji-yoon"
+kind = "performer"
+
+[[contributions]]
+artist_id = "4minute/so-hyun"
+kind = "performer"
+
+[[contributions]]
+artist_id = "seo-jae-woo"
+kind = "lyricist"
+
+[[contributions]]
+artist_id = "son-young-jin"
+kind = "lyricist"
+
+[[contributions]]
+artist_id = "4minute/hyun-a"
+kind = "lyricist"
+
+[[contributions]]
+kind = "lyricist"
+[[contributions.artist_credits]]
+artist_id = "4minute/ji-yoon"
+names = [
+  { name = "Jenyer", locale = "ko", original = true, default = true },
 ]
+
+[[contributions]]
+artist_id = "seo-jae-woo"
+kind = "composer"
+
+[[contributions]]
+artist_id = "son-young-jin"
+kind = "composer"
+
+[[contributions]]
+artist_id = "skrillex"
+kind = "composer"
+
+[[contributions]]
+artist_id = "seo-jae-woo"
+kind = "arranger"
+
+[[contributions]]
+artist_id = "son-young-jin"
+kind = "arranger"
+
+[[contributions]]
+artist_id = "skrillex"
+kind = "arranger"

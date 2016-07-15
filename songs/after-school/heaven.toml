@@ -2,12 +2,11 @@ names = [
   { name = "Heaven", locale = "ja", original = true, default = true },
 ]
 
-artist_credits = [{
-  artist_id = "after-school",
-  names = [
-    { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "after-school"
+names = [
+  { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
+]
 
 urls = [
   { url = "https://www.youtube.com/watch?v=Vud2PRhmKSM", name = "Music Video" },

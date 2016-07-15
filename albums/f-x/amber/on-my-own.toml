@@ -5,13 +5,12 @@ names = [
   { name = "On My Own", locale = "ko", original = true, default = true },
 ]
 
-artist_credits = [{
-  artist_id = "f-x/amber",
-  names = [
-    { name = "엠버", locale = "ko", original = true },
-    { name = "AMBER", locale = "ko-Latn", default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "f-x/amber"
+names = [
+  { name = "엠버", locale = "ko", original = true },
+  { name = "AMBER", locale = "ko-Latn", default = true },
+]
 
 [[releases]]
 released_on = "2016-05-18"

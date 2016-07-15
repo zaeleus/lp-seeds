@@ -2,9 +2,8 @@ names = [
   { name = "Next is you! (Instrumental)", locale = "ja", original = true, default = true },
 ]
 
-artist_credits = [{
-  artist_id = "juice-juice",
-  names = [
-    { name = "NEXT YOU", locale = "ja", original = true, default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "juice-juice"
+names = [
+  { name = "NEXT YOU", locale = "ja", original = true, default = true },
+]

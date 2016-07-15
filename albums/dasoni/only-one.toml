@@ -5,13 +5,12 @@ names = [
   { name = "ONLY ONE", locale = "ko", original = true, default = true },
 ]
 
-artist_credits = [{
-  artist_id = "dasoni",
-  names = [
-    { name = "솔지하니", locale = "ko", original = true },
-    { name = "SoljiHani", locale = "ko-Latn", default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "dasoni"
+names = [
+  { name = "솔지하니", locale = "ko", original = true },
+  { name = "SoljiHani", locale = "ko-Latn", default = true },
+]
 
 [[releases]]
 released_on = "2016-03-03"

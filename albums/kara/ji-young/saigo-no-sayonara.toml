@@ -6,12 +6,11 @@ names = [
   { name = "Saigo no Sayonara", locale = "ja-Latn", default = true },
 ]
 
-artist_credits = [{
-  artist_id = "kara/ji-young",
-  names = [
-    { name = "JY", locale = "ja", original = true, default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "kara/ji-young"
+names = [
+  { name = "JY", locale = "ja", original = true, default = true },
+]
 
 [[releases]]
 released_on = "2016-03-16"

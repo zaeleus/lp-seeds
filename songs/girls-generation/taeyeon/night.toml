@@ -2,10 +2,9 @@ names = [
   { name = "Night", locale = "ko", original = true, default = true },
 ]
 
-artist_credits = [{
-  artist_id = "girls-generation/taeyeon",
-  names = [
-    { name = "태연", locale = "ko", kind = "stage", original = true },
-    { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", kind = "stage", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
+]

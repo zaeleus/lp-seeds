@@ -7,17 +7,19 @@ urls = [
   { url = "https://www.youtube.com/watch?v=X2mqrzKHb3w", name = "Music Video" },
 ]
 
-contributions = [
-  { artist_id = "conan-o-brien", kind = "performer" },
-  { artist_id = "steven-yeun", kind = "performer" },
-  {
-    artist_credits = [{
-      artist_id = "15and/jimin",
-      names = [
-        { name = "박지민", locale = "ko", original = true },
-        { name = "Park Ji Min", locale = "ko-Latn", default = true},
-      ],
-    }],
-    kind = "performer",
-  }
+[[contributions]]
+artist_id = "conan-o-brien"
+kind = "performer"
+
+[[contributions]]
+artist_id = "steven-yeun"
+kind = "performer"
+
+[[contributions]]
+kind = "performer"
+[[contributions.artist_credits]]
+artist_id = "15and/jimin"
+names = [
+  { name = "박지민", locale = "ko", original = true },
+  { name = "Park Ji Min", locale = "ko-Latn", default = true},
 ]

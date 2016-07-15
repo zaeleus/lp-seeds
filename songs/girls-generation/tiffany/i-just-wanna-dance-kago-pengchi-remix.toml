@@ -2,10 +2,9 @@ names = [
   { name = "I Just Wanna Dance (Kago Pengchi Remix)", locale = "ko", original = true, default = true },
 ]
 
-artist_credits = [{
-  artist_id = "girls-generation/tiffany",
-  names = [
-    { name = "티파니", locale = "ko", kind = "stage", original = true },
-    { name = "TIFFANY", locale = "ko-Latn", kind = "stage", default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "girls-generation/tiffany"
+names = [
+  { name = "티파니", locale = "ko", kind = "stage", original = true },
+  { name = "TIFFANY", locale = "ko-Latn", kind = "stage", default = true },
+]

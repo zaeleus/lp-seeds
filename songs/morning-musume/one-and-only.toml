@@ -2,13 +2,12 @@ names = [
   { name = "One and Only", locale = "ja", original = true, default = true },
 ]
 
-artist_credits = [{
-  artist_id = "morning-musume",
-  names = [
-    { name = "モーニング娘。 '15", locale = "ja", original = true },
-    { name = "Morning Musume '15", locale = "ja-Latn", default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '15", locale = "ja", original = true },
+  { name = "Morning Musume '15", locale = "ja-Latn", default = true },
+]
 
 urls = [
   { url = "https://www.youtube.com/watch?v=B1d3y7qiSi0", name = "Music Video" },

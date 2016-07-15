@@ -3,13 +3,13 @@ names = [
   { name = "Narcissus (Inst.)", locale = "en", default = true },
 ]
 
-artist_credits = [{
-  artist_id = "m-d",
-  separator = " x ",
-}, {
-  artist_id = "mamamoo/wheein",
-  names = [
-    { name = "휘인 (of 마마무)", locale = "ko", original = true },
-    { name = "Wheein (of MAMAMOO)", locale = "ko-Latn", default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "m-d"
+separator = " x "
+
+[[artist_credits]]
+artist_id = "mamamoo/wheein"
+names = [
+  { name = "휘인 (of 마마무)", locale = "ko", original = true },
+  { name = "Wheein (of MAMAMOO)", locale = "ko-Latn", default = true },
+]

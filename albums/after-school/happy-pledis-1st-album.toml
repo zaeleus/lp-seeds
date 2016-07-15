@@ -5,13 +5,12 @@ names = [
   { name = "Happy PLEDIS 1st Album", locale = "ko", original = true, default = true },
 ]
 
-artist_credits = [{
-  artist_id = "after-school",
-  names = [
-    { name = "해피 플레디스", locale = "ko", original = true },
-    { name = "Happy PLEDIS", locale = "ko-Latn", default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "after-school"
+names = [
+  { name = "해피 플레디스", locale = "ko", original = true },
+  { name = "Happy PLEDIS", locale = "ko-Latn", default = true },
+]
 
 [[releases]]
 released_on = "2010-12-07"

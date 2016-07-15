@@ -3,13 +3,12 @@ names = [
   { name = "Unpretty Rapstar (Don't stop) (Prod. by D.O)", locale = "en", default = true },
 ]
 
-artist_credits = [{
-  artist_id = "various-artists",
-  names = [
-    { name = "언프리티 랩스타 2", locale = "ko", original = true },
-    { name = "Unpretty Rapstar 2", locale = "en", default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "various-artists"
+names = [
+  { name = "언프리티 랩스타 2", locale = "ko", original = true },
+  { name = "Unpretty Rapstar 2", locale = "en", default = true },
+]
 
 urls = [
   { url = "https://www.youtube.com/watch?v=wtxDqunIi7g", name = "Music Video" },

@@ -2,12 +2,11 @@ names = [
   { name = "Next is you!", locale = "ja", original = true, default = true },
 ]
 
-artist_credits = [{
-  artist_id = "juice-juice",
-  names = [
-    { name = "NEXT YOU", locale = "ja", original = true, default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "juice-juice"
+names = [
+  { name = "NEXT YOU", locale = "ja", original = true, default = true },
+]
 
 urls = [
   { url = "https://www.youtube.com/watch?v=7sJTyrHGK1k", name = "Music Video" },

@@ -5,12 +5,11 @@ names = [
   { name = "Heaven", locale = "ja", original = true, default = true },
 ]
 
-artist_credits = [{
-  artist_id = "after-school",
-  names = [
-    { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "after-school"
+names = [
+  { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
+]
 
 [[releases]]
 released_on = "2013-10-02"

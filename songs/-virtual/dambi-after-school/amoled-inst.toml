@@ -2,15 +2,15 @@ names = [
   { name = "AMOLED (Inst.)", locale = "ko", original = true, default = true },
 ]
 
-artist_credits = [{
-  artist_id = "son-dam-bi",
-  names = [
-    { name = "Dambi", locale = "ko", original = true, default = true },
-  ],
-  separator = " + ",
-}, {
-  artist_id = "after-school",
-  names = [
-    { name = "After School", locale = "ko", original = true, default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "son-dam-bi"
+names = [
+  { name = "Dambi", locale = "ko", original = true, default = true },
+]
+separator = " + "
+
+[[artist_credits]]
+artist_id = "after-school"
+names = [
+  { name = "After School", locale = "ko", original = true, default = true },
+]

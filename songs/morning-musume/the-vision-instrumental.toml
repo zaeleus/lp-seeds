@@ -2,10 +2,9 @@ names = [
   { name = "The Vision (Instrumental)", locale = "ja", original = true, default = true },
 ]
 
-artist_credits = [{
-  artist_id = "morning-musume",
-  names = [
-    { name = "モーニング娘。 '16", locale = "ja", original = true },
-    { name = "Morning Musume '16", locale = "ja-Latn", default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '16", locale = "ja", original = true },
+  { name = "Morning Musume '16", locale = "ja-Latn", default = true },
+]

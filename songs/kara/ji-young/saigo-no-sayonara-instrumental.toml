@@ -3,9 +3,8 @@ names = [
   { name = "Saigo no Sayonara -Instrumental-", locale = "ja-Latn", default = true },
 ]
 
-artist_credits = [{
-  artist_id = "kara/ji-young",
-  names = [
-    { name = "JY", locale = "ja", original = true, default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "kara/ji-young"
+names = [
+  { name = "JY", locale = "ja", original = true, default = true },
+]

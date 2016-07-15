@@ -9,36 +9,51 @@ names = [
   { name = "T-ARA", locale = "ja-Latn" },
 ]
 
-members = [
-  { artist_id = "t-ara/eun-jung" },
-  { artist_id = "t-ara/hyo-min" },
-  { artist_id = "t-ara/ji-yeon" },
-  { artist_id = "t-ara/boram", started_on = "2009-06-02" },
-  { artist_id = "t-ara/so-yeon", started_on = "2009-06-02" },
-  { artist_id = "t-ara/qri", started_on = "2009-06-02" },
+[[members]]
+artist_id = "t-ara/eun-jung"
 
-  {
-    artist_credits = [{
-      artist_id = "jevice/hana",
-      names = [
-        { name = "지애", locale = "ko", original = true },
-        { name = "Ji Ae", locale = "ko-Latn", default = true },
-      ],
-    }],
-    ended_on = "2009-06-02",
-  },
+[[members]]
+artist_id = "t-ara/hyo-min"
 
-  {
-    artist_credits = [{
-      artist_id = "spica/yang-ji-won",
-      names = [
-        { name = "지원", locale = "ko", original = true },
-        { name = "Ji Won", locale = "ko-Latn", default = true },
-      ],
-    }],
-    ended_on = "2009-06-02",
-  },
+[[members]]
+artist_id = "t-ara/ji-yeon"
 
-  { artist_id = "t-ara/hwa-young", started_on = "2010-07-13", ended_on = "2012-07-30" },
-  { artist_id = "t-ara/ahreum", started_on = "2012-06-14", ended_on = "2013-07-10" },
+[[members]]
+artist_id = "t-ara/boram"
+started_on = "2009-06-02"
+
+[[members]]
+artist_id = "t-ara/so-yeon"
+started_on = "2009-06-02"
+
+[[members]]
+artist_id = "t-ara/qri"
+started_on = "2009-06-02"
+
+[[members]]
+artist_id = "t-ara/hwa-young"
+started_on = "2010-07-13"
+ended_on = "2012-07-30"
+
+[[members]]
+artist_id = "t-ara/ahreum"
+started_on = "2012-06-14"
+ended_on = "2013-07-10"
+
+[[members]]
+ended_on = "2009-06-02"
+[[members.artist_credits]]
+artist_id = "jevice/hana"
+names = [
+  { name = "지애", locale = "ko", original = true },
+  { name = "Ji Ae", locale = "ko-Latn", default = true },
+]
+
+[[members]]
+ended_on = "2009-06-02"
+[[members.artist_credits]]
+artist_id = "spica/yang-ji-won"
+names = [
+  { name = "지원", locale = "ko", original = true },
+  { name = "Ji Won", locale = "ko-Latn", default = true },
 ]

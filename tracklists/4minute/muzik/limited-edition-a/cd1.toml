@@ -15,12 +15,11 @@ song_id = "4minute/hot-issue"
 names = [
   { name = "HOT ISSUE (Original Version)", locale = "ja", original = true, default = true },
 ]
-artist_credits = [{
-  artist_id = "4minute",
-  names = [
-    { name = "4Minute", locale = "ja", original = true, default = true },
-  ],
-}]
+[[tracks.artist_credits]]
+artist_id = "4minute"
+names = [
+  { name = "4Minute", locale = "ja", original = true, default = true },
+]
 
 [[tracks]]
 position = 3
@@ -28,12 +27,11 @@ song_id = "4minute/muzik"
 names = [
   { name = "Muzik (Original Version)", locale = "ja", original = true, default = true },
 ]
-artist_credits = [{
-  artist_id = "4minute",
-  names = [
-    { name = "4Minute", locale = "ja", original = true, default = true },
-  ],
-}]
+[[tracks.artist_credits]]
+artist_id = "4minute"
+names = [
+  { name = "4Minute", locale = "ja", original = true, default = true },
+]
 
 [[tracks]]
 position = 4

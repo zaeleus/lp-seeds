@@ -4,13 +4,13 @@ names = [
   { name = "Even Though You're My Lover (Instrumental)", locale = "en" },
 ]
 
-artist_credits = [{
-  artist_id = "morning-musume/abe-natsumi",
-  separator = " & ",
-}, {
-  artist_id = "c-ute/yajima-maimi",
-  names = [
-    { name = "矢島舞美 (°C-ute)", locale = "ja", kind = "real", original = true },
-    { name = "Yajima Maimi (°C-ute)", locale = "ja-Latn", kind = "real", default = true },
-  ],
-}]
+[[artist_credits]]
+artist_id = "morning-musume/abe-natsumi"
+separator = " & "
+
+[[artist_credits]]
+artist_id = "c-ute/yajima-maimi"
+names = [
+  { name = "矢島舞美 (°C-ute)", locale = "ja", kind = "real", original = true },
+  { name = "Yajima Maimi (°C-ute)", locale = "ja-Latn", kind = "real", default = true },
+]

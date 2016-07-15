@@ -16,12 +16,11 @@ song_id = "after-school/cheot-sarang"
 names = [
   { name = "First Love", locale = "ja", original = true, default = true },
 ]
-artist_credits = [{
-  artist_id = "after-school",
-  names = [
-    { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
-  ],
-}]
+[[tracks.artist_credits]]
+artist_id = "after-school"
+names = [
+  { name = "AFTERSCHOOL", locale = "ja", original = true, default = true },
+]
 
 [[tracks]]
 position = 4
