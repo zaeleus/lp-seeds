@@ -1,6 +1,6 @@
 names = [
   { name = "MoMoMo (모모모)", locale = "ko", original = true },
-  { name = "MoMoMo (MoMoMo)", locale = "ko-Latn", },
+  { name = "MoMoMo (MoMoMo)", locale = "ko-Latn" },
   { name = "MoMoMo", locale = "en", default = true },
 ]
 
