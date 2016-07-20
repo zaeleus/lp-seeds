@@ -1,0 +1,8 @@
+medium-ids = [
+  "hellovenus/hellovenus-x-devine-channel-part-2-paradise/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hellovenus/paradise"
+duration = "3:31"
