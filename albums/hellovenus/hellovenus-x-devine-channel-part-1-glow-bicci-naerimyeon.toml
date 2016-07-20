@@ -1,0 +1,16 @@
+artist-id = "hellovenus"
+kind = "single"
+
+names = [
+  { name = "HELLOVENUS X DEVINE CHANNEL Part 1: Glow (빛이 내리면)", locale = "ko", original = true },
+  { name = "HELLOVENUS X DEVINE CHANNEL Part 1: Glow (Bicci Naerimyeon)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-05-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2683804" },
+  { url = "http://www.mnet.com/album/547479" },
+]

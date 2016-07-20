@@ -1,0 +1,9 @@
+names = [
+  { name = "빛이 내리면 (Glow)", locale = "ko", original = true },
+  { name = "Bicci Naerimyeon (Glow)", locale = "ko-Latn", default = true },
+  { name = "Glow", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=NRvTfEhOiQk", name = "Music Video" },
+]
