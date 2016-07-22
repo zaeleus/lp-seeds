@@ -12,6 +12,7 @@ names = [
 labels = [{ label-id = "cube-entertainment" }]
 
 urls = [
+  { url = "https://www.facebook.com/hyuna.unitedcube" },
   { url = "https://instagram.com/hyunah_aa/" },
 ]
 
