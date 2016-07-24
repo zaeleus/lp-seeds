@@ -1,0 +1,14 @@
+kind = "person"
+started-on = "1987-04-27"
+country = "KR"
+
+names = [
+  { name = "페이", locale = "ko", kind = "stage", original = true },
+  { name = "Fei", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "王霏霏", locale = "zh", kind = "real" },
+  { name = "Wang Feifei", locale = "zh-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "https://twitter.com/missA_fei" },
+]

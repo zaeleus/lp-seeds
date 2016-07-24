@@ -1,0 +1,18 @@
+medium-ids = [
+  "miss-a/fei/fantasy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miss-a/fei/sweet-sexy-fei"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "miss-a/fei/gwaenchanha-gwaenchanha-fantasy"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "miss-a/fei/one-more-kiss"
+duration = "3:51"

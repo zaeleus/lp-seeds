@@ -1,0 +1,10 @@
+names = [
+  { name = "괜찮아 괜찮아 Fantasy", locale = "ko", original = true },
+  { name = "Gwaenchanha Gwaenchanha Fantasy", locale = "ko-Latn", default = true },
+  { name = "Fantasy", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=FBI48VMJL68", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=GEF1Ah8QaXw", name = "Music Video" },
+]
