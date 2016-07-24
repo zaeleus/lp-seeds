@@ -1,0 +1,19 @@
+medium-ids = [
+  "stellar/cry/default/cd1",
+  "stellar/cry/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stellar/intro"
+duration = "1:10"
+
+[[tracks]]
+position = 2
+song-id = "stellar/peongpeongureosseo"
+duration = "3:19"
+
+[[tracks]]
+position = 3
+song-id = "stellar/belsori"
+duration = "3:05"

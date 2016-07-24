@@ -1,0 +1,11 @@
+names = [
+  { name = "펑펑울었어", locale = "ko", original = true },
+  { name = "Peongpeongureosseo", locale = "ko-Latn", default = true },
+  { name = "Crying", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=nczEMN-QmtI", name = "Teaser (15s)" },
+  { url = "https://www.youtube.com/watch?v=nfXJocilq88", name = "Teaser (30s)" },
+  { url = "https://www.youtube.com/watch?v=rQPn8f9uls4", name = "Music Video" },
+]

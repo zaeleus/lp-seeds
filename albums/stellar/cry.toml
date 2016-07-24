@@ -1,0 +1,25 @@
+artist-id = "stellar"
+kind = "single"
+
+names = [
+  { name = "CRY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-07-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2698063" },
+  { url = "http://www.mnet.com/album/562966" },
+  { url = "https://open.spotify.com/album/25RHFIV5rVlRCIq1hb9a3B" },
+]
+
+[[releases]]
+released-on = "2016-07-18"
+country = "KR"
+catalog-number = "DK-0903"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=006621844" },
+]
