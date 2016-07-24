@@ -1,0 +1,8 @@
+names = [
+  { name = "And July (Feat. DEAN, DJ Friz)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=OUraFbqSFSE", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=rCeM57e2BfU", name = "Music Video" },
+]

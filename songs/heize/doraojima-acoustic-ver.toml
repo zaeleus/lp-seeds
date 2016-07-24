@@ -1,0 +1,4 @@
+names = [
+  { name = "돌아오지마 (Acoustic Ver.)", locale = "ko", original = true },
+  { name = "Doraojima (Acoustic Ver.)", locale = "ko-Latn", default = true },
+]

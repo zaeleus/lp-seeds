@@ -1,16 +1,25 @@
 artist-id = "heize"
-kind = "single"
+kind = "ep"
 
 names = [
   { name = "And July", locale = "ko", original = true, default = true },
 ]
 
 [[releases]]
-released-on = "2016-06-02"
+released-on = "2016-07-18"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
   { url = "http://www.melon.com/album/detail.htm?albumId=2688360" },
   { url = "http://www.mnet.com/album/553029" },
-  { url = "https://open.spotify.com/album/6O7ix90aYbTq4pcAOv2aYe" },
+  { url = "https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E" },
+]
+
+[[releases]]
+released-on = "2016-07-18"
+country = "KR"
+catalog-number = "CMDC-10878"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=034203441" },
 ]
