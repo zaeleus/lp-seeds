@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1984-11-15"
+country = "KR"
+
+names = [
+  { name = "허각", locale = "ko", kind = "real", original = true },
+  { name = "Huh Gak", locale = "ko-Latn", kind = "real", default = true },
+]
+
+urls = [
+  { url = "http://www.planaent.co.kr/huhgak" },
+]
