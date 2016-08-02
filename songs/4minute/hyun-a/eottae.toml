@@ -1,0 +1,18 @@
+names = [
+  { name = "어때?", locale = "ko", original = true },
+  { name = "Eottae?", locale = "ko-Latn", default = true },
+  { name = "How's this?", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=qtvyBSVF1Oo", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=F8h_nU02FjE", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=y882AFjrSOM", name = "Music Video" },
+]

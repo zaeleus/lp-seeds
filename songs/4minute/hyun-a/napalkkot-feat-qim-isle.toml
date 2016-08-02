@@ -1,0 +1,11 @@
+names = [
+  { name = "나팔꽃 (Feat. 김아일)", locale = "ko", original = true },
+  { name = "Napalkkot (Feat. Qim Isle)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]
