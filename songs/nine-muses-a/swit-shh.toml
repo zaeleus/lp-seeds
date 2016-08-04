@@ -1,0 +1,5 @@
+names = [
+  { name = "쉿! (Shh!)", locale = "ko", original = true },
+  { name = "Swit! (Shh!)", locale = "ko-Latn", default = true },
+  { name = "Shh!", locale = "en" },
+]

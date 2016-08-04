@@ -1,0 +1,10 @@
+names = [
+  { name = "입술에 입술 (Lip 2 Lip)", locale = "ko", original = true },
+  { name = "Ipsure Ipsul (Lip 2 Lip)", locale = "ko-Latn", default = true },
+  { name = "Lip 2 Lip", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=UfhbCdkSJgg", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=Um33uMuSgCg", name = "Music Video" },
+]

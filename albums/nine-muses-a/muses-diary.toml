@@ -1,0 +1,28 @@
+artist-id = "nine-muses-a"
+kind = "single"
+
+names = [
+  { name = "MUSES DIARY", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=WWkkRk_0Iyw", name = "Album Preview" },
+]
+
+[[releases]]
+released-on = "2016-08-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2702234" },
+  { url = "http://www.mnet.com/album/566822" },
+]
+
+[[releases]]
+released-on = "2016-08-04"
+country = "KR"
+catalog-number = "KTMCD-0681"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=045401188" },
+]

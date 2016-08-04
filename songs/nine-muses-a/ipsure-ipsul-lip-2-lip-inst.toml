@@ -1,0 +1,6 @@
+names = [
+  { name = "입술에 입술 (Lip 2 Lip) (Inst.)", locale = "ko", original = true },
+  { name = "Ipsure Ipsul (Lip 2 Lip) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Lip 2 Lip (Inst.)", locale = "en" },
+]
+

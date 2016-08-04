@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "나인뮤지스A", locale = "ko", original = true },
+  { name = "Nine Muses A", locale = "ko-Latn", default = true },
+]
