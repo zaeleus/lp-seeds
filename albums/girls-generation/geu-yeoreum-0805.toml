@@ -1,0 +1,16 @@
+artist-id = "girls-generation"
+kind = "single"
+
+names = [
+  { name = "그 여름 (0805)", locale = "ko", original = true },
+  { name = "Geu Yeoreum (0805)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-08-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2702534" },
+  { url = "http://www.mnet.com/album/567328" },
+]

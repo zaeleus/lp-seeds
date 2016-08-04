@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-generation/geu-yeoreum-0805/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/geu-yeoreum-0805"
+duration = "4:20"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/geu-yeoreum-0805-inst"
+duration = "4:20"
