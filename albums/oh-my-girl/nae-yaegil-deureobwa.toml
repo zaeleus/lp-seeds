@@ -1,0 +1,26 @@
+artist-id = "oh-my-girl"
+kind = "single"
+
+names = [
+  { name = "내 얘길 들어봐", locale = "ko", original = true },
+  { name = "Nae Yaegil Deureobwa", locale = "ko-Latn", default = true },
+  { name = "Listen to My Word", locale = "en" },
+]
+
+[[releases]]
+released-on = "2016-08-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2701080" },
+  { url = "http://www.mnet.com/album/565962" },
+]
+
+[[releases]]
+released-on = "2016-08-01"
+country = "KR"
+catalog-number = "L200001281"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nAlbum_info2.asp?mcode=001209656" },
+]

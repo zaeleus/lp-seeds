@@ -1,0 +1,24 @@
+medium-ids = [
+  "oh-my-girl/nae-yaegil-deureobwa/default/digital1",
+  "oh-my-girl/nae-yaegil-deureobwa/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-my-girl/nae-yaegil-deureobwa-a-ing-feat-skull-haha"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "oh-my-girl/hanyeoreumui-keuriseumaseu"
+duration = "3:53"
+
+[[tracks]]
+position = 3
+song-id = "oh-my-girl/je-t-aime"
+duration = "3:47"
+
+[[tracks]]
+position = 4
+song-id = "oh-my-girl/geojismaldo-boyeoyo"
+duration = "3:58"

@@ -1,0 +1,12 @@
+names = [
+  { name = "내 얘길 들어봐 (A-ing) (Feat. 스컬&하하)", locale = "ko", original = true },
+  { name = "Nae Yaegil Deureobwa (A-ing) (Feat. Skull & HaHa)", locale = "ko-Latn", default = true },
+  { name = "Listen to My Word (A-ing) (Feat. Skull & HaHa)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ztIKdw4elUI", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=N58SwPc7yEA", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=_W4dL2Av6LE", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=bTe31oXTlw0", name = "1theK Close Up Live" },
+]
