@@ -1,0 +1,10 @@
+names = [
+  { name = "물고기자리", locale = "ko", original = true },
+  { name = "Mulgogijari", locale = "ko-Latn", default = true },
+  { name = "Pisces", locale = "en" },
+]
+
+url = [
+  { url = "https://www.youtube.com/watch?v=3yj8ToOtTZE", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=1GKpu0WCkB0", name = "Music Video" },
+]

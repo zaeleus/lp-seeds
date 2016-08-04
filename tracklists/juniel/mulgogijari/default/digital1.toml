@@ -1,0 +1,13 @@
+medium-ids = [
+  "juniel/mulgogijari/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "juniel/mulgogijari"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "juniel/mulgogijari-inst"
+duration = "3:56"

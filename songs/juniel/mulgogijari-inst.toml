@@ -1,0 +1,5 @@
+names = [
+  { name = "물고기자리 (Inst.)", locale = "ko", original = true },
+  { name = "Mulgogijari (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Pisces (Inst.)", locale = "en" },
+]
