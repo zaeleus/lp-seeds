@@ -1,0 +1,8 @@
+names = [
+  { name = "Whatta Man (Good man)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=CFjg1V6NEqU", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=fOn5tSagerY", name = "Music Video" },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "i-o-i/whatta-man/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "i-o-i/whatta-man-good-man"
+duration = "3:13"
