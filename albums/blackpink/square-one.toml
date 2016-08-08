@@ -1,0 +1,15 @@
+artist-id = "blackpink"
+kind = "single"
+
+names = [
+  { name = "SQUARE ONE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-08-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2703168" },
+  { url = "http://www.mnet.com/album/567845" },
+]

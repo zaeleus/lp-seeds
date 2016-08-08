@@ -1,0 +1,10 @@
+names = [
+  { name = "붐바야", locale = "ko", original = true },
+  { name = "Bumbaya", locale = "ko-Latn" },
+  { name = "Boombayah", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=bwmSjveL3Lc", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=uy2Yc5tt5ns", name = "M/V Behind the Scenes" },
+]

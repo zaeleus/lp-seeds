@@ -1,0 +1,10 @@
+names = [
+  { name = "휘파람", locale = "ko", original = true },
+  { name = "Hwiparam", locale = "ko-Latn", default = true },
+  { name = "Whistle", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=dISNgvVpWlo", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=cxbZuoF3RuQ", name = "M/V Behind the Scenes" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "blackpink/square-one/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "blackpink/hwiparam"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "blackpink/boombayah"
+duration = "4:00"

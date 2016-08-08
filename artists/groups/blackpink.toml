@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "블랙핑크", locale = "ko", original = true },
+  { name = "BLACKPINK", locale = "ko-Latn", default = true },
+]
