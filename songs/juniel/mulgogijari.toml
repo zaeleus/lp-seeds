@@ -4,7 +4,7 @@ names = [
   { name = "Pisces", locale = "en" },
 ]
 
-url = [
+urls = [
   { url = "https://www.youtube.com/watch?v=3yj8ToOtTZE", name = "Teaser" },
   { url = "https://www.youtube.com/watch?v=1GKpu0WCkB0", name = "Music Video" },
 ]
