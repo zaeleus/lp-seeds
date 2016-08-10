@@ -1,0 +1,16 @@
+artist-id = "apink"
+kind = "single"
+
+names = [
+  { name = "サマータイム!", locale = "ja", original = true },
+  { name = "Summer Time!", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2016-08-03"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000006/00600406786579/" },
+  { url = "http://recochoku.jp/album/A1004580753/" },
+]
