@@ -15,4 +15,5 @@ urls = [
   { url = "https://www.youtube.com/watch?v=qtvyBSVF1Oo", name = "Teaser 1" },
   { url = "https://www.youtube.com/watch?v=F8h_nU02FjE", name = "Teaser 2" },
   { url = "https://www.youtube.com/watch?v=y882AFjrSOM", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=riAoBzOMZt4", name = "Choreography Practice Video" },
 ]
