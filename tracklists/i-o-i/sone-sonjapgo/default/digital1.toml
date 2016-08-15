@@ -1,0 +1,13 @@
+medium-ids = [
+  "i-o-i/sone-sonjapgo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "i-o-i/sone-sonjapgo"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "i-o-i/sone-sonjapgo-inst"
+duration = "3:19"
