@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "오마이걸", locale = "ko", original = true },
-  { name = "Oh My Girl", locale = "ko-Latn", default = true },
+  { name = "OH MY GIRL", locale = "ko-Latn", default = true },
 ]
 
 labels = [{ label-id = "wm-entertainment" }]
