@@ -1,0 +1,38 @@
+medium-ids = [
+  "cosmic-girls/the-secret/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cosmic-girls/bimiriya-secret"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "cosmic-girls/bebe"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "cosmic-girls/ujukiseumi-would-you-kiss-me"
+duration = "3:36"
+
+[[tracks]]
+position = 4
+song-id = "cosmic-girls/jjan-prince"
+duration = "3:21"
+
+[[tracks]]
+position = 5
+song-id = "cosmic-girls/robot"
+duration = "3:39"
+
+[[tracks]]
+position = 6
+song-id = "cosmic-girls/icheungchimdae-good-night"
+duration = "3:33"
+
+[[tracks]]
+position = 7
+song-id = "cosmic-girls/bimiriya-chinese-ver"
+duration = "3:42"

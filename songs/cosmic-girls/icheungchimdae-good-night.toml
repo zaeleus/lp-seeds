@@ -1,0 +1,5 @@
+names = [
+  { name = "이층침대 (Good Night)", locale = "ko", original = true },
+  { name = "Icheungchimdae (Good Night)", locale = "ko-Latn", default = true },
+  { name = "Good Night", locale = "en" },
+]

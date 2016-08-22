@@ -1,0 +1,5 @@
+names = [
+  { name = "우주키스미 (Would You Kiss Me?)", locale = "ko", original = true },
+  { name = "Ujukiseumi (Would You Kiss Me?)", locale = "ko-Latn", default = true },
+  { name = "Would You Kiss Me?", locale = "en" },
+]
