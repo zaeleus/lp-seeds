@@ -1,0 +1,30 @@
+medium-ids = [
+  "aoa/good-luck-jp/limited-edition-type-a/cd1",
+  "aoa/good-luck-jp/limited-edition-type-b/cd1",
+  "aoa/good-luck-jp/limited-edition-type-c/cd1",
+  "aoa/good-luck-jp/regular-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aoa/good-luck-japanese-ver"
+
+[[tracks]]
+position = 2
+song-id = "aoa/10-seconds-japanese-ver"
+
+[[tracks]]
+position = 3
+song-id = "aoa/really-really-japanese-ver"
+
+[[tracks]]
+position = 4
+song-id = "aoa/good-luck-karaoke-ver"
+
+[[tracks]]
+position = 5
+song-id = "aoa/10-seconds-instrumental"
+
+[[tracks]]
+position = 6
+song-id = "aoa/really-really-instrumental"

@@ -1,0 +1,46 @@
+artist-id = "aoa"
+kind = "single"
+
+names = [
+  { name = "Good Luck", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-08-03"
+country = "JP"
+catalog-number = "UICV-9183"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition Type A"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1186685/1/" },
+]
+
+[[releases]]
+released-on = "2016-08-03"
+country = "JP"
+catalog-number = "UICV-9184"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition Type B"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1186686/1/" },
+]
+
+[[releases]]
+released-on = "2016-08-03"
+country = "JP"
+catalog-number = "UICV-9185"
+media = [{ kind = "cd" }]
+disambiguation = "Limited Edition Type C"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1186687/1/" },
+]
+
+[[releases]]
+released-on = "2016-08-03"
+country = "JP"
+catalog-number = "UICV-9186"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/624071/products/1186688/1/" },
+]

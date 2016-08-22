@@ -1,0 +1,7 @@
+names = [
+  { name = "Good Luck (Japanese ver.)", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=gWjrNK8KFhk", name = "Music Video (Short Version)" },
+]
