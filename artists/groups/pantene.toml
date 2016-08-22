@@ -1,0 +1,7 @@
+kind = "group" # TODO kind?
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "Pantene", locale = "en", original = true, default = true },
+]
