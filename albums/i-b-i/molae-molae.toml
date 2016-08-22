@@ -1,0 +1,16 @@
+artist-id = "i-b-i"
+kind = "single"
+
+names = [
+  { name = "몰래몰래", locale = "ko", original = true },
+  { name = "MOLAE MOLAE", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-08-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2704524" },
+  { url = "http://www.mnet.com/album/569475" },
+]

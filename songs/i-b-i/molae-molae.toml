@@ -1,0 +1,8 @@
+names = [
+  { name = "몰래몰래", locale = "ko", original = true },
+  { name = "MOLAE MOLAE", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=t2wG8NCSQPI", name = "Music Video" },
+]
