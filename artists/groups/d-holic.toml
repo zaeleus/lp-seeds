@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2014"
+country = "KR"
+
+names = [
+  { name = "디홀릭", locale = "ko", original = true },
+  { name = "D.HOLIC", locale = "ko-Latn", default = true },
+]

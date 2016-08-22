@@ -1,0 +1,7 @@
+names = [
+  { name = "COLOR ME RAD", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=eAp6zeE2bMA", name = "Music Video" },
+]

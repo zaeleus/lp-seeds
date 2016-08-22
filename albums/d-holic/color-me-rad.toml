@@ -1,0 +1,15 @@
+artist-id = "d-holic"
+kind = "single"
+
+names = [
+  { name = "COLOR ME RAD", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-07-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2696133" },
+  { url = "http://www.mnet.com/album/560428" },
+]
