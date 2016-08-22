@@ -1,0 +1,31 @@
+artist-id = "nowisee"
+kind = "lp"
+
+names = [
+  { name = "掌の戦争", locale = "ja", original = true },
+  { name = "Tenohira no Senso", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=mEyWpfgaxls", name = "Songs Digest" },
+]
+
+[[releases]]
+released-on = "2016-08-10"
+country = "JP"
+catalog-number = "KICS-93402"
+disambiguation = "Limited Edition"
+media = [{ kind = "cd" }, { kind = "blu-ray" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/676797/products/1184958/1/" },
+]
+
+[[releases]]
+released-on = "2016-08-10"
+country = "JP"
+catalog-number = "KICS-3403"
+disambiguation = "Regular Edition"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/676797/products/1184962/1/" },
+]

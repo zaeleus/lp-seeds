@@ -1,0 +1,5 @@
+names = [
+  { name = "完全性世界に宿る死角", locale = "ja", original = true },
+  { name = "Kanzensei Sekai ni Yadoru Shikaku", locale = "ja-Latn", default = true },
+  { name = "The Hidden Danger of a Perfect World", locale = "ja-Latn" },
+]
