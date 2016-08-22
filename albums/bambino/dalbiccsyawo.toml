@@ -1,0 +1,17 @@
+artist-id = "bambino"
+kind = "single"
+
+names = [
+  { name = "달빛샤워", locale = "ko", original = true },
+  { name = "Dalbiccsyawo", locale = "ko-Latn", default = true },
+  { name = "Moonlight Shower", locale = "en" },
+]
+
+[[releases]]
+released-on = "2016-08-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2705576" },
+  { url = "http://www.mnet.com/album/570326" },
+]

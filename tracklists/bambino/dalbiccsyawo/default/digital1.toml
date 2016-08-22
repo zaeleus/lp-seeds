@@ -1,0 +1,23 @@
+medium-ids = [
+  "bambino/dalbiccsyawo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bambino/dalbiccsyawo"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "bambino/mamma-mia"
+duration = "3:38"
+
+[[tracks]]
+position = 3
+song-id = "bambino/dalbiccsyawo-inst"
+duration = "3:27"
+
+[[tracks]]
+position = 4
+song-id = "bambino/mamma-mia-inst"
+duration = "3:38"

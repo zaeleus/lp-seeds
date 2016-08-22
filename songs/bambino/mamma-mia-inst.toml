@@ -1,0 +1,5 @@
+names = [
+  { name = "맘마미아 (Inst.)", locale = "ko", original = true },
+  { name = "Mammamia (Inst.)", locale = "ko-Latn" },
+  { name = "Mamma Mia (Inst.)", locale = "en", default = true },
+]

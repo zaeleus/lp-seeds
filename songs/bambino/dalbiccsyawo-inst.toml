@@ -1,0 +1,5 @@
+names = [
+  { name = "달빛샤워 (Inst.)", locale = "ko", original = true },
+  { name = "Dalbiccsyawo (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Moonlight Shower (Inst.)", locale = "en" },
+]
