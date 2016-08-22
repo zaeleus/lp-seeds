@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2014"
+country = "KR"
+
+names = [
+  { name = "배드키즈", locale = "ko", original = true },
+  { name = "BADKIZ", locale = "ko-Latn", default = true },
+]

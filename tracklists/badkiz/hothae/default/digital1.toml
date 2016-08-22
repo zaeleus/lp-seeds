@@ -1,0 +1,8 @@
+medium-ids = [
+  "badkiz/hothae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "badkiz/hothae"
+duration = "3:01"

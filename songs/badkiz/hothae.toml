@@ -1,0 +1,11 @@
+names = [
+  { name = "핫해 (HOTHAE)", locale = "ko", original = true },
+  { name = "HOTHAE", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=MDhqtBQbnos", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=OgFPGjOvv4k", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=aO2q5XTVRRg", name = "MV making" },
+  { url = "https://www.youtube.com/watch?v=UCf10mOG_hQ", name = "Choreography Video" },
+]
