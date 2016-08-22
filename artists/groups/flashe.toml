@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2013"
+country = "KR"
+
+names = [
+  { name = "플래쉬", locale = "ko", original = true },
+  { name = "FlaShe", locale = "ko-Latn", default = true },
+]

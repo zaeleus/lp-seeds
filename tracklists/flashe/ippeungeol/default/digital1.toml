@@ -1,0 +1,13 @@
+medium-ids = [
+  "flashe/ippeungeol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "flashe/ippeungeol"
+duration = ""
+
+[[tracks]]
+position = 2
+song-id = "flashe/ippeungeol-inst"
+duration = ""

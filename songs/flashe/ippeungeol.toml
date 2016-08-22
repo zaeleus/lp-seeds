@@ -1,0 +1,12 @@
+names = [
+  { name = "이쁜걸", locale = "ko", original = true },
+  { name = "Ippeungeol", locale = "ko-Latn", default = true },
+  { name = "Cutie Girl", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=C-5GC-9bvIs", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=RUYnu9OBA6A", name = "Audio" },
+  { url = "https://www.youtube.com/watch?v=1fTz89NHwYo", name = "1min MV" },
+  { url = "https://www.youtube.com/watch?v=vM9uab6fH0M", name = "Dance Practice" },
+]

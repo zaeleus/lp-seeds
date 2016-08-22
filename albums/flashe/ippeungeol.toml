@@ -1,0 +1,17 @@
+artist-id = "flashe"
+kind = "single"
+
+names = [
+  { name = "이쁜걸", locale = "ko", original = true },
+  { name = "Ippeungeol", locale = "ko-Latn", default = true },
+  { name = "Cutie Girl", locale = "en" },
+]
+
+[[releases]]
+released-on = "2016-08-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2702805" },
+  { url = "http://www.mnet.com/album/567258" },
+]
