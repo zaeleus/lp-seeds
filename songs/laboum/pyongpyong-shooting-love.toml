@@ -1,0 +1,11 @@
+names = [
+  { name = "푱푱 (Shooting Love)", locale = "ko", original = true },
+  { name = "Pyongpyong (Shooting Love)", locale = "ko-Latn", default = true },
+  { name = "Shooting Love", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=F4qiEs30drA", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=fTHETYJr2F8", name = "M/V Episode Cut" },
+  { url = "https://www.youtube.com/watch?v=mET2g1HF9TY", name = "Music Video" },
+]

@@ -1,0 +1,28 @@
+artist-id = "laboum"
+kind = "ep"
+
+names = [
+  { name = "LOVE SIGN", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=fVq6Q8HCGt0", name = "Highlight Medley" },
+]
+
+[[releases]]
+released-on = "2016-08-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2705913" },
+  { url = "http://www.mnet.com/album/570763" },
+]
+
+[[releases]]
+released-on = "2016-08-23"
+country = "KR"
+catalog-number = "L200001291"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=001209699" },
+]
