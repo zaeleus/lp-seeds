@@ -1,0 +1,15 @@
+artist-id = "unicorn"
+kind = "ep"
+
+names = [
+  { name = "UNICORN PLUS / THE BRAND NEW LABEL", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-07-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2700570" },
+  { url = "http://www.mnet.com/album/565413" },
+]

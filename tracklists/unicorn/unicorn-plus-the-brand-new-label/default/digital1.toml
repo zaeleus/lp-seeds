@@ -1,0 +1,28 @@
+medium-ids = [
+  "unicorn/unicorn-plus-the-brand-new-label/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "unicorn/unicorn-intro"
+duration = "0:40"
+
+[[tracks]]
+position = 2
+song-id = "unicorn/blink-blink"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "unicorn/sun-shower"
+duration = "3:05"
+
+[[tracks]]
+position = 4
+song-id = "unicorn/i-need-you-tonight"
+duration = "3:09"
+
+[[tracks]]
+position = 5
+song-id = "unicorn/blink-blink-inst"
+duration = "3:09"

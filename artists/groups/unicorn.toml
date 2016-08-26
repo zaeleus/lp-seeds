@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2015"
+country = "KR"
+
+names = [
+  { name = "유니콘", locale = "ko", original = true },
+  { name = "UNICORN", locale = "ko-Latn", default = true },
+]

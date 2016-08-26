@@ -1,0 +1,9 @@
+names = [
+  { name = "BLINK BLINK", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=W3b5f-iacCA", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=PcpWEz4r1Z0", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=p-6NRLAQBus", name = "Music Video (Dance Ver.)" },
+]
