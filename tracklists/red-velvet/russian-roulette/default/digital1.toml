@@ -1,0 +1,38 @@
+medium-ids = [
+  "red-velvet/russian-roulette/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/russian-roulette"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/lucky-girl"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "red-velvet/bad-dracula"
+duration = "3:08"
+
+[[tracks]]
+position = 4
+song-id = "red-velvet/sunny-afternoon"
+duration = "4:00"
+
+[[tracks]]
+position = 5
+song-id = "red-velvet/fool"
+duration = "3:53"
+
+[[tracks]]
+position = 6
+song-id = "red-velvet/some-love"
+duration = "3:16"
+
+[[tracks]]
+position = 7
+song-id = "red-velvet/my-dear"
+duration = "3:34"
