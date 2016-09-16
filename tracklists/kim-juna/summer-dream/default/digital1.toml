@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-juna/summer-dream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-juna/summer-dream"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "kim-juna/summer-dream-inst"
+duration = "3:48"
