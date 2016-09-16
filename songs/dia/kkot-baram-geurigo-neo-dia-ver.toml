@@ -1,0 +1,4 @@
+names = [
+  { name = "꽃, 바람 그리고 너 (DIA Ver.)", locale = "ko", original = true },
+  { name = "Kkot, Baram Geurigo Neo (DIA Ver.)", locale = "ko-Latn", default = true },
+]

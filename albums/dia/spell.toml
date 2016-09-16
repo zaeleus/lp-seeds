@@ -1,0 +1,15 @@
+artist-id = "dia"
+kind = "ep"
+
+names = [
+  { name = "Spell", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-09-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2710969" },
+  { url = "http://www.mnet.com/album/575734" },
+]

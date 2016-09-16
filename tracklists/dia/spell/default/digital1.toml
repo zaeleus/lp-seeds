@@ -1,0 +1,38 @@
+medium-ids = [
+  "dia/spell/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dia/7gwa-4bunui3-neol-mannareo-ganeun-gil"
+duration = "2:37"
+
+[[tracks]]
+position = 2
+song-id = "dia/mr-potter"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "dia/kkot-baram-geurigo-neo-dia-ver"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song-id = "dia/huihyeon/hwaga"
+duration = "3:05"
+
+[[tracks]]
+position = 5
+song-id = "dia/deoreop-the-love"
+duration = "3:55"
+
+[[tracks]]
+position = 6
+song-id = "dia/mr-potter-inst"
+duration = "3:33"
+
+[[tracks]]
+position = 7
+song-id = "dia/deoreop-the-love-inst"
+duration = "3:55"

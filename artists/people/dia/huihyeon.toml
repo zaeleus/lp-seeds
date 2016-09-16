@@ -1,0 +1,17 @@
+kind = "person"
+started-on = "1995-06-16"
+country = "KR"
+
+names = [
+  { name = "희현", locale = "ko", kind = "stage", original = true },
+  { name = "Huihyeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "캐시", locale = "ko", kind = "stage" },
+  { name = "Cathy", locale = "ko-Latn", kind = "stage" },
+  { name = "기희현", locale = "ko", kind = "real" },
+  { name = "Ki Hui Hyeon", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 167
+weight = 46
+blood-type = "O"

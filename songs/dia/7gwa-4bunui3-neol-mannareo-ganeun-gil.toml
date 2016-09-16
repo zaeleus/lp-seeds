@@ -1,0 +1,4 @@
+names = [
+  { name = "7과 4분의3 (널+만나러+가는+길)", locale = "ko", original = true },
+  { name = "7gwa 4bunui3 (Neol+Mannareo+Ganeun+Gil)", locale = "ko-Latn", default = true },
+]
