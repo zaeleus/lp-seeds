@@ -1,0 +1,15 @@
+artist-id = "mamamoo"
+kind = "single"
+
+names = [
+  { name = "Angel, DABDAB", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-08-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2707925" },
+  { url = "http://www.mnet.com/album/572693" },
+]
