@@ -1,0 +1,12 @@
+names = [
+  { name = "Walkin' (다시 너에게) (Feat. Hash Swan)", locale = "ko", original = true },
+  { name = "Walkin' (Dasi Neoege) (Feat. Hash Swan)", locale = "ko-Latn", default = true },
+  { name = "Walkin' (Feat. Hash Swan)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "15and/jimin"
+names = [
+  { name = "박지민", locale = "ko", original = true },
+  { name = "Jimin Park", locale = "en", default = true },
+]

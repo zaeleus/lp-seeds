@@ -1,0 +1,12 @@
+names = [
+  { name = "다시", locale = "ko", original = true },
+  { name = "Dasi", locale = "ko-Latn", default = true },
+  { name = "Try", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "15and/jimin"
+names = [
+  { name = "박지민", locale = "ko", original = true },
+  { name = "Jimin Park", locale = "en", default = true },
+]
