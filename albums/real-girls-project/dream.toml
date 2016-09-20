@@ -1,0 +1,16 @@
+artist-id = "real-girls-project"
+kind = "single"
+
+names = [
+  { name = "꿈을 Dream", locale = "ko", original = true },
+  { name = "Dream", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2016-08-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2706547" },
+  { url = "http://www.mnet.com/album/571408" },
+]

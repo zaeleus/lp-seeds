@@ -1,0 +1,4 @@
+names = [
+  { name = "꿈을 Dream (Inst.)", locale = "ko", original = true },
+  { name = "Dream (Inst.)", locale = "en", default = true },
+]

@@ -1,0 +1,23 @@
+medium-ids = [
+  "real-girls-project/dream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "real-girls-project/dream"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "real-girls-project/one-for-all"
+duration = "3:08"
+
+[[tracks]]
+position = 3
+song-id = "real-girls-project/dream-inst"
+duration = "3:04"
+
+[[tracks]]
+position = 4
+song-id = "real-girls-project/one-for-all-inst"
+duration = "3:08"
