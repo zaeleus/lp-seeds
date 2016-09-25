@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2007"
+country = "KR"
+
+names = [
+  { name = "써니힐", locale = "ko", original = true },
+  { name = "SunnyHill", locale = "ko-Latn", default = true },
+]

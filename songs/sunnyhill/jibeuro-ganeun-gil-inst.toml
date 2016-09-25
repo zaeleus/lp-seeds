@@ -1,0 +1,5 @@
+names = [
+  { name = "집으로 가는 길 (Inst.)", locale = "ko", original = true },
+  { name = "Jibeuro Ganeun Gil (Inst.)", locale = "ko-Latn", default = true },
+  { name = "on the way home (Inst.)", locale = "en" },
+]
