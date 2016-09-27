@@ -1,0 +1,15 @@
+artist-id = "brown-eyed-girls/gain"
+kind = "lp"
+
+names = [
+  { name = "End Again", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-09-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2710304" },
+  { url = "http://www.mnet.com/album/575279" },
+]

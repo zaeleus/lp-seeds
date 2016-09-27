@@ -1,0 +1,28 @@
+medium-ids = [
+  "brown-eyed-girls/gain/end-again/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brown-eyed-girls/gain/carrie-the-first-day"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "brown-eyed-girls/gain/carnival-the-last-day"
+duration = "4:21"
+
+[[tracks]]
+position = 3
+song-id = "brown-eyed-girls/gain/bandisburiui-sup"
+duration = "3:46"
+
+[[tracks]]
+position = 4
+song-id = "brown-eyed-girls/gain/bimil"
+duration = "3:16"
+
+[[tracks]]
+position = 5
+song-id = "brown-eyed-girls/gain/begin-again-inst"
+duration = "0:55"
