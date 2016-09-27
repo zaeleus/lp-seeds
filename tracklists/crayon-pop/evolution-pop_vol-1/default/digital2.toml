@@ -1,0 +1,46 @@
+medium-ids = [
+  "crayon-pop/evolution-pop_vol-1/default/digital2",
+]
+
+[[tracks]]
+position = 1
+song-id = "crayon-pop/bar-bar-bar"
+duration = "2:59"
+names = [
+  { name = "빠빠빠 (Bar Bar Bar)", locale = "ko", original = true },
+  { name = "Bar Bar Bar", locale = "ko-Latn", default = true },
+]
+
+[[tracks]]
+position = 2
+song-id = "crayon-pop/uh-ee"
+duration = "3:13"
+names = [
+  { name = "어이 (UH-EE)", locale = "ko", original = true },
+  { name = "UH-EE", locale = "ko-Latn", default = true },
+]
+
+[[tracks]]
+position = 3
+song-id = "crayon-pop/dancing-queen-2-0"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song-id = "crayon-pop/bing-bing"
+duration = "3:06"
+
+[[tracks]]
+position = 5
+song-id = "crayon-pop/fm"
+duration = "3:41"
+
+[[tracks]]
+position = 6
+song-id = "crayon-pop/saturday-night"
+duration = "3:07"
+
+[[tracks]]
+position = 7
+song-id = "crayon-pop/hello"
+duration = "3:43"
