@@ -1,0 +1,5 @@
+names = [
+  { name = "가족같은", locale = "ko", original = true },
+  { name = "Gajokgateun", locale = "ko-Latn", default = true },
+  { name = "Like family", locale = "en" },
+]

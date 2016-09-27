@@ -1,0 +1,13 @@
+medium-ids = [
+  "anda/gajokgateun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "anda/gajokgateun"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "anda/gajokgateun-inst"
+duration = "3:38"

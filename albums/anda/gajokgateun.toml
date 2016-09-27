@@ -1,0 +1,17 @@
+artist-id = "anda"
+kind = "single"
+
+names = [
+  { name = "가족같은", locale = "ko", original = true },
+  { name = "Gajokgateun", locale = "ko-Latn", default = true },
+  { name = "Like family", locale = "en" },
+]
+
+[[releases]]
+released-on = "2016-09-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10000274" },
+  { url = "http://www.mnet.com/album/579046" },
+]
