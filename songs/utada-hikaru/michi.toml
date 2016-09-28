@@ -1,0 +1,5 @@
+names = [
+  { name = "道", locale = "ja", original = true },
+  { name = "Michi", locale = "ja-Latn", default = true },
+  { name = "Road", locale = "en" },
+]

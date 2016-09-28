@@ -1,0 +1,5 @@
+names = [
+  { name = "二時間だけのバカンス featuring 椎名林檎", locale = "ja", original = true },
+  { name = "Nijikan Dake no Vacance featuring Shiina Ringo", locale = "ja-Latn", default = true },
+  { name = "A Two Hour Vacation featuring Shiina Ringo", locale = "en" },
+]

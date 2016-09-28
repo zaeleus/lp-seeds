@@ -1,0 +1,5 @@
+names = [
+  { name = "桜流し", locale = "ja", original = true },
+  { name = "Sakura Nagashi", locale = "ja-Latn", default = true },
+  { name = "Flowing Cherry Blossoms", locale = "en" },
+]

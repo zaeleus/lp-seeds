@@ -1,0 +1,17 @@
+artist-id = "utada-hikaru"
+kind = "lp"
+
+names = [
+  { name = "Fantôme", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-09-28"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://recochoku.jp/album/A1004912947/" },
+  { url = "http://recochoku.jp/album/A1004913013/" },
+  { url = "http://mora.jp/package/43000006/00600406798343/" },
+  { url = "http://mora.jp/package/43000006/00600406798336/" },
+]

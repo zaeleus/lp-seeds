@@ -1,0 +1,5 @@
+names = [
+  { name = "ともだち with 小袋成彬", locale = "ja", original = true },
+  { name = "Tomodachi with Obukuro Nariaki", locale = "ja-Latn", default = true },
+  { name = "Friend with Obukuro Nariaki", locale = "en" },
+]

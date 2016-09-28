@@ -1,0 +1,5 @@
+names = [
+  { name = "人生最高の日", locale = "ja", original = true },
+  { name = "Jinsei Saikou no Hi", locale = "ja-Latn", default = true },
+  { name = "The Best Day of My Life", locale = "en" },
+]

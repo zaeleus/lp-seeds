@@ -1,0 +1,5 @@
+names = [
+  { name = "忘却 featuring KOHH", locale = "ja", original = true },
+  { name = "Boukyaku featuring KOHH", locale = "ja-Latn", default = true },
+  { name = "Forgotten featuring KOHH", locale = "en" },
+]

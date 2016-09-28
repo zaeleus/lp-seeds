@@ -1,0 +1,58 @@
+medium-ids = [
+  "utada-hikaru/fantome/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "utada-hikaru/michi"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "utada-hikaru/ore-no-kanojo"
+duration = "5:04"
+
+[[tracks]]
+position = 3
+song-id = "utada-hikaru/hanataba-wo-kimi-ni"
+duration = "4:38"
+
+[[tracks]]
+position = 4
+song-id = "utada-hikaru/nijikan-dake-no-vacance-featuring-shiina-ringo"
+duration = "4:42"
+
+[[tracks]]
+position = 5
+song-id = "utada-hikaru/ningyo"
+duration = "4:16"
+
+[[tracks]]
+position = 6
+song-id = "utada-hikaru/tomodachi-with-obukuro-nariaki"
+duration = "4:22"
+
+[[tracks]]
+position = 7
+song-id = "utada-hikaru/manatsu-no-tooriame"
+duration = "5:38"
+
+[[tracks]]
+position = 8
+song-id = "utada-hikaru/kouya-no-ookami"
+duration = "4:34"
+
+[[tracks]]
+position = 9
+song-id = "utada-hikaru/boukyaku-featuring-kohh"
+duration = "5:05"
+
+[[tracks]]
+position = 10
+song-id = "utada-hikaru/jinsei-saikou-no-hi"
+duration = "3:10"
+
+[[tracks]]
+position = 11
+song-id = "utada-hikaru/sakura-nagashi"
+duration = "4:40"

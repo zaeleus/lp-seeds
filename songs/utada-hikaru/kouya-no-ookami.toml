@@ -1,0 +1,5 @@
+names = [
+  { name = "荒野の狼", locale = "ja", original = true },
+  { name = "Kouya no Ookami", locale = "ja-Latn", default = true },
+  { name = "Wolf in the Wilderness", locale = "en" },
+]
