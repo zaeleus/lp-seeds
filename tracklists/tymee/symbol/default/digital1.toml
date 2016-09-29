@@ -1,0 +1,33 @@
+medium-ids = [
+  "tymee/symbol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "tymee/intro-complex-with-2tak"
+duration = "2:30"
+
+[[tracks]]
+position = 2
+song-id = "tymee/cinderella"
+duration = "2:48"
+
+[[tracks]]
+position = 3
+song-id = "tymee/bawibogawi"
+duration = "3:51"
+
+[[tracks]]
+position = 4
+song-id = "tymee/2-bitches-haters-feat-san-e-innovator-niihwa"
+duration = "4:32"
+
+[[tracks]]
+position = 5
+song-id = "tymee/nndkkj-feat-jaekyung-of-rainbow"
+duration = "3:49"
+
+[[tracks]]
+position = 6
+song-id = "tymee/cinderella-inst"
+duration = "2:48"

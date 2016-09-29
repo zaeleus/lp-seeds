@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1993-08-20"
+country = "KR"
+
+names = [
+  { name = "타이미", locale = "ko", kind = "stage", original = true },
+  { name = "Tymee", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이옥주", locale = "ko", kind = "real" },
+  { name = "Lee Ok Joo", locale = "ko-Latn", kind = "real" },
+]

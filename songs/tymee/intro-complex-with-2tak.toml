@@ -1,0 +1,3 @@
+names = [
+  { name = "Intro (Complex) (With 2TAK)", locale = "ko", original = true, default = true },
+]

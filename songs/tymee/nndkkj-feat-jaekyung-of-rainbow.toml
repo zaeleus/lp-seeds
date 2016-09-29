@@ -1,0 +1,4 @@
+names = [
+  { name = "ㄴㄴㄷㄲㅈ (Feat. 재경 of Rainbow)", locale = "ko", original = true },
+  { name = "NNDKKJ (Feat. Jaekyung of Rainbow)", locale = "ko-Latn", default = true },
+]
