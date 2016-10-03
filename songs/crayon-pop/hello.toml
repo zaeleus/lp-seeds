@@ -1,3 +1,7 @@
 names = [
   { name = "Hello", locale = "ko", original = true, default = true },
 ]
+
+artist-credits = [
+  { artist-id = "strawberry-milk" },
+]
