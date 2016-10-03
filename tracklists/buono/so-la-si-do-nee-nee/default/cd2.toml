@@ -1,0 +1,23 @@
+medium-ids = [
+  "buono/so-la-si-do-nee-nee/default/cd2",
+]
+
+[[tracks]]
+position = 1
+song-id = "buono/so-la-si-do-nee-nee"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "buono/rock-no-seichi"
+duration = "3:56"
+
+[[tracks]]
+position = 3
+song-id = "buono/so-la-si-do-nee-nee-instrumental"
+duration = "4:15"
+
+[[tracks]]
+position = 4
+song-id = "buono/rock-no-seichi-instrumental"
+duration = "3:56"

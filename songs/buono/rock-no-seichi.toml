@@ -1,0 +1,5 @@
+names = [
+  { name = "ロックの聖地", locale = "ja", original = true },
+  { name = "Rock no Seichi", locale = "ja-Latn", default = true },
+  { name = "The Holy Land of Rock", locale = "en" },
+]

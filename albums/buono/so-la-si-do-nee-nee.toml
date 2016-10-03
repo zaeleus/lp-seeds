@@ -1,0 +1,18 @@
+artist-id = "buono"
+kind = "single"
+
+names = [
+  { name = "ソラシド～ねえねえ～", locale = "ja", original = true },
+  { name = "So La Si Do ~Nee Nee~", locale = "ja-Latn", default = true },
+  { name = "So La Si Do ~Hey, Hey~", locale = "en" },
+]
+
+[[releases]]
+released-on = "2016-09-21"
+country = "JP"
+catalog-number = "UFBW-1514"
+media = [{ kind = "dvd" }, { kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/434963/products/1196794/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/UFBW-1514/" },
+]

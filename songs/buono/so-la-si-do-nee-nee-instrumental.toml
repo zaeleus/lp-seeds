@@ -1,0 +1,5 @@
+names = [
+  { name = "ソラシド～ねえねえ～ (Instrumental)", locale = "ja", original = true },
+  { name = "So La Si Do ~Nee Nee~ (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "So La Si Do ~Hey, Hey~ (Instrumental)", locale = "en" },
+]
