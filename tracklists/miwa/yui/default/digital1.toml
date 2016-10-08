@@ -1,0 +1,30 @@
+medium-ids = [
+  "miwa/yui/default/digital1",
+  "miwa/yui/limited-edition-a/cd1",
+  "miwa/yui/regular-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miwa/yui"
+duration = "4:41"
+
+[[tracks]]
+position = 2
+song-id = "miwa/on-my-way"
+duration = "4:16"
+
+[[tracks]]
+position = 3
+song-id = "miwa/princess-tropical-remix"
+duration = "4:58"
+
+[[tracks]]
+position = 4
+song-id = "miwa/yui-instrumental"
+duration = "4:41"
+
+[[tracks]]
+position = 5
+song-id = "miwa/on-my-way-instrumental"
+duration = "4:14"

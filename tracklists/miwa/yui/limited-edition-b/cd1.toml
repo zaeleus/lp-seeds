@@ -1,0 +1,23 @@
+medium-ids = [
+  "miwa/yui/limited-edition-b/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miwa/yui"
+
+[[tracks]]
+position = 2
+song-id = "miwa/on-my-way"
+
+[[tracks]]
+position = 3
+song-id = "miwa/yui-mixed-three-part-chorus"
+
+[[tracks]]
+position = 4
+song-id = "miwa/yui-instrumental"
+
+[[tracks]]
+position = 5
+song-id = "miwa/on-my-way-instrumental"

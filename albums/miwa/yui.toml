@@ -1,0 +1,51 @@
+artist-id = "miwa"
+kind = "single"
+
+names = [
+  { name = "結 -ゆい-", locale = "ja", original = true },
+  { name = "Yui", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-10-05"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000001/4547366277517/" },
+  { url = "http://mora.jp/package/43000001/4547366277555/" },
+  { url = "http://recochoku.jp/album/A1004913365/" },
+  { url = "http://recochoku.jp/album/A1005101625/" },
+]
+
+[[releases]]
+released-on = "2016-10-05"
+country = "JP"
+catalog-number = "SRCL-9182~3"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition A"
+urls = [
+  { url = "http://www.miwa-web.com/disco/archive/?SRCL-9182" },
+  { url = "http://www.oricon.co.jp/prof/500709/products/1194786/1/" },
+]
+
+[[releases]]
+released-on = "2016-10-05"
+country = "JP"
+catalog-number = "SRCL-9184"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.miwa-web.com/disco/archive/?SRCL-9184" },
+  { url = "http://www.oricon.co.jp/prof/500709/products/1194787/1/" },
+]
+
+[[releases]]
+released-on = "2016-10-05"
+country = "JP"
+catalog-number = "SRCL-9196~7"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition B"
+urls = [
+  { url = "http://www.miwa-web.com/disco/archive/?SRCL-9196" },
+  { url = "http://www.oricon.co.jp/prof/500709/products/1196946/1/" },
+]
