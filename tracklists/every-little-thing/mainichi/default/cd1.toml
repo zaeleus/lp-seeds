@@ -1,0 +1,24 @@
+medium-ids = [
+  "every-little-thing/mainichi/default/cd1",
+  "every-little-thing/mainichi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "every-little-thing/mainichi"
+duration = "5:20"
+
+[[tracks]]
+position = 2
+song-id = "every-little-thing/blue-star"
+duration = "4:03"
+
+[[tracks]]
+position = 3
+song-id = "every-little-thing/mainichi-instrumental"
+duration = "5:20"
+
+[[tracks]]
+position = 4
+song-id = "every-little-thing/blue-star-instrumental"
+duration = "4:03"

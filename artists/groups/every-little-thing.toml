@@ -1,0 +1,7 @@
+kind = "group"
+started-on = "1996"
+country = "JP"
+
+names = [
+  { name = "Every Little Thing", locale = "ja", original = true, default = true },
+]

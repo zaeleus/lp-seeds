@@ -1,0 +1,27 @@
+artist-id = "every-little-thing"
+kind = "single"
+
+names = [
+  { name = "まいにち。", locale = "ja", original = true },
+  { name = "Mainichi.", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-09-21"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000002/AVCD-83697/" },
+  { url = "http://mora.jp/package/43000002/ANTCD-19196_F/" },
+  { url = "http://recochoku.jp/album/A1004908098/" },
+  { url = "http://recochoku.jp/album/A1004908165/" },
+]
+
+[[releases]]
+released-on = "2016-09-21"
+country = "JP"
+catalog-number = "AVCD-83697"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/7747/products/1194901/1/" },
+]
