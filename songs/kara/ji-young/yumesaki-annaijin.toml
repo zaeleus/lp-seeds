@@ -1,0 +1,10 @@
+names = [
+  { name = "夢先案内人", locale = "ja", original = true },
+  { name = "Yumesaki Annaijin", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "kara/ji-young"
+names = [
+  { name = "JY", locale = "ja", original = true, default = true },
+]

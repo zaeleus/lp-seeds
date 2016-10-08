@@ -1,0 +1,9 @@
+names = [
+  { name = "Hello Mr.", locale = "ja", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "kara/ji-young"
+names = [
+  { name = "JY", locale = "ja", original = true, default = true },
+]

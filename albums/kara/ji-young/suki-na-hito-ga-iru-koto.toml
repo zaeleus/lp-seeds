@@ -1,0 +1,58 @@
+artist-id = "kara/ji-young"
+kind = "single"
+
+names = [
+  { name = "好きな人がいること", locale = "ja", original = true },
+  { name = "Suki na Hito ga Iru Koto", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "kara/ji-young"
+names = [
+  { name = "JY", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-08-15"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000001/4988009133720/" },
+  { url = "http://mora.jp/package/43000001/4988009133683/" },
+  { url = "http://recochoku.jp/album/A1004631059/" },
+  { url = "http://recochoku.jp/album/A1004669641/" },
+]
+
+[[releases]]
+released-on = "2016-08-31"
+country = "JP"
+catalog-number = "SRCL-9121~2"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition A"
+urls = [
+  { url = "http://www.jy-official.com/artist/jy/discography/SRCL-9121" },
+  { url = "http://www.oricon.co.jp/prof/667305/products/1189641/1/" },
+]
+
+[[releases]]
+released-on = "2016-08-31"
+country = "JP"
+catalog-number = "SRCL-9123~4"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition B"
+urls = [
+  { url = "http://www.jy-official.com/artist/jy/discography/SRCL-9123" },
+  { url = "http://www.oricon.co.jp/prof/667305/products/1189642/1/" },
+]
+
+
+[[releases]]
+released-on = "2016-08-31"
+country = "JP"
+catalog-number = "SRCL-9125"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.jy-official.com/artist/jy/discography/SRCL-9125" },
+  { url = "http://www.oricon.co.jp/prof/667305/products/1189643/1/" },
+]

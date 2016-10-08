@@ -1,0 +1,24 @@
+medium-ids = [
+  "kara/ji-young/suki-na-hito-ga-iru-koto/default/digital1",
+  "kara/ji-young/suki-na-hito-ga-iru-koto/regular-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kara/ji-young/suki-na-hito-ga-iru-koto"
+duration = "4:32"
+
+[[tracks]]
+position = 2
+song-id = "kara/ji-young/hello-mr"
+duration = "4:47"
+
+[[tracks]]
+position = 3
+song-id = "kara/ji-young/yumesaki-annaijin"
+duration = "4:25"
+
+[[tracks]]
+position = 4
+song-id = "kara/ji-young/suki-na-hito-ga-iru-koto-piano-slow-edit"
+duration = "3:01"
