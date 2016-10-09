@@ -1,0 +1,4 @@
+names = [
+  { name = "Feel (Feat. 에릭남)", locale = "ko", original = true },
+  { name = "Feelin' (Feat. Eric Nam)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "Home (Feat. 윤미래)", locale = "ko", original = true },
+  { name = "Home (Feat. Yoon Mi Rae)", locale = "ko-Latn", default = true },
+]

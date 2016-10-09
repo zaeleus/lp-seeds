@@ -1,0 +1,15 @@
+artist-id = "ailee"
+kind = "ep"
+
+names = [
+  { name = "A New Empire", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-10-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10003256" },
+  { url = "http://www.mnet.com/album/727527" },
+]

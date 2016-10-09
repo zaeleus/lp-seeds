@@ -1,0 +1,4 @@
+names = [
+  { name = "Live or Die (Feat. 탁 Of 배치기)", locale = "ko", original = true },
+  { name = "Live or Die (Feat. Tak of Baechigi)", locale = "ko-Latn", default = true },
+]

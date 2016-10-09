@@ -1,0 +1,33 @@
+medium-ids = [
+  "ailee/a-new-empire/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ailee/home-feat-yoon-mi-rae"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "ailee/kkakkung"
+duration = "4:16"
+
+[[tracks]]
+position = 3
+song-id = "ailee/feelin-feat-eric-nam"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "ailee/live-or-die-feat-tak-of-baechigi"
+duration = "3:02"
+
+[[tracks]]
+position = 5
+song-id = "ailee/i-need-you"
+duration = "3:22"
+
+[[tracks]]
+position = 6
+song-id = "ailee/if-you"
+duration = "3:07"
