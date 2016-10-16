@@ -1,0 +1,18 @@
+medium-ids = [
+  "ladies-code/strang3r/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ladies-code/lorelei"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "ladies-code/the-rain"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "ladies-code/jane-doe"
+duration = "3:35"
