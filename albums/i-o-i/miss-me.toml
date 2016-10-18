@@ -1,0 +1,15 @@
+artist-id = "i-o-i"
+kind = "ep"
+
+names = [
+  { name = "miss me?", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-10-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10006841" },
+  { url = "http://www.mnet.com/album/860889" },
+]
