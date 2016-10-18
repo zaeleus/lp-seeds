@@ -1,0 +1,38 @@
+medium-ids = [
+  "highteen/teen-magic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "highteen/grow-up"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "highteen/boom-boom-clap"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "highteen/marionette"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "highteen/johayo"
+duration = "3:57"
+
+[[tracks]]
+position = 5
+song-id = "highteen/boom-boom-clap-ryank-tropical-remix"
+duration = "4:11"
+
+[[tracks]]
+position = 6
+song-id = "highteen/boom-boom-clap-vr-ver"
+duration = "3:27"
+
+[[tracks]]
+position = 7
+song-id = "highteen/boom-boom-clap-inst"
+duration = "3:10"

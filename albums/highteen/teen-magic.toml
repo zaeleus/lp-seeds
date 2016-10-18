@@ -1,0 +1,15 @@
+artist-id = "highteen"
+kind = "ep"
+
+names = [
+  { name = "TEEN MAGIC", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-10-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10006208" },
+  { url = "http://www.mnet.com/album/791514" },
+]
