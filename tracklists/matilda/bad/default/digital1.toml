@@ -1,0 +1,13 @@
+medium-ids = [
+  "matilda/bad/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "matilda/neon-bad-nal-ullijima"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "matilda/neon-bad-nal-ullijima-inst"
+duration = "3:09"

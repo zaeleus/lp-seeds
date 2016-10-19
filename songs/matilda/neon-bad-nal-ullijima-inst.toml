@@ -1,0 +1,5 @@
+names = [
+  { name = "넌 Bad 날 울리지마 (Inst.)", locale = "ko", original = true },
+  { name = "Neon Bad Nal Ullijima (Inst.)", locale = "ko-Latn", default = true },
+  { name = "You Bad! Don't Make Me Cry (Inst.)", locale = "en" },
+]
