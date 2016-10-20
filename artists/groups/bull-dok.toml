@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "불독", locale = "ko", original = true },
+  { name = "BULL-DOK", locale = "ko-Latn", default = true },
+]

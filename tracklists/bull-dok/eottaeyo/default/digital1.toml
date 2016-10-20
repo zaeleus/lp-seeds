@@ -1,0 +1,23 @@
+medium-ids = [
+  "bull-dok/eottaeyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bull-dok/eottaeyo"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "bull-dok/feel-your-luv"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "bull-dok/eottaeyo-inst"
+duration = "3:27"
+
+[[tracks]]
+position = 4
+song-id = "bull-dok/feel-your-luv-inst"
+duration = "3:23"

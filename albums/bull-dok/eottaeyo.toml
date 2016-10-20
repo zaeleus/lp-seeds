@@ -1,0 +1,17 @@
+artist-id = "bull-dok"
+kind = "single"
+
+names = [
+  { name = "어때요", locale = "ko", original = true },
+  { name = "Eottaeyo", locale = "ko-Latn", default = true },
+  { name = "Why Not", locale = "en" },
+]
+
+[[releases]]
+released-on = "2016-10-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10007837" },
+  { url = "http://www.mnet.com/album/953616" },
+]
