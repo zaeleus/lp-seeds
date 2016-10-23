@@ -1,0 +1,38 @@
+medium-ids = [
+  "twice/twicecoaster-lane-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twice/tt"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "twice/1-to-10"
+duration = "2:55"
+
+[[tracks]]
+position = 3
+song-id = "twice/ponytail"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "twice/jelly-jelly"
+duration = "3:30"
+
+[[tracks]]
+position = 5
+song-id = "twice/pit-a-pat"
+duration = "3:27"
+
+[[tracks]]
+position = 6
+song-id = "twice/next-page"
+duration = "2:56"
+
+[[tracks]]
+position = 7
+song-id = "twice/one-in-a-million"
+duration = "2:55"

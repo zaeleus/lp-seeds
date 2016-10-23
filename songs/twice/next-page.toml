@@ -1,0 +1,3 @@
+names = [
+  { name = "NEXT PAGE", locale = "ko", original = true, default = true },
+]
