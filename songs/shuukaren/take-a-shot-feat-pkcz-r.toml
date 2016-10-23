@@ -1,0 +1,3 @@
+names = [
+  { name = "Take-A-Shot! feat. PKCZ(R)", locale = "ja", original = true, default = true },
+]

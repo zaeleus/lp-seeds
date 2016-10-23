@@ -1,0 +1,16 @@
+artist-id = "shuukaren"
+kind = "single"
+
+names = [
+  { name = "UNIVERSE", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-02-24"
+country = "JP"
+catalog-number = "AICL-3190/2"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/682618/products/1197427/1/" },
+]

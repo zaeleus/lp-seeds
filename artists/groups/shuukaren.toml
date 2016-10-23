@@ -1,0 +1,7 @@
+kind = "group"
+#started-on = ""
+country = "JP"
+
+names = [
+  { name = "ShuuKaRen", locale = "ja", kind = "stage", original = true, default = true },
+]
