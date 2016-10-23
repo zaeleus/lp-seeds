@@ -1,0 +1,15 @@
+artist-id = "reol"
+kind = "lp"
+
+names = [
+  { name = "Σ", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-10-19"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000034/TFCC-86570/" },
+  { url = "http://mora.jp/package/43000034/TFCC-86570_F/" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "神様になった日", locale = "ja", original = true },
+  { name = "Kamisama ni Natta hi", locale = "ja-Latn", default = true },
+]
