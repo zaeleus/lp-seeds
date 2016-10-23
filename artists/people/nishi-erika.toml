@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1989-01-11"
+country = "JP"
+
+names = [
+  { name = "西恵利香", locale = "ja", kind = "real", original = true },
+  { name = "Nishi Erika", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood-type = "A"
+height = 152

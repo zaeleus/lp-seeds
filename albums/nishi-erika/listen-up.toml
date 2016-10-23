@@ -1,0 +1,16 @@
+artist-id = "nishi-erika"
+kind = "lp"
+
+names = [
+  { name = "LISTEN UP", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2015-12-28"
+country = "JP"
+catalog-number = "SHINN-4"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "https://www.amazon.co.jp/gp/product/B017STMG34/" },
+  { url = "http://www.oricon.co.jp/prof/556135/products/1159308/1/" },
+]
