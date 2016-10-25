@@ -1,0 +1,13 @@
+medium-ids = [
+  "fiestar/cheska/swish/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fiestar/cheska/swish-feat-takeone"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "fiestar/cheska/panorama"
+duration = "4:38"
