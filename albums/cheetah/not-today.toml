@@ -1,0 +1,15 @@
+artist-id = "cheetah"
+kind = "single"
+
+names = [
+  { name = "NOT TODAY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-10-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10009195" },
+  { url = "http://www.mnet.com/album/1165538" },
+]
