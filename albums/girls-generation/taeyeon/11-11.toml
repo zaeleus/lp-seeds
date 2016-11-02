@@ -1,0 +1,22 @@
+artist-id = "girls-generation/taeyeon"
+kind = "single"
+
+names = [
+  { name = "11:11", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", kind = "stage", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+[[releases]]
+released-on = "2016-11-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10011815" },
+  { url = "http://www.mnet.com/album/1351317" },
+]

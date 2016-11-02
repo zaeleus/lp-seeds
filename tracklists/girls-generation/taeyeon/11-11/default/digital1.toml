@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-generation/taeyeon/11-11/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/taeyeon/11-11"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/taeyeon/11-11-inst"
+duration = "3:43"
