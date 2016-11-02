@@ -1,0 +1,33 @@
+medium-ids = [
+  "davichi/50-x-half/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/gaeurui-bam"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "davichi/batneun-sarangi-juneun-sarangege"
+duration = "4:37"
+
+[[tracks]]
+position = 3
+song-id = "davichi/nae-yeope-geudaein-geol"
+duration = "3:46"
+
+[[tracks]]
+position = 4
+song-id = "davichi/pet"
+duration = "3:41"
+
+[[tracks]]
+position = 5
+song-id = "davichi/geureon-jeok-issnayo"
+duration = "4:02"
+
+[[tracks]]
+position = 6
+song-id = "davichi/nae-yeope-geudaein-geol-inst"
+duration = "3:46"

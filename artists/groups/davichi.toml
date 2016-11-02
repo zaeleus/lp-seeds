@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2008"
+country = "KR"
+
+names = [
+  { name = "다비치", locale = "ko", original = true },
+  { name = "Davichi", locale = "ko-Latn", default = true },
+]
