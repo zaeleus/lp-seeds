@@ -1,0 +1,5 @@
+names = [
+  { name = "안 믿을래 (Inst.)", locale = "ko", original = true },
+  { name = "An Mideullae (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Don't Believe (Inst.)", locale = "en" },
+]

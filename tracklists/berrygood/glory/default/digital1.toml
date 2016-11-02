@@ -1,0 +1,28 @@
+medium-ids = [
+  "berrygood/glory/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "berrygood/an-mideullae"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "berrygood/hanahana-1-to-10"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "berrygood/nawa-sarangeul-hae"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "berrygood/sugar-sugar"
+duration = "2:58"
+
+[[tracks]]
+position = 5
+song-id = "berrygood/an-mideullae-inst"
+duration = "3:34"
