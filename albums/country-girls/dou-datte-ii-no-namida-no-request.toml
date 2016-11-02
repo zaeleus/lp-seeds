@@ -1,0 +1,17 @@
+artist-id = "country-girls"
+kind = "single"
+
+names = [
+  { name = "どーだっていいの／涙のリクエスト", locale = "ja", original = true },
+  { name = "Dou Datte Ii no / Namida no Request", locale = "ja-Latn", default = true },
+  { name = "I Don't Really Care / Request of Tears", locale = "en" },
+]
+
+[[releases]]
+released-on = "2016-09-28"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000030/EPCE-7247/" },
+  { url = "http://recochoku.jp/album/A1004881869/" },
+]

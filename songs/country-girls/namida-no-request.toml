@@ -1,0 +1,9 @@
+names = [
+  { name = "涙のリクエスト", locale = "ja", original = true },
+  { name = "Namida no Request", locale = "ja-Latn", default = true },
+  { name = "Request of Tears", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=nHeUWB8qnZ0", name = "Music Video" },
+]

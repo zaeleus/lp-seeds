@@ -1,0 +1,23 @@
+medium-ids = [
+  "country-girls/dou-datte-ii-no-namida-no-request/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "country-girls/dou-datte-ii-no"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "country-girls/namida-no-request"
+duration = "3:56"
+
+[[tracks]]
+position = 3
+song-id = "country-girls/dou-datte-ii-no-instrumental"
+duration = "3:01"
+
+[[tracks]]
+position = 4
+song-id = "country-girls/namida-no-request-instrumental"
+duration = "3:56"

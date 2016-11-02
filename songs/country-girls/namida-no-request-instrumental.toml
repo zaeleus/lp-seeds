@@ -1,0 +1,5 @@
+names = [
+  { name = "涙のリクエスト (Instrumental)", locale = "ja", original = true },
+  { name = "Namida no Request (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Request of Tears (Instrumental)", locale = "en" },
+]

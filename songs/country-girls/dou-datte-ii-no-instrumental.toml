@@ -1,0 +1,5 @@
+names = [
+  { name = "どーだっていいの (Instrumental)", locale = "ja", original = true },
+  { name = "Dou Datte Ii no (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "I Don't Really Care (Instrumental)", locale = "en" },
+]
