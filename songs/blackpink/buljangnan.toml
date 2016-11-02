@@ -1,0 +1,5 @@
+names = [
+  { name = "불장난", locale = "ko", original = true },
+  { name = "Buljangnan", locale = "ko-Latn", default = true },
+  { name = "PLAYING WITH FIRE", locale = "en" },
+]

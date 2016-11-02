@@ -1,0 +1,5 @@
+names = [
+  { name = "휘파람 (Acoustic Ver.)", locale = "ko", original = true },
+  { name = "Hwiparam (Acoustic Ver.)", locale = "ko-Latn", default = true },
+  { name = "WHISTLE (Acoustic Ver.)", locale = "en" },
+]

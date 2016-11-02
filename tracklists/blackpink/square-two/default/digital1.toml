@@ -1,0 +1,18 @@
+medium-ids = [
+  "blackpink/square-two/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "blackpink/buljangnan"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "blackpink/stay"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song-id = "blackpink/hwiparam-acoustic-ver"
+duration = "3:32"
