@@ -1,0 +1,13 @@
+medium-ids = [
+  "4minute/ji-yoon/nat-and-bam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "4minute/ji-yoon/naega-hae"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "4minute/ji-yoon/jaseok-feat-olltii"
+duration = "3:38"

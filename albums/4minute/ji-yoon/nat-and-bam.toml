@@ -1,0 +1,24 @@
+artist-id = "4minute/ji-yoon"
+kind = "single"
+
+names = [
+  { name = "낮 and 밤", locale = "ko", original = true },
+  { name = "Nat and Bam", locale = "ko-Latn", default = true },
+  { name = "Day and Night", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "4minute/ji-yoon"
+names = [
+  { name = "전지윤", locale = "ko", kind = "real", original = true },
+  { name = "Jeon Ji Yoon", locale = "ko-Latn", kind = "real", default = true },
+]
+
+[[releases]]
+released-on = "2016-11-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10011803" },
+  { url = "http://www.mnet.com/album/1348092" },
+]

@@ -1,0 +1,12 @@
+names = [
+  { name = "내가 해", locale = "ko", original = true },
+  { name = "Naega Hae", locale = "ko-Latn", default = true },
+  { name = "I DO", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "4minute/ji-yoon"
+names = [
+  { name = "전지윤", locale = "ko", kind = "real", original = true },
+  { name = "Jeon Ji Yoon", locale = "ko-Latn", kind = "real", default = true },
+]
