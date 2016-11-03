@@ -1,0 +1,27 @@
+medium-ids = [
+  "ladies-code/strang3r/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ladies-code/lorelei"
+
+[[tracks]]
+position = 2
+song-id = "ladies-code/the-rain"
+
+[[tracks]]
+position = 3
+song-id = "ladies-code/jane-doe"
+
+[[tracks]]
+position = 4
+song-id = "ladies-code/my-flower-blossom-mix"
+
+[[tracks]]
+position = 5
+song-id = "ladies-code/galaxy-the-3dge-mix"
+
+[[tracks]]
+position = 6
+song-id = "ladies-code/chaconne-arieta-mix"

@@ -13,3 +13,12 @@ urls = [
   { url = "http://www.melon.com/album/detail.htm?albumId=10005834" },
   { url = "http://www.mnet.com/album/805337" },
 ]
+
+[[releases]]
+released-on = "2016-10-13"
+country = "KR"
+catalog-number = "DK-0910"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nAlbum_info2.asp?mcode=006622027" },
+]
