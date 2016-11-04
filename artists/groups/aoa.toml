@@ -20,7 +20,7 @@ members = [
   { artist-id = "aoa/jimin" },
   { artist-id = "aoa/mina" },
   { artist-id = "aoa/seolhyun" },
-  { artist-id = "aoa/youkyoung" },
+  { artist-id = "aoa/youkyoung", ended-on = "2016-10-15" },
   { artist-id = "aoa/yuna" },
 ]
 
