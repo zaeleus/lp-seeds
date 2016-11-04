@@ -1,0 +1,12 @@
+names = [
+  { name = "Nothing (Prod. by 스윙스) (Feat. 스윙스)", locale = "ko", original = true, default = true },
+  { name = "Nothing (Prod. by Swings) (Feat. Swings)", locale = "ko-Latn" },
+]
+
+artist-credits = [
+  { artist-id = "wassup/nada" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=CnddKZhN2AE", name = "Music Video" },
+]

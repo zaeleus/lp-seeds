@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1991-05-24"
+country = "KR"
+
+names = [
+  { name = "나다", locale = "ko", kind = "stage", original = true },
+  { name = "Nada", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "윤예진", locale = "ko", kind = "real" },
+  { name = "Yun Ye Jin", locale = "ko-Latn", kind = "real" },
+]

@@ -1,0 +1,12 @@
+names = [
+  { name = "Nasty (Feat. 박미경)", locale = "ko", original = true },
+  { name = "Nasty (Feat. Park Mi Kyung)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "wassup/nada" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=W64-7G1qKgM", name = "Live Performance" },
+]

@@ -1,0 +1,94 @@
+medium-ids = [
+  "various-artists/unpretty-rapstar-3-compilation/default/cd1",
+  "various-artists/unpretty-rapstar-3-compilation/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "various-artists/unpretty-rapstar-3-compilation/she-s-coming-prod-by-primary"
+duration = "4:08"
+
+[[tracks]]
+position = 2
+song-id = "various-artists/unpretty-rapstar-3-compilation/ppamppamhae-prod-by-gill-feat-gill-mad-clown-gill-s-cousins"
+duration = "3:41"
+
+[[tracks]]
+position = 3
+song-id = "various-artists/unpretty-rapstar-3-compilation/museowo-prod-by-kush"
+duration = "2:59"
+
+[[tracks]]
+position = 4
+song-id = "various-artists/unpretty-rapstar-3-compilation/sticky-prod-by-san-e-feat-san-e"
+duration = "3:17"
+
+[[tracks]]
+position = 5
+song-id = "various-artists/unpretty-rapstar-3-compilation/ain-t-got-nobody-prod-by-dean-feat-dean"
+duration = "3:19"
+
+[[tracks]]
+position = 6
+song-id = "various-artists/unpretty-rapstar-3-compilation/no-thx-prod-by-dean-feat-dean"
+duration = "3:13"
+
+[[tracks]]
+position = 7
+song-id = "various-artists/unpretty-rapstar-3-compilation/nothing-prod-by-feat"
+duration = "3:59"
+
+[[tracks]]
+position = 8
+song-id = "various-artists/unpretty-rapstar-3-compilation/miin-prod-by-dok2-feat-kim-se-hwang-dok2"
+duration = "3:48"
+
+[[tracks]]
+position = 9
+song-id = "various-artists/unpretty-rapstar-3-compilation/i-m-feat-jo-hyun-a-of-urban-zakapa"
+duration = "3:44"
+
+[[tracks]]
+position = 10
+song-id = "various-artists/unpretty-rapstar-3-compilation/eoriniui-haru-feat-superbee"
+duration = "3:24"
+
+[[tracks]]
+position = 11
+song-id = "various-artists/unpretty-rapstar-3-compilation/nasty-feat-park-mi-kyung"
+duration = "3:43"
+
+[[tracks]]
+position = 12
+song-id = "various-artists/unpretty-rapstar-3-compilation/geunyeo-feat-son-seung-yeon"
+duration = "4:00"
+
+[[tracks]]
+position = 13
+song-id = "various-artists/unpretty-rapstar-3-compilation/simjang-feat-kim-na-young"
+duration = "3:44"
+
+[[tracks]]
+position = 14
+song-id = "various-artists/unpretty-rapstar-3-compilation/bub-feat-myundo"
+duration = "3:13"
+
+[[tracks]]
+position = 15
+song-id = "various-artists/unpretty-rapstar-3-compilation/useo-feat-davii"
+duration = "3:41"
+
+[[tracks]]
+position = 16
+song-id = "various-artists/unpretty-rapstar-3-compilation/king-pin-feat-koonta-don-mills"
+duration = "3:28"
+
+[[tracks]]
+position = 17
+song-id = "various-artists/unpretty-rapstar-3-compilation/knock-feat-microdot"
+duration = "3:22"
+
+[[tracks]]
+position = 18
+song-id = "various-artists/unpretty-rapstar-3-compilation/e-g-o-feat-boi-b-sanchez"
+duration = "3:30"

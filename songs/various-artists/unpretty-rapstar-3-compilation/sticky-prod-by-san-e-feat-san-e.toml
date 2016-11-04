@@ -1,0 +1,11 @@
+names = [
+  { name = "Sticky (Prod. by San E) (Feat. San E)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "wassup/nada" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=rJPpr1PpN5c", name = "Music Video" },
+]

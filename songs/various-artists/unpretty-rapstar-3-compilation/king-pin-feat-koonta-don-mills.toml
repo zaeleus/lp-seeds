@@ -1,0 +1,12 @@
+names = [
+  { name = "King pin (Feat. 쿤타, 던밀스)", locale = "ko", original = true },
+  { name = "King pin (Feat. Koonta, Don Mills)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "wassup/nada" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=-TcPjEt7i8U", name = "Live Performance" },
+]

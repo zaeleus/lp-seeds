@@ -1,0 +1,13 @@
+names = [
+  { name = "미인 (Prod. by Dok2) (Feat. 김세황, Dok2)", locale = "ko", original = true },
+  { name = "Miin (Prod. by Dok2) (Feat. Kim Se Hwang, Dok2)", locale = "ko-Latn", default = true },
+  { name = "Real Mean (Prod. by Dok2) (Feat. Kim Se Hwang, Dok2)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "giant-pink" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=I8Z7BmVL0Sk", name = "Music Video" },
+]

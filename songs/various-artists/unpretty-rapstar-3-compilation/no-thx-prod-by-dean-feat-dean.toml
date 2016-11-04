@@ -1,0 +1,12 @@
+names = [
+  { name = "No Thx (Prod. by DEAN) (Feat. 수란, DEAN)", locale = "ko", original = true, default = true },
+  { name = "No Thx (Prod. by DEAN) (Feat Suran, DEAN)", locale = "ko-Latn" },
+]
+
+artist-credits = [
+  { artist-id = "yuk-ji-dam" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=tgCbZJT8DLA", name = "Music Video" },
+]

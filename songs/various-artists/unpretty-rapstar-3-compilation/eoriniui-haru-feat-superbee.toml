@@ -1,0 +1,13 @@
+names = [
+  { name = "어린이의 하루 (Feat. 슈퍼비)", locale = "ko", original = true },
+  { name = "Eoriniui Haru (Feat. Superbee)", locale = "ko-Latn", default = true },
+  { name = "Children's Day (Feat. Superbee)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "jeon-so-yeon" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=tnA6HF6wGNE", name = "Live Performance" },
+]

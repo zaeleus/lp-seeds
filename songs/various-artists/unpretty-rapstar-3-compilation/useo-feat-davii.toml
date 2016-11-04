@@ -1,0 +1,13 @@
+names = [
+  { name = "웃어 (Feat. 다비 (DAVII))", locale = "ko", original = true },
+  { name = "Useo (Feat. DAVII)", locale = "ko-Latn", default = true },
+  { name = "Smile (Feat. DAVII)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "jeon-so-yeon" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ah-67Hn8vVA", name = "Live Performance" },
+]

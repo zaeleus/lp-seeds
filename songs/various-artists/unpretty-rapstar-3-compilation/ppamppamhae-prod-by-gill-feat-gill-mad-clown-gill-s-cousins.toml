@@ -1,0 +1,13 @@
+names = [
+  { name = "빰빰해 (Prod. by Gill) (Feat. Gill, Mad Clown, 길조카들)", locale = "ko", original = true },
+  { name = "Ppamppamhae (Prod. by Gill) (Feat. Gill, Mad Clown, Gill's Cousins)", locale = "ko-Latn", default = true },
+  { name = "BBAM BBAM (Prod. by Gill) (Feat. Gill, Mad Clown, Gill's Cousins)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "yuk-ji-dam" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ZJyUxog0WNQ", name = "Music Video" },
+]

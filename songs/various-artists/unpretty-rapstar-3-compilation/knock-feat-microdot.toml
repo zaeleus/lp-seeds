@@ -1,0 +1,11 @@
+names = [
+  { name = "Knock (Feat. Microdot)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "ash-b" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Bc7zJMpXVTU", name = "Live Performance" },
+]

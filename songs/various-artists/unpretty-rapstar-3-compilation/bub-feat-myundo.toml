@@ -1,0 +1,11 @@
+names = [
+  { name = "BUB (Feat. myunDo)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "giant-pink" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=0lbBFHRFbEQ", name = "Live Performance" },
+]

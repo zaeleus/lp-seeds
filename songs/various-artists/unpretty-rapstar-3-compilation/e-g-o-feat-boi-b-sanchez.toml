@@ -1,0 +1,12 @@
+names = [
+  { name = "E.G.O. (Feat. 보이비, 산체스)", locale = "ko", original = true },
+  { name = "E.G.O. (Feat. Boi B, Sanchez)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "giant-pink" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=FqCVVYLNJsw", name = "Live Performance" },
+]

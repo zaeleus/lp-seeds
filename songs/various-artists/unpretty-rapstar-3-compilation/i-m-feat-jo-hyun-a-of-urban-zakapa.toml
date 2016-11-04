@@ -1,0 +1,12 @@
+names = [
+  { name = "I.M. (Feat. 조현아 of 어반자카파)", locale = "ko", original = true },
+  { name = "I.M. (Feat. Jo Hyun A of Urban Zakapa)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "brown-eyed-girls/miryo" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=0fqqxVsqRSA", name = "Live Performance" },
+]

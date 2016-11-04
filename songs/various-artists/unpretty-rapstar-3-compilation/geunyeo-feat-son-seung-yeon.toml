@@ -1,0 +1,13 @@
+names = [
+  { name = "그녀 (Feat. 손승연)", locale = "ko", original = true },
+  { name = "Geunyeo (Feat. Son Seung Yeon)", locale = "ko-Latn", default = true },
+  { name = "Her (Feat. Son Seung Yeon)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "ash-b" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=90FVZBxGzUI", name = "Live Performance" },
+]

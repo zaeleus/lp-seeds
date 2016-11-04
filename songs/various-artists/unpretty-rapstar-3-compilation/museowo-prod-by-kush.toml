@@ -1,0 +1,14 @@
+names = [
+  { name = "무서워 (Prod. by KUSH)", locale = "ko", original = true },
+  { name = "Museowo (Prod. by KUSH)", locale = "ko-Latn", default = true },
+  { name = "Scary (Prod. by KUSH)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "wassup/nada", separator = ", " },
+  { artist-id = "jeon-so-yeon" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=exvIJqnHMRM", name = "Music Video" },
+]

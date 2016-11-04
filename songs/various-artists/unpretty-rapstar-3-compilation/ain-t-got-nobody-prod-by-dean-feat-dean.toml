@@ -1,0 +1,11 @@
+names = [
+  { name = "Ain't Got Nobody (Prod. by DEAN) (Feat. DEAN)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "brown-eyed-girls/miryo" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=EYmJfLkQh2k", name = "Music Video" },
+]

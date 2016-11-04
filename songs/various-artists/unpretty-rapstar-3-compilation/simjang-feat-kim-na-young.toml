@@ -1,0 +1,13 @@
+names = [
+  { name = "심장 (Feat. 김나영)", locale = "ko", original = true },
+  { name = "Simjang (Feat. Kim Na Young)", locale = "ko-Latn", default = true },
+  { name = "Heart (Feat. Kim Na Young)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "yuk-ji-dam" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=jwtJT1EtmFk", name = "Live Performance" },
+]
