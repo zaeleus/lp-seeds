@@ -1,0 +1,15 @@
+names = [
+  { name = "가위 바위 보", locale = "ko", original = true },
+  { name = "Gawi Bawi Bo", locale = "ko-Latn", default = true },
+  { name = "Rock-Scissors-Paper", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "brown-eyed-girls/miryo", separator = ", " },
+  { artist-id = "giant-pink" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=kaHaXQjSpeU", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=ytrM0kMomcI", name = "Music Video" },
+]

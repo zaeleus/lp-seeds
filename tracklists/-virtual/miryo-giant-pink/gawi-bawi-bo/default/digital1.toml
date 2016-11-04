@@ -1,0 +1,18 @@
+medium-ids = [
+  "-virtual/miryo-giant-pink/gawi-bawi-bo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/miryo-giant-pink/gawi-bawi-bo"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "brown-eyed-girls/miryo/ingyeoui-haru"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "giant-pink/donbeori-feat-duck-bae"
+duration = "3:05"

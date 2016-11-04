@@ -1,0 +1,22 @@
+artist-id = "-virtual/miryo-giant-pink"
+kind = "single"
+
+names = [
+  { name = "가위 바위 보", locale = "ko", original = true },
+  { name = "Gawi Bawi Bo", locale = "ko-Latn", default = true },
+  { name = "Rock-Scissors-Paper", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "brown-eyed-girls/miryo", separator = ", " },
+  { artist-id = "giant-pink" },
+]
+
+[[releases]]
+released-on = "2016-10-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10009596" },
+  { url = "http://www.mnet.com/album/1192480" },
+]

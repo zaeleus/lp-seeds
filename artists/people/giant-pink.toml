@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1991-04-23"
+country = "KR"
+
+names = [
+  { name = "자이언트핑크", locale = "ko", kind = "stage", original = true },
+  { name = "Giant Pink", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박윤하", locale = "ko", kind = "real" },
+  { name = "Park Yoon Ha", locale = "ko-Latn", kind = "real" },
+]

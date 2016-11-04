@@ -1,0 +1,4 @@
+names = [
+  { name = "돈벌이 (Feat. 덕배)", locale = "ko", original = true },
+  { name = "Donbeori (Feat. Duck Bae)", locale = "ko-Latn", default = true },
+]
