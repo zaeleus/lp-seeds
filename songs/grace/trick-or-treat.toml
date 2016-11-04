@@ -1,0 +1,8 @@
+names = [
+  { name = "Trick or Treat", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=XxxmwDVQ-Ro", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=Y-j9NUDyxXs", name = "Music Video" },
+]
