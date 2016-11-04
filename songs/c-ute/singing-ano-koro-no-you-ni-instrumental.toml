@@ -1,0 +1,5 @@
+names = [
+  { name = "Singing～あの頃のように～ (Instrumental)", locale = "ja", original = true },
+  { name = "Singing ~Ano Koro no You ni~ (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Singing ~Just Like Back In The Day~ (Instrumental)", locale = "en" },
+]

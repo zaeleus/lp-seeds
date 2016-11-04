@@ -1,0 +1,18 @@
+artist-id = "c-ute"
+kind = "single"
+
+names = [
+  { name = "夢幻クライマックス／愛はまるで静電気／Singing～あの頃のように～", locale = "ja", original = true },
+  { name = "Mugen Climax / Ai wa Marude Seidenki / Singing ~Ano Koro no You ni~", locale = "ja-Latn", default = true },
+  { name = "Dreamlike Climax / Love is Like Static Electricity / Singing ~Just Like Back In The Day~", locale = "en" },
+]
+
+[[releases]]
+released-on = "2016-11-02"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1170345325" },
+  { url = "http://mora.jp/package/43000030/EPCE-7255/" },
+  { url = "http://recochoku.jp/album/A1005405220/" },
+]

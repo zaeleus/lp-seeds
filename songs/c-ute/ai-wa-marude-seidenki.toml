@@ -1,0 +1,9 @@
+names = [
+  { name = "愛はまるで静電気", locale = "ja", original = true },
+  { name = "Ai wa Marude Seidenki", locale = "ja-Latn", default = true },
+  { name = "Love is Like Static Electricity", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=F4QNnSXCZpE", name = "Music Video" },
+]

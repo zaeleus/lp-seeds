@@ -1,0 +1,33 @@
+medium-ids = [
+  "c-ute/mugen-climax-ai-wa-marude-seidenki-singing-ano-koro-no-you-ni/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "c-ute/mugen-climax"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "c-ute/ai-wa-marude-seidenki"
+duration = "4:20"
+
+[[tracks]]
+position = 3
+song-id = "c-ute/singing-ano-koro-no-you-ni"
+duration = "4:33"
+
+[[tracks]]
+position = 4
+song-id = "c-ute/mugen-climax-instrumental"
+duration = "4:03"
+
+[[tracks]]
+position = 5
+song-id = "c-ute/ai-wa-marude-seidenki-instrumental"
+duration = "4:20"
+
+[[tracks]]
+position = 6
+song-id = "c-ute/singing-ano-koro-no-you-ni-instrumental"
+duration = "4:29"

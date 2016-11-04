@@ -1,0 +1,9 @@
+names = [
+  { name = "夢幻クライマックス", locale = "ja", original = true },
+  { name = "Mugen Climax", locale = "ja-Latn", default = true },
+  { name = "Dreamlike Climax", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=UBmBGKjFuRQ", name = "Music Video" },
+]

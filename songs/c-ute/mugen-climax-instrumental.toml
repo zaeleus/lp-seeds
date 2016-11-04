@@ -1,0 +1,5 @@
+names = [
+  { name = "夢幻クライマックス (Instrumental)", locale = "ja", original = true },
+  { name = "Mugen Climax (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Dreamlike Climax (Instrumental)", locale = "en" },
+]

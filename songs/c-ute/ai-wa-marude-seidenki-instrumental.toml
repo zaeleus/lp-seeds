@@ -1,0 +1,5 @@
+names = [
+  { name = "愛はまるで静電気 (Instrumental)", locale = "ja", original = true },
+  { name = "Ai wa Marude Seidenki (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Love is Like Static Electricity (Instrumental)", locale = "en" },
+]

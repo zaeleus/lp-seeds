@@ -1,0 +1,9 @@
+names = [
+  { name = "Singing～あの頃のように～", locale = "ja", original = true },
+  { name = "Singing ~Ano Koro no You ni~", locale = "ja-Latn", default = true },
+  { name = "Singing ~Just Like Back In The Day~", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=r3K5zHnBF8E", name = "Music Video" },
+]
