@@ -1,0 +1,11 @@
+names = [
+  { name = "One Step (Feat. 박재범)", locale = "ko", original = true },
+  { name = "One Step (Feat. Jay Park)", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "sistar/hyo-rin"
+names = [
+  { name = "효린", locale = "ko", original = true },
+  { name = "Hyolyn", locale = "ko-Latn", default = true },
+]
