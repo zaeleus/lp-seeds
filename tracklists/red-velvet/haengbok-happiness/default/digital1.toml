@@ -1,0 +1,8 @@
+medium-ids = [
+  "red-velvet/haengbok-happiness/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/haengbok-happiness"
+duration = "3:41"
