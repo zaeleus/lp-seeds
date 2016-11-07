@@ -9,3 +9,7 @@ names = [
 released-on = "2014-10-13"
 country = "KR"
 media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2285322" },
+  { url = "http://www.mnet.com/album/370560" },
+]
