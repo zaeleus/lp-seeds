@@ -1,0 +1,15 @@
+artist-id = "mamamoo"
+kind = "ep"
+
+names = [
+  { name = "MEMORY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-11-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10012900" },
+  { url = "http://www.mnet.com/album/1399069" },
+]

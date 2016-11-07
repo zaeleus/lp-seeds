@@ -1,0 +1,3 @@
+names = [
+  { name = "Moderato (Feat. Hash Swan)", locale = "ko", original = true, default = true },
+]

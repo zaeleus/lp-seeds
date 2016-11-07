@@ -1,0 +1,43 @@
+medium-ids = [
+  "mamamoo/memory/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/geurigo-geurigo-geuryeobwa"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/decalcomanie"
+duration = "3:36"
+
+[[tracks]]
+position = 3
+song-id = "mamamoo/new-york"
+duration = "3:01"
+
+[[tracks]]
+position = 4
+song-id = "mamamoo/moderato-feat-hash-swan"
+duration = "3:59"
+
+[[tracks]]
+position = 5
+song-id = "mamamoo/angel"
+duration = "3:32"
+
+[[tracks]]
+position = 6
+song-id = "mamamoo/dab-dab"
+duration = "2:49"
+
+[[tracks]]
+position = 7
+song-id = "mamamoo/nohji-anheulge"
+duration = "4:24"
+
+[[tracks]]
+position = 8
+song-id = "mamamoo/gidaehaedo-joheun-nal"
+duration = "3:13"

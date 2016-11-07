@@ -1,9 +1,4 @@
 names = [
   { name = "기대해도 좋은 날", locale = "ko", original = true },
   { name = "Gidaehaedo Joheun Nal", locale = "ko-Latn", default = true },
-  { name = "Woo Hoo", locale = "en" },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=_eCJOj4NLlg", name = "Music Video" },
 ]
