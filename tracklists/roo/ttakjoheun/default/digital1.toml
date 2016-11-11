@@ -1,0 +1,13 @@
+medium-ids = [
+  "roo/ttakjoheun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "roo/ttakjoheun-feat-truedy"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "roo/ttakjoheun-inst"
+duration = "3:28"

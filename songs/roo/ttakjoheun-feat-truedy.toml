@@ -1,0 +1,5 @@
+names = [
+  { name = "딱좋은 (Feat. 트루디)", locale = "ko", original = true },
+  { name = "Ttakjoheun (Feat. Truedy)", locale = "ko-Latn", default = true },
+  { name = "Just Good (Feat. Truedy)", locale = "en" },
+]
