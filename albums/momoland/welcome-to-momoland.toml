@@ -1,0 +1,15 @@
+artist-id = "momoland"
+kind = "ep"
+
+names = [
+  { name = "Welcome to MOMOLAND", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-11-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10014101" },
+  { url = "http://www.mnet.com/album/1458627" },
+]

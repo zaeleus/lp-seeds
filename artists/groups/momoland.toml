@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "모모랜드", locale = "ko", original = true },
+  { name = "MOMOLAND", locale = "ko-Latn", default = true },
+]
