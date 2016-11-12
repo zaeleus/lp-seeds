@@ -1,6 +1,6 @@
 names = [
-  { name = "Nothing (Prod. by 스윙스) (Feat. 스윙스)", locale = "ko", original = true, default = true },
-  { name = "Nothing (Prod. by Swings) (Feat. Swings)", locale = "ko-Latn" },
+  { name = "Nothing (Prod. by 스윙스) (Feat. 스윙스)", locale = "ko", original = true },
+  { name = "Nothing (Prod. by Swings) (Feat. Swings)", locale = "ko-Latn", default = true },
 ]
 
 artist-credits = [

@@ -1,6 +1,6 @@
 names = [
-  { name = "No Thx (Prod. by DEAN) (Feat. 수란, DEAN)", locale = "ko", original = true, default = true },
-  { name = "No Thx (Prod. by DEAN) (Feat Suran, DEAN)", locale = "ko-Latn" },
+  { name = "No Thx (Prod. by DEAN) (Feat. 수란, DEAN)", locale = "ko", original = true },
+  { name = "No Thx (Prod. by DEAN) (Feat Suran, DEAN)", locale = "ko-Latn", default = true },
 ]
 
 artist-credits = [
