@@ -1,0 +1,13 @@
+medium-ids = [
+  "almeng/yes-i-do/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "almeng/yes-i-do"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "almeng/yes-i-do-inst"
+duration = "3:39"

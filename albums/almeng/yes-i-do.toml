@@ -1,0 +1,15 @@
+artist-id = "almeng"
+kind = "single"
+
+names = [
+  { name = "Yes I Do", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2015-02-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2304933" },
+  { url = "http://www.mnet.com/album/406319" },
+]
