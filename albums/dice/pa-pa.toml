@@ -1,0 +1,15 @@
+artist-id = "dice"
+kind = "single"
+
+names = [
+  { name = "PA PA", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-11-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10013611" },
+  { url = "http://www.mnet.com/album/1453677" },
+]

@@ -1,0 +1,7 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "DICE", locale = "ko", original = true, default = true },
+]

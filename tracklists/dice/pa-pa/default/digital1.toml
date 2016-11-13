@@ -1,0 +1,8 @@
+medium-ids = [
+  "dice/pa-pa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dice/meori-eokkae-mureup-bal"
+duration = "3:13"
