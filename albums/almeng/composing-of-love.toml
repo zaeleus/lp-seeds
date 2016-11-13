@@ -1,0 +1,15 @@
+artist-id = "almeng"
+kind = "ep"
+
+names = [
+  { name = "compoSing of Love", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-10-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2286676" },
+  { url = "http://www.mnet.com/album/374550" },
+]

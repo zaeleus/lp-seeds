@@ -1,0 +1,33 @@
+medium-ids = [
+  "almeng/composing-of-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "almeng/intro"
+duration = "1:28"
+
+[[tracks]]
+position = 2
+song-id = "almeng/bansigan-half-an-hour"
+duration = "3:04"
+
+[[tracks]]
+position = 3
+song-id = "almeng/phone-in-love"
+duration = "3:43"
+
+[[tracks]]
+position = 4
+song-id = "almeng/poor-girl-feat-loco"
+duration = "3:17"
+
+[[tracks]]
+position = 5
+song-id = "almeng/fool-boy"
+duration = "3:03"
+
+[[tracks]]
+position = 6
+song-id = "almeng/again"
+duration = "3:41"

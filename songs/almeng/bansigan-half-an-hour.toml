@@ -1,0 +1,5 @@
+names = [
+  { name = "반시간 (Half an Hour)", locale = "ko", original = true },
+  { name = "Bansigan (Half an Hour)", locale = "ko-Latn", default = true },
+  { name = "Half an Hour", locale = "en" },
+]
