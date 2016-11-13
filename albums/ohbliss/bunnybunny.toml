@@ -1,0 +1,16 @@
+artist-id = "ohbliss"
+kind = "single"
+
+names = [
+  { name = "BUNNYBUNNY (바니바니)", locale = "ko", original = true },
+  { name = "BUNNYBUNNY", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2016-10-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10004598" },
+  { url = "http://www.mnet.com/album/860660" },
+]

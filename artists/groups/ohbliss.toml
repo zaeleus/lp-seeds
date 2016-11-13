@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "오블리스", locale = "ko", original = true },
+  { name = "OhBliss", locale = "ko-Latn", default = true },
+]

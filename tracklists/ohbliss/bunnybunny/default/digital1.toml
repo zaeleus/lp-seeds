@@ -1,0 +1,13 @@
+medium-ids = [
+  "ohbliss/bunnybunny/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ohbliss/bunnybunny"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "ohbliss/bunnybunny-inst"
+duration = "3:19"
