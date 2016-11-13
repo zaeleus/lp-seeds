@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1997-02-26"
+country = "KR"
+
+names = [
+  { name = "유승우", locale = "ko", kind = "real", original = true },
+  { name = "Yoo Seung Woo", locale = "ko-Latn", kind = "real", default = true },
+]
