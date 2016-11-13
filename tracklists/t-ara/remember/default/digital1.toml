@@ -1,0 +1,28 @@
+medium-ids = [
+  "t-ara/remember/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/tiamo"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/oneulkkajiman-apahal-geoya"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "t-ara/ibyeol-yeonghwa"
+duration = "3:36"
+
+[[tracks]]
+position = 4
+song-id = "t-ara/tiamo-chinese-ver"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "t-ara/tiamo-inst"
+duration = "3:23"
