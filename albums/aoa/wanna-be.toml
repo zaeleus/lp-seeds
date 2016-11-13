@@ -2,7 +2,16 @@ artist-id = "aoa"
 kind = "single"
 
 names = [
-  { name = "Wanna Be", locale = "ko", original = true, default = true },
+  { name = "WANNA BE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2012-10-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2152424" },
+  { url = "http://www.mnet.com/album/269112" },
 ]
 
 [[releases]]

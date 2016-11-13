@@ -1,0 +1,19 @@
+medium-ids = [
+  "aoa/wanna-be/default/cd1",
+  "aoa/wanna-be/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aoa/get-out"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "aoa/happy-ending"
+duration = "4:06"
+
+[[tracks]]
+position = 3
+song-id = "aoa/my-song"
+duration = "3:29"
