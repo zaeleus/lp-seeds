@@ -1,0 +1,8 @@
+medium-ids = [
+  "almeng/cheers-to-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "almeng/cheers-to-me"
+duration = "3:40"

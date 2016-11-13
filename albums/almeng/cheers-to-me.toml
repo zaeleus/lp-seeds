@@ -1,0 +1,15 @@
+artist-id = "almeng"
+kind = "single"
+
+names = [
+  { name = "Cheers To Me", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-10-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10008215" },
+  { url = "http://www.mnet.com/album/963960" },
+]

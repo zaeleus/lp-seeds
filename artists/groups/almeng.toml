@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2013"
+country = "KR"
+
+names = [
+  { name = "알맹", locale = "ko", original = true },
+  { name = "ALMENG", locale = "ko-Latn", default = true },
+]
