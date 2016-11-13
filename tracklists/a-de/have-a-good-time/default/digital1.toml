@@ -1,0 +1,28 @@
+medium-ids = [
+  "a-de/have-a-good-time/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "a-de/have-a"
+duration = "0:54"
+
+[[tracks]]
+position = 2
+song-id = "a-de/good-time"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "a-de/rainy-day"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song-id = "a-de/siworae-october"
+duration = "3:29"
+
+[[tracks]]
+position = 5
+song-id = "a-de/good-time-inst"
+duration = "3:20"

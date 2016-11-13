@@ -1,0 +1,5 @@
+names = [
+  { name = "시월애 (October)", locale = "ko", original = true },
+  { name = "Siworae (October)", locale = "ko-Latn", default = true },
+  { name = "October", locale = "en" },
+]
