@@ -11,20 +11,45 @@ names = [
   { name = "Cosmic Girls", locale = "en", default = true },
 ]
 
-members = [
-  { artist-id = "cosmic-girls/cheng-xiao" },
-  { artist-id = "cosmic-girls/bona" },
-  { artist-id = "cosmic-girls/dayoung" },
-  { artist-id = "cosmic-girls/xuan-yi" },
-  { artist-id = "cosmic-girls/eunseo" },
-  { artist-id = "cosmic-girls/yeoreum" },
-  { artist-id = "cosmic-girls/seol-a" },
-  { artist-id = "cosmic-girls/exy" },
-  { artist-id = "cosmic-girls/soobin" },
-  { artist-id = "cosmic-girls/dawon" },
-  { artist-id = "cosmic-girls/mei-qi" },
-  { artist-id = "cosmic-girls/luda" },
-]
+[[members]]
+artist-id = "cosmic-girls/cheng-xiao"
+
+[[members]]
+artist-id = "cosmic-girls/bona"
+
+[[members]]
+artist-id = "cosmic-girls/dayoung"
+
+[[members]]
+artist-id = "cosmic-girls/xuan-yi"
+
+[[members]]
+artist-id = "cosmic-girls/eunseo"
+
+[[members]]
+artist-id = "cosmic-girls/yeoreum"
+
+[[members]]
+artist-id = "cosmic-girls/seol-a"
+
+[[members]]
+artist-id = "cosmic-girls/exy"
+
+[[members]]
+artist-id = "cosmic-girls/soobin"
+
+[[members]]
+artist-id = "cosmic-girls/dawon"
+
+[[members]]
+artist-id = "cosmic-girls/mei-qi"
+
+[[members]]
+artist-id = "cosmic-girls/luda"
+
+[[members]]
+artist-id = "cosmic-girls/yeon-jung"
+started-on = "2016-07-11"
 
 urls = [
   { url = "http://www.starship-ent.com/cosmicgirls/" },

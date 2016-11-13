@@ -1,0 +1,16 @@
+kind = "person"
+started-on = "1999-08-03"
+country = "KR"
+
+names = [
+  { name = "연정", locale = "ko", kind = "stage", original = true },
+  { name = "Yeon Jung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Yeun Jung", locale = "ko-Latn", kind = "stage" },
+  { name = "유연정", locale = "ko", kind = "real" },
+  { name = "Yu Yeon Jung", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "A"
+height = 167
+weight = 52
