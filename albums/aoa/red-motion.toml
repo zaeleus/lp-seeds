@@ -8,6 +8,15 @@ names = [
 [[releases]]
 released-on = "2013-10-15"
 country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2209942" },
+  { url = "http://www.mnet.com/album/309449" },
+]
+
+[[releases]]
+released-on = "2013-10-15"
+country = "KR"
 catalog-number = "CMCC-10173"
 media = [{ kind = "cd" }]
 urls = [

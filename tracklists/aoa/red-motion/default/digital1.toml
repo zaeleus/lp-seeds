@@ -1,0 +1,14 @@
+medium-ids = [
+  "aoa/red-motion/default/cd1",
+  "aoa/red-motion/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aoa/heundeullyeo"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "aoa/nikkeo-naekkeo"
+duration = "3:35"
