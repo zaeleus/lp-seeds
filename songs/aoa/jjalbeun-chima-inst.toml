@@ -1,0 +1,5 @@
+names = [
+  { name = "짧은 치마 (Inst.)", locale = "ko", original = true },
+  { name = "Jjalbeun Chima (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Miniskirt (Inst.)", locale = "en" },
+]
