@@ -1,0 +1,15 @@
+artist-id = "nc-a"
+kind = "lp"
+
+names = [
+  { name = "Time to be a woman", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-10-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10010461" },
+  { url = "http://www.mnet.com/album/1261111" },
+]

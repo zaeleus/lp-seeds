@@ -1,0 +1,5 @@
+names = [
+  { name = "얼마나 더.. (Feat. 신지)", locale = "ko", original = true },
+  { name = "Eolmana Deo.. (Feat. Shin Ji)", locale = "ko-Latn", default = true },
+  { name = "How long time.. (Feat. Shin Ji)", locale = "en", default = true },
+]

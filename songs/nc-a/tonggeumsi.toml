@@ -1,0 +1,5 @@
+names = [
+  { name = "통금시간", locale = "ko", original = true },
+  { name = "Tonggeumsi", locale = "ko-Latn", default = true },
+  { name = "Cinderella Time", locale = "en" },
+]

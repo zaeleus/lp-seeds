@@ -1,0 +1,5 @@
+names = [
+  { name = "다음역 (Inst.)", locale = "ko", original = true },
+  { name = "Daeumyeok (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Next Station (Inst.)", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "본능", locale = "ko", original = true },
+  { name = "Bonneung", locale = "ko-Latn", default = true },
+  { name = "Instinct", locale = "en" },
+]
