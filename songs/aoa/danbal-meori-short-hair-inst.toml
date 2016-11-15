@@ -1,0 +1,5 @@
+names = [
+  { name = "단발머리 (Short Hair) (Inst.)", locale = "ko", original = true },
+  { name = "Danbal Meori (Short Hair) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Short Hair (Inst.)", locale = "en" },
+]

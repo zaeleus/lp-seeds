@@ -1,0 +1,39 @@
+medium-ids = [
+  "aoa/danbal-meori/default/cd1",
+  "aoa/danbal-meori/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aoa/fantasy"
+duration = "1:17"
+
+[[tracks]]
+position = 2
+song-id = "aoa/danbal-meori-short-hair"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "aoa/joa-yo"
+duration = "4:19"
+
+[[tracks]]
+position = 4
+song-id = "aoa/nae-banjjok"
+duration = "3:40"
+
+[[tracks]]
+position = 5
+song-id = "aoa/mari-an-tonghae"
+duration = "3:23"
+
+[[tracks]]
+position = 6
+song-id = "aoa/danbal-meori-short-hair-inst"
+duration = "3:34"
+
+[[tracks]]
+position = 7
+song-id = "aoa/jao-yo-inst"
+duration = "4:19"
