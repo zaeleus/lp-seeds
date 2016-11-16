@@ -1,0 +1,5 @@
+names = [
+  { name = "휠릴리", locale = "ko", original = true },
+  { name = "Wheel Lily", locale = "en", default = true },
+  { name = "Tears Falling", locale = "en" },
+]

@@ -1,0 +1,34 @@
+medium-ids = [
+  "aoa/sappeun-sappeun/default/cd1",
+  "aoa/sappeun-sappeun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aoa/aoa"
+duration = "0:59"
+
+[[tracks]]
+position = 2
+song-id = "aoa/sappeun-sappeun"
+duration = "3:39"
+
+[[tracks]]
+position = 3
+song-id = "aoa/yeojasayongbeop"
+duration = "3:19"
+
+[[tracks]]
+position = 4
+song-id = "aoa/danduri"
+duration = "3:25"
+
+[[tracks]]
+position = 5
+song-id = "aoa/time"
+duration = "3:43"
+
+[[tracks]]
+position = 6
+song-id = "aoa/wheel-lily"
+duration = "3:38"
