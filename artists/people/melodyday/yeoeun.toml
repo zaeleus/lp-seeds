@@ -1,0 +1,13 @@
+kind = "person"
+started-on = "1990-01-25"
+country = "KR"
+
+names = [
+  { name = "여은", locale = "ko", kind = "stage", original = true },
+  { name = "Yeoeun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정지은", locale = "ko", kind = "real" },
+  { name = "Jung Ji Eun", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 169

@@ -1,0 +1,13 @@
+kind = "person"
+started-on = "1993-08-29"
+country = "KR"
+
+names = [
+  { name = "유민", locale = "ko", kind = "stage", original = true },
+  { name = "Yoomin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "나유민", locale = "ko", kind = "real" },
+  { name = "Na Yoo Min", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 165

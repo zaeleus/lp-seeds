@@ -1,0 +1,13 @@
+kind = "person"
+started-on = "1996-03-24"
+country = "KR"
+
+names = [
+  { name = "차희", locale = "ko", kind = "stage", original = true },
+  { name = "Chahee", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박수영", locale = "ko", kind = "real" },
+  { name = "Park Soo Young", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 167

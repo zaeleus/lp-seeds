@@ -1,0 +1,13 @@
+kind = "person"
+started-on = "1995-05-04"
+country = "KR"
+
+names = [
+  { name = "예인", locale = "ko", kind = "stage", original = true },
+  { name = "Yein", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "안예인", locale = "ko", kind = "real" },
+  { name = "Ahn Ye In", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 168

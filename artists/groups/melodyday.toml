@@ -6,3 +6,10 @@ names = [
   { name = "멜로디데이", locale = "ko", original = true },
   { name = "MelodyDay", locale = "ko-Latn", default = true },
 ]
+
+members = [
+  { artist-id = "melodyday/chahee" },
+  { artist-id = "melodyday/yein" },
+  { artist-id = "melodyday/yeoeun" },
+  { artist-id = "melodyday/yoomin" },
+]
