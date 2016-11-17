@@ -15,3 +15,8 @@ artist-credits = [
 released-on = "2012-01-18"
 country = "KR"
 media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id501904657" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2066768" },
+  { url = "http://www.mnet.com/album/246088" },
+]
