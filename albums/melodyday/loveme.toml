@@ -1,0 +1,15 @@
+artist-id = "melodyday"
+kind = "single"
+
+names = [
+  { name = "#LoveMe", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2015-06-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2322905" },
+  { url = "http://www.mnet.com/album/462797" },
+]

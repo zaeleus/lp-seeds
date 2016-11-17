@@ -1,0 +1,23 @@
+medium-ids = [
+  "melodyday/loveme/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melodyday/loveme"
+duration = "2:59"
+
+[[tracks]]
+position = 2
+song-id = "melodyday/oh-my-guy-narr-jang-yi-jeong-of-history"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "melodyday/geopna-feat-mad-clown"
+duration = "3:55"
+
+[[tracks]]
+position = 4
+song-id = "melodyday/loveme-inst"
+duration = "2:59"

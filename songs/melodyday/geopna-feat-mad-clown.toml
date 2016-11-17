@@ -1,0 +1,5 @@
+names = [
+  { name = "겁나 (Feat. 매드클라운)", locale = "ko", original = true },
+  { name = "Geopna (Feat. Mad Clown)", locale = "ko-Latn", default = true },
+  { name = "Anxious (Feat. Mad Clown)", locale = "en" },
+]
