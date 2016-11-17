@@ -1,0 +1,22 @@
+artist-id = "15and/yerin"
+kind = "single"
+
+names = [
+  { name = "Bye bye my blue", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "15and/yerin"
+names = [
+  { name = "백예린", locale = "ko", original = true },
+  { name = "Yerin Baek", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2016-06-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2692170" },
+  { url = "http://www.mnet.com/album/556638" },
+]
