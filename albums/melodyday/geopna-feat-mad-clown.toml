@@ -1,0 +1,17 @@
+artist-id = "melodyday"
+kind = "single"
+
+names = [
+  { name = "겁나 (Feat. 매드클라운)", locale = "ko", original = true },
+  { name = "Geopna (Feat. Mad Clown)", locale = "ko-Latn", default = true },
+  { name = "Anxious (Feat. Mad Clown)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2014-12-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2294982" },
+  { url = "http://www.mnet.com/album/393654" },
+]
