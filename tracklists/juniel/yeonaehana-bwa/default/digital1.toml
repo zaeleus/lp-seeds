@@ -1,0 +1,18 @@
+medium-ids = [
+  "juniel/yeonaehana-bwa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "juniel/yeonaehana-bwa"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "juniel/bug-off"
+duration = "3:08"
+
+[[tracks]]
+position = 3
+song-id = "juniel/please"
+duration = "3:53"

@@ -1,0 +1,17 @@
+artist-id = "juniel"
+kind = "single"
+
+names = [
+  { name = "연애하나 봐", locale = "ko", original = true },
+  { name = "Yeonaehana Bwa", locale = "ko-Latn", default = true },
+  { name = "I Think I'm in Love", locale = "en" },
+]
+
+[[releases]]
+released-on = "2014-09-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2283880" },
+  { url = "http://www.mnet.com/album/368536" },
+]
