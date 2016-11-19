@@ -1,7 +1,7 @@
 names = [
-  { name = "새끼손가락 (Promise U)", locale = "ko", original = true },
-  { name = "Saekkisongarak (Promise U)", locale = "ko-Latn", default = true },
-  { name = "Little Finger (Promise U)", locale = "en" },
+  { name = "새끼손가락", locale = "ko", original = true },
+  { name = "Saekkisongarak", locale = "ko-Latn", default = true },
+  { name = "Promise U", locale = "en" },
 ]
 
 urls = [

@@ -1,0 +1,5 @@
+names = [
+  { name = "새끼손가락 (Inst.)", locale = "ko", original = true },
+  { name = "Saekkisongarak (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Promise U (Inst.)", locale = "en" },
+]

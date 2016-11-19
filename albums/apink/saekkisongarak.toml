@@ -1,0 +1,17 @@
+artist-id = "apink"
+kind = "single"
+
+names = [
+  { name = "새끼손가락", locale = "ko", original = true },
+  { name = "Saekkisongarak", locale = "ko-Latn", default = true },
+  { name = "Promise U", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-04-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2314549" },
+  { url = "http://www.mnet.com/album/433346" },
+]
