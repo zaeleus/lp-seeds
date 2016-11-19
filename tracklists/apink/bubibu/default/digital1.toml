@@ -1,0 +1,18 @@
+medium-ids = [
+  "apink/bubibu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink/bubibu-remix-ver"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "apink/bubibu-original-ver"
+duration = "3:39"
+
+[[tracks]]
+position = 3
+song-id = "apink/bubibu-remix-ver-inst"
+duration = "3:31"
