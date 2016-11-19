@@ -1,0 +1,5 @@
+names = [
+  { name = "My Turn (내 차례)", locale = "ko", original = true },
+  { name = "My Turn (Nae Charye)", locale = "ko-Latn", default = true },
+  { name = "My Turn", locale = "en" },
+]

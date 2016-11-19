@@ -1,0 +1,16 @@
+artist-id = "skarf"
+kind = "ep"
+
+names = [
+  { name = "러브 바이러스 (Luv Virus)", locale = "ko", original = true },
+  { name = "Luv Virus", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2013-05-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2187269" },
+  { url = "http://www.mnet.com/album/292680" },
+]

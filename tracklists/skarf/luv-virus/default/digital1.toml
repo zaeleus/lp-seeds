@@ -1,0 +1,28 @@
+medium-ids = [
+  "skarf/luv-virus/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "skarf/luv-virus"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "skarf/bye-bye-bye"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "skarf/anymore"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "skarf/sunny-day"
+duration = "3:56"
+
+[[tracks]]
+position = 5
+song-id = "skarf/my-turn-nae-charye"
+duration = "3:44"
