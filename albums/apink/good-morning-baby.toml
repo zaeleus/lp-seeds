@@ -1,0 +1,15 @@
+artist-id = "apink"
+kind = "single"
+
+names = [
+  { name = "Good Morning Baby", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-01-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2225857" },
+  { url = "http://www.mnet.com/album/322936" },
+]
