@@ -1,0 +1,9 @@
+names = [
+  { name = "上手く言えない (Instrumental)", locale = "ja", original = true },
+  { name = "Umaku Ienai (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "I Can't Describe It (Instrumental)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=yPZuXWb_CyY", name = "Music Video" },
+]

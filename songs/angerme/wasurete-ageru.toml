@@ -1,0 +1,9 @@
+names = [
+  { name = "忘れてあげる", locale = "ja", original = true },
+  { name = "Wasurete Ageru", locale = "ja-Latn", default = true },
+  { name = "I'll Forget Everything For You", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=IL-VnIPyeO0", name = "Music Video" },
+]

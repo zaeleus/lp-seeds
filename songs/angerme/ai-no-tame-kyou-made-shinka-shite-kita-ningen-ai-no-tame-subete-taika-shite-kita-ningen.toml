@@ -1,0 +1,8 @@
+names = [
+  { name = "愛のため今日まで進化してきた人間 愛のためすべて退化してきた人間", locale = "ja", original = true },
+  { name = "Ai no Tame Kyou Made Shinka Shite Kita Ningen Ai no Tame Subete Taika Shite Kita Ningen", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=3qKtkkf4KAg", name = "Music Video" },
+]

@@ -1,0 +1,17 @@
+artist-id = "angerme"
+kind = "single"
+
+names = [
+  { name = "上手く言えない／愛のため今日まで進化してきた人間　愛のためすべて退化してきた人間／忘れてあげる", locale = "ja", original = true },
+  { name = "Umaku Ienai / Ai no Tame Kyou Made Shinka Shite Kita Ningen Ai no Tame Subete Taika Shite Kita Ningen / Wasurete Ageru", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-10-19"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1161647857" },
+  { url = "http://mora.jp/package/43000030/HKCN-50507/" },
+  { url = "http://recochoku.jp/album/A1005206788/" },
+]

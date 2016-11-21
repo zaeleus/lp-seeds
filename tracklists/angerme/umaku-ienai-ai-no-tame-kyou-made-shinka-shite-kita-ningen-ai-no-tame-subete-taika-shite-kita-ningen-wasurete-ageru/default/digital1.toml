@@ -1,0 +1,33 @@
+medium-ids = [
+  "angerme/umaku-ienai-ai-no-tame-kyou-made-shinka-shite-kita-ningen-ai-no-tame-subete-taika-shite-kita-ningen-wasurete-ageru/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "angerme/umaku-ienai"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "angerme/ai-no-tame-kyou-made-shinka-shite-kita-ningen-ai-no-tame-subete-taika-shite-kita-ningen"
+duration = "4:45"
+
+[[tracks]]
+position = 3
+song-id = "angerme/wasurete-ageru"
+duration = "4:49"
+
+[[tracks]]
+position = 4
+song-id = "angerme/umaku-ienai-instrumental"
+duration = "3:43"
+
+[[tracks]]
+position = 5
+song-id = "angerme/ai-no-tame-kyou-made-shinka-shite-kita-ningen-ai-no-tame-subete-taika-shite-kita-ningen-instrumental"
+duration = "4:45"
+
+[[tracks]]
+position = 6
+song-id = "angerme/wasurete-ageru-instrumental"
+duration = "4:46"
