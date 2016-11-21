@@ -1,0 +1,15 @@
+artist-id = "juniel"
+kind = "ep"
+
+names = [
+  { name = "Fall in L", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-04-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2182978" },
+  { url = "http://www.mnet.com/album/288494" },
+]

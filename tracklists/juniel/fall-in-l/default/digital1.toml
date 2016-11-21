@@ -1,0 +1,23 @@
+medium-ids = [
+  "juniel/fall-in-l/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "juniel/gwiyeoun-namja"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "juniel/date"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "juniel/jamkkodae"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "juniel/my-lips"
+duration = "3:04"
