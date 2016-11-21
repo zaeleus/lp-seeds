@@ -1,0 +1,5 @@
+names = [
+  { name = "Mask (가면)", locale = "ko", original = true },
+  { name = "Mask (Gamyeon)", locale = "ko-Latn" },
+  { name = "Mask", locale = "en", default = true },
+]

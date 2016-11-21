@@ -1,0 +1,5 @@
+names = [
+  { name = "바보 (With 정용화 of CNBLUE)", locale = "ko", original = true },
+  { name = "Babo (With Jung Yong Hwa of CNBLUE)", locale = "ko-Latn", default = true },
+  { name = "Fool (With Jung Yong Hwa of CNBLUE)", locale = "en" },
+]

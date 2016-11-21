@@ -1,0 +1,15 @@
+artist-id = "juniel"
+kind = "ep"
+
+names = [
+  { name = "My First June", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2012-06-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2124713" },
+  { url = "http://www.mnet.com/album/256598" },
+]
