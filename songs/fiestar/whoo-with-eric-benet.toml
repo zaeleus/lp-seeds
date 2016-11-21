@@ -1,0 +1,3 @@
+names = [
+  { name = "Whoo! (With Eric Benet)", locale = "ko", original = true, default = true },
+]

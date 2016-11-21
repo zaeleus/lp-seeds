@@ -1,0 +1,8 @@
+medium-ids = [
+  "fiestar/whoo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fiestar/whoo-with-eric-benet"
+duration = "4:29"

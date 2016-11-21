@@ -1,0 +1,15 @@
+artist-id = "fiestar"
+kind = "single"
+
+names = [
+  { name = "Whoo!", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-08-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2198372" },
+  { url = "http://www.mnet.com/album/303687" },
+]
