@@ -1,0 +1,28 @@
+medium-ids = [
+  "juniel/1-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "juniel/nappeun-saram"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "juniel/oh-happy-day"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "juniel/sonyeon"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "juniel/goyangiui-haru"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song-id = "juniel/happy-ending"
+duration = "3:31"
