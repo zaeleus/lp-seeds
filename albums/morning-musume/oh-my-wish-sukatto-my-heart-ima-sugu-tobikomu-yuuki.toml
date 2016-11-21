@@ -2,7 +2,7 @@ artist-id = "morning-musume"
 kind = "single"
 
 names = [
-  { name = "Oh my wish! / スカッとMy Heart / 今すぐ飛び込む勇気", locale = "ja", original = true },
+  { name = "Oh my wish!／スカッとMy Heart／今すぐ飛び込む勇気", locale = "ja", original = true },
   { name = "Oh my wish! / Sukatto My Heart / Ima Sugu Tobikomu Yuuki", locale = "ja-Latn", default = true },
   { name = "Oh my wish! / Refresh My Heart / The Courage to Jump in Right Now", locale = "en" },
 ]
