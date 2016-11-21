@@ -1,0 +1,15 @@
+artist-id = "girl-s-day"
+kind = "single"
+
+names = [
+  { name = "Girl's Day Party #6", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-07-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2194903" },
+  { url = "http://www.mnet.com/album/300239" },
+]
