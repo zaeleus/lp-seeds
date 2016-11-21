@@ -1,0 +1,15 @@
+artist-id = "ns-yoon-g"
+kind = "single"
+
+names = [
+  { name = "Sincerely,", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2015-03-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2310146" },
+  { url = "http://www.mnet.com/album/412369" },
+]

@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1988-09-06"
+country = "KR"
+
+names = [
+  { name = "NS 윤지", locale = "ko", kind = "stage", original = true },
+  { name = "NS Yoon-G", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김윤지", locale = "ko", kind = "real" },
+  { name = "Kim Yoon Ji", locale = "ko-Latn", kind = "real" },
+  { name = "Christine Kim", locale = "en", kind = "real" },
+]

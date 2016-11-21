@@ -1,0 +1,4 @@
+names = [
+  { name = "Wifey (Feat. MC몽)", locale = "ko", original = true },
+  { name = "Wifey (Feat. MC Mong)", locale = "ko-Latn", default = true },
+]
