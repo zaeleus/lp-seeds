@@ -1,0 +1,8 @@
+names = [
+  { name = "桜の歌", locale = "ja", original = true },
+  { name = "Sakura no Uta", locale = "ja-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "angerme/nakanishi-kana" },
+]

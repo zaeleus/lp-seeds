@@ -1,0 +1,8 @@
+names = [
+  { name = "華子の歌", locale = "ja", original = true },
+  { name = "Hanako no Uta", locale = "ja-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "angerme/sasaki-rikako" },
+]

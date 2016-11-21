@@ -1,0 +1,10 @@
+names = [
+  { name = "ファッションマガジン", locale = "ja", original = true },
+  { name = "Fashion Magazine", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "angerme/wada-ayaka", separator = ", " },
+  { artist-id = "angerme/nakanishi-kana", separator = ", " },
+  { artist-id = "angerme/takeuchi-akari" },
+]

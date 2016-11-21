@@ -1,0 +1,16 @@
+artist-id = "angerme"
+kind = "lp"
+
+names = [
+  { name = "演劇女子部「モード」　オリジナルサウンドトラック", locale = "ja", original = true },
+  { name = 'Engeki Joshibu "Mode" Original Soundtrack', locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-11-02"
+country = "JP"
+catalog-number = "UFCW-1117"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.up-front-works.jp/release/detail/UFCW-1117/" },
+]

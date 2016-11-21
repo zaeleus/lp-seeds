@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "2003-10-22"
+country = "JP"
+
+names = [
+  { name = "笠原桃奈", locale = "ja", kind = "real", original = true },
+  { name = "Kasahara Momona", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood-type = "A"
+height = 160

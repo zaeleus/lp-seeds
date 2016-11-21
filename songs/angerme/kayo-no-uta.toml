@@ -1,0 +1,8 @@
+names = [
+  { name = "かよの歌", locale = "ja", original = true },
+  { name = "Kayo no Uta", locale = "ja-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "angerme/kasahara-momona" },
+]

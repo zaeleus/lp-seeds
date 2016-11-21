@@ -1,0 +1,8 @@
+names = [
+  { name = "美智子の歌", locale = "ja", original = true },
+  { name = "Michiko no Uta", locale = "ja-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "angerme/kamikokuryo-moe" },
+]

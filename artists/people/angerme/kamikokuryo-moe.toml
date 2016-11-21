@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1999-10-24"
+country = "JP"
+
+names = [
+  { name = "上國料萌衣", locale = "ja", kind = "real", original = true },
+  { name = "Kamikokuryo Moe", locale = "ja-Latn", kind = "real", default = true },
+]
+
+[metadata]
+blood-type = "O"
+height = 150

@@ -17,6 +17,8 @@ members = [
   { artist-id = "angerme/murota-mizuki" },
   { artist-id = "angerme/aikawa-maho" },
   { artist-id = "angerme/sasaki-rikako" },
+  { artist-id = "angerme/kamikokuryo-moe", started-on = "2015-11-11" },
+  { artist-id = "angerme/kasahara-momona", started-on = "2016-07-16" },
 
   { artist-id = "angerme/maeda-yuuka", ended-on = "2011-12-31" },
   { artist-id = "angerme/ogawa-sasaki", ended-on = "2011-08-27" },

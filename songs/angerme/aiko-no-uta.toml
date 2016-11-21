@@ -1,0 +1,8 @@
+names = [
+  { name = "愛子の歌", locale = "ja", original = true },
+  { name = "Aiko no Uta", locale = "ja-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "angerme/katsuta-rina" },
+]
