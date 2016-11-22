@@ -1,0 +1,13 @@
+names = [
+  { name = "One More Day", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "sistar", separator = " feat. " },
+  { artist-id = "giorgio-moroder" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=OgzeYN14E5w", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=E4TygUpWUTQ", name = "Music Video" },
+]

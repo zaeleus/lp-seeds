@@ -1,0 +1,8 @@
+names = [
+  { name = "One More Day (TAK Remix Inst.)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "sistar", separator = " feat. " },
+  { artist-id = "giorgio-moroder" },
+]

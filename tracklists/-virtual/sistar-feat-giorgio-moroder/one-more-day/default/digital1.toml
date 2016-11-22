@@ -1,0 +1,23 @@
+medium-ids = [
+  "-virtual/sistar-feat-giorgio-moroder/one-more-day/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/sistar-feat-giorgio-moroder/one-more-day"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/sistar-feat-giorgio-moroder/one-more-day-tak-remix"
+duration = "3:40"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/sistar-feat-giorgio-moroder/one-more-day-inst"
+duration = "3:33"
+
+[[tracks]]
+position = 4
+song-id = "-virtual/sistar-feat-giorgio-moroder/one-more-day-tak-remix-inst"
+duration = "3:40"

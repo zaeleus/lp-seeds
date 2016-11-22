@@ -1,0 +1,7 @@
+kind = "person"
+started-on = "1940-04-26"
+country = "IT"
+
+names = [
+  { name = "Giorgio Moroder", locale = "it", kind = "real", original = true, default = true },
+]

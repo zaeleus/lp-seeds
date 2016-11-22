@@ -1,0 +1,20 @@
+artist-id = "-virtual/sistar-feat-giorgio-moroder"
+kind = "single"
+
+names = [
+  { name = "One More Day", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "sistar", separator = " feat. " },
+  { artist-id = "giorgio-moroder" },
+]
+
+[[releases]]
+released-on = "2016-11-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10017053" },
+  { url = "http://www.mnet.com/album/1536441" },
+]
