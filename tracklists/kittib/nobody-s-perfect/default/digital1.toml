@@ -1,0 +1,13 @@
+medium-ids = [
+  "kittib/nobody-s-perfect/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kittib/nobody-s-perfect"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "kittib/eumseon-memo-feat-qm"
+duration = "4:16"

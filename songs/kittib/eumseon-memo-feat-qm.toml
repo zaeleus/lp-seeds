@@ -1,0 +1,5 @@
+names = [
+  { name = "음성메모 (Feat. QM)", locale = "ko", original = true },
+  { name = "Eumseon Memo (Feat. QM)", locale = "ko-Latn", default = true },
+  { name = "Voice Memo (Feat. QM)", locale = "en" },
+]
