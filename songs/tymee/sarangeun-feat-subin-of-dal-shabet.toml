@@ -1,0 +1,5 @@
+names = [
+  { name = "사랑은 (Feat. 수빈 of 달샤벳)", locale = "ko", original = true },
+  { name = "Sarangeun (Feat. Subin of Dal★Shabet)", locale = "ko-Latn", default = true },
+  { name = "Love Is (Feat. Subin of Dal★Shabet)", locale = "en" },
+]
