@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan/sejeong/kkot-gil-prod-by-zico/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/sejeong/kkot-gil-prod-by-zico"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/sejeong/kkot-gil-prod-by-zico-inst"
+duration = "3:59"

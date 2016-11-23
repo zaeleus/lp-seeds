@@ -1,0 +1,5 @@
+names = [
+  { name = "꽃길 (Prod. by ZICO) (Inst.)", locale = "ko", original = true },
+  { name = "Kkot Gil (Prod. by ZICO) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Flower Road (Prod. by ZICO) (Inst.)", locale = "en" },
+]
