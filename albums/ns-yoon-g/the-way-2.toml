@@ -1,0 +1,15 @@
+artist-id = "ns-yoon-g"
+kind = "ep"
+
+names = [
+  { name = "The Way 2..", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-04-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2247378" },
+  { url = "http://www.mnet.com/album/335369" },
+]

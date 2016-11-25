@@ -1,0 +1,4 @@
+names = [
+  { name = "If I Love You (Feat. 이단옆차기)", locale = "ko", original = true },
+  { name = "If I Love You (Feat. Duble Sidekick)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,33 @@
+medium-ids = [
+  "ns-yoon-g/the-way-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ns-yoon-g/yasisi"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "ns-yoon-g/if-i-love-you-feat-duble-sidekick"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "ns-yoon-g/michin-i-feat-duble-sidekick"
+duration = "3:49"
+
+[[tracks]]
+position = 4
+song-id = "ns-yoon-g/if-you-love-me-feat-jay-park"
+duration = "3:18"
+
+[[tracks]]
+position = 5
+song-id = "ns-yoon-g/yasisi-inst"
+duration = "3:27"
+
+[[tracks]]
+position = 6
+song-id = "ns-yoon-g/if-i-love-you-inst"
+duration = "3:10"
