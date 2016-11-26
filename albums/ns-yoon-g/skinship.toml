@@ -1,0 +1,15 @@
+artist-id = "ns-yoon-g"
+kind = "ep"
+
+names = [
+  { name = "SKINSHIP", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2012-07-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2137373" },
+  { url = "http://www.mnet.com/album/261693" },
+]
