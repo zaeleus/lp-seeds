@@ -1,0 +1,68 @@
+medium-ids = [
+  "kalafina/winter-acoustic-kalafina-with-strings/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kalafina/from-heaven-above"
+duration = "2:09"
+
+[[tracks]]
+position = 2
+song-id = "kalafina/in-duici-jubilo"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "kalafina/fairytale-with-strings-ver"
+duration = "5:33"
+
+[[tracks]]
+position = 4
+song-id = "kalafina/sprinter-with-strings-ver"
+duration = "5:54"
+
+[[tracks]]
+position = 5
+song-id = "kalafina/jingle-bell"
+duration = "2:54"
+
+[[tracks]]
+position = 6
+song-id = "kalafina/we-wish-you-a-merry-christmas"
+duration = "2:52"
+
+[[tracks]]
+position = 7
+song-id = "kalafina/kimi-no-gin-no-niwa-with-strings-ver"
+duration = "5:05"
+
+[[tracks]]
+position = 8
+song-id = "kalafina/ring-your-bell-with-strings-ver"
+duration = "6:10"
+
+[[tracks]]
+position = 9
+song-id = "kalafina/morobito-kozorite"
+duration = "2:05"
+
+[[tracks]]
+position = 10
+song-id = "kalafina/have-yourself-a-merry-little-christmas"
+duration = "3:28"
+
+[[tracks]]
+position = 11
+song-id = "kalafina/dolce-with-strings-ver"
+duration = "2:17"
+
+[[tracks]]
+position = 12
+song-id = "kalafina/alleluia-piano-ver"
+duration = "5:00"
+
+[[tracks]]
+position = 13
+song-id = "kalafina/yasashii-uta"
+duration = "5:43"

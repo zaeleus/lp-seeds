@@ -1,0 +1,7 @@
+kind = "group"
+started-on = "2007"
+country = "JP"
+
+names = [
+  { name = "Kalafina", locale = "ja", original = true, default = true },
+]
