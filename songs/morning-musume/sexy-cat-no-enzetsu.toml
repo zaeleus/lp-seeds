@@ -1,0 +1,16 @@
+names = [
+  { name = "セクシーキャットの演説", locale = "ja", original = true },
+  { name = "Sexy Cat no Enzetsu", locale = "ja-Latn", default = true },
+  { name = "Sexy Cat's Speech", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '16", locale = "ja", original = true },
+  { name = "Morning Musume '16", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=S0g7SQbyjko", name = "Music Video" },
+]

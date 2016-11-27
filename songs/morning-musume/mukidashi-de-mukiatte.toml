@@ -1,0 +1,16 @@
+names = [
+  { name = "ムキダシで向き合って", locale = "ja", original = true },
+  { name = "Mukidashi de Mukiatte", locale = "ja-Latn", default = true },
+  { name = "Confront with Bare Nakedness", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '16", locale = "ja", original = true },
+  { name = "Morning Musume '16", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=fdtgnmV7HU0", name = "Music Video" },
+]

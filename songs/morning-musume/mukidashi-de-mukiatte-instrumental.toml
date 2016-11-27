@@ -1,0 +1,12 @@
+names = [
+  { name = "ムキダシで向き合って (Instrumental)", locale = "ja", original = true },
+  { name = "Mukidashi de Mukiatte (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Confront with Bare Nakedness (Instrumental)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '16", locale = "ja", original = true },
+  { name = "Morning Musume '16", locale = "ja-Latn", default = true },
+]

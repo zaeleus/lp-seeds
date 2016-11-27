@@ -1,0 +1,16 @@
+names = [
+  { name = "そうじゃない", locale = "ja", original = true },
+  { name = "Sou ja nai", locale = "ja-Latn", default = true },
+  { name = "I'm Not Like That", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '16", locale = "ja", original = true },
+  { name = "Morning Musume '16", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ilEoPiUST2Y", name = "Music Video" },
+]

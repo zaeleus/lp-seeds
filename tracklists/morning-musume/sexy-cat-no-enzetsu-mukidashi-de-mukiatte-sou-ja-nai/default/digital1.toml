@@ -1,0 +1,33 @@
+medium-ids = [
+  "morning-musume/sexy-cat-no-enzetsu-mukidashi-de-mukiatte-sou-ja-nai/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "morning-musume/sexy-cat-no-enzetsu"
+duration = "4:56"
+
+[[tracks]]
+position = 2
+song-id = "morning-musume/mukidashi-de-mukiatte"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song-id = "morning-musume/sou-ja-nai"
+duration = "4:41"
+
+[[tracks]]
+position = 4
+song-id = "morning-musume/sexy-cat-no-enzetsu-instrumental"
+duration = "4:56"
+
+[[tracks]]
+position = 5
+song-id = "morning-musume/mukidashi-de-mukiatte-instrumental"
+duration = "3:50"
+
+[[tracks]]
+position = 6
+song-id = "morning-musume/sou-ja-nai-instrumental"
+duration = "4:42"
