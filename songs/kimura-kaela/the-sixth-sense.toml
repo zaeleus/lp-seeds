@@ -1,0 +1,3 @@
+names = [
+  { name = "THE SIXTH SENSE", locale = "ja", original = true, default = true },
+]

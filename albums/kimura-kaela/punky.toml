@@ -1,0 +1,18 @@
+artist-id = "kimura-kaela"
+kind = "lp"
+
+names = [
+  { name = "PUNKY", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-10-19"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1159293341" },
+  { url = "http://mora.jp/package/43000005/VICL-64563/" },
+  { url = "http://mora.jp/package/43000005/VICL-64563_F/" },
+  { url = "http://recochoku.jp/album/A1005128368/" },
+  { url = "http://recochoku.jp/album/A1005242298/" },
+]

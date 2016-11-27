@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1984-10-24"
+country = "JP"
+
+names = [
+  { name = "木村カエラ", locale = "ja", kind = "real", original = true },
+  { name = "Kimura Kaela", locale = "ja-Latn", kind = "real", default = true },
+]
