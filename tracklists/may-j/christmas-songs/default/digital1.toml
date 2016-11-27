@@ -1,0 +1,38 @@
+medium-ids = [
+  "may-j/christmas-songs/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "may-j/santa-ga-machi-ni-yattekuru"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "may-j/santa-claus-medley"
+duration = "4:42"
+
+[[tracks]]
+position = 3
+song-id = "may-j/wish-forever"
+duration = "5:52"
+
+[[tracks]]
+position = 4
+song-id = "may-j/christmas-medley"
+duration = "4:41"
+
+[[tracks]]
+position = 5
+song-id = "may-j/let-it-go-ari-no-mama-de-christmas-gospel-ver"
+duration = "4:26"
+
+[[tracks]]
+position = 6
+song-id = "may-j/silent-night"
+duration = "2:14"
+
+[[tracks]]
+position = 7
+song-id = "may-j/all-i-want-for-christmas-is-you-believin"
+duration = "4:38"

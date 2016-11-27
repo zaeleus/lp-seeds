@@ -1,0 +1,4 @@
+names = [
+  { name = "Let It Go ～ありのままで～ [Christmas Gospel Ver.]", locale = "ja", original = true },
+  { name = "Let It Go ~Ari no Mama de~ [Christmas Gospel Ver.]", locale = "ja-Latn", default = true },
+]

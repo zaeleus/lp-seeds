@@ -1,0 +1,4 @@
+names = [
+  { name = "サンタが町にやってくる", locale = "ja", original = true },
+  { name = "Santa ga Machi ni Yattekuru", locale = "ja-Latn", default = true },
+]

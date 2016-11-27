@@ -1,0 +1,4 @@
+names = [
+  { name = "サンタクロースメドレー", locale = "ja", original = true },
+  { name = "Santa Claus Medley", locale = "en", default = true },
+]

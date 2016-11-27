@@ -1,0 +1,17 @@
+artist-id = "may-j"
+kind = "ep"
+
+names = [
+  { name = "Christmas Songs", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-11-16"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000002/RZCD-86212/" },
+  { url = "http://mora.jp/package/43000002/ANTCD-20073_F/" },
+  { url = "http://recochoku.jp/album/A1005470547/" },
+  { url = "http://recochoku.jp/album/A1005473768/" },
+]

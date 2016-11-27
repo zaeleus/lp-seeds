@@ -1,0 +1,7 @@
+kind = "person"
+started-on = "1988-06-20"
+country = "JP"
+
+names = [
+  { name = "May J.", locale = "ja", kind = "real", original = true, default = true },
+]
