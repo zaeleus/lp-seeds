@@ -1,0 +1,4 @@
+names = [
+  { name = "니가 뭘 알아 (Feat. 버벌진트)", locale = "ko", original = true },
+  { name = "Niga Mwol Ara (Feat. Verbal Jint)", locale = "ko-Latn", default = true },
+]

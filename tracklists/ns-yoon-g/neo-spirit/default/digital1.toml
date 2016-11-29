@@ -1,0 +1,33 @@
+medium-ids = [
+  "ns-yoon-g/neo-spirit/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ns-yoon-g/niga-mwol-ara-feat-verbal-jint"
+duration = "4:11"
+
+[[tracks]]
+position = 2
+song-id = "ns-yoon-g/manyeoga-doen-iyu"
+duration = "3:44"
+
+[[tracks]]
+position = 3
+song-id = "ns-yoon-g/shower-feat-duble-sidekick"
+duration = "3:53"
+
+[[tracks]]
+position = 4
+song-id = "ns-yoon-g/talk-talk-talk"
+duration = "3:24"
+
+[[tracks]]
+position = 5
+song-id = "ns-yoon-g/tto-bogo-sipeo-feat-sangchu"
+duration = "3:22"
+
+[[tracks]]
+position = 6
+song-id = "ns-yoon-g/manyeoga-doen-iyu-inst"
+duration = "3:44"

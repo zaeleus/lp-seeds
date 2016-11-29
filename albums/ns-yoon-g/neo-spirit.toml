@@ -1,0 +1,15 @@
+artist-id = "ns-yoon-g"
+kind = "ep"
+
+names = [
+  { name = "Neo Spirit", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2012-01-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2058986" },
+  { url = "http://www.mnet.com/album/244973" },
+]
