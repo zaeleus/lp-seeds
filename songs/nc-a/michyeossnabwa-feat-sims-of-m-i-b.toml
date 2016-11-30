@@ -1,5 +1,4 @@
 names = [
-  { name = "미쳤나봐 (Feat. 심스 of M.I.B)", locale = "ko", original = true },
+  { name = "미쳤나봐 (Feat. SIMS of M.I.B)", locale = "ko", original = true },
   { name = "Michyeossnabwa (Feat. SIMS of M.I.B)", locale = "ko-Latn", default = true },
-  { name = "I Think I'm Crazy", locale = "en" },
 ]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "nc-a/michyeossnabwa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nc-a/michyeossnabwa-feat-sims-of-m-i-b"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "nc-a/michyeossnabwa-inst"
+duration = "3:09"

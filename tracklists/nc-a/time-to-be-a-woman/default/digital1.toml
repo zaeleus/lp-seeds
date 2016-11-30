@@ -40,6 +40,10 @@ duration = "3:34"
 position = 7
 song-id = "nc-a/michyeossnabwa-feat-sims-of-m-i-b"
 duration = "3:11"
+names = [
+  { name = "미쳤나봐 (Feat. 심스 of M.I.B)", locale = "ko", original = true },
+  { name = "Michyeossnabwa (Feat. SIMS of M.I.B)", locale = "ko-Latn", default = true },
+]
 
 [[tracks]]
 position = 8
