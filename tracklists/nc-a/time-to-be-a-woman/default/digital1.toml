@@ -39,8 +39,16 @@ duration = "3:11"
 
 [[tracks]]
 position = 8
-song-id = "nc-a/eolmana-deo-feat-shin-ji"
+song-id = "-virtual/shinji-nc-a/eolmana-deo"
 duration = "3:43"
+names = [
+  { name = "얼마나 더.. (Feat. 신지)", locale = "ko", original = true },
+  { name = "Eolmana Deo.. (Feat. Shinji)", locale = "ko-Latn", default = true },
+  { name = "How long time.. (Feat. Shinji)", locale = "en" },
+]
+artist-credits = [
+  { artist-id = "nc-a" },
+]
 
 [[tracks]]
 position = 9

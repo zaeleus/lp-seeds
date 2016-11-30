@@ -1,0 +1,14 @@
+names = [
+  { name = "얼마나 더..", locale = "ko", original = true },
+  { name = "Eolmana Deo..", locale = "ko-Latn", default = true },
+  { name = "How long time..", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "koyote/shinji", separator = " & " },
+  { artist-id = "nc-a" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=dv-Pdo_K7zY", name = "Music Video" },
+]

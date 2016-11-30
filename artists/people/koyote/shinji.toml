@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1981-11-18"
+country = "KR"
+
+names = [
+  { name = "신지", locale = "ko", kind = "stage", original = true },
+  { name = "Shinji", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이지선", locale = "ko", kind = "real" },
+  { name = "Lee Ji Seon", locale = "ko-Latn", kind = "real" },
+]

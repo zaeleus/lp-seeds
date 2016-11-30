@@ -1,0 +1,22 @@
+artist-id = "-virtual/shinji-nc-a"
+kind = "single"
+
+names = [
+  { name = "얼마나 더..", locale = "ko", original = true },
+  { name = "Eolmana Deo..", locale = "ko-Latn", default = true },
+  { name = "How long time..", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "koyote/shinji", separator = " & " },
+  { artist-id = "nc-a" },
+]
+
+[[releases]]
+released-on = "2015-12-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2656099" },
+  { url = "http://www.mnet.com/album/515923" },
+]

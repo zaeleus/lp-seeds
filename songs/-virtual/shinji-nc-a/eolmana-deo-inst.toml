@@ -1,0 +1,10 @@
+names = [
+  { name = "얼마나 더.. (Inst.)", locale = "ko", original = true },
+  { name = "Eolmana Deo.. (Inst.)", locale = "ko-Latn", default = true },
+  { name = "How Long Time.. (Inst.)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "koyote/shinji", separator = " & " },
+  { artist-id = "nc-a" },
+]
