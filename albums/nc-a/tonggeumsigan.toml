@@ -1,0 +1,16 @@
+artist-id = "nc-a"
+kind = "single"
+
+names = [
+  { name = "통금시간", locale = "ko", original = true },
+  { name = "Tonggeumsigan", locale = "ko-Latn", default = true },
+  { name = "Cinderella Time", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-03-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2310989" },
+]
