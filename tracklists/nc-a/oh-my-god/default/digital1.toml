@@ -1,0 +1,13 @@
+medium-ids = [
+  "nc-a/oh-my-god/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nc-a/oh-my-god"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "nc-a/oh-my-god-inst"
+duration = "3:17"
