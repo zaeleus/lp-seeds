@@ -1,0 +1,13 @@
+medium-ids = [
+  "nc-a/vanilla-shake/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nc-a/vanilla-shake"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "nc-a/vanilla-shake-inst"
+duration = "3:33"

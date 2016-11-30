@@ -21,6 +21,10 @@ duration = "3:43"
 position = 4
 song-id = "nc-a/vanilla-shake"
 duration = "3:33"
+names = [
+  { name = "바닐라쉐이크", locale = "ko", original = true },
+  { name = "Vanilla Shake", locale = "en", default = true },
+]
 
 [[tracks]]
 position = 5
