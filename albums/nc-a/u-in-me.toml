@@ -1,0 +1,15 @@
+artist-id = "nc-a"
+kind = "single"
+
+names = [
+  { name = "U in me", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-02-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2666093" },
+  { url = "http://www.mnet.com/album/527854" },
+]
