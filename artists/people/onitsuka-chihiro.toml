@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1980-10-30"
+country = "JP"
+
+names = [
+  { name = "鬼束ちひろ", locale = "ja", kind = "real", original = true },
+  { name = "Onitsuka Chihiro", locale = "ja-Latn", kind = "real", default = true },
+]

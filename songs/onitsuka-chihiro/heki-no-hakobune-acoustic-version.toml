@@ -1,0 +1,4 @@
+names = [
+  { name = "碧の方舟 (acoustic version)", locale = "ja", original = true },
+  { name = "Heki no Hakobune (acoustic version)", locale = "ja-Latn", default = true },
+]

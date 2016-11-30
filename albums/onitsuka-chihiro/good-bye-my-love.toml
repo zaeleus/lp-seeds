@@ -1,0 +1,14 @@
+artist-id = "onitsuka-chihiro"
+kind = "ep"
+
+names = [
+  { name = "good bye my love", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-11-02"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000005/VICL-37228/" },
+]
