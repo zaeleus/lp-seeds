@@ -1,0 +1,33 @@
+medium-ids = [
+  "nc-a/scent-of-nc-a/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nc-a/nan-jom-dalla"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "nc-a/hello-baby"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "nc-a/gyosaengssaem"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "nc-a/oh-my-god"
+duration = "3:17"
+
+[[tracks]]
+position = 5
+song-id = "nc-a/nan-jom-dalla-inst"
+duration = "3:29"
+
+[[tracks]]
+position = 6
+song-id = "nc-a/hello-baby-inst"
+duration = "3:27"

@@ -1,0 +1,5 @@
+names = [
+  { name = "교생쌤", locale = "ko", original = true },
+  { name = "Gyosaengssaem", locale = "ko-Latn", default = true },
+  { name = "My Student Teacher", locale = "en" },
+]
