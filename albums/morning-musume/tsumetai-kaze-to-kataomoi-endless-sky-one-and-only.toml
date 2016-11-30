@@ -2,7 +2,7 @@ artist-id = "morning-musume"
 kind = "single"
 
 names = [
-  { name = "冷たい風と片思い / ENDLESS SKY / One and Only", locale = "ja", original = true },
+  { name = "冷たい風と片思い／ENDLESS SKY／One and Only", locale = "ja", original = true },
   { name = "Tsumetai Kaze to Kataomoi / ENDLESS SKY / One and Only", locale = "ja-Latn", default = true },
   { name = "The Cold Wind and Lonely Love / ENDLESS SKY / One and Only", locale = "en" },
 ]
