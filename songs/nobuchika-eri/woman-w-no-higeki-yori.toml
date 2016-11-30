@@ -1,0 +1,4 @@
+names = [
+  { name = 'Woman "Wの悲劇"より', locale = "ja", original = true },
+  { name = 'Woman "W no Higeki" Yori', locale = "ja-Latn", default = true },
+]

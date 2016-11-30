@@ -1,0 +1,14 @@
+artist-id = "nobuchika-eri"
+kind = "ep"
+
+names = [
+  { name = "III -THREE-", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-11-02"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000002/RZCD-86201/" },
+]

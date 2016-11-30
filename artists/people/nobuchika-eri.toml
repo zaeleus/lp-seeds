@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1985-08-03"
+country = "JP"
+
+names = [
+  { name = "信近エリ", locale = "ja", kind = "real", original = true },
+  { name = "Nobuchika Eri", locale = "ja-Latn", kind = "real", default = true },
+]

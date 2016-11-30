@@ -1,0 +1,38 @@
+medium-ids = [
+  "nobuchika-eri/iii-three/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nobuchika-eri/everybody-needs-love"
+duration = "4:12"
+
+[[tracks]]
+position = 2
+song-id = "nobuchika-eri/aa-mou-isso"
+duration = "4:22"
+
+[[tracks]]
+position = 3
+song-id = "nobuchika-eri/tatta-hitotsu-no-koi"
+duration = "4:35"
+
+[[tracks]]
+position = 4
+song-id = "nobuchika-eri/hello"
+duration = "5:35"
+
+[[tracks]]
+position = 5
+song-id = "nobuchika-eri/kimi-no-koe-wo"
+duration = "4:49"
+
+[[tracks]]
+position = 6
+song-id = "nobuchika-eri/beautiful"
+duration = "4:02"
+
+[[tracks]]
+position = 7
+song-id = "nobuchika-eri/woman-w-no-higeki-yori"
+duration = "3:55"
