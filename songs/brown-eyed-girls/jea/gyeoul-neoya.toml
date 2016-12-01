@@ -1,0 +1,10 @@
+names = [
+  { name = "겨울 너야", locale = "ko", original = true },
+  { name = "Gyeoul Neoya", locale = "ko-Latn", default = true },
+  { name = "Winter, It's You", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=etUXesEWjMg", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=2AtXUY_4XHg", name = "Music Video" },
+]

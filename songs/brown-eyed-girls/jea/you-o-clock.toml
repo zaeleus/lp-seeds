@@ -1,0 +1,8 @@
+names = [
+  { name = "You o'clock", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=sakavTd7ZBo", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=_kvLcwNbSE4", name = "Music Video" },
+]
