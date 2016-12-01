@@ -1,0 +1,16 @@
+artist-id = "berrygood"
+kind = "single"
+
+names = [
+  { name = "요즘 너 때문에 난", locale = "ko", original = true },
+  { name = "Yojeum Neo Ttaemune Nan", locale = "ko-Latn", default = true },
+  { name = "Because of You", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-02-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2303108" },
+]

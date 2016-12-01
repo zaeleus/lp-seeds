@@ -1,0 +1,5 @@
+names = [
+  { name = "요즘 너 때문에 난 (Acoustic Ver.)", locale = "ko", original = true },
+  { name = "Yojeum Neo Ttaemune Nan (Acoustic Ver.)", locale = "ko-Latn", default = true },
+  { name = "Because of You (Acoustic Ver.)", locale = "en" },
+]
