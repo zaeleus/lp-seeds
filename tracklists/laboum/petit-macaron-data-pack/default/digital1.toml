@@ -1,0 +1,23 @@
+medium-ids = [
+  "laboum/petit-macaron-data-pack/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "laboum/eotteokhallae"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "laboum/winter-party"
+duration = "2:59"
+
+[[tracks]]
+position = 3
+song-id = "laboum/eotteokhallae-inst"
+duration = "3:23"
+
+[[tracks]]
+position = 4
+song-id = "laboum/winter-party-inst"
+duration = "2:59"
