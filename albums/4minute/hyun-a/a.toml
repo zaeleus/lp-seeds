@@ -5,6 +5,13 @@ names = [
   { name = "A+", locale = "ko", original = true, default = true },
 ]
 
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]
+
 [[releases]]
 released-on = "2015-08-21"
 country = "KR"
