@@ -5,6 +5,7 @@ medium-ids = [
 [[tracks]]
 position = 1
 song-id = "morning-musume/ima-sugu-tobikomu-yuuki"
+duration = "6:06"
 names = [
   { name = "今すぐ飛び込む勇気 (Music Video)", locale = "ja", original = true },
   { name = "Ima Sugu Tobikomu Yuuki (Music Video)", locale = "ja-Latn", default = true },

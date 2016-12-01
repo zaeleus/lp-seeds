@@ -22,6 +22,7 @@ media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition A"
 urls = [
   { url = "http://www.oricon.co.jp/prof/169712/products/1134763/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7129/" },
 ]
 
 [[releases]]
@@ -32,6 +33,7 @@ media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition B"
 urls = [
   { url = "http://www.oricon.co.jp/prof/169712/products/1134764/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7129/" },
 ]
 
 [[releases]]
@@ -42,6 +44,7 @@ media = [{ kind = "cd" }, { kind = "dvd" }]
 disambiguation = "Limited Edition C"
 urls = [
   { url = "http://www.oricon.co.jp/prof/169712/products/1134765/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7129/" },
 ]
 
 [[releases]]
@@ -52,6 +55,7 @@ media = [{ kind = "cd" }]
 disambiguation = "Regular Edition A"
 urls = [
   { url = "http://www.oricon.co.jp/prof/169712/products/1134766/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7129/" },
 ]
 
 [[releases]]
@@ -62,6 +66,7 @@ media = [{ kind = "cd" }]
 disambiguation = "Regular Edition B"
 urls = [
   { url = "http://www.oricon.co.jp/prof/169712/products/1134767/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7129/" },
 ]
 
 [[releases]]
@@ -72,4 +77,5 @@ media = [{ kind = "cd" }]
 disambiguation = "Regular Edition C"
 urls = [
   { url = "http://www.oricon.co.jp/prof/169712/products/1134768/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7129/" },
 ]

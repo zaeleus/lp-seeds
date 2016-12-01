@@ -5,6 +5,7 @@ medium-ids = [
 [[tracks]]
 position = 1
 song-id = "morning-musume/oh-my-wish"
+duration = "5:52"
 names = [
   { name = "Oh my wish! (Music Video)", locale = "ja", original = true, default = true },
 ]

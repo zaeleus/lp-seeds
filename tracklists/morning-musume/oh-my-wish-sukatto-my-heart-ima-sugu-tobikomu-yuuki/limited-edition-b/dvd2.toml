@@ -5,6 +5,7 @@ medium-ids = [
 [[tracks]]
 position = 1
 song-id = "morning-musume/sukatto-my-heart"
+duration = "5:16"
 names = [
   { name = "スカッとMy Heart (Music Video)", locale = "ja", original = true },
   { name = "Sukatto My Heart (Music Video)", locale = "ja-Latn", default = true },
