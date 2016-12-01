@@ -1,0 +1,5 @@
+names = [
+  { name = "노래가 늘었어 (Inst.)", locale = "ko", original = true },
+  { name = "Noraega Neureosseo (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Singing Got Bettter (Inst.)", locale = "en" },
+]

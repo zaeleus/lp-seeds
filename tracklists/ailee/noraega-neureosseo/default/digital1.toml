@@ -1,0 +1,13 @@
+medium-ids = [
+  "ailee/noraega-neureosseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ailee/noraega-neureosseo"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "ailee/noraega-neureosseo-inst"
+duration = "3:19"
