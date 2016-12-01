@@ -1,0 +1,13 @@
+medium-ids = [
+  "ailee/heaven/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ailee/heaven"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "ailee/heaven-inst"
+duration = "3:29"
