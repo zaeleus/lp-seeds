@@ -7,12 +7,33 @@ names = [
   { name = "Girl's Day", locale = "ko-Latn", default = true },
 ]
 
-members = [
-  { artist-id = "girl-s-day/so-jin" },
-  { artist-id = "girl-s-day/min-ah" },
-  { artist-id = "girl-s-day/yura", started-on = "2010-09-16" },
-  { artist-id = "girl-s-day/hyeri", started-on = "2010-09-14" },
-  { artist-id = "new-f-o/jn", ended-on = "2010-09-12" },
-  { artist-id = "girl-s-day/ji-in", ended-on = "2010-09-12" },
-  { artist-id = "girl-s-day/ji-hae", ended-on = "2012-10-17" },
+[[members]]
+artist-id = "girl-s-day/so-jin"
+
+[[members]]
+artist-id = "girl-s-day/min-ah"
+
+[[members]]
+artist-id = "girl-s-day/yura"
+started-on = "2010-09-16"
+
+[[members]]
+artist-id = "girl-s-day/hyeri"
+started-on = "2010-09-14"
+
+[[members]]
+ended-on = "2010-09-12"
+[[members.artist-credits]]
+artist-id = "new-f-o/jn"
+names = [
+  { name = "지선", locale = "ko", original = true },
+  { name = "Ji Sun", locale = "ko-Latn", default = true },
 ]
+
+[[members]]
+artist-id = "girl-s-day/ji-in"
+ended-on = "2010-09-12"
+
+[[members]]
+artist-id = "girl-s-day/ji-hae"
+ended-on = "2012-10-17"
