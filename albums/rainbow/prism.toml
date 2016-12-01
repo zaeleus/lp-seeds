@@ -2,7 +2,7 @@ artist-id = "rainbow"
 kind = "ep"
 
 names = [
-  { name = "PRISM", locale = "ko", original = true, default = true },
+  { name = "Prism", locale = "ko", original = true, default = true },
 ]
 
 urls = [
