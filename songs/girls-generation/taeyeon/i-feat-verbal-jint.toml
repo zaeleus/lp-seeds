@@ -1,0 +1,11 @@
+names = [
+  { name = "I (Feat. 버벌진트)", locale = "ko", original = true },
+  { name = "I (Feat. Verbal Jint)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", kind = "stage", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
+]

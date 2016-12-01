@@ -1,0 +1,12 @@
+names = [
+  { name = "쌍둥이자리 (Gemini)", locale = "ko", original = true },
+  { name = "Ssangdungijari (Gemini)", locale = "ko-Latn", default = true },
+  { name = "Gemini", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", kind = "stage", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
+]

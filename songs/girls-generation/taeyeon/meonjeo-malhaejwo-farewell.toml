@@ -1,0 +1,12 @@
+names = [
+  { name = "먼저 말해줘 (Farewell)", locale = "ko", original = true },
+  { name = "Meonjeo Malhaejwo (Farewell)", locale = "ko-Latn", default = true },
+  { name = "Farewell", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", kind = "stage", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
+]
