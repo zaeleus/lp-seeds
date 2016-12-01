@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1994-10-04"
+country = "KR"
+
+names = [
+  { name = "정일훈", locale = "ko", kind = "real", original = true },
+  { name = "Jung Il Hoon", locale = "ko-Latn", kind = "real", default = true },
+]

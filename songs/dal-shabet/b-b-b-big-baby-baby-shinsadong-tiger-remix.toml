@@ -1,0 +1,4 @@
+names = [
+  { name = "B.B.B (Big Baby Baby) (신사동호랭이 Remix)", locale = "ko", original = true },
+  { name = "B.B.B (Big Baby Baby) (Shinsadong Tiger Remix)", locale = "ko-Latn", default = true },
+]
