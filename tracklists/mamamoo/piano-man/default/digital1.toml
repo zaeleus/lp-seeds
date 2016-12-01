@@ -1,0 +1,23 @@
+medium-ids = [
+  "mamamoo/piano-man/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/piano-man"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/gentleman-with-esna"
+duration = "3:40"
+
+[[tracks]]
+position = 3
+song-id = "mamamoo/piano-man-piano-ver"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "mamamoo/piano-man-inst"
+duration = "3:17"
