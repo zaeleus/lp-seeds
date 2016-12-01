@@ -1,0 +1,12 @@
+names = [
+  { name = "잘나가서 그래 (Feat. 정일훈 of BTOB)", locale = "ko", original = true },
+  { name = "Jalnagaseo Geurae (Feat. Jung Il Hoon of BTOB)", locale = "ko-Latn", default = true },
+  { name = "Roll Deep (Feat. Jung Il Hoon of BTOB)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]

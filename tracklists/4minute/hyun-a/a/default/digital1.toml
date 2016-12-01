@@ -1,0 +1,29 @@
+medium-ids = [
+  "4minute/hyun-a/a/default/cd1",
+  "4minute/hyun-a/a/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "4minute/hyun-a/run-run-intro"
+duration = "1:31"
+
+[[tracks]]
+position = 2
+song-id = "4minute/hyun-a/jalnagaseo-geurae-feat-jung-il-hoon-of-btob"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "4minute/hyun-a/eoreum-ttaeng-ice-ice-feat-yuk-ji-dam"
+duration = "3:16"
+
+[[tracks]]
+position = 4
+song-id = "4minute/hyun-a/nae-jibeseo-naga-feat-kwon-jung-yeol-of-10cm"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song-id = "4minute/hyun-a/pyeongon"
+duration = "3:42"

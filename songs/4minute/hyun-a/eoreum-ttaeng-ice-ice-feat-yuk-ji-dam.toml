@@ -1,0 +1,12 @@
+names = [
+  { name = "얼음 땡 (Ice Ice) (Feat. 육지담)", locale = "ko", original = true },
+  { name = "Eoreum Ttaeng (Ice Ice) (Feat. Yuk Ji Dam)", locale = "ko-Latn", default = true },
+  { name = "Ice Ice (Feat. Yuk Ji Dam)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]

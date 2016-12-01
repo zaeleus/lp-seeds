@@ -1,0 +1,11 @@
+names = [
+  { name = "내 집에서 나가 (Feat. 권정열 of 10cm)", locale = "ko", original = true },
+  { name = "Nae Jibeseo Naga (Feat. Kwon Jung Yeol of 10cm)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]
