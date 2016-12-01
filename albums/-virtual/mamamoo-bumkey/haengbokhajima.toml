@@ -1,0 +1,21 @@
+artist-id = "-virtual/mamamoo-bumkey"
+kind = "single"
+
+names = [
+  { name = "행복하지마", locale = "ko", original = true },
+  { name = "Haengbokhajima", locale = "ko-Latn", default = true },
+  { name = "Don't Be Happy", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "mamamoo", separator = " & " },
+  { artist-id = "bumkey" },
+]
+
+[[releases]]
+released-on = "2014-01-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2225351" },
+]

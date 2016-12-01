@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/mamamoo-bumkey/haengbokhajima/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/mamamoo-bumkey/haengbokhajima"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/mamamoo-bumkey/haengbokhajima-inst"
+duration = "3:37"

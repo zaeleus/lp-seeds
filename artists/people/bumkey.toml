@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1984-09-22"
+country = "KR"
+
+names = [
+  { name = "범키", locale = "ko", kind = "stage", original = true },
+  { name = "Bumkey", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "권기범", locale = "ko", kind = "real" },
+  { name = "Kwon Ki Bum", locale = "ko-Latn", kind = "real" },
+]

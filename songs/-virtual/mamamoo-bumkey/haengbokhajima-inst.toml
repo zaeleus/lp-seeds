@@ -1,0 +1,10 @@
+names = [
+  { name = "행복하지마 (Inst.)", locale = "ko", original = true },
+  { name = "Haengbokhajima (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Don't Be Happy (Inst.)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "mamamoo", separator = " & " },
+  { artist-id = "bumkey" },
+]

@@ -36,5 +36,13 @@ duration = "3:07"
 
 [[tracks]]
 position = 6
-song-id = "mamamoo/haengbokhajima-with-bumkey"
+song-id = "-virtual/mamamoo-bumkey/haengbokhajima"
 duration = "3:37"
+names = [
+  { name = "행복하지마 (With 범키)", locale = "ko", original = true },
+  { name = "Haengbokhajima (With Bumkey)", locale = "ko-Latn", default = true },
+  { name = "Don't Be Happy (With Bumkey)", locale = "en" },
+]
+artist-credits = [
+  { artist-id = "mamamoo" },
+]
