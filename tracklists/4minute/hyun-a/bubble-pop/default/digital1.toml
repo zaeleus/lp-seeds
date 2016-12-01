@@ -1,0 +1,29 @@
+medium-ids = [
+  "4minute/hyun-a/bubble-pop/default/cd1",
+  "4minute/hyun-a/bubble-pop/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "4minute/hyun-a/attention"
+duration = "1:26"
+
+[[tracks]]
+position = 2
+song-id = "4minute/hyun-a/bubble-pop"
+duration = "3:32"
+
+[[tracks]]
+position = 3
+song-id = "4minute/hyun-a/downtown-feat-jeon-ji-yoon"
+duration = "3:23"
+
+[[tracks]]
+position = 4
+song-id = "4minute/hyun-a/a-bitter-day-feat-yong-jun-hyung-g-na"
+duration = "3:47"
+
+[[tracks]]
+position = 5
+song-id = "4minute/hyun-a/just-follow-feat-dok2"
+duration = "3:25"

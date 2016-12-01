@@ -1,0 +1,11 @@
+names = [
+  { name = "A Bitter Day (Feat. 용준형 & G.NA)", locale = "ko", original = true },
+  { name = "A Bitter Day (Feat. Yong Jun Hyung & G.NA)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]
