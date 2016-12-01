@@ -1,0 +1,14 @@
+medium-ids = [
+  "ladies-code/kiss-kiss/default/cd1",
+  "ladies-code/kiss-kiss/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ladies-code/kiss-kiss"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "ladies-code/kiss-kiss-inst"
+duration = "3:31"
