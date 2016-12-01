@@ -1,0 +1,11 @@
+names = [
+  { name = "SHAKE THAT BRASS (Feat. 태연 (소녀시대))", locale = "ko", original = true },
+  { name = "SHAKE THAT BRASS (Feat. Taeyeon (Girls' Generation))", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "f-x/amber"
+names = [
+  { name = "엠버", locale = "ko", original = true },
+  { name = "AMBER", locale = "ko-Latn", default = true },
+]

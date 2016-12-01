@@ -1,0 +1,11 @@
+names = [
+  { name = "I Just Wanna (Feat. 에릭남)", locale = "ko", original = true },
+  { name = "I Just Wanna (Feat. Eric Nam)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "f-x/amber"
+names = [
+  { name = "엠버", locale = "ko", original = true },
+  { name = "AMBER", locale = "ko-Latn", default = true },
+]

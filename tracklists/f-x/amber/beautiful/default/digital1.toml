@@ -1,0 +1,29 @@
+medium-ids = [
+  "f-x/amber/beautiful/default/cd1",
+  "f-x/amber/beautiful/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/amber/beautiful"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "f-x/amber/shake-that-brass-feat-taeyeon-girls-generation"
+duration = "3:13"
+
+[[tracks]]
+position = 3
+song-id = "f-x/amber/love-run"
+duration = "4:08"
+
+[[tracks]]
+position = 4
+song-id = "f-x/amber/heights"
+duration = "3:43"
+
+[[tracks]]
+position = 5
+song-id = "f-x/amber/i-just-wanna-feat-eric-nam"
+duration = "3:13"

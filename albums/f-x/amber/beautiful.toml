@@ -13,6 +13,14 @@ names = [
 ]
 
 [[releases]]
+released-on = "2015-02-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2303942" },
+]
+
+[[releases]]
 released-on = "2015-02-16"
 country = "KR"
 catalog-number = "SMK-0489"
