@@ -1,0 +1,4 @@
+names = [
+  { name = "링마벨 (Ring My Bell)", locale = "ko", original = true },
+  { name = "Ring My Bell", locale = "en", default = true },
+]

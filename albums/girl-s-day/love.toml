@@ -1,0 +1,14 @@
+artist-id = "girl-s-day"
+kind = "lp"
+
+names = [
+  { name = "Love", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2015-07-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2327866" },
+]
