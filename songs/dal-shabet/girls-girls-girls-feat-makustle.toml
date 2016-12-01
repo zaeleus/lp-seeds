@@ -1,0 +1,4 @@
+names = [
+  { name = "Girls Girls Girls (Feat. 메이커슬)", locale = "ko", original = true },
+  { name = "Girls Girls Girls (Feat. Makustle)", locale = "ko-Latn", default = true },
+]

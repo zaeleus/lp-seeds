@@ -1,0 +1,5 @@
+names = [
+  { name = "다가와 봐 (Feat. 낯선)", locale = "ko", original = true },
+  { name = "Dagawa Bwa (Feat. Nassun)", locale = "ko-Latn", default = true },
+  { name = "Come to Me", locale = "en" },
+]
