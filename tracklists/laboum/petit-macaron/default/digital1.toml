@@ -1,0 +1,33 @@
+medium-ids = [
+  "laboum/petit-macaron/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "laboum/dugeun-dugeun"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "laboum/jumuneul-pureo-la-li-lalala"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "laboum/eotteokhallae"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song-id = "laboum/dugeun-dugeun-inst"
+duration = "3:25"
+
+[[tracks]]
+position = 5
+song-id = "laboum/jumuneul-pureo-la-li-lalala-inst"
+duration = "3:33"
+
+[[tracks]]
+position = 6
+song-id = "laboum/eotteokhallae-inst"
+duration = "3:11"

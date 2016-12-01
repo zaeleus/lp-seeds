@@ -1,0 +1,15 @@
+artist-id = "laboum"
+kind = "ep"
+
+names = [
+  { name = "PETIT MACARON (쁘띠마카롱)", locale = "ko", original = true },
+  { name = "PETIT MACARON", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2014-08-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2278352" },
+]
