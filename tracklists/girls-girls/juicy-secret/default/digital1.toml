@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-girls/juicy-secret/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-girls/juicy-secret"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "girls-girls/juicy-secret-inst"
+duration = "3:21"
