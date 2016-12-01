@@ -1,0 +1,29 @@
+medium-ids = [
+  "rainbow-blaxx/rb-blaxx/default/cd1",
+  "rainbow-blaxx/rb-blaxx/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rainbow-blaxx/cha-cha"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "rainbow-blaxx/hanmadi"
+duration = "3:08"
+
+[[tracks]]
+position = 3
+song-id = "rainbow-blaxx/silhouette"
+duration = "3:42"
+
+[[tracks]]
+position = 4
+song-id = "rainbow-blaxx/cha-cha-original"
+duration = "3:41"
+
+[[tracks]]
+position = 5
+song-id = "rainbow-blaxx/cha-cha-original-inst"
+duration = "3:39"
