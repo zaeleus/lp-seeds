@@ -5,6 +5,13 @@ names = [
   { name = "Borders", locale = "ko", original = true, default = true },
 ]
 
+[[artist-credits]]
+artist-id = "f-x/amber"
+names = [
+  { name = "엠버", locale = "ko", original = true },
+  { name = "AMBER", locale = "ko-Latn", default = true },
+]
+
 [[releases]]
 released-on = "2016-03-25"
 country = "KR"
