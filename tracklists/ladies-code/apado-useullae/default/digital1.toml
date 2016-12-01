@@ -1,0 +1,13 @@
+medium-ids = [
+  "ladies-code/apado-useullae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ladies-code/apado-useullae"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "ladies-code/apado-useullae-inst"
+duration = "3:47"

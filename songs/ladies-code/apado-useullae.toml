@@ -1,0 +1,5 @@
+names = [
+  { name = "아파도 웃을래", locale = "ko", original = true },
+  { name = "Apado Useullae", locale = "ko-Latn", default = true },
+  { name = "I'll Smile Even If It Hurts", locale = "en" },
+]
