@@ -1,0 +1,14 @@
+artist-id = "ailee"
+kind = "ep"
+
+names = [
+  { name = "Magazine", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-09-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2283510" },
+]

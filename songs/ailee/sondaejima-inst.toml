@@ -1,0 +1,5 @@
+names = [
+  { name = "손대지마 (Inst.)", locale = "ko", original = true },
+  { name = "Sondaejima (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Don't Touch Me", locale = "en" },
+]

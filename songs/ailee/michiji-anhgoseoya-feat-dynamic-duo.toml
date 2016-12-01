@@ -1,0 +1,4 @@
+names = [
+  { name = "미치지 않고서야 (Feat. 다이나믹듀오)", locale = "ko", original = true },
+  { name = "Michiji Anhgoseoya (Feat. Dynamic Duo)", locale = "ko-Latn", default = true },
+]

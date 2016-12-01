@@ -1,0 +1,33 @@
+medium-ids = [
+  "ailee/magazine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ailee/sondaejima"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "ailee/michiji-anhgoseoya-feat-dynamic-duo"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "ailee/ijeneun-annyeong"
+duration = "3:38"
+
+[[tracks]]
+position = 4
+song-id = "ailee/mundeukbyeong"
+duration = "2:58"
+
+[[tracks]]
+position = 5
+song-id = "ailee/teardrop"
+duration = "3:58"
+
+[[tracks]]
+position = 6
+song-id = "ailee/sondaejima-inst"
+duration = "3:23"
