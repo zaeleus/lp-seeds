@@ -1,0 +1,39 @@
+medium-ids = [
+  "stellar/marionette/default/cd1",
+  "stellar/marionette/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stellar/t-i-e"
+duration = "1:12"
+
+[[tracks]]
+position = 2
+song-id = "stellar/marionette"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "stellar/guilty"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "stellar/gajyeo-neo-da"
+duration = "3:25"
+
+[[tracks]]
+position = 5
+song-id = "stellar/gongbuhaseyo"
+duration = "3:14"
+
+[[tracks]]
+position = 6
+song-id = "stellar/marionette-inst"
+duration = "3:29"
+
+[[tracks]]
+position = 7
+song-id = "stellar/gongbuhaseyo-remix-ver"
+duration = "3:12"

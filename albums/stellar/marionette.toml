@@ -2,7 +2,16 @@ artist-id = "stellar"
 kind = "ep"
 
 names = [
-  { name = "Marionette", locale = "ko", original = true, default = true },
+  { name = "마리오네트", locale = "ko", original = true },
+  { name = "Marionette", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2014-02-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2232501" },
 ]
 
 [[releases]]
