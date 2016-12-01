@@ -1,3 +1,10 @@
 names = [
   { name = "FOOL", locale = "ko", original = true, default = true },
 ]
+
+[[artist-credits]]
+artist-id = "girls-generation/tiffany"
+names = [
+  { name = "티파니", locale = "ko", kind = "stage", original = true },
+  { name = "TIFFANY", locale = "ko-Latn", kind = "stage", default = true },
+]

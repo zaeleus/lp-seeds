@@ -2,6 +2,13 @@ names = [
   { name = "I Just Wanna Dance", locale = "ko", original = true, default = true },
 ]
 
+[[artist-credits]]
+artist-id = "girls-generation/tiffany"
+names = [
+  { name = "티파니", locale = "ko", kind = "stage", original = true },
+  { name = "TIFFANY", locale = "ko-Latn", kind = "stage", default = true },
+]
+
 urls = [
   { url = "https://www.youtube.com/watch?v=sNGDga7UuTU", name = "Teaser" },
   { url = "https://www.youtube.com/watch?v=E0Y3ABqK7M4", name = "Music Video" },
