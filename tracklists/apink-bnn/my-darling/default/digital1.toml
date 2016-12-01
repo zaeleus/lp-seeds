@@ -1,0 +1,13 @@
+medium-ids = [
+  "apink-bnn/my-darling/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink-bnn/my-darling"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "apink-bnn/my-darling-inst"
+duration = "3:07"
