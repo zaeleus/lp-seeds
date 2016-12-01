@@ -1,0 +1,13 @@
+medium-ids = [
+  "mamamoo/i-miss-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/i-miss-you"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/i-miss-you-inst"
+duration = "4:15"

@@ -1,0 +1,14 @@
+artist-id = "mamamoo"
+kind = "single"
+
+names = [
+  { name = "I Miss You", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-01-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2664685" },
+]
