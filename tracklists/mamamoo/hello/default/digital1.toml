@@ -1,0 +1,33 @@
+medium-ids = [
+  "mamamoo/hello/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/hello"
+duration = "0:43"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/mr-aemaemoho"
+duration = "3:41"
+
+[[tracks]]
+position = 3
+song-id = "mamamoo/hi-hi-ha-he-ho-with-geeks"
+duration = "3:44"
+
+[[tracks]]
+position = 4
+song-id = "mamamoo/baton-touch"
+duration = "2:52"
+
+[[tracks]]
+position = 5
+song-id = "mamamoo/naemamiya-hwasa-solo"
+duration = "3:07"
+
+[[tracks]]
+position = 6
+song-id = "mamamoo/haengbokhajima-with-bumkey"
+duration = "3:37"

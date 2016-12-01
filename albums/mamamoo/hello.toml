@@ -1,0 +1,14 @@
+artist-id = "mamamoo"
+kind = "ep"
+
+names = [
+  { name = "Hello", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-06-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2261347" },
+]
