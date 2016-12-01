@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2011"
+country = "KR"
+
+names = [
+  { name = "긱스", locale = "ko", original = true },
+  { name = "Geeks", locale = "ko-Latn", default = true },
+]

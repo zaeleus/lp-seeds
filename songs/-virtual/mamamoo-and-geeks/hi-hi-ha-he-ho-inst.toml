@@ -1,0 +1,9 @@
+names = [
+  { name = "히히하헤호 (Inst.)", locale = "ko", original = true },
+  { name = "Hi Hi Ha He Ho (Inst.)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "mamamoo", separator = " and " },
+  { artist-id = "geeks" },
+]

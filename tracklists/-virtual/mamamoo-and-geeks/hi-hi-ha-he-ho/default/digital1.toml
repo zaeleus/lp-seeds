@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/mamamoo-and-geeks/hi-hi-ha-he-ho/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/mamamoo-and-geeks/hi-hi-ha-he-ho"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/mamamoo-and-geeks/hi-hi-ha-he-ho-inst"
+duration = "4:03"

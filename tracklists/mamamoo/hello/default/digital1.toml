@@ -14,8 +14,15 @@ duration = "3:41"
 
 [[tracks]]
 position = 3
-song-id = "mamamoo/hi-hi-ha-he-ho-with-geeks"
+song-id = "-virtual/mamamoo-and-geeks/hi-hi-ha-he-ho"
 duration = "3:44"
+names = [
+  { name = "히히하헤호 (With 긱스)", locale = "ko", original = true },
+  { name = "Hi Hi Ha He Ho (With Geeks)", locale = "ko-Latn", default = true },
+]
+artist-credits = [
+  { artist-id = "mamamoo" },
+]
 
 [[tracks]]
 position = 4
