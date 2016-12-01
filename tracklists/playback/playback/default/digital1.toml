@@ -1,0 +1,13 @@
+medium-ids = [
+  "playback/playback/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "playback/playback"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "playback/playback-inst"
+duration = "3:12"
