@@ -1,0 +1,16 @@
+artist-id = "badkiz"
+kind = "single"
+
+names = [
+  { name = "귓방망이2", locale = "ko", original = true },
+  { name = "Gwisbangmangi 2", locale = "ko-Latn", default = true },
+  { name = "Ear Attack 2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2016-11-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10016794" },
+]

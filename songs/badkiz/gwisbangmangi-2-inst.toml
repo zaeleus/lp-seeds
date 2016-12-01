@@ -1,0 +1,5 @@
+names = [
+  { name = "귓방망이2 (Inst.)", locale = "ko", original = true },
+  { name = "Gwisbangmangi2 (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Ear Attack 2 (Inst.)", locale = "en" },
+]
