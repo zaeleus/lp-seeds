@@ -1,0 +1,18 @@
+medium-ids = [
+  "dia/nae-chinguui-namjachingu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dia/nae-chinguui-namjachingu-feat-joosuc"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "dia/nae-chinguui-namjachingu"
+duration = "3:53"
+
+[[tracks]]
+position = 3
+song-id = "dia/nae-chinguui-namjachingu-chinese-ver"
+duration = "3:53"

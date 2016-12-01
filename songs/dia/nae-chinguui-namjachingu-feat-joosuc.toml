@@ -1,0 +1,5 @@
+names = [
+  { name = "내 친구의 남자친구 (Feat. 주석)", locale = "ko", original = true },
+  { name = "Nae Chinguui Namjachingu (Feat. Joosuc)", locale = "ko-Latn", default = true },
+  { name = "My Friend's Boyfriend (Feat. Joosuc)", locale = "en" },
+]

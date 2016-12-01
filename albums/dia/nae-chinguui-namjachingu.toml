@@ -1,0 +1,16 @@
+artist-id = "dia"
+kind = "single"
+
+names = [
+  { name = "내 친구의 남자친구", locale = "ko", original = true },
+  { name = "Nae Chinguui Namjachingu", locale = "ko-Latn", default = true },
+  { name = "My Friend's Boyfriend", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-10-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2645645" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "내 친구의 남자친구 (Chinese Ver.)", locale = "ko", original = true },
+  { name = "Nae Chinguui Namjachingu (Chinese Ver.)", locale = "ko-Latn", default = true },
+  { name = "My Friend's Boyfriend (Chinese Ver.)", locale = "en" },
+]
