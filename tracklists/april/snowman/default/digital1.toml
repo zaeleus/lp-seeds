@@ -1,0 +1,13 @@
+medium-ids = [
+  "april/snowman/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "april/snowman"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "april/snowman-inst"
+duration = "3:05"
