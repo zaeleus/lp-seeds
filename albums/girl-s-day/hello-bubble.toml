@@ -1,0 +1,14 @@
+artist-id = "girl-s-day"
+kind = "single"
+
+names = [
+  { name = "Hello Bubble", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2015-05-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2317960" },
+]

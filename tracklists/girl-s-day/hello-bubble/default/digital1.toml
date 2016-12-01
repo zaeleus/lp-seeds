@@ -1,0 +1,13 @@
+medium-ids = [
+  "girl-s-day/hello-bubble/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girl-s-day/hello-bubble"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "girl-s-day/hello-bubble-inst"
+duration = "3:23"
