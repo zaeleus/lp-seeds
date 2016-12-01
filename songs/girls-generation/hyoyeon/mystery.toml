@@ -1,0 +1,15 @@
+names = [
+  { name = "Mystery", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/hyoyeon"
+names = [
+  { name = "효연", locale = "ko", kind = "stage", original = true },
+  { name = "HYOYEON", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=YqBvjtS7M-s", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=nQxJFZk4APU", name = "Music Video" },
+]

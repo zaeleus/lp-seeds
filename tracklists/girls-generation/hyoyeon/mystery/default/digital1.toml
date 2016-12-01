@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-generation/hyoyeon/mystery/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/hyoyeon/mystery"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/hyoyeon/mystery-inst"
+duration = "3:02"
