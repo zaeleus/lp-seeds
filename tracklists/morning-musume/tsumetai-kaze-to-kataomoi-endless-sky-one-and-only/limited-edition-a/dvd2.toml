@@ -5,6 +5,7 @@ medium-ids = [
 [[tracks]]
 position = 1
 song-id = "morning-musume/tsumetai-kaze-to-kataomoi"
+duration = "6:26"
 names = [
   { name = "冷たい風と片思い (Music Video)", locale = "ja", original = true },
   { name = "Tsumetai Kaze to Kataomoi (Music Video)", locale = "ja-Latn", default = true },

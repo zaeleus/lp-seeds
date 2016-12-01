@@ -10,23 +10,29 @@ medium-ids = [
 [[tracks]]
 position = 1
 song-id = "morning-musume/tsumetai-kaze-to-kataomoi"
+duration = "4:30"
 
 [[tracks]]
 position = 2
 song-id = "morning-musume/endless-sky"
+duration = "5:01"
 
 [[tracks]]
 position = 3
 song-id = "morning-musume/one-and-only"
+duration = "4:45"
 
 [[tracks]]
 position = 4
 song-id = "morning-musume/tsumetai-kaze-to-kataomoi-instrumental"
+duration = "4:29"
 
 [[tracks]]
 position = 5
 song-id = "morning-musume/endless-sky-instrumental"
+duration = "5:01"
 
 [[tracks]]
 position = 6
 song-id = "morning-musume/one-and-only-instrumental"
+duration = "4:48"

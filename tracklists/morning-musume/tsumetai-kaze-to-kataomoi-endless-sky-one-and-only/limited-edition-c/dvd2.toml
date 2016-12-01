@@ -5,6 +5,7 @@ medium-ids = [
 [[tracks]]
 position = 1
 song-id = "morning-musume/one-and-only"
+duration = "5:51"
 names = [
   { name = "One and Only (Music Video)", locale = "ja", original = true, default = true },
 ]

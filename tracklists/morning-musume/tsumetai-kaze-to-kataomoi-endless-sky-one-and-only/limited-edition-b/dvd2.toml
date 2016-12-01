@@ -5,6 +5,7 @@ medium-ids = [
 [[tracks]]
 position = 1
 song-id = "morning-musume/endless-sky"
+duration = "6:10"
 names = [
   { name = "ENDLESS SKY (Music Video)", locale = "ja", original = true, default = true },
 ]
