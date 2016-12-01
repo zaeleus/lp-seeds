@@ -1,0 +1,7 @@
+names = [
+  { name = "있기 없기 (Electro Swing Remix)", locale = "ko", original = true },
+  { name = "Issgi Eopsgi (Electro Swing Remix)", locale = "ko-Latn", default = true },
+  { name = "Have, Don't Have (Electro Swing Remix)", locale = "en" },
+  { name = "Hate, Don't Hate (Electro Swing Remix)", locale = "en" },
+  { name = "To Be or Not to Be (Electro Swing Remix)", locale = "en" },
+]

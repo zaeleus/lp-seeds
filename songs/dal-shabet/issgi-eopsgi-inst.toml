@@ -1,0 +1,7 @@
+names = [
+  { name = "있기 없기 (Inst.)", locale = "ko", original = true },
+  { name = "Issgi Eopsgi (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Have, Don't Have (Inst.)", locale = "en" },
+  { name = "Hate, Don't Hate (Inst.)", locale = "en" },
+  { name = "To Be or Not to Be (Inst.)", locale = "en" },
+]

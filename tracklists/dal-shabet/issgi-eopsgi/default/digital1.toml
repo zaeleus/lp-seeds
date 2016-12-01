@@ -1,0 +1,33 @@
+medium-ids = [
+  "dal-shabet/issgi-eopsgi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dal-shabet/syareureu-for-darling"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "dal-shabet/issgi-eopsgi"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "dal-shabet/yuriinhyeong-don-t-touch"
+duration = "3:49"
+
+[[tracks]]
+position = 4
+song-id = "dal-shabet/falling-in-love"
+duration = "3:42"
+
+[[tracks]]
+position = 5
+song-id = "dal-shabet/issgi-eopsgi-electro-swing-remix"
+duration = "3:13"
+
+[[tracks]]
+position = 6
+song-id = "dal-shabet/issgi-eopsgi-inst"
+duration = "3:34"

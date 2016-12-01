@@ -1,0 +1,18 @@
+artist-id = "dal-shabet"
+kind = "ep"
+
+names = [
+  { name = "있기 없기", locale = "ko", original = true },
+  { name = "Issgi Eopsgi", locale = "ko-Latn", default = true },
+  { name = "Have, Don't Have", locale = "en" },
+  { name = "Hate, Don't Hate", locale = "en" },
+  { name = "To Be or Not to Be", locale = "en" },
+]
+
+[[releases]]
+released-on = "2012-11-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2166681" },
+]
