@@ -2,6 +2,13 @@ names = [
   { name = "Rain", locale = "ko", original = true, default = true },
 ]
 
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", kind = "stage", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
+]
+
 urls = [
   { url = "https://www.youtube.com/watch?v=eHir_vB1RUI", name = "Music Video" },
 ]

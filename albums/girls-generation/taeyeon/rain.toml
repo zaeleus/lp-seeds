@@ -5,6 +5,13 @@ names = [
   { name = "Rain", locale = "ko", original = true, default = true },
 ]
 
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", kind = "stage", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
+]
+
 [[releases]]
 released-on = "2016-02-03"
 country = "KR"
