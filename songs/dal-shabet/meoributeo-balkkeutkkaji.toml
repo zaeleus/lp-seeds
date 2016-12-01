@@ -1,7 +1,7 @@
 names = [
-  { name = "머리부터 발끝까지 (수빈 solo)", locale = "ko", original = true },
-  { name = "Meoributeo Balkkeutkkaji (Su Bin solo)", locale = "ko-Latn", default = true },
-  { name = "From Head to Toe (Su Bin solo)", locale = "en" },
+  { name = "머리부터 발끝까지 (수빈 Solo)", locale = "ko", original = true },
+  { name = "Meoributeo Balkkeutkkaji (Su Bin Solo)", locale = "ko-Latn", default = true },
+  { name = "From Head to Toe (Su Bin Solo)", locale = "en" },
 ]
 
 contributions = [

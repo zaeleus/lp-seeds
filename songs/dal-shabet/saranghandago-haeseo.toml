@@ -1,7 +1,7 @@
 names = [
-  { name = "사랑한다고 해서 (우희 solo)", locale = "ko", original = true },
-  { name = "Saranghandago Haeseo (Woo Hee solo)", locale = "ko-Latn", default = true },
-  { name = "Because You Said You Love Me (Woo Hee solo)", locale = "en" },
+  { name = "사랑한다고 해서 (우희 Solo)", locale = "ko", original = true },
+  { name = "Saranghandago Haeseo (Woo Hee Solo)", locale = "ko-Latn", default = true },
+  { name = "Because You Said You Love Me (Woo Hee Solo)", locale = "en" },
 ]
 
 contributions = [

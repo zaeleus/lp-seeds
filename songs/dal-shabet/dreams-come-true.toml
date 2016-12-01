@@ -1,6 +1,6 @@
 names = [
-  { name = "Dreams Come True (아영 solo)", locale = "ko", original = true },
-  { name = "Dreams Come True (Ah Young solo)", locale = "ko-Latn", default = true },
+  { name = "Dreams Come True (아영 Solo)", locale = "ko", original = true },
+  { name = "Dreams Come True (Ah Young Solo)", locale = "ko-Latn", default = true },
 ]
 
 contributions = [

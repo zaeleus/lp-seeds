@@ -1,7 +1,7 @@
 names = [
-  { name = "착한 남자 (feat. Sims) (세리 solo)", locale = "ko", original = true },
-  { name = "Chakhan Namja (feat. Sims) (Serri solo)", locale = "ko-Latn", default = true },
-  { name = "Nice Guy (feat. Sims) (Serri solo)", locale = "en" },
+  { name = "착한 남자 (feat. Sims) (세리 Solo)", locale = "ko", original = true },
+  { name = "Chakhan Namja (feat. Sims) (Serri Solo)", locale = "ko-Latn", default = true },
+  { name = "Nice Guy (feat. Sims) (Serri Solo)", locale = "en" },
 ]
 
 contributions = [
