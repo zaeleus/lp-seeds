@@ -1,0 +1,3 @@
+names = [
+  { name = "Self Camera", locale = "ko", original = true, default = true },
+]
