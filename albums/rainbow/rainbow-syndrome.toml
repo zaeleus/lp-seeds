@@ -1,0 +1,23 @@
+artist-id = "rainbow"
+kind = "lp"
+
+names = [
+  { name = "Rainbow Syndrome", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-02-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2175150" },
+]
+
+[[releases]]
+released-on = "2013-02-13"
+country = "KR"
+catalog-number = "CMDC-10066"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=034202122" },
+]
