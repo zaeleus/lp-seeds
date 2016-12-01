@@ -1,0 +1,15 @@
+artist-id = "girl-s-day"
+kind = "ep"
+
+names = [
+  { name = "걸스데이 미니앨범 3집", locale = "ko", original = true },
+  { name = "Every Day III", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2014-01-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2224342" },
+]
