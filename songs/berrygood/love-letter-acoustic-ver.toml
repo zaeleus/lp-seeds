@@ -1,0 +1,3 @@
+names = [
+  { name = "Love Letter (Acoustic Ver.)", locale = "ko", original = true, default = true },
+]

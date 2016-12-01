@@ -22,6 +22,9 @@ duration = "3:08"
 position = 4
 song-id = "berrygood/love-letter"
 duration = "3:18"
+names = [
+  { name = "Love letter", locale = "ko", original = true, default = true },
+]
 
 [[tracks]]
 position = 5

@@ -1,5 +1,5 @@
 names = [
-  { name = "Love letter", locale = "ko", original = true, default = true },
+  { name = "Love Letter", locale = "ko", original = true, default = true },
 ]
 
 urls = [
