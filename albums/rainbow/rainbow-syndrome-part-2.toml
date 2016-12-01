@@ -1,8 +1,17 @@
 artist-id = "rainbow"
-kind = "lp"
+kind = "ep"
 
 names = [
-  { name = "Rainbow Syndrome Part. 2", locale = "ko", original = true, default = true },
+  { name = "Rainbow Syndrome Part 2", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-06-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2187009" },
+  { url = "http://www.mnet.com/album/292997" },
 ]
 
 [[releases]]
