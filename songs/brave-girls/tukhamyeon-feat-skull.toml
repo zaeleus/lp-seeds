@@ -1,0 +1,5 @@
+names = [
+  { name = "툭하면 (Feat. Skull)", locale = "ko", original = true },
+  { name = "Tukhamyeon (Feat. Skull)", locale = "ko-Latn", default = true },
+  { name = "Easily (Feat. Skull)", locale = "en" },
+]

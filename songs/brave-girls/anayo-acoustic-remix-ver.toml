@@ -1,0 +1,5 @@
+names = [
+  { name = "아나요 (Acoustic Remix Ver.)", locale = "ko", original = true },
+  { name = "Anayo (Acoustic Remix Ver.)", locale = "ko-Latn", default = true },
+  { name = "Do You Know (Acoustic Remix Ver.)", locale = "en" },
+]

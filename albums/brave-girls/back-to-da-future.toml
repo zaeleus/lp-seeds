@@ -8,17 +8,17 @@ names = [
 [[releases]]
 released-on = "2011-07-29"
 country = "KR"
-catalog-number = "L200000861"
-media = [{ kind = "cd" }]
+media = [{ kind = "digital" }]
 urls = [
-  { url = "http://hanteo.com/search/nAlbum_info2.asp?mcode=001207351" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=1354900" },
+  { url = "http://www.mnet.com/album/227401" },
 ]
 
 [[releases]]
 released-on = "2011-07-29"
 country = "KR"
-media = [{ kind = "digital" }]
+catalog-number = "L200000861"
+media = [{ kind = "cd" }]
 urls = [
-  { url = "http://www.melon.com/album/detail.htm?albumId=1354900" },
-  { url = "http://www.mnet.com/album/227401" },
+  { url = "http://hanteo.com/search/nAlbum_info2.asp?mcode=001207351" },
 ]
