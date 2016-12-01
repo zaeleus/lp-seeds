@@ -1,0 +1,29 @@
+medium-ids = [
+  "ladies-code/code-02-pretty-pretty/default/cd1",
+  "ladies-code/code-02-pretty-pretty/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ladies-code/polaris-club"
+duration = "1:43"
+
+[[tracks]]
+position = 2
+song-id = "ladies-code/yeppeo-yeppeo"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "ladies-code/hate-you"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "ladies-code/i-m-fine-thank-you"
+duration = "4:01"
+
+[[tracks]]
+position = 5
+song-id = "ladies-code/yeppeo-yeppeo-inst"
+duration = "3:33"

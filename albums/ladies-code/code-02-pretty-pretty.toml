@@ -2,7 +2,15 @@ artist-id = "ladies-code"
 kind = "ep"
 
 names = [
-  { name = "Code#02 Pretty! Pretty!", locale = "ko", original = true, default = true },
+  { name = "CODE#02 PRETTY PRETTY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-09-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2199646" },
 ]
 
 [[releases]]
