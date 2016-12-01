@@ -1,0 +1,15 @@
+artist-id = "sol-t"
+kind = "single"
+
+names = [
+  { name = "나쁜 X (Bad Girls)", locale = "ko", original = true },
+  { name = "Nappeun X (Bad Girls)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-11-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10012059" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "sol-t/nappeun-x-bad-girls/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sol-t/nappeun-x-bad-girls"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "sol-t/nappeun-x-bad-girls-inst"
+duration = "3:11"
