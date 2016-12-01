@@ -1,0 +1,15 @@
+artist-id = "dal-shabet"
+kind = "ep"
+
+names = [
+  { name = "핑크 로켓", locale = "ko", original = true },
+  { name = "Pink Rocket", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2011-04-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1238759" },
+]

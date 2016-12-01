@@ -1,0 +1,28 @@
+medium-ids = [
+  "dal-shabet/pink-rocket/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dal-shabet/shakalaka"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "dal-shabet/pink-rocket"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "dal-shabet/geudaero-meomchwora"
+duration = "3:10"
+
+[[tracks]]
+position = 4
+song-id = "dal-shabet/rollin-fallin"
+duration = "3:14"
+
+[[tracks]]
+position = 5
+song-id = "dal-shabet/pink-rocket-inst"
+duration = "3:24"
