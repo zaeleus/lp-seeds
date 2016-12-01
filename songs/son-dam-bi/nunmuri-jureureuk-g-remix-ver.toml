@@ -1,0 +1,5 @@
+names = [
+  { name = "눈물이 주르륵 (G. Remix Ver.)", locale = "ko", original = true },
+  { name = "Nunmuri Jureureuk (G. Remix Ver.)", locale = "ko-Latn", default = true },
+  { name = "Tears Pouring Down (G. Remix Ver.)", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "눈물이 주르륵", locale = "ko", original = true },
+  { name = "Nunmuri Jureureuk", locale = "ko-Latn", default = true },
+  { name = "Tears Pouring Down", locale = "en" },
+]
