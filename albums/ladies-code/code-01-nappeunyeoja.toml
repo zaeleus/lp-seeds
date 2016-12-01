@@ -2,9 +2,17 @@ artist-id = "ladies-code"
 kind = "ep"
 
 names = [
-  { name = "Code#01 나쁜여자", locale = "ko", original = true },
-  { name = "Code#01 Nappeunyeoja", locale = "ko-Latn", default = true },
-  { name = "Code#01 Bad Girl", locale = "en" },
+  { name = "CODE#01 나쁜여자", locale = "ko", original = true },
+  { name = "CODE#01 Nappeunyeoja", locale = "ko-Latn", default = true },
+  { name = "CODE#01 Bad Girl", locale = "en" },
+]
+
+[[releases]]
+released-on = "2013-03-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2177338" },
 ]
 
 [[releases]]
