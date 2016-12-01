@@ -1,0 +1,33 @@
+medium-ids = [
+  "dal-shabet/hit-u/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dal-shabet/fire-it-up"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "dal-shabet/hit-u-feat-bigtone"
+duration = "4:12"
+
+[[tracks]]
+position = 3
+song-id = "dal-shabet/chu-ma-boy"
+duration = "3:45"
+
+[[tracks]]
+position = 4
+song-id = "dal-shabet/dream-in-u-remix"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "dal-shabet/hit-u-remix-feat-bigtone"
+duration = "4:11"
+
+[[tracks]]
+position = 6
+song-id = "dal-shabet/hit-u-inst"
+duration = "4:13"

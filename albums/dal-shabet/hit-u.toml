@@ -1,0 +1,15 @@
+artist-id = "dal-shabet"
+kind = "ep"
+
+names = [
+  { name = "Hit U", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2012-01-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2070186" },
+  { url = "http://www.mnet.com/album/246509" },
+]
