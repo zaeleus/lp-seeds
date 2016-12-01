@@ -1,0 +1,11 @@
+names = [
+  { name = "어디부터 어디까지 (With 양요섭)", locale = "ko", original = true },
+  { name = "Eodibuteo Eodikkaji (With Yang Yo Seob)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]
