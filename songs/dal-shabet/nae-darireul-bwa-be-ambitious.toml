@@ -1,0 +1,5 @@
+names = [
+  { name = "내 다리를 봐 (Be Ambitious)", locale = "ko", original = true },
+  { name = "Nae Darireul Bwa (Be Ambitious)", locale = "ko-Latn", default = true },
+  { name = "Be Ambitious", locale = "en" },
+]

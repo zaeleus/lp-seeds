@@ -1,0 +1,38 @@
+medium-ids = [
+  "dal-shabet/be-ambitious/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dal-shabet/dalshabet-girls"
+duration = "1:11"
+
+[[tracks]]
+position = 2
+song-id = "dal-shabet/nae-darireul-bwa-be-ambitious"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "dal-shabet/summer-break"
+duration = "3:36"
+
+[[tracks]]
+position = 4
+song-id = "dal-shabet/hey-mr-chu"
+duration = "3:25"
+
+[[tracks]]
+position = 5
+song-id = "dal-shabet/let-it-go"
+duration = "3:12"
+
+[[tracks]]
+position = 6
+song-id = "dal-shabet/eojjeom-narr-ahn-jae-hyun"
+duration = "3:46"
+
+[[tracks]]
+position = 7
+song-id = "dal-shabet/nae-darireul-bwa-inst"
+duration = "3:23"
