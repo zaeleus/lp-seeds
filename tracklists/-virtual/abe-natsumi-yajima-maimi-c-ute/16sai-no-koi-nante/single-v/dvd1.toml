@@ -5,6 +5,7 @@ medium-ids = [
 [[tracks]]
 position = 1
 song-id = "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante"
+duration = "4:32"
 names = [
   { name = "16歳の恋なんて (MV)", locale = "ja", original = true },
   { name = "16sai no Koi Nante (MV)", locale = "ja-Latn", default = true },
@@ -14,6 +15,7 @@ names = [
 [[tracks]]
 position = 2
 song-id = "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante"
+duration = "4:27"
 names = [
   { name = "16歳の恋なんて (Close-up Ver.)", locale = "ja", original = true },
   { name = "16sai no Koi Nante (Close-up Ver.)", locale = "ja-Latn", default = true },
@@ -22,6 +24,7 @@ names = [
 
 [[tracks]]
 position = 3
+duration = "11:26"
 names = [
   { name = "メイキング映像", locale = "ja", original = true },
   { name = "Making Eizou", locale = "ja-Latn", default = true },
@@ -30,6 +33,7 @@ names = [
 
 [[tracks]]
 position = 4
+duration = "4:13"
 names = [
   { name = "スペシャルエンドロール", locale = "ja", original = true },
   { name = "Special End Roll", locale = "en", default = true },

@@ -24,6 +24,10 @@ country = "JP"
 catalog-number = "HKCN-50061"
 media = [{ kind = "cd" }]
 disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/442868/products/745503/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/HKCN-50061/" },
+]
 
 [[releases]]
 released-on = "2008-01-16"
@@ -31,6 +35,9 @@ country = "JP"
 catalog-number = "HKCN-50062"
 media = [{ kind = "cd" }]
 disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/442868/products/745519/1/" },
+]
 
 [[releases]]
 released-on = "2008-02-06"
@@ -38,3 +45,6 @@ country = "JP"
 catalog-number = "HKBN-50095"
 media = [{ kind = "dvd" }]
 disambiguation = "Single V"
+urls = [
+  { url = "http://www.up-front-works.jp/release/detail/HKBN-50095/" },
+]

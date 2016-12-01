@@ -6,15 +6,19 @@ medium-ids = [
 [[tracks]]
 position = 1
 song-id = "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante"
+duration = "4:17"
 
 [[tracks]]
 position = 2
 song-id = "-virtual/abe-natsumi-yajima-maimi-c-ute/watashi-no-koibito-na-no-ni"
+duration = "3:49"
 
 [[tracks]]
 position = 3
 song-id = "-virtual/abe-natsumi-yajima-maimi-c-ute/16sai-no-koi-nante-instrumental"
+duration = "4:16"
 
 [[tracks]]
 position = 4
 song-id = "-virtual/abe-natsumi-yajima-maimi-c-ute/watashi-no-koibito-na-no-ni-instrumental"
+duration = "3:49"
