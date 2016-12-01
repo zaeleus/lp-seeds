@@ -1,0 +1,33 @@
+medium-ids = [
+  "april/dreaming/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "april/kkumsatang"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "april/hurry-hurry"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "april/knock-knock"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song-id = "april/neukkim"
+duration = "3:20"
+
+[[tracks]]
+position = 5
+song-id = "april/luv-me-x3"
+duration = "3:22"
+
+[[tracks]]
+position = 6
+song-id = "april/seurilleo"
+duration = "3:22"
