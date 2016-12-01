@@ -1,0 +1,13 @@
+medium-ids = [
+  "berrygood/nae-cheossarang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "berrygood/nae-cheossarang"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "berrygood/nae-cheossarang-inst"
+duration = "3:49"
