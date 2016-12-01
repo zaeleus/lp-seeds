@@ -12,4 +12,5 @@ media = [{ kind = "digital" }]
 urls = [
   { url = "http://www.melon.com/album/detail.htm?albumId=10007306" },
   { url = "http://www.mnet.com/album/927673" },
+  { url = "https://play.spotify.com/album/3GuCKtfGrfVVFtkuVseZVJ" },
 ]
