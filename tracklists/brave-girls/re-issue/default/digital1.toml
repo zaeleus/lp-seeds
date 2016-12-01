@@ -1,0 +1,29 @@
+medium-ids = [
+  "brave-girls/re-issue/default/cd1",
+  "brave-girls/re-issue/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brave-girls/b-girls-are-back"
+duration = "0:55"
+
+[[tracks]]
+position = 2
+song-id = "brave-girls/yojeum-neo"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "brave-girls/mal-eopsi"
+duration = "3:25"
+
+[[tracks]]
+position = 4
+song-id = "brave-girls/yojeum-neo-remix-ver"
+duration = "3:06"
+
+[[tracks]]
+position = 5
+song-id = "brave-girls/yojeum-neo-inst"
+duration = "3:06"
