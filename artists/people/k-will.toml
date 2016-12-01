@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1981-12-30"
+country = "KR"
+
+names = [
+  { name = "K.Will", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "김형수", locale = "ko", kind = "real" },
+  { name = "Kim Hyung Soo", locale = "ko-Latn", kind = "real" },
+]

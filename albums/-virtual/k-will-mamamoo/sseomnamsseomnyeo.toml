@@ -1,0 +1,21 @@
+artist-id = "-virtual/k-will-mamamoo"
+kind = "single"
+
+names = [
+  { name = "썸남썸녀", locale = "ko", original = true },
+  { name = "Sseomnamsseomnyeo", locale = "ko-Latn", default = true },
+  { name = "Peppermint Chocolate", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "k-will", separator = " & " },
+  { artist-id = "mamamoo" },
+]
+
+[[releases]]
+released-on = "2014-02-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2232117" },
+]

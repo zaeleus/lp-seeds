@@ -1,0 +1,10 @@
+names = [
+  { name = "썸남썸녀 (Inst.)", locale = "ko", original = true },
+  { name = "Sseomnamsseomnyeo (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Peppermint Chocolate (Inst.)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "k-will", separator = " & " },
+  { artist-id = "mamamoo" },
+]

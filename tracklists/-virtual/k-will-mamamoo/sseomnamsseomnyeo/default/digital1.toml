@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/k-will-mamamoo/sseomnamsseomnyeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/k-will-mamamoo/sseomnamsseomnyeo-feat-wheesung"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/k-will-mamamoo/sseomnamsseomnyeo-inst"
+duration = "3:29"

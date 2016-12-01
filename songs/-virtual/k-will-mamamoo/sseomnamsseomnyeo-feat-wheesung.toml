@@ -1,0 +1,10 @@
+names = [
+  { name = "썸남썸녀 (Feat. 휘성)", locale = "ko", original = true },
+  { name = "Sseomnamsseomnyeo (Feat. Wheesung)", locale = "ko-Latn", default = true },
+  { name = "Peppermint Chocolate (Feat. Wheesung)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "k-will", separator = " & " },
+  { artist-id = "mamamoo" },
+]
