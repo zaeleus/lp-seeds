@@ -1,0 +1,16 @@
+artist-id = "block-b/park-kyung"
+kind = "single"
+
+names = [
+  { name = "보통연애", locale = "ko", original = true },
+  { name = "Botongyeonae", locale = "ko-Latn", default = true },
+  { name = "Ordinary Love", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-09-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2641140" },
+]

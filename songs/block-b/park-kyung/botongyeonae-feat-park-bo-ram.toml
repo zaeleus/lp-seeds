@@ -1,0 +1,5 @@
+names = [
+  { name = "보통연애 (Feat. 박보람)", locale = "ko", original = true },
+  { name = "Botongyeonae (Feat. Park Bo Ram)", locale = "ko-Latn", default = true },
+  { name = "Ordinary Love (Feat. Park Bo Ram)", locale = "en" },
+]
