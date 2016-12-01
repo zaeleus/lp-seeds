@@ -1,0 +1,13 @@
+medium-ids = [
+  "laboum/gyeouldonghwa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "laboum/gyeouldonghwa"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "laboum/gyeouldonghwa-inst"
+duration = "3:36"
