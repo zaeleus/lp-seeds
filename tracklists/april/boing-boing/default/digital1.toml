@@ -1,0 +1,18 @@
+medium-ids = [
+  "april/boing-boing/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "april/yuriseong"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "april/muah"
+duration = "3:02"
+
+[[tracks]]
+position = 3
+song-id = "april/muah-inst"
+duration = "3:02"
