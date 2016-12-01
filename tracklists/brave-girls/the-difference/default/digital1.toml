@@ -1,0 +1,23 @@
+medium-ids = [
+  "brave-girls/the-difference/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brave-girls/intro-ain-t-nobody-like-brave-girls"
+duration = "1:00"
+
+[[tracks]]
+position = 2
+song-id = "brave-girls/so-sexy"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "brave-girls/anayo"
+duration = "3:39"
+
+[[tracks]]
+position = 4
+song-id = "brave-girls/so-sexy-inst"
+duration = "3:05"
