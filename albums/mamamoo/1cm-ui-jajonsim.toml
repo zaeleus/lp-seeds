@@ -1,9 +1,16 @@
+artist-id = "mamamoo"
+kind = "single"
+
 names = [
   { name = "1cm의 자존심", locale = "ko", original = true },
   { name = "1cm Ui Jajonsim", locale = "ko-Latn", default = true },
   { name = "Taller Than You", locale = "en" },
 ]
 
+[[releases]]
+released-on = "2016-02-12"
+country = "KR"
+media = [{ kind = "digital" }]
 urls = [
-  { url = "https://www.youtube.com/watch?v=I02F1lvhguw", name = "Music Video" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2666499" },
 ]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "mamamoo/1cm-ui-jajonsim/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/1cm-ui-jajonsim"
+duration = "3:05"
