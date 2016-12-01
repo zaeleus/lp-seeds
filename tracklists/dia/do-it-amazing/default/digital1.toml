@@ -1,0 +1,58 @@
+medium-ids = [
+  "dia/do-it-amazing/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dia/eumak-deureullae"
+duration = "1:59"
+
+[[tracks]]
+position = 2
+song-id = "dia/lean-on-me-feat-microdot"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "dia/waenji-somehow"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "dia/nae-chinguui-namjachingu"
+duration = "3:51"
+
+[[tracks]]
+position = 5
+song-id = "dia/nae-maeume-byeol-hana"
+duration = "3:58"
+
+[[tracks]]
+position = 6
+song-id = "dia/eojecheoreom"
+duration = "3:19"
+
+[[tracks]]
+position = 7
+song-id = "dia/jejari"
+duration = "3:22"
+
+[[tracks]]
+position = 8
+song-id = "dia/say-hello"
+duration = "3:31"
+
+[[tracks]]
+position = 9
+song-id = "dia/waenji-chinese-ver"
+duration = "3:26"
+
+[[tracks]]
+position = 10
+song-id = "dia/waenji-acoustic-ver"
+duration = "3:43"
+
+[[tracks]]
+position = 11
+song-id = "dia/waenji-inst"
+duration = "3:26"

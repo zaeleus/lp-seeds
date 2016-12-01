@@ -1,0 +1,3 @@
+names = [
+  { name = "Lean On Me (Feat. Microdot)", locale = "ko", original = true, default = true },
+]
