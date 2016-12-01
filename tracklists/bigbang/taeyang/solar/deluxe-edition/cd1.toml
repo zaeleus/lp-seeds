@@ -1,0 +1,55 @@
+medium-ids = [
+  "bigbang/taeyang/solar/deluxe-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bigbang/taeyang/solar-intro"
+
+[[tracks]]
+position = 2
+song-id = "bigbang/taeyang/superstar"
+
+[[tracks]]
+position = 3
+song-id = "bigbang/taeyang/i-need-a-girl-feat-g-dragon"
+
+[[tracks]]
+position = 4
+song-id = "bigbang/taeyang/just-a-feeling"
+
+[[tracks]]
+position = 5
+song-id = "bigbang/taeyang/you-re-my"
+
+[[tracks]]
+position = 6
+song-id = "bigbang/taeyang/move-feat-teddy"
+
+[[tracks]]
+position = 7
+song-id = "bigbang/taeyang/break-down"
+
+[[tracks]]
+position = 8
+song-id = "bigbang/taeyang/niga-jamdeun-hue-feat-swings"
+
+[[tracks]]
+position = 9
+song-id = "bigbang/taeyang/where-u-at"
+
+[[tracks]]
+position = 10
+song-id = "bigbang/taeyang/wedding-dress"
+
+[[tracks]]
+position = 11
+song-id = "bigbang/taeyang/gido-feat-teddy"
+
+[[tracks]]
+position = 12
+song-id = "bigbang/taeyang/naman-barabwa"
+
+[[tracks]]
+position = 13
+song-id = "bigbang/taeyang/take-it-slow"

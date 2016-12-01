@@ -1,0 +1,4 @@
+names = [
+  { name = "니가 잠든 후에 (Feat. Swings)", locale = "ko", original = true },
+  { name = "Niga Jamdeun Hue (Feat. Swings)", locale = "ko-Latn", default = true },
+]
