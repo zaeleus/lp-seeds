@@ -1,0 +1,28 @@
+medium-ids = [
+  "dal-shabet/bling-bling/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dal-shabet/beep"
+duration = "0:56"
+
+[[tracks]]
+position = 2
+song-id = "dal-shabet/bling-bling"
+duration = "3:19"
+
+[[tracks]]
+position = 3
+song-id = "dal-shabet/dream-in-u"
+duration = "3:22"
+
+[[tracks]]
+position = 4
+song-id = "dal-shabet/moonlight"
+duration = "3:15"
+
+[[tracks]]
+position = 5
+song-id = "dal-shabet/bling-bling-inst"
+duration = "3:17"
