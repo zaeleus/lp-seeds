@@ -1,0 +1,13 @@
+medium-ids = [
+  "cocosori/dark-circle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cocosori/dark-circle"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "cocosori/dark-circle-inst"
+duration = "3:08"

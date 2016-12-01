@@ -1,0 +1,4 @@
+names = [
+  { name = "다크서클", locale = "ko", original = true },
+  { name = "Dark Circle", locale = "en", default = true },
+]
