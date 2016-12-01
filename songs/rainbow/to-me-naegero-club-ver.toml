@@ -1,0 +1,5 @@
+names = [
+  { name = "To Me (내게로..) (Club Ver.)", locale = "ko", original = true },
+  { name = "To Me (Naegero..) (Club Ver.)", locale = "ko-Latn", default = true },
+  { name = "To Me (Club Ver.)", locale = "en" },
+]

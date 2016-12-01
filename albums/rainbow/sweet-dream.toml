@@ -1,0 +1,24 @@
+artist-id = "rainbow"
+kind = "ep"
+
+names = [
+  { name = "Sweet Dream", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2011-06-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1313952" },
+  { url = "http://www.mnet.com/album/223172" },
+]
+
+[[releases]]
+released-on = "2011-06-22"
+country = "KR"
+catalog-number = "CMCC-9755"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=034201652" },
+]
