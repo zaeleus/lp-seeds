@@ -5,11 +5,14 @@ medium-ids = [
 [[tracks]]
 position = 1
 song-id = "morning-musume/morning-coffee"
+duration = "4:33"
 
 [[tracks]]
 position = 2
 song-id = "morning-musume/ai-no-tane"
+duration = "4:12"
 
 [[tracks]]
 position = 3
 song-id = "morning-musume/morning-coffee-instrumental"
+duration = "4:33"

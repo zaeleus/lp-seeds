@@ -14,6 +14,7 @@ media = [{ kind = "cd" }] # TODO minidisc?
 disambiguation = "8cm Single"
 urls = [
   { url = "http://www.oricon.co.jp/prof/169712/products/103736/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPDA-56/" },
 ]
 
 [[releases]]
@@ -24,4 +25,5 @@ media = [{ kind = "cd" }]
 disambiguation = "12cm Single"
 urls = [
   { url = "http://www.oricon.co.jp/prof/169712/products/583204/1/" },
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-5313/" },
 ]
