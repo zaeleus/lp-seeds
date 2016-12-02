@@ -1,0 +1,3 @@
+names = [
+  { name = "Perfect Strangers feat. AOA", locale = "ja", original = true, default = true },
+]

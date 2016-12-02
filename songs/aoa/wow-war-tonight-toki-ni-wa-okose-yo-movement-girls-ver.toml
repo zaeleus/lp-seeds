@@ -1,0 +1,4 @@
+names = [
+  { name = "WOW WAR TONIGHT ～時には起こせよムーヴメント girls ver.", locale = "ja", original = true },
+  { name = "WOW WAR TONIGHT ~Toki ni wa Okose yo Movement girls ver.", locale = "ja-Latn", default = true },
+]

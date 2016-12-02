@@ -1,0 +1,13 @@
+kind = "person"
+#started-on = ""
+#country = ""
+
+names = [
+  { name = "ジョナス・ブルー", locale = "ja", kind = "stage", original = true },
+  { name = "Jonas Blue", locale = "ja-Latn", kind = "stage", default = true },
+  { name = "Guy James Robin", locale = "en", kind = "real" },
+]
+
+urls = [
+  { url = "http://www.universal-music.co.jp/jonas-blue/" },
+]

@@ -1,0 +1,15 @@
+artist-id = "aoa"
+kind = "lp"
+
+names = [
+  { name = "RUNWAY", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-11-30"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000006/00600753750766/" },
+  { url = "http://recochoku.jp/album/A1005490785/" },
+]
