@@ -1,0 +1,19 @@
+artist-id = "-virtual/eric-nam-x-timbaland"
+kind = "single"
+
+names = [
+  { name = "BODY", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "eric-nam", separator = " X " },
+  { artist-id = "timbaland" },
+]
+
+[[releases]]
+released-on = "2016-12-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10020559" },
+]
