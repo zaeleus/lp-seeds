@@ -4,6 +4,11 @@ names = [
   { name = "With You", locale = "en" },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=r-lqmrmLLXc", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=1_0_O6_Zbck", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "bernard-park"
 separator = " x "
@@ -13,9 +18,4 @@ artist-id = "wonder-girls/hae-lim"
 names = [
   { name = "혜림 (원더걸스)", locale = "ko", original = true },
   { name = "Hye Rim (Wonder Girls)", locale = "ko-Latn", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=r-lqmrmLLXc", name = "Teaser" },
-  { url = "https://www.youtube.com/watch?v=1_0_O6_Zbck", name = "Music Video" },
 ]

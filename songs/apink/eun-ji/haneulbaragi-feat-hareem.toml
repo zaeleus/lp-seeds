@@ -4,15 +4,15 @@ names = [
   { name = "Hopefully Sky (Feat. Hareem)", locale = "en" },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=yASTolzBm0w", name = "Teaser A" },
+  { url = "https://www.youtube.com/watch?v=5Fr_MODuMYA", name = "Teaser B" },
+  { url = "https://www.youtube.com/watch?v=nzDO6tAB6ng", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "apink/eun-ji"
 names = [
   { name = "정은지", locale = "ko", original = true },
   { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=yASTolzBm0w", name = "Teaser A" },
-  { url = "https://www.youtube.com/watch?v=5Fr_MODuMYA", name = "Teaser B" },
-  { url = "https://www.youtube.com/watch?v=nzDO6tAB6ng", name = "Music Video" },
 ]

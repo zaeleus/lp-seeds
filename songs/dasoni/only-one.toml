@@ -2,14 +2,14 @@ names = [
   { name = "ONLY ONE", locale = "ko", original = true, default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=uyaTCDeu4eM", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=yFXuO-LKGnc", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "dasoni"
 names = [
   { name = "솔지하니", locale = "ko", original = true },
   { name = "SoljiHani", locale = "ko-Latn", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=uyaTCDeu4eM", name = "Teaser" },
-  { url = "https://www.youtube.com/watch?v=yFXuO-LKGnc", name = "Music Video" },
 ]

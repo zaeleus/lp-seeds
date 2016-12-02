@@ -2,14 +2,14 @@ names = [
   { name = "Heartbreak Hotel (Feat. Simon Dominic)", locale = "ko", original = true, default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=UMsTdLu-h3g", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=zQ6u3FO-aRM", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "girls-generation/tiffany"
 names = [
   { name = "티파니", locale = "ko", kind = "stage", original = true },
   { name = "TIFFANY", locale = "ko-Latn", kind = "stage", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=UMsTdLu-h3g", name = "Teaser" },
-  { url = "https://www.youtube.com/watch?v=zQ6u3FO-aRM", name = "Music Video" },
 ]

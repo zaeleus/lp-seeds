@@ -3,13 +3,13 @@ names = [
   { name = "She's coming (Prod. by Primary)", locale = "ko-Latn", default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=RD-tS1qM_T4", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "various-artists"
 names = [
   { name = "언프리티 랩스타 3", locale = "ko", original = true },
   { name = "Unpretty Rapstar 3", locale = "en", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=RD-tS1qM_T4", name = "Music Video" },
 ]

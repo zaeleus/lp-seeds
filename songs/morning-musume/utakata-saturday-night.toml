@@ -4,13 +4,13 @@ names = [
   { name = "Ephemeral Saturday Night!", locale = "en" },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=IiV-aaLo9SM", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "morning-musume"
 names = [
   { name = "モーニング娘。 '15", locale = "ja", original = true },
   { name = "Morning Musume '15", locale = "ja-Latn", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=IiV-aaLo9SM", name = "Music Video" },
 ]

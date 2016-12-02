@@ -2,6 +2,10 @@ names = [
   { name = "AMOLED", locale = "ko", original = true, default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=urrgiXeX02c", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "son-dam-bi"
 names = [
@@ -13,8 +17,4 @@ separator = " + "
 artist-id = "after-school"
 names = [
   { name = "After School", locale = "ko", original = true, default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=urrgiXeX02c", name = "Music Video" },
 ]

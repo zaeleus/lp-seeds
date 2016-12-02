@@ -2,13 +2,13 @@ names = [
   { name = "On My Own (Feat. Gen Neo)", locale = "ko", original = true, default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=hgKREAB2R8M", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "f-x/amber"
 names = [
   { name = "엠버", locale = "ko", original = true },
   { name = "AMBER", locale = "ko-Latn", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=hgKREAB2R8M", name = "Music Video" },
 ]

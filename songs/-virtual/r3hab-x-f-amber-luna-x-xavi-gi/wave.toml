@@ -2,6 +2,11 @@ names = [
   { name = "Wave", locale = "ko", original = true, default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=VkFFGVfquFU", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=CTwx2lMlaXQ", name = "MV Making Film" },
+]
+
 [[artist-credits]]
 artist-id = "r3hab"
 separator = " X f("
@@ -19,8 +24,3 @@ names = [
   { name = "Luna", locale = "ko", original = true, default = true },
 ]
 separator = ")"
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=VkFFGVfquFU", name = "Music Video" },
-  { url = "https://www.youtube.com/watch?v=CTwx2lMlaXQ", name = "MV Making Film" },
-]

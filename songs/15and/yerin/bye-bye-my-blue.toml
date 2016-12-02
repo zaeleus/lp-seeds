@@ -2,13 +2,13 @@ names = [
   { name = "Bye bye my blue", locale = "ko", original = true, default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=WbhK3wMXluE", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "15and/yerin"
 names = [
   { name = "백예린", locale = "ko", original = true },
   { name = "Yerin Baek", locale = "en", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=WbhK3wMXluE", name = "Music Video" },
 ]

@@ -4,13 +4,13 @@ names = [
   { name = "Hopefully Sky (Piano Ver.)", locale = "en" },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=T-_1kPWRb-Q", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "apink/eun-ji"
 names = [
   { name = "정은지", locale = "ko", original = true },
   { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=T-_1kPWRb-Q", name = "Music Video" },
 ]

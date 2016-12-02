@@ -2,14 +2,14 @@ names = [
   { name = "Love Love Love", locale = "ko", original = true, default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=yLFUhqxFkFA", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=DRXkrEUsDPs", name = "Music Video (Ver. 2)" },
+]
+
 [[artist-credits]]
 artist-id = "after-school"
 names = [
   { name = "해피 플레디스", locale = "ko", original = true },
   { name = "Happy PLEDIS", locale = "ko-Latn", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=yLFUhqxFkFA", name = "Music Video" },
-  { url = "https://www.youtube.com/watch?v=DRXkrEUsDPs", name = "Music Video (Ver. 2)" },
 ]

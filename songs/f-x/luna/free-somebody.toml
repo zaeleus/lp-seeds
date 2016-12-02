@@ -2,14 +2,14 @@ names = [
   { name = "Free Somebody", locale = "ko", original = true, default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=_x0PEu5J3V0", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=lpwG8f9nt4s", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "f-x/luna"
 names = [
   { name = "루나", locale = "ko", original = true },
   { name = "LUNA", locale = "ko-Latn", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=_x0PEu5J3V0", name = "Teaser" },
-  { url = "https://www.youtube.com/watch?v=lpwG8f9nt4s", name = "Music Video" },
 ]

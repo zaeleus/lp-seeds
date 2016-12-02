@@ -4,13 +4,13 @@ names = [
   { name = "I'm Not Like That", locale = "en" },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=ilEoPiUST2Y", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "morning-musume"
 names = [
   { name = "モーニング娘。 '16", locale = "ja", original = true },
   { name = "Morning Musume '16", locale = "ja-Latn", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=ilEoPiUST2Y", name = "Music Video" },
 ]

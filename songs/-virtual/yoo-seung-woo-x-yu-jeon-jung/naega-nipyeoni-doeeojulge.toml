@@ -4,6 +4,10 @@ names = [
   { name = "I'll Be on Your Side", locale = "en" },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=E6orPuEahuM", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "yoo-seung-woo"
 separator = " X "
@@ -13,8 +17,4 @@ artist-id = "cosmic-girls/yeon-jung"
 names = [
   { name = "유연정", locale = "ko", original = true },
   { name = "Yu Yeon Jung", locale = "ko-Latn", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=E6orPuEahuM", name = "Music Video" },
 ]

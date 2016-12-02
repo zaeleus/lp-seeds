@@ -5,15 +5,15 @@ names = [
   { name = "Dream", locale = "ko", original = true, default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=_JWbRwTG7Bw", name = "Rolling Music Teaser" },
+]
+
 [[artist-credits]]
 artist-id = "apink/eun-ji"
 names = [
   { name = "정은지", locale = "ko", original = true },
   { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=_JWbRwTG7Bw", name = "Rolling Music Teaser" },
 ]
 
 [[releases]]

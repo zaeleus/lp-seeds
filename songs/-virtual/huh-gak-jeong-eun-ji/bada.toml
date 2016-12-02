@@ -4,6 +4,11 @@ names = [
   { name = "Ocean.wav", locale = "en" },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=-yuAMW2SL8E", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=WC-us_yNsSU", name = "Music Video" },
+]
+
 [[artist-credits]]
 artist-id = "huh-gak"
 separator = " & "
@@ -13,9 +18,4 @@ artist-id = "apink/eun-ji"
 names = [
   { name = "정은지", locale = "ko", original = true },
   { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=-yuAMW2SL8E", name = "Teaser" },
-  { url = "https://www.youtube.com/watch?v=WC-us_yNsSU", name = "Music Video" },
 ]

@@ -2,13 +2,6 @@ names = [
   { name = "ENDLESS SKY", locale = "ja", original = true, default = true },
 ]
 
-[[artist-credits]]
-artist-id = "morning-musume"
-names = [
-  { name = "モーニング娘。 '15", locale = "ja", original = true },
-  { name = "Morning Musume '15", locale = "ja-Latn", default = true },
-]
-
 urls = [
   { url = "https://www.youtube.com/watch?v=Vlg0xgl3wTw", name = "Music Video" },
 ]
@@ -31,4 +24,11 @@ contributions = [
   { artist-id = "tsunku", kind = "lyricist" },
   { artist-id = "tsunku", kind = "composer" },
   { artist-id = "hirata-shouichirou", kind = "arranger" },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '15", locale = "ja", original = true },
+  { name = "Morning Musume '15", locale = "ja-Latn", default = true },
 ]
