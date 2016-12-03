@@ -3,3 +3,8 @@ names = [
   { name = "Noraega Neureosseo", locale = "ko-Latn", default = true },
   { name = "Singing Got Better", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=CvXTDVFx01E", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=ZcID0Wn4zwI", name = "Music Video" },
+]

@@ -3,3 +3,8 @@ names = [
   { name = "Neona Jalhae", locale = "ko-Latn", default = true },
   { name = "Mind Your Own Business", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=SpY0veX43QU", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=8mYCjGdlqxE", name = "Music Video" },
+]

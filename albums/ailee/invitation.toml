@@ -10,5 +10,9 @@ released-on = "2012-10-16"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
+  { url = "https://itunes.apple.com/us/album/id570931639" },
+  { url = "https://play.google.com/music/m/Bs2wpmwdudhuz7j7y4switxcray" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2153251" },
+  { url = "http://www.mnet.com/album/269732" },
+  { url = "https://open.spotify.com/album/61scVtZ044GUBV4rIvOcPQ" },
 ]

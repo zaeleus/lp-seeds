@@ -10,5 +10,10 @@ released-on = "2014-09-25"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
+  { url = "https://itunes.apple.com/us/album/id922781148" },
+  { url = "https://play.google.com/music/m/Bawkhqp3lnpb3cxz4quoii2iljm" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2283510" },
+  { url = "http://www.mnet.com/album/368070" },
+  { url = "https://open.spotify.com/album/3Vp5UGeJIFoJ97hApMPo8A" },
+  { url = "https://open.spotify.com/album/5e3do25xQcsdKYGcVY4BK7" },
 ]

@@ -2,3 +2,8 @@ names = [
   { name = "Home (Feat. 윤미래)", locale = "ko", original = true },
   { name = "Home (Feat. Yoon Mi Rae)", locale = "ko-Latn", default = true },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=arr8wlzf72M", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=kPv0V1DGLC8", name = "Music Video" },
+]

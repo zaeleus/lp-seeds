@@ -3,3 +3,8 @@ names = [
   { name = "Boyeojulge", locale = "ko-Latn", default = true },
   { name = "I Will Show You", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=wV6QttwjPXk", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=MCEcWcIww5k", name = "Music Video" },
+]

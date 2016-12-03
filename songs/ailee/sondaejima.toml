@@ -3,3 +3,8 @@ names = [
   { name = "Sondaejima", locale = "ko-Latn", default = true },
   { name = "Don't Touch Me", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=lGEj0tv_LLg", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=2a5zTTYaNl8", name = "Music Video" },
+]

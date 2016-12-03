@@ -10,5 +10,8 @@ released-on = "2015-06-30"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
+  { url = "https://itunes.apple.com/us/album/id1013921990" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2326669" },
+  { url = "http://www.mnet.com/album/467655" },
+  { url = "https://open.spotify.com/album/0kNNV8e3VUvCvtAGTMWisd" },
 ]
