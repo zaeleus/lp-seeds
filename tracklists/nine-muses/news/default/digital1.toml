@@ -1,0 +1,13 @@
+medium-ids = [
+  "nine-muses/news/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/news"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "nine-muses/news-inst"
+duration = "3:02"

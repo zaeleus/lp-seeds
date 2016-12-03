@@ -1,0 +1,14 @@
+artist-id = "nine-muses"
+kind = "single"
+
+names = [
+  { name = "NEWS", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2012-01-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2062567" },
+]
