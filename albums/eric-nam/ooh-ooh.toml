@@ -1,0 +1,15 @@
+artist-id = "eric-nam"
+kind = "single"
+
+names = [
+  { name = "우우 (Ooh Ooh)", locale = "ko", original = true },
+  { name = "Ooh Ooh", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2014-04-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2246331" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "eric-nam/ooh-ooh/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eric-nam/ooh-ooh-feat-hoya-of-infinite"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "eric-nam/ooh-ooh-inst"
+duration = "3:15"
