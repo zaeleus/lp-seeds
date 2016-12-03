@@ -1,0 +1,5 @@
+names = [
+  { name = "일주일 (A Week)", locale = "ko", original = true },
+  { name = "Iljuil (A Week)", locale = "ko-Latn", default = true },
+  { name = "A Week", locale = "en" },
+]

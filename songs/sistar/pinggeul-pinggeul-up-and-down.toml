@@ -1,0 +1,5 @@
+names = [
+  { name = "핑글핑글 (Up And Down)", locale = "ko", original = true },
+  { name = "Pinggeul Pinggeul (Up And Down)", locale = "ko-Latn", default = true },
+  { name = "Up And Down", locale = "en" },
+]

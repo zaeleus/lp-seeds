@@ -1,0 +1,5 @@
+names = [
+  { name = "넌 너무 야해 (Feat. 긱스) (The Way You Make Me Melt)", locale = "ko", original = true },
+  { name = "Neon Neomu Yahae (Feat. Geeks) (The Way You Make Me Melt)", locale = "ko-Latn", default = true },
+  { name = "The Way You Make Me Melt (Feat. Geeks)", locale = "en" },
+]

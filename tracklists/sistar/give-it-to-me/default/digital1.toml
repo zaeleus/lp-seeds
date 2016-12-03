@@ -1,0 +1,58 @@
+medium-ids = [
+  "sistar/give-it-to-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sistar/miss-sistar-feat-duble-sidekick-jooheon"
+duration = "1:17"
+
+[[tracks]]
+position = 2
+song-id = "sistar/give-it-to-me"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "sistar/neon-neomu-yahae-feat-geeks-the-way-you-make-me-melt"
+duration = "3:35"
+
+[[tracks]]
+position = 4
+song-id = "sistar/bappa-bad-boy"
+duration = "3:31"
+
+[[tracks]]
+position = 5
+song-id = "sistar/summer-time"
+duration = "3:33"
+
+[[tracks]]
+position = 6
+song-id = "sistar/iljuil-a-week"
+duration = "3:36"
+
+[[tracks]]
+position = 7
+song-id = "sistar/crying"
+duration = "3:23"
+
+[[tracks]]
+position = 8
+song-id = "sistar/hey-you"
+duration = "3:09"
+
+[[tracks]]
+position = 9
+song-id = "sistar/if-u-want"
+duration = "3:35"
+
+[[tracks]]
+position = 10
+song-id = "sistar/pinggeul-pinggeul-up-and-down"
+duration = "3:22"
+
+[[tracks]]
+position = 11
+song-id = "sistar/give-it-to-me-inst"
+duration = "3:21"

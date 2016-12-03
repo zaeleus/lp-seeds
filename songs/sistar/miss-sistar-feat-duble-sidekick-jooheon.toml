@@ -1,0 +1,4 @@
+names = [
+  { name = "Miss Sistar (Feat. 이단옆차기, 주헌)", locale = "ko", original = true },
+  { name = "Miss Sistar (Feat. Duble Sidekick, Jooheon)", locale = "ko-Latn", default = true },
+]
