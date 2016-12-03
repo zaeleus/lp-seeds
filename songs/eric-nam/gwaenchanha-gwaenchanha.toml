@@ -1,0 +1,10 @@
+names = [
+  { name = "괜찮아 괜찮아", locale = "ko", original = true },
+  { name = "Gwaenchanha Gwaenchanha", locale = "ko-Latn", default = true },
+  { name = "I'm OK", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=VmSWObTzV6A", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=lNV8iRlaGk8", name = "Music Video" },
+]
