@@ -1,0 +1,3 @@
+names = [
+  { name = "White Day (MR)", locale = "ko", original = true, default = true },
+]

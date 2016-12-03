@@ -1,0 +1,16 @@
+artist-id = "girl-s-day"
+kind = "lp"
+
+names = [
+  { name = "기대", locale = "ko", original = true },
+  { name = "Gidae", locale = "ko-Latn", default = true },
+  { name = "Expectation", locale = "en" },
+]
+
+[[releases]]
+released-on = "2013-03-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2177822" },
+]
