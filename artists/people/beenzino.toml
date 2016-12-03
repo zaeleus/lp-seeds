@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1987-09-12"
+country = "KR"
+
+names = [
+  { name = "빈지노", locale = "ko", kind = "stage", original = true },
+  { name = "Beenzino", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "임성빈", locale = "ko", kind = "real" },
+  { name = "Lim Sung Bin", locale = "ko-Latn", kind = "real" },
+]

@@ -1,0 +1,12 @@
+names = [
+  { name = "No Matter What", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "boa", separator = " X " },
+  { artist-id = "beenzino" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=EZWzmVnkOhQ", name = "Music Video" },
+]
