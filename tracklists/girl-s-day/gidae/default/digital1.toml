@@ -51,6 +51,9 @@ duration = "3:14"
 position = 10
 song-id = "girl-s-day/oh-my-god"
 duration = "3:08"
+names = [
+  { name = "Oh! My God!", locale = "ko", original = true, default = true },
+]
 
 [[tracks]]
 position = 11

@@ -1,0 +1,14 @@
+artist-id = "girl-s-day"
+kind = "ep"
+
+names = [
+  { name = "Everyday II", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2012-04-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2111267" },
+]
