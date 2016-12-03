@@ -1,0 +1,8 @@
+medium-ids = [
+  "nine-muses/glue/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/glue"
+duration = "3:12"
