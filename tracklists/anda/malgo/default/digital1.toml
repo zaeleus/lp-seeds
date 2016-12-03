@@ -1,0 +1,13 @@
+medium-ids = [
+  "anda/malgo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "anda/malgo-feat-ydg"
+duration = "2:54"
+
+[[tracks]]
+position = 2
+song-id = "anda/malgo-inst"
+duration = "2:51"

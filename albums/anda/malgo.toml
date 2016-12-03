@@ -1,0 +1,21 @@
+artist-id = "anda"
+kind = "single"
+
+names = [
+  { name = "말고", locale = "ko", original = true },
+  { name = "Malgo", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "anda"
+names = [
+  { name = "Andamiro", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2012-04-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2108490" },
+]
