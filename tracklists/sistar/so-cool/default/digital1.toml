@@ -56,6 +56,9 @@ duration = "3:14"
 position = 11
 song-id = "sistar/push-push"
 duration = "3:07"
+names = [
+  { name = "Push Push", locale = "ko", original = true, default = true },
+]
 
 [[tracks]]
 position = 12

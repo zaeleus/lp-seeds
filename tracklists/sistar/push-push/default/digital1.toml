@@ -1,0 +1,23 @@
+medium-ids = [
+  "sistar/push-push/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sistar/here-we-come"
+duration = "1:02"
+
+[[tracks]]
+position = 2
+song-id = "sistar/push-push"
+duration = "3:07"
+
+[[tracks]]
+position = 3
+song-id = "sistar/oh-baby"
+duration = "3:06"
+
+[[tracks]]
+position = 4
+song-id = "sistar/push-push-inst"
+duration = "3:07"
