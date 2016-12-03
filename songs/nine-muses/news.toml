@@ -1,0 +1,4 @@
+names = [
+  { name = "뉴스 (News)", locale = "ko", original = true },
+  { name = "News", locale = "en", default = true },
+]
