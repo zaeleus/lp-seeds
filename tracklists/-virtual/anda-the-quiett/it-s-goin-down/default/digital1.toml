@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/anda-the-quiett/it-s-goin-down/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/anda-the-quiett/it-s-goin-down"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/anda-the-quiett/it-s-goin-down-inst"
+duration = "3:09"

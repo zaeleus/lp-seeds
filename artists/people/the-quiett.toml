@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1985-01-29"
+country = "KR"
+
+names = [
+  { name = "더콰이엇", locale = "ko", kind = "stage", original = true },
+  { name = "The Quiett", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "신동갑", locale = "ko", kind = "real" },
+  { name = "Shin Dong Gab", locale = "ko-Latn", kind = "real" },
+]

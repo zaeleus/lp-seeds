@@ -1,0 +1,19 @@
+artist-id = "-virtual/anda-the-quiett"
+kind = "single"
+
+names = [
+  { name = "It's Goin' Down", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "anda", separator = " & " },
+  { artist-id = "the-quiett" },
+]
+
+[[releases]]
+released-on = "2015-05-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2319923" },
+]
