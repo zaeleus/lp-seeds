@@ -1,0 +1,16 @@
+artist-id = "sistar"
+kind = "single"
+
+names = [
+  { name = "멍청이 (Fool)", locale = "ko", original = true },
+  { name = "Meongcheongi (Fool)", locale = "ko-Latn", default = true },
+  { name = "Fool", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-03-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2307909" },
+]
