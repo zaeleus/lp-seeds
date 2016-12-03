@@ -1,0 +1,5 @@
+names = [
+  { name = "널 사랑하겠어 (I Choose To Love You)", locale = "ko", original = true },
+  { name = "Neol Saranghagesseo (I Choose To Love You)", locale = "ko-Latn", default = true },
+  { name = "I Choose To Love You", locale = "en" },
+]
