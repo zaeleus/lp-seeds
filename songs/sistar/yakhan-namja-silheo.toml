@@ -1,0 +1,5 @@
+names = [
+  { name = "약한 남자 싫어", locale = "ko", original = true },
+  { name = "Yakhan Namja Silheo", locale = "ko-Latn", default = true },
+  { name = "I Do Not Want a Weak Man", locale = "en" },
+]
