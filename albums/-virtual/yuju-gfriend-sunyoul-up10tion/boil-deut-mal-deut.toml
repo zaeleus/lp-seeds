@@ -1,4 +1,4 @@
-artist-id = "-virtual/yuju-g-friend-sunyoul-up10tion"
+artist-id = "-virtual/yuju-gfriend-sunyoul-up10tion"
 kind = "single"
 
 names = [
@@ -8,10 +8,10 @@ names = [
 ]
 
 [[artist-credits]]
-artist-id = "g-friend/yuju"
+artist-id = "gfriend/yuju"
 names = [
   { name = "유주 (여자친구)", locale = "ko", original = true },
-  { name = "Yuju (G-Friend)", locale = "ko-Latn", default = true },
+  { name = "Yuju (GFRIEND)", locale = "ko-Latn", default = true },
 ]
 separator = " + "
 

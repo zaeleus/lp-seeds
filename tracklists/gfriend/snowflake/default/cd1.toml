@@ -1,0 +1,39 @@
+medium-ids = [
+  "gfriend/snowflake/default/cd1",
+  "gfriend/snowflake/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gfriend/intro-snowflake"
+duration = "1:16"
+
+[[tracks]]
+position = 2
+song-id = "gfriend/siganeul-dallyeoseo-rough"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "gfriend/nae-ireumeul-bulleojwo-say-my-name"
+duration = "3:08"
+
+[[tracks]]
+position = 4
+song-id = "gfriend/sarangbyeol-luv-star"
+duration = "3:08"
+
+[[tracks]]
+position = 5
+song-id = "gfriend/geureon-naren-someday"
+duration = "3:37"
+
+[[tracks]]
+position = 6
+song-id = "gfriend/trust"
+duration = "3:35"
+
+[[tracks]]
+position = 7
+song-id = "gfriend/siganeul-dallyeoseo-rough-inst"
+duration = "3:29"

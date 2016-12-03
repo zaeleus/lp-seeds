@@ -4,16 +4,16 @@ country = "KR"
 
 names = [
   { name = "여자친구", locale = "ko", original = true },
-  { name = "G-Friend", locale = "ko-Latn", default = true },
+  { name = "GFRIEND", locale = "ko-Latn", default = true },
 ]
 
 members = [
-  { artist-id = "g-friend/sowon" },
-  { artist-id = "g-friend/yerin" },
-  { artist-id = "g-friend/eunha" },
-  { artist-id = "g-friend/yuju" },
-  { artist-id = "g-friend/sinb" },
-  { artist-id = "g-friend/umji" },
+  { artist-id = "gfriend/sowon" },
+  { artist-id = "gfriend/yerin" },
+  { artist-id = "gfriend/eunha" },
+  { artist-id = "gfriend/yuju" },
+  { artist-id = "gfriend/sinb" },
+  { artist-id = "gfriend/umji" },
 ]
 
 urls = [

@@ -1,28 +1,28 @@
 medium-ids = [
-  "g-friend/season-of-glass/default/cd1",
+  "gfriend/season-of-glass/default/cd1",
 ]
 
 [[tracks]]
 position = 1
-song-id = "g-friend/intro-season-of-glass"
+song-id = "gfriend/intro-season-of-glass"
 duration = "1:13"
 
 [[tracks]]
 position = 2
-song-id = "g-friend/yuriguseul"
+song-id = "gfriend/yuriguseul"
 duration = "3:23"
 
 [[tracks]]
 position = 3
-song-id = "g-friend/neverland"
+song-id = "gfriend/neverland"
 duration = "3:11"
 
 [[tracks]]
 position = 4
-song-id = "g-friend/white-hayanma-eum"
+song-id = "gfriend/white-hayanma-eum"
 duration = "3:45"
 
 [[tracks]]
 position = 5
-song-id = "g-friend/yuriguseul-inst"
+song-id = "gfriend/yuriguseul-inst"
 duration = "3:23"

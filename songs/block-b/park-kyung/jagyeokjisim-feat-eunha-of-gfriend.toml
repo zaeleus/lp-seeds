@@ -1,7 +1,7 @@
 names = [
-  { name = "자격지심 (Feat. 은하 Of 여자친구)", locale = "ko", original = true },
-  { name = "Jagyeokjisim (Feat. Eunha Of G-Friend)", locale = "ko-Latn", default = true },
-  { name = "Inferiority Complex (Feat. Eunha Of G-Friend)", locale = "en" },
+  { name = "자격지심 (Feat. 은하 of 여자친구)", locale = "ko", original = true },
+  { name = "Jagyeokjisim (Feat. Eunha of GFRIEND)", locale = "ko-Latn", default = true },
+  { name = "Inferiority Complex (Feat. Eunha of GFRIEND)", locale = "en" },
 ]
 
 urls = [
