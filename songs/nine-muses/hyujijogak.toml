@@ -1,0 +1,5 @@
+names = [
+  { name = "휴지조각", locale = "ko", original = true },
+  { name = "Hyujijogak", locale = "ko-Latn", default = true },
+  { name = "Paper Scraps", locale = "en" },
+]

@@ -2,7 +2,16 @@ artist-id = "nine-muses"
 kind = "ep"
 
 names = [
-  { name = "WILD", locale = "ko", original = true, default = true },
+  { name = "Wild", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-05-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id646605882" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2184578" },
 ]
 
 [[releases]]
