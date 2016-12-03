@@ -1,0 +1,16 @@
+artist-id = "girl-s-day"
+kind = "single"
+
+names = [
+  { name = "나 어때", locale = "ko", original = true },
+  { name = "Na Eottae", locale = "ko-Latn", default = true },
+  { name = "How About Me?", locale = "en" },
+]
+
+[[releases]]
+released-on = "2010-07-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=971253" },
+]
