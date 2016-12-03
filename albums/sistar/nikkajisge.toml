@@ -1,0 +1,17 @@
+artist-id = "sistar"
+kind = "single"
+
+names = [
+  { name = "니까짓게", locale = "ko", original = true },
+  { name = "Nikkajisge", locale = "ko-Latn", default = true },
+  { name = "How Dare You", locale = "en" },
+]
+
+[[releases]]
+released-on = "2010-12-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id408813411" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=1085053" },
+]
