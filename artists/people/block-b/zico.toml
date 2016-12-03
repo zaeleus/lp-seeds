@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1992-09-14"
+country = "KR"
+
+names = [
+  { name = "지코", locale = "ko", kind = "stage", original = true },
+  { name = "ZICO", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "우지호", locale = "ko", kind = "real" },
+  { name = "Woo Ji Ho", locale = "ko-Latn", kind = "real" },
+]

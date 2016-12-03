@@ -1,0 +1,8 @@
+medium-ids = [
+  "block-b/zico/bermuda-triangle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "block-b/zico/bermuda-triangle-feat-crush-dean"
+duration = "3:27"

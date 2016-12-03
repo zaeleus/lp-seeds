@@ -1,0 +1,8 @@
+names = [
+  { name = "BERMUDA TRIANGLE (Feat. Crush, DEAN)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=SD7KUXH7wKo", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=ZHoLaLlL5lA", name = "Music Video" },
+]
