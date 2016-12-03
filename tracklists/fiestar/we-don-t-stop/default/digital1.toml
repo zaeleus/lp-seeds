@@ -1,0 +1,14 @@
+medium-ids = [
+  "fiestar/we-don-t-stop/default/cd1",
+  "fiestar/we-don-t-stop/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fiestar/we-don-t-stop"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "fiestar/sweet-love-feat-kim-yeon-woo"
+duration = "3:47"
