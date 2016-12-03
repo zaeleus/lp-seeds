@@ -1,0 +1,23 @@
+medium-ids = [
+  "sistar/gasikgeol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sistar/drop-the-beat-feat-b2k"
+duration = "1:09"
+
+[[tracks]]
+position = 2
+song-id = "sistar/gasikgeol"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "sistar/yakhan-namja-silheo"
+duration = "3:00"
+
+[[tracks]]
+position = 4
+song-id = "sistar/gasikgeol-inst"
+duration = "3:14"
