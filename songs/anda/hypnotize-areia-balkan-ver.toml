@@ -1,0 +1,9 @@
+names = [
+  { name = "Hypnotize (Areia Balkan Ver.)", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "anda"
+names = [
+  { name = "Andamiro", locale = "ko", original = true, default = true },
+]

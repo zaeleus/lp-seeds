@@ -1,0 +1,10 @@
+names = [
+  { name = "주치의", locale = "ko", original = true },
+  { name = "Juchiui", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "anda"
+names = [
+  { name = "Andamiro", locale = "ko", original = true, default = true },
+]

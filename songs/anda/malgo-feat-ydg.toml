@@ -1,0 +1,10 @@
+names = [
+  { name = "말고 (Feat. YDG)", locale = "ko", original = true },
+  { name = "Malgo (Feat. YDG)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "anda"
+names = [
+  { name = "Andamiro", locale = "ko", original = true, default = true },
+]
