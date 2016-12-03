@@ -1,0 +1,33 @@
+medium-ids = [
+  "sistar/touch-n-move/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sistar/wow"
+duration = "1:20"
+
+[[tracks]]
+position = 2
+song-id = "sistar/touch-my-body"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "sistar/nappeunson-feat-verbal-jint"
+duration = "3:33"
+
+[[tracks]]
+position = 4
+song-id = "sistar/but-i-love-u"
+duration = "3:30"
+
+[[tracks]]
+position = 5
+song-id = "sistar/ok-go"
+duration = "3:13"
+
+[[tracks]]
+position = 6
+song-id = "sistar/sunshine"
+duration = "3:33"

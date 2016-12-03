@@ -1,0 +1,5 @@
+names = [
+  { name = "나쁜손 (Feat. 버벌진트) (Naughty Hands)", locale = "ko", original = true },
+  { name = "Nappeunson (Feat. Verbal Jint)", locale = "ko-Latn", default = true },
+  { name = "Naughty Hands (Feat. Verbal Jint)", locale = "en" },
+]
