@@ -1,3 +1,10 @@
 names = [
   { name = "YOU AND I", locale = "ko", original = true, default = true },
 ]
+
+[[artist-credits]]
+artist-id = "2ne1/bom"
+names = [
+  { name = "박봄", locale = "ko", original = true},
+  { name = "Park Bom", locale = "ko-Latn", default = true },
+]
