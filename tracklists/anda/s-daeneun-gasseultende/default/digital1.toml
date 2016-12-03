@@ -1,0 +1,13 @@
+medium-ids = [
+  "anda/s-daeneun-gasseultende/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "anda/s-daeneun-gasseultende"
+duration = "4:07"
+
+[[tracks]]
+position = 2
+song-id = "anda/s-daeneun-gasseultende-inst"
+duration = "4:05"
