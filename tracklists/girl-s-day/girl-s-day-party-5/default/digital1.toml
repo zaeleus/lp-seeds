@@ -1,0 +1,13 @@
+medium-ids = [
+  "girl-s-day/girl-s-day-party-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girl-s-day/nareul-ijjimayo"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "girl-s-day/nareul-ijjimayo-inst"
+duration = "3:10"

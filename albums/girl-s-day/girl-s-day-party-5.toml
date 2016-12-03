@@ -1,0 +1,14 @@
+artist-id = "girl-s-day"
+kind = "single"
+
+names = [
+  { name = "Girl's Day Party #5", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2012-10-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2159947" },
+]
