@@ -1,0 +1,19 @@
+medium-ids = [
+  "nine-muses/let-s-have-a-party/default/cd1",
+  "nine-muses/let-s-have-a-party/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/ladies"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "nine-muses/no-playboy"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "nine-muses/no-playboy-inst"
+duration = "3:12"
