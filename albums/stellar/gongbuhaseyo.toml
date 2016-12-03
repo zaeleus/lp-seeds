@@ -1,0 +1,16 @@
+artist-id = "stellar"
+kind = "single"
+
+names = [
+  { name = "공부하세요", locale = "ko", original = true },
+  { name = "Gongbuhaseyo", locale = "ko-Latn", default = true },
+  { name = "Study", locale = "en" },
+]
+
+[[releases]]
+released-on = "2013-07-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2191985" },
+]

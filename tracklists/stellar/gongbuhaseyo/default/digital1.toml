@@ -1,0 +1,13 @@
+medium-ids = [
+  "stellar/gongbuhaseyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stellar/gongbuhaseyo"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "stellar/gongbuhaseyo-inst"
+duration = "3:12"
