@@ -1,0 +1,5 @@
+names = [
+  { name = "허세 (Prod. by 타블로) (Inst.)", locale = "ko", original = true },
+  { name = "Heose (Prod. by Tablo) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Hashtag (Prod. by Tablo) (Inst.)", locale = "en" },
+]

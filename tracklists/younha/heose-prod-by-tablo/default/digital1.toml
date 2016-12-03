@@ -1,0 +1,13 @@
+medium-ids = [
+  "younha/heose-prod-by-tablo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "younha/heose-prod-by-tablo"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "younha/heose-prod-by-tablo-inst"
+duration = "3:51"
