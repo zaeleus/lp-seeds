@@ -19,8 +19,13 @@ duration = "3:04"
 
 [[tracks]]
 position = 4
-song-id = "girl-s-day/jalhaejwobwaya-nothing-lasts-up"
+song-id = "girl-s-day/jalhaejwobwaya"
 duration = "3:23"
+names = [
+  { name = "잘해줘봐야 (Nothing Lasts Up)", locale = "ko", original = true },
+  { name = "Jalhaejwobwaya (Nothing Lasts Up)", locale = "ko-Latn", default = true },
+  { name = "Nothing Lasts Up", locale = "en" },
+]
 
 [[tracks]]
 position = 5
