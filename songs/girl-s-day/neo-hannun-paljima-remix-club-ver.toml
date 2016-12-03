@@ -1,5 +1,0 @@
-names = [
-  { name = "너 한눈 팔지마! (Remix Club Ver.)", locale = "ko", original = true },
-  { name = "Neo Hannun Paljima! (Remix Club Ver.)", locale = "ko-Latn", default = true },
-  { name = "You, Don't Look Elsewhere! (Remix Club Ver.)", locale = "en" },
-]

@@ -1,0 +1,5 @@
+names = [
+  { name = "너, 한눈 팔지마! (DJ Stereo Club Mix)", locale = "ko", original = true },
+  { name = "Neo, Hannun Paljima! (DJ Stereo Club Mix)", locale = "ko-Latn", default = true },
+  { name = "Hey, Don't Look Elsewhere! (DJ Stereo Club Mix)", locale = "en" },
+]

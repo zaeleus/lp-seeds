@@ -62,8 +62,13 @@ duration = "3:10"
 
 [[tracks]]
 position = 12
-song-id = "girl-s-day/neo-hannun-paljima-remix-club-ver"
+song-id = "girl-s-day/neo-hannun-paljima-dj-stereo-club-mix"
 duration = "4:26"
+names = [
+  { name = "너 한눈 팔지마! (Remix Club Ver.)", locale = "ko", original = true },
+  { name = "Neo Hannun Paljima! (Remix Club Ver.)", locale = "ko-Latn", default = true },
+  { name = "You, Don't Look Elsewhere! (Remix Club Ver.)", locale = "en" },
+]
 
 [[tracks]]
 position = 13
