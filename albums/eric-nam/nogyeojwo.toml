@@ -1,0 +1,16 @@
+artist-id = "eric-nam"
+kind = "single"
+
+names = [
+  { name = "녹여줘", locale = "ko", original = true },
+  { name = "Nogyeojwo", locale = "ko-Latn", default = true },
+  { name = "Melt My Heart", locale = "en" },
+]
+
+[[releases]]
+released-on = "2014-12-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2294232" },
+]

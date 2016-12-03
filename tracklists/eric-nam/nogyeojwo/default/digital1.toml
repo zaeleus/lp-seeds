@@ -1,0 +1,13 @@
+medium-ids = [
+  "eric-nam/nogyeojwo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eric-nam/nogyeojwo"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "eric-nam/nogyeojwo-inst"
+duration = "3:50"

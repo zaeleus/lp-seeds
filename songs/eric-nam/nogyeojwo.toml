@@ -1,0 +1,10 @@
+names = [
+  { name = "녹여줘", locale = "ko", original = true },
+  { name = "Nogyeojwo", locale = "ko-Latn", default = true },
+  { name = "Melt My Heart", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=klZOo5yfq8w", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=3seYLqWCcr0", name = "Music Video" },
+]
