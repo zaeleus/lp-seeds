@@ -1,0 +1,13 @@
+medium-ids = [
+  "stellar/mask/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stellar/mask"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "stellar/mask-inst"
+duration = "3:19"

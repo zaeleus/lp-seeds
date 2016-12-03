@@ -1,0 +1,4 @@
+names = [
+  { name = "마스크 (Inst.)", locale = "ko", original = true },
+  { name = "Mask (Inst.)", locale = "en", default = true },
+]
