@@ -1,0 +1,16 @@
+artist-id = "stellar"
+kind = "single"
+
+names = [
+  { name = "떨려요", locale = "ko", original = true },
+  { name = "Tteollyeoyo", locale = "ko-Latn", default = true },
+  { name = "Vibrato", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-07-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2329116" },
+]

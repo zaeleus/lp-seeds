@@ -1,0 +1,8 @@
+medium-ids = [
+  "stellar/tteollyeoyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stellar/tteollyeoyo"
+duration = "3:02"
