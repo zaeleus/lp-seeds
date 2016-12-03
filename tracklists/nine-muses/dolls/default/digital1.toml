@@ -1,0 +1,29 @@
+medium-ids = [
+  "nine-muses/dolls/default/cd1",
+  "nine-muses/dolls/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/what-is-love"
+duration = "1:17"
+
+[[tracks]]
+position = 2
+song-id = "nine-muses/dolls"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "nine-muses/chyeodaman-bwa"
+duration = "3:54"
+
+[[tracks]]
+position = 4
+song-id = "nine-muses/dolls-inst"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "nine-muses/chyeodaman-bwa-inst"
+duration = "3:54"

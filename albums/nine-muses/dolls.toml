@@ -1,8 +1,17 @@
 artist-id = "nine-muses"
-kind = "single"
+kind = "ep"
 
 names = [
-  { name = "Dolls", locale = "ko", original = true, default = true },
+  { name = "DOLLS", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-01-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id596242817" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2173386" },
 ]
 
 [[releases]]
