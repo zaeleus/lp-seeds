@@ -1,0 +1,5 @@
+names = [
+  { name = "달빛바다 (FIESTAR Ver.)", locale = "ko", original = true },
+  { name = "Dalbiccbada (FIESTAR Ver.)", locale = "ko-Latn", default = true },
+  { name = "Sea of Moonlight (FIESTAR Ver.)", locale = "en" },
+]

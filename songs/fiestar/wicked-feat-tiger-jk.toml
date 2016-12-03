@@ -1,0 +1,3 @@
+names = [
+  { name = "Wicked (Feat. Tiger JK)", locale = "ko", original = true, default = true },
+]

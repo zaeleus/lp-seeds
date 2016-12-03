@@ -1,0 +1,19 @@
+medium-ids = [
+  "fiestar/vista/default/cd1",
+  "fiestar/vista/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fiestar/vista"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "fiestar/wicked-feat-tiger-jk"
+duration = "3:37"
+
+[[tracks]]
+position = 3
+song-id = "fiestar/dalbiccbada-fiestar-ver"
+duration = "3:27"
