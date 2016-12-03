@@ -1,0 +1,10 @@
+names = [
+  { name = "DREAM (Feat. 박지민 of 15&)", locale = "ko", original = true },
+  { name = "DREAM (Feat. Park Ji Min of 15&)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=QNmARyPaq1I", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=CcjrSn8bo1A", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=nVqsbZYWltU", name = "Music Video" },
+]
