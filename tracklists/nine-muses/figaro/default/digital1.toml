@@ -1,0 +1,13 @@
+medium-ids = [
+  "nine-muses/figaro/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/figaro"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "nine-muses/figaro-inst"
+duration = "3:18"
