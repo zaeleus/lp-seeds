@@ -1,0 +1,13 @@
+medium-ids = [
+  "stellar/rocket-girl/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stellar/rocket-girl-feat-eric"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "stellar/rocket-girl-inst"
+duration = "3:44"
