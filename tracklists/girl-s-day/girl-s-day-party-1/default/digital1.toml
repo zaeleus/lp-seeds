@@ -1,0 +1,28 @@
+medium-ids = [
+  "girl-s-day/girl-s-day-party-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girl-s-day/gyauttung"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "girl-s-day/shuppy-shuppy"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "girl-s-day/control"
+duration = "3:27"
+
+[[tracks]]
+position = 4
+song-id = "girl-s-day/gyauttung-inst"
+duration = "3:08"
+
+[[tracks]]
+position = 5
+song-id = "girl-s-day/shuppy-shuppy-inst"
+duration = "3:18"
