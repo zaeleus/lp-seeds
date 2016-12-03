@@ -1,0 +1,13 @@
+medium-ids = [
+  "girl-s-day/girl-s-day-party-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girl-s-day/banjjak-banjjak"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "girl-s-day/banjjak-banjjak-inst"
+duration = "3:04"
