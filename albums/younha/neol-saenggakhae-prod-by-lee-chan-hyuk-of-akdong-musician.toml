@@ -1,0 +1,16 @@
+artist-id = "younha"
+kind = "single"
+
+names = [
+  { name = "널 생각해 (Prod. by 이찬혁 of 악동뮤지션)", locale = "ko", original = true },
+  { name = "Neol Saenggakhae (Prod. by Lee Chan Hyuk of Akdong Musician)", locale = "ko-Latn", default = true },
+  { name = "Think About You (Prod. by Lee Chan Hyuk of Akdong Musician)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-11-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2650084" },
+]

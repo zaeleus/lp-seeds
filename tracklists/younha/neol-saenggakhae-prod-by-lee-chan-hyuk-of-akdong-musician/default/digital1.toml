@@ -1,0 +1,13 @@
+medium-ids = [
+  "younha/neol-saenggakhae-prod-by-lee-chan-hyuk-of-akdong-musician/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "younha/neol-saenggakhae-prod-by-lee-chan-hyuk-of-akdong-musician"
+duration = "4:04"
+
+[[tracks]]
+position = 2
+song-id = "younha/neol-saenggakhae-prod-by-lee-chan-hyuk-of-akdong-musician-inst"
+duration = "4:04"

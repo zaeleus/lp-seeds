@@ -1,0 +1,5 @@
+names = [
+  { name = "널 생각해 (Prod. by 이찬혁 of 악동뮤지션) (Inst.)", locale = "ko", original = true },
+  { name = "Neol Saenggakhae (Prod. by Lee Chan Hyuk of Akdong Musician) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Think About You (Prod. by Lee Chan Hyuk of Akdong Musician) (Inst.)", locale = "en" },
+]
