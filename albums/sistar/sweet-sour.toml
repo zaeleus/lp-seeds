@@ -1,0 +1,14 @@
+artist-id = "sistar"
+kind = "ep"
+
+names = [
+  { name = "SWEET & SOUR", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-08-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2277388" },
+]

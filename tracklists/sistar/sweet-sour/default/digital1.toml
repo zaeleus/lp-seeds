@@ -1,0 +1,33 @@
+medium-ids = [
+  "sistar/sweet-sour/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sistar/i-swear"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "sistar/hold-on-tight"
+duration = "3:55"
+
+[[tracks]]
+position = 3
+song-id = "sistar/touch-my-body-glen-check-remix"
+duration = "4:14"
+
+[[tracks]]
+position = 4
+song-id = "sistar/loving-u-house-rulez-remix"
+duration = "3:56"
+
+[[tracks]]
+position = 5
+song-id = "sistar/give-it-to-me-reno-remix"
+duration = "3:21"
+
+[[tracks]]
+position = 6
+song-id = "sistar/issda-eopseunikka-smells-remix"
+duration = "3:54"

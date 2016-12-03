@@ -1,0 +1,5 @@
+names = [
+  { name = "있다 없으니까 (Smells Remix)", locale = "ko", original = true },
+  { name = "Issda Eopseunikka (Smells Remix)", locale = "ko-Latn", default = true },
+  { name = "Gone Not Around Any Longer (Smells Remix)", locale = "en" },
+]
