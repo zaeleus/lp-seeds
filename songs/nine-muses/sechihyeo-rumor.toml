@@ -1,0 +1,5 @@
+names = [
+  { name = "세치혀 (Rumor)", locale = "ko", original = true },
+  { name = "Sechihyeo (Rumor)", locale = "ko-Latn", default = true },
+  { name = "Rumor", locale = "en" },
+]
