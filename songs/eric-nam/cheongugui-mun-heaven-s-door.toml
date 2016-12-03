@@ -1,0 +1,10 @@
+names = [
+  { name = "천국의 문 (Heaven's Door)", locale = "ko", original = true },
+  { name = "Cheongugui Mun (Heaven's Door)", locale = "ko-Latn", default = true },
+  { name = "Heaven's Door", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=yZf9H_paOsw", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=B_3GgvcE48Y", name = "Music Video" },
+]
