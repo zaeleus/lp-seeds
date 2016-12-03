@@ -1,0 +1,5 @@
+names = [
+  { name = "니까짓게 (How dare you) (Demicat Remix)", locale = "ko", original = true },
+  { name = "Nikkajisge (How dare you) (Demicat Remix)", locale = "ko-Latn", default = true },
+  { name = "How dare you (Demicat Remix)", locale = "en" },
+]
