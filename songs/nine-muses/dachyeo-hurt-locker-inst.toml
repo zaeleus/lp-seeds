@@ -1,0 +1,5 @@
+names = [
+  { name = "다쳐 (Hurt Locker) (Inst.)", locale = "ko", original = true },
+  { name = "Dachyeo (Hurt Locker) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Hurt Locker (Inst.)", locale = "en" },
+]
