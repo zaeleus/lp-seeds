@@ -1,0 +1,13 @@
+medium-ids = [
+  "anda/taxi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "anda/taxi"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "anda/taxi-inst"
+duration = "3:01"
