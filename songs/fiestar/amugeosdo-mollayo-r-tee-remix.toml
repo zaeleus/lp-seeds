@@ -1,0 +1,5 @@
+names = [
+  { name = "아무것도 몰라요 (R. Tee Remix)", locale = "ko", original = true },
+  { name = "Amugeosdo Mollayo (R. Tee Remix)", locale = "ko-Latn", default = true },
+  { name = "I Don't Know (R. Tee Remix)", locale = "en" },
+]

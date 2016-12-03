@@ -1,0 +1,24 @@
+medium-ids = [
+  "fiestar/curious/default/cd1",
+  "fiestar/curious/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fiestar/intro"
+duration = "0:58"
+
+[[tracks]]
+position = 2
+song-id = "fiestar/amugeosdo-mollayo"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "fiestar/meori-eokkae-mureup-bal"
+duration = "3:51"
+
+[[tracks]]
+position = 4
+song-id = "fiestar/amugeosdo-mollayo-r-tee-remix"
+duration = "3:28"

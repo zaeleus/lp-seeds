@@ -1,0 +1,5 @@
+names = [
+  { name = "머리 어깨 무릎 발", locale = "ko", original = true },
+  { name = "Meori Eokkae Mureup Bal", locale = "ko-Latn", default = true },
+  { name = "Heads, Shoulders, Knees, and Toes", locale = "en" },
+]
