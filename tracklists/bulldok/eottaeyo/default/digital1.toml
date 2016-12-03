@@ -1,23 +1,23 @@
 medium-ids = [
-  "bull-dok/eottaeyo/default/digital1",
+  "bulldok/eottaeyo/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song-id = "bull-dok/eottaeyo"
+song-id = "bulldok/eottaeyo"
 duration = "3:27"
 
 [[tracks]]
 position = 2
-song-id = "bull-dok/feel-your-luv"
+song-id = "bulldok/feel-your-luv"
 duration = "3:23"
 
 [[tracks]]
 position = 3
-song-id = "bull-dok/eottaeyo-inst"
+song-id = "bulldok/eottaeyo-inst"
 duration = "3:27"
 
 [[tracks]]
 position = 4
-song-id = "bull-dok/feel-your-luv-inst"
+song-id = "bulldok/feel-your-luv-inst"
 duration = "3:23"
