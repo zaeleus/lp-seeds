@@ -1,0 +1,5 @@
+names = [
+  { name = "여자 대통령 (MR)", locale = "ko", original = true },
+  { name = "Yeoja Daetongryeong (MR)", locale = "ko-Latn", default = true },
+  { name = "Female President (MR)", locale = "en" },
+]

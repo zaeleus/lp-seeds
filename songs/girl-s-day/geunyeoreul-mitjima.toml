@@ -1,0 +1,4 @@
+names = [
+  { name = "그녀를 믿지마", locale = "ko", original = true },
+  { name = "Geunyeoreul Mitjima", locale = "ko-Latn", default = true },
+]
