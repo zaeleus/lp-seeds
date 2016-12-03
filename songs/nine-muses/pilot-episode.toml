@@ -1,0 +1,3 @@
+names = [
+  { name = "PILOT EPISODE", locale = "ko", original = true, default = true },
+]
