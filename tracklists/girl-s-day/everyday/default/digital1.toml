@@ -1,0 +1,28 @@
+medium-ids = [
+  "girl-s-day/everyday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girl-s-day/young-love"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "girl-s-day/hanbeonman-anajwo"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "girl-s-day/banjjak-banjjak"
+duration = "3:04"
+
+[[tracks]]
+position = 4
+song-id = "girl-s-day/jalhaejwobwaya-nothing-lasts-up"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "girl-s-day/hanbeonman-anajwo-inst"
+duration = "3:14"

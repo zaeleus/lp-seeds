@@ -1,0 +1,5 @@
+names = [
+  { name = "한번만 안아줘 (Inst.)", locale = "ko", original = true },
+  { name = "Hanbeonman Anajwo (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Hug Me Once (Inst.)", locale = "en" },
+]
