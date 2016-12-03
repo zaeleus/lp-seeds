@@ -1,0 +1,13 @@
+medium-ids = [
+  "anda/waiting/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "anda/waiting-feat-double-k"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "anda/waiting-inst"
+duration = "3:11"

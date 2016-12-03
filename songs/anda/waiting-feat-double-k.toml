@@ -1,0 +1,9 @@
+names = [
+  { name = "Waiting (Feat. Double K)", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "anda"
+names = [
+  { name = "Andamiro", locale = "ko", original = true, default = true },
+]
