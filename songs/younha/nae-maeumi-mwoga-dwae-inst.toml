@@ -1,0 +1,5 @@
+names = [
+  { name = "내 마음이 뭐가 돼 (Inst.)", locale = "ko", original = true },
+  { name = "Nae Maeumi Mwoga Dwae (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Wasted (Inst.)", locale = "en" },
+]

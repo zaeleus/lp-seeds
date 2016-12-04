@@ -1,0 +1,12 @@
+names = [
+  { name = "내 마음이 뭐가 돼", locale = "ko", original = true },
+  { name = "Nae Maeumi Mwoga Dwae", locale = "ko-Latn", default = true },
+  { name = "Wasted", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=GzsLYavXKjo", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=aoDc9F_CGBs", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=B12Pmm_-z3M", name = "Teaser 3" },
+  { url = "https://www.youtube.com/watch?v=G33WiEktUo8", name = "Music Video" },
+]

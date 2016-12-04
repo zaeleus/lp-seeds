@@ -1,0 +1,16 @@
+artist-id = "younha"
+kind = "single"
+
+names = [
+  { name = "내 마음이 뭐가 돼", locale = "ko", original = true },
+  { name = "Nae Maeumi Mwoga Dwae", locale = "ko-Latn", default = true },
+  { name = "Wasted", locale = "en" },
+]
+
+[[releases]]
+released-on = "2014-10-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2284571" },
+]
