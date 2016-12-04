@@ -1,0 +1,24 @@
+names = [
+  { name = "꽃, 바람 그리고 너 (Hidden Track)", locale = "ko", original = true },
+  { name = "Kkot, Baram Geurigo Neo (Hidden Track)", locale = "ko-Latn", default = true },
+  { name = "Flower, Wind, and You (Hidden Track)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "dia/huihyeon"
+names = [
+  { name = "기희현", locale = "ko", original = true},
+  { name = "Ki Hui Hyeon", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "i-o-i/jeon-so-mi"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "i-o-i/kim-chung-ha"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "i-o-i/choi-yoo-jung"

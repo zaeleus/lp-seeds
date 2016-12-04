@@ -1,0 +1,30 @@
+names = [
+  { name = "꽃, 바람 그리고 너", locale = "ko", original = true },
+  { name = "Kkot, Baram Geurigo Neo", locale = "ko-Latn", default = true },
+  { name = "Flower, Wind, and You", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=MXuRnbg8Tvo", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=fWFsorflzd4", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=uu2u9mryCl8", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "dia/huihyeon"
+names = [
+  { name = "기희현", locale = "ko", original = true},
+  { name = "Ki Hui Hyeon", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "i-o-i/jeon-so-mi"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "i-o-i/kim-chung-ha"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "i-o-i/choi-yoo-jung"

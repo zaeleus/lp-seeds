@@ -1,0 +1,37 @@
+artist-id = "-virtual/huihyeon-x-somi-x-chungha-x-yoojung"
+kind = "single"
+
+names = [
+  { name = "꽃, 바람 그리고 너", locale = "ko", original = true },
+  { name = "Kkot, Baram Geurigo Neo", locale = "ko-Latn", default = true },
+  { name = "Flower, Wind, and You", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "dia/huihyeon"
+names = [
+  { name = "기희현", locale = "ko", original = true},
+  { name = "Ki Hui Hyeon", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "i-o-i/jeon-so-mi"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "i-o-i/kim-chung-ha"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "i-o-i/choi-yoo-jung"
+
+[[releases]]
+released-on = "2016-08-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1148526084" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2706705" },
+  { url = "http://www.mnet.com/album/571968" },
+]

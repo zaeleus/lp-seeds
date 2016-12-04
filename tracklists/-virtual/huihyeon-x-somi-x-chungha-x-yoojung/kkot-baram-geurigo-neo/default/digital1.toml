@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/huihyeon-x-somi-x-chungha-x-yoojung/kkot-baram-geurigo-neo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/huihyeon-x-somi-x-chungha-x-yoojung/kkot-baram-geurigo-neo"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/huihyeon-x-somi-x-chungha-x-yoojung/kkot-baram-geurigo-neo-hidden-track"
+duration = "3:21"
