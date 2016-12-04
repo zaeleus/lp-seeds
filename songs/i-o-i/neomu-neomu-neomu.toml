@@ -3,3 +3,8 @@ names = [
   { name = "Neomu Neomu Neomu", locale = "ko-Latn", default = true },
   { name = "Very Very Very", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=lPC5ViKH9tI", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=l1hxg1rY17I", name = "Music Video" },
+]
