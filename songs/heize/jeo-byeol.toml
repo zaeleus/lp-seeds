@@ -1,0 +1,10 @@
+names = [
+  { name = "저 별", locale = "ko", original = true },
+  { name = "Jeo Byeol", locale = "ko-Latn", default = true },
+  { name = "Star", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=A1DuR86h2v0", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=XUR8QByF2As", name = "Music Video" },
+]
