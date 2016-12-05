@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1997-08-31"
+country = "KR"
+
+names = [
+  { name = "은진", locale = "ko", kind = "stage", original = true },
+  { name = "Eunjin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "안은진", locale = "ko", kind = "real" },
+  { name = "Ahn Eun Jin", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "A"
+height = 170
+weight = 49

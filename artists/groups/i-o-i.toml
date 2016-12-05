@@ -14,16 +14,39 @@ urls = [
   { url = "https://www.facebook.com/ioi.official.page/" },
 ]
 
-members = [
-  { artist-id = "i-o-i/choi-yoo-jung" },
-  { artist-id = "i-o-i/jeon-so-mi" },
-  { artist-id = "i-o-i/jung-chae-yeon" },
-  { artist-id = "i-o-i/kang-mi-na" },
-  { artist-id = "i-o-i/kim-chung-ha" },
-  { artist-id = "i-o-i/kim-do-yeon" },
-  { artist-id = "i-o-i/kim-se-jeong" },
-  { artist-id = "i-o-i/kim-so-hye" },
-  { artist-id = "i-o-i/lim-na-young" },
-  { artist-id = "i-o-i/yu-yeun-jung" },
-  { artist-id = "i-o-i/zhou-jieqiong" },
+[[members]]
+artist-id = "i-o-i/choi-yoo-jung"
+
+[[members]]
+artist-id = "i-o-i/jeon-so-mi"
+
+[[members]]
+artist-id = "dia/chaeyeon"
+names = [
+  { name = "정채영", locale = "ko", original = true },
+  { name = "Jung Chae Yeon", locale = "ko-Latn", default = true },
 ]
+
+[[members]]
+artist-id = "i-o-i/kang-mi-na"
+
+[[members]]
+artist-id = "i-o-i/kim-chung-ha"
+
+[[members]]
+artist-id = "i-o-i/kim-do-yeon"
+
+[[members]]
+artist-id = "i-o-i/kim-se-jeong"
+
+[[members]]
+artist-id = "i-o-i/kim-so-hye"
+
+[[members]]
+artist-id = "i-o-i/lim-na-young"
+
+[[members]]
+artist-id = "i-o-i/yu-yeun-jung"
+
+[[members]]
+artist-id = "i-o-i/zhou-jieqiong"

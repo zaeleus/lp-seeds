@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1991-09-02"
+country = "KR"
+
+names = [
+  { name = "유니스", locale = "ko", kind = "stage", original = true },
+  { name = "Eunice", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "허수연", locale = "ko", kind = "real" },
+  { name = "Heo Soo Yoon", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "A"
+height = 166
+weight = 49

@@ -7,6 +7,16 @@ names = [
   { name = "DIA", locale = "ko-Latn", default = true },
 ]
 
+members = [
+  { artist-id = "dia/chaeyeon" },
+  { artist-id = "dia/eunchae" },
+  { artist-id = "dia/eunice" },
+  { artist-id = "dia/eunjin" },
+  { artist-id = "dia/huihyeon" },
+  { artist-id = "dia/jenny" },
+  { artist-id = "dia/yebin" },
+]
+
 urls = [
   { url = "http://cafe.daum.net/officialdia/" },
   { url = "https://www.facebook.com/mbk.dia/" },

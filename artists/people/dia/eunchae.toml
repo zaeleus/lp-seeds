@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1999-05-26"
+country = "KR"
+
+names = [
+  { name = "은채", locale = "ko", kind = "stage", original = true },
+  { name = "Eunchae", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "권채원", locale = "ko", kind = "real" },
+  { name = "Kwon Chae Won", locale = "ko-Latn", kind = "real" },
+]

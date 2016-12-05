@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1996-09-14"
+country = "KR"
+
+names = [
+  { name = "제니", locale = "ko", kind = "stage", original = true },
+  { name = "Jenny", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이소율", locale = "ko", kind = "real" },
+  { name = "Lee So Yul", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "A"
+height = 165
+weight = 47
