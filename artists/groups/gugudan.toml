@@ -6,3 +6,8 @@ names = [
   { name = "구구단", locale = "ko", original = true },
   { name = "gugudan", locale = "ko-Latn", default = true },
 ]
+
+members = [
+  { artist-id = "gugudan/nayoung" },
+  { artist-id = "gugudan/sejeong" },
+]

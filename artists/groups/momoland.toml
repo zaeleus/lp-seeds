@@ -6,3 +6,7 @@ names = [
   { name = "모모랜드", locale = "ko", original = true },
   { name = "MOMOLAND", locale = "ko-Latn", default = true },
 ]
+
+members = [
+  { artist-id = "momoland/nancy" },
+]

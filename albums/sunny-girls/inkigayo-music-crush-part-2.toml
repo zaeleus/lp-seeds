@@ -1,0 +1,15 @@
+artist-id = "sunny-girls"
+kind = "single"
+
+names = [
+  { name = "인기가요 뮤직크러쉬 Part 2", locale = "ko", original = true },
+  { name = "Inkigayo Music Crush Part 2", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2016-11-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10018652" },
+]

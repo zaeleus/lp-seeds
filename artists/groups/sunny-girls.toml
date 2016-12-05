@@ -1,0 +1,16 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "써니걸스", locale = "ko", original = true },
+  { name = "Sunny Girls", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { artist-id = "gfriend/eunha" },
+  { artist-id = "oh-my-girl/yoo-a" },
+  { artist-id = "cosmic-girls/cheng-xiao" },
+  { artist-id = "gugudan/nayoung" },
+  { artist-id = "momoland/nancy" },
+]

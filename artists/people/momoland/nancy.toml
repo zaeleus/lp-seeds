@@ -1,0 +1,16 @@
+kind = "person"
+started-on = "2000-04-13"
+country = "KR"
+
+names = [
+  { name = "낸시", locale = "ko", kind = "stage", original = true },
+  { name = "Nancy", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이승리", locale = "ko", kind = "real" },
+  { name = "Lee Seung Ri", locale = "ko-Latn", kind = "real" },
+  { name = "Nancy Jewel McDonie", locale = "en", kind = "real" },
+]
+
+[metadata]
+blood-type = "O"
+height = 162
+weight = 46
