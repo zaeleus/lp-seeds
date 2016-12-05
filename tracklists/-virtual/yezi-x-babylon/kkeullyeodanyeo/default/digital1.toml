@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/yezi-x-babylon/kkeullyeodanyeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/yezi-x-babylon/kkeullyeodanyeo"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/yezi-x-babylon/kkeullyeodanyeo-inst"
+duration = "3:25"

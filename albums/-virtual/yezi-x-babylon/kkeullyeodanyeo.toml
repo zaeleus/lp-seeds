@@ -1,0 +1,21 @@
+artist-id = "-virtual/yezi-x-babylon"
+kind = "single"
+
+names = [
+  { name = "끌려다녀", locale = "ko", original = true },
+  { name = "Kkeullyeodanyeo", locale = "ko-Latn", default = true },
+  { name = "Chase", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "fiestar/yezi", separator = " X " },
+  { artist-id = "babylon" },
+]
+
+[[releases]]
+released-on = "2016-09-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2709963" },
+]

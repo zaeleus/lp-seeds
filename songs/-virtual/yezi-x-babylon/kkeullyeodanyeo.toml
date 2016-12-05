@@ -1,0 +1,10 @@
+names = [
+  { name = "끌려다녀", locale = "ko", original = true },
+  { name = "Kkeullyeodanyeo", locale = "ko-Latn", default = true },
+  { name = "Chase", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "fiestar/yezi", separator = " X " },
+  { artist-id = "babylon" },
+]
