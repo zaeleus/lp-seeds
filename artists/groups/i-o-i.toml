@@ -28,7 +28,11 @@ names = [
 ]
 
 [[members]]
-artist-id = "i-o-i/kang-mi-na"
+artist-id = "gugudan/mina"
+names = [
+  { name = "강미나", locale = "ko", original = true },
+  { name = "Kang Mi Na", locale = "ko-Latn", default = true },
+]
 
 [[members]]
 artist-id = "i-o-i/kim-chung-ha"

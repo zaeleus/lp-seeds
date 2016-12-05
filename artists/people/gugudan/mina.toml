@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1999-12-04"
+country = "KR"
+
+names = [
+  { name = "미나", locale = "ko", kind = "stage", original = true },
+  { name = "Mina", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "강미나", locale = "ko", kind = "real" },
+  { name = "Kang Mi Na", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "O"
+height = 162
+weight = 48

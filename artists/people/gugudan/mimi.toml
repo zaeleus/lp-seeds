@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1993-01-01"
+country = "KR"
+
+names = [
+  { name = "미미", locale = "ko", kind = "stage", original = true },
+  { name = "Mimi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정미미", locale = "ko", kind = "real" },
+  { name = "Jung Mi Mi", locale = "ko-Latn", kind = "real" },
+]

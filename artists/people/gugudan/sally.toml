@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1996-10-23"
+country = "KR"
+
+names = [
+  { name = "샐리", locale = "ko", kind = "stage", original = true },
+  { name = "Sally", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "류셰닝", locale = "ko", kind = "real" },
+  { name = "Ryu Sye Ning", locale = "ko-Latn", kind = "real" },
+]

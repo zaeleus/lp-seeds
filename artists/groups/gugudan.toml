@@ -8,6 +8,13 @@ names = [
 ]
 
 members = [
+  { artist-id = "gugudan/haebin" },
+  { artist-id = "gugudan/hana" },
+  { artist-id = "gugudan/hyeyeon" },
+  { artist-id = "gugudan/mimi" },
+  { artist-id = "gugudan/mina" },
   { artist-id = "gugudan/nayoung" },
+  { artist-id = "gugudan/sally" },
   { artist-id = "gugudan/sejeong" },
+  { artist-id = "gugudan/soyee" },
 ]

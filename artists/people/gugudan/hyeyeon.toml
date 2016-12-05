@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "2000-08-05"
+country = "KR"
+
+names = [
+  { name = "혜연", locale = "ko", kind = "stage", original = true },
+  { name = "Hyeyeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조혜연", locale = "ko", kind = "real" },
+  { name = "Cho Hye Yeon", locale = "ko-Latn", kind = "real" },
+]

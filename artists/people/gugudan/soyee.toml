@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1996-11-21"
+country = "KR"
+
+names = [
+  { name = "소이", locale = "ko", kind = "stage", original = true },
+  { name = "Soyee", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "장소진", locale = "ko", kind = "real" },
+  { name = "Jang So Jin", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = ""
+height = 
+weight = 

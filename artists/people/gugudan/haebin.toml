@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1995-08-16"
+country = "KR"
+
+names = [
+  { name = "해빈", locale = "ko", kind = "stage", original = true },
+  { name = "Haebin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "한해빈", locale = "ko", kind = "real" },
+  { name = "Han Hae Bin", locale = "ko-Latn", kind = "real" },
+]
