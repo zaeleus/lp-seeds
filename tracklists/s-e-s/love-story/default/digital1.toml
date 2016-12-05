@@ -1,0 +1,13 @@
+medium-ids = [
+  "s-e-s/love-story/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "s-e-s/love-story"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "s-e-s/love-story-inst"
+duration = "3:55"
