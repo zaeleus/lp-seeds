@@ -54,7 +54,11 @@ artist-id = "i-o-i/kim-so-hye"
 artist-id = "i-o-i/lim-na-young"
 
 [[members]]
-artist-id = "i-o-i/yu-yeun-jung"
+artist-id = "cosmic-girls/yeon-jung"
+names = [
+  { name = "유연정", locale = "ko", original = true },
+  { name = "Yu Yeun Jung", locale = "ko-Latn", default = true },
+]
 
 [[members]]
 artist-id = "i-o-i/zhou-jieqiong"
