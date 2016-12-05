@@ -21,6 +21,7 @@ artist-id = "i-o-i/choi-yoo-jung"
 artist-id = "i-o-i/jeon-so-mi"
 
 [[members]]
+[[members.artist-credits]]
 artist-id = "dia/chaeyeon"
 names = [
   { name = "정채영", locale = "ko", original = true },
@@ -28,6 +29,7 @@ names = [
 ]
 
 [[members]]
+[[members.artist-credits]]
 artist-id = "gugudan/mina"
 names = [
   { name = "강미나", locale = "ko", original = true },
@@ -41,6 +43,7 @@ artist-id = "i-o-i/kim-chung-ha"
 artist-id = "i-o-i/kim-do-yeon"
 
 [[members]]
+[[members.artist-credits]]
 artist-id = "gugudan/sejeong"
 names = [
   { name = "김세정", locale = "ko", original = true },
@@ -54,6 +57,7 @@ artist-id = "i-o-i/kim-so-hye"
 artist-id = "i-o-i/lim-na-young"
 
 [[members]]
+[[members.artist-credits]]
 artist-id = "cosmic-girls/yeon-jung"
 names = [
   { name = "유연정", locale = "ko", original = true },
