@@ -37,7 +37,11 @@ artist-id = "i-o-i/kim-chung-ha"
 artist-id = "i-o-i/kim-do-yeon"
 
 [[members]]
-artist-id = "i-o-i/kim-se-jeong"
+artist-id = "gugudan/sejeong"
+names = [
+  { name = "김세정", locale = "ko", original = true },
+  { name = "Kim Se Jeong", locale = "ko-Latn", default = true },
+]
 
 [[members]]
 artist-id = "i-o-i/kim-so-hye"
