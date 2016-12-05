@@ -1,0 +1,16 @@
+artist-id = "spica"
+kind = "single"
+
+names = [
+  { name = "고스트 (Ghost)", locale = "ko", original = true },
+  { name = "Ghost", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2014-11-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2288488" },
+  { url = "http://www.mnet.com/album/380246" },
+]

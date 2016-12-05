@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1989-03-31"
+country = "KR"
+
+names = [
+  { name = "김보형", locale = "ko", kind = "real", original = true },
+  { name = "Kim Bo Hyung", locale = "ko-Latn", kind = "real", default = true },
+]
+
+[metadata]
+height = 167
+weight = 51

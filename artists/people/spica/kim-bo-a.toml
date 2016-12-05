@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1987-01-14"
+country = "KR"
+
+names = [
+  { name = "김보아", locale = "ko", kind = "real", original = true },
+  { name = "Kim Bo A", locale = "ko-Latn", kind = "real", default = true },
+]
+
+[metadata]
+height = 171
+weight = 50

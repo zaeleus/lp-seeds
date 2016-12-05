@@ -1,0 +1,13 @@
+medium-ids = [
+  "spica/ghost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "spica/ghost"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "spica/ghost-inst"
+duration = "3:24"

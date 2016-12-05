@@ -1,0 +1,16 @@
+kind = "group"
+started-on = "2012"
+country = "KR"
+
+names = [
+  { name = "스피카", locale = "ko", original = true },
+  { name = "SPICA", locale = "en", default = true },
+]
+
+members = [
+  { artist-id = "spica/kim-bo-a" },
+  { artist-id = "spica/yang-ji-won" },
+  { artist-id = "spica/park-si-hyun" },
+  { artist-id = "spica/park-na-rae" },
+  { artist-id = "spica/kim-bo-hyung" },
+]

@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1986-11-29"
+country = "KR"
+
+names = [
+  { name = "박시현", locale = "ko", kind = "real", original = true },
+  { name = "Park Si Hyun", locale = "ko-Latn", kind = "real", default = true },
+]
+
+[metadata]
+height = 168
+weight = 50

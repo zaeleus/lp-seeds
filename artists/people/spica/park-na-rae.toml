@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1988-02-23"
+country = "KR"
+
+names = [
+  { name = "박나래", locale = "ko", kind = "real", original = true },
+  { name = "Park Na Rae", locale = "ko-Latn", kind = "real", default = true },
+]
+
+[metadata]
+height = 165
+weight = 48
