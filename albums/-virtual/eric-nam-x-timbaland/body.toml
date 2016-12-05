@@ -16,4 +16,5 @@ country = "KR"
 media = [{ kind = "digital" }]
 urls = [
   { url = "http://www.melon.com/album/detail.htm?albumId=10020559" },
+  { url = "https://play.spotify.com/album/5lDFCTdpPFqJTj6uldBRIA" },
 ]
