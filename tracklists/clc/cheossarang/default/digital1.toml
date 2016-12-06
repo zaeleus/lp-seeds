@@ -1,0 +1,28 @@
+medium-ids = [
+  "clc/cheossarang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "clc/cafe-mocha-juseyo"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "clc/pepe"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "clc/sharala"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "clc/cheossarang"
+duration = "3:41"
+
+[[tracks]]
+position = 5
+song-id = "clc/changmuneul-yeolgo"
+duration = "3:34"
