@@ -1,0 +1,17 @@
+artist-id = "4minute"
+kind = "single"
+
+names = [
+  { name = "물 좋아?", locale = "ko", original = true },
+  { name = "Mul Joha?", locale = "ko-Latn", default = true },
+  { name = "Is It Poppin'?", locale = "en" },
+]
+
+[[releases]]
+released-on = "2013-06-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2190338" },
+  { url = "http://www.mnet.com/album/296023" },
+]

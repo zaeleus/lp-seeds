@@ -1,0 +1,8 @@
+medium-ids = [
+  "4minute/mul-joha/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "4minute/mul-joha"
+duration = "3:10"

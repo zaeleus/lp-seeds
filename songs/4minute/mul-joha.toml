@@ -1,0 +1,9 @@
+names = [
+  { name = "물 좋아?", locale = "ko", original = true },
+  { name = "Mul Joha?", locale = "ko_Latn", default = true },
+  { name = "Is It Poppin'?", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=DRSRpXPZVdM", name = "Music Video" },
+]
