@@ -1,0 +1,16 @@
+artist-id = "suran"
+kind = "single"
+
+names = [
+  { name = "겨울새", locale = "ko", original = true },
+  { name = "Gyeoulsae", locale = "ko-Latn", default = true },
+  { name = "Winter Bird", locale = "en" },
+]
+
+[[releases]]
+released-on = "2016-12-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10021026" },
+]

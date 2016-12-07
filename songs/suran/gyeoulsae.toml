@@ -1,0 +1,5 @@
+names = [
+  { name = "겨울새", locale = "ko", original = true },
+  { name = "Gyeoulsae", locale = "ko-Latn", default = true },
+  { name = "Winter Bird", locale = "en" },
+]
