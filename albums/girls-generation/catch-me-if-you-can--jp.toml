@@ -1,0 +1,15 @@
+artist-id = "girls-generation"
+kind = "single"
+
+names = [
+  { name = "Catch Me If You Can", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2015-04-22"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2315191" },
+  { url = "http://mora.jp/package/43000006/00600406588920/" },
+]

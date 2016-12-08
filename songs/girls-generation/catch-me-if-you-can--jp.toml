@@ -1,0 +1,7 @@
+names = [
+  { name = "Catch Me If You Can", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=sSCmafwLKE4", name = "Music Video" },
+]

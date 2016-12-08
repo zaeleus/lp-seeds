@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-generation/catch-me-if-you-can--jp/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/catch-me-if-you-can--jp"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/girls--jp"
+duration = "3:57"
