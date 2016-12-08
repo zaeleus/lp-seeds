@@ -1,0 +1,9 @@
+names = [
+  { name = "사랑은 미친짓 (Feat. 칸토 of 트로이)", locale = "ko", original = true },
+  { name = "Sarangeun Michinjit (Feat. Kanto of TROY)", locale = "ko-Latn", default = true },
+  { name = "Love is Madness (Feat. Kanto of TROY)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=TFyHUw4ART0", name = "Music Video" },
+]
