@@ -1,0 +1,14 @@
+artist-id = "15and"
+kind = "single"
+
+names = [
+  { name = "I Dream", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2012-10-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2151246" },
+]
