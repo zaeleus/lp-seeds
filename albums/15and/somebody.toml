@@ -1,0 +1,14 @@
+artist-id = "15and"
+kind = "single"
+
+names = [
+  { name = "Somebody", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-04-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2180696" },
+]
