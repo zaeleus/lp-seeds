@@ -1,0 +1,9 @@
+medium-ids = [
+  "miss-a/jia/drip/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miss-a/jia/drip"
+duration = "2:38"
+

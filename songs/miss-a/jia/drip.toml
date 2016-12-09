@@ -1,0 +1,14 @@
+names = [
+  { name = "Drip", locale = "zh", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=5kZl5qWoS7A", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "miss-a/jia"
+names = [
+  { name = "孟佳", locale = "zh", original = true },
+  { name = "Meng Jia", locale = "zh-Latn", default = true },
+]

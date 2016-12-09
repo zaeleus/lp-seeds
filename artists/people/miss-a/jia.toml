@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1989-02-03"
+country = "KR" # TODO CN?
+
+names = [
+  { name = "지아", locale = "ko", kind = "stage", original = true },
+  { name = "Jia", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "孟佳", locale = "zh", kind = "real" },
+  { name = "Meng Jia", locale = "zh-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "http://weibo.com/missajia" },
+  { url = "https://www.instagram.com/mjbaby0203/" },
+]

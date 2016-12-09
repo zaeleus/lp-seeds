@@ -1,0 +1,24 @@
+artist-id = "miss-a/jia"
+kind = "single"
+
+names = [
+  { name = "Drip", locale = "zh", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "miss-a/jia"
+names = [
+  { name = "孟佳", locale = "zh", original = true },
+  { name = "Meng Jia", locale = "zh-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-11-15"
+country = "CN"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1179672828" },
+  { url = "https://play.google.com/music/m/Bztw3kjvkgmqa7mpc735jonhh5e" },
+  { url = "https://y.qq.com/portal/album/000MGpYy2m62Hy.html" },
+  { url = "https://open.spotify.com/album/6cdZ39IobwnC6M9FulVYP0" },
+]
