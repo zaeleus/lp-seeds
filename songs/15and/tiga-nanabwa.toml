@@ -1,0 +1,5 @@
+names = [
+  { name = "티가 나나봐", locale = "ko", original = true },
+  { name = "Tiga Nanabwa", locale = "ko-Latn", default = true },
+  { name = "Can't Hide It", locale = "en" },
+]
