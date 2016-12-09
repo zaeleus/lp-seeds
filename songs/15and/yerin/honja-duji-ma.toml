@@ -1,0 +1,5 @@
+names = [
+  { name = "혼자 두지 마", locale = "ko", original = true },
+  { name = "Honja Duji Ma", locale = "ko-Latn", default = true },
+  { name = "Don't Leave Me Alone", locale = "en" },
+]

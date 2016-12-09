@@ -1,0 +1,5 @@
+names = [
+  { name = "우주를 건너", locale = "ko", original = true },
+  { name = "Ujureul Geonneo", locale = "ko-Latn", default = true },
+  { name = "Across the Universe", locale = "en" },
+]
