@@ -6,3 +6,15 @@ names = [
   { name = "배드키즈", locale = "ko", original = true },
   { name = "BADKIZ", locale = "ko-Latn", default = true },
 ]
+
+members = [
+  { artist-id = "badkiz/k-me" },
+  { artist-id = "badkiz/duna" },
+  { artist-id = "badkiz/monika" },
+  { artist-id = "badkiz/somin" },
+  { artist-id = "badkiz/u-si" },
+]
+
+urls = [
+  { url = "https://www.instagram.com/badkiz_official_/" },
+]

@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1991-05-21"
+country = "KR"
+
+names = [
+  { name = "모니카", locale = "ko", kind = "stage", original = true },
+  { name = "Monika", locale = "ko-Latn", kind = "stage", default = true },
+]
