@@ -1,0 +1,3 @@
+names = [
+  { name = "All I Want For Christmas Is You", locale = "ko", original = true, default = true },
+]

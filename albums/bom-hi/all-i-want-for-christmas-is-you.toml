@@ -1,0 +1,14 @@
+artist-id = "bom-hi"
+kind = "single"
+
+names = [
+  { name = "All I Want For Christmas Is You", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-12-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2222343" },
+]

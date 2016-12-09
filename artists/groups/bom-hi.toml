@@ -1,0 +1,11 @@
+kind = "group"
+started-on = "2013"
+country = "KR"
+
+names = [
+  { name = "BOM&HI", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "http://www.ygfamily.com/artist/About.asp?LANGDIV=K&ATYPE=2&ARTIDX=54" },
+]
