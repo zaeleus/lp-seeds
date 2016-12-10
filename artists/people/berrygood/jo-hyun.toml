@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1996-04-14"
+country = "KR"
+
+names = [
+  { name = "조현", locale = "ko", kind = "stage", original = true },
+  { name = "Jo Hyun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "신지원", locale = "ko", kind = "real" },
+  { name = "Shin Ji Won", locale = "ko-Latn", kind = "real" },
+]

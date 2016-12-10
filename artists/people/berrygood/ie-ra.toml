@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1995-04-10"
+country = "KR"
+
+names = [
+  { name = "이라", locale = "ko", kind = "stage", original = true },
+  { name = "Ie Ra", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정이라", locale = "ko", kind = "real" },
+  { name = "Jung Ie Ra", locale = "ko-Latn", kind = "real" },
+]

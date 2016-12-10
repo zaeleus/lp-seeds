@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1998-12-13"
+country = "KR"
+
+names = [
+  { name = "세형", locale = "ko", kind = "stage", original = true },
+  { name = "Se Hyung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "강세형", locale = "ko", kind = "real" },
+  { name = "Kang Se Hyung", locale = "ko-Latn", kind = "real" },
+]

@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1995-10-05"
+country = "KR"
+
+names = [
+  { name = "태하", locale = "ko", kind = "stage", original = true },
+  { name = "Tae Ha", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "유태하", locale = "ko", kind = "real" },
+  { name = "Yoo Tae Ha", locale = "ko-Latn", kind = "real" },
+]

@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1997-11-26"
+country = "KR"
+
+names = [
+  { name = "서율", locale = "ko", kind = "stage", original = true },
+  { name = "Seo Yul", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "서유리", locale = "ko", kind = "real" },
+  { name = "Seo Yu Ri", locale = "ko-Latn", kind = "real" },
+]

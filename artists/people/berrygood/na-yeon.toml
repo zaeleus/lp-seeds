@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1996-05-15"
+country = "KR"
+
+names = [
+  { name = "나연", locale = "ko", kind = "stage", original = true },
+  { name = "Na Yeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김나연", locale = "ko", kind = "real" },
+  { name = "Kim Na Yeon", locale = "ko-Latn", kind = "real" },
+]

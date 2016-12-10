@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1998-02-25"
+country = "KR"
+
+names = [
+  { name = "다예", locale = "ko", kind = "stage", original = true },
+  { name = "Da Ye", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김현정", locale = "ko", kind = "real" },
+  { name = "Kim Hyeon Jeong", locale = "ko-Latn", kind = "real" },
+]

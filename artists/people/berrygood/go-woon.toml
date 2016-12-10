@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1998-12-28"
+country = "KR"
+
+names = [
+  { name = "고운", locale = "ko", kind = "stage", original = true },
+  { name = "Go Woon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "문유정", locale = "ko", kind = "real" },
+  { name = "Moon Yoo Jung", locale = "ko-Latn", kind = "real" },
+]

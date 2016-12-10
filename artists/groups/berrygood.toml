@@ -7,6 +7,18 @@ names = [
   { name = "BerryGood", locale = "ko-Latn", default = true },
 ]
 
+members = [
+  { artist-id = "berrygood/su-bin", ended-on = "2015-01" },
+  { artist-id = "berrygood/ie-ra", ended-on = "2015-01" },
+  { artist-id = "berrygood/na-yeon", ended-on = "2015-01" },
+  { artist-id = "berrygood/tae-ha" },
+  { artist-id = "berrygood/go-woon" },
+  { artist-id = "berrygood/seo-yul", started-on = "2015-02" },
+  { artist-id = "berrygood/da-ye", started-on = "2015-02" },
+  { artist-id = "berrygood/se-hyung", started-on = "2015-02" },
+  { artist-id = "berrygood/jo-hyun", started-on = "2016-11" },
+]
+
 urls = [
   { url = "http://cafe.daum.net/BerryGood" },
   { url = "https://www.facebook.com/Berrygoodofficial" },
