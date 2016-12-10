@@ -1,0 +1,13 @@
+medium-ids = [
+  "bestie/dugeun-dugeun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bestie/dugeun-dugeun-pitapat"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "bestie/dugeun-dugeun-pitapat-inst"
+duration = "3:13"

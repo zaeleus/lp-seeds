@@ -1,0 +1,5 @@
+names = [
+  { name = "두근두근 (Pitapat)", locale = "ko", original = true },
+  { name = "Dugeun Dugeun (Pitapat)", locale = "ko-Latn", default = true },
+  { name = "Pitapat", locale = "en" },
+]

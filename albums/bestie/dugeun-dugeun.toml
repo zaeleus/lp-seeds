@@ -1,0 +1,16 @@
+artist-id = "bestie"
+kind = "single"
+
+names = [
+  { name = "두근두근", locale = "ko", original = true },
+  { name = "Dugeun Dugeun", locale = "ko-Latn", default = true },
+  { name = "Pitapat", locale = "en" },
+]
+
+[[releases]]
+released-on = "2013-07-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2192011" },
+]
