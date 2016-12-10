@@ -5,6 +5,13 @@ names = [
   { name = "Love you on Christmas", locale = "ko", original = true, default = true },
 ]
 
+[[artist-credits]]
+artist-id = "15and/yerin"
+names = [
+  { name = "백예린", locale = "ko", original = true },
+  { name = "Yerin Baek", locale = "en", default = true },
+]
+
 [[releases]]
 released-on = "2016-12-07"
 country = "KR"

@@ -3,3 +3,10 @@ names = [
   { name = "Honja Duji Ma", locale = "ko-Latn", default = true },
   { name = "Don't Leave Me Alone", locale = "en" },
 ]
+
+[[artist-credits]]
+artist-id = "15and/yerin"
+names = [
+  { name = "백예린", locale = "ko", original = true },
+  { name = "Yerin Baek", locale = "en", default = true },
+]
