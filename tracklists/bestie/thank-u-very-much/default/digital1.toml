@@ -1,0 +1,13 @@
+medium-ids = [
+  "bestie/thank-u-very-much/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bestie/thank-u-very-much"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "bestie/thank-u-very-much-inst"
+duration = "3:12"
