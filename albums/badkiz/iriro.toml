@@ -1,0 +1,16 @@
+artist-id = "badkiz"
+kind = "single"
+
+names = [
+  { name = "이리로", locale = "ko", original = true },
+  { name = "Iriro", locale = "ko-Latn", default = true },
+  { name = "Come Closer", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-08-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2333609" },
+]
