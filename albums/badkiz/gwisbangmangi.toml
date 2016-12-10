@@ -1,0 +1,16 @@
+artist-id = "badkiz"
+kind = "single"
+
+names = [
+  { name = "귓방망이", locale = "ko", original = true },
+  { name = "Gwisbangmangi", locale = "ko-Latn", default = true },
+  { name = "Ear Attack", locale = "en" },
+]
+
+[[releases]]
+released-on = "2014-03-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2244337" },
+]
