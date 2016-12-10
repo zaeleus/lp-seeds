@@ -1,0 +1,16 @@
+artist-id = "bestie"
+kind = "single"
+
+names = [
+  { name = "연애의 조건", locale = "ko", original = true },
+  { name = "Yeonaeui Jogeon", locale = "ko-Latn", default = true },
+  { name = "Love Options", locale = "en" },
+]
+
+[[releases]]
+released-on = "2013-10-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2210766" },
+]
