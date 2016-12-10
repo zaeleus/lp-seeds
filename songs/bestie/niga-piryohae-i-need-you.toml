@@ -1,0 +1,5 @@
+names = [
+  { name = "니가 필요해 (I Need You) (Inst.)", locale = "ko", original = true },
+  { name = "Niga Piryohae (I Need You)", locale = "ko-Latn", default = true },
+  { name = "I Need You", locale = "en" },
+]

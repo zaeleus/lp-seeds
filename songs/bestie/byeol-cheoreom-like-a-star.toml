@@ -1,0 +1,5 @@
+names = [
+  { name = "별처럼 (Like A Star)", locale = "ko", original = true },
+  { name = "Byeol Cheoreom (Like A Star)", locale = "ko-Latn", default = true },
+  { name = "Like A Star", locale = "en" },
+]

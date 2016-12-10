@@ -1,0 +1,5 @@
+names = [
+  { name = "연애의 조건 (Love Options)", locale = "ko", original = true },
+  { name = "Yeonaeui Jogeon (Love Options)", locale = "ko-Latn", default = true },
+  { name = "Love Options", locale = "en" },
+]
