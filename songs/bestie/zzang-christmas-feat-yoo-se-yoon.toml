@@ -1,0 +1,4 @@
+names = [
+  { name = "짱 크리스마스 (Zzang Christmas) (Feat. 유세윤)", locale = "ko", original = true },
+  { name = "Zzang Christmas (Feat. Yoo Se Yoon)", locale = "en", default = true },
+]

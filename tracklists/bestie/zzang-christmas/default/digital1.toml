@@ -1,0 +1,13 @@
+medium-ids = [
+  "bestie/zzang-christmas/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bestie/zzang-christmas-feat-yoo-se-yoon"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "bestie/zzang-christmas-inst"
+duration = "3:22"
