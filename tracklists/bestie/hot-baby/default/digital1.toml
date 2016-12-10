@@ -1,0 +1,38 @@
+medium-ids = [
+  "bestie/hot-baby/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bestie/hot-baby"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "bestie/byeol-cheoreom-like-a-star"
+duration = "4:14"
+
+[[tracks]]
+position = 3
+song-id = "bestie/roller-girl"
+duration = "3:38"
+
+[[tracks]]
+position = 4
+song-id = "bestie/i-m-so-into-you"
+duration = "3:51"
+
+[[tracks]]
+position = 5
+song-id = "bestie/thank-u-very-much"
+duration = "3:12"
+
+[[tracks]]
+position = 6
+song-id = "bestie/yeonaeui-jogeon-love-options"
+duration = "3:12"
+
+[[tracks]]
+position = 7
+song-id = "bestie/dugeun-dugeun-pitapat-remix"
+duration = "3:04"

@@ -1,0 +1,14 @@
+artist-id = "bestie"
+kind = "ep"
+
+names = [
+  { name = "Hot Baby", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-07-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2269914" },
+]
