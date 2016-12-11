@@ -1,0 +1,5 @@
+names = [
+  { name = "화성인 바이러스 (Boys & Girls) (Feat. Key of SHINee)", locale = "ko", original = true },
+  { name = "Hwaseongin Baireoseu (Boys & Girls) (Feat. Key of SHINee)", locale = "ko-Latn", default = true },
+  { name = "Boys & Girls (Feat. Key of SHINee)", locale = "en" },
+]

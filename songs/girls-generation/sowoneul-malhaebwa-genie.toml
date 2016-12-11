@@ -1,0 +1,5 @@
+names = [
+  { name = "소원을 말해봐 (Genie)", locale = "ko", original = true },
+  { name = "Sowoneul Malhaebwa (Genie)", locale = "ko-Latn", default = true },
+  { name = "Tell Me Your Wish (Genie)", locale = "en" },
+]

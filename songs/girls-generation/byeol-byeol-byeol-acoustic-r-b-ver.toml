@@ -1,0 +1,5 @@
+names = [
+  { name = "별별별 (☆★☆) (Acoustic R&B Ver.)", locale = "ko", original = true },
+  { name = "Byeol Byeol Byeol (☆★☆) (Acoustic R&B Ver.)", locale = "ko-Latn", default = true },
+  { name = "☆★☆ (Acoustic R&B Ver.)", locale = "en" },
+]

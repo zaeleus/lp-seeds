@@ -1,0 +1,5 @@
+names = [
+  { name = "영원히 너와 꿈꾸고 싶다 (Forever)", locale = "ko", original = true },
+  { name = "Yeongwonhi Neowa Kkumkkugo Sipda (Forever)", locale = "ko-Latn", default = true },
+  { name = "Forever", locale = "en" },
+]

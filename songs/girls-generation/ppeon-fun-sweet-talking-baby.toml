@@ -1,0 +1,5 @@
+names = [
+  { name = "뻔&Fun (Sweet Talking Baby)", locale = "ko", original = true },
+  { name = "Ppeon & Fun (Sweet Talking Baby)", locale = "ko-Latn", default = true },
+  { name = "Sweet Talking Baby", locale = "en" },
+]

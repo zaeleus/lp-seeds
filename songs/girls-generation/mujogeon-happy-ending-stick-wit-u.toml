@@ -1,0 +1,5 @@
+names = [
+  { name = "무조건 해피엔딩 (Stick Wit U)", locale = "ko", original = true },
+  { name = "Mujogeon Happy Ending (Stick Wit U)", locale = "ko-Latn", default = true },
+  { name = "Stick Wit U", locale = "en" },
+]
