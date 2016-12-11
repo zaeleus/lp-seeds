@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1996-03-27"
+country = "KR"
+
+names = [
+  { name = "Lisa", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "ลลิสา มโนบาล", locale = "th", kind = "real" },
+  { name = "Lalisa Manoban", locale = "th-Latn", kind = "real" },
+]

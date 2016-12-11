@@ -6,3 +6,10 @@ names = [
   { name = "블랙핑크", locale = "ko", original = true },
   { name = "BLACKPINK", locale = "ko-Latn", default = true },
 ]
+
+members = [
+  { artist-id = "blackpink/jennie" },
+  { artist-id = "blackpink/jisoo" },
+  { artist-id = "blackpink/lisa" },
+  { artist-id = "blackpink/rose" },
+]

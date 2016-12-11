@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1995-01-03"
+country = "KR"
+
+names = [
+  { name = "지수", locale = "ko", kind = "stage", original = true },
+  { name = "Jisoo", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김지수", locale = "ko", kind = "real" },
+  { name = "Kim Jisoo", locale = "ko-Latn", kind = "real" },
+]

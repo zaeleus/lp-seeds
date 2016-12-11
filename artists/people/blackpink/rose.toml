@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1997-02-11"
+country = "KR"
+
+names = [
+  { name = "Rosé", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "박채영", locale = "ko", kind = "real" },
+  { name = "Park Chae Young", locale = "ko-Latn", kind = "real" },
+  { name = "Roseanne Park", locale = "en", kind = "real" },
+]
