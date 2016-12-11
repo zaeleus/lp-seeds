@@ -1,0 +1,5 @@
+names = [
+  { name = "뱉어내 (Spit It Out)", locale = "ko", original = true },
+  { name = "Baeteonae (Spit It Out)", locale = "ko-Latn", default = true },
+  { name = "Spit It Out", locale = "en" },
+]

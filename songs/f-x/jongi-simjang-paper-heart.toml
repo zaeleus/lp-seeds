@@ -1,0 +1,5 @@
+names = [
+  { name = "종이 심장 (Paper Heart)", locale = "ko", original = true },
+  { name = "Jongi Simjang (Paper Heart)", locale = "ko-Latn", default = true },
+  { name = "Paper Heart", locale = "en" },
+]

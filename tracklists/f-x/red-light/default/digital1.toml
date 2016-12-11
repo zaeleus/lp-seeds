@@ -1,0 +1,58 @@
+medium-ids = [
+  "f-x/red-light/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/red-light"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "f-x/milk"
+duration = "3:35"
+
+[[tracks]]
+position = 3
+song-id = "f-x/nabi-butterfly"
+duration = "2:57"
+
+[[tracks]]
+position = 4
+song-id = "f-x/mujigae-rainbow"
+duration = "2:46"
+
+[[tracks]]
+position = 5
+song-id = "f-x/all-night"
+duration = "3:30"
+
+[[tracks]]
+position = 6
+song-id = "f-x/vacance"
+duration = "3:14"
+
+[[tracks]]
+position = 7
+song-id = "f-x/baeteonae-spit-it-out"
+duration = "3:01"
+
+[[tracks]]
+position = 8
+song-id = "f-x/boom-bang-boom"
+duration = "2:53"
+
+[[tracks]]
+position = 9
+song-id = "f-x/dracula"
+duration = "3:14"
+
+[[tracks]]
+position = 10
+song-id = "f-x/summer-lover"
+duration = "2:53"
+
+[[tracks]]
+position = 11
+song-id = "f-x/jongi-simjang-paper-heart"
+duration = "3:24"

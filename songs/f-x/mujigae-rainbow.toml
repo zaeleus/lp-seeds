@@ -1,0 +1,5 @@
+names = [
+  { name = "무지개 (Rainbow)", locale = "ko", original = true },
+  { name = "Mujigae (Rainbow)", locale = "ko-Latn", default = true },
+  { name = "Rainbow", locale = "en" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "바캉스 (Vacance)", locale = "ko", original = true },
+  { name = "Vacance", locale = "en", default = true },
+]
