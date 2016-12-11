@@ -1,0 +1,14 @@
+artist-id = "girls-generation"
+kind = "lp"
+
+names = [
+  { name = "Oh!", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2010-01-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=779656" },
+]

@@ -1,5 +1,0 @@
-names = [
-  { name = "Day By Day (좋은일만 생각하기)", locale = "ko", original = true },
-  { name = "Day By Day (Joheunilman Saenggakhagi)", locale = "ko-Latn", default = true },
-  { name = "Day By Day", locale = "en" },
-]
