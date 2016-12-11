@@ -1,0 +1,16 @@
+artist-id = "f-x"
+kind = "single"
+
+names = [
+  { name = "12시 25분 (Wish List) - WINTER GARDEN", locale = "ko", original = true },
+  { name = "12si 25bun (Wish List) - WINTER GARDEN", locale = "ko-Latn", default = true },
+  { name = "12:25 (Wish List) - WINTER GARDEN", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-12-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2656708" },
+]

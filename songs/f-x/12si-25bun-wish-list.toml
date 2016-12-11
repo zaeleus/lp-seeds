@@ -1,0 +1,5 @@
+names = [
+  { name = "12시 25분 (Wish List)", locale = "ko", original = true },
+  { name = "12si 25bun (Wish List)", locale = "ko-Latn", default = true },
+  { name = "12:25 (Wish List)", locale = "en" },
+]
