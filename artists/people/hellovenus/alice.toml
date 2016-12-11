@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1990-03-21"
+country = "KR"
+
+names = [
+  { name = "앨리스", locale = "ko", kind = "stage", original = true },
+  { name = "Alice", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "송주희", locale = "ko", kind = "real" },
+  { name = "Song Joo Hee", locale = "ko-Latn", kind = "real" },
+]

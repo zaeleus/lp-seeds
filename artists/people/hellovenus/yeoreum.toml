@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1996-06-04"
+country = "KR"
+
+names = [
+  { name = "여름", locale = "ko", kind = "stage", original = true },
+  { name = "Yeoreum", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "안채영", locale = "ko", kind = "real" },
+  { name = "An Chae Yeon", locale = "ko-Latn", kind = "real" },
+]

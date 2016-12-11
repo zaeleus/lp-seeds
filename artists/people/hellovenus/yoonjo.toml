@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1992-12-14"
+country = "KR"
+
+names = [
+  { name = "윤조", locale = "ko", kind = "stage", original = true },
+  { name = "Yoonjo", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "신윤조", locale = "ko", kind = "real" },
+  { name = "Shin Yoon Jo", locale = "ko-Latn", kind = "real" },
+]

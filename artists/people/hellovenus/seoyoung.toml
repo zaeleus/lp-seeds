@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1994-06-27"
+country = "KR"
+
+names = [
+  { name = "서영", locale = "ko", kind = "stage", original = true },
+  { name = "Seoyoung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이서영", locale = "ko", kind = "real" },
+  { name = "Lee Seo Young", locale = "ko-Latn", kind = "real" },
+]

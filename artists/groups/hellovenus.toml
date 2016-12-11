@@ -1,8 +1,19 @@
 kind = "group"
-started-on = "2012"
+started-on = "2012-05"
 country = "KR"
 
 names = [
   { name = "헬로비너스", locale = "ko", original = true },
   { name = "HELLOVENUS", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { artist-id = "hellovenus/alice" },
+  { artist-id = "hellovenus/nara" },
+  { artist-id = "hellovenus/lime" },
+  { artist-id = "hellovenus/yoo-ara", ended-on = "2014-07" },
+  { artist-id = "hellovenus/yoonjo", ended-on = "2014-07" },
+  { artist-id = "hellovenus/yooyoung" },
+  { artist-id = "hellovenus/seoyoung", started-on = "2014-11" },
+  { artist-id = "hellovenus/yeoreum", started-on = "2014-11" },
 ]

@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1993-01-19"
+country = "KR"
+
+names = [
+  { name = "라임", locale = "ko", kind = "stage", original = true },
+  { name = "Lime", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김혜림", locale = "ko", kind = "real" },
+  { name = "Kim Hye Rim", locale = "ko-Latn", kind = "real" },
+]

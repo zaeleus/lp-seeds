@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1991-03-13"
+country = "KR"
+
+names = [
+  { name = "나라", locale = "ko", kind = "stage", original = true },
+  { name = "Nara", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "권나라", locale = "ko", kind = "real" },
+  { name = "Kwon Na Ra", locale = "ko-Latn", kind = "real" },
+]

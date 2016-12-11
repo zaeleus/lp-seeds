@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1995-01-23"
+country = "KR"
+
+names = [
+  { name = "유영", locale = "ko", kind = "stage", original = true },
+  { name = "Yooyoung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박정화", locale = "ko", kind = "real" },
+  { name = "Park Jung Hwa", locale = "ko-Latn", kind = "real" },
+]
