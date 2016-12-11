@@ -1,0 +1,18 @@
+medium-ids = [
+  "f-x/chu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/chu"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "f-x/step-by-me"
+duration = "4:31"
+
+[[tracks]]
+position = 3
+song-id = "f-x/you-are-my-destiny-f-luna-krystal"
+duration = "3:35"
