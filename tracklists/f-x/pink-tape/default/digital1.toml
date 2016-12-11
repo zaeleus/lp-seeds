@@ -1,0 +1,63 @@
+medium-ids = [
+  "f-x/pink-tape/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/cheot-sarangni-rum-pum-pum-pum"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "f-x/mihaeng-geurimja-shadow"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "f-x/pretty-girl"
+duration = "3:06"
+
+[[tracks]]
+position = 4
+song-id = "f-x/kick"
+duration = "3:38"
+
+[[tracks]]
+position = 5
+song-id = "f-x/signal"
+duration = "3:20"
+
+[[tracks]]
+position = 6
+song-id = "f-x/step"
+duration = "3:35"
+
+[[tracks]]
+position = 7
+song-id = "f-x/goodbye-summer-f-amber-luna-krystal-feat-d-o-of-exo-k"
+duration = "3:10"
+
+[[tracks]]
+position = 8
+song-id = "f-x/airplane"
+duration = "3:34"
+
+[[tracks]]
+position = 9
+song-id = "f-x/toy"
+duration = "3:11"
+
+[[tracks]]
+position = 10
+song-id = "f-x/yeou-gateun-nae-chingu-no-more"
+duration = "3:36"
+
+[[tracks]]
+position = 11
+song-id = "f-x/snapshot"
+duration = "2:50"
+
+[[tracks]]
+position = 12
+song-id = "f-x/ending-page"
+duration = "3:57"

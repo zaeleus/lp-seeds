@@ -1,0 +1,5 @@
+names = [
+  { name = "미행 (그림자: Shadow)", locale = "ko", original = true },
+  { name = "Mihaeng (Geurimja: Shadow)", locale = "ko-Latn", default = true },
+  { name = "Shadow", locale = "en" },
+]

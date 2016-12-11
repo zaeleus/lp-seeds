@@ -1,0 +1,5 @@
+names = [
+  { name = "첫 사랑니 (Rum Pum Pum Pum)", locale = "ko", original = true },
+  { name = "Cheot Sarangni (Rum Pum Pum Pum)", locale = "ko-Latn", default = true },
+  { name = "Rum Pum Pum Pum", locale = "en" },
+]

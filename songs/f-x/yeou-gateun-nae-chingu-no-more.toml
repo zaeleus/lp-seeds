@@ -1,0 +1,5 @@
+names = [
+  { name = "여우 같은 내 친구 (No More)", locale = "ko", original = true },
+  { name = "Yeou Gateun Nae Chingu (No More)", locale = "ko-Latn", default = true },
+  { name = "No More", locale = "en" },
+]
