@@ -1,0 +1,15 @@
+artist-id = "girls-generation"
+kind = "ep"
+
+names = [
+  { name = "훗 (Hoot)", locale = "ko", original = true },
+  { name = "Hoot", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2010-10-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1051951" },
+]

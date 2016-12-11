@@ -1,0 +1,5 @@
+names = [
+  { name = "첫눈에... (Snowy Wish)", locale = "ko", original = true },
+  { name = "Cheosnune... (Snowy Wish)", locale = "ko-Latn", default = true },
+  { name = "Snowy Wish", locale = "en" },
+]

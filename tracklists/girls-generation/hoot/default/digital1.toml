@@ -1,0 +1,28 @@
+medium-ids = [
+  "girls-generation/hoot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/hoot"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/nae-jalmosijyo-mistake"
+duration = "4:09"
+
+[[tracks]]
+position = 3
+song-id = "girls-generation/danjjak-my-best-friend"
+duration = "3:25"
+
+[[tracks]]
+position = 4
+song-id = "girls-generation/wake-up"
+duration = "3:15"
+
+[[tracks]]
+position = 5
+song-id = "girls-generation/cheosnune-snowy-wish"
+duration = "3:28"
