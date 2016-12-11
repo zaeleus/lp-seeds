@@ -1,0 +1,5 @@
+names = [
+  { name = "봄날 (How Great Is Your Love)", locale = "ko", original = true },
+  { name = "Bomnal (How Great Is Your Love)", locale = "ko-Latn", default = true },
+  { name = "How Great Is Your Love", locale = "en" },
+]

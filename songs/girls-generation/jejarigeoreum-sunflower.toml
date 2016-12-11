@@ -1,0 +1,5 @@
+names = [
+  { name = "제자리걸음 (Sunflower)", locale = "ko", original = true },
+  { name = "Jejarigeoreum (Sunflower)", locale = "ko-Latn", default = true },
+  { name = "Sunflower", locale = "en" },
+]

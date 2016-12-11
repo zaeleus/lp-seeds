@@ -1,0 +1,3 @@
+names = [
+  { name = "Lazy Girl (Dolce Far Niente)", locale = "ko", original = true, default = true },
+]
