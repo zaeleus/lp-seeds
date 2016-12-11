@@ -1,0 +1,5 @@
+names = [
+  { name = "말해봐 (Talk Talk)", locale = "ko", original = true },
+  { name = "Malhaebwa (Talk Talk)", locale = "ko-Latn", default = true },
+  { name = "Talk Talk", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "유리아이 (Lost In Love)", locale = "ko", original = true },
+  { name = "Yuriai (Lost In Love)", locale = "ko-Latn", default = true },
+  { name = "Lost In Love", locale = "en" },
+]
