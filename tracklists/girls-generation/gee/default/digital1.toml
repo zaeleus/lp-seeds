@@ -1,0 +1,28 @@
+medium-ids = [
+  "girls-generation/gee/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/gee"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/him-nae-way-to-go"
+duration = "3:04"
+
+[[tracks]]
+position = 3
+song-id = "girls-generation/dear-mom"
+duration = "4:06"
+
+[[tracks]]
+position = 4
+song-id = "girls-generation/destiny"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "girls-generation/himdeureohaneun-yeonindeureul-wihae-let-s-talk-about-love"
+duration = "4:12"

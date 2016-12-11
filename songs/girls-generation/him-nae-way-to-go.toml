@@ -1,0 +1,5 @@
+names = [
+  { name = "힘 내! (Way To Go)", locale = "ko", original = true },
+  { name = "Him Nae! (Way To Go)", locale = "ko-Latn", default = true },
+  { name = "Way To Go", locale = "en" },
+]

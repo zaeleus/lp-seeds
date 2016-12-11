@@ -1,0 +1,5 @@
+names = [
+  { name = "힘들어하는 연인들을 위해 (Let's Talk About Love)", locale = "ko", original = true },
+  { name = "Himdeureohaneun Yeonindeureul Wihae (Let's Talk About Love)", locale = "ko-Latn", default = true },
+  { name = "Let's Talk About Love", locale = "en" },
+]
