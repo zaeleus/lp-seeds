@@ -1,0 +1,4 @@
+names = [
+  { name = "Double Jack (Feat. 에디킴)", locale = "ko", original = true },
+  { name = "Double Jack (Feat. Eddy Kim)", locale = "ko-Latn", default = true },
+]
