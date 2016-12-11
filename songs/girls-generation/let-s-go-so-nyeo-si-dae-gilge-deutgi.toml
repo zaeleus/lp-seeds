@@ -1,0 +1,5 @@
+names = [
+  { name = "Let's Go 소녀시대!! (길게 듣기)", locale = "ko", original = true },
+  { name = "Let's Go So Nyeo Si Dae!! (Gilge Deutgi)", locale = "ko-Latn", default = true },
+  { name = "Let's Go Girls' Generation (Long Version)", locale = "en" },
+]

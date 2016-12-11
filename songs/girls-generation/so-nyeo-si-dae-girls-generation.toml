@@ -1,0 +1,5 @@
+names = [
+  { name = "소녀시대 (Girls' Generation)", locale = "ko", original = true },
+  { name = "So Nyeo Si Dae (Girls' Generation)", locale = "ko-Latn", default = true },
+  { name = "Girls' Generation", locale = "en" },
+]

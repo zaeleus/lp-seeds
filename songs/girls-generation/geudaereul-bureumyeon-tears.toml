@@ -1,0 +1,5 @@
+names = [
+  { name = "그대를 부르면 (Tears)", locale = "ko", original = true },
+  { name = "Geudaereul Bureumyeon (Tears)", locale = "ko-Latn", default = true },
+  { name = "Tears", locale = "en" },
+]

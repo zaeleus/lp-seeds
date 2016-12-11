@@ -1,0 +1,5 @@
+names = [
+  { name = "다시 만난 세계 (Into The New World)", locale = "ko", original = true },
+  { name = "Dasi Mannan Segye (Into The New World)", locale = "ko-Latn", default = true },
+  { name = "Into The New World", locale = "en" },
+]
