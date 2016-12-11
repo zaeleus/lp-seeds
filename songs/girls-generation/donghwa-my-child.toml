@@ -1,0 +1,5 @@
+names = [
+  { name = "동화 (My Child)", locale = "ko", original = true },
+  { name = "Donghwa (My Child)", locale = "ko-Latn", default = true },
+  { name = "My Child", locale = "en" },
+]

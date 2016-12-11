@@ -1,0 +1,5 @@
+names = [
+  { name = "1 년 後 (One Year Later) (제시카&온유)", locale = "ko", original = true },
+  { name = "1 Nyeon Hu (One Year Later) (Jessica & Onew)", locale = "ko-Latn", default = true },
+  { name = "One Year Later (Jessica & Onew)", locale = "en" },
+]

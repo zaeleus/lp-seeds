@@ -1,0 +1,16 @@
+artist-id = "girls-generation"
+kind = "ep"
+
+names = [
+  { name = "소원을 말해봐 (Genie)", locale = "ko", original = true },
+  { name = "Sowoneul Malhaebwa (Genie)", locale = "ko-Latn", default = true },
+  { name = "Tell Me Your Wish (Genie)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2009-06-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=590853" },
+]
