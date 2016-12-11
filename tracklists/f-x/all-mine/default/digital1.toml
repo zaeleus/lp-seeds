@@ -1,0 +1,13 @@
+medium-ids = [
+  "f-x/all-mine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/all-mine"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "f-x/all-mine-inst"
+duration = "3:23"
