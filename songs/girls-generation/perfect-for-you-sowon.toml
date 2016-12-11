@@ -1,0 +1,5 @@
+names = [
+  { name = "Perfect For You (소원)", locale = "ko", original = true },
+  { name = "Perfect For You (Sowon)", locale = "ko-Latn", default = true },
+  { name = "Perfect For You", locale = "en" },
+]

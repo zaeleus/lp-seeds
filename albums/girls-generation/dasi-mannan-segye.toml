@@ -1,0 +1,16 @@
+artist-id = "girls-generation"
+kind = "single"
+
+names = [
+  { name = "다시 만난 세계", locale = "ko", original = true },
+  { name = "Dasi Mannan Segye", locale = "ko-Latn", default = true },
+  { name = "Into The New World", locale = "en" },
+]
+
+[[releases]]
+released-on = "2007-08-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=355128" },
+]
