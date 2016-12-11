@@ -1,0 +1,14 @@
+artist-id = "girls-generation"
+kind = "ep"
+
+names = [
+  { name = "Mr.Mr.", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-02-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2235426" },
+]
