@@ -1,0 +1,16 @@
+artist-id = "girls-generation"
+kind = "lp"
+
+names = [
+  { name = "소녀시대", locale = "ko", original = true },
+  { name = "So Nyeo Si Dae", locale = "ko-Latn", default = true },
+  { name = "Girls' Generation", locale = "en" },
+]
+
+[[releases]]
+released-on = "2007-11-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=360075" },
+]
