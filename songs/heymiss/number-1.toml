@@ -1,0 +1,10 @@
+names = [
+  { name = "Number.1 (넘버원)", locale = "ko", original = true },
+  { name = "Number.1", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Miti593j0Xs", name = "Making Film" },
+  { url = "https://www.youtube.com/watch?v=g4aZDfy5vrY", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=E21Wm75547s", name = "Music Video" },
+]

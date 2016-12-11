@@ -1,0 +1,8 @@
+names = [
+  { name = "들이대", locale = "ko", original = true },
+  { name = "Deuridae", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Miti593j0Xs", name = "Teaser" },
+]
