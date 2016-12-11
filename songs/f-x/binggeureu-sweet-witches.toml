@@ -1,0 +1,5 @@
+names = [
+  { name = "빙그르 (Sweet Witches)", locale = "ko", original = true },
+  { name = "Binggeureu (Sweet Witches)", locale = "ko-Latn", default = true },
+  { name = "Sweet Witches", locale = "en" },
+]

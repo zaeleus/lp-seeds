@@ -1,0 +1,5 @@
+names = [
+  { name = "좋아해도 되나요 (...Is It OK?)", locale = "ko", original = true },
+  { name = "Johahaedo Doenayo (...Is It OK?)", locale = "ko-Latn", default = true },
+  { name = "...Is It OK?", locale = "en" },
+]

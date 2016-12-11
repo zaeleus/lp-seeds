@@ -1,0 +1,4 @@
+names = [
+  { name = "피노키오 (Danger)", locale = "ko", original = true },
+  { name = "Pinocchio (Danger)", locale = "en", default = true },
+]

@@ -1,0 +1,3 @@
+names = [
+  { name = "Lollipop (Feat. SHINee)", locale = "ko", original = true, default = true },
+]
