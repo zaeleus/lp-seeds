@@ -1,0 +1,5 @@
+names = [
+  { name = "제트별 (Jet)", locale = "ko", original = true },
+  { name = "Jet Byeol (Jet)", locale = "ko-Latn", default = true },
+  { name = "Jet", locale = "en" },
+]

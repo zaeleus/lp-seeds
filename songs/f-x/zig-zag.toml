@@ -1,0 +1,4 @@
+names = [
+  { name = "지그재그 (Zig Zag)", locale = "ko", original = true },
+  { name = "Zig Zag", locale = "en", default = true },
+]
