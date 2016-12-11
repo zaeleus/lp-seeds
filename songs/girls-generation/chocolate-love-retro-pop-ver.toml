@@ -1,0 +1,3 @@
+names = [
+  { name = "Chocolate Love (Retro Pop Ver.)", locale = "ko", original = true, default = true },
+]
