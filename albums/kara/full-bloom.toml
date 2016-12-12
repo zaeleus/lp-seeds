@@ -1,0 +1,14 @@
+artist-id = "kara"
+kind = "lp"
+
+names = [
+  { name = "Full Bloom", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-09-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2198928" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "둘 중에 하나 (Runaway)", locale = "ko", original = true },
+  { name = "Dul Junge Hana (Runaway)", locale = "ko-Latn", default = true },
+  { name = "Runaway", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "숙녀가 못 돼 (Damaged Lady)", locale = "ko", original = true },
+  { name = "Suknyeoga Mot Dwae (Damaged Lady)", locale = "ko-Latn", default = true },
+  { name = "Damaged Lady", locale = "en" },
+]
