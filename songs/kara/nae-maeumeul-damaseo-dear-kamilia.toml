@@ -1,0 +1,5 @@
+names = [
+  { name = "내 마음을 담아서 (Dear Kamilia)", locale = "ko", original = true },
+  { name = "Nae Maeumeul Damaseo (Dear Kamilia)", locale = "ko-Latn", default = true },
+  { name = "Dear Kamilia", locale = "en" },
+]
