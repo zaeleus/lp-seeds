@@ -1,0 +1,5 @@
+names = [
+  { name = "그리운 날엔 (Miss U)", locale = "ko", original = true },
+  { name = "Geuriun Naren (Miss U)", locale = "ko-Latn", default = true },
+  { name = "Miss U", locale = "en" },
+]
