@@ -1,0 +1,13 @@
+medium-ids = [
+  "kara/dul-junge-hana-runaway/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kara/dul-junge-hana-runaway"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "kara/dul-junge-hana-runaway-inst"
+duration = "3:21"

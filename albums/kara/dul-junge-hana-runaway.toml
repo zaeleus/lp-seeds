@@ -1,0 +1,16 @@
+artist-id = "kara"
+kind = "single"
+
+names = [
+  { name = "둘 중에 하나 (Runaway)", locale = "ko", original = true },
+  { name = "Dul Junge Hana (Runaway)", locale = "ko-Latn", default = true },
+  { name = "Runaway", locale = "en" },
+]
+
+[[releases]]
+released-on = "2013-08-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2197686" },
+]
