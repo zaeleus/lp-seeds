@@ -1,6 +1,6 @@
 names = [
   { name = "푱푱 (Shooting Love)", locale = "ko", original = true },
-  { name = "Pyongpyong (Shooting Love)", locale = "ko-Latn", default = true },
+  { name = "Pyong Pyong (Shooting Love)", locale = "ko-Latn", default = true },
   { name = "Shooting Love", locale = "en" },
 ]
 

@@ -10,7 +10,7 @@ duration = "0:55"
 
 [[tracks]]
 position = 2
-song-id = "laboum/pyongpyong-shooting-love"
+song-id = "laboum/pyong-pyong-shooting-love"
 duration = "3:21"
 
 [[tracks]]
@@ -30,5 +30,5 @@ duration = "3:11"
 
 [[tracks]]
 position = 6
-song-id = "laboum/pyongpyong-shooting-love-inst"
+song-id = "laboum/pyong-pyong-shooting-love-inst"
 duration = "3:19"
