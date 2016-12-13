@@ -6,3 +6,10 @@ names = [
   { name = "나인뮤지스A", locale = "ko", original = true },
   { name = "Nine Muses A", locale = "ko-Latn", default = true },
 ]
+
+members = [
+  { artist-id = "nine-muses/hye-mi" },
+  { artist-id = "nine-muses/keum-jo" },
+  { artist-id = "nine-muses/kyung-ree" },
+  { artist-id = "nine-muses/so-jin" },
+]
