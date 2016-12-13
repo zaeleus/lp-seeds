@@ -1,0 +1,5 @@
+names = [
+  { name = "쩔어 (GD&T.O.P)", locale = "ko", original = true },
+  { name = "Jjeoreo (GD&T.O.P)", locale = "ko-Latn", default = true },
+  { name = "ZUTTER", locale = "en" },
+]

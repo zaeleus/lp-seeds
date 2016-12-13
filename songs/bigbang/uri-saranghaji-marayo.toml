@@ -1,0 +1,5 @@
+names = [
+  { name = "우리 사랑하지 말아요", locale = "ko", original = true },
+  { name = "Uri Saranghaji Marayo", locale = "ko-Latn", default = true },
+  { name = "LET'S NOT FALL IN LOVE", locale = "en" },
+]
