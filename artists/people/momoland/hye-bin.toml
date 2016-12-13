@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1996-01-12"
+country = "KR"
+
+names = [
+  { name = "혜빈", locale = "ko", kind = "stage", original = true },
+  { name = "Hye Bin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이혜빈", locale = "ko", kind = "real" },
+  { name = "Lee Hye Bin", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "B"
+height = 166
+weight = 44

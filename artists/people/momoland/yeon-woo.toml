@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1996-08-01"
+country = "KR"
+
+names = [
+  { name = "연우", locale = "ko", kind = "stage", original = true },
+  { name = "Yeon Woo", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이다빈", locale = "ko", kind = "real" },
+  { name = "Lee Da Bin", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "B"
+height = 169
+weight = 49

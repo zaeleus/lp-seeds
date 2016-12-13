@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1998-07-31"
+country = "KR"
+
+names = [
+  { name = "나윤", locale = "ko", kind = "stage", original = true },
+  { name = "Na Yun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김나윤", locale = "ko", kind = "real" },
+  { name = "Kim Na Yun", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "AB"
+height = 167
+weight = 48
