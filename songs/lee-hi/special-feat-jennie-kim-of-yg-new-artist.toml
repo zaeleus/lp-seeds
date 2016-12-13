@@ -1,0 +1,11 @@
+names = [
+  { name = "Special (Feat. Jennie Kim of YG New Artist)", locale = "ko", original = true, default = true },
+]
+
+[[contributions]]
+kind = "performer"
+[[contributions.artist-credits]]
+artist-id = "blackpink/jennie"
+names = [
+  { name = "Jennie Kim", locale = "ko", original = true, default = true },
+]

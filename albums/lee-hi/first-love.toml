@@ -1,0 +1,14 @@
+artist-id = "lee-hi"
+kind = "lp"
+
+names = [
+  { name = "First Love", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-03-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2177337" },
+]
