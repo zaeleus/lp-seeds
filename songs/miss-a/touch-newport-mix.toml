@@ -1,0 +1,3 @@
+names = [
+  { name = "Touch (Newport Mix)", locale = "ko", original = true, default = true },
+]
