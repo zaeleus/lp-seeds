@@ -1,0 +1,8 @@
+medium-ids = [
+  "miss-a/love-alone/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miss-a/love-alone"
+duration = "3:31"

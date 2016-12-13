@@ -1,0 +1,14 @@
+artist-id = "miss-a"
+kind = "single"
+
+names = [
+  { name = "Love Alone", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2011-05-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1263852" },
+]
