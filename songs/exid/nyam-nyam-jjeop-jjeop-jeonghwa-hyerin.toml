@@ -1,5 +1,5 @@
 names = [
   { name = "냠냠쩝쩝 (정화&혜린)", locale = "ko", original = true },
-  { name = "Nyamnyamjjeopjjeop (Jeonghwa & Hyerin)", locale = "ko-Latn", default = true },
+  { name = "Nyam Nyam Jjeop Jjeop (Jeonghwa & Hyerin)", locale = "ko-Latn", default = true },
   { name = "Are You Hungry? (Jeonghwa & Hyerin)", locale = "en" },
 ]
