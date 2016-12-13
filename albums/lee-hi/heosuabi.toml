@@ -1,0 +1,16 @@
+artist-id = "lee-hi"
+kind = "single"
+
+names = [
+  { name = "허수아비", locale = "ko", original = true },
+  { name = "Heosuabi", locale = "ko-Latn", default = true },
+  { name = "Scarecrow", locale = "en" },
+]
+
+[[releases]]
+released-on = "2012-11-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2167828" },
+]
