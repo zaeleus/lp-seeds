@@ -1,0 +1,14 @@
+artist-id = "miss-a"
+kind = "single"
+
+names = [
+  { name = "Bad But Good", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2010-07-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=941952" },
+]
