@@ -1,0 +1,13 @@
+medium-ids = [
+  "kisum/put-it-down/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kisum/put-it-down-feat-min-hoon-ki"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "kisum/put-it-down-inst"
+duration = "3:24"
