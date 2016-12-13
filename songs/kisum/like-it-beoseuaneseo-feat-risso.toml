@@ -1,0 +1,4 @@
+names = [
+  { name = "Like It (버스안에서) (Feat. Risso)", locale = "ko", original = true },
+  { name = "Like It (Beoseuaneseo) (Feat. Risso)", locale = "ko-Latn", default = true },
+]

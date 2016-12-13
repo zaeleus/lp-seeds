@@ -1,0 +1,4 @@
+names = [
+  { name = "Put It Down (Feat. 민훈기)", locale = "ko", original = true },
+  { name = "Put It Down (Feat. Min Hoon Ki)", locale = "ko-Latn", default = true },
+]
