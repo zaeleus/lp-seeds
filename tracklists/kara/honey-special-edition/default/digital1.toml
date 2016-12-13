@@ -1,0 +1,28 @@
+medium-ids = [
+  "kara/honey-special-edition/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kara/honey"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "kara/ige-mwo-plastic-ver"
+duration = "3:04"
+
+[[tracks]]
+position = 3
+song-id = "kara/pretty-girl-bani-ver"
+duration = "2:48"
+
+[[tracks]]
+position = 4
+song-id = "kara/good-day-season-2"
+duration = "3:13"
+
+[[tracks]]
+position = 5
+song-id = "kara/pretty-girl-school-rock-ver"
+duration = "3:30"

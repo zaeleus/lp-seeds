@@ -1,0 +1,4 @@
+names = [
+  { name = "굿데이 (Good Day) 시즌 2", locale = "ko", original = true },
+  { name = "Good Day Season 2", locale = "en", default = true },
+]
