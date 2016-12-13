@@ -1,0 +1,28 @@
+medium-ids = [
+  "miss-a/independent-women-pt-iii/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miss-a/namja-eopsi-jal-sara"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "miss-a/ma-style"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "miss-a/if-i-were-a-boy"
+duration = "2:56"
+
+[[tracks]]
+position = 4
+song-id = "miss-a/madness"
+duration = "4:07"
+
+[[tracks]]
+position = 5
+song-id = "miss-a/time-s-up"
+duration = "3:52"

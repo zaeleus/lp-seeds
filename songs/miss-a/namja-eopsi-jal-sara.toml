@@ -1,4 +1,5 @@
 names = [
   { name = "남자 없이 잘 살아", locale = "ko", original = true },
   { name = "Namja Eopsi Jal Sara", locale = "ko-Latn", default = true },
+  { name = "I Don't Need a Man", locale = "en" },
 ]
