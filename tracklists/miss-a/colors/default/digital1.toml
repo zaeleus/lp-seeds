@@ -1,0 +1,33 @@
+medium-ids = [
+  "miss-a/colors/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miss-a/hangeoreum"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "miss-a/dareun-namja-malgo-neo"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "miss-a/love-song"
+duration = "3:50"
+
+[[tracks]]
+position = 4
+song-id = "miss-a/noga"
+duration = "2:59"
+
+[[tracks]]
+position = 5
+song-id = "miss-a/i-caught-ya"
+duration = "4:11"
+
+[[tracks]]
+position = 6
+song-id = "miss-a/stuck"
+duration = "3:12"

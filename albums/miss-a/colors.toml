@@ -1,0 +1,14 @@
+artist-id = "miss-a"
+kind = "ep"
+
+names = [
+  { name = "Colors", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2015-03-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2311419" },
+]
