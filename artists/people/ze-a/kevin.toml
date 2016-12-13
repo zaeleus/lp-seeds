@@ -1,0 +1,16 @@
+kind = "person"
+started-on = "1988-02-23"
+country = "KR"
+
+names = [
+  { name = "케빈", locale = "ko", kind = "stage", original = true },
+  { name = "Kevin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김지엽", locale = "ko", kind = "real" },
+  { name = "Kim Ji Yeop", locale = "ko-Latn", kind = "real" },
+  { name = "Kevin Kim", locale = "en", kind = "real" },
+]
+
+[metadata]
+blood-type = "A"
+height = 180
+weight = 66

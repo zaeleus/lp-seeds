@@ -6,3 +6,9 @@ names = [
   { name = "네스티네스티", locale = "ko", original = true },
   { name = "Nasty Nasty", locale = "ko-Latn", default = true },
 ]
+
+members = [
+  { artist-id = "nine-muses/kyung-ree" },
+  { artist-id = "nine-muses/so-jin" },
+  { artist-id = "ze-a/kevin" },
+]
