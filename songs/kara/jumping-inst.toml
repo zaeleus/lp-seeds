@@ -1,0 +1,4 @@
+names = [
+  { name = "점핑 (Jumping) (Inst.)", locale = "ko", original = true },
+  { name = "Jumping (Inst.)", locale = "en", default = true },
+]

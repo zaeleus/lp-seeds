@@ -1,0 +1,15 @@
+artist-id = "kara"
+kind = "ep"
+
+names = [
+  { name = "점핑", locale = "ko", original = true },
+  { name = "Jumping", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2010-11-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1068498" },
+]
