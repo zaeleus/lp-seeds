@@ -1,0 +1,5 @@
+names = [
+  { name = "맘에 들면 (If U Wanna)", locale = "ko", original = true },
+  { name = "Mame Deulmyeon (If U Wanna)", locale = "ko-Latn", default = true },
+  { name = "If U Wanna", locale = "en" },
+]
