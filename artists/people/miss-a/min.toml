@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1991-06-21"
+country = "KR"
+
+names = [
+  { name = "민", locale = "ko", kind = "stage", original = true },
+  { name = "Min", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이민영", locale = "ko", kind = "real" },
+  { name = "Lee Min Young", locale = "ko-Latn", kind = "real" },
+]

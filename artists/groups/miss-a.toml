@@ -1,0 +1,15 @@
+kind = "group"
+started-on = "2010-07"
+country = "KR"
+
+names = [
+  { name = "미스에이", locale = "ko", original = true },
+  { name = "miss A", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { artist-id = "miss-a/fei" },
+  { artist-id = "miss-a/jia", ended-on = "2016-05-20" },
+  { artist-id = "miss-a/min" },
+  { artist-id = "miss-a/suzy" },
+]
