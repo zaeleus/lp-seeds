@@ -1,0 +1,14 @@
+artist-id = "kara"
+kind = "lp"
+
+names = [
+  { name = "Revolution", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2009-07-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=616053" },
+]

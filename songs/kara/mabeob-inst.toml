@@ -1,0 +1,5 @@
+names = [
+  { name = "마법 (Inst.)", locale = "ko", original = true },
+  { name = "Mabeob (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Magic (Inst.)", locale = "en" },
+]
