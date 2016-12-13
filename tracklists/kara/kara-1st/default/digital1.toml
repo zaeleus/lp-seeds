@@ -1,0 +1,28 @@
+medium-ids = [
+  "kara/kara-1st/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kara/rock-u"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "kara/baby-boy"
+duration = "3:49"
+
+[[tracks]]
+position = 3
+song-id = "kara/igemwoya"
+duration = "3:24"
+
+[[tracks]]
+position = 4
+song-id = "kara/good-day"
+duration = "3:18"
+
+[[tracks]]
+position = 5
+song-id = "kara/wait"
+duration = "3:45"

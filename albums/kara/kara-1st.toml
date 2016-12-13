@@ -1,0 +1,15 @@
+artist-id = "kara"
+kind = "ep"
+
+names = [
+  { name = "카라 1st", locale = "ko", original = true },
+  { name = "KARA 1st", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2008-07-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=390319" },
+]
