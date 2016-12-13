@@ -1,0 +1,8 @@
+names = [
+  { name = "우리가 함께한 시간", locale = "ko", original = true },
+  { name = "Uriga Hamkkehan Sigan", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=wlaPnPvVGfs", name = "Music Video" },
+]

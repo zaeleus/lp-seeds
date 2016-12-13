@@ -1,0 +1,13 @@
+medium-ids = [
+  "h-u-b/uriga-hamkkehan-sigan/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "h-u-b/uriga-hamkkehan-sigan"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "h-u-b/uriga-hamkkehan-sigan-inst"
+duration = "3:21"

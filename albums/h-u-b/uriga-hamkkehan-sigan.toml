@@ -1,0 +1,15 @@
+artist-id = "h-u-b"
+kind = "single"
+
+names = [
+  { name = "우리가 함께한 시간", locale = "ko", original = true },
+  { name = "Uriga Hamkkehan Sigan", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-11-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10017472" },
+]

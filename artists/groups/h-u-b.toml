@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "H.U.B", locale = "ko", original = true, default = true },
+  { name = "Hope U Bounce", locale = "ko" },
+]
