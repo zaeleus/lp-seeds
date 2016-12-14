@@ -1,0 +1,15 @@
+artist-id = "orange-caramel"
+kind = "single"
+
+names = [
+  { name = "방콕시티", locale = "ko", original = true },
+  { name = "Bangkok City", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2011-03-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1231074" },
+]

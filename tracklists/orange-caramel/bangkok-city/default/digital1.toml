@@ -1,0 +1,13 @@
+medium-ids = [
+  "orange-caramel/bangkok-city/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "orange-caramel/bangkok-city"
+duration = "2:48"
+
+[[tracks]]
+position = 2
+song-id = "orange-caramel/bangkok-city-inst"
+duration = "2:48"
