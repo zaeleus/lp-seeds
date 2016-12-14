@@ -1,0 +1,5 @@
+names = [
+  { name = "클라라의 꿈", locale = "ko", original = true },
+  { name = "Claraui Kkum", locale = "ko-Latn", default = true },
+  { name = "Clara's Dream", locale = "en" },
+]

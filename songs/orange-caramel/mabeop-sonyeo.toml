@@ -1,0 +1,5 @@
+names = [
+  { name = "마법소녀", locale = "ko", original = true },
+  { name = "Mabeop Sonyeo", locale = "ko-Latn", default = true },
+  { name = "Magic Girl", locale = "en" },
+]

@@ -1,0 +1,68 @@
+medium-ids = [
+  "orange-caramel/lipstick/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "orange-caramel/bubble-bath"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "orange-caramel/milkshake"
+duration = "3:35"
+
+[[tracks]]
+position = 3
+song-id = "orange-caramel/lipstick"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "orange-caramel/a-ing"
+duration = "3:28"
+
+[[tracks]]
+position = 5
+song-id = "orange-caramel/mabeop-sonyeo"
+duration = "3:08"
+
+[[tracks]]
+position = 6
+song-id = "orange-caramel/ajig"
+duration = "3:28"
+
+[[tracks]]
+position = 7
+song-id = "orange-caramel/superwoman"
+duration = "3:20"
+
+[[tracks]]
+position = 8
+song-id = "orange-caramel/one-love"
+duration = "3:21"
+
+[[tracks]]
+position = 9
+song-id = "orange-caramel/shanghai-romance"
+duration = "3:46"
+
+[[tracks]]
+position = 10
+song-id = "orange-caramel/claraui-kkum"
+duration = "3:58"
+
+[[tracks]]
+position = 11
+song-id = "orange-caramel/nuneul-gama"
+duration = "4:09"
+
+[[tracks]]
+position = 12
+song-id = "orange-caramel/sarangeul-mirul-sun-eopsnayo"
+duration = "3:24"
+
+[[tracks]]
+position = 13
+song-id = "orange-caramel/bangkok-city-2012-new-recording"
+duration = "2:49"

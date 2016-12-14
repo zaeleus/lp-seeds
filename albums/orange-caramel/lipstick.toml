@@ -1,0 +1,15 @@
+artist-id = "orange-caramel"
+kind = "lp"
+
+names = [
+  { name = "립스틱 (LIPSTICK)", locale = "ko", original = true },
+  { name = "LIPSTICK", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2012-09-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2149881" },
+]

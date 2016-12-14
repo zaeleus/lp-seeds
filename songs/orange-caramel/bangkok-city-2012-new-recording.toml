@@ -1,0 +1,4 @@
+names = [
+  { name = "방콕시티 (2012 New Recording)", locale = "ko", original = true },
+  { name = "Bangkok City (2012 New Recording)", locale = "en", default = true },
+]
