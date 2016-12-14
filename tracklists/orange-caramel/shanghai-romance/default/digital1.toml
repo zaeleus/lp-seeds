@@ -1,0 +1,18 @@
+medium-ids = [
+  "orange-caramel/shanghai-romance/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "orange-caramel/shanghai-romance"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "orange-caramel/nuneul-gama"
+duration = "4:10"
+
+[[tracks]]
+position = 3
+song-id = "orange-caramel/the-day-you-went-away"
+duration = "3:40"

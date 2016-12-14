@@ -1,0 +1,4 @@
+names = [
+  { name = "The Day You Went Away (第一次爱的人)", locale = "ko", original = true },
+  { name = "The Day You Went Away", locale = "en", default = true },
+]

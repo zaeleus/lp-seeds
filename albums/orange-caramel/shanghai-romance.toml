@@ -1,0 +1,15 @@
+artist-id = "orange-caramel"
+kind = "single"
+
+names = [
+  { name = "샹하이 로맨스 (上海之戀)", locale = "ko", original = true },
+  { name = "Shanghai Romance", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2011-10-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2019316" },
+]
