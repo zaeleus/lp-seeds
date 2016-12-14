@@ -8,8 +8,3 @@ names = [
   { name = "장소진", locale = "ko", kind = "real" },
   { name = "Jang So Jin", locale = "ko-Latn", kind = "real" },
 ]
-
-[metadata]
-blood-type = ""
-height = 
-weight = 
