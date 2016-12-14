@@ -1,0 +1,18 @@
+medium-ids = [
+  "orange-caramel/catallena/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "orange-caramel/catallena"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "orange-caramel/so-sorry"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "orange-caramel/michin-deusi-ureosseo"
+duration = "3:22"
