@@ -1,0 +1,15 @@
+artist-id = "orange-caramel"
+kind = "ep"
+
+names = [
+  { name = "아잉♡", locale = "ko", original = true },
+  { name = "A-ing♡", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2010-11-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1076151" },
+]

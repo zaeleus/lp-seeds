@@ -1,0 +1,28 @@
+medium-ids = [
+  "orange-caramel/a-ing/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "orange-caramel/a-ing"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "orange-caramel/one-love"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "orange-caramel/ajik"
+duration = "3:31"
+
+[[tracks]]
+position = 4
+song-id = "orange-caramel/igose-seoseo"
+duration = "3:40"
+
+[[tracks]]
+position = 5
+song-id = "orange-caramel/a-ing-inst"
+duration = "3:28"
