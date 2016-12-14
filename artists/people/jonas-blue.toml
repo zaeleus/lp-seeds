@@ -1,6 +1,6 @@
 kind = "person"
-#started-on = ""
-#country = ""
+started-on = "1989-08-02"
+country = "GB"
 
 names = [
   { name = "ジョナス・ブルー", locale = "ja", kind = "stage", original = true },
