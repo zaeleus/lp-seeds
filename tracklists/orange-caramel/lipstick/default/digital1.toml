@@ -26,6 +26,11 @@ duration = "3:28"
 position = 5
 song-id = "orange-caramel/mabeop-sonyeo"
 duration = "3:08"
+names = [
+  { name = "마법소녀", locale = "ko", original = true },
+  { name = "Mabeop Sonyeo", locale = "ko-Latn", default = true },
+  { name = "Magic Girl", locale = "en" },
+]
 
 [[tracks]]
 position = 6

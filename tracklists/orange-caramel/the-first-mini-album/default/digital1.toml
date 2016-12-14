@@ -1,0 +1,23 @@
+medium-ids = [
+  "orange-caramel/the-first-mini-album/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "orange-caramel/mabeop-sonyeo"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "orange-caramel/sarangeul-mirul-sun-eopsnayo"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "orange-caramel/mabeop-sonyeo-inst"
+duration = "3:08"
+
+[[tracks]]
+position = 4
+song-id = "orange-caramel/sarangeul-mirul-sun-eopsnayo-inst"
+duration = "3:23"
