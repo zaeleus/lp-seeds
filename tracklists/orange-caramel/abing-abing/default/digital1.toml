@@ -1,0 +1,8 @@
+medium-ids = [
+  "orange-caramel/abing-abing/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "orange-caramel/abing-abing"
+duration = "3:10"
