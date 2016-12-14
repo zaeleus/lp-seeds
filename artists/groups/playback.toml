@@ -7,6 +7,13 @@ names = [
   { name = "Playback", locale = "ko-Latn", default = true },
 ]
 
+members = [
+  { artist-id = "playback/hayoung" },
+  { artist-id = "playback/soyun" },
+  { artist-id = "playback/woolim" },
+  { artist-id = "playback/yena" },
+]
+
 urls = [
   { url = "https://www.facebook.com/followplayback" },
   { url = "https://www.instagram.com/followplayback/" },

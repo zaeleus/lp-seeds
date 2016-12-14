@@ -1,0 +1,14 @@
+kind = "person"
+started-on = "1996-08-29"
+country = "KR"
+
+names = [
+  { name = "우림", locale = "ko", kind = "stage", original = true },
+  { name = "Woolim", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "황우림", locale = "ko", kind = "real" },
+  { name = "Hwang Woo Lim", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 167
+weight = 47

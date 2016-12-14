@@ -1,0 +1,14 @@
+kind = "person"
+started-on = "1993-08-03"
+country = "KR"
+
+names = [
+  { name = "하영", locale = "ko", kind = "stage", original = true },
+  { name = "Hayoung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이하영", locale = "ko", kind = "real" },
+  { name = "Lee Ha Young", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 163
+weight = 44

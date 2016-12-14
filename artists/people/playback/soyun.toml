@@ -1,0 +1,14 @@
+kind = "person"
+started-on = "1994-06-18"
+country = "KR"
+
+names = [
+  { name = "소윤", locale = "ko", kind = "stage", original = true },
+  { name = "Soyun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "서유진", locale = "ko", kind = "real" },
+  { name = "Seo Yoo Jin", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+height = 166
+weight = 47
