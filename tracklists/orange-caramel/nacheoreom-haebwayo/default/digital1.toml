@@ -1,0 +1,13 @@
+medium-ids = [
+  "orange-caramel/nacheoreom-haebwayo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "orange-caramel/nacheoreom-haebwayo"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "orange-caramel/gangnamgeori"
+duration = "3:16"
