@@ -1,0 +1,16 @@
+artist-id = "red-velvet"
+kind = "single"
+
+names = [
+  { name = "세가지 소원 (Wish Tree) - WINTER GARDEN", locale = "ko", original = true },
+  { name = "Segaji Sowon (Wish Tree) - WINTER GARDEN", locale = "ko-Latn", default = true },
+  { name = "Wish Tree - WINTER GARDEN", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-12-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2657579" },
+]

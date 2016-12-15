@@ -1,0 +1,5 @@
+names = [
+  { name = "세가지 소원 (Wish Tree)", locale = "ko", original = true },
+  { name = "Segaji Sowon (Wish Tree)", locale = "ko-Latn", default = true },
+  { name = "Wish Tree", locale = "en" },
+]
