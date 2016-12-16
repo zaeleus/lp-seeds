@@ -1,0 +1,4 @@
+names = [
+  { name = "상영시간 무한대", locale = "ko", original = true },
+  { name = "Sangyeongsigan Muhandae", locale = "ko-Latn", default = true },
+]
