@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "제인", locale = "ko", kind = "stage", original = true },
-  { name = "Janej", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Jane", locale = "ko-Latn", kind = "stage", default = true },
   { name = "성지연", locale = "ko", kind = "real" },
   { name = "Song Ji Yeon", locale = "ko-Latn", kind = "real" },
 ]
