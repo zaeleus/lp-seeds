@@ -1,0 +1,5 @@
+names = [
+  { name = "사탕 (Candy)", locale = "ko", original = true },
+  { name = "Satang (Candy)", locale = "ko-Latn", default = true },
+  { name = "Candy", locale = "en" },
+]

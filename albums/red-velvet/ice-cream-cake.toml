@@ -8,5 +8,16 @@ names = [
 [[releases]]
 released-on = "2015-03-17"
 country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2309156" },
+]
+
+[[releases]]
+released-on = "2015-03-17"
+country = "KR"
 catalog-number = "SMK-0490"
 media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/album_info.asp?mcode=045400734" },
+]
