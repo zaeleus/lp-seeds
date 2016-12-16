@@ -1,0 +1,5 @@
+names = [
+  { name = "내가 설렐 수 있게 (R&B Ver.)", locale = "ko", original = true },
+  { name = "Naega Seollel Su Issge (R&B Ver.)", locale = "ko-Latn", default = true },
+  { name = "Only One (R&B Ver.)", locale = "en" },
+]

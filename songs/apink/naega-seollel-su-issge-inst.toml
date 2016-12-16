@@ -1,0 +1,5 @@
+names = [
+  { name = "동화 같은 사랑 (Inst.)", locale = "ko", original = true },
+  { name = "Naega Seollel Su Issge (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Only One (Inst.)", locale = "en" },
+]

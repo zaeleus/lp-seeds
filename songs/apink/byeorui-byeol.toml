@@ -1,0 +1,5 @@
+names = [
+  { name = "별의 별", locale = "ko", original = true },
+  { name = "Byeorui Byeol", locale = "ko-Latn", default = true },
+  { name = "Cause You're My Star", locale = "en" },
+]

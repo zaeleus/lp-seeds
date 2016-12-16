@@ -1,0 +1,58 @@
+medium-ids = [
+  "apink/dear/default/digital1",
+]
+
+[[tracks]]
+position = 2
+song-id = "apink/byeorui-byeol"
+duration = "3:11"
+
+[[tracks]]
+position = 3
+song-id = "apink/miss-u"
+duration = "4:06"
+
+[[tracks]]
+position = 4
+song-id = "apink/nonono-ballad-ver"
+duration = "4:19"
+
+[[tracks]]
+position = 5
+song-id = "apink/naega-seollel-su-issge-r-b-ver"
+duration = "3:48"
+
+[[tracks]]
+position = 6
+song-id = "apink/luv-ballad-ver"
+duration = "4:46"
+
+[[tracks]]
+position = 7
+song-id = "apink/heunhan-il"
+duration = "3:44"
+
+[[tracks]]
+position = 8
+song-id = "apink/ilheobeorin-jogak"
+duration = "3:26"
+
+[[tracks]]
+position = 9
+song-id = "apink/geu-bomnal-i-gaeul"
+duration = "3:38"
+
+[[tracks]]
+position = 10
+song-id = "apink/mr-chu-inst"
+duration = "3:34"
+
+[[tracks]]
+position = 11
+song-id = "apink/naega-seollel-su-issge-inst"
+duration = "3:52"
+
+[[tracks]]
+position = 12
+song-id = "apink/4-wol-19-il-inst"
+duration = "4:16"
