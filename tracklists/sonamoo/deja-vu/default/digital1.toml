@@ -1,0 +1,33 @@
+medium-ids = [
+  "sonamoo/deja-vu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sonamoo/into-me-intro"
+duration = "1:15"
+
+[[tracks]]
+position = 2
+song-id = "sonamoo/deja-vu"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "sonamoo/love-call"
+duration = "3:16"
+
+[[tracks]]
+position = 4
+song-id = "sonamoo/gukmin-yeodongsaeng"
+duration = "3:28"
+
+[[tracks]]
+position = 5
+song-id = "sonamoo/ganeungeoya"
+duration = "3:38"
+
+[[tracks]]
+position = 6
+song-id = "sonamoo/akkimeopsi-juneun-namu"
+duration = "3:30"
