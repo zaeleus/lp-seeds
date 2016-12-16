@@ -1,0 +1,23 @@
+medium-ids = [
+  "kara/ji-young/fake/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kara/ji-young/fake"
+duration = "4:04"
+
+[[tracks]]
+position = 2
+song-id = "kara/ji-young/boogie-woogie"
+duration = "4:32"
+
+[[tracks]]
+position = 3
+song-id = "kara/ji-young/crazy-love"
+duration = "5:09"
+
+[[tracks]]
+position = 4
+song-id = "kara/ji-young/fake-instrumental"
+duration = "4:03"
