@@ -6,6 +6,11 @@ names = [
   { name = "BOM&HI", locale = "ko", original = true, default = true },
 ]
 
+members = [
+  { artist-id = "2ne1/bom" },
+  { artist-id = "lee-hi" },
+]
+
 urls = [
   { url = "http://www.ygfamily.com/artist/About.asp?LANGDIV=K&ATYPE=2&ARTIDX=54" },
 ]
