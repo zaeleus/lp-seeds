@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/shin-yong-jae-x-luna/geudaeraseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/shin-yong-jae-x-luna/geudaeraseo"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/shin-yong-jae-x-luna/geudaeraseo-inst"
+duration = "4:03"
