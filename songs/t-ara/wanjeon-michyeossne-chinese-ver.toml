@@ -1,0 +1,5 @@
+names = [
+  { name = "완전 미쳤네 (Chinese Ver.)", locale = "ko", original = true },
+  { name = "Wanjeon Michyeossne (Chinese Ver.)", locale = "ko-Latn", default = true },
+  { name = "So Crazy (Chinese Ver.)", locale = "en" },
+]

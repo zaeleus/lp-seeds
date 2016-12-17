@@ -1,0 +1,5 @@
+names = [
+  { name = "완전 미쳤네 (Inst.)", locale = "ko", original = true },
+  { name = "Wanjeon Michyeossne (Inst.)", locale = "ko-Latn", default = true },
+  { name = "So Crazy (Inst.)", locale = "en" },
+]
