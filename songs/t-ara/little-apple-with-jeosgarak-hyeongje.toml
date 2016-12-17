@@ -1,0 +1,18 @@
+names = [
+  { name = "Little Apple with 젓가락형제", locale = "ko", original = true },
+  { name = "Little Apple with Jeosgarak Hyeongje", locale = "ko-Latn", default = true },
+  { name = "Little Apple with Chopstick Brothers", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=uY_SVsA-nKo", name = "Music Video" },
+]
+
+[[contributions]]
+kind = "performer"
+[[contributions.artist-credits]]
+artist-id = "chopstick-brothers"
+names = [
+  { name = "젓가락형제", locale = "ko" },
+  { name = "Jeosgarak Hyeongje", locale = "ko-Latn" },
+]

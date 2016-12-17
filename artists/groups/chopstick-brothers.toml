@@ -1,0 +1,11 @@
+kind = "group"
+started-on = "2007"
+country = "CN"
+
+names = [
+  { name = "筷子兄弟", locale = "zh", original = true },
+  { name = "Kuàizi Xiōngdì", locale = "zh-Latn" },
+  { name = "Chopstick Brothers", locale = "en", default = true },
+  { name = "젓가락형제", locale = "ko" },
+  { name = "Jeosgarak Hyeongje", locale = "ko-Latn" },
+]
