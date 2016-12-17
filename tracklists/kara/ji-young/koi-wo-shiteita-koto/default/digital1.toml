@@ -1,0 +1,23 @@
+medium-ids = [
+  "kara/ji-young/koi-wo-shiteita-koto/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kara/ji-young/koi-wo-shiteita-koto"
+duration = "4:40"
+
+[[tracks]]
+position = 2
+song-id = "kara/ji-young/my-sutanda-do"
+duration = "4:34"
+
+[[tracks]]
+position = 3
+song-id = "kara/ji-young/up-in-the-air"
+duration = "3:32"
+
+[[tracks]]
+position = 4
+song-id = "kara/ji-young/koi-wo-shiteita-koto-instrumental"
+duration = "4:38"

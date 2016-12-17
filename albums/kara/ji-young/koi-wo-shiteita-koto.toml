@@ -1,0 +1,22 @@
+artist-id = "kara/ji-young"
+kind = "single"
+
+names = [
+  { name = "恋をしていたこと", locale = "ja", original = true },
+  { name = "Koi wo Shiteita Koto", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "kara/ji-young"
+names = [
+  { name = "JY", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-12-07"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1185774282" },
+  { url = "http://mora.jp/package/43000001/4547366289824/" },
+]

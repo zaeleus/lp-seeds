@@ -1,0 +1,10 @@
+names = [
+  { name = "恋をしていたこと", locale = "ja", original = true },
+  { name = "Koi wo Shiteita Koto", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "kara/ji-young"
+names = [
+  { name = "JY", locale = "ja", original = true, default = true },
+]
