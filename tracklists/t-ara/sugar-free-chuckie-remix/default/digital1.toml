@@ -1,0 +1,13 @@
+medium-ids = [
+  "t-ara/sugar-free-chuckie-remix/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/sugar-free-chuckie-remix"
+duration = "4:31"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/sugar-free-chuckie-remix-inst"
+duration = "4:33"
