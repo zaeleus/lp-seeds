@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1989-10-31"
+country = "KR"
+
+names = [
+  { name = "신용재", locale = "ko", kind = "real", original = true },
+  { name = "Shin Yong Jae", locale = "ko-Latn", kind = "real", default = true },
+]

@@ -1,0 +1,13 @@
+kind = "group"
+started-on = "2008"
+country = "KR"
+
+names = [
+  { name = "포맨", locale = "ko", original = true },
+  { name = "4Men", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { artist-id = "4men/kim-won-joo" },
+  { artist-id = "4men/shin-yong-jae" },
+]

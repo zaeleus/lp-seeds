@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1987-07-29"
+country = "KR"
+
+names = [
+  { name = "김원주", locale = "ko", kind = "real", original = true },
+  { name = "Kim Won Joo", locale = "ko-Latn", kind = "real", default = true },
+]
