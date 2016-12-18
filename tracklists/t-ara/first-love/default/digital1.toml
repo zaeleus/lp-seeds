@@ -1,0 +1,13 @@
+medium-ids = [
+  "t-ara/first-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/first-love-feat-eb"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/first-love-inst"
+duration = "3:30"
