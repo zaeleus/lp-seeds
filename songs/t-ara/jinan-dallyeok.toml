@@ -1,0 +1,5 @@
+names = [
+  { name = "지난 달력", locale = "ko", original = true },
+  { name = "Jinan Dallyeok", locale = "ko-Latn", default = true },
+  { name = "Last Calendar", locale = "en" },
+]

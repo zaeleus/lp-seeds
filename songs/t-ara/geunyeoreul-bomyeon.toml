@@ -1,0 +1,5 @@
+names = [
+  { name = "그녀를 보면", locale = "ko", original = true },
+  { name = "Geunyeoreul Bomyeon", locale = "ko-Latn", default = true },
+  { name = "If I See Her", locale = "en" },
+]

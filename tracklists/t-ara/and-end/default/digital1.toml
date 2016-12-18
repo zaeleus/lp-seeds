@@ -1,0 +1,38 @@
+medium-ids = [
+  "t-ara/and-end/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/sugar-free-bigroom-ver"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/sugar-free"
+duration = "3:55"
+
+[[tracks]]
+position = 3
+song-id = "t-ara/namjugin-akkawo"
+duration = "2:58"
+
+[[tracks]]
+position = 4
+song-id = "t-ara/orgr"
+duration = "2:58"
+
+[[tracks]]
+position = 5
+song-id = "t-ara/jinan-dallyeok"
+duration = "2:47"
+
+[[tracks]]
+position = 6
+song-id = "t-ara/geunyeoreul-bomyeon"
+duration = "3:10"
+
+[[tracks]]
+position = 7
+song-id = "t-ara/sugar-free-bigroom-ver-inst"
+duration = "3:55"
