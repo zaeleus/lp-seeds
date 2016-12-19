@@ -1,0 +1,8 @@
+medium-ids = [
+  "kara/seung-yeon/jal-issni/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kara/seung-yeon/jal-issni"
+duration = "3:52"

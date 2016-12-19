@@ -1,0 +1,23 @@
+artist-id = "kara/seung-yeon"
+kind = "single"
+
+names = [
+  { name = "잘 있니", locale = "ko", original = true },
+  { name = "Jal Issni", locale = "ko-Latn", default = true },
+  { name = "Do You Remember?", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "kara/seung-yeon"
+names = [
+  { name = "한승연", locale = "ko", original = true },
+  { name = "Han Seung Yeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-12-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10024122" },
+]

@@ -1,0 +1,16 @@
+names = [
+  { name = "잘 있니", locale = "ko", original = true },
+  { name = "Jal Issni", locale = "ko-Latn", default = true },
+  { name = "Do You Remember?", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=EIOEdGjNMYU" },
+]
+
+[[artist-credits]]
+artist-id = "kara/seung-yeon"
+names = [
+  { name = "한승연", locale = "ko", original = true },
+  { name = "Han Seung Yeon", locale = "ko-Latn", default = true },
+]
