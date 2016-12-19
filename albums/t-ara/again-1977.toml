@@ -1,0 +1,14 @@
+artist-id = "t-ara"
+kind = "ep"
+
+names = [
+  { name = "Again 1977", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-12-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2219294" },
+]
