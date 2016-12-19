@@ -1,0 +1,5 @@
+names = [
+  { name = "한겨울의 숨바꼭질", locale = "ko", original = true },
+  { name = "Hangyeourui Sumbakkokjil", locale = "ko-Latn", default = true },
+  { name = "Hide & Seek Winter Version", locale = "en" },
+]
