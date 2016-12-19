@@ -1,38 +1,28 @@
 medium-ids = [
-  "t-ara/again-1977/default/digital1",
+  "t-ara/again/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song-id = "t-ara/1977-gieok-anna"
-duration = "2:36"
-
-[[tracks]]
-position = 2
-song-id = "t-ara/na-eotteokhae"
-duration = "3:42"
-
-[[tracks]]
-position = 3
 song-id = "t-ara/number-nine"
 duration = "3:48"
 
 [[tracks]]
-position = 4
+position = 2
 song-id = "t-ara/neukkim-anikka"
 duration = "3:20"
 
 [[tracks]]
-position = 5
+position = 3
 song-id = "t-ara/apa"
 duration = "3:24"
 
 [[tracks]]
-position = 6
+position = 4
 song-id = "t-ara/gyeolhon-hajima"
 duration = "3:41"
 
 [[tracks]]
-position = 7
+position = 5
 song-id = "t-ara/number-nine-club-ver"
 duration = "3:46"
