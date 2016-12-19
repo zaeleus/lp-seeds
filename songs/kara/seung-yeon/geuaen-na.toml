@@ -1,0 +1,11 @@
+names = [
+  { name = "그앤 나", locale = "ko", original = true },
+  { name = "Geuaen Na", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "kara/seung-yeon"
+names = [
+  { name = "한승연", locale = "ko", original = true },
+  { name = "Han Seung Yeon", locale = "ko-Latn", default = true },
+]

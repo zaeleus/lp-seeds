@@ -1,0 +1,22 @@
+artist-id = "kara/seung-yeon"
+kind = "single"
+
+names = [
+  { name = "그앤 나", locale = "ko", original = true },
+  { name = "Geuaen Na", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "kara/seung-yeon"
+names = [
+  { name = "한승연", locale = "ko", original = true },
+  { name = "Han Seung Yeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-07-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2699637" },
+]

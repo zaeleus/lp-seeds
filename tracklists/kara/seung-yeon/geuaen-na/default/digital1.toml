@@ -1,0 +1,13 @@
+medium-ids = [
+  "kara/seung-yeon/geuaen-na/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kara/seung-yeon/geuaen-na"
+duration = "4:27"
+
+[[tracks]]
+position = 2
+song-id = "kara/seung-yeon/geuaen-na-inst"
+duration = "4:27"
