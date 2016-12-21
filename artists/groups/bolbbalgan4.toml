@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2014"
+country = "KR"
+
+names = [
+  { name = "볼빨간사춘기", locale = "ko", original = true },
+  { name = "Bolbbalgan4", locale = "ko-Latn", default = true },
+  { name = "Bolppalgan Puberty", locale = "en" },
+]

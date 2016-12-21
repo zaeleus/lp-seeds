@@ -1,0 +1,9 @@
+names = [
+  { name = "좋다고 말해", locale = "ko", original = true },
+  { name = "Johdago Malhae", locale = "ko-Latn", default = true },
+  { name = "Tell Me You Like Me", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=y5MAgMVwfFs", name = "Music Video" },
+]
