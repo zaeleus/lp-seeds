@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/jimin-park-x-d-ear/talmaisseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/jimin-park-x-d-ear/talmaisseo"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/jimin-park-x-d-ear/talmaisseo-inst"
+duration = "3:04"

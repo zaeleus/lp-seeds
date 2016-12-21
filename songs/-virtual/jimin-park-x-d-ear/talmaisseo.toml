@@ -1,0 +1,16 @@
+names = [
+  { name = "닮아있어", locale = "ko", original = true },
+  { name = "Talmaisseo", locale = "ko-Latn", default = true },
+  { name = "Look Alike", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "15and/jimin"
+names = [
+  { name = "박지민", locale = "ko", original = true },
+  { name = "Jimin Park", locale = "en", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "d-ear"
