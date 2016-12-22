@@ -1,0 +1,5 @@
+names = [
+  { name = "나만 안되는 연애", locale = "ko", original = true },
+  { name = "Naman Andoeneun Yeonae", locale = "ko-Latn", default = true },
+  { name = "Hard to Love", locale = "en" },
+]

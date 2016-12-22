@@ -1,0 +1,5 @@
+names = [
+  { name = "싸운날", locale = "ko", original = true },
+  { name = "Ssaunnal", locale = "ko-Latn", default = true },
+  { name = "Fight Day", locale = "en" },
+]

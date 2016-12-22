@@ -1,0 +1,53 @@
+medium-ids = [
+  "bolbbalgan4/red-planet/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bolbbalgan4/ujureul-julge"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "bolbbalgan4/ssaunnal"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "bolbbalgan4/you-i"
+duration = "2:49"
+
+[[tracks]]
+position = 4
+song-id = "bolbbalgan4/simsul"
+duration = "2:37"
+
+[[tracks]]
+position = 5
+song-id = "bolbbalgan4/naman-andoeneun-yeonae"
+duration = "3:39"
+
+[[tracks]]
+position = 6
+song-id = "bolbbalgan4/chocolate"
+duration = "3:10"
+
+[[tracks]]
+position = 7
+song-id = "bolbbalgan4/peurijia"
+duration = "3:06"
+
+[[tracks]]
+position = 8
+song-id = "bolbbalgan4/x-song"
+duration = "3:46"
+
+[[tracks]]
+position = 9
+song-id = "bolbbalgan4/banji"
+duration = "2:58"
+
+[[tracks]]
+position = 10
+song-id = "bolbbalgan4/sarange-ppajyeosseul-ttae"
+duration = "3:50"

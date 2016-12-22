@@ -1,0 +1,5 @@
+names = [
+  { name = "우주를 줄게", locale = "ko", original = true },
+  { name = "Ujureul Julge", locale = "ko-Latn", default = true },
+  { name = "Galaxy", locale = "en" },
+]
