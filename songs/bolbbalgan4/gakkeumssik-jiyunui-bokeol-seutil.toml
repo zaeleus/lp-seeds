@@ -1,0 +1,4 @@
+names = [
+  { name = "가끔씩 (우지윤의 보컬 스틸)", locale = "ko", original = true },
+  { name = "Gakkeumssik (Jiyunui Bokeol Seutil)", locale = "ko-Latn", default = true },
+]

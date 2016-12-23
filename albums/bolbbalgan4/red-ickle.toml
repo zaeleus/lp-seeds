@@ -1,0 +1,14 @@
+artist-id = "bolbbalgan4"
+kind = "ep"
+
+names = [
+  { name = "RED ICKLE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-04-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2680986" },
+]

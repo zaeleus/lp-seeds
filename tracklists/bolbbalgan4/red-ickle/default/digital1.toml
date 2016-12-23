@@ -1,0 +1,28 @@
+medium-ids = [
+  "bolbbalgan4/red-ickle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bolbbalgan4/chocolate"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "bolbbalgan4/ssaunnal"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "bolbbalgan4/banji"
+duration = "2:57"
+
+[[tracks]]
+position = 4
+song-id = "bolbbalgan4/simsul"
+duration = "2:38"
+
+[[tracks]]
+position = 5
+song-id = "bolbbalgan4/gakkeumssik-jiyunui-bokeol-seutil"
+duration = "3:43"
