@@ -1,0 +1,8 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "문정재", locale = "ko", kind = "real", original = true },
+  { name = "Moon Jung Jae", locale = "ko-Latn", kind = "real", default = true },
+]

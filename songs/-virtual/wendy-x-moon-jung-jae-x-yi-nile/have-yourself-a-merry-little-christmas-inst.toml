@@ -1,0 +1,9 @@
+names = [
+  { name = "Have Yourself A Merry Little Christmas (Inst.)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "red-velvet/wendy", separator = " X " },
+  { artist-id = "moon-jung-jae", separator = " X " },
+  { artist-id = "yi-nile" },
+]

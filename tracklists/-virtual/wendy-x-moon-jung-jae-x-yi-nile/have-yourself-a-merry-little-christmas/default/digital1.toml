@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/wendy-x-moon-jung-jae-x-yi-nile/have-yourself-a-merry-little-christmas/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/wendy-x-moon-jung-jae-x-yi-nile/have-yourself-a-merry-little-christmas"
+duration = "4:51"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/wendy-x-moon-jung-jae-x-yi-nile/have-yourself-a-merry-little-christmas-inst"
+duration = "4:51"
