@@ -1,0 +1,18 @@
+medium-ids = [
+  "gavy-nj/shubirubirub/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gavy-nj/shubirubirub"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "gavy-nj/uri-sai"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song-id = "gavy-nj/shubirubirub-inst"
+duration = "3:24"

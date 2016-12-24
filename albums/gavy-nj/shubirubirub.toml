@@ -1,0 +1,15 @@
+artist-id = "gavy-nj"
+kind = "single"
+
+names = [
+  { name = "슈비루비룹", locale = "ko", original = true },
+  { name = "SHUBIRUBIRUB", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-07-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2697978" },
+]
