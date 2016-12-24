@@ -1,0 +1,15 @@
+artist-id = "gavy-nj"
+kind = "single"
+
+names = [
+  { name = "미안했을까", locale = "ko", original = true },
+  { name = "Mianhaess Eulkka", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-12-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10024537" },
+]

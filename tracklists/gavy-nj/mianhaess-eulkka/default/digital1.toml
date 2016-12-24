@@ -1,0 +1,13 @@
+medium-ids = [
+  "gavy-nj/mianhaess-eulkka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gavy-nj/mianhaess-eulkka"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "gavy-nj/mianhaess-eulkka-inst"
+duration = "3:09"

@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2005"
+country = "KR"
+
+names = [
+  { name = "가비엔제이", locale = "ko", original = true },
+  { name = "Gavy NJ", locale = "ko-Latn", default = true },
+]
