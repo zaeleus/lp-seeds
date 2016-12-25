@@ -1,0 +1,4 @@
+names = [
+  { name = "친구가 널 봤대 (Feat. 힙잡)", locale = "ko", original = true },
+  { name = "Chinguga Neol Bwassdae", locale = "ko-Latn", default = true },
+]
