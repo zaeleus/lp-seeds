@@ -1,0 +1,10 @@
+names = [
+  { name = "서래마을", locale = "ko", original = true },
+  { name = "Seorae Maeul", locale = "ko-Latn", default = true },
+  { name = "Seorae Village", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=4456bjcZxUI", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=FsUE-nduSwQ", name = "Music Video" },
+]

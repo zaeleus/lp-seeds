@@ -1,0 +1,13 @@
+medium-ids = [
+  "wassup/nada/seorae-maeul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wassup/nada/seorae-maeul"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "wassup/nada/seorae-maeul-inst"
+duration = "3:32"

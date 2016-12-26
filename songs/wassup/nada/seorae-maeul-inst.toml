@@ -1,0 +1,5 @@
+names = [
+  { name = "서래마을 (Inst.)", locale = "ko", original = true },
+  { name = "Seorae Maeul (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Seorae Village (Inst.)", locale = "en" },
+]

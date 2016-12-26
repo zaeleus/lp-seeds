@@ -1,0 +1,16 @@
+artist-id = "wassup/nada"
+kind = "single"
+
+names = [
+  { name = "서래마을", locale = "ko", original = true },
+  { name = "Seorae Maeul", locale = "ko-Latn", default = true },
+  { name = "Seorae Village", locale = "en" },
+]
+
+[[releases]]
+released-on = "2016-12-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10024917" },
+]
