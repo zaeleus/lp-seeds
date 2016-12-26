@@ -1,0 +1,4 @@
+names = [
+  { name = "Cupcake (All This Love) (Feat. 한해)", locale = "ko", original = true },
+  { name = "Cupcake (All This Love) (Feat. Hanhae)", locale = "ko-Latn", default = true },
+]

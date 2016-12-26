@@ -1,0 +1,13 @@
+medium-ids = [
+  "seeart/bloom-the-seeart/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seeart/cupcake-all-this-love-feat-hanhae"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "seeart/cupcake-all-this-love-inst"
+duration = "3:36"
