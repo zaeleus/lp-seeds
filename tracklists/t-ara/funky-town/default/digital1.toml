@@ -26,6 +26,9 @@ duration = "3:17"
 position = 5
 song-id = "t-ara/goodbye-ok"
 duration = "3:05"
+names = [
+  { name = "Goodbye, OK", locale = "ko", original = true, default = true },
+]
 
 [[tracks]]
 position = 6

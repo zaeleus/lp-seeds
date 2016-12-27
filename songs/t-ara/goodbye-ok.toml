@@ -1,3 +1,3 @@
 names = [
-  { name = "Goodbye, OK", locale = "ko", original = true, default = true },
+  { name = "Goodbye, Ok", locale = "ko", original = true, default = true },
 ]
