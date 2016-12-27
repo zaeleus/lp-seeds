@@ -1,0 +1,8 @@
+medium-ids = [
+  "t-ara/bingeul-bingeul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/bingeul-bingeul"
+duration = "3:45"

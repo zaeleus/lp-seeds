@@ -1,0 +1,16 @@
+artist-id = "t-ara"
+kind = "single"
+
+names = [
+  { name = "빙글빙글", locale = "ko", original = true },
+  { name = "Bingeul Bingeul", locale = "ko-Latn", default = true },
+  { name = "Round and Round", locale = "en" },
+]
+
+[[releases]]
+released-on = "2012-05-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2124848" },
+]
