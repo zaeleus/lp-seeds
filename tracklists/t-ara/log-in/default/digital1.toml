@@ -1,0 +1,8 @@
+medium-ids = [
+  "t-ara/log-in/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/log-in"
+duration = "3:27"
