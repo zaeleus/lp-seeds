@@ -1,0 +1,28 @@
+medium-ids = [
+  "t-ara/day-by-day/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/day-by-day"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/holiday"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "t-ara/tteonajima"
+duration = "3:48"
+
+[[tracks]]
+position = 4
+song-id = "t-ara/hue"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "t-ara/sarangnori"
+duration = "3:17"
