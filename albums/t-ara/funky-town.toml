@@ -1,0 +1,14 @@
+artist-id = "t-ara"
+kind = "ep"
+
+names = [
+  { name = "Funky Town", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2012-01-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2058067" },
+]
