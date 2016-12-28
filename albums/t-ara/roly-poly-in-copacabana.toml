@@ -1,0 +1,15 @@
+artist-id = "t-ara"
+kind = "single"
+
+names = [
+  { name = "Roly-Poly in 코파카바나", locale = "ko", original = true },
+  { name = "Roly-Poly in Copacabana", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2011-08-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1360451" },
+]

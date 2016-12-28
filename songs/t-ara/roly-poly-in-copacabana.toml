@@ -1,0 +1,4 @@
+names = [
+  { name = "Roly-Poly in 코파카바나", locale = "ko", original = true },
+  { name = "Roly-Poly in Copacabana", locale = "en", default = true },
+]
