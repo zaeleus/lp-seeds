@@ -1,0 +1,14 @@
+artist-id = "t-ara"
+kind = "ep"
+
+names = [
+  { name = "Temptastic", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2010-12-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1087651" },
+]
