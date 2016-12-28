@@ -1,0 +1,16 @@
+artist-id = "t-ara"
+kind = "single"
+
+names = [
+  { name = "왜 이러니", locale = "ko", original = true },
+  { name = "Wae Ireoni", locale = "ko-Latn", default = true },
+  { name = "What's Wrong", locale = "en" },
+]
+
+[[releases]]
+released-on = "2010-11-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1085051" },
+]

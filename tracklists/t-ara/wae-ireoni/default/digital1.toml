@@ -1,0 +1,8 @@
+medium-ids = [
+  "t-ara/wae-ireoni/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/wae-ireoni"
+duration = "3:57"
