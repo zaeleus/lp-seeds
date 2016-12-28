@@ -1,0 +1,13 @@
+medium-ids = [
+  "t-ara/twentyth-urban/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/haneulttang-byeolttang"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/haneulttang-byeolttang-inst"
+duration = "3:38"

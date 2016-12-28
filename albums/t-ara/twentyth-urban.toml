@@ -1,0 +1,14 @@
+artist-id = "t-ara"
+kind = "single"
+
+names = [
+  { name = "TWENTYth Urban", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2010-09-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1030070" },
+]
