@@ -1,0 +1,15 @@
+artist-id = "t-ara"
+kind = "ep"
+
+names = [
+  { name = "존트라볼타 워너비", locale = "ko", original = true },
+  { name = "John Travolta Wanna Be", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2011-06-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1317401" },
+]

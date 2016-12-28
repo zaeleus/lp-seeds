@@ -1,0 +1,5 @@
+names = [
+  { name = "왜 이러니 (Remix Ver.)", locale = "ko", original = true },
+  { name = "Wae Ireoni (Remix Ver.)", locale = "ko-Latn", default = true },
+  { name = "What's Wrong (Remix Ver.)", locale = "en" },
+]

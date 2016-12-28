@@ -1,0 +1,38 @@
+medium-ids = [
+  "t-ara/john-travolta-wanna-be/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/roly-poly"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/jinjja-jinjja-johahae"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "t-ara/yayaya-remix-ver"
+duration = "3:32"
+
+[[tracks]]
+position = 4
+song-id = "t-ara/wae-ireoni-remix-ver"
+duration = "3:49"
+
+[[tracks]]
+position = 5
+song-id = "t-ara/ma-boo-remix-ver"
+duration = "3:29"
+
+[[tracks]]
+position = 6
+song-id = "t-ara/mollayo-remix-ver"
+duration = "3:46"
+
+[[tracks]]
+position = 7
+song-id = "t-ara/gwaenchanhayo-remix-ver"
+duration = "3:59"

@@ -1,0 +1,5 @@
+names = [
+  { name = "괜찮아요 (Remix Ver.)", locale = "ko", original = true },
+  { name = "Gwaenchanhayo (Remix Ver.)", locale = "ko-Latn", default = true },
+  { name = "I'm Okay (Remix Ver.)", locale = "en" },
+]
