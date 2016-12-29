@@ -1,0 +1,5 @@
+names = [
+  { name = "거짓말 (Part.2)", locale = "ko", original = true },
+  { name = "Geojitmal (Part.2)", locale = "ko-Latn", default = true },
+  { name = "Lie (Part.2)", locale = "en" },
+]

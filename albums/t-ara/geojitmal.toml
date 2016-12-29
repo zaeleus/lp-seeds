@@ -1,0 +1,16 @@
+artist-id = "t-ara"
+kind = "single"
+
+names = [
+  { name = "거짓말", locale = "ko", original = true },
+  { name = "Geojitmal", locale = "ko-Latn", default = true },
+  { name = "Lie", locale = "en" },
+]
+
+[[releases]]
+released-on = "2009-07-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=617051" },
+]
