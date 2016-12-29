@@ -1,0 +1,14 @@
+artist-id = "t-ara"
+kind = "lp"
+
+names = [
+  { name = "Breaking Heart", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2010-02-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=809262" },
+]

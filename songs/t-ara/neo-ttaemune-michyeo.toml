@@ -1,0 +1,5 @@
+names = [
+  { name = "너 때문에 미쳐", locale = "ko", original = true },
+  { name = "Neo Ttaemune Michyeo", locale = "ko-Latn", default = true },
+  { name = "Crazy Because of You", locale = "en" },
+]
