@@ -1,0 +1,5 @@
+names = [
+  { name = "이젠 너 없이도 (Feat. 윤미래, 타이거 JK, Bizzy)", locale = "ko", original = true },
+  { name = "Ijen Neo Eopsido (Feat. Yoon Mi Rae, Tiger JK, Bizzy)", locale = "ko-Latn", default = true },
+  { name = "Without You Now (Feat. Yoon Mi Rae, Tiger JK, Bizzy)", locale = "en" },
+]

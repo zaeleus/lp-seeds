@@ -1,0 +1,14 @@
+artist-id = "the-ark/yuna-kim"
+kind = "single"
+
+names = [
+  { name = "Love Me Love", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-05-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2256907" },
+]

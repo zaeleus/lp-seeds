@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-ark/yuna-kim/love-me-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-ark/yuna-kim/ijen-neo-eopsido-feat-yoon-mi-rae-tiger-jk-bizzy"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "the-ark/yuna-kim/ijen-neo-eopsido-inst"
+duration = "3:37"
