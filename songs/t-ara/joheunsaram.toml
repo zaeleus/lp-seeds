@@ -1,4 +1,0 @@
-names = [
-  { name = "좋은사람", locale = "ko", original = true },
-  { name = "Joheunsaram", locale = "ko-Latn", default = true },
-]
