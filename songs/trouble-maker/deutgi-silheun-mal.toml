@@ -1,0 +1,5 @@
+names = [
+  { name = "듣기 싫은 말", locale = "ko", original = true },
+  { name = "Deutgi Silheun Mal", locale = "ko-Latn", default = true },
+  { name = "The Words I Don't Want to Hear", locale = "en" },
+]

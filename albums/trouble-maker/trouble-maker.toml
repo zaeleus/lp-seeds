@@ -1,0 +1,15 @@
+artist-id = "trouble-maker"
+kind = "ep"
+
+names = [
+  { name = "Trouble Maker", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2011-12-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id489261031" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=2043387" },
+]

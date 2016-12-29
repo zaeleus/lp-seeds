@@ -1,0 +1,23 @@
+medium-ids = [
+  "trouble-maker/trouble-maker/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "trouble-maker/trouble-maker"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "trouble-maker/deutgi-silheun-mal"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "trouble-maker/time-feat-rado"
+duration = "3:29"
+
+[[tracks]]
+position = 4
+song-id = "trouble-maker/amureohji-anhni"
+duration = "2:58"
