@@ -1,0 +1,5 @@
+names = [
+  { name = "24시간이 모자라", locale = "ko", original = true },
+  { name = "24 Sigani Mojara", locale = "ko-Latn", default = true },
+  { name = "24 Hours", locale = "en" },
+]

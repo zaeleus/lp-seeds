@@ -1,0 +1,5 @@
+names = [
+  { name = "보름달 (Feat. Lena)", locale = "ko", original = true },
+  { name = "Boreumdal (Feat. Lena)", locale = "ko-Latn", default = true },
+  { name = "Full Moon (Feat. Lena)", locale = "en" },
+]

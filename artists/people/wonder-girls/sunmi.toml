@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "선미", locale = "ko", kind = "stage", original = true },
-  { name = "Sun Mi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Sunmi", locale = "ko-Latn", kind = "stage", default = true },
   { name = "Mimi", locale = "en", kind = "stage" },
 ]
 

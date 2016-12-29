@@ -13,7 +13,7 @@ labels = [{ label-id = "jyp-entertainment" }]
 members = [
   { artist-id = "wonder-girls/hae-lim", started-on = "2010-01-22" },
   { artist-id = "wonder-girls/so-hee", ended-on = "2013-12-21" },
-  { artist-id = "wonder-girls/sun-mi", ended-on = "2010-01-22" },
+  { artist-id = "wonder-girls/sunmi", ended-on = "2010-01-22" },
   { artist-id = "wonder-girls/sun-ye" },
   { artist-id = "wonder-girls/ye-eun" },
   { artist-id = "wonder-girls/yubin", started-on = "2007-09-07" },

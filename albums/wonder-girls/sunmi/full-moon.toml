@@ -1,0 +1,14 @@
+artist-id = "wonder-girls/sunmi"
+kind = "ep"
+
+names = [
+  { name = "Full Moon", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-02-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2233456" },
+]

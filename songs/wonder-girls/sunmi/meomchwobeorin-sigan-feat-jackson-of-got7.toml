@@ -1,0 +1,5 @@
+names = [
+  { name = "멈춰버린 시간 (Feat. Jackson of GOT7)", locale = "ko", original = true },
+  { name = "Meomchwobeorin Sigan (Feat. Jackson of GOT7)", locale = "ko-Latn", default = true },
+  { name = "Time is Up (Feat. Jackson of GOT7)", locale = "en" },
+]

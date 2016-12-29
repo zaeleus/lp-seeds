@@ -1,0 +1,5 @@
+names = [
+  { name = "내가 누구 (Feat. 유빈 of Wonder Girls)", locale = "ko", original = true },
+  { name = "Naega Nugu (Feat. Yubin of Wonder Girls)", locale = "ko-Latn", default = true },
+  { name = "Who Am I (Feat. Yubin of Wonder Girls)", locale = "en" },
+]
