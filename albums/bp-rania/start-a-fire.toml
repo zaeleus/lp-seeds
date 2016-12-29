@@ -1,0 +1,14 @@
+artist-id = "bp-rania"
+kind = "ep"
+
+names = [
+  { name = "Start a Fire", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-12-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10027107" },
+]
