@@ -5,7 +5,7 @@ names = [
 ]
 
 urls = [
-  { url = "https://www.youtube.com/watch?v=EIOEdGjNMYU" },
+  { url = "https://www.youtube.com/watch?v=EIOEdGjNMYU", name = "Music Video" },
 ]
 
 [[artist-credits]]
