@@ -1,0 +1,28 @@
+medium-ids = [
+  "trouble-maker/chemistry/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "trouble-maker/bollyumeul-nopigo"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "trouble-maker/naeireun-eopseo"
+duration = "3:38"
+
+[[tracks]]
+position = 3
+song-id = "trouble-maker/nolgo-sipeun-girl-feat-hyuna"
+duration = "3:45"
+
+[[tracks]]
+position = 4
+song-id = "trouble-maker/iri-wa-attention"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "trouble-maker/i-like-feat-flowsik-of-aziatix"
+duration = "3:30"

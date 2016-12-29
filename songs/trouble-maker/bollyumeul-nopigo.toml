@@ -1,0 +1,5 @@
+names = [
+  { name = "볼륨을 높이고", locale = "ko", original = true },
+  { name = "Bollyumeul Nopigo", locale = "ko-Latn", default = true },
+  { name = "Turn Up the Volume", locale = "en" },
+]

@@ -1,0 +1,12 @@
+names = [
+  { name = "놀고 싶은 Girl (Feat. 현아)", locale = "ko", original = true },
+  { name = "Nolgo Sipeun Girl (Feat. HyunA)", locale = "ko-Latn", default = true },
+  { name = "Player (Feat. HyunA)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "beast/jang-hyun-seung"
+names = [
+  { name = "장현승", locale = "ko", original = true },
+  { name = "Jang Hyun Seung", locale = "ko-Latn", default = true },
+]
