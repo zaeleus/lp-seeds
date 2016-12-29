@@ -1,0 +1,16 @@
+artist-id = "wonder-girls/sunmi"
+kind = "single"
+
+names = [
+  { name = "24시간이 모자라", locale = "ko", original = true },
+  { name = "24 Sigani Mojara", locale = "ko-Latn", default = true },
+  { name = "24 Hours", locale = "en" },
+]
+
+[[releases]]
+released-on = "2013-08-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2197599" },
+]
