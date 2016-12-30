@@ -1,0 +1,5 @@
+names = [
+  { name = "전해오는 이야기", locale = "ko", original = true },
+  { name = "Jeonhaeoneun Iyagi", locale = "ko-Latn", default = true },
+  { name = "A Story from the Past", locale = "en" },
+]

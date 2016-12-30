@@ -1,0 +1,5 @@
+names = [
+  { name = "홍연", locale = "ko", original = true },
+  { name = "Hongyeon", locale = "ko-Latn", default = true },
+  { name = "The Red Knot", locale = "en" },
+]

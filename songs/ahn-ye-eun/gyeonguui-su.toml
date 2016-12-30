@@ -1,0 +1,5 @@
+names = [
+  { name = "경우의 수", locale = "ko", original = true },
+  { name = "Gyeonguui Su", locale = "ko-Latn", default = true },
+  { name = "Number of Cases", locale = "en" },
+]
