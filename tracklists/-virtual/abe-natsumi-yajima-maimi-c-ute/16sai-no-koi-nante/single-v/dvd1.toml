@@ -30,6 +30,15 @@ names = [
   { name = "Making Eizou", locale = "ja-Latn", default = true },
   { name = "Making of", locale = "en" },
 ]
+[[tracks.artist-credits]]
+artist-id = "morning-musume/abe-natsumi"
+separator = " & "
+[[tracks.artist-credits]]
+artist-id = "c-ute/yajima-maimi"
+names = [
+  { name = "矢島舞美 (°C-ute)", locale = "ja", kind = "real", original = true },
+  { name = "Yajima Maimi (°C-ute)", locale = "ja-Latn", kind = "real", default = true },
+]
 
 [[tracks]]
 position = 4
@@ -37,4 +46,13 @@ duration = "4:13"
 names = [
   { name = "スペシャルエンドロール", locale = "ja", original = true },
   { name = "Special End Roll", locale = "en", default = true },
+]
+[[tracks.artist-credits]]
+artist-id = "morning-musume/abe-natsumi"
+separator = " & "
+[[tracks.artist-credits]]
+artist-id = "c-ute/yajima-maimi"
+names = [
+  { name = "矢島舞美 (°C-ute)", locale = "ja", kind = "real", original = true },
+  { name = "Yajima Maimi (°C-ute)", locale = "ja-Latn", kind = "real", default = true },
 ]
