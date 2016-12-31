@@ -2,3 +2,13 @@ names = [
   { name = "I'll Be There (희진, 현진)", locale = "ko", original = true },
   { name = "I'll Be There (HeeJin, HyunJin)", locale = "ko-Latn", default = true },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=_LlegKi7CaU", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=pKybkK2gj1U", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "loona/heejin", kind = "performer" },
+  { artist-id = "loona/hyunjin", kind = "performer" },
+]

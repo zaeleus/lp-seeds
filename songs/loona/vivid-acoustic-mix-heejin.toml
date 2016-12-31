@@ -2,3 +2,12 @@ names = [
   { name = "ViViD (Acoustic Mix) (희진)", locale = "ko", original = true },
   { name = "ViViD (Acoustic Mix) (HeeJin)", locale = "ko-Latn", default = true },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=xa8XKgod2e0", name = "Paris Teaser" },
+  { url = "https://www.youtube.com/watch?v=pYbUP6qkU7M", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "loona/heejin", kind = "performer" },
+]

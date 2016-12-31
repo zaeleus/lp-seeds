@@ -1,5 +1,15 @@
 names = [
   { name = "소년, 소녀 (하슬)", locale = "ko", original = true },
   { name = "Sonyeon, Sonyeo (HaSeul)", locale = "ko-Latn", default = true },
-  { name = "Boy, Girl (HaSeul)", locale = "en" },
+  { name = "Let Me In (HaSeul)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=G6bik-3gi-Y", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=fEx8ZvyxS9o", name = "Iceland Teaser" },
+  { url = "https://www.youtube.com/watch?v=6a4BWpBJppI", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "loona/haseul", kind = "performer" },
 ]

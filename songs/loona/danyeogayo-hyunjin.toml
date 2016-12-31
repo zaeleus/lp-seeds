@@ -3,3 +3,14 @@ names = [
   { name = "Danyeogayo (HyunJin)", locale = "ko-Latn", default = true },
   { name = "Around You", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=BNuiLGKjreg", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=V8Foxe6FXxw", name = "Tokyo Teaser" },
+  { url = "https://www.youtube.com/watch?v=ePFojB292-Q", name = "Music Video (Original Film Ver.)" },
+  { url = "https://www.youtube.com/watch?v=mybsDDymrsc", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "loona/hyunjin", kind = "performer" },
+]

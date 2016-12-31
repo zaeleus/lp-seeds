@@ -2,3 +2,13 @@ names = [
   { name = "ViViD (희진)", locale = "ko", original = true },
   { name = "ViViD (HeeJin)", locale = "ko-Latn", default = true },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=cbBLtQizxPM", name = "Seoul Teaser" },
+  { url = "https://www.youtube.com/watch?v=liexg2epOfg", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=-FCYE87P5L0", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "loona/heejin", kind = "performer" },
+]

@@ -3,3 +3,16 @@ names = [
   { name = "The Carol (Idarui Sonyeo, HaSeul)", locale = "ko-Latn" },
   { name = "The Carol (LOOΠΔ, HaSeul)", locale = "en", default = true },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Exh75NFPodA", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=10n-bqQDpIA", name = "London Teaser" },
+  { url = "https://www.youtube.com/watch?v=WX-lpEnIQQk", name = "Music Video" },
+
+]
+
+contributions = [
+  { artist-id = "loona/heejin", kind = "performer" },
+  { artist-id = "loona/hyunjin", kind = "performer" },
+  { artist-id = "loona/haseul", kind = "performer" },
+]
