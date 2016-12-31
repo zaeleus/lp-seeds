@@ -1,0 +1,16 @@
+artist-id = "apink"
+kind = "lp"
+
+names = [
+  { name = "PINK♥DOLL", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-12-21"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1183186519" },
+  { url = "http://mora.jp/package/43000006/00602557336573/" },
+  { url = "http://recochoku.jp/album/A1005528733/" },
+]
