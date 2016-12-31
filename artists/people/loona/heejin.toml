@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "2000-10-19"
+country = "KR"
+
+names = [
+  { name = "희진", locale = "ko", kind = "stage", original = true },
+  { name = "HeeJin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "전희진", locale = "ko", kind = "real" },
+  { name = "Jeon Hee Jin", locale = "ko-Latn", kind = "real" },
+]

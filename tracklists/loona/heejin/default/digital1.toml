@@ -1,0 +1,13 @@
+medium-ids = [
+  "loona/heejin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/vivid-heejin"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "loona/vivid-acoustic-mix-heejin"
+duration = "3:36"
