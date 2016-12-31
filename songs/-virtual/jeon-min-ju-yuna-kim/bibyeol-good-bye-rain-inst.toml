@@ -1,0 +1,17 @@
+names = [
+  { name = "비별 (Good Bye Rain) (Inst.)", locale = "ko", original = true },
+  { name = "Bibyeol (Good Bye Rain) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Good Bye Rain (Inst.)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "the-ark/minju"
+names = [
+  { name = "전민주", locale = "ko", original = true },
+  { name = "Jeon Min Ju", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "the-ark/yuna-kim"
+

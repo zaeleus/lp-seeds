@@ -1,0 +1,22 @@
+names = [
+  { name = "비별 (Good Bye Rain) (Feat. 현규 of Bromance)", locale = "ko", original = true },
+  { name = "Bibyeol (Good Bye Rain) (Feat. Hyun Kyu of Bromance)", locale = "ko-Latn", default = true },
+  { name = "Good Bye Rain (Feat. Hyun Kyu of Bromance)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=wMnYtjO7dlg", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=7_TRlWiqH08", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=ketV7tGfpBw", name = "Music Video (Performance ver.)" },
+]
+
+[[artist-credits]]
+artist-id = "the-ark/minju"
+names = [
+  { name = "전민주", locale = "ko", original = true },
+  { name = "Jeon Min Ju", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "the-ark/yuna-kim"

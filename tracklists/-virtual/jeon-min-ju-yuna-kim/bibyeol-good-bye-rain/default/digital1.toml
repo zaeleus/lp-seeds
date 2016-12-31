@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/jeon-min-ju-yuna-kim/bibyeol-good-bye-rain/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/jeon-min-ju-yuna-kim/bibyeol-good-bye-rain-feat-hyun-kyu-of-bromance"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/jeon-min-ju-yuna-kim/bibyeol-good-bye-rain-inst"
+duration = "4:03"
