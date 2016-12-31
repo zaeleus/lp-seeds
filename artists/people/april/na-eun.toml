@@ -1,0 +1,13 @@
+kind = "person"
+started-on = "1999-05-05"
+country = "KR"
+
+names = [
+  { name = "나은", locale = "ko", kind = "stage", original = true },
+  { name = "Na Eun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이나은", locale = "ko", kind = "real" },
+  { name = "Lee Na Eun", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "O"

@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1996-08-22"
+country = "KR"
+
+names = [
+  { name = "소민", locale = "ko", kind = "stage", original = true },
+  { name = "So Min", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "전소민", locale = "ko", kind = "real" },
+  { name = "Jeon So Min", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "A"
+weight = 45
+height = 163

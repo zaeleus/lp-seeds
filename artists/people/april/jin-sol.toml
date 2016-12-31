@@ -1,0 +1,13 @@
+kind = "person"
+started-on = "2001-12-04"
+country = "KR"
+
+names = [
+  { name = "진솔", locale = "ko", kind = "stage", original = true },
+  { name = "Jin Sol", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이진솔", locale = "ko", kind = "real" },
+  { name = "Lee Jin Sol", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "O"

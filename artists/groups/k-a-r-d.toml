@@ -5,3 +5,7 @@ country = "KR"
 names = [
   { name = "K.A.R.D", locale = "ko", original = true, default = true },
 ]
+
+members = [
+  { artist-id = "k-a-r-d/so-min" },
+]

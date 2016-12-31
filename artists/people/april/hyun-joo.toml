@@ -1,0 +1,13 @@
+kind = "person"
+started-on = "1998-02-05"
+country = "KR"
+
+names = [
+  { name = "현주", locale = "ko", kind = "stage", original = true },
+  { name = "Hyun Joo", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이현주", locale = "ko", kind = "real" },
+  { name = "Lee Hyun Joo", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "B"

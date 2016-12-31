@@ -6,3 +6,11 @@ names = [
   { name = "아이비아이", locale = "ko", original = true },
   { name = "I.B.I", locale = "ko-Latn", default = true },
 ]
+
+[[members]]
+[[members.artist-credits]]
+artist-id = "april/chae-kyung"
+names = [
+  { name = "윤채경", locale = "ko", original = true },
+  { name = "Yoon Chae Kyung", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,13 @@
+kind = "person"
+started-on = "1997-11-08"
+country = "KR"
+
+names = [
+  { name = "채원", locale = "ko", kind = "stage", original = true },
+  { name = "Chae Won", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김채원", locale = "ko", kind = "real" },
+  { name = "Kim Chae Won", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "O"

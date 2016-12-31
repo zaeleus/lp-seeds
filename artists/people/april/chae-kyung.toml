@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1996-07-07"
+country = "KR"
+
+names = [
+  { name = "채경", locale = "ko", kind = "stage", original = true },
+  { name = "Chae Kyung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "윤채경", locale = "ko", kind = "real" },
+  { name = "Yoon Chae Kyung", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "AB"
+weight = 45
+height = 160

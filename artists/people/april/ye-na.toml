@@ -1,0 +1,13 @@
+kind = "person"
+started-on = "2000-05-22"
+country = "KR"
+
+names = [
+  { name = "예나", locale = "ko", kind = "stage", original = true },
+  { name = "Ye Na", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "양예나", locale = "ko", kind = "real" },
+  { name = "Yang Ye Na", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "A"

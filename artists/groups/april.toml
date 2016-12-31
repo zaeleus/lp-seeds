@@ -15,3 +15,31 @@ urls = [
   { url = "https://www.facebook.com/APRIL.DSPmedia" },
   { url = "https://www.instagram.com/official.april/" },
 ]
+
+[[members]]
+artist-id = "k-a-r-d/so-min"
+ended-on = "2015-11-09"
+
+[[members]]
+artist-id = "april/hyun-joo"
+ended-on = "2016-10-29"
+
+[[members]]
+artist-id = "april/chae-kyung"
+started-on = "2017-11-11"
+
+[[members]]
+artist-id = "april/chae-won"
+
+[[members]]
+artist-id = "april/jin-sol"
+
+[[members]]
+artist-id = "april/na-eun"
+
+[[members]]
+artist-id = "april/rachel"
+started-on = "2017-11-24"
+
+[[members]]
+artist-id = "april/ye-na"
