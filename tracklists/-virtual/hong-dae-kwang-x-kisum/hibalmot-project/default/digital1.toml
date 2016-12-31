@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/hong-dae-kwang-x-kisum/hibalmot-project/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/hong-dae-kwang-x-kisum/hiphop-mwonde"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/hong-dae-kwang-x-kisum/hiphop-mwonde-inst"
+duration = "3:36"

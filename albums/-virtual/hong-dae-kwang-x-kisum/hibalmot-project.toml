@@ -1,0 +1,22 @@
+artist-id = "-virtual/hong-dae-kwang-x-kisum"
+kind = "single"
+
+names = [
+  { name = "힙알못 프로젝트", locale = "ko", original = true },
+  { name = "Hibalmot Project", locale = "ko-Latn", default = true },
+  { name = "#WTF Project", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "hong-dae-kwang", separator = " X " },
+  { artist-id = "kisum" },
+]
+
+[[releases]]
+released-on = "2016-11-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1178554544" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=10016995" },
+]

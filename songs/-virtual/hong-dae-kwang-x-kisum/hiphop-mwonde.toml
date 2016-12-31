@@ -1,0 +1,10 @@
+names = [
+  { name = "힙합이 뭔데?", locale = "ko", original = true },
+  { name = "Hiphop Mwonde?", locale = "ko-Latn", default = true },
+  { name = "What the Hiphop!?", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "hong-dae-kwang", separator = " X " },
+  { artist-id = "kisum" },
+]
