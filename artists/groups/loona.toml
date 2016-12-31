@@ -10,6 +10,7 @@ names = [
 ]
 
 members = [
+  { artist-id = "loona/hyunjin" },
   { artist-id = "loona/haseul" },
 ]
 
