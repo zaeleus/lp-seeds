@@ -5,3 +5,17 @@ country = "KR"
 names = [
   { name = "C.I.V.A", locale = "ko", original = true, default = true },
 ]
+
+[[members]]
+[[members.artist-credits]]
+artist-id = "april/chae-kyung"
+names = [
+  { name = "윤채경", locale = "ko", kind = "real" },
+  { name = "Yoon Chae Kyung", locale = "ko-Latn", kind = "real" },
+]
+
+[[members]]
+artist-id = "c-i-v-a/lee-soo-min"
+
+[[members]]
+artist-id = "i-b-i/kim-so-hee"

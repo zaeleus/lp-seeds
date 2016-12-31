@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1984-10-05"
+country = "KR"
+
+names = [
+  { name = "이수민", locale = "ko", kind = "real", original = true },
+  { name = "Lee Soo Min", locale = "ko-Latn", kind = "real", default = true },
+]
