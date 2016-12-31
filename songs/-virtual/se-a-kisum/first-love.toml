@@ -1,0 +1,8 @@
+names = [
+  { name = "First Love", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "se-a", separator = " & " },
+  { artist-id = "kisum" },
+]
