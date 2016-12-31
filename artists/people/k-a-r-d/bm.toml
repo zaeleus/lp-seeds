@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1992-10-20"
+country = "KR"
+
+names = [
+  { name = "비엠", locale = "ko", kind = "stage", original = true },
+  { name = "BM", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Matthew Kim", locale = "en", kind = "real" },
+]

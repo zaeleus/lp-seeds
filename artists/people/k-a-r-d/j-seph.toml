@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1992-06-21"
+country = "KR"
+
+names = [
+  { name = "제이셉", locale = "ko", kind = "stage", original = true },
+  { name = "J.Seph", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김태형", locale = "ko", kind = "real" },
+  { name = "Kim Tae Hyung", locale = "ko-Latn", kind = "real" },
+]

@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1996-10-04"
+country = "KR"
+
+names = [
+  { name = "지우", locale = "ko", kind = "stage", original = true },
+  { name = "Ji Woo", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "전지우", locale = "ko", kind = "real" },
+  { name = "Jeon Ji Woo", locale = "ko-Latn", kind = "real" },
+]
