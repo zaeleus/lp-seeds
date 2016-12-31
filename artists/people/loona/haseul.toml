@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1997-08-18"
+country = "KR"
+
+names = [
+  { name = "하슬", locale = "ko", kind = "stage", original = true },
+  { name = "HaSeul", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조하슬", locale = "ko", kind = "real" },
+  { name = "Cho Ha Seul", locale = "ko-Latn", kind = "real" },
+]

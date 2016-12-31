@@ -1,0 +1,22 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "이달의 소녀", locale = "ko", original = true },
+  { name = "Idarui Sonyeo", locale = "ko-Latn" },
+  { name = "LOOΠΔ", locale = "en", default = true },
+  { name = "LOONA", locale = "en" },
+]
+
+members = [
+  { artist-id = "loona/haseul" },
+]
+
+urls = [
+  { url = "http://www.loonatheworld.com/" },
+  { url = "https://www.facebook.com/loonatheworld/" },
+  { url = "https://www.instagram.com/loonatheworld/" },
+  { url = "https://twitter.com/loonatheworld" },
+  { url = "https://www.youtube.com/channel/UCOJplhB0wGQWv9OuRmMT-4g" },
+]

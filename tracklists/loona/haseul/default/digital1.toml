@@ -1,0 +1,13 @@
+medium-ids = [
+  "loona/haseul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/the-carol-loo-haseul"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "loona/sonyeon-sonyeo-haseul"
+duration = "3:07"

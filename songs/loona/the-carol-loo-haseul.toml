@@ -1,0 +1,5 @@
+names = [
+  { name = "The Carol (이달의 소녀, 하슬)", locale = "ko", original = true },
+  { name = "The Carol (Idarui Sonyeo, HaSeul)", locale = "ko-Latn" },
+  { name = "The Carol (LOOΠΔ, HaSeul)", locale = "en", default = true },
+]
