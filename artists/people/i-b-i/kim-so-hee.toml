@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1995-01-20"
+country = "KR"
+
+names = [
+  { name = "김소희", locale = "ko", kind = "real", original = true },
+  { name = "Kim So Hee", locale = "ko-Latn", kind = "real", default = true },
+]

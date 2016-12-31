@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1997-08-24"
+country = "KR"
+
+names = [
+  { name = "한혜리", locale = "ko", kind = "real", original = true },
+  { name = "Han Hye Ri", locale = "ko-Latn", kind = "real", default = true },
+]

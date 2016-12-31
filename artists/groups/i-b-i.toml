@@ -14,3 +14,15 @@ names = [
   { name = "윤채경", locale = "ko", original = true },
   { name = "Yoon Chae Kyung", locale = "ko-Latn", default = true },
 ]
+
+[[members]]
+artist-id = "i-b-i/han-hye-ri"
+
+[[members]]
+artist-id = "i-b-i/kim-so-hee"
+
+[[members]]
+artist-id = "i-b-i/lee-hae-in"
+
+[[members]]
+artist-id = "i-b-i/lee-su-hyun"

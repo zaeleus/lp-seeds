@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1996-09-05"
+country = "KR"
+
+names = [
+  { name = "이수현", locale = "ko", kind = "real", original = true },
+  { name = "Lee Su Hyun", locale = "ko-Latn", kind = "real", default = true },
+]
