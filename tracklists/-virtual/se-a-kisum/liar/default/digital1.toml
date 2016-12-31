@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/se-a-kisum/liar/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/se-a-kisum/liar"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/se-a-kisum/liar-inst"
+duration = "3:42"

@@ -1,0 +1,19 @@
+artist-id = "-virtual/se-a-kisum"
+kind = "single"
+
+names = [
+  { name = "Liar", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "se-a", separator = " & " },
+  { artist-id = "kisum" },
+]
+
+[[releases]]
+released-on = "2014-03-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2236960" },
+]
