@@ -1,0 +1,14 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "다이아", locale = "ko", original = true },
+  { name = "L.U.B", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { artist-id = "dia/eunchae" },
+  { artist-id = "dia/eunjin" },
+  { artist-id = "dia/jenny" },
+]

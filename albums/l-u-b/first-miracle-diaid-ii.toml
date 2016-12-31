@@ -1,0 +1,14 @@
+artist-id = "l-u-b"
+kind = "single"
+
+names = [
+  { name = "First Miracle DIAID II", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-12-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10027375" },
+]
