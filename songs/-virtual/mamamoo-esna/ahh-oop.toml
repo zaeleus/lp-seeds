@@ -1,0 +1,18 @@
+names = [
+  { name = "AHH OOP! (아훕!)", locale = "ko", original = true },
+  { name = "AHH OOP!", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "mamamoo", separator = ", " },
+  { artist-id = "esna" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=WhxghQYsH5A", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=JoqLnkcjZmQ", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "esna", kind = "performer" },
+]

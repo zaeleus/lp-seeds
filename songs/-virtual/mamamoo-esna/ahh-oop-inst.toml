@@ -2,3 +2,8 @@ names = [
   { name = "AHH OOP! (아훕!) (Inst.)", locale = "ko", original = true },
   { name = "AHH OOP! (Inst.)", locale = "en", default = true },
 ]
+
+artist-credits = [
+  { artist-id = "mamamoo", separator = ", " },
+  { artist-id = "esna" },
+]

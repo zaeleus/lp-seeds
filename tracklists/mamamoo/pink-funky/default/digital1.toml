@@ -29,8 +29,11 @@ duration = "3:17"
 
 [[tracks]]
 position = 6
-song-id = "mamamoo/ahh-oop"
+song-id = "-virtual/mamamoo-esna/ahh-oop"
 duration = "3:21"
+artist-credits = [
+  { artist-id = "mamamoo" },
+]
 
 [[tracks]]
 position = 7

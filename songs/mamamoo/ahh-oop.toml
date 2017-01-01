@@ -1,8 +1,0 @@
-names = [
-  { name = "AHH OOP! (아훕!)", locale = "ko", original = true },
-  { name = "AHH OOP!", locale = "en", default = true },
-]
-
-contributions = [
-  { artist-id = "esna", kind = "performer" },
-]
