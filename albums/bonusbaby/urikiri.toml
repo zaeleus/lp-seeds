@@ -1,0 +1,17 @@
+artist-id = "bonusbaby"
+kind = "single"
+
+names = [
+  { name = "우리끼리", locale = "ko", original = true },
+  { name = "Urikiri", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-01-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10027327" },
+  { url = "http://www.mnet.com/album/1752569" },
+  { url = "http://music.naver.com/album/index.nhn?albumId=1771316" },
+]

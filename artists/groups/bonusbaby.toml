@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = " 보너스베이비", locale = "ko", original = true },
+  { name = "BONUSbaby", locale = "ko-Latn", default = true },
+]

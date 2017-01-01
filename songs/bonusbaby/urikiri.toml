@@ -1,0 +1,8 @@
+names = [
+  { name = "우리끼리", locale = "ko", original = true },
+  { name = "Urikiri", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=-BfiI-F-YZU", name = "Music Video" },
+]
