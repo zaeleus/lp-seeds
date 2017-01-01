@@ -1,0 +1,21 @@
+artist-id = "-virtual/san-e-x-raina"
+kind = "single"
+
+names = [
+  { name = "한여름밤의 꿀", locale = "ko", original = true },
+  { name = "Hanyeoreumbamui Kkul", locale = "ko-Latn", default = true },
+  { name = "A Midsummer Night's Sweetness", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "san-e", separator = " X " },
+  { artist-id = "after-school/raina" },
+]
+
+[[releases]]
+released-on = "2014-06-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2260223" },
+]
