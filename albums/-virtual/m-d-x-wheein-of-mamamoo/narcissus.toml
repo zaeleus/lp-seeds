@@ -8,7 +8,7 @@ names = [
 
 [[artist-credits]]
 artist-id = "m-d"
-separator = " x "
+separator = " X "
 
 [[artist-credits]]
 artist-id = "mamamoo/wheein"

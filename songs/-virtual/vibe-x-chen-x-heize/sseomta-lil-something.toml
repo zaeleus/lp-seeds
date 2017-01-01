@@ -4,8 +4,8 @@ names = [
 ]
 
 artist-credits = [
-  { artist-id = "vibe", separator = " x " },
-  { artist-id = "exo/chen", separator = " x " },
+  { artist-id = "vibe", separator = " X " },
+  { artist-id = "exo/chen", separator = " X " },
   { artist-id = "heize" },
 ]
 

@@ -8,7 +8,7 @@ names = [
 ]
 
 artist-credits = [
-  { artist-id = "san-e", separator = ", " },
+  { artist-id = "san-e", separator = " X " },
   { artist-id = "after-school/raina" },
 ]
 
