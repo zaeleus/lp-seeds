@@ -1,0 +1,5 @@
+names = [
+  { name = "불면증 (Can't Sleep)", locale = "ko", original = true },
+  { name = "Bulmyeonjeung (Can't Sleep)", locale = "ko-Latn", default = true },
+  { name = "Can't Sleep", locale = "en" },
+]

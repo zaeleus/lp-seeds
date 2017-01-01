@@ -1,0 +1,4 @@
+names = [
+  { name = "Lily (Feat. 로운 of SF9)", locale = "ko", original = true },
+  { name = "Lily (Feat. Ro Woon of SF9)", locale = "ko-Latn", default = true },
+]
