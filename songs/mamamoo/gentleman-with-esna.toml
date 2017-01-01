@@ -1,3 +1,7 @@
 names = [
   { name = "Gentleman (With eSNa)", locale = "ko", original = true, default = true },
 ]
+
+contributions = [
+  { artist-id = "esna", kind = "performer" },
+]

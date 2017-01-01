@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1987-11-07"
+country = "KR"
+
+names = [
+  { name = "에스나", locale = "ko", kind = "stage", original = true },
+  { name = "eSNa", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "윤빛나라", locale = "ko", kind = "real" },
+  { name = "Yoon Bit Na Ra", locale = "ko-Latn", kind = "real" },
+]

@@ -1,0 +1,18 @@
+medium-ids = [
+  "esna/attention/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "esna/attention"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "esna/attention-english-ver"
+duration = "3:01"
+
+[[tracks]]
+position = 3
+song-id = "esna/attention-inst"
+duration = "3:01"
