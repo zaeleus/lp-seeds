@@ -12,3 +12,12 @@ media = [{ kind = "digital" }]
 urls = [
   { url = "http://www.melon.com/album/detail.htm?albumId=10023410" },
 ]
+
+[[releases]]
+released-on = "2016-12-15"
+country = "KR"
+catalog-number = "L200001356"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=001209944" },
+]
