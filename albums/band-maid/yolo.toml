@@ -1,0 +1,15 @@
+artist-id = "band-maid"
+kind = "single"
+
+names = [
+  { name = "YOLO", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-11-16"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1168489643" },
+  { url = "http://mora.jp/package/43000028/CRCP-10367/" },
+]

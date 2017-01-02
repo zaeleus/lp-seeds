@@ -1,0 +1,11 @@
+kind = "group"
+started-on = "2013"
+country = "JP"
+
+names = [
+  { name = "BAND-MAID", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "http://bandmaid.tokyo/" },
+]

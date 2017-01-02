@@ -1,0 +1,23 @@
+medium-ids = [
+  "band-maid/yolo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "band-maid/yolo"
+duration = "4:26"
+
+[[tracks]]
+position = 2
+song-id = "band-maid/unfair-game"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "band-maid/matchless-gum"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song-id = "band-maid/yolo-instrumental"
+duration = "4:25"
