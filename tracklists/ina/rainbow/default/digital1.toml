@@ -1,0 +1,13 @@
+medium-ids = [
+  "ina/rainbow/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ina/rainbow"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "ina/mariya"
+duration = "3:14"
