@@ -1,0 +1,4 @@
+names = [
+  { name = "My Rainbow (친구-세번째 이야기)", locale = "ko", original = true },
+  { name = "My Rainbow (Chingu-Sebeonjjae Iyagi)", locale = "ko-Latn", default = true },
+]

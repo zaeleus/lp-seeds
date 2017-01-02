@@ -1,0 +1,5 @@
+names = [
+  { name = "산다는 건 다 그런 게 아니겠니 (Life)", locale = "ko", original = true },
+  { name = "Sandaneun Geon Da Geureon Ge Anigessni (Life)", locale = "ko-Latn", default = true },
+  { name = "Life", locale = "en" },
+]

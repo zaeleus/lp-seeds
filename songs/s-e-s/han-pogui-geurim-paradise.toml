@@ -1,0 +1,10 @@
+names = [
+  { name = "한 폭의 그림 (Paradise)", locale = "ko", original = true },
+  { name = "Han Pogui Geurim (Paradise)", locale = "ko-Latn", default = true },
+  { name = "Paradise", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=QxWZjhTQjsM", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=vAO_OcRz6xQ", name = "Music Video" },
+]

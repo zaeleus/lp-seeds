@@ -1,0 +1,5 @@
+names = [
+  { name = "그대로부터 세상 빛은 시작되고 (The Light)", locale = "ko", original = true },
+  { name = "Geudaerobuteo Sesang Bicceun Sijakdoego (The Light)", locale = "ko-Latn", default = true },
+  { name = "The Light", locale = "en" },
+]

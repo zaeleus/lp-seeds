@@ -1,0 +1,53 @@
+medium-ids = [
+  "s-e-s/remember/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "s-e-s/candy-lane"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "s-e-s/remember"
+duration = "4:04"
+
+[[tracks]]
+position = 3
+song-id = "s-e-s/han-pogui-geurim-paradise"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "s-e-s/birthday"
+duration = "3:39"
+
+[[tracks]]
+position = 5
+song-id = "s-e-s/my-rainbow-chingu-sebeonjjae-iyagi"
+duration = "4:16"
+
+[[tracks]]
+position = 6
+song-id = "s-e-s/hush"
+duration = "3:55"
+
+[[tracks]]
+position = 7
+song-id = "s-e-s/sandaneun-geon-da-geureon-ge-anigessni-life"
+duration = "3:56"
+
+[[tracks]]
+position = 8
+song-id = "s-e-s/geudaerobuteo-sesang-bicceun-sijakdoego-the-light"
+duration = "4:28"
+
+[[tracks]]
+position = 9
+song-id = "s-e-s/love-story"
+duration = "3:59"
+
+[[tracks]]
+position = 10
+song-id = "s-e-s/remember-english-ver"
+duration = "4:04"
