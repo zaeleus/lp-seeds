@@ -1,0 +1,10 @@
+names = [
+  { name = "夜明け前", locale = "ja", original = true },
+  { name = "Yoake Mae", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "band-maid"
+names = [
+  { name = "BAND-MAID®", locale = "ja", original = true, default = true },
+]

@@ -1,0 +1,9 @@
+names = [
+  { name = "Forward", locale = "ja", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "band-maid"
+names = [
+  { name = "BAND-MAID®", locale = "ja", original = true, default = true },
+]

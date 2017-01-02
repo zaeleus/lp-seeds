@@ -1,0 +1,22 @@
+artist-id = "band-maid"
+kind = "lp"
+
+names = [
+  { name = "MAID IN JAPAN", locale = "ja", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "band-maid"
+names = [
+  { name = "BAND-MAID®", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-01-07"
+country = "JP"
+catalog-number = "PPRC-6"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://bandmaid.tokyo/music/36489" },
+  { url = "http://www.oricon.co.jp/prof/605367/products/1059253/2/" },
+]
