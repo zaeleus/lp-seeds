@@ -1,6 +1,5 @@
 names = [
-  { name = "スリル", locale = "ja", original = true },
-  { name = "Thrill", locale = "en", default = true },
+  { name = "Summer Drive", locale = "ja", original = true, default = true },
 ]
 
 [[artist-credits]]

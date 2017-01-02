@@ -1,0 +1,23 @@
+artist-id = "band-maid"
+kind = "single"
+
+names = [
+  { name = "愛と情熱のマタドール", locale = "ja", original = true },
+  { name = "Ai to Jounetsu no Matador", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "band-maid"
+names = [
+  { name = "BAND-MAID®", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-08-12"
+country = "JP"
+catalog-number = "PPRC-0010"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://bandmaid.tokyo/music/36466" },
+  { url = "http://www.oricon.co.jp/prof/605367/products/1089737/1/" },
+]

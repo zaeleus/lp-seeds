@@ -5,6 +5,10 @@ medium-ids = [
 [[tracks]]
 position = 1
 song-id = "band-maid/thrill"
+names = [
+  { name = "Thrill (スリル)", locale = "ja", original = true },
+  { name = "Thrill", locale = "en", default = true },
+]
 
 [[tracks]]
 position = 2

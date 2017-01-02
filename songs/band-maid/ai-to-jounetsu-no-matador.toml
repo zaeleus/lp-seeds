@@ -1,0 +1,10 @@
+names = [
+  { name = "愛と情熱のマタドール", locale = "ja", original = true },
+  { name = "Ai to Jounetsu no Matador", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "band-maid"
+names = [
+  { name = "BAND-MAID®", locale = "ja", original = true, default = true },
+]
