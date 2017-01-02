@@ -1,0 +1,28 @@
+artist-id = "band-maid"
+kind = "lp"
+
+names = [
+  { name = "Brand New MAID", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-05-17"
+country = "JP"
+catalog-number = "CRCP-40460"
+media = [{ kind = "cd" }]
+disambiguation = "Type-A"
+urls = [
+  { url = "http://bandmaid.tokyo/music/55500" },
+  { url = "http://www.oricon.co.jp/prof/605367/products/1173486/1/" },
+]
+
+[[releases]]
+released-on = "2016-05-17"
+country = "JP"
+catalog-number = "CRCP-40461"
+media = [{ kind = "cd" }]
+disambiguation = "Type-B"
+urls = [
+  { url = "http://bandmaid.tokyo/music/55501" },
+  { url = "http://www.oricon.co.jp/prof/605367/products/1173487/1/" },
+]

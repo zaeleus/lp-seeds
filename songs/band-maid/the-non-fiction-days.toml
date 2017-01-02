@@ -1,0 +1,3 @@
+names = [
+  { name = "the non-fiction days", locale = "ja", original = true, default = true },
+]
