@@ -1,0 +1,23 @@
+artist-id = "cosmic-girls"
+kind = "ep"
+
+names = [
+  { name = "From. 우주소녀", locale = "ko", original = true },
+  { name = "From. Wu Ju So Nyeo", locale = "ko-Latn" },
+  { name = "From. WJSN", locale = "en", default = true },
+  { name = "From. Cosmic Girls", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=lK7a49DcpoA", name = "Preview" },
+]
+
+[[releases]]
+released-on = "2017-01-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10028121" },
+  { url = "http://www.mnet.com/album/1753442" },
+  { url = "http://music.naver.com/album/index.nhn?albumId=1772194" },
+]

@@ -1,0 +1,33 @@
+medium-ids = [
+  "cosmic-girls/from-wjsn/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cosmic-girls/neoege-dahgireul-i-wish"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "cosmic-girls/baby-come-to-me"
+duration = "3:07"
+
+[[tracks]]
+position = 3
+song-id = "cosmic-girls/juseyo-say-yes"
+duration = "3:36"
+
+[[tracks]]
+position = 4
+song-id = "cosmic-girls/choeae-perfect"
+duration = "3:34"
+
+[[tracks]]
+position = 5
+song-id = "cosmic-girls/iriwa-hug-u"
+duration = "3:28"
+
+[[tracks]]
+position = 6
+song-id = "cosmic-girls/neoege-dahgireul-chinese-ver"
+duration = "3:38"

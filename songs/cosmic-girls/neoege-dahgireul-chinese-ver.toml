@@ -1,0 +1,5 @@
+names = [
+  { name = "너에게 닿기를 (Chinese Ver.)", locale = "ko", original = true },
+  { name = "Neoege Dahgireul (Chinese Ver.)", locale = "ko-Latn", default = true },
+  { name = "I Wish (Chinese Ver.)", locale = "en" },
+]

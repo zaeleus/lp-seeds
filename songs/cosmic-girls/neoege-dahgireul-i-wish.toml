@@ -1,0 +1,10 @@
+names = [
+  { name = "너에게 닿기를 (I Wish)", locale = "ko", original = true },
+  { name = "Neoege Dahgireul (I Wish)", locale = "ko-Latn", default = true },
+  { name = "I Wish", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=lcuEJW1-R_o", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=J7gOqqbBW6w", name = "Music Video" },
+]
