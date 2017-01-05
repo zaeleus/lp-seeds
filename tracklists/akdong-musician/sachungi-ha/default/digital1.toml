@@ -1,0 +1,43 @@
+medium-ids = [
+  "akdong-musician/sachungi-ha/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "akdong-musician/saengbangsong"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "akdong-musician/reality"
+duration = "2:53"
+
+[[tracks]]
+position = 3
+song-id = "akdong-musician/oraen-nal-oraen-bam"
+duration = "4:43"
+
+[[tracks]]
+position = 4
+song-id = "akdong-musician/play-ugly"
+duration = "3:19"
+
+[[tracks]]
+position = 5
+song-id = "akdong-musician/chocolady"
+duration = "4:03"
+
+[[tracks]]
+position = 6
+song-id = "akdong-musician/you-know-me"
+duration = "3:01"
+
+[[tracks]]
+position = 7
+song-id = "akdong-musician/jibe-doraoneun-gil"
+duration = "3:48"
+
+[[tracks]]
+position = 8
+song-id = "akdong-musician/geuttae-geu-aideureun"
+duration = "4:24"

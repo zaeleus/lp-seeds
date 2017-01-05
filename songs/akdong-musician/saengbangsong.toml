@@ -1,0 +1,5 @@
+names = [
+  { name = "생방송", locale = "ko", original = true },
+  { name = "Saengbangsong", locale = "ko-Latn", default = true },
+  { name = "Live", locale = "en" },
+]
