@@ -1,0 +1,13 @@
+medium-ids = [
+  "mixx/sarangeun-gapjagi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mixx/sarangeun-gapjagi"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "mixx/sarangeun-gapjagi-inst"
+duration = "3:29"
