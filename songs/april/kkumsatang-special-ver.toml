@@ -1,0 +1,5 @@
+names = [
+  { name = "꿈사탕 (Special Ver.)", locale = "ko", original = true },
+  { name = "Kkumsatang (Special Ver.)", locale = "ko-Latn", default = true },
+  { name = "Dream Candy (Special Ver.)", locale = "en" },
+]
