@@ -1,0 +1,9 @@
+names = [
+  { name = "널 미워하지 않길 (Prod. By 하동균)", locale = "ko", original = true },
+  { name = "Neol Miwohaji Anhgil (Prod. by Ha Dong Qn)", locale = "ko-Latn", default = true },
+  { name = "No Blame (Prod. by Ha Dong Qn)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=I8ywF3VD2hA", name = "Music Video" },
+]

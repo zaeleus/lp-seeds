@@ -1,0 +1,5 @@
+names = [
+  { name = "널 미워하지 않길 (Prod. By 하동균) (Inst.)", locale = "ko", original = true },
+  { name = "Neol Miwohaji Anhgil (Prod. by Ha Dong Qn) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "No Blame (Prod. by Ha Dong Qn) (Inst.)", locale = "en" },
+]

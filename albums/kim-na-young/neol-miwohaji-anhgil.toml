@@ -1,0 +1,18 @@
+artist-id = "kim-na-young"
+kind = "single"
+
+names = [
+  { name = "널 미워하지 않길", locale = "ko", original = true },
+  { name = "Neol Miwohaji Anhgil", locale = "ko-Latn", default = true },
+  { name = "No Blame", locale = "en" },
+]
+
+[[releases]]
+released-on = "2016-12-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1190743619" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=10027190" },
+  { url = "http://www.mnet.com/album/1752252" },
+]

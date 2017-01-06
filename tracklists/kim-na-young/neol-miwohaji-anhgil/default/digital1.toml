@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-na-young/neol-miwohaji-anhgil/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-na-young/neol-miwohaji-anhgil-prod-by-ha-dong-qn"
+duration = "4:38"
+
+[[tracks]]
+position = 2
+song-id = "kim-na-young/neol-miwohaji-anhgil-prod-by-ha-dong-qn-inst"
+duration = "4:38"
