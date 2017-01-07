@@ -1,0 +1,14 @@
+artist-id = "wonder-girls"
+kind = "ep"
+
+names = [
+  { name = "Wonder Party", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2012-06-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2125515" },
+]
