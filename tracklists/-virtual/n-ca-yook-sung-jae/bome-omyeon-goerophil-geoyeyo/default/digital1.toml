@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/n-ca-yook-sung-jae/bome-omyeon-goerophil-geoyeyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/n-ca-yook-sung-jae/bome-omyeon-goerophil-geoyeyo"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/n-ca-yook-sung-jae/bome-omyeon-goerophil-geoyeyo-inst"
+duration = "3:05"

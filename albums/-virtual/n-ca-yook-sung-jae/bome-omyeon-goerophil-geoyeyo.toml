@@ -1,0 +1,21 @@
+artist-id = "-virtual/n-ca-yook-sung-jae"
+kind = "single"
+
+names = [
+  { name = "봄에 오면 괴롭힐 거예요", locale = "ko", original = true },
+  { name = "Bome Omyeon Goerophil Geoyeyo", locale = "ko-Latn", default = true },
+  { name = "Playing with Fire", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "nc-a", separator = " & " },
+  { artist-id = "btob/yook-sung-jae" },
+]
+
+[[releases]]
+released-on = "2016-12-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10025899" },
+]

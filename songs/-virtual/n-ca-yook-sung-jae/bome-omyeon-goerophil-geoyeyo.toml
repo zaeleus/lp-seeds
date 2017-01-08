@@ -1,0 +1,14 @@
+names = [
+  { name = "봄에 오면 괴롭힐 거예요", locale = "ko", original = true },
+  { name = "Bome Omyeon Goerophil Geoyeyo", locale = "ko-Latn", default = true },
+  { name = "Playing with Fire", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "nc-a", separator = " & " },
+  { artist-id = "btob/yook-sung-jae" },
+]
+
+urls = [
+   { url = "https://www.youtube.com/watch?v=IHBVLp5_4HU", name = "Music Video" },
+]
