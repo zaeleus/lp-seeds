@@ -1,0 +1,7 @@
+kind = "group"
+started-on = "2003"
+country = "JP"
+
+names = [
+  { name = "Zwei", locale = "ja", original = true, default = true },
+]

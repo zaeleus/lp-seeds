@@ -1,0 +1,3 @@
+names = [
+  { name = "MY OWN LIFE (off vocal)", locale = "ja", original = true, default = true },
+]

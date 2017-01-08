@@ -1,0 +1,15 @@
+artist-id = "zwei"
+kind = "single"
+
+names = [
+  { name = "MY OWN LIFE", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-11-30"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1174865779" },
+  { url = "http://mora.jp/package/43000033/FVCG-1403/" },
+]
