@@ -4,9 +4,9 @@ country = "KR"
 
 names = [
   { name = "정연", locale = "ko", kind = "stage", original = true },
-  { name = "Jung Yeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Jeongyeon", locale = "ko-Latn", kind = "stage", default = true },
   { name = "유정연", locale = "ko", kind = "real" },
-  { name = "Yoo Jung Yeon", locale = "ko-Latn", kind = "real" },
+  { name = "Yoo Jeong Yeon", locale = "ko-Latn", kind = "real" },
 ]
 
 labels = [{ label-id = "jyp-entertainment" }]

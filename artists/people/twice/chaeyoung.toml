@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "챼영", locale = "ko", kind = "stage", original = true },
-  { name = "Chae Young", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Chaeyoung", locale = "ko-Latn", kind = "stage", default = true },
   { name = "손챼영", locale = "ko", kind = "real" },
   { name = "Son Chae Young", locale = "ko-Latn", kind = "real" },
 ]

@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "다현", locale = "ko", kind = "stage", original = true },
-  { name = "Da Hyun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Dahyun", locale = "ko-Latn", kind = "stage", default = true },
   { name = "김다현", locale = "ko", kind = "real" },
   { name = "Kim Da Hyun", locale = "ko-Latn", kind = "real" },
 ]
