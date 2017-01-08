@@ -1,0 +1,23 @@
+names = [
+  { name = "내가 예뻐진 이유", locale = "ko", original = true },
+  { name = "Naega Yeppeojin Iyu", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=rSGTkaIp_hU", name = "Live Performance" },
+]
+
+[[artist-credits]]
+artist-id = "ben"
+separator = ", "
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "twice/jihyo"

@@ -12,7 +12,7 @@ labels = [{ label-id = "jyp-entertainment" }]
 members = [
   { artist-id = "twice/chae-young" },
   { artist-id = "twice/da-hyun" },
-  { artist-id = "twice/ji-hyo" },
+  { artist-id = "twice/jihyo" },
   { artist-id = "twice/jung-yeon" },
   { artist-id = "twice/mina" },
   { artist-id = "twice/momo" },
