@@ -20,4 +20,5 @@ urls = [
   { url = "http://www.melon.com/album/detail.htm?albumId=10028121" },
   { url = "http://www.mnet.com/album/1753442" },
   { url = "http://music.naver.com/album/index.nhn?albumId=1772194" },
+  { url = "https://open.spotify.com/album/5662dhD6LraFCUIzKujPej" },
 ]
