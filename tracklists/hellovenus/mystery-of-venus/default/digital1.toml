@@ -1,0 +1,23 @@
+medium-ids = [
+  "hellovenus/mystery-of-venus/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hellovenus/mysterious"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "hellovenus/runway"
+duration = "3:41"
+
+[[tracks]]
+position = 3
+song-id = "hellovenus/bicci-naerimyeon-glow"
+duration = "3:59"
+
+[[tracks]]
+position = 4
+song-id = "hellovenus/paradise"
+duration = "3:30"
