@@ -1,0 +1,23 @@
+medium-ids = [
+  "f-x/4-walls-cowboy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/4-walls--jp"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "f-x/cowboy"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "f-x/4-walls-inst"
+duration = "3:25"
+
+[[tracks]]
+position = 4
+song-id = "f-x/cowboy-inst"
+duration = "3:23"
