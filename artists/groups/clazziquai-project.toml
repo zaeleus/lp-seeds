@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2001"
+country = "KR"
+
+names = [
+  { name = "클래지콰이", locale = "ko", original = true },
+  { name = "Clazziquai", locale = "ko-Latn" },
+  { name = "Clazziquai Project", locale = "en", default = true },
+]
