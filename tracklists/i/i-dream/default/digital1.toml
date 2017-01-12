@@ -1,0 +1,28 @@
+medium-ids = [
+  "i/i-dream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "i/ganjeolhi-baramyeon-irwojil-geoya-feat-tiger-jk"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "i/byeori-doen-ai"
+duration = "3:32"
+
+[[tracks]]
+position = 3
+song-id = "i/i-dream"
+duration = "3:40"
+
+[[tracks]]
+position = 4
+song-id = "i/all-right"
+duration = "3:10"
+
+[[tracks]]
+position = 5
+song-id = "i/my-melody"
+duration = "3:19"

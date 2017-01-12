@@ -1,0 +1,10 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "아이", locale = "ko", kind = "stage", original = true },
+  { name = "I", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "차윤지", locale = "ko", kind = "real" },
+  { name = "Cha Yoon Ji", locale = "ko-Latn", kind = "real" },
+]

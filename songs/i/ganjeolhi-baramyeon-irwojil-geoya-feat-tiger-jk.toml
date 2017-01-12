@@ -1,0 +1,5 @@
+names = [
+  { name = "간절히 바라면 이뤄질 거야 (Feat. 타이거JK)", locale = "ko", original = true },
+  { name = "Ganjeolhi Baramyeon Irwojil Geoya (Feat. Tiger JK)", locale = "ko-Latn", default = true },
+  { name = "I Wish (Feat. Tiger JK)", locale = "en" },
+]
