@@ -1,0 +1,18 @@
+medium-ids = [
+  "miyuu/where-we-ll-be/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miyuu/where-we-ll-be"
+duration = "5:23"
+
+[[tracks]]
+position = 2
+song-id = "miyuu/southern-waves"
+duration = "4:06"
+
+[[tracks]]
+position = 3
+song-id = "miyuu/catch-up-the-sky"
+duration = "4:30"

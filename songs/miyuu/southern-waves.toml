@@ -1,0 +1,7 @@
+names = [
+  { name = "Southern Waves", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=525tJluZDAU", name = "Music Video" },
+]
