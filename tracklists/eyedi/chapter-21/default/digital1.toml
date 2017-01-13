@@ -1,0 +1,18 @@
+medium-ids = [
+  "eyedi/chapter-21/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eyedi/type-e-feat-mario-winans"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "eyedi/type-k-feat-kim-hyo-eun"
+duration = "3:54"
+
+[[tracks]]
+position = 3
+song-id = "eyedi/type-inst"
+duration = "3:53"
