@@ -1,0 +1,13 @@
+medium-ids = [
+  "nine-muses/hyun-a/daehangeukjang-memory-lane/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/hyun-a/daehangeukjang-memory-lane"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "nine-muses/hyun-a/daehangeukjang-memory-lane-inst"
+duration = "3:22"

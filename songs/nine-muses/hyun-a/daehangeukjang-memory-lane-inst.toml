@@ -1,0 +1,12 @@
+names = [
+  { name = "대한극장 (Memory Lane) (Inst.)", locale = "ko", original = true },
+  { name = "Daehangeukjang (Memory Lane) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Memory Lane (Inst.)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "nine-muses/hyun-a"
+names = [
+  { name = "문현아", locale = "ko", kind = "real" },
+  { name = "Moon Hyuna", locale = "ko-Latn", kind = "real" },
+]

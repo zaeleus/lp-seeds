@@ -6,7 +6,7 @@ names = [
   { name = "현아", locale = "ko", kind = "stage", original = true },
   { name = "Hyun A", locale = "ko-Latn", kind = "stage", default = true },
   { name = "문현아", locale = "ko", kind = "real" },
-  { name = "Moon Hyun Ah", locale = "ko-Latn", kind = "real" },
+  { name = "Moon Hyun A", locale = "ko-Latn", kind = "real" },
 ]
 
 labels = [{ label-id = "star-empire-entertainment" }]
