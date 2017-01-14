@@ -1,0 +1,11 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "드림캐쳐", locale = "ko", original = true },
+  { name = "Dreamcatcher", locale = "ko-Latn", default = true },
+]
+
+labels = [{ label-id = "happyface-entertainment" }]
+

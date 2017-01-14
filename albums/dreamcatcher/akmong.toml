@@ -1,0 +1,15 @@
+artist-id = "dreamcatcher"
+kind = "single"
+
+names = [
+  { name = "악몽 (惡夢)", locale = "ko", original = true },
+  { name = "Akmong", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-01-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10031121" },
+]
