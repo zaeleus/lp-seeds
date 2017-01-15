@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1983-03-01"
+country = "KR"
+
+names = [
+  { name = "권정열", locale = "ko", kind = "real", original = true },
+  { name = "Kwon Jeong Yeol", locale = "ko-Latn", kind = "real", default = true },
+]

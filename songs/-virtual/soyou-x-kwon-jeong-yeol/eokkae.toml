@@ -1,0 +1,10 @@
+names = [
+  { name = "어깨", locale = "ko", original = true },
+  { name = "Eokkae", locale = "ko-Latn", default = true },
+  { name = "Lean on Me", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "sistar/soyou", separator = " X " },
+  { artist-id = "10cm/kwon-jeong-yeol" },
+]
