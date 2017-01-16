@@ -1,0 +1,18 @@
+medium-ids = [
+  "loona/yeojin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/kiseuneun-daeume-yeojin"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "loona/my-sunday-heejin-hyunjin"
+duration = "3:02"
+
+[[tracks]]
+position = 3
+song-id = "loona/my-melody-haseul-yeojin"
+duration = "3:02"

@@ -1,0 +1,15 @@
+names = [
+  { name = "키스는 다음에 (여진)", locale = "ko", original = true },
+  { name = "Kiseuneun Daeume (YeoJin)", locale = "ko-Latn", default = true },
+  { name = "Kiss Later (YeoJin)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ln92W9ac58o", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=g3hf3Wc9AwA", name = "Taiwain Teaser" },
+  { url = "https://www.youtube.com/watch?v=thpTOAS1Vgg", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "loona/yeojin", kind = "performer" },
+]

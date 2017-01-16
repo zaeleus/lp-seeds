@@ -1,0 +1,9 @@
+names = [
+  { name = "My Sunday (희진, 현진)", locale = "ko", original = true },
+  { name = "My Sunday (HeeJin, HyunJin)", locale = "ko-Latn", default = true },
+]
+
+contributions = [
+  { artist-id = "loona/heejin", kind = "performer" },
+  { artist-id = "loona/hyunjin", kind = "performer" },
+]

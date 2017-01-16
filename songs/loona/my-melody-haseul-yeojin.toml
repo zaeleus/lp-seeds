@@ -1,0 +1,13 @@
+names = [
+  { name = "My Melody (하슬, 여진)", locale = "ko", original = true },
+  { name = "My Melody (HaSeul, YeoJin)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=7rA9BuPIOrk", name = "Teaser" },
+]
+
+contributions = [
+  { artist-id = "loona/haseul", kind = "performer" },
+  { artist-id = "loona/yeojin", kind = "performer" },
+]
