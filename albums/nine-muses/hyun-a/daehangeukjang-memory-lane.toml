@@ -10,8 +10,8 @@ names = [
 [[artist-credits]]
 artist-id = "nine-muses/hyun-a"
 names = [
-  { name = "문현아", locale = "ko", kind = "real" },
-  { name = "Moon Hyuna", locale = "ko-Latn", kind = "real" },
+  { name = "문현아", locale = "ko", original = true },
+  { name = "Moon Hyuna", locale = "ko-Latn", default = true },
 ]
 
 [[releases]]
