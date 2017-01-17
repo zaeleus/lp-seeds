@@ -19,7 +19,7 @@ members = [
   { artist-id = "girls-generation/yuri" },
   { artist-id = "girls-generation/sooyoung" },
   { artist-id = "girls-generation/yoona" },
-  { artist-id = "girls-generation/seo-hyun" },
+  { artist-id = "girls-generation/seohyun" },
   { artist-id = "jessica", ended-on = "2014-09" },
 ]
 

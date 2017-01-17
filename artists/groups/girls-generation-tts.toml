@@ -13,5 +13,5 @@ names = [
 members = [
   { artist-id = "girls-generation/taeyeon" },
   { artist-id = "girls-generation/tiffany" },
-  { artist-id = "girls-generation/seo-hyun" },
+  { artist-id = "girls-generation/seohyun" },
 ]
