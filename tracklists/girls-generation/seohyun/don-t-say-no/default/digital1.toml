@@ -1,0 +1,38 @@
+medium-ids = [
+  "girls-generation/seohyun/don-t-say-no/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/seohyun/don-t-say-no"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/seohyun/hello-feat-eric-nam"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "girls-generation/seohyun/magic"
+duration = "3:33"
+
+[[tracks]]
+position = 4
+song-id = "girls-generation/seohyun/honja-haneun-sarang-lonely-love"
+duration = "3:39"
+
+[[tracks]]
+position = 5
+song-id = "girls-generation/seohyun/love-affection"
+duration = "2:48"
+
+[[tracks]]
+position = 6
+song-id = "girls-generation/seohyun/bad-love"
+duration = "3:17"
+
+[[tracks]]
+position = 7
+song-id = "girls-generation/seohyun/dalbit-moonlight"
+duration = "3:32"

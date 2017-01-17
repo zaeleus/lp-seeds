@@ -1,0 +1,12 @@
+names = [
+  { name = "달빛 (Moonlight)", locale = "ko", original = true },
+  { name = "Dalbit (Moonlight)", locale = "ko-Latn", default = true },
+  { name = "Moonlight", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/seohyun"
+names = [
+  { name = "서현", locale = "ko", original = true },
+  { name = "SEOHYUN", locale = "ko-Latn", default = true },
+]

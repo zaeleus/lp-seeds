@@ -1,0 +1,12 @@
+names = [
+  { name = "혼자 하는 사랑 (Lonely Love)", locale = "ko", original = true },
+  { name = "Honja Haneun Sarang (Lonely Love)", locale = "ko-Latn", default = true },
+  { name = "Lonely Love", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/seohyun"
+names = [
+  { name = "서현", locale = "ko", original = true },
+  { name = "SEOHYUN", locale = "ko-Latn", default = true },
+]

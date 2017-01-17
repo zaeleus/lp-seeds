@@ -1,0 +1,10 @@
+names = [
+  { name = "Don't Say No", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/seohyun"
+names = [
+  { name = "서현", locale = "ko", original = true },
+  { name = "SEOHYUN", locale = "ko-Latn", default = true },
+]
