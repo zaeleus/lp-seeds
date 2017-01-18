@@ -1,0 +1,9 @@
+names = [
+  { name = "Lean On Me", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=whiBt5YUFjM", name = "Trailer" },
+  { url = "https://www.youtube.com/watch?v=J18bo6i1e_s", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=5n0blLk97gY", name = "Making" },
+]

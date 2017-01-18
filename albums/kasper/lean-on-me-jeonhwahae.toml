@@ -1,0 +1,16 @@
+artist-id = "kasper"
+kind = "single"
+
+names = [
+  { name = "Lean On Me (전화해)", locale = "ko", original = true },
+  { name = "Lean On Me (Jeonhwahae)", locale = "ko-Latn", default = true },
+  { name = "Lean On Me", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-01-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10032039" },
+]

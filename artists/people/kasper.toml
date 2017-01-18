@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "카스퍼", locale = "ko", kind = "stage", original = true },
-  { name = "Kasper", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "KASPER", locale = "ko-Latn", kind = "stage", default = true },
   { name = "Serine Lee", locale = "en", kind = "real" },
 ]
 
