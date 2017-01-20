@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/luna-f-x-hani-exid-solar-mamamoo/honey-bee/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/luna-f-x-hani-exid-solar-mamamoo/honey-bee-prod-by-park-geun-tae"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/luna-f-x-hani-exid-solar-mamamoo/honey-bee-prod-by-park-geun-tae-inst"
+duration = "3:10"

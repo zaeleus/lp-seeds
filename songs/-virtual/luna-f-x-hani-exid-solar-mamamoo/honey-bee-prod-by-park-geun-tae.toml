@@ -1,0 +1,32 @@
+names = [
+  { name = "HONEY BEE (Prod. by 박근태)", locale = "ko", original = true },
+  { name = "HONEY BEE (Prod. by Park Geun Tae)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Tl6294KO-l4", name = "Preview" },
+  { url = "https://www.youtube.com/watch?v=fvYtzE3clCw", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "f-x/luna"
+names = [
+  { name = "루나 (f(x))", locale = "ko", original = true },
+  { name = "LUNA (f(x))", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "exid/hani"
+names = [
+  { name = "하니 (EXID)", locale = "ko", original = true },
+  { name = "Hani (EXID)", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "mamamoo/solar"
+names = [
+  { name = "솔라 (마마무)", locale = "ko", original = true },
+  { name = "Solar (MAMAMOO)", locale = "ko-Latn", default = true },
+]
