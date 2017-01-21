@@ -11,7 +11,7 @@ labels = [{ label-id = "sm-entertainment" }]
 
 members = [
   { artist-id = "red-velvet/irene" },
-  { artist-id = "red-velvet/seul-gi" },
+  { artist-id = "red-velvet/seulgi" },
   { artist-id = "red-velvet/wendy" },
   { artist-id = "red-velvet/joy" },
   { artist-id = "red-velvet/yeri", started-on = "2015-03-11" },
