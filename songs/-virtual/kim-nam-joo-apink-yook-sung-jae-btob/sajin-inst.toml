@@ -1,0 +1,20 @@
+names = [
+  { name = "사진 (Inst.)", locale = "ko", original = true },
+  { name = "Sajin (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Photograph (Inst.)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "apink/nam-joo"
+names = [
+  { name = "김남주 (에이핑크)", locale = "ko", original = true },
+  { name = "Kim Nam Joo (APink)", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "btob/yook-sung-jae"
+names = [
+  { name = "육성재 (비투비)", locale = "ko", original = true },
+  { name = "Yook Sung Jae (BTOB)", locale = "ko-Latn", default = true },
+]

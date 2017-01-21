@@ -1,0 +1,29 @@
+artist-id = "-virtual/kim-nam-joo-apink-yook-sung-jae-btob"
+kind = "single"
+
+names = [
+  { name = "'A CUBE' FOR SEASON # BLUE Season 2", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "apink/nam-joo"
+names = [
+  { name = "김남주 (에이핑크)", locale = "ko", original = true },
+  { name = "Kim Nam Joo (APink)", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "btob/yook-sung-jae"
+names = [
+  { name = "육성재 (비투비)", locale = "ko", original = true },
+  { name = "Yook Sung Jae (BTOB)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2015-06-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2321004" },
+]

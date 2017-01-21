@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/kim-nam-joo-apink-yook-sung-jae-btob/a-cube-for-season-blue-season-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/kim-nam-joo-apink-yook-sung-jae-btob/sajin"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/kim-nam-joo-apink-yook-sung-jae-btob/sajin-inst"
+duration = "3:42"
