@@ -1,0 +1,16 @@
+artist-id = "miss-a/suzy"
+kind = "single"
+
+names = [
+  { name = "행복한 척", locale = "ko", original = true },
+  { name = "Haengbokhan Cheok", locale = "ko-Latn", default = true },
+  { name = "Pretend", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-01-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10031741" },
+]
