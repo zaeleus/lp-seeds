@@ -1,0 +1,7 @@
+kind = "person"
+started-on = "1989-12-11"
+country = "PH"
+
+names = [
+  { name = "Jeff Bernat", locale = "en", kind = "real", original = true, default = true },
+]

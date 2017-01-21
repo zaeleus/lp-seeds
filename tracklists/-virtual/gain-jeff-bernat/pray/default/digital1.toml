@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/gain-jeff-bernat/pray/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/gain-jeff-bernat/pray"
+duration = "3:47"

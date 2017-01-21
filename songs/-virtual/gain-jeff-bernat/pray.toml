@@ -1,0 +1,13 @@
+names = [
+  { name = "Pray", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "brown-eyed-girls/gain", separator = ", " },
+  { artist-id = "jeff-bernat" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=mVdK_kXV9Zc", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=w7zwOgjlcPE", name = "Music Video" },
+]
