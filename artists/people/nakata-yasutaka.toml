@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1980-02-06"
+country = "JP"
+
+names = [
+  { name = "中田ヤスタカ", locale = "ja", kind = "real", original = true },
+  { name = "Nakata Yasutaka", locale = "ja-Latn", kind = "real", default = true },
+]

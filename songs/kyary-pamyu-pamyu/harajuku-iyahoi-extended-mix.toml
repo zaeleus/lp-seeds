@@ -1,0 +1,4 @@
+names = [
+  { name = "原宿いやほい -extended mix-", locale = "ja", original = true },
+  { name = "Harajuku Iyahoi -extended mix-", locale = "ja-Latn", default = true },
+]
