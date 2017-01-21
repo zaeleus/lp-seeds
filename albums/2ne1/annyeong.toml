@@ -1,0 +1,16 @@
+artist-id = "2ne1"
+kind = "single"
+
+names = [
+  { name = "안녕", locale = "ko", original = true },
+  { name = "Annyeong", locale = "ko-Latn", default = true },
+  { name = "GOODBYE", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-01-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10033110" },
+]

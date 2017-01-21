@@ -1,0 +1,15 @@
+names = [
+  { name = "안녕", locale = "ko", original = true },
+  { name = "Annyeong", locale = "ko-Latn", default = true },
+  { name = "GOODBYE", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=wEkLHC7l25w", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "2ne1/cl", kind = "performer" },
+  { artist-id = "2ne1/bom", kind = "performer" },
+  { artist-id = "2ne1/dara", kind = "performer" },
+]
