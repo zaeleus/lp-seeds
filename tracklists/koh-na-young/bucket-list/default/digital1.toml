@@ -1,0 +1,13 @@
+medium-ids = [
+  "koh-na-young/bucket-list/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "koh-na-young/bucket-list"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "koh-na-young/bucket-list-inst"
+duration = "3:27"

@@ -1,0 +1,4 @@
+names = [
+  { name = "버킷리스트 (Bucket List) (Inst.)", locale = "ko", original = true },
+  { name = "Bucket List (Inst.)", locale = "en", default = true },
+]
