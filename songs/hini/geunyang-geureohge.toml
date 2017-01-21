@@ -1,0 +1,8 @@
+names = [
+  { name = "그냥 그렇게", locale = "ko", original = true },
+  { name = "Geunyang Geureohge", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=buiNWogJPns", name = "Music Video" },
+]
