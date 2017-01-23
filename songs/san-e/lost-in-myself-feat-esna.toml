@@ -1,0 +1,7 @@
+names = [
+  { name = "Lost in Myself (Feat. eSNa)", locale = "ko", original = true, default = true },
+]
+
+contributions = [
+  { artist-id = "esna", kind = "performer" },
+]

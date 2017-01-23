@@ -1,0 +1,3 @@
+names = [
+  { name = "Ready-Made (Marcel Duchamp)", locale = "ko", original = true, default = true },
+]

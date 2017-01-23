@@ -1,0 +1,8 @@
+names = [
+  { name = "I Am Me (Feat. 화사 of 마마무)", locale = "ko", original = true },
+  { name = "I Am Me (Feat. Hwasa of MAMAMOO)", locale = "ko-Latn", default = true },
+]
+
+contributions = [
+  { artist-id = "mamamoo/hwasa", kind = "performer" },
+]

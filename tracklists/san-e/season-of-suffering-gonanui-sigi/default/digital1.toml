@@ -1,0 +1,38 @@
+medium-ids = [
+  "san-e/season-of-suffering-gonanui-sigi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "san-e/i-can-go-all-day"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "san-e/seoul-sodomui-120-il"
+duration = "3:55"
+
+[[tracks]]
+position = 3
+song-id = "san-e/counselor"
+duration = "3:54"
+
+[[tracks]]
+position = 4
+song-id = "san-e/lost-in-myself-feat-esna"
+duration = "3:35"
+
+[[tracks]]
+position = 5
+song-id = "san-e/nappeun-x-bad-year"
+duration = "3:18"
+
+[[tracks]]
+position = 6
+song-id = "san-e/i-am-me-feat-hwasa-of-mamamoo"
+duration = "3:38"
+
+[[tracks]]
+position = 7
+song-id = "san-e/ready-made-marcel-duchamp"
+duration = "4:06"
