@@ -1,0 +1,16 @@
+artist-id = "lucky-j/jessi"
+kind = "single"
+
+names = [
+  { name = "울리지마", locale = "ko", original = true },
+  { name = "Ullijima", locale = "ko-Latn", default = true },
+  { name = "Don't Make Me Cry", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-01-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10032363" },
+]

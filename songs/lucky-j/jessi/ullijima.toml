@@ -1,0 +1,10 @@
+names = [
+  { name = "울리지마", locale = "ko", original = true },
+  { name = "Ullijima", locale = "ko-Latn", default = true },
+  { name = "Don't Make Me Cry", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=UZ537NY3XkI", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=6VMumyztDdU", name = "Music Video" },
+]
