@@ -1,0 +1,3 @@
+names = [
+  { name = "The Stars (Prologue)", locale = "ko", original = true, default = true },
+]

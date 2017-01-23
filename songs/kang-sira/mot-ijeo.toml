@@ -1,0 +1,12 @@
+names = [
+  { name = "못 잊어", locale = "ko", original = true },
+  { name = "Mot Ijeo", locale = "ko-Latn", default = true },
+  { name = "Don't Wanna Forget", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=JZuYlptNijc", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=NRNIvdicwJs", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=qvePNM-5r5U", name = "Teaser 3" },
+  { url = "https://www.youtube.com/watch?v=LMugtwFA7lY", name = "Music Video" },
+]

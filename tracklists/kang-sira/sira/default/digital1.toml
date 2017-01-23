@@ -1,0 +1,28 @@
+medium-ids = [
+  "kang-sira/sira/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kang-sira/the-stars-prologue"
+duration = "1:15"
+
+[[tracks]]
+position = 2
+song-id = "kang-sira/gateun-goseseo"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "kang-sira/mot-ijeo"
+duration = "3:58"
+
+[[tracks]]
+position = 4
+song-id = "kang-sira/malhago-sipeo"
+duration = "3:28"
+
+[[tracks]]
+position = 5
+song-id = "kang-sira/mot-ijeo-inst"
+duration = "3:58"

@@ -1,0 +1,5 @@
+names = [
+  { name = "못 잊어 (Inst.)", locale = "ko", original = true },
+  { name = "Mot Ijeo (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Don't Wanna Forget (Inst.)", locale = "en" },
+]

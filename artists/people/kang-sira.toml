@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1991-06-13"
+country = "KR"
+
+names = [
+  { name = "강시라", locale = "ko", kind = "real", original = true },
+  { name = "Kang Sira", locale = "ko-Latn", kind = "real", default = true },
+]
