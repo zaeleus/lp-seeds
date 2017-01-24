@@ -1,0 +1,33 @@
+medium-ids = [
+  "miss-a/suzy/yes-no/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miss-a/suzy/haengbokhan-cheok"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "miss-a/suzy/yes-no-maybe"
+duration = "3:07"
+
+[[tracks]]
+position = 3
+song-id = "miss-a/suzy/da-geureongeojanha-feat-reddy"
+duration = "3:39"
+
+[[tracks]]
+position = 4
+song-id = "miss-a/suzy/chwihyang-les-preferences"
+duration = "4:28"
+
+[[tracks]]
+position = 5
+song-id = "miss-a/suzy/nanro-manyang"
+duration = "4:02"
+
+[[tracks]]
+position = 6
+song-id = "miss-a/suzy/kkoccmari"
+duration = "4:04"

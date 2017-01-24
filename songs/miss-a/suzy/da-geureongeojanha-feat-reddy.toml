@@ -1,0 +1,4 @@
+names = [
+  { name = "다 그런거잖아 (Feat. Reddy)", locale = "ko", original = true },
+  { name = "Da Geureongeojanha (Feat. Reddy)", locale = "ko-Latn", default = true },
+]
