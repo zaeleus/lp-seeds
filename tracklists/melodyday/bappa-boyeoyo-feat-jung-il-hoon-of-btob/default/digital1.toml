@@ -1,0 +1,13 @@
+medium-ids = [
+  "melodyday/bappa-boyeoyo-feat-jung-il-hoon-of-btob/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melodyday/bappa-boyeoyo-feat-jung-il-hoon-of-btob"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "melodyday/bappa-boyeoyo-feat-jung-il-hoon-of-btob-inst"
+duration = "3:59"

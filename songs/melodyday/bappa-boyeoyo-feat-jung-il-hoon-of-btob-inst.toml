@@ -1,0 +1,5 @@
+names = [
+  { name = "바빠 보여요 (Feat. 정일훈 of 비투비) (Inst.)", locale = "ko", original = true },
+  { name = "Bappa Boyeoyo (Feat. Jung Il Hoon of BTOB) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "You Seem Busy (Feat. Jung Il Hoon of BTOB) (Inst.)", locale = "en" },
+]
