@@ -1,0 +1,13 @@
+medium-ids = [
+  "kassy/dream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/dream"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "kassy/dream-inst"
+duration = "3:39"

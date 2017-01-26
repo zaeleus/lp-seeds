@@ -1,0 +1,14 @@
+artist-id = "kassy"
+kind = "single"
+
+names = [
+  { name = "Dream", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-01-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10034437" },
+]
