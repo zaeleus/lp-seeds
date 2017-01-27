@@ -1,0 +1,15 @@
+artist-id = "cheetah"
+kind = "single"
+
+names = [
+  { name = "BLURRED LINES (Feat. 한해)", locale = "ko", original = true },
+  { name = "BLURRED LINES (Feat. Hanhae)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-01-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10034513" },
+]
