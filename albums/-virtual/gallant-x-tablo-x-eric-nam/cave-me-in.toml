@@ -1,0 +1,22 @@
+artist-id = "-virtual/gallant-x-tablo-x-eric-nam"
+kind = "single"
+
+names = [
+  { name = "Cave Me In", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "gallant", separator = " x " },
+  { artist-id = "epik-high/tablo", separator = " x " },
+  { artist-id = "eric-nam" },
+]
+
+[[releases]]
+released-on = "2017-01-27"
+country = "US"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1197529760" },
+  { url = "https://play.google.com/music/m/Begbc7ntnh5h376xdlvteukrthu" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=10034691" },
+]

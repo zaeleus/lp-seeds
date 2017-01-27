@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1992"
+country = "US"
+
+names = [
+  { name = "Gallant", locale = "en", kind = "stage", default = true, original = true },
+  { name = "Christopher Gallant", locale = "en", kind = "real" },
+]
+
+urls = [
+  { url = "http://sogallant.com/" },
+]

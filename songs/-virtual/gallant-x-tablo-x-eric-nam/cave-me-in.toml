@@ -1,0 +1,13 @@
+names = [
+  { name = "Cave Me In", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "gallant", separator = " x " },
+  { artist-id = "epik-high/tablo", separator = " x " },
+  { artist-id = "eric-nam" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=NQunCjYdAcU", name = "Music Video" },
+]
