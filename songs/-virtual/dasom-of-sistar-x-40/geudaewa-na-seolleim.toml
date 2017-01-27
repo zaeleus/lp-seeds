@@ -1,0 +1,20 @@
+names = [
+  { name = "그대와 나, 설레임", locale = "ko", original = true },
+  { name = "Geudaewa Na, Seolleim", locale = "ko-Latn", default = true },
+  { name = "You & I", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=I7EjdrQYuvg", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "sistar/dasom"
+names = [
+  { name = "다솜 of 씨스타", locale = "ko", original = true },
+  { name = "Dasom of SISTAR", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "40"

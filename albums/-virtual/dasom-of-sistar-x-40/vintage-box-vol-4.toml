@@ -1,0 +1,26 @@
+artist-id = "-virtual/dasom-of-sistar-x-40"
+kind = "single"
+
+names = [
+  { name = "빈티지박스 Vol. 4", locale = "ko", original = true },
+  { name = "Vintage Box Vol. 4", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "sistar/dasom"
+names = [
+  { name = "다솜 of 씨스타", locale = "ko", original = true },
+  { name = "Dasom of SISTAR", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "40"
+
+[[releases]]
+released-on = "2017-01-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10031739" },
+]

@@ -11,7 +11,7 @@ members = [
   { artist-id = "sistar/hyo-rin" },
   { artist-id = "sistar/bora" },
   { artist-id = "sistar/soyou" },
-  { artist-id = "sistar/da-som" },
+  { artist-id = "sistar/dasom" },
 ]
 
 urls = [
