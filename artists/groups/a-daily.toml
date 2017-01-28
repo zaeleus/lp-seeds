@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2014"
+country = "KR"
+
+names = [
+  { name = "에이데일리", locale = "ko", original = true },
+  { name = "A-Daily", locale = "ko-Latn", default = true },
+]

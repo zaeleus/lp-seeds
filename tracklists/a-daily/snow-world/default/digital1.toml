@@ -1,0 +1,18 @@
+medium-ids = [
+  "a-daily/snow-world/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "a-daily/white-snow-day"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "a-daily/secret-snow"
+duration = "3:40"
+
+[[tracks]]
+position = 3
+song-id = "a-daily/white-snow-day-inst"
+duration = "3:25"
