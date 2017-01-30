@@ -1,6 +1,7 @@
 names = [
   { name = "그냥 그렇게", locale = "ko", original = true },
   { name = "Geunyang Geureohge", locale = "ko-Latn", default = true },
+  { name = "Just So", locale = "en" },
 ]
 
 urls = [
