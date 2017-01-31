@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2006"
+country = "KR"
+
+names = [
+  { name = "투앤비", locale = "ko", original = true },
+  { name = "2NB", locale = "ko-Latn", default = true },
+]
