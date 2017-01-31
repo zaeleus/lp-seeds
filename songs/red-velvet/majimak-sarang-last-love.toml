@@ -1,0 +1,5 @@
+names = [
+  { name = "마지막 사랑 (Last Love)", locale = "ko", original = true },
+  { name = "Majimak Sarang (Last Love)", locale = "ko-Latn", default = true },
+  { name = "Last Love", locale = "en" },
+]
