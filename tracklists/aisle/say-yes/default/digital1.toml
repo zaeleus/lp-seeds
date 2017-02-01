@@ -1,0 +1,13 @@
+medium-ids = [
+  "aisle/say-yes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aisle/say-yes"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "aisle/say-yes-inst"
+duration = "3:34"
