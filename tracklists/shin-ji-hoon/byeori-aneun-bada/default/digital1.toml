@@ -1,0 +1,13 @@
+medium-ids = [
+  "shin-ji-hoon/byeori-aneun-bada/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shin-ji-hoon/byeori-aneun-bada"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "shin-ji-hoon/byeori-aneun-bada-inst"
+duration = "3:28"

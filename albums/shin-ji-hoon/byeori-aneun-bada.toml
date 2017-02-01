@@ -1,0 +1,16 @@
+artist-id = "shin-ji-hoon"
+kind = "single"
+
+names = [
+  { name = "별이 안은 바다", locale = "ko", original = true },
+  { name = "Byeori Aneun Bada", locale = "ko-Latn", default = true },
+  { name = "You Are a Star Already", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-01-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10034701" },
+]

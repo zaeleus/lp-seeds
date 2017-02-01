@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1998-06-23"
+country = "KR"
+
+names = [
+  { name = "신지훈", locale = "ko", kind = "real", original = true },
+  { name = "Shin Ji Hoon", locale = "ko-Latn", kind = "real", default = true },
+]

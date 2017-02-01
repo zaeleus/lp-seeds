@@ -1,0 +1,10 @@
+names = [
+  { name = "별이 안은 바다", locale = "ko", original = true },
+  { name = "Byeori Aneun Bada", locale = "ko-Latn", default = true },
+  { name = "You Are a Star Already", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=h5uGY92iD0c", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=Eq5o73r68R0", name = "Music Video" },
+]

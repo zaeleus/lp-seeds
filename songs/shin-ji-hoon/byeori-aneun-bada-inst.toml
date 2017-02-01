@@ -1,0 +1,5 @@
+names = [
+  { name = "별이 안은 바다 (Inst.)", locale = "ko", original = true },
+  { name = "Byeori Aneun Bada (Inst.)", locale = "ko-Latn", default = true },
+  { name = "You Are a Star Already (Inst.)", locale = "en" },
+]
