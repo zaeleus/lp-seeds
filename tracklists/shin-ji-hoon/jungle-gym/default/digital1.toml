@@ -1,0 +1,13 @@
+medium-ids = [
+  "shin-ji-hoon/jungle-gym/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shin-ji-hoon/jungle-gym"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "shin-ji-hoon/jungle-gym-inst"
+duration = "3:02"

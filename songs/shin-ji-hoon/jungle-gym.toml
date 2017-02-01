@@ -1,0 +1,9 @@
+names = [
+  { name = "정글짐", locale = "ko", original = true },
+  { name = "Jungle Gym", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ZhQ4oQArvaQ", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=v3XmI8q1pBU", name = "Music Video" },
+]
