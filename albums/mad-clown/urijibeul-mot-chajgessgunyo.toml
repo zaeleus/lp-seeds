@@ -1,0 +1,15 @@
+artist-id = "mad-clown"
+kind = "single"
+
+names = [
+  { name = "우리집을 못 찾겠군요", locale = "ko", original = true },
+  { name = "Urijibeul Mot Chajgessgunyo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-02-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10035799" },
+]

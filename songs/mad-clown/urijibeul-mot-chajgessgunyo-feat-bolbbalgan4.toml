@@ -1,0 +1,13 @@
+names = [
+  { name = "우리집을 못 찾겠군요 (Feat. 볼빨간사춘기)", locale = "ko", original = true },
+  { name = "Urijibeul Mot Chajgessgunyo (Feat. Bolbbalgan4)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=xlx7LKFso4w", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=x-4WGzVOwAU", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "bolbbalgan4", kind = "performer" },
+]

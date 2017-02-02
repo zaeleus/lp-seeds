@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1985-03-25"
+country = "KR"
+
+names = [
+  { name = "매드클라운", locale = "ko", kind = "stage", original = true },
+  { name = "Mad Clown", locale = "ko-Latn", kind = "stage", default = true },
+]
