@@ -1,0 +1,7 @@
+names = [
+  { name = "How Are You, The Love of My Life", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=sVFoOEj3Vlg", name = "Music Video" },
+]

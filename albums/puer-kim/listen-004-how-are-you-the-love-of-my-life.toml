@@ -1,0 +1,14 @@
+artist-id = "puer-kim"
+kind = "single"
+
+names = [
+  { name = "LISTEN 004 How Are You, The Love of My Life", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-01-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10033075" },
+]

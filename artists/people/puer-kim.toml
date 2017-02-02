@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1986-03-03"
+country = "KR"
+
+names = [
+  { name = "퓨어킴", locale = "ko", kind = "stage", original = true },
+  { name = "Puer Kim", locale = "ko-Latn", kind = "stage", default = true },
+]
