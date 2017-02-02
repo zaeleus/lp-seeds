@@ -4,6 +4,7 @@ kind = "ep"
 names = [
   { name = "Season of Suffering (고난의 시기)", locale = "ko", original = true },
   { name = "Season of Suffering (Gonanui Sigi)", locale = "ko-Latn", default = true },
+  { name = "Season of Suffering", locale = "en" },
 ]
 
 [[releases]]
@@ -11,6 +12,8 @@ released-on = "2017-01-23"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
+  { url = "https://itunes.apple.com/us/album/id1198065403" },
+  { url = "https://play.google.com/music/m/Blmvh3cifx7626m6kwymeqahkvq" },
   { url = "http://www.melon.com/album/detail.htm?albumId=10033017" },
   { url = "https://play.spotify.com/album/6kCnTampsJFEMYXIpbZr9W" },
 ]

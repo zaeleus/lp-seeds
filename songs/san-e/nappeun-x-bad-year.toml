@@ -1,4 +1,5 @@
 names = [
   { name = "나쁜X (BAD YEAR)", locale = "ko", original = true },
   { name = "Nappeun X (BAD YEAR)", locale = "ko-Latn", default = true },
+  { name = "BAD YEAR", locale = "en" },
 ]
