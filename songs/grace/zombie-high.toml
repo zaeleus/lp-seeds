@@ -1,0 +1,8 @@
+names = [
+  { name = "Zombie High", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=lm85ywpxDXM", name = "Music Video (Fanart MV Ver.)" },
+  { url = "https://www.youtube.com/watch?v=Yfzc-fMrh1E", name = "Official Audio" },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "grace/zombie-high/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "grace/zombie-high"
+duration = "3:23"
