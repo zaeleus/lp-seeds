@@ -9,6 +9,7 @@ names = [
 ]
 
 urls = [
+  { url = "http://www.officialkasper.com/" },
   { url = "https://www.facebook.com/KasperOfficial/" },
   { url = "https://www.instagram.com/kasper0417/" },
   { url = "http://11x11pm.tumblr.com/" },
