@@ -1,0 +1,15 @@
+artist-id = "block-b/park-kyung"
+kind = "ep"
+
+names = [
+  { name = "NOTEBOOK", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-01-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1195812633" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=10032001" },
+]

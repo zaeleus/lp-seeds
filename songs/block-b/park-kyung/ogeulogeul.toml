@@ -1,0 +1,8 @@
+names = [
+  { name = "오글오글", locale = "ko", original = true },
+  { name = "OgeulOgeul", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=KsJXZbKyL5U", name = "Music Video" },
+]

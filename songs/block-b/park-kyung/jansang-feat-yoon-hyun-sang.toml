@@ -1,0 +1,4 @@
+names = [
+  { name = "잔상 (Feat. 윤현상)", locale = "ko", original = true },
+  { name = "Jansang (Feat. Yoon Hyun Sang)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,10 @@
+names = [
+  { name = "너 앞에서 나는 (Feat. 브라더수)", locale = "ko", original = true },
+  { name = "Neo Apeseo Naneun (Feat. Brother Su)", locale = "ko-Latn", default = true },
+  { name = "When I'm with You (Feat. Brother Su)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=RfiSjSWOwys", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=eF6UKrcdews", name = "Music Video" },
+]

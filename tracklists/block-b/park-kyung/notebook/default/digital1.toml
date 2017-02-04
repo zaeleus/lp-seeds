@@ -1,0 +1,28 @@
+medium-ids = [
+  "block-b/park-kyung/notebook/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "block-b/park-kyung/botongyeonae-feat-park-bo-ram"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "block-b/park-kyung/neo-apeseo-naneun-feat-brother-su"
+duration = "4:00"
+
+[[tracks]]
+position = 3
+song-id = "block-b/park-kyung/ogeulogeul"
+duration = "3:24"
+
+[[tracks]]
+position = 4
+song-id = "block-b/park-kyung/jagyeokjisim-feat-eunha-of-gfriend"
+duration = "3:24"
+
+[[tracks]]
+position = 5
+song-id = "block-b/park-kyung/jansang-feat-yoon-hyun-sang"
+duration = "3:00"
