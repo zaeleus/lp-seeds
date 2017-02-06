@@ -1,0 +1,13 @@
+medium-ids = [
+  "oh-so-yeon/tetris/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-so-yeon/tetris"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "oh-so-yeon/tetris-inst"
+duration = "4:02"

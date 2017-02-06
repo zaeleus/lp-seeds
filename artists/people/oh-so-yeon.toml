@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1994-12-18"
+country = "KR"
+
+names = [
+  { name = "오소연", locale = "ko", kind = "real", original = true },
+  { name = "Oh So Yeon", locale = "ko-Latn", kind = "real", default = true },
+]

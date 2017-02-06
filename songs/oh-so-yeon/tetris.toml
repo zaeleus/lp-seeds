@@ -1,0 +1,4 @@
+names = [
+  { name = "테트리스 (TETRIS)", locale = "ko", original = true },
+  { name = "TETRIS", locale = "en", default = true },
+]

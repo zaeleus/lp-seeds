@@ -1,0 +1,15 @@
+artist-id = "oh-so-yeon"
+kind = "single"
+
+names = [
+  { name = "테트리스 (TETRIS)", locale = "ko", original = true },
+  { name = "TETRIS", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-02-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10036126" },
+]
