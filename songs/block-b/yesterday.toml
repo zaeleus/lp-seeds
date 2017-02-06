@@ -1,0 +1,10 @@
+names = [
+  { name = "YESTERDAY", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=mn6YJkVL-gg", name = "Teaser (Opening Ver.)" },
+  { url = "https://www.youtube.com/watch?v=DxgbEsvf0_8", name = "Teaser (Story Ver.)" },
+  { url = "https://www.youtube.com/watch?v=1E_w2bKij5E", name = "Teaser (Highlight Ver.)" },
+  { url = "https://www.youtube.com/watch?v=3q22SInyiX8", name = "Music Video" },
+]

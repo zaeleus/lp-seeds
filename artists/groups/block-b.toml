@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2011"
+country = "KR"
+
+names = [
+  { name = "블락비", locale = "ko", original = true },
+  { name = "Block B", locale = "ko-Latn", default = true },
+]

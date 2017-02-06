@@ -1,0 +1,8 @@
+medium-ids = [
+  "block-b/yesterday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "block-b/yesterday"
+duration = "2:48"
