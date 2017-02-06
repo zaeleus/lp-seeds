@@ -1,0 +1,11 @@
+names = [
+  { name = "宇宙", locale = "ja", original = true },
+  { name = "Uchuu", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "kara/seung-yeon"
+names = [
+  { name = "ハン・スンヨン", locale = "ja", original = true },
+  { name = "Han Seung Yeon", locale = "ja-Latn", default = true },
+]

@@ -1,0 +1,47 @@
+medium-ids = [
+  "kara/seung-yeon/uchuu/regular-edition-b/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kara/seung-yeon/uchuu"
+names = [
+  { name = "宇宙くん", locale = "ja", original = true },
+  { name = "Uchuu-kun", locale = "ja-Latn", default = true },
+]
+
+[[tracks]]
+position = 2
+song-id = "kara/seung-yeon/shunshoku"
+
+[[tracks]]
+position = 3
+song-id = "kara/seung-yeon/winter-letter"
+
+[[tracks]]
+position = 4
+song-id = "kara/seung-yeon/kare-to-watashi"
+names = [
+  { name = "彼と私 (Japanese ver.)", locale = "ja", original = true },
+  { name = "Kare to Watashi (Japanese ver.)", locale = "ja-Latn", default = true },
+]
+
+[[tracks]]
+position = 5
+song-id = "kara/seung-yeon/oboetemasu-ka"
+names = [
+  { name = "覚えてますか (Japanese ver.)", locale = "ja", original = true },
+  { name = "Oboetemasu ka (Japanese ver.)", locale = "ja-Latn", default = true },
+]
+
+[[tracks]]
+position = 6
+song-id = "kara/seung-yeon/geuaen-na"
+names = [
+  { name = "彼と私 (Korean ver.)", locale = "ja", original = true },
+  { name = "Kare to Watashi (Korean ver.)", locale = "ja-Latn", default = true },
+]
+
+[[tracks]]
+position = 7
+song-id = "kara/seung-yeon/uchuu-inst"

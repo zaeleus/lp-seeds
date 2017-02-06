@@ -1,0 +1,16 @@
+medium-ids = [
+  "kara/seung-yeon/uchuu/regular-edition-a/dvd2",
+]
+
+[[tracks]]
+position = 1
+names = [
+  { name = "宇宙くん Music Video", locale = "ja", original = true },
+  { name = "Uchuu-kun Music Video", locale = "ja-Latn", default = true },
+]
+
+[[tracks]]
+position = 2
+names = [
+  { name = "Making Video", locale = "ja", original = true, default = true },
+]

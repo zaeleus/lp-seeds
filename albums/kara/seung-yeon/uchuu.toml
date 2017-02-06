@@ -1,0 +1,43 @@
+artist-id = "kara/seung-yeon"
+kind = "ep"
+
+names = [
+  { name = "宇宙", locale = "ja", original = true },
+  { name = "Uchuu", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "kara/seung-yeon"
+names = [
+  { name = "ハン・スンヨン", locale = "ja", original = true },
+  { name = "Han Seung Yeon", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-01-20"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1198061486" },
+  { url = "http://mora.jp/package/43000074/TCJPR0000353506/" },
+]
+
+[[releases]]
+released-on = "2017-01-18"
+country = "JP"
+catalog-number = "TSHS-5001"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Regular Edition A"
+urls = [
+  { url = "http://tower.jp/item/4431759" },
+]
+
+[[releases]]
+released-on = "2017-01-18"
+country = "JP"
+catalog-number = "TSHS-5002"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition B"
+urls = [
+  { url = "http://tower.jp/item/4431763" },
+]

@@ -1,0 +1,33 @@
+medium-ids = [
+  "kara/seung-yeon/uchuu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kara/seung-yeon/uchuu"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "kara/seung-yeon/shunshoku"
+duration = "4:30"
+
+[[tracks]]
+position = 3
+song-id = "kara/seung-yeon/winter-letter"
+duration = "4:41"
+
+[[tracks]]
+position = 4
+song-id = "kara/seung-yeon/kare-to-watashi"
+duration = "4:28"
+
+[[tracks]]
+position = 5
+song-id = "kara/seung-yeon/oboetemasu-ka"
+duration = "3:52"
+
+[[tracks]]
+position = 6
+song-id = "kara/seung-yeon/uchuu-inst"
+duration = "3:36"
