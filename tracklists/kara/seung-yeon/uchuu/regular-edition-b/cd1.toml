@@ -41,6 +41,12 @@ names = [
   { name = "彼と私 (Korean ver.)", locale = "ja", original = true },
   { name = "Kare to Watashi (Korean ver.)", locale = "ja-Latn", default = true },
 ]
+[[tracks.artist-credits]]
+artist-id = "kara/seung-yeon"
+names = [
+  { name = "ハン・スンヨン", locale = "ja", original = true },
+  { name = "Han Seung Yeon", locale = "ja-Latn", default = true },
+]
 
 [[tracks]]
 position = 7

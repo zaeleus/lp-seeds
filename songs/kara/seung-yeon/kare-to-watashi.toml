@@ -2,3 +2,10 @@ names = [
   { name = "彼と私", locale = "ja", original = true },
   { name = "Kare to Watashi", locale = "ja-Latn", default = true },
 ]
+
+[[artist-credits]]
+artist-id = "kara/seung-yeon"
+names = [
+  { name = "ハン・スンヨン", locale = "ja", original = true },
+  { name = "Han Seung Yeon", locale = "ja-Latn", default = true },
+]
