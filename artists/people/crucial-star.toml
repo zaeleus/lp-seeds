@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1989-10-16"
+country = "KR"
+
+names = [
+  { name = "크루셜스타", locale = "ko", kind = "stage", original = true },
+  { name = "Crucial Star", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박세윤", locale = "ko", kind = "real" },
+  { name = "Park Se Yoon", locale = "ko-Latn", kind = "real" },
+]

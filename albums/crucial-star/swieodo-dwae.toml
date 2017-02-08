@@ -1,0 +1,16 @@
+artist-id = "crucial-star"
+kind = "single"
+
+names = [
+  { name = "쉬어도 돼", locale = "ko", original = true },
+  { name = "Swieodo Dwae", locale = "ko-Latn", default = true },
+  { name = "You Can Rest", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-02-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10036874" },
+]

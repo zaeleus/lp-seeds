@@ -1,0 +1,9 @@
+names = [
+  { name = "쉬어도 돼 (Feat. Babylon)", locale = "ko", original = true },
+  { name = "Swieodo Dwae (Feat. Babylon)", locale = "ko-Latn", default = true },
+  { name = "You Can Rest (Feat. Babylon)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=P5zlmIRfohs", name = "Music Video" },
+]
