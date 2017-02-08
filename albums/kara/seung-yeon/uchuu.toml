@@ -27,7 +27,7 @@ released-on = "2017-01-18"
 country = "JP"
 catalog-number = "TSHS-5001"
 media = [{ kind = "cd" }, { kind = "dvd" }]
-disambiguation = "Regular Edition A"
+disambiguation = "Type A"
 urls = [
   { url = "http://tower.jp/item/4431759" },
 ]
@@ -37,7 +37,7 @@ released-on = "2017-01-18"
 country = "JP"
 catalog-number = "TSHS-5002"
 media = [{ kind = "cd" }]
-disambiguation = "Regular Edition B"
+disambiguation = "Type B"
 urls = [
   { url = "http://tower.jp/item/4431763" },
 ]
