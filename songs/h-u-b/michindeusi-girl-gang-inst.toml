@@ -1,0 +1,5 @@
+names = [
+  { name = "미친듯이 (Girl Gang) (Inst.)", locale = "ko", original = true },
+  { name = "Michindeusi (Girl Gang) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Girl Gang (Inst.)", locale = "en" },
+]

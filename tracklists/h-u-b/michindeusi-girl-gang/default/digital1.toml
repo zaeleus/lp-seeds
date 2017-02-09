@@ -1,0 +1,13 @@
+medium-ids = [
+  "h-u-b/michindeusi-girl-gang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "h-u-b/michindeusi-girl-gang"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "h-u-b/michindeusi-girl-gang-inst"
+duration = "3:22"

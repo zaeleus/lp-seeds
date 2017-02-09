@@ -1,0 +1,16 @@
+artist-id = "h-u-b"
+kind = "single"
+
+names = [
+  { name = "미친듯이 (Girl Gang)", locale = "ko", original = true },
+  { name = "Michindeusi (Girl Gang)", locale = "ko-Latn", default = true },
+  { name = "Girl Gang", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-02-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10037029" },
+]
