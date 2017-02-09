@@ -1,0 +1,16 @@
+artist-id = "wonder-girls"
+kind = "single"
+
+names = [
+  { name = "그려줘", locale = "ko", original = true },
+  { name = "Geuryeojwo", locale = "ko-Latn", default = true },
+  { name = "DRAW ME", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-02-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10037587" },
+]

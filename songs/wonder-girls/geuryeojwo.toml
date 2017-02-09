@@ -1,0 +1,21 @@
+names = [
+  { name = "그려줘", locale = "ko", original = true },
+  { name = "Geuryeojwo", locale = "ko-Latn", default = true },
+  { name = "DRAW ME", locale = "en" },
+]
+
+contributions = [
+  { artist-id = "wonder-girls/ye-eun", kind = "performer" },
+  { artist-id = "wonder-girls/yubin", kind = "performer" },
+  { artist-id = "wonder-girls/sunmi", kind = "performer" },
+  { artist-id = "wonder-girls/hae-lim", kind = "performer" },
+
+  { artist-id = "wonder-girls/ye-eun", kind = "lyricist" },
+  { artist-id = "wonder-girls/yubin", kind = "lyricist" },
+
+  { artist-id = "wonder-girls/ye-eun", kind = "composer" },
+  { artist-id = "wonder-girls/yubin", kind = "composer" },
+  { artist-id = "hong-ji-sang", kind = "composer" },
+
+  { artist-id = "hong-ji-sang", kind = "arranger" },
+]

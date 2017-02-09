@@ -1,0 +1,8 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "홍지상", locale = "ko", kind = "real", original = true },
+  { name = "Hong Ji Sang", locale = "ko-Latn", kind = "real", default = true },
+]
