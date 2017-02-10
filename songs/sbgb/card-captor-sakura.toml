@@ -1,0 +1,10 @@
+names = [
+  { name = "카드캡터체리", locale = "ko", original = true },
+  { name = "CARD CAPTOR SAKURA", locale = "en", default = true },
+  { name = "Card Captor Cherry", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=rB8LI28vNY0", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=gZU1L9gdiR8", name = "Music Video" },
+]

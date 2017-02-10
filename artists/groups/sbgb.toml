@@ -1,0 +1,9 @@
+kind = "group"
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "새벽공방", locale = "ko", original = true },
+  { name = "Sae Byeok Gong Bang", locale = "ko-Latn" },
+  { name = "SBGB", locale = "ko-Latn", default = true },
+]

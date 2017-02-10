@@ -1,0 +1,5 @@
+names = [
+  { name = "카드캡터체리 (Inst.)", locale = "ko", original = true },
+  { name = "CARD CAPTOR SAKURA (Inst.)", locale = "en", default = true },
+  { name = "Card Captor Cherry (Inst.)", locale = "en" },
+]

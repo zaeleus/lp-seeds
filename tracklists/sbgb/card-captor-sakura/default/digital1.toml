@@ -1,0 +1,13 @@
+medium-ids = [
+  "sbgb/card-captor-sakura/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sbgb/card-captor-sakura"
+duration = "2:47"
+
+[[tracks]]
+position = 2
+song-id = "sbgb/card-captor-sakura-inst"
+duration = "2:47"
