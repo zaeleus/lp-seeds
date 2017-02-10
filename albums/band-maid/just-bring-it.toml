@@ -1,0 +1,14 @@
+artist-id = "band-maid"
+kind = "lp"
+
+names = [
+  { name = "Just Bring It", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-01-11"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000028/CRCP-40485/" },
+]
