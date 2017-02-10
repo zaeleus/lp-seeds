@@ -1,0 +1,13 @@
+medium-ids = [
+  "plastic/wonderland/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "plastic/wonderland"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "plastic/wonderland-inst"
+duration = "3:45"

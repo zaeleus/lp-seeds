@@ -1,0 +1,8 @@
+kind = "group"
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "플라스틱", locale = "ko", original = true },
+  { name = "Plastic", locale = "en", default = true },
+]

@@ -1,0 +1,14 @@
+artist-id = "plastic"
+kind = "single"
+
+names = [
+  { name = "Wonderland", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-02-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10036806" },
+]
