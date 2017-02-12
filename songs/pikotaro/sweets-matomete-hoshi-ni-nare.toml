@@ -1,0 +1,5 @@
+names = [
+  { name = "☆スイーツまとめて星になれ☆！", locale = "ja", original = true },
+  { name = "☆Sweets Matomete Hoshi ni Nare☆!", locale = "ja-Latn", default = true },
+  { name = "☆Gather All the Sweets and Become a Star☆!", locale = "en" },
+]

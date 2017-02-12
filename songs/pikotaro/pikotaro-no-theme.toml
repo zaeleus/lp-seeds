@@ -1,0 +1,5 @@
+names = [
+  { name = "ピコ太郎のテーマ", locale = "ja", original = true },
+  { name = "PIKOTARO no Theme", locale = "ja-Latn", default = true },
+  { name = "PIKOTARO's Theme", locale = "en" },
+]

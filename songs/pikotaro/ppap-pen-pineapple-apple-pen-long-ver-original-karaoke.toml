@@ -1,0 +1,4 @@
+names = [
+  { name = "PPAP (ペンパイナッポーアッポーペン) 「ロング」バージョン (オリジナル・カラオケ)", locale = "ja", original = true },
+  { name = 'PPAP (Pen Pineapple Apple Pen) "Long" ver. (Original Karaoke)', locale = "en", default = true },
+]

@@ -1,0 +1,8 @@
+names = [
+  { name = "ペンパイナッポーアッポーペン(PPAP)", locale = "ja", original = true },
+  { name = "Pen Pineapple Apple Pen (PPAP)", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=0E00Zuayv9Q", name = "Music Video" },
+]

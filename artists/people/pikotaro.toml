@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1973-07-17"
+country = "JP"
+
+names = [
+  { name = "ピコ太郎", locale = "ja", kind = "stage", original = true },
+  { name = "PIKOTARO", locale = "ja-Latn", kind = "stage", default = true },
+  { name = "古坂大魔王", locale = "ja", kind = "stage" },
+  { name = "Kosaka Daimaou", locale = "ja-Latn", kind = "stage" },
+  { name = "古坂和仁", locale = "ja", kind = "real" },
+  { name = "Kazuhito Kosaka", locale = "ja-Latn", kind = "real" },
+]

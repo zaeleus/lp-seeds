@@ -1,0 +1,5 @@
+names = [
+  { name = "二文字目ミステイク", locale = "ja", original = true },
+  { name = "Nimojime Mistake", locale = "ja-Latn", default = true },
+  { name = "Second Character Mistake", locale = "ja-Latn" },
+]

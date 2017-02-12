@@ -1,0 +1,4 @@
+names = [
+  { name = "PPAP (ペンパイナッポーアッポーペン) KOSAKA DAIMAOU REMIX ver2", locale = "ja", original = true },
+  { name = "PPAP (Pen Pineapple Apple Pen) KOSAKA DAIMAOU REMIX ver2", locale = "en", default = true },
+]

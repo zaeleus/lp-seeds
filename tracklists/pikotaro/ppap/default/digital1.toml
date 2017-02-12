@@ -1,0 +1,128 @@
+medium-ids = [
+  "pikotaro/ppap/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pikotaro/piko-attack"
+duration = "0:07"
+
+[[tracks]]
+position = 2
+song-id = "pikotaro/pen-pineapple-apple-pen-ppap"
+duration = "0:44"
+
+[[tracks]]
+position = 3
+song-id = "pikotaro/romita-hashimikov"
+duration = "1:06"
+
+[[tracks]]
+position = 4
+song-id = "pikotaro/neo-sunglasses"
+duration = "0:34"
+
+[[tracks]]
+position = 5
+song-id = "pikotaro/kashite-kudasaiyo"
+duration = "1:12"
+
+[[tracks]]
+position = 6
+song-id = "pikotaro/bettarazuke-ga-daisuki"
+duration = "1:19"
+
+[[tracks]]
+position = 7
+song-id = "pikotaro/sweets-matomete-hoshi-ni-nare"
+duration = "0:56"
+
+[[tracks]]
+position = 8
+song-id = "pikotaro/nee"
+duration = "1:36"
+
+[[tracks]]
+position = 9
+song-id = "pikotaro/pen-pineapple-apple-pen-ppap-long-ver"
+duration = "2:02"
+
+[[tracks]]
+position = 10
+song-id = "pikotaro/nimojime-mistake"
+duration = "0:46"
+
+[[tracks]]
+position = 11
+song-id = "pikotaro/piko-walk"
+duration = "0:34"
+
+[[tracks]]
+position = 12
+song-id = "pikotaro/ppap-pen-pineapple-apple-pen-kosaka-daimaou-remix"
+duration = "2:26"
+
+[[tracks]]
+position = 13
+song-id = "pikotaro/ima-iru-basho-sore-wa-koko"
+duration = "1:17"
+
+[[tracks]]
+position = 14
+song-id = "pikotaro/kawari-yuku-onna"
+duration = "1:46"
+
+[[tracks]]
+position = 15
+song-id = "pikotaro/ppap-pen-pineapple-apple-pen-kosaka-daimaou-remix-ver2"
+duration = "2:26"
+
+[[tracks]]
+position = 16
+song-id = "pikotaro/hiyoko-senbetsu"
+duration = "0:35"
+
+[[tracks]]
+position = 17
+song-id = "pikotaro/saishuu-shudan"
+duration = "0:40"
+
+[[tracks]]
+position = 18
+song-id = "pikotaro/yome"
+duration = "3:08"
+
+[[tracks]]
+position = 19
+song-id = "pikotaro/kanabun-buun-demo-ebi-in-bin"
+duration = "0:44"
+
+[[tracks]]
+position = 20
+song-id = "pikotaro/pikotaro-no-theme"
+duration = "0:17"
+
+[[tracks]]
+position = 21
+song-id = "pikotaro/pen-pineapple-apple-pen-ppap-instrumental"
+duration = "0:44"
+
+[[tracks]]
+position = 22
+song-id = "pikotaro/neo-sunglasses-original-karaoke"
+duration = "0:34"
+
+[[tracks]]
+position = 23
+song-id = "pikotaro/gather-all-the-sweets-and-become-a-star-original-karaoke"
+duration = "0:56"
+
+[[tracks]]
+position = 24
+song-id = "pikotaro/ppap-pen-pineapple-apple-pen-long-ver-original-karaoke"
+duration = "2:02"
+
+[[tracks]]
+position = 25
+song-id = "pikotaro/kashite-kudasaiyo-original-karaoke"
+duration = "1:12"

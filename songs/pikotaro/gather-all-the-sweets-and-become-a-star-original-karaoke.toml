@@ -1,0 +1,5 @@
+names = [
+  { name = "☆スイーツまとめて星になれ☆！ (オリジナル・カラオケ)", locale = "ja", original = true },
+  { name = "☆Sweets Matomete Hoshi ni Nare☆! (Original Karaoke)", locale = "ja-Latn" },
+  { name = "☆Gather All the Sweets and Become a Star☆! (Original Karaoke)", locale = "en", default = true },
+]

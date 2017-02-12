@@ -1,0 +1,14 @@
+artist-id = "pikotaro"
+kind = "lp"
+
+names = [
+  { name = "PPAP", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-12-07"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000002/AVCD-93575/" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "KASHITE KUDASAIYO (オリジナル・カラオケ)", locale = "ja", original = true },
+  { name = "KASHITE KUDASAIYO (Original Karaoke)", locale = "en", default = true },
+]

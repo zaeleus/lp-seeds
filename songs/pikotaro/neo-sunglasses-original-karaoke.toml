@@ -1,0 +1,4 @@
+names = [
+  { name = "ネオ・サングラス (オリジナル・カラオケ)", locale = "ja", original = true },
+  { name = "Neo Sunglasses (Original Karaoke)", locale = "en", default = true },
+]

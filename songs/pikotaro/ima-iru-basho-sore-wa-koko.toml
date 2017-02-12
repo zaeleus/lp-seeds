@@ -1,0 +1,5 @@
+names = [
+  { name = "今いる場所、それはここ", locale = "ja", original = true },
+  { name = "Ima Iru Basho, Sore wa Koko", locale = "ja-Latn", default = true },
+  { name = "Where You Are, That's Here", locale = "en" },
+]
