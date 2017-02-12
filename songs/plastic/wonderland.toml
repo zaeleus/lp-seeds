@@ -2,3 +2,7 @@ names = [
   { name = "원더랜드 (Wonderland)", locale = "ko", original = true },
   { name = "Wonderland", locale = "en", default = true },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=rIUI29w1nZw", name = "Music Video" },
+]
