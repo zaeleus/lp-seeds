@@ -1,0 +1,13 @@
+medium-ids = [
+  "via/joha/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "via/joha"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "via/joha-inst"
+duration = "3:53"
