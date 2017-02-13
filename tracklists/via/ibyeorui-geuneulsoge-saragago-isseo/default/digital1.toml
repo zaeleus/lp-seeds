@@ -1,0 +1,13 @@
+medium-ids = [
+  "via/ibyeorui-geuneulsoge-saragago-isseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "via/ibyeorui-geuneulsoge-saragago-isseo"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "via/ibyeorui-geuneulsoge-saragago-isseo-inst"
+duration = "3:31"
