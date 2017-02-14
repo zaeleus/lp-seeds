@@ -1,0 +1,21 @@
+names = [
+  { name = "비가와 (Rain)", locale = "ko", original = true },
+  { name = "Bigawa (Rain)", locale = "ko-Latn", default = true },
+  { name = "Rain", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=e5XH4hnkkF4", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=6rj3h-cEqgg", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "sistar/soyou"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "exo/baekhyun"
+names = [
+  { name = "백현", locale = "ko", original = true },
+  { name = "BAEKHYUN", locale = "ko-Latn", default = true },
+]

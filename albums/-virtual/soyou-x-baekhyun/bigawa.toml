@@ -1,0 +1,27 @@
+artist-id = "soyou-x-baekhyun"
+kind = "single"
+
+names = [
+  { name = "비가와", locale = "ko", original = true },
+  { name = "Bigawa", locale = "ko-Latn", default = true },
+  { name = "Rain", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "sistar/soyou"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "exo/baekhyun"
+names = [
+  { name = "백현", locale = "ko", original = true },
+  { name = "BAEKHYUN", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-02-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10038305" },
+]
