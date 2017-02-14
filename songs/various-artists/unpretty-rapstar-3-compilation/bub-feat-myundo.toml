@@ -9,3 +9,8 @@ artist-credits = [
 urls = [
   { url = "https://www.youtube.com/watch?v=0lbBFHRFbEQ", name = "Live Performance" },
 ]
+
+contributions = [
+  { artist-id = "giant-pink", kind = "performer" },
+  { artist-id = "myundo", kind = "performer" },
+]
