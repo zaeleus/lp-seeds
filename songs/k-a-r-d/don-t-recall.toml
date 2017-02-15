@@ -1,0 +1,11 @@
+names = [
+  { name = "Don't Recall", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=4OUwOmFrP_Y", name = "Key Point of Dance" },
+  { url = "https://www.youtube.com/watch?v=3n_2yrtF7Jw", name = "Somin & Jiwoo Teaser" },
+  { url = "https://www.youtube.com/watch?v=qAxaFRDyBU4", name = "BM & J.Seph Teaser" },
+  { url = "https://www.youtube.com/watch?v=45bE23eECMo", name = "Trailer" },
+  { url = "https://www.youtube.com/watch?v=41Dp7Q-SM1Y", name = "Music Video" },
+]
