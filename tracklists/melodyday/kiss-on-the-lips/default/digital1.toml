@@ -1,0 +1,33 @@
+medium-ids = [
+  "melodyday/kiss-on-the-lips/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melodyday/kiss-on-the-lips"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "melodyday/mix-match"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "melodyday/heunhan-melody-feat-jq"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "melodyday/like-u"
+duration = "3:15"
+
+[[tracks]]
+position = 5
+song-id = "melodyday/gift"
+duration = "4:26"
+
+[[tracks]]
+position = 6
+song-id = "melodyday/bappa-boyeoyo-feat-jung-il-hoon-of-btob"
+duration = "3:59"

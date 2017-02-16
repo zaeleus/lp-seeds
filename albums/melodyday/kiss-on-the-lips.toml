@@ -1,0 +1,14 @@
+artist-id = "melodyday"
+kind = "ep"
+
+names = [
+  { name = "KISS ON THE LIPS", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-02-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10038780" },
+]

@@ -1,0 +1,8 @@
+names = [
+  { name = "KISS ON THE LIPS", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=g1TqK51K7js", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=GEhDA13d4lQ", name = "Music Video" },
+]

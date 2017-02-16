@@ -1,0 +1,4 @@
+names = [
+  { name = "흔한 멜로디 (Feat. JQ)", locale = "ko", original = true },
+  { name = "Heunhan Melody (Feat. JQ)", locale = "ko-Latn", default = true },
+]

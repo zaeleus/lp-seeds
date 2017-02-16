@@ -3,3 +3,12 @@ names = [
   { name = "Bappa Boyeoyo (Feat. Jung Il Hoon of BTOB)", locale = "ko-Latn", default = true },
   { name = "You Seem Busy (Feat. Jung Il Hoon of BTOB)", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=QLCNObll1vQ", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=fbpszsQXoLs", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "btob/jung-il-hoon", kind = "performer" },
+]
