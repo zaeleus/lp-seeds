@@ -1,0 +1,19 @@
+artist-id = "-virtual/june-one-kim-x-krystal"
+kind = "single"
+
+names = [
+  { name = "I Don't Wanna Love You", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "june-one-kim", separator = " X " },
+  { artist-id = "f-x/krystal" },
+]
+
+[[releases]]
+released-on = "2017-02-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10038791" },
+]

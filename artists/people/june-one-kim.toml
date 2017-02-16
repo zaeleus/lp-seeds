@@ -1,0 +1,9 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "김준원", locale = "ko", kind = "real", original = true },
+  { name = "Kim Joon Won", locale = "ko-Latn", kind = "real" },
+  { name = "June One Kim", locale = "en", kind = "real", default = true },
+]

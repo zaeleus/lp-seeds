@@ -1,0 +1,12 @@
+names = [
+  { name = "I Don't Wanna Love You", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "june-one-kim", separator = " X " },
+  { artist-id = "f-x/krystal" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ytFZWW0sh2Q", name = "Music Video" },
+]
