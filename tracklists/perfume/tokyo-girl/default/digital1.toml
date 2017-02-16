@@ -1,0 +1,13 @@
+medium-ids = [
+  "perfume/tokyo-girl/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "perfume/tokyo-girl"
+duration = "4:27"
+
+[[tracks]]
+position = 2
+song-id = "perfume/houseki-no-ame"
+duration = "3:58"

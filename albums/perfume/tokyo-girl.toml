@@ -1,0 +1,36 @@
+artist-id = "perfume"
+kind = "single"
+
+names = [
+  { name = "TOKYO GIRL", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-02-15"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1204980915" },
+  { url = "https://play.google.com/music/m/Brmefvrfqcjx5dplr7nnsrattrq" },
+  { url = "http://mora.jp/package/43000029/UPCP-5009/" },
+]
+
+[[releases]]
+released-on = "2017-02-15"
+country = "JP"
+catalog-number = "UPCP-9015"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/325277/products/1215638/1/" },
+]
+
+[[releases]]
+released-on = "2017-02-15"
+country = "JP"
+catalog-number = "UPCP-5009"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/325277/products/1215640/1/" },
+]

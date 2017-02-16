@@ -1,0 +1,4 @@
+names = [
+  { name = "宝石の雨 -Original Instrumental-", locale = "ja", original = true },
+  { name = "Houseki no Ame -Original Instrumental-", locale = "ja-Latn", default = true },
+]

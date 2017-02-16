@@ -1,0 +1,20 @@
+medium-ids = [
+  "perfume/tokyo-girl/limited-edition/cd1",
+  "perfume/tokyo-girl/regular-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "perfume/tokyo-girl"
+
+[[tracks]]
+position = 2
+song-id = "perfume/houseki-no-ame"
+
+[[tracks]]
+position = 3
+song-id = "perfume/tokyo-girl-original-instrumental"
+
+[[tracks]]
+position = 4
+song-id = "perfume/houseki-no-ame-original-instrumental"
