@@ -7,6 +7,7 @@ names = [
 urls = [
   { url = "https://www.youtube.com/watch?v=e5XH4hnkkF4", name = "Teaser" },
   { url = "https://www.youtube.com/watch?v=6rj3h-cEqgg", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=bNduiXcJXNc", name = "Making Film" },
 ]
 
 [[artist-credits]]
