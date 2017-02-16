@@ -1,0 +1,5 @@
+names = [
+  { name = "피 땀 눈물", locale = "ko", original = true },
+  { name = "Pi Ttam Nunmul", locale = "ko-Latn", default = true },
+  { name = "Blood Sweat & Tears", locale = "en" },
+]

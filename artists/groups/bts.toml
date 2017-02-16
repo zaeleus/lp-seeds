@@ -1,0 +1,10 @@
+kind = "group"
+started-on = "2013"
+country = "KR"
+
+names = [
+  { name = "방탄소년단", locale = "ko", original = true },
+  { name = "Bangtan Sonyeondan", locale = "ko-Latn" },
+  { name = "BTS", locale = "ko-Latn", default = true },
+  { name = "Bangtan Boys", locale = "en" },
+]

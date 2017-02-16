@@ -1,0 +1,5 @@
+names = [
+  { name = "둘! 셋! (그래도 좋은 날이 더 많기를)", locale = "ko", original = true },
+  { name = "Dul! Ses! (Geuraedo Joheun Nari Deo Manhgireul)", locale = "ko-Latn", default = true },
+  { name = "2! 3!", locale = "en" },
+]

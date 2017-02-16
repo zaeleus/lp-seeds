@@ -1,0 +1,3 @@
+names = [
+  { name = "A Supplementary Story: You Never Walk Alone", locale = "ko", original = true, default = true },
+]
