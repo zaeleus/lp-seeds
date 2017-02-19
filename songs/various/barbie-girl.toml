@@ -1,0 +1,10 @@
+names = [
+  { name = "바비걸 (Barbie Girl)", locale = "ko", original = true },
+  { name = "Barbie Girl", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=vbKd_D5eHaE", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=AJ1HTPpfF0Q", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=5YTAoiO0CcA", name = "Music Video (Dance Ver.)" },
+]

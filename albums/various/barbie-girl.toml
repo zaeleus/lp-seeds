@@ -1,0 +1,15 @@
+artist-id = "various"
+kind = "single"
+
+names = [
+  { name = "바비걸 (Barbie Girl)", locale = "ko", original = true },
+  { name = "Barbie Girl", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-02-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10038739" },
+]
