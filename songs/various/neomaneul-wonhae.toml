@@ -1,0 +1,10 @@
+names = [
+  { name = "너만을 원해", locale = "ko", original = true },
+  { name = "Neomaneul Wonhae", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=biCyXRQMP08", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=KiHXhLTkSCI", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=6hgpppByKsw", name = "Choreography" },
+]

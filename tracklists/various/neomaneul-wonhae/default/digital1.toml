@@ -1,0 +1,23 @@
+medium-ids = [
+  "various/neomaneul-wonhae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "various/neomaneul-wonhae"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "various/jjagiya"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "various/neomaneul-wonhae-inst"
+duration = "3:07"
+
+[[tracks]]
+position = 4
+song-id = "various/jjagiya-inst"
+duration = "3:12"
