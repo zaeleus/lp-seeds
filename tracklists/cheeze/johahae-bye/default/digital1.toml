@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheeze/johahae-bye/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheeze/johahae-bye"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "cheeze/johahae-bye-inst"
+duration = "3:39"

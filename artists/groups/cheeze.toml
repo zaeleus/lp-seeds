@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2011"
+country = "KR"
+
+names = [
+  { name = "치즈", locale = "ko", original = true },
+  { name = "CHEEZE", locale = "ko-Latn", default = true },
+]
