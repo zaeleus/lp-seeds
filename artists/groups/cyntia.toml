@@ -1,0 +1,7 @@
+kind = "group"
+started-on = "2011"
+country = "JP"
+
+names = [
+  { name = "Cyntia", locale = "ja", original = true, default = true },
+]

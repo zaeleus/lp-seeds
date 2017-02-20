@@ -1,0 +1,48 @@
+medium-ids = [
+  "cyntia/urban-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cyntia/introduction"
+duration = "1:43"
+
+[[tracks]]
+position = 2
+song-id = "cyntia/urban-night"
+duration = "4:16"
+
+[[tracks]]
+position = 3
+song-id = "cyntia/happiness"
+duration = "3:29"
+
+[[tracks]]
+position = 4
+song-id = "cyntia/bless-of-the-fire"
+duration = "4:27"
+
+[[tracks]]
+position = 5
+song-id = "cyntia/life-goes-on"
+duration = "4:21"
+
+[[tracks]]
+position = 6
+song-id = "cyntia/un-verse"
+duration = "4:33"
+
+[[tracks]]
+position = 7
+song-id = "cyntia/fuminshou-cinderella"
+duration = "4:05"
+
+[[tracks]]
+position = 8
+song-id = "cyntia/if"
+duration = "3:39"
+
+[[tracks]]
+position = 9
+song-id = "cyntia/call-me"
+duration = "5:56"
