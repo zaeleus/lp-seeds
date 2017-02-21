@@ -1,0 +1,15 @@
+artist-id = "pie"
+kind = "single"
+
+names = [
+  { name = "러브 레시피 (Prod. by 손성희 of BUZZ)", locale = "ko", original = true },
+  { name = "Love Recipe (Prod. by Son Seong Hee of BUZZ)", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-02-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10038738" },
+]

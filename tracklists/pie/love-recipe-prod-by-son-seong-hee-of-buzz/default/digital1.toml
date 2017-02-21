@@ -1,0 +1,13 @@
+medium-ids = [
+  "pie/love-recipe-prod-by-son-seong-hee-of-buzz/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pie/love-recipe-prod-by-son-seong-hee-of-buzz"
+duration = "2:31"
+
+[[tracks]]
+position = 2
+song-id = "pie/love-recipe-prod-by-son-seong-hee-of-buzz-inst"
+duration = "2:31"

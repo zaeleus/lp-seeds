@@ -1,0 +1,8 @@
+names = [
+  { name = "러브 레시피 (Prod. by 손성희 of BUZZ)", locale = "ko", original = true },
+  { name = "Love Recipe (Prod. by Son Seong Hee of BUZZ)", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=VrGIsa4YqYQ", name = "Music Video" },
+]
