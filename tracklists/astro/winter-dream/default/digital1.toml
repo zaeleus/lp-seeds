@@ -1,0 +1,18 @@
+medium-ids = [
+  "astro/winter-dream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "astro/butjabasseoya-hae"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "astro/cotton-candy"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "astro/you-me-thanks-aroha"
+duration = "3:25"
