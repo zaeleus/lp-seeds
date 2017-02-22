@@ -13,3 +13,12 @@ urls = [
   { url = "https://itunes.apple.com/us/album/id1207692940" },
   { url = "http://www.melon.com/album/detail.htm?albumId=10040060" },
 ]
+
+[[releases]]
+released-on = "2017-02-20"
+country = "KR"
+catalog-number = "JYPK-0760"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://hanteo.com/search/nalbum_info2.asp?mcode=045401576" },
+]
