@@ -5,4 +5,5 @@ names = [
 urls = [
   { url = "https://www.youtube.com/watch?v=lm85ywpxDXM", name = "Music Video (Fanart MV Ver.)" },
   { url = "https://www.youtube.com/watch?v=Yfzc-fMrh1E", name = "Official Audio" },
+  { url = "https://www.youtube.com/watch?v=PaZ5cr0qrpk", name = "Choreography Video" },
 ]
