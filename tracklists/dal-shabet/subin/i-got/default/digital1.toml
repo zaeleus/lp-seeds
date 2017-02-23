@@ -1,0 +1,28 @@
+medium-ids = [
+  "dal-shabet/subin/i-got/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dal-shabet/subin/nothing"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "dal-shabet/subin/miwo"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "dal-shabet/subin/i-got"
+duration = "3:31"
+
+[[tracks]]
+position = 4
+song-id = "dal-shabet/subin/kkot"
+duration = "3:43"
+
+[[tracks]]
+position = 5
+song-id = "dal-shabet/subin/yeoksi-hoksi-dasi"
+duration = "3:20"

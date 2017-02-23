@@ -1,0 +1,23 @@
+medium-ids = [
+  "dal-shabet/subin/donggeuramiui-kkum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dal-shabet/subin/geune"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "dal-shabet/subin/strawberry"
+duration = "3:35"
+
+[[tracks]]
+position = 3
+song-id = "dal-shabet/subin/donggeuramiui-kkum"
+duration = "2:54"
+
+[[tracks]]
+position = 4
+song-id = "dal-shabet/subin/dal"
+duration = "3:21"

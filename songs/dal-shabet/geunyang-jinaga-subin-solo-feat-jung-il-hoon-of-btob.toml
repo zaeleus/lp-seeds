@@ -1,14 +1,14 @@
 names = [
   { name = "그냥 지나가 (수빈 Solo) (Feat. 일훈 of BTOB)", locale = "ko", original = true },
-  { name = "Geunyang Jinaga (Su Bin Solo) (Feat. Jung Il Hoon of BTOB)", locale = "ko-Latn", default = true },
+  { name = "Geunyang Jinaga (Subin Solo) (Feat. Jung Il Hoon of BTOB)", locale = "ko-Latn", default = true },
 ]
 
 contributions = [
-  { artist-id = "dal-shabet/su-bin", kind = "performer" },
+  { artist-id = "dal-shabet/subin", kind = "performer" },
   { artist-id = "btob/jung-il-hoon", kind = "performer" },
-  { artist-id = "dal-shabet/su-bin", kind = "lyricist" },
+  { artist-id = "dal-shabet/subin", kind = "lyricist" },
   { artist-id = "btob/jung-il-hoon", kind = "lyricist" },
-  { artist-id = "dal-shabet/su-bin", kind = "composer" },
+  { artist-id = "dal-shabet/subin", kind = "composer" },
   { artist-id = "shim-jae-hoon", kind = "arranger" },
   { artist-id = "kim-min-seob", kind = "arranger" },
 ]

@@ -5,5 +5,5 @@ names = [
 ]
 
 contributions = [
-  { artist-id = "dal-shabet/su-bin", kind = "performer" },
+  { artist-id = "dal-shabet/subin", kind = "performer" },
 ]

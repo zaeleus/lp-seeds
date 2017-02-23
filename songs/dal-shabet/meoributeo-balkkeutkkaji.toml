@@ -1,12 +1,12 @@
 names = [
   { name = "머리부터 발끝까지 (수빈 Solo)", locale = "ko", original = true },
-  { name = "Meoributeo Balkkeutkkaji (Su Bin Solo)", locale = "ko-Latn", default = true },
-  { name = "From Head to Toe (Su Bin Solo)", locale = "en" },
+  { name = "Meoributeo Balkkeutkkaji (Subin Solo)", locale = "ko-Latn", default = true },
+  { name = "From Head to Toe (Subin Solo)", locale = "en" },
 ]
 
 contributions = [
-  { artist-id = "dal-shabet/su-bin", kind = "performer" },
-  { artist-id = "dal-shabet/su-bin", kind = "lyricist" },
-  { artist-id = "dal-shabet/su-bin", kind = "composer" },
+  { artist-id = "dal-shabet/subin", kind = "performer" },
+  { artist-id = "dal-shabet/subin", kind = "lyricist" },
+  { artist-id = "dal-shabet/subin", kind = "composer" },
   { artist-id = "super-bomb", kind = "arranger" },
 ]

@@ -12,7 +12,7 @@ labels = [{ label-id = "happyface-entertainment" }]
 members = [
   { artist-id = "dal-shabet/serri", started-on = "2011-01" },
   { artist-id = "dal-shabet/ah-young", started-on = "2011-01" },
-  { artist-id = "dal-shabet/su-bin", started-on = "2011-01" },
+  { artist-id = "dal-shabet/subin", started-on = "2011-01" },
   { artist-id = "dal-shabet/woo-hee", started-on = "2012-06" },
   { artist-id = "dal-shabet/vicky", started-on = "2011-01", ended-on = "2012-06" },
   { artist-id = "dal-shabet/ji-yool", started-on = "2011-01", ended-on = "2015-12-09" },

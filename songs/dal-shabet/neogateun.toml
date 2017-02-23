@@ -11,7 +11,7 @@ urls = [
 contributions = [
   { artist-id = "dal-shabet/serri", kind = "performer" },
   { artist-id = "dal-shabet/ah-young", kind = "performer" },
-  { artist-id = "dal-shabet/su-bin", kind = "performer" },
+  { artist-id = "dal-shabet/subin", kind = "performer" },
   { artist-id = "dal-shabet/woo-hee", kind = "performer" },
   { artist-id = "brave-brothers", kind = "lyricist" },
   { artist-id = "brave-brothers", kind = "composer" },
