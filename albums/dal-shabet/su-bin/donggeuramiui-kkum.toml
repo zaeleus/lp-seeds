@@ -1,0 +1,16 @@
+artist-id = "dal-shabet/su-bin"
+kind = "single"
+
+names = [
+  { name = "동그라미의 꿈", locale = "ko", original = true },
+  { name = "Donggeuramiui Kkum", locale = "ko-Latn", default = true },
+  { name = "Circle's Dream", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-02-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10041027" },
+]

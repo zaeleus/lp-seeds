@@ -1,0 +1,10 @@
+names = [
+  { name = "동그라미의 꿈", locale = "ko", original = true },
+  { name = "Donggeuramiui Kkum", locale = "ko-Latn", default = true },
+  { name = "Circle's Dream", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=nq_HnSMj_1A", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=kdT1OEYfcMs", name = "Music Video" },
+]
