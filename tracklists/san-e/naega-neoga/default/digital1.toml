@@ -1,0 +1,13 @@
+medium-ids = [
+  "san-e/naega-neoga/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "san-e/naega-neoga"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "san-e/naega-neoga-inst"
+duration = "3:13"

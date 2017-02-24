@@ -1,0 +1,9 @@
+names = [
+  { name = "내가 너가", locale = "ko", original = true },
+  { name = "Naega Neoga", locale = "ko-Latn", default = true },
+  { name = "What If", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=8FIA22U5_DE", name = "Music Video" },
+]

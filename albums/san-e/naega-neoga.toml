@@ -1,0 +1,17 @@
+artist-id = "san-e"
+kind = "single"
+
+names = [
+  { name = "내가 너가", locale = "ko", original = true },
+  { name = "Naega Neoga", locale = "ko-Latn", default = true },
+  { name = "What If", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-02-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1207982611" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=10040448" },
+]
