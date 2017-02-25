@@ -1,0 +1,3 @@
+names = [
+  { name = "Only One (Feat. Raz Simone)", locale = "ko", original = true, default = true },
+]

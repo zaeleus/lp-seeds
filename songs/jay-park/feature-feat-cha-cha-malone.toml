@@ -1,0 +1,3 @@
+names = [
+  { name = "Feature (Feat. Cha Cha Malone)", locale = "ko", original = true, default = true },
+]

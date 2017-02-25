@@ -1,0 +1,5 @@
+names = [
+  { name = "전화기를 꺼놔 Remix (Feat. ELO)", locale = "ko", original = true },
+  { name = "Jeonhwagireul Kkeonwa Remix (Feat. ELO)", locale = "ko-Latn", default = true },
+  { name = "Turn Off Your Phone Remix (Feat. ELO)", locale = "en" },
+]

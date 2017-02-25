@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1987-04-25"
+country = "US"
+
+names = [
+  { name = "박재범", locale = "ko", kind = "real", original = true },
+  { name = "Park Jae Beom", locale = "ko-Latn", kind = "real" },
+  { name = "Jay Park", locale = "en", kind = "real", default = true },
+]
