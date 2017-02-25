@@ -1,0 +1,16 @@
+artist-id = "gavy-nj"
+kind = "ep"
+
+names = [
+  { name = "뻔한 멜로", locale = "ko", original = true },
+  { name = "Ppeonhan Melo", locale = "ko-Latn", default = true },
+  { name = "An Obvious Melo", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-02-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10041176" },
+]

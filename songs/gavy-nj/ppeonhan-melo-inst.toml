@@ -1,0 +1,5 @@
+names = [
+  { name = "뻔한 멜로 (Inst.)", locale = "ko", original = true },
+  { name = "Ppeonhan Melo (Inst.)", locale = "ko-Latn", default = true },
+  { name = "An Obvious Melo (Inst.)", locale = "en" },
+]
