@@ -9,6 +9,10 @@ names = [
   { name = "Ahn Sol Bin", locale = "ko-Latn", kind = "real" },
 ]
 
+urls = [
+  { url = "https://www.instagram.com/solbin0819/" },
+]
+
 [metadata]
 height = 169
 weight = 52

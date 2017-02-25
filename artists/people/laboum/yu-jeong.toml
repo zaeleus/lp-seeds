@@ -9,6 +9,10 @@ names = [
   { name = "Kim Yu Jeong", locale = "ko-Latn", kind = "real" },
 ]
 
+urls = [
+  { url = "https://www.instagram.com/yudong_0214/" },
+]
+
 [metadata]
 height = 161
 weight = 42

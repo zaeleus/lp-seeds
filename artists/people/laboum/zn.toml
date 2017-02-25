@@ -9,6 +9,10 @@ names = [
   { name = "Bae Jin Ye", locale = "ko-Latn", kind = "real" },
 ]
 
+urls = [
+  { url = "https://www.instagram.com/zn_wlsdp/" },
+]
+
 [metadata]
 height = 169
 weight = 48

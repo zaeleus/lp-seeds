@@ -9,6 +9,10 @@ names = [
   { name = "Kim Yul Hee", locale = "ko-Latn", kind = "real" },
 ]
 
+urls = [
+  { url = "https://www.instagram.com/k_yh_o3o9/" },
+]
+
 [metadata]
 height = 166
 weight = 52

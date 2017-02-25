@@ -9,6 +9,10 @@ names = [
   { name = "Jung So Yeon", locale = "ko-Latn", kind = "real" },
 ]
 
+urls = [
+  { url = "https://www.instagram.com/lsoyeonb/" },
+]
+
 [metadata]
 height = 161
 weight = 44
