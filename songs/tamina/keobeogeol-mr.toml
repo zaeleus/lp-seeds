@@ -1,0 +1,5 @@
+names = [
+  { name = "커버걸 (MR)", locale = "ko", original = true },
+  { name = "Keobeogeol (MR)", locale = "ko-Latn", default = true },
+  { name = "Cover Girl (MR)", locale = "en" },
+]

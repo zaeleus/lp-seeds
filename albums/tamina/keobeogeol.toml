@@ -1,0 +1,16 @@
+artist-id = "tamina"
+kind = "single"
+
+names = [
+  { name = "커버걸", locale = "ko", original = true },
+  { name = "Keobeogeol", locale = "ko-Latn", default = true },
+  { name = "Cover Girl", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-02-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10041471" },
+]

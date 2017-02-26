@@ -1,0 +1,13 @@
+medium-ids = [
+  "tamina/keobeogeol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "tamina/keobeogeol"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "tamina/keobeogeol-mr"
+duration = "3:06"
