@@ -1,0 +1,9 @@
+names = [
+  { name = "The (Lee Mi-Joo & Ryu Su-Jeong & Jeong Ye-In)", locale = "ko", original = true, default = true },
+]
+
+contributions = [
+  { artist-id  = "lovelyz/lee-mi-joo", kind = "performer" },
+  { artist-id  = "lovelyz/ryu-su-jeong", kind = "performer" },
+  { artist-id  = "lovelyz/jeong-ye-in", kind = "performer" },
+]

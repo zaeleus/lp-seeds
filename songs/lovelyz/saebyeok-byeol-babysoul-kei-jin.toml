@@ -1,0 +1,10 @@
+names = [
+  { name = "새벽별 (Babysoul & Kei & JIN)", locale = "ko", original = true },
+  { name = "Saebyeok Byeol (Babysoul & Kei & JIN)", locale = "ko-Latn", default = true },
+]
+
+contributions = [
+  { artist-id  = "lovelyz/baby-soul", kind = "performer" },
+  { artist-id  = "lovelyz/kim-ji-yeon", kind = "performer" },
+  { artist-id  = "lovelyz/jin", kind = "performer" },
+]
