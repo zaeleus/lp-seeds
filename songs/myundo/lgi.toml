@@ -1,0 +1,3 @@
+names = [
+  { name = "LGI", locale = "ko", original = true, default = true },
+]

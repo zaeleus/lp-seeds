@@ -1,0 +1,23 @@
+medium-ids = [
+  "myundo/rgb-pt-0-255-0/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "myundo/ghood-life-feat-yoonmirae-bizzy"
+duration = "4:37"
+
+[[tracks]]
+position = 2
+song-id = "myundo/inspirations"
+duration = "4:01"
+
+[[tracks]]
+position = 3
+song-id = "myundo/lgi"
+duration = "3:40"
+
+[[tracks]]
+position = 4
+song-id = "myundo/82life"
+duration = "4:09"
