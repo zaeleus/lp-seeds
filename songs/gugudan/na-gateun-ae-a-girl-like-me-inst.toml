@@ -1,0 +1,5 @@
+names = [
+  { name = "나 같은 애 (A Girl Like Me) (Inst.)", locale = "ko", original = true },
+  { name = "Na Gateun Ae (A Girl Like Me) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "A Girl Like Me (Inst.)", locale = "en" },
+]

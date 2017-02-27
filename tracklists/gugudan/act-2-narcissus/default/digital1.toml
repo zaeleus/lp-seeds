@@ -1,0 +1,33 @@
+medium-ids = [
+  "gugudan/act-2-narcissus/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/rainbow"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/na-gateun-ae-a-girl-like-me"
+duration = "2:55"
+
+[[tracks]]
+position = 3
+song-id = "gugudan/miwojiryeo-hae"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song-id = "gugudan/geori"
+duration = "3:48"
+
+[[tracks]]
+position = 5
+song-id = "gugudan/sowon-deureojugi"
+duration = "4:03"
+
+[[tracks]]
+position = 6
+song-id = "gugudan/na-gateun-ae-a-girl-like-me-inst"
+duration = "2:55"
