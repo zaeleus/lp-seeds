@@ -1,0 +1,12 @@
+names = [
+  { name = "날개 (Feel So Fine)", locale = "ko", original = true },
+  { name = "Nalgae (Feel So Fine)", locale = "ko-Latn", default = true },
+  { name = "Feel So Fine", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", kind = "stage", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
+]

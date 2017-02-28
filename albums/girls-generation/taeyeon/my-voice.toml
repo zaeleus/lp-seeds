@@ -1,0 +1,30 @@
+artist-id = "girls-generation/taeyeon"
+kind = "lp"
+
+names = [
+  { name = "My Voice", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", kind = "stage", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+[[releases]]
+released-on = "2017-02-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10040265" },
+]
+
+[[releases]]
+released-on = "2017-02-28"
+country = "KR"
+catalog-number = "SMK-0761"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.hanteo.com/search/nAlbum_info2.asp?mcode=045401584" },
+]

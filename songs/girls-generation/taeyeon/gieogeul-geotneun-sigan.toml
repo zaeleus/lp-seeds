@@ -1,0 +1,11 @@
+names = [
+  { name = "기억을 걷는 시간", locale = "ko", original = true },
+  { name = "Gieogeul Geotneun Sigan", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", kind = "stage", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
+]
