@@ -1,0 +1,8 @@
+medium-ids = [
+  "ailee/nalkeun-geurium/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ailee/nalkeun-geurium"
+duration = "3:29"

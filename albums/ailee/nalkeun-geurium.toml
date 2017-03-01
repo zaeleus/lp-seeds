@@ -1,0 +1,16 @@
+artist-id = "ailee"
+kind = "single"
+
+names = [
+  { name = "낡은 그리움", locale = "ko", original = true },
+  { name = "Nalkeun Geurium", locale = "ko-Latn", default = true },
+  { name = "Reminiscing", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-02-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10042015" },
+]
