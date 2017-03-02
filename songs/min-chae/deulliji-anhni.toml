@@ -1,0 +1,10 @@
+names = [
+  { name = "들리지 않니", locale = "ko", original = true },
+  { name = "Deulliji Anhni", locale = "ko-Latn", default = true },
+  { name = "Can't You Hear Me", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=b2CbjpyUkcc", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=-MU687Te654", name = "Music Video" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "들리지 않니 (Inst.)", locale = "ko", original = true },
+  { name = "Deulliji Anhni (Inst.)", locale = "en", default = true },
+  { name = "Can't You Hear Me (Inst.)", locale = "en" },
+]

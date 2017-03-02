@@ -1,0 +1,16 @@
+artist-id = "min-chae"
+kind = "single"
+
+names = [
+  { name = "들리지 않니", locale = "ko", original = true },
+  { name = "Deulliji Anhni", locale = "ko-Latn", default = true },
+  { name = "Can't You Hear Me", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-02-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10041999" },
+]
