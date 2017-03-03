@@ -1,0 +1,15 @@
+names = [
+  { name = "기다리지 말아요", locale = "ko", original = true },
+  { name = "Gidariji Marayo", locale = "ko-Latn", default = true },
+  { name = "Don't Wait for Your Love", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "park-won", separator = " X " },
+  { artist-id = "miss-a/suzy" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=RcNiKqeQIC8", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=tdKA0Il-Qo0", name = "Music Video" },
+]
