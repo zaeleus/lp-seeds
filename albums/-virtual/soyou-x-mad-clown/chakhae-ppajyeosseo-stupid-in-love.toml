@@ -1,0 +1,21 @@
+artist-id = "-virtual/soyou-x-mad-clown"
+kind = "single"
+
+names = [
+  { name = "착해 빠졌어 (Stupid In Love)", locale = "ko", original = true },
+  { name = "Chakhae Ppajyeosseo (Stupid In Love)", locale = "ko-Latn", default = true },
+  { name = "Stupid In Love", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "sistar/soyou", separator = " X " },
+  { artist-id = "mad-clown" },
+]
+
+[[releases]]
+released-on = "2013-09-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2200521" },
+]

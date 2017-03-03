@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/soyou-x-mad-clown/chakhae-ppajyeosseo-stupid-in-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/soyou-x-mad-clown/chakhae-ppajyeosseo-stupid-in-love"
+duration = "4:09"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/soyou-x-mad-clown/chakhae-ppajyeosseo-stupid-in-love-inst"
+duration = "4:09"
