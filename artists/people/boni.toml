@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1986-09-14"
+country = "KR"
+
+names = [
+  { name = "보니", locale = "ko", kind = "stage", original = true },
+  { name = "Boni", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "신보경", locale = "ko", kind = "real" },
+  { name = "Shin Bo Kyung", locale = "ko-Latn", kind = "real" },
+]
