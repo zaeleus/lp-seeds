@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1982-01-03"
+country = "KR"
+
+names = [
+  { name = "박지윤", locale = "ko", kind = "real", original = true },
+  { name = "Park Ji Yoon", locale = "ko-Latn", kind = "real", default = true },
+]

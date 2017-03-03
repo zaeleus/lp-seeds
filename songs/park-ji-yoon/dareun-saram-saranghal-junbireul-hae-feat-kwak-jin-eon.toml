@@ -1,0 +1,4 @@
+names = [
+  { name = "다른 사람 사랑할 준비를 해 (Feat. 곽진언)", locale = "ko", original = true },
+  { name = "Dareun Saram Saranghal Junbireul Hae (Feat. Kwak Jin Eon)", locale = "ko-Latn", default = true },
+]
