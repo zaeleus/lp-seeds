@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1980-09-05"
+country = "KR"
+
+names = [
+  { name = "정기고", locale = "ko", kind = "stage", original = true },
+  { name = "Junggigo", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "고정기", locale = "ko", kind = "real" },
+  { name = "Go Jung Gi", locale = "ko-Latn", kind = "real" },
+]

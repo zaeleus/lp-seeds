@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/soyou-x-junggigo/some/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/soyou-x-junggigo/some-feat-lil-boi-of-geeks"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/soyou-x-junggigo/blind-twilight-mix"
+duration = "3:30"

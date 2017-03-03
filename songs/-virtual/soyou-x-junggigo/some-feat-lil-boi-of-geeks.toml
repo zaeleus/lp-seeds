@@ -1,0 +1,9 @@
+names = [
+  { name = "썸 (Feat. 릴보이 of 긱스)", locale = "ko", original = true },
+  { name = "Some (Feat. Lil Boi of Geeks)", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "sistar/soyou", separator = " X " },
+  { artist-id = "junggigo" },
+]
