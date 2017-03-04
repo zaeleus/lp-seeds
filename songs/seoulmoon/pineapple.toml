@@ -1,0 +1,8 @@
+names = [
+  { name = "파인애플", locale = "ko", original = true },
+  { name = "Pineapple", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=49Xl5-Hni1s", name = "Official Audio" },
+]

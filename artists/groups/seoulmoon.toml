@@ -1,0 +1,8 @@
+kind = "group"
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "서울문", locale = "ko", original = true },
+  { name = "Seoulmoon", locale = "ko-Latn", default = true },
+]

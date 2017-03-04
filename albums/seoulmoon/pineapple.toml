@@ -1,0 +1,15 @@
+artist-id = "seoulmoon"
+kind = "single"
+
+names = [
+  { name = "파인애플", locale = "ko", original = true },
+  { name = "Pineapple", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-03-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10042274" },
+]
