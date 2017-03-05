@@ -1,0 +1,14 @@
+names = [
+  { name = "Y (Feat. BUMZU)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "lovelyz/kim-ji-yeon", separator = " & " },
+  { artist-id = "myundo" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=zpimFIfmNgM", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=w1cewvtvJMA", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=kzLNkaUsvgo", name = "Music Video" },
+]

@@ -1,0 +1,19 @@
+artist-id = "-virtual/kei-myundo"
+kind = "single"
+
+names = [
+  { name = "Y", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "lovelyz/kim-ji-yeon", separator = " & " },
+  { artist-id = "myundo" },
+]
+
+[[releases]]
+released-on = "2016-09-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2708507" },
+]
