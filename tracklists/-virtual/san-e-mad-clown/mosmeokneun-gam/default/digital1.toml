@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/san-e-mad-clown/mosmeokneun-gam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/san-e-mad-clown/mosmeokneun-gam-sour-grapes"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/san-e-mad-clown/oeroun-dongmul-feat-brother-su"
+duration = "3:48"

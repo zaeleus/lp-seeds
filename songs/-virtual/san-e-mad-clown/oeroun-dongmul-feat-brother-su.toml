@@ -1,0 +1,9 @@
+names = [
+  { name = "외로운 동물 (Feat. 브라더수) (Lonely Animals)", locale = "ko", original = true },
+  { name = "Oeroun Dongmul (Feat. Brother Su)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "san-e", separator = ", " },
+  { artist-id = "mad-clown" },
+]

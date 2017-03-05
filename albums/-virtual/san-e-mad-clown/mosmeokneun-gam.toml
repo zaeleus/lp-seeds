@@ -1,0 +1,21 @@
+artist-id = "-virtual/san-e-mad-clown"
+kind = "single"
+
+names = [
+  { name = "못먹는 감", locale = "ko", original = true },
+  { name = "Mosmeokneun Gam", locale = "ko-Latn", default = true },
+  { name = "Sour Grapes", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "san-e", separator = ", " },
+  { artist-id = "mad-clown" },
+]
+
+[[releases]]
+released-on = "2015-11-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2651133" },
+]

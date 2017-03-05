@@ -1,0 +1,15 @@
+names = [
+  { name = "못먹는 감 (Sour Grapes)", locale = "ko", original = true },
+  { name = "Mosmeokneun Gam (Sour Grapes)", locale = "ko-Latn", default = true },
+  { name = "Sour Grapes", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "san-e", separator = ", " },
+  { artist-id = "mad-clown" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=A9lv_OjQvQ4", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=Bou4Re1f3UQ", name = "Music Video" },
+]
