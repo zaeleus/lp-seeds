@@ -1,0 +1,13 @@
+medium-ids = [
+  "eden/urban-hymns/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eden/geu-ttael-sara-feat-kwon-jin-ah"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "eden/stand-up-feat-babylon"
+duration = "3:52"

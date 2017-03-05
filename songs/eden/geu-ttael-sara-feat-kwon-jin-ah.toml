@@ -1,0 +1,10 @@
+names = [
+  { name = "그 땔 살아 (Feat. 권진아)", locale = "ko", original = true },
+  { name = "Geu Ttael Sara (Feat. Kwon Jin Ah)", locale = "ko-Latn", default = true },
+  { name = "I'm Still (Feat. Kwon Jin Ah)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=3aQQgCIVwpk", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=rt46In--60s", name = "Music Video" },
+]

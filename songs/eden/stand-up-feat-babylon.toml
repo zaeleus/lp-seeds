@@ -1,0 +1,3 @@
+names = [
+  { name = "Stand Up (Feat. Babylon)", locale = "ko", original = true, default = true },
+]
