@@ -1,0 +1,5 @@
+names = [
+  { name = "나의 지구를 지켜줘 (Please Save My Earth)", locale = "ko", original = true },
+  { name = "Naui Jigureul Jikyeojwo (Please Save My Earth)", locale = "ko-Latn", default = true },
+  { name = "Please Save My Earth", locale = "en" },
+]

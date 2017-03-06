@@ -1,0 +1,5 @@
+names = [
+  { name = "비행운: 飛行雲 (Contrail)", locale = "ko", original = true },
+  { name = "Bihaengun (Contrail)", locale = "ko-Latn", default = true },
+  { name = "Contrail", locale = "en" },
+]

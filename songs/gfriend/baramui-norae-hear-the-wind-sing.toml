@@ -1,0 +1,5 @@
+names = [
+  { name = "바람의 노래 (Hear The Wind Sing)", locale = "ko", original = true },
+  { name = "Baramui Norae (Hear The Wind Sing)", locale = "ko-Latn", default = true },
+  { name = "Hear The Wind Sing", locale = "en" },
+]

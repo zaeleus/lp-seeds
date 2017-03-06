@@ -1,0 +1,5 @@
+names = [
+  { name = "핑 (Crush)", locale = "ko", original = true },
+  { name = "Ping (Crush)", locale = "ko-Latn", default = true },
+  { name = "Crush", locale = "en" },
+]
