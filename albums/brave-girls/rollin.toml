@@ -1,0 +1,14 @@
+artist-id = "brave-girls"
+kind = "ep"
+
+names = [
+  { name = "Rollin'", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-03-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10043575" },
+]

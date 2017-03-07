@@ -1,0 +1,10 @@
+names = [
+  { name = "롤린 (Rollin')", locale = "ko", original = true },
+  { name = "Rollin'", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=xhBNLCWQY6k", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=aK3K4kelCwg", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=TeaoaAz0VbY", name = "Music Video" },
+]

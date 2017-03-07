@@ -1,0 +1,4 @@
+names = [
+  { name = "하이힐 (Remix)", locale = "ko", original = true },
+  { name = "High Heels (Remix)", locale = "en", default = true },
+]
