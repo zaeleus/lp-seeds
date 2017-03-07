@@ -1,0 +1,31 @@
+artist-id = "-virtual/im-seul-ong-x-joy"
+kind = "single"
+
+names = [
+  { name = "이별을 배웠어 (Always In My Heart)", locale = "ko", original = true },
+  { name = "Ibyeoreul Baewosseo (Always In My Heart)", locale = "ko-Latn", default = true },
+  { name = "Always In My Heart", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "2am/lim-seul-ong"
+names = [
+  { name = "임슬옹", locale = "ko", original = true },
+  { name = "Im Seul Ong", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "red-velvet/joy"
+names = [
+  { name = "조이", locale = "ko", original = true },
+  { name = "JOY", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-11-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10012493" },
+]

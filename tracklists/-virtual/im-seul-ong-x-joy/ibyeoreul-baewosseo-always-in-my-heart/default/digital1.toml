@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/im-seul-ong-x-joy/ibyeoreul-baewosseo-always-in-my-heart/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/im-seul-ong-x-joy/ibyeoreul-baewosseo-always-in-my-heart"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/im-seul-ong-x-joy/ibyeoreul-baewosseo-always-in-my-heart-inst"
+duration = "3:23"

@@ -1,0 +1,24 @@
+names = [
+  { name = "이별을 배웠어 (Always In My Heart)", locale = "ko", original = true },
+  { name = "Ibyeoreul Baewosseo (Always In My Heart)", locale = "ko-Latn", default = true },
+  { name = "Always In My Heart", locale = "ko-Latn" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=0VHX2ovsx6E", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "2am/lim-seul-ong"
+names = [
+  { name = "임슬옹", locale = "ko", original = true },
+  { name = "Im Seul Ong", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "red-velvet/joy"
+names = [
+  { name = "조이", locale = "ko", original = true },
+  { name = "JOY", locale = "ko-Latn", default = true },
+]
