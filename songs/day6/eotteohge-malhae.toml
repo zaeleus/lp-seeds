@@ -1,0 +1,10 @@
+names = [
+  { name = "어떻게 말해", locale = "ko", original = true },
+  { name = "Eotteohge Malhae", locale = "ko-Latn", default = true },
+  { name = "How Can I Say", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=wXmtxnJrL6g", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=dwywhL1PenQ", name = "Music Video" },
+]

@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2015"
+country = "KR"
+
+names = [
+  { name = "데이식스", locale = "ko", original = true },
+  { name = "DAY6", locale = "ko-Latn", default = true },
+]
