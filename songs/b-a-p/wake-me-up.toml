@@ -1,0 +1,10 @@
+names = [
+  { name = "WAKE ME UP", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=a_3jzRd3lJQ", name = "Trailer Ver. 1" },
+  { url = "https://www.youtube.com/watch?v=2Qjy4kY1aK4", name = "Trailer Ver. 2" },
+  { url = "https://www.youtube.com/watch?v=JizSHp6p3uk", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=_wXJZzUC_7E", name = "Making Film" },
+]

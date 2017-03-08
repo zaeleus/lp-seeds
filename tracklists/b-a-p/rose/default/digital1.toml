@@ -1,0 +1,18 @@
+medium-ids = [
+  "b-a-p/rose/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "b-a-p/dystopia"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "b-a-p/wake-me-up"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "b-a-p/diamond-4-ya"
+duration = "3:30"

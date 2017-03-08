@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2012"
+country = "KR"
+
+names = [
+  { name = "비에이피", locale = "ko", original = true },
+  { name = "B.A.P", locale = "ko-Latn", default = true },
+]
