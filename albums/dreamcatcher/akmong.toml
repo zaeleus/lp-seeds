@@ -6,6 +6,10 @@ names = [
   { name = "Akmong", locale = "ko-Latn", default = true },
 ]
 
+urls = [
+  { url = "https://www.youtube.com/watch?v=tkkab8UwXfo", name = "Jacket Making Film" },
+]
+
 [[releases]]
 released-on = "2017-01-13"
 country = "KR"

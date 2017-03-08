@@ -1,3 +1,12 @@
 names = [
   { name = "Chase Me", locale = "ko", original = true, default = true },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=dRpTZm0BVZA", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=0ytHdzBZ-Ic", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=zihoyz0u_cs", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=uIzbI0zv5F4", name = "Making Film" },
+  { url = "https://www.youtube.com/watch?v=jRW29bBK_oM", name = "Dance Video" },
+  { url = "https://www.youtube.com/watch?v=ik93LU-xpWc", name = "Dance Practice Video" },
+]
