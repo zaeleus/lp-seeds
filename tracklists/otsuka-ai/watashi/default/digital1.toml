@@ -1,0 +1,18 @@
+medium-ids = [
+  "otsuka-ai/watashi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "otsuka-ai/watashi"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "otsuka-ai/sakura-harahara"
+duration = "4:27"
+
+[[tracks]]
+position = 3
+song-id = "otsuka-ai/joshi-shelter"
+duration = "4:12"

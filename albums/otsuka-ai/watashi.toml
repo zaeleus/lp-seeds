@@ -1,0 +1,17 @@
+artist-id = "otsuka-ai"
+kind = "single"
+
+names = [
+  { name = "私", locale = "ja", original = true },
+  { name = "Watashi", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-02-15"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1198865474" },
+  { url = "http://mora.jp/package/43000002/AVCD-83773/" },
+  { url = "http://mora.jp/package/43000002/ANTCD-21384_F/" },
+]

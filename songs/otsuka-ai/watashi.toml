@@ -1,0 +1,8 @@
+names = [
+  { name = "私", locale = "ja", original = true },
+  { name = "Watashi", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=2TfvT0lzgFA", name = "Music Video" },
+]
