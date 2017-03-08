@@ -1,0 +1,4 @@
+names = [
+  { name = "逝きそうなヒーローと糠に釘男", locale = "ja", original = true },
+  { name = "Yukisou na Hero to Nuka ni Kugio", locale = "ja-Latn", default = true },
+]

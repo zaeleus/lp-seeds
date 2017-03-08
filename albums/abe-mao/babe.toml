@@ -1,0 +1,16 @@
+artist-id = "abe-mao"
+kind = "lp"
+
+names = [
+  { name = "Babe.", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-02-15"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1197159704" },
+  { url = "http://mora.jp/package/43000004/PCSP-02197/" },
+  { url = "http://mora.jp/package/43000004/PCSP-02197_F/" },
+]

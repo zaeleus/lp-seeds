@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1990-06-24"
+country = "JP"
+
+names = [
+  { name = "阿部真央", locale = "ja", kind = "real", original = true },
+  { name = "Abe Mao", locale = "ja-Latn", kind = "real", default = true },
+]
