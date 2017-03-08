@@ -1,0 +1,7 @@
+kind = "group"
+started-on = "1998"
+country = "JP"
+
+names = [
+  { name = "8-BALL", locale = "ja", original = true, default = true },
+]

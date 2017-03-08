@@ -1,0 +1,8 @@
+names = [
+  { name = "SPEED MASTER", locale = "ja", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "m-o-v-e", separator = " feat. " },
+  { artist-id = "8-ball" },
+]

@@ -1,0 +1,3 @@
+names = [
+  { name = "Lookin' On The Sunny Side", locale = "ja", original = true, default = true },
+]

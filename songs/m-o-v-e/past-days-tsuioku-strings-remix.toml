@@ -1,0 +1,4 @@
+names = [
+  { name = "past days～追憶 -Strings Remix-", locale = "ja", original = true },
+  { name = "past days ~ Tsuioku -Strings Remix-", locale = "ja-Latn", default = true },
+]

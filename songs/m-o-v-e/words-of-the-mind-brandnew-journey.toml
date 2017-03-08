@@ -1,0 +1,4 @@
+names = [
+  { name = "words of the mind ～brandnew journey～", locale = "ja", original = true },
+  { name = "words of the mind ~brandnew journey~", locale = "en", default = true },
+]

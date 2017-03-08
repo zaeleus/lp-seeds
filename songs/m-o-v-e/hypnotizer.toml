@@ -1,0 +1,3 @@
+names = [
+  { name = "HYPNOTIZER", locale = "ja", original = true, default = true },
+]

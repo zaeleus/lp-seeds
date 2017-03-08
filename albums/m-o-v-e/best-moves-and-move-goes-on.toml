@@ -1,0 +1,53 @@
+artist-id = "m-o-v-e"
+kind = "lp"
+
+names = [
+  { name = "Best moves. ～and move goes on～", locale = "ja", original = true },
+  { name = "Best moves. ~and move goes on~", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2013-02-27"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id602660907" },
+  { url = "http://mora.jp/package/43000002/AVCT-10186/" },
+]
+
+[[releases]]
+released-on = "2013-02-27"
+country = "JP"
+catalog-number = "AVCT-10186~8/B"
+disambiguation = "CD3 Set+DVD"
+urls = [
+  { url = "http://electropica.com/music/index.html" },
+  { url = "http://www.oricon.co.jp/prof/27646/products/994485/1/" },
+]
+[[releases.media]]
+kind = "cd"
+name = "EXTREME"
+[[releases.media]]
+kind = "cd"
+name = "LUXURY"
+[[releases.media]]
+kind = "cd"
+name = "INITIAL-D HYPER REMIX"
+[[releases.media]]
+kind = "dvd"
+
+[[releases]]
+released-on = "2013-02-27"
+country = "JP"
+catalog-number = "AVCT-10189~90"
+disambiguation = "CD2 Set"
+urls = [
+  { url = "http://electropica.com/music/index.html" },
+  { url = "http://www.oricon.co.jp/prof/27646/products/994484/1/" },
+]
+[[releases.media]]
+kind = "cd"
+name = "EXTREME"
+[[releases.media]]
+kind = "cd"
+name = "LUXURY"

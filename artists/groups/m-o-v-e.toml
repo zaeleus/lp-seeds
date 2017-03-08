@@ -1,0 +1,7 @@
+kind = "group"
+#started-on = ""
+country = "JP"
+
+names = [
+  { name = "m.o.v.e", locale = "ja", original = true, default = true },
+]
