@@ -1,0 +1,16 @@
+artist-id = "silent-siren"
+kind = "ep"
+
+names = [
+  { name = "フジヤマディスコ", locale = "ja", original = true },
+  { name = "Fujiyama Disco", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-03-01"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1209649127" },
+  { url = "http://mora.jp/package/43000006/00602557443745/" },
+]

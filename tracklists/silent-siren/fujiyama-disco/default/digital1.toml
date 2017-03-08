@@ -1,0 +1,23 @@
+medium-ids = [
+  "silent-siren/fujiyama-disco/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "silent-siren/fujiyama-disco"
+duration = "4:39"
+
+[[tracks]]
+position = 2
+song-id = "silent-siren/love-balloon"
+duration = "4:10"
+
+[[tracks]]
+position = 3
+song-id = "silent-siren/pandora"
+duration = "4:27"
+
+[[tracks]]
+position = 4
+song-id = "silent-siren/days"
+duration = "4:39"
