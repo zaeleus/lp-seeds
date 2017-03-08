@@ -1,0 +1,17 @@
+artist-id = "nakashima-mika"
+kind = "single"
+
+names = [
+  { name = "恋をする", locale = "ja", original = true },
+  { name = "Koi wo Suru", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-02-22"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1200374414" },
+  { url = "http://mora.jp/package/43000001/4547366299960/" },
+  { url = "http://mora.jp/package/43000001/4547366298468/" },
+]

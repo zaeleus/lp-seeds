@@ -1,0 +1,18 @@
+medium-ids = [
+  "nakashima-mika/koi-wo-suru/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nakashima-mika/koi-wo-suru"
+duration = "4:25"
+
+[[tracks]]
+position = 2
+song-id = "nakashima-mika/foolish"
+duration = "4:17"
+
+[[tracks]]
+position = 3
+song-id = "nakashima-mika/koi-wo-suru-instrumental"
+duration = "4:24"
