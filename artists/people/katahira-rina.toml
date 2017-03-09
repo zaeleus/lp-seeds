@@ -1,0 +1,8 @@
+kind = "person"
+#started-on = ""
+country = "JP"
+
+names = [
+  { name = "片平里菜", locale = "ja", kind = "real", original = true },
+  { name = "Katahira Rina", locale = "ja-Latn", kind = "real", default = true },
+]

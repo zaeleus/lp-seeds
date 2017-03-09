@@ -1,0 +1,16 @@
+artist-id = "katahira-rina"
+kind = "ep"
+
+names = [
+  { name = "なまえ", locale = "ja", original = true },
+  { name = "Namae", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-03-01"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1204764112" },
+  { url = "http://mora.jp/package/43000004/PCCA-04501/" },
+]

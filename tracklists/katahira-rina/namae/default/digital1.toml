@@ -1,0 +1,23 @@
+medium-ids = [
+  "katahira-rina/namae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "katahira-rina/namae"
+duration = "5:25"
+
+[[tracks]]
+position = 2
+song-id = "katahira-rina/love-song"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "katahira-rina/tori"
+duration = "4:11"
+
+[[tracks]]
+position = 4
+song-id = "katahira-rina/love-takes-time-2016-06-19-nagoya-diamond-hall"
+duration = "7:15"
