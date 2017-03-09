@@ -1,0 +1,4 @@
+names = [
+  { name = "僕らだけの等身大", locale = "ja", original = true },
+  { name = "Bokura Dake no Toushindai", locale = "ja-Latn", default = true },
+]

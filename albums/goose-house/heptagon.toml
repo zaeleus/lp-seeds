@@ -1,0 +1,16 @@
+artist-id = "goose-house"
+kind = "lp"
+
+names = [
+  { name = "HEPTAGON", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-02-22"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1203105187" },
+  { url = "http://mora.jp/package/43000001/4547366299953/" },
+  { url = "http://mora.jp/package/43000001/4547366300062/" },
+]

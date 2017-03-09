@@ -1,0 +1,8 @@
+kind = "group"
+#started-on = ""
+country = "JP"
+
+names = [
+  { name = "グースハウス", locale = "ja", original = true },
+  { name = "Goose house", locale = "ja-Latn", default = true },
+]
