@@ -1,0 +1,8 @@
+kind = "person"
+#started-on = ""
+country = "JP"
+
+names = [
+  { name = "加治ひとみ", locale = "ja", kind = "real", original = true },
+  { name = "Kaji Hitomi", locale = "ja-Latn", kind = "real", default = true },
+]

@@ -1,0 +1,16 @@
+artist-id = "kaji-hitomi"
+kind = "lp"
+
+names = [
+  { name = "NAKED", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-03-01"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/naked/id1206234039?l=en" },
+  { url = "http://mora.jp/package/43000002/AVCD-93631/" },
+  { url = "http://mora.jp/package/43000002/ANTCD-21589_F/" },
+]
