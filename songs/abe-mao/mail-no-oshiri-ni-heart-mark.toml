@@ -1,0 +1,4 @@
+names = [
+  { name = "メールのお尻にハートマーク", locale = "ja", original = true },
+  { name = "Mail no Oshiri ni Heart Mark", locale = "ja-Latn", default = true },
+]

@@ -1,0 +1,16 @@
+artist-id = "abe-mao"
+kind = "lp"
+
+names = [
+  { name = "おっぱじめ!", locale = "ja", original = true },
+  { name = "Oppajime!", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2015-02-18"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id964390687" },
+  { url = "http://mora.jp/package/43000004/PCSP-01835/" },
+]

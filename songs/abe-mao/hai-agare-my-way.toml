@@ -1,0 +1,4 @@
+names = [
+  { name = "這い上がれMY WAY", locale = "ja", original = true },
+  { name = "Hai Agare MY WAY", locale = "ja-Latn", default = true },
+]
