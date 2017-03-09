@@ -1,0 +1,98 @@
+medium-ids = [
+  "little-glee-monster/joyful-monster/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "little-glee-monster/hajimari-no-uta"
+duration = "4:55"
+
+[[tracks]]
+position = 2
+song-id = "little-glee-monster/my-best-friend"
+duration = "5:08"
+
+[[tracks]]
+position = 3
+song-id = "little-glee-monster/shunkashuutou"
+duration = "4:10"
+
+[[tracks]]
+position = 4
+song-id = "little-glee-monster/watashi-rashiku-ikite-mitai"
+duration = "5:05"
+
+[[tracks]]
+position = 5
+song-id = "little-glee-monster/hop-step-jump"
+duration = "4:11"
+
+[[tracks]]
+position = 6
+song-id = "little-glee-monster/catch-me-if-you-can"
+duration = "3:20"
+
+[[tracks]]
+position = 7
+song-id = "little-glee-monster/kimi-no-you-ni-naritai-album-ver"
+duration = "2:50"
+
+[[tracks]]
+position = 8
+song-id = "little-glee-monster/don-t-worry-be-happy"
+duration = "3:59"
+
+[[tracks]]
+position = 9
+song-id = "little-glee-monster/happy-gate"
+duration = "3:26"
+
+[[tracks]]
+position = 10
+song-id = "little-glee-monster/seishun-photograph-ballad-ver"
+duration = "4:33"
+
+[[tracks]]
+position = 11
+song-id = "little-glee-monster/orange"
+duration = "4:01"
+
+[[tracks]]
+position = 12
+song-id = "little-glee-monster/ai-ni-yuku"
+duration = "5:41"
+
+[[tracks]]
+position = 13
+song-id = "little-glee-monster/suki-da-studio-live-ver"
+duration = "5:08"
+
+[[tracks]]
+position = 14
+song-id = "little-glee-monster/joy"
+duration = "4:29"
+
+[[tracks]]
+position = 15
+song-id = "little-glee-monster/one-more-time-one-more-chance"
+duration = "5:26"
+
+[[tracks]]
+position = 16
+song-id = "little-glee-monster/nando-demo"
+duration = "3:52"
+
+[[tracks]]
+position = 17
+song-id = "little-glee-monster/tashika-na-koto"
+duration = "4:49"
+
+[[tracks]]
+position = 18
+song-id = "little-glee-monster/can-t-take-my-eyes-off-of-you"
+duration = "3:55"
+
+[[tracks]]
+position = 19
+song-id = "little-glee-monster/seasons-of-love-live-on-2016-09-11"
+duration = "2:41"

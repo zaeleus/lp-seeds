@@ -1,0 +1,7 @@
+kind = "group"
+started-on = "2013"
+country = "JP"
+
+names = [
+  { name = "Little Glee Monster", locale = "ja", original = true, default = true },
+]

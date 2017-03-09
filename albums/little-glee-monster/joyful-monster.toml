@@ -1,0 +1,16 @@
+artist-id = "little-glee-monster"
+kind = "lp"
+
+names = [
+  { name = "Joyful Monster", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-01-06"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1185755278" },
+  { url = "http://mora.jp/package/43000001/4547366293388/" },
+  { url = "http://mora.jp/package/43000001/4547366292947/" },
+]
