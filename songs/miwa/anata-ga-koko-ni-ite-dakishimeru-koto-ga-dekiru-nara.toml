@@ -1,0 +1,4 @@
+names = [
+  { name = "あなたがここにいて抱きしめることができるなら", locale = "ja", original = true },
+  { name = "Anata ga Koko ni Ite Dakishimeru Koto ga Dekiru Nara", locale = "ja-Latn", default = true },
+]

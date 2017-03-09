@@ -1,0 +1,4 @@
+names = [
+  { name = "変わらぬ想い with Scott & Rivers", locale = "ja", original = true },
+  { name = "Kawaranu Omoi with Scott & Rivers", locale = "ja-Latn", default = true },
+]
