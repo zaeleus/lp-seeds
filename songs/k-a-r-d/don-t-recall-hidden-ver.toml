@@ -1,0 +1,7 @@
+names = [
+  { name = "Don't Recall (Hidden Ver.)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=QWWLZOQKo78", name = "Music Video" },
+]
