@@ -1,0 +1,16 @@
+artist-id = "koda-kumi"
+kind = "lp"
+
+names = [
+  { name = "W FACE ～ outside ～", locale = "ja", original = true },
+  { name = "W FACE ~outside~", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-03-08"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1205422217" },
+  { url = "http://mora.jp/package/43000002/ANTCD-21644_F/" },
+]

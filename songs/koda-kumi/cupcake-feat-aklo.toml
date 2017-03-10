@@ -1,0 +1,3 @@
+names = [
+  { name = "Cupcake feat. AKLO", locale = "ja", original = true, default = true },
+]

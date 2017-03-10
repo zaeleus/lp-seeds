@@ -1,0 +1,53 @@
+medium-ids = [
+  "koda-kumi/w-face-outside/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "koda-kumi/w-face"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "koda-kumi/ultraviolet"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "koda-kumi/insane"
+duration = "3:10"
+
+[[tracks]]
+position = 4
+song-id = "koda-kumi/damn-real"
+duration = "4:16"
+
+[[tracks]]
+position = 5
+song-id = "koda-kumi/heartless"
+duration = "3:34"
+
+[[tracks]]
+position = 6
+song-id = "koda-kumi/bassline"
+duration = "3:17"
+
+[[tracks]]
+position = 7
+song-id = "koda-kumi/shhh"
+duration = "3:17"
+
+[[tracks]]
+position = 8
+song-id = "koda-kumi/bangerang"
+duration = "3:23"
+
+[[tracks]]
+position = 9
+song-id = "koda-kumi/wicked-girls"
+duration = "2:41"
+
+[[tracks]]
+position = 10
+song-id = "koda-kumi/cupcake-feat-aklo"
+duration = "2:12"
