@@ -1,0 +1,10 @@
+names = [
+  { name = "BRAND NEW MORNING (Instrumental)", locale = "ja", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]

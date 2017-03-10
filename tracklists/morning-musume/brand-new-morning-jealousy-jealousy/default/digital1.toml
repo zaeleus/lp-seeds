@@ -1,0 +1,23 @@
+medium-ids = [
+  "morning-musume/brand-new-morning-jealousy-jealousy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "morning-musume/brand-new-morning"
+duration = "4:22"
+
+[[tracks]]
+position = 2
+song-id = "morning-musume/jealousy-jealousy"
+duration = "4:38"
+
+[[tracks]]
+position = 3
+song-id = "morning-musume/brand-new-morning-instrumental"
+duration = "4:22"
+
+[[tracks]]
+position = 4
+song-id = "morning-musume/jealousy-jealousy-instrumental"
+duration = "4:34"

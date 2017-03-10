@@ -1,0 +1,15 @@
+names = [
+  { name = "ジェラシー ジェラシー", locale = "ja", original = true },
+  { name = "Jealousy Jealousy", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=XdV88f-OxCA", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]

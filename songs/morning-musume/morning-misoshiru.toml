@@ -1,0 +1,17 @@
+names = [
+  { name = "モーニングみそ汁", locale = "ja", original = true },
+  { name = "Morning Misoshiru", locale = "ja-Latn", default = true },
+  { name = "Morning Miso Soup", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=51FbTQ1DUWM", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=suLNZ1i6CnY", name = "Music Video (Campfire Ver.)" },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]

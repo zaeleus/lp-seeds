@@ -1,0 +1,33 @@
+artist-id = "morning-musume"
+kind = "single"
+
+names = [
+  { name = "BRAND NEW MORNING／ジェラシー ジェラシー", locale = "ja", original = true },
+  { name = "BRAND NEW MORNING / Jealousy Jealousy", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-03-08"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000030/EPCE-7312/" },
+]
+
+[[releases]]
+released-on = "2017-03-08"
+country = "JP"
+catalog-number = "EPCE-7310"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition SP"
+urls = [
+  { url = "http://www.up-front-works.jp/release/detail/EPCE-7306/" },
+  { url = "http://www.oricon.co.jp/prof/169712/products/1217513/1/" },
+]

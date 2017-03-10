@@ -1,0 +1,31 @@
+names = [
+  { name = "Get you！", locale = "ja", original = true },
+  { name = "Get You!", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "hkt48/sashihara-rino"
+names = [
+  { name = "サシ", locale = "ja", original = true },
+  { name = "Sashi", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "ニング娘。", locale = "ja", original = true },
+  { name = "ning Musume", locale = "ja-Latn", default = true },
+]
+separator = " ("
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]
+separator = " & "
+
+[[artist-credits]]
+artist-id = "hkt48/sashihara-rino"
+separator = ")"
