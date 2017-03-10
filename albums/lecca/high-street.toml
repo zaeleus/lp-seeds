@@ -1,0 +1,16 @@
+artist-id = "lecca"
+kind = "lp"
+
+names = [
+  { name = "High Street", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-03-01"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1203238031" },
+  { url = "http://mora.jp/package/43000002/CTCR-14918/" },
+  { url = "http://mora.jp/package/43000002/ANTCD-21570_F/" },
+]
