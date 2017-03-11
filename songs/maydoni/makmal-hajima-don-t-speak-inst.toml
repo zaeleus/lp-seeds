@@ -1,0 +1,5 @@
+names = [
+  { name = "막말하지마 (Don't Speak) (Inst.)", locale = "ko", original = true },
+  { name = "Makmal Hajima (Don't Speak) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Don't Speak (Inst.)", locale = "en" },
+]

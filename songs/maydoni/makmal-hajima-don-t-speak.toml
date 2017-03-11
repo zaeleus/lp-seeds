@@ -1,0 +1,10 @@
+names = [
+  { name = "막말하지마 (Don't Speak)", locale = "ko", original = true },
+  { name = "Makmal Hajima (Don't Speak)", locale = "ko-Latn", default = true },
+  { name = "Don't Speak", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=HtuV0OQWC1Q", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=nrB2PHlv5xk", name = "Music Video" },
+]

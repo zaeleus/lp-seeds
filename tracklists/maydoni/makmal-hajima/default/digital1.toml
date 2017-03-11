@@ -1,0 +1,13 @@
+medium-ids = [
+  "maydoni/makmal-hajima/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "maydoni/makmal-hajima-don-t-speak"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "maydoni/makmal-hajima-don-t-speak-inst"
+duration = "3:27"

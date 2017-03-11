@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1991-07-24"
+country = "KR"
+
+names = [
+  { name = "메이다니", locale = "ko", kind = "stage", original = true },
+  { name = "MAYDONI", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김메이다니", locale = "ko", kind = "real" },
+  { name = "Kim May Doni", locale = "ko-Latn", kind = "real" },
+]
