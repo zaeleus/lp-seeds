@@ -1,0 +1,8 @@
+names = [
+  { name = "나야 나 (PICK ME)", locale = "ko", original = true },
+  { name = "Naya Na (PICK ME)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=NIld_iEc67s", name = "Performance" },
+]

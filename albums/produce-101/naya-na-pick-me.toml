@@ -1,0 +1,15 @@
+artist-id = "produce-101"
+kind = "single"
+
+names = [
+  { name = "나야 나 (PICK ME)", locale = "ko", original = true },
+  { name = "Naya Na (PICK ME)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-03-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10044713" },
+]
