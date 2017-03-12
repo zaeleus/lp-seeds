@@ -1,0 +1,15 @@
+names = [
+  { name = "유후 (You, Who?) (Inst.)", locale = "ko", original = true },
+  { name = "You, Who? (Inst.)", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "eric-nam"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "i-o-i/jeon-so-mi"
+names = [
+  { name = "소미", locale = "ko", original = true },
+  { name = "Somi", locale = "ko-Latn", default = true },
+]

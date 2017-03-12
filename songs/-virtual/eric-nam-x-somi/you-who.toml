@@ -1,0 +1,20 @@
+names = [
+  { name = "유후 (You, Who?)", locale = "ko", original = true },
+  { name = "You, Who?", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Ylj4SR0q8yE", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=OaG575r_Dyo", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "eric-nam"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "i-o-i/jeon-so-mi"
+names = [
+  { name = "소미", locale = "ko", original = true },
+  { name = "Somi", locale = "ko-Latn", default = true },
+]

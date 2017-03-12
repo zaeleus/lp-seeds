@@ -1,0 +1,26 @@
+artist-id = "-virtual/eric-nam-x-somi"
+kind = "single"
+
+names = [
+  { name = "유후 (You, Who?)", locale = "ko", original = true },
+  { name = "You, Who?", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "eric-nam"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "i-o-i/jeon-so-mi"
+names = [
+  { name = "소미", locale = "ko", original = true },
+  { name = "Somi", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-03-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10044648" },
+]

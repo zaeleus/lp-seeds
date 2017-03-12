@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/eric-nam-x-somi/you-who/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/eric-nam-x-somi/you-who"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/eric-nam-x-somi/you-who-inst"
+duration = "3:39"
