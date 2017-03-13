@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2014"
+country = "KR"
+
+names = [
+  { name = "로코베리", locale = "ko", original = true },
+  { name = "Rocoberry", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,15 @@
+artist-id = "rocoberry"
+kind = "single"
+
+names = [
+  { name = "꿈속을 지나", locale = "ko", original = true },
+  { name = "Kkumsogeul Jina", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-02-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10035789" },
+]

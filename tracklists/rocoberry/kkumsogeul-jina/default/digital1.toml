@@ -1,0 +1,8 @@
+medium-ids = [
+  "rocoberry/kkumsogeul-jina/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rocoberry/kkumsogeul-jina"
+duration = "2:50"
