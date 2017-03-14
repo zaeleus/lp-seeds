@@ -1,0 +1,18 @@
+artist-id = "loona-1-3"
+kind = "ep"
+
+names = [
+  { name = "Love & Live", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=eYXMWvvl9Ik", name = "Mini Album Preview" },
+]
+
+[[releases]]
+released-on = "2017-03-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10045343" },
+]

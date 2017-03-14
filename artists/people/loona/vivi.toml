@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1996-12-09"
+country = "KR"
+
+names = [
+  { name = "비비", locale = "ko", kind = "stage", original = true },
+  { name = "ViVi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "황가희", locale = "ko", kind = "real" },
+  { name = "Hwang Ka Hi", locale = "ko-Latn", kind = "real" },
+  { name = "黃珈熙", locale = "zh", kind = "real" },
+  { name = "Wong Viian", locale = "zh-Latn", kind = "real" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "3월을 기다려 (Valentine Girl)", locale = "ko", original = true },
+  { name = "3 Woreul Gidaryeo (Valentine Girl)", locale = "ko-Latn", default = true },
+  { name = "Valentine Girl", locale = "en" },
+]

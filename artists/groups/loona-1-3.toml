@@ -1,19 +1,18 @@
 kind = "group"
-started-on = "2016"
+started-on = "2017"
 country = "KR"
 
 names = [
-  { name = "이달의 소녀", locale = "ko", original = true },
-  { name = "Idarui Sonyeo", locale = "ko-Latn" },
-  { name = "LOOΠΔ", locale = "en", default = true },
-  { name = "LOONA", locale = "en" },
+  { name = "이달의 소녀 1/3", locale = "ko", original = true },
+  { name = "Idarui Sonyeo 1/3", locale = "ko-Latn" },
+  { name = "LOOΠΔ 1/3", locale = "en", default = true },
+  { name = "LOONA 1/3", locale = "en" },
 ]
 
 members = [
   { artist-id = "loona/heejin" },
   { artist-id = "loona/hyunjin" },
   { artist-id = "loona/haseul" },
-  { artist-id = "loona/yeojin" },
   { artist-id = "loona/vivi" },
 ]
 

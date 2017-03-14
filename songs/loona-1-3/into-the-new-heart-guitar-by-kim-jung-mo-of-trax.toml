@@ -1,0 +1,4 @@
+names = [
+  { name = "Into the New Heart (Guitar by 김정모 of TRAX)", locale = "ko", original = true },
+  { name = "Into the New Heart (Guitar by Kim Jung Mo of TRAX)", locale = "ko-Latn", default = true },
+]

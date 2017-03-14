@@ -1,0 +1,13 @@
+names = [
+  { name = "지금, 좋아해 (Love & Live)", locale = "ko", original = true },
+  { name = "Jigeum, Johahae (Love & Live)", locale = "ko-Latn", default = true },
+  { name = "Love & Live", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=2eSrd_2mZNw", name = "Teaser (TV CM Ver.)" },
+  { url = "https://www.youtube.com/watch?v=E6sD8KYuWu4", name = "New Zealand Teaser" },
+  { url = "https://www.youtube.com/watch?v=o_A0riMFfUg", name = "Hong Kong Teaser" },
+  { url = "https://www.youtube.com/watch?v=CYpHDuoNyeQ", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=4K4b9Z9lSwc", name = "Music Video" },
+]
