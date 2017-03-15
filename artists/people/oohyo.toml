@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1993-03-20"
+country = "KR"
+
+names = [
+  { name = "우효", locale = "ko", kind = "real", original = true },
+  { name = "OOHYO", locale = "ko-Latn", kind = "real", default = true },
+]

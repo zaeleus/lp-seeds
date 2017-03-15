@@ -1,0 +1,18 @@
+medium-ids = [
+  "oohyo/pizza/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oohyo/pizza"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "oohyo/vamos"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "oohyo/pizza-kai-takahashi-remix"
+duration = "4:20"

@@ -1,0 +1,3 @@
+names = [
+  { name = "PIZZA (Kai Takahashi Remix)", locale = "ko", original = true, default = true },
+]
