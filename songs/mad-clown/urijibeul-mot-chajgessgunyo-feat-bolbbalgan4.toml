@@ -1,6 +1,7 @@
 names = [
   { name = "우리집을 못 찾겠군요 (Feat. 볼빨간사춘기)", locale = "ko", original = true },
   { name = "Urijibeul Mot Chajgessgunyo (Feat. Bolbbalgan4)", locale = "ko-Latn", default = true },
+  { name = "Lost Without You (Feat. Bolbbalgan4)", locale = "en" },
 ]
 
 urls = [

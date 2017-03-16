@@ -1,0 +1,14 @@
+names = [
+  { name = "사랑은 지옥에서 온 개 (Feat. 수란)", locale = "ko", original = true },
+  { name = "Sarangeun Jiogeseo On Gae (Feat. Suran)", locale = "ko-Latn", default = true },
+  { name = "Love is a Dog from Hell (Feat. Suran)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=HhsovR0Tcqo", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=rI8U0uvwGOY", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "suran", kind = "performer" },
+]

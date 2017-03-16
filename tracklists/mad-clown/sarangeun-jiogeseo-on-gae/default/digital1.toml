@@ -1,0 +1,28 @@
+medium-ids = [
+  "mad-clown/sarangeun-jiogeseo-on-gae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mad-clown/geojismal-feat-lee-hae-ri-of-davichi"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "mad-clown/sarangeun-jiogeseo-on-gae-feat-suran"
+duration = "3:35"
+
+[[tracks]]
+position = 3
+song-id = "mad-clown/urijibeul-mot-chajgessgunyo-feat-bolbbalgan4"
+duration = "3:35"
+
+[[tracks]]
+position = 4
+song-id = "mad-clown/roses-feat-acacy"
+duration = "3:14"
+
+[[tracks]]
+position = 5
+song-id = "mad-clown/nappeun-pi-common-cold-remix"
+duration = "4:06"
