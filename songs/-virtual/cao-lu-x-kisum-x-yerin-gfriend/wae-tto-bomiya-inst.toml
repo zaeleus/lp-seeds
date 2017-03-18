@@ -1,0 +1,20 @@
+names = [
+  { name = "왜 또 봄이야 (Inst.)", locale = "ko", original = true },
+  { name = "Wae Tto Bomiya (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Spring Again (Inst.)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "fiestar/cao-lu"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "kisum"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "gfriend/yerin"
+names = [
+  { name = "예린 (여자친구)", locale = "ko", original = true },
+  { name = "Yerin (GFRIEND)", locale = "ko-Latn", default = true },
+]

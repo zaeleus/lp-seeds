@@ -1,0 +1,25 @@
+names = [
+  { name = "왜 또 봄이야", locale = "ko", original = true },
+  { name = "Wae Tto Bomiya", locale = "ko-Latn", default = true },
+  { name = "Spring Again", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=V1qaBysgme8", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=yI_2v_yCAcU", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "fiestar/cao-lu"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "kisum"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "gfriend/yerin"
+names = [
+  { name = "예린 (여자친구)", locale = "ko", original = true },
+  { name = "Yerin (GFRIEND)", locale = "ko-Latn", default = true },
+]

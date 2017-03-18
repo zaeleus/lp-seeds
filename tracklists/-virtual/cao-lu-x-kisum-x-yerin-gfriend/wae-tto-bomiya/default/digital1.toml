@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/cao-lu-x-kisum-x-yerin-gfriend/wae-tto-bomiya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/cao-lu-x-kisum-x-yerin-gfriend/wae-tto-bomiya"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/cao-lu-x-kisum-x-yerin-gfriend/wae-tto-bomiya-inst"
+duration = "3:57"
