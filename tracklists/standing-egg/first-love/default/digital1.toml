@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/first-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/ne-saenggak-nadeora"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/first-love"
+duration = "4:24"

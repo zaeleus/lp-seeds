@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2010"
+country = "KR"
+
+names = [
+  { name = "스탠딩 에그", locale = "ko", original = true },
+  { name = "STANDING EGG", locale = "en", default = true },
+]
