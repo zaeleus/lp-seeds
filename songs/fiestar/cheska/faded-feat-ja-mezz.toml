@@ -1,0 +1,7 @@
+names = [
+  { name = "Faded (Feat. Ja Mezz)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=kFJzkJm6mIc", name = "Music Video" },
+]
