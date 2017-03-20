@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1988-05-27"
+country = "KR"
+
+names = [
+  { name = "제이민", locale = "ko", kind = "stage", original = true },
+  { name = "J-Min", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "오지민", locale = "ko", kind = "real" },
+  { name = "Oh Ji Min", locale = "ko-Latn", kind = "real" },
+]

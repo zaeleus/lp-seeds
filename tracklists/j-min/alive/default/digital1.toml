@@ -1,0 +1,13 @@
+medium-ids = [
+  "j-min/alive/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "j-min/alive"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "j-min/alive-inst"
+duration = "3:41"
