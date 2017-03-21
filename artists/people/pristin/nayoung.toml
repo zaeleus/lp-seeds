@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1995-12-18"
+country = "KR"
+
+names = [
+  { name = "나영", locale = "ko", kind = "stage", original = true },
+  { name = "Nayoung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "임나영", locale = "ko", kind = "real" },
+  { name = "Lim Na Young", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "O"
+height = 171
+weight = 50

@@ -1,0 +1,35 @@
+medium-ids = [
+  "pristin/hi-pristin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pristin/be-the-star"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "pristin/wee-woo"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "pristin/black-widow"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "pristin/running"
+duration = "3:07"
+
+[[tracks]]
+position = 5
+song-id = "pristin/over-n-over"
+duration = "3:42"
+
+[[tracks]]
+position = 6
+song-id = "pristin/we"
+duration = "3:54"
+[[tracks.artist-credits]]
+artist-id = "pristin"

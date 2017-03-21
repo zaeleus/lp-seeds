@@ -1,0 +1,16 @@
+kind = "person"
+started-on = "1998-12-16"
+country = "KR"
+
+names = [
+  { name = "결경", locale = "ko", kind = "stage", original = true },
+  { name = "Kyulkyung", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "周洁琼", locale = "zh", kind = "real" },
+  { name = "Zhou Jieqiong", locale = "zh-Latn", kind = "real" },
+  { name = "Pinky", locale = "zh-Latn", kind = "stage" },
+]
+
+[metadata]
+blood-type = "O"
+height = 166
+weight = 47

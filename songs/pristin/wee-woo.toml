@@ -1,0 +1,9 @@
+names = [
+  { name = "WEE WOO", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=bYdDf44twG4", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=suU-2K-bKFY", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=nda804W1ze8", name = "Music Video" },
+]

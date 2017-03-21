@@ -1,13 +1,13 @@
 medium-ids = [
-  "pledis-girlz/we/default/digital1",
+  "pristin/we/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song-id = "pledis-girlz/we"
+song-id = "pristin/we"
 duration = "3:54"
 
 [[tracks]]
 position = 2
-song-id = "pledis-girlz/we-inst"
+song-id = "pristin/we-inst"
 duration = "3:54"

@@ -55,7 +55,12 @@ names = [
 artist-id = "i-o-i/kim-so-hye"
 
 [[members]]
-artist-id = "i-o-i/lim-na-young"
+[[members.artist-credits]]
+artist-id = "pristin/nayoung"
+names = [
+  { name = "임나영", locale = "ko", original = true },
+  { name = "Lim Na Young", locale = "ko-Latn", default = true },
+]
 
 [[members]]
 [[members.artist-credits]]
@@ -66,4 +71,9 @@ names = [
 ]
 
 [[members]]
-artist-id = "i-o-i/zhou-jieqiong"
+[[members.artist-credits]]
+artist-id = "pristin/kyulkyung"
+names = [
+  { name = "周洁琼", locale = "zh", original = true },
+  { name = "Zhou Jieqiong", locale = "zh-Latn", default = true },
+]

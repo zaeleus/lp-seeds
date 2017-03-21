@@ -1,8 +1,15 @@
-artist-id = "pledis-girlz"
+artist-id = "pristin"
 kind = "single"
 
 names = [
   { name = "WE", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "pristin"
+names = [
+  { name = "플레디스걸즈", locale = "ko" },
+  { name = "PLEDIS Girlz", locale = "ko-Latn" },
 ]
 
 [[releases]]

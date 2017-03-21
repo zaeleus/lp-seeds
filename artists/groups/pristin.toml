@@ -1,0 +1,16 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "프리스틴", locale = "ko", original = true },
+  { name = "PRISTIN", locale = "ko-Latn", default = true },
+  { name = "플레디스걸즈", locale = "ko" },
+  { name = "PLEDIS Girlz", locale = "ko-Latn" },
+]
+
+# TODO add members
+members = [
+  { artist-id = "pristin/kyulkyung" },
+  { artist-id = "pristin/nayoung" },
+]

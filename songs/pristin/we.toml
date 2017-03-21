@@ -5,3 +5,10 @@ names = [
 urls = [
   { url = "https://www.youtube.com/watch?v=hYVS4gjwj-E", name = "Music Video" },
 ]
+
+[[artist-credits]]
+artist-id = "pristin"
+names = [
+  { name = "플레디스걸즈", locale = "ko" },
+  { name = "PLEDIS Girlz", locale = "ko-Latn" },
+]
