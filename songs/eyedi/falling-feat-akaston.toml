@@ -1,0 +1,3 @@
+names = [
+  { name = "Falling (Feat. AKASTON)", locale = "ko", original = true, default = true },
+]

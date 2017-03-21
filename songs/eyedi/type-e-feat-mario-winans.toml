@@ -1,3 +1,7 @@
 names = [
   { name = "Type (E) (Feat. Mario Winans)", locale = "ko", original = true, default = true },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=RmJAjaafCN0", name = "Music Video" },
+]

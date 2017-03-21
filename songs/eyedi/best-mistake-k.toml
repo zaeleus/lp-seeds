@@ -1,0 +1,7 @@
+names = [
+  { name = "Best Mistake (K)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=A2Tq-93CQEM", name = "Music Video" },
+]

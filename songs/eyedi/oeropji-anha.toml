@@ -1,0 +1,9 @@
+names = [
+  { name = "외롭지 않아", locale = "ko", original = true },
+  { name = "Oeropji Anha", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=dkyS971Rm34", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=YOfMWH7Uk7k", name = "Music Video" },
+]
