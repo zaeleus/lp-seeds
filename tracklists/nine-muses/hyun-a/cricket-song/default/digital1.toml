@@ -1,0 +1,18 @@
+medium-ids = [
+  "nine-muses/hyun-a/cricket-song/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/hyun-a/intro-after-midnight"
+duration = "0:39"
+
+[[tracks]]
+position = 2
+song-id = "nine-muses/hyun-a/cricket-song"
+duration = "3:40"
+
+[[tracks]]
+position = 3
+song-id = "nine-muses/hyun-a/cricket-song-acoustic-chill"
+duration = "3:33"

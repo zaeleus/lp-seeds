@@ -1,0 +1,11 @@
+names = [
+  { name = "크리켓송 (Acoustic Chill)", locale = "ko", original = true },
+  { name = "Cricket Song (Acoustic Chill)", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "nine-muses/hyun-a"
+names = [
+  { name = "문현아", locale = "ko", original = true },
+  { name = "Moon Hyuna", locale = "ko-Latn", default = true },
+]

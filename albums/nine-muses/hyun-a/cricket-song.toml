@@ -1,0 +1,22 @@
+artist-id = "nine-muses/hyun-a"
+kind = "single"
+
+names = [
+  { name = "크리켓송 (Cricket Song)", locale = "ko", original = true },
+  { name = "Cricket Song", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "nine-muses/hyun-a"
+names = [
+  { name = "문현아", locale = "ko", original = true },
+  { name = "Moon Hyuna", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-03-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10047727" },
+]
