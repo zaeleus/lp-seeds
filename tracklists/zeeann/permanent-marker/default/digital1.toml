@@ -1,0 +1,13 @@
+medium-ids = [
+  "zeeann/permanent-marker/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zeeann/permanent-marker"
+duration = "4:23"
+
+[[tracks]]
+position = 2
+song-id = "zeeann/september-day"
+duration = "4:00"
