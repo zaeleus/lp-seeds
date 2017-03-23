@@ -1,0 +1,4 @@
+names = [
+  { name = "팝콘 (POPCORN) (Inst.)", locale = "ko", original = true },
+  { name = "POPCORN (Inst.)", locale = "en", default = true },
+]

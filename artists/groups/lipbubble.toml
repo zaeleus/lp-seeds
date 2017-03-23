@@ -1,0 +1,12 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "립버블", locale = "ko", original = true },
+  { name = "LipBubble", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/channel/UCiGda91LMc1h-YUn_unp69Q" },
+]

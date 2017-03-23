@@ -1,0 +1,13 @@
+medium-ids = [
+  "lipbubble/popcorn/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lipbubble/popcorn"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "lipbubble/popcorn-inst"
+duration = "3:17"

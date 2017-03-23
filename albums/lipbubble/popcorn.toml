@@ -1,0 +1,15 @@
+artist-id = "lipbubble"
+kind = "single"
+
+names = [
+  { name = "팝콘 (POPCORN)", locale = "ko", original = true },
+  { name = "POPCORN", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-03-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10047901" },
+]
