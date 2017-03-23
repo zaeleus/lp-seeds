@@ -1,0 +1,13 @@
+names = [
+  { name = "B-DAY (Feat. 키썸)", locale = "ko", original = true },
+  { name = "B-DAY (Feat. Kisum)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=MJd6BI9zhBc", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=Bp_BZXOI3WA", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "kisum", kind = "performer" },
+]

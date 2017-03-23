@@ -1,0 +1,15 @@
+artist-id = "lucy"
+kind = "single"
+
+names = [
+  { name = "B-DAY (Feat. 키썸)", locale = "ko", original = true },
+  { name = "B-DAY (Feat. Kisum)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-03-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10047390" },
+]

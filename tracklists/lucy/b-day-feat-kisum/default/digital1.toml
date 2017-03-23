@@ -1,0 +1,13 @@
+medium-ids = [
+  "lucy/b-day-feat-kisum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucy/paradise-intro"
+duration = "1:06"
+
+[[tracks]]
+position = 2
+song-id = "lucy/b-day-feat-kisum"
+duration = "3:15"
