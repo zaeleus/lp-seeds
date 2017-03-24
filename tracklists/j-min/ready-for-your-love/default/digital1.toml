@@ -1,0 +1,13 @@
+medium-ids = [
+  "j-min/ready-for-your-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "j-min/ready-for-your-love"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "j-min/song-on-my-guitar"
+duration = "3:18"

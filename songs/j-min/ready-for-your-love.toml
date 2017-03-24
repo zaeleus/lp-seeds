@@ -1,0 +1,8 @@
+names = [
+  { name = "Ready For Your Love", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=jkA4iuMc8rM", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=E5BNfSDaBWk", name = "Music Video" },
+]
