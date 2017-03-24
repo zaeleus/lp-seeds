@@ -1,0 +1,33 @@
+medium-ids = [
+  "j-min/shine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "j-min/shine"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "j-min/hoo"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "j-min/if-you-want"
+duration = "4:00"
+
+[[tracks]]
+position = 4
+song-id = "j-min/naui-maeil-my-everyday"
+duration = "4:14"
+
+[[tracks]]
+position = 5
+song-id = "j-min/finally"
+duration = "4:20"
+
+[[tracks]]
+position = 6
+song-id = "j-min/bimil-pyeonji-secret-letter"
+duration = "3:25"

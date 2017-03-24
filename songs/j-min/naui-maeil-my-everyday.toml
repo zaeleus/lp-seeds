@@ -1,0 +1,5 @@
+names = [
+  { name = "나의 매일 (My Everyday)", locale = "ko", original = true },
+  { name = "Naui Maeil (My Everyday)", locale = "ko-Latn", default = true },
+  { name = "My Everyday", locale = "en" },
+]
