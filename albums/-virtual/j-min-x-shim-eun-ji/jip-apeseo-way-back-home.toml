@@ -1,0 +1,21 @@
+artist-id = "-virtual/j-min-x-shim-eun-ji"
+kind = "single"
+
+names = [
+  { name = "집 앞에서 (Way Back Home)", locale = "ko", original = true },
+  { name = "Jip Apeseo (Way Back Home)", locale = "ko-Latn", default = true },
+  { name = "Way Back Home", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "j-min", separator = " X " },
+  { artist-id = "shim-eun-ji" },
+]
+
+[[releases]]
+released-on = "2016-07-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2696432" },
+]

@@ -1,0 +1,15 @@
+names = [
+  { name = "집 앞에서 (Way Back Home)", locale = "ko", original = true },
+  { name = "Jip Apeseo (Way Back Home)", locale = "ko-Latn", default = true },
+  { name = "Way Back Home", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "j-min", separator = " X " },
+  { artist-id = "shim-eun-ji" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=BzAQ89vl9O8", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=pwKDhX7cdBI", name = "Music Video" },
+]

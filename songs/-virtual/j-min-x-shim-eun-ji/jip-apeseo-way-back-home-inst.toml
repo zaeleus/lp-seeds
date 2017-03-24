@@ -1,0 +1,10 @@
+names = [
+  { name = "집 앞에서 (Way Back Home) (Inst.)", locale = "ko", original = true },
+  { name = "Jip Apeseo (Way Back Home) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Way Back Home (Inst.)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "j-min", separator = " X " },
+  { artist-id = "shim-eun-ji" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/j-min-x-shim-eun-ji/jip-apeseo-way-back-home/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/j-min-x-shim-eun-ji/jip-apeseo-way-back-home"
+duration = "4:30"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/j-min-x-shim-eun-ji/jip-apeseo-way-back-home-inst"
+duration = "4:30"
