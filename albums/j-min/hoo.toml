@@ -1,0 +1,15 @@
+artist-id = "j-min"
+kind = "single"
+
+names = [
+  { name = "후(後)", locale = "ko", original = true },
+  { name = "Hoo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2014-06-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2262062" },
+]
