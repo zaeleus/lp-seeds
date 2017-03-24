@@ -10,10 +10,10 @@ names = [
 labels = [{ label-id = "star-empire-entertainment" }]
 
 members = [
-  { artist-id = "nine-muses/hyun-a", started-on = "2010-10-14" },
-  { artist-id = "nine-muses/euaerin", started-on = "2010-08-12" },
+  { artist-id = "nine-muses/hyun-a", started-on = "2010-10-14", ended-on = "2016-10-04" },
+  { artist-id = "nine-muses/euaerin", started-on = "2010-08-12", ended-on = "2016-06-07" },
   { artist-id = "nine-muses/hye-mi", started-on = "2010-08-12" },
-  { artist-id = "nine-muses/min-ha", started-on = "2010-08-12" },
+  { artist-id = "nine-muses/min-ha", started-on = "2010-08-12", ended-on = "2016-06-07" },
   { artist-id = "nine-muses/kyung-ree", started-on = "2012-01-12" },
   { artist-id = "nine-muses/sung-a", started-on = "2012-03-12" },
   { artist-id = "nine-muses/so-jin", started-on = "2015-01-12" },
