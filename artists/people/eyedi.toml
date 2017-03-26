@@ -3,6 +3,6 @@ kind = "person"
 country = "KR"
 
 names = [
-  { name = "아이디", locale = "ko", kind = "real", original = true },
-  { name = "Eyedi", locale = "ko-Latn", kind = "real", default = true },
+  { name = "아이디", locale = "ko", kind = "stage", original = true },
+  { name = "Eyedi", locale = "ko-Latn", kind = "stage", default = true },
 ]
