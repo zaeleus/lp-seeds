@@ -1,0 +1,4 @@
+names = [
+  { name = "僕が死のうと思ったのは", locale = "ja", original = true },
+  { name = "Boku ga Shinou to Omotta no Wa", locale = "ja-Latn", default = true },
+]

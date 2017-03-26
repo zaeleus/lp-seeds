@@ -1,0 +1,4 @@
+names = [
+  { name = "愛詞 (あいことば)", locale = "ja", original = true },
+  { name = "Ai Kotoba", locale = "ja-Latn", default = true },
+]

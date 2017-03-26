@@ -1,0 +1,8 @@
+names = [
+  { name = "Fighter", locale = "ja", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "nakashima-mika", separator = " x " },
+  { artist-id = "kato-miliyah" },
+]

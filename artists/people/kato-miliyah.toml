@@ -1,0 +1,14 @@
+kind = "person"
+started-on = "1988-06-22"
+country = "JP"
+
+names = [
+  { name = "加藤ミリヤ", locale = "ja", kind = "stage", original = true },
+  { name = "Kato Miliyah", locale = "ja-Latn", kind = "stage", default = true },
+  { name = "加藤美穂", locale = "ja", kind = "real" },
+  { name = "Kato Miho", locale = "ja-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "http://www.miliyah.com/" },
+]

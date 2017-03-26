@@ -1,0 +1,16 @@
+artist-id = "nakashima-mika"
+kind = "lp"
+
+names = [
+  { name = "TOUGH", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-03-22"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1208908362" },
+  { url = "http://mora.jp/package/43000001/4547366303766/" },
+  { url = "http://mora.jp/package/43000001/4547366302707/" },
+]
