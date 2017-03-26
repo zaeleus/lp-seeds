@@ -1,0 +1,14 @@
+artist-id = "hanseul"
+kind = "single"
+
+names = [
+  { name = "Andante", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-03-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10045973" },
+]

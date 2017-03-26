@@ -1,0 +1,13 @@
+medium-ids = [
+  "hanseul/andante/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hanseul/andante"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "hanseul/andante-inst"
+duration = "3:53"
