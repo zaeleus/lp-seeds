@@ -1,0 +1,38 @@
+medium-ids = [
+  "girl-s-day/girl-s-day-everyday-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girl-s-day/i-ll-be-yours"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "girl-s-day/thirsty"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "girl-s-day/love-again"
+duration = "3:47"
+
+[[tracks]]
+position = 4
+song-id = "girl-s-day/kumbaya-come-by-here-sojin-solo"
+duration = "4:12"
+
+[[tracks]]
+position = 5
+song-id = "girl-s-day/truth-minah-solo"
+duration = "3:16"
+
+[[tracks]]
+position = 6
+song-id = "girl-s-day/don-t-be-shy"
+duration = "3:16"
+
+[[tracks]]
+position = 7
+song-id = "girl-s-day/i-ll-be-yours-inst"
+duration = "3:05"

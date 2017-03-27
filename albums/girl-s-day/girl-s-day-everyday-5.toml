@@ -1,0 +1,18 @@
+artist-id = "girl-s-day"
+kind = "ep"
+
+names = [
+  { name = "GIRL'S DAY EVERYDAY #5", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=zcy1rkt9jFw", name = "Highlight Medley" }
+]
+
+[[releases]]
+released-on = "2017-03-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10049173" },
+]

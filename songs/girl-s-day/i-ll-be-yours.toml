@@ -1,0 +1,8 @@
+names = [
+  { name = "I'll Be Yours", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=87TeGdlhnhk", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=7crt2Ip93VI", name = "Music Video" },
+]
