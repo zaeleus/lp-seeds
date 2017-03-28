@@ -5,3 +5,10 @@ country = "JP"
 names = [
   { name = "lecca", locale = "ja", kind = "stage", original = true, default = true },
 ]
+
+urls = [
+  { url = "http://avex.jp/lecca/" },
+  { url = "http://ameblo.jp/lecca-blog/" },
+  { url = "https://www.facebook.com/leccainfo/" },
+  { url = "https://twitter.com/lecca_info" },
+]
