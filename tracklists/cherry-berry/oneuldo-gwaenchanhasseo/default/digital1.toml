@@ -1,0 +1,13 @@
+medium-ids = [
+  "cherry-berry/oneuldo-gwaenchanhasseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cherry-berry/oneuldo-gwaenchanhasseo"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "cherry-berry/oneuldo-gwaenchanhasseo-inst"
+duration = "3:34"
