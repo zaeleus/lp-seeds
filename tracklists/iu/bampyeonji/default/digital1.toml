@@ -1,0 +1,8 @@
+medium-ids = [
+  "iu/bampyeonji/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "iu/bampyeonji"
+duration = "4:13"

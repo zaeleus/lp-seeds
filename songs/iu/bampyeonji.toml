@@ -1,0 +1,10 @@
+names = [
+  { name = "밤편지", locale = "ko", original = true },
+  { name = "Bampyeonji", locale = "ko-Latn", default = true },
+  { name = "Through the Night", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=cj_8wUhYk_o", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=BzYnNdJhZQw", name = "Music Video" },
+]

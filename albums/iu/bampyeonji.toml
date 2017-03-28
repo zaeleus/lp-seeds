@@ -1,0 +1,16 @@
+artist-id = "iu"
+kind = "single"
+
+names = [
+  { name = "밤편지", locale = "ko", original = true },
+  { name = "Bampyeonji", locale = "ko-Latn", default = true },
+  { name = "Through the Night", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-03-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10047890" },
+]
