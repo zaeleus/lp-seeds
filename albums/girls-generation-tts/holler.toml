@@ -9,6 +9,9 @@ names = [
 released-on = "2014-09-16"
 country = "KR"
 media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2281922" },
+]
 
 [[releases]]
 released-on = "2014-09-18"

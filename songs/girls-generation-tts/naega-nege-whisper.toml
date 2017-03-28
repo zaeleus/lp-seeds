@@ -1,0 +1,5 @@
+names = [
+  { name = "내가 네게 (Whisper)", locale = "ko", original = true },
+  { name = "Naega Nege (Whisper)", locale = "ko-Latn", default = true },
+  { name = "Whisper", locale = "en" },
+]
