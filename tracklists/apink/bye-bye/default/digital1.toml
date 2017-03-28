@@ -1,0 +1,23 @@
+medium-ids = [
+  "apink/bye-bye/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink/bye-bye"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "apink/papipupepon"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "apink/bye-bye-instrumental"
+duration = "3:00"
+
+[[tracks]]
+position = 4
+song-id = "apink/papipupepon-instrumental"
+duration = "3:27"

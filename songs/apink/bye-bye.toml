@@ -1,0 +1,8 @@
+names = [
+  { name = "Bye Bye", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=B5BfglDwZ-I", name = "Music Video (Short Ver.)" },
+  { url = "https://www.youtube.com/watch?v=XTDRCwqqtC0", name = "Music Video" },
+]
