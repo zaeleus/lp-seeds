@@ -1,0 +1,28 @@
+medium-ids = [
+  "sudannayuzuyully/oh-boy/cd-dvd/cd1",
+  "sudannayuzuyully/oh-boy/cd/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sudannayuzuyully/oh-boy"
+
+[[tracks]]
+position = 2
+song-id = "sudannayuzuyully/first-time"
+
+[[tracks]]
+position = 3
+song-id = "sudannayuzuyully/konnichi-what-s-up"
+
+[[tracks]]
+position = 4
+song-id = "sudannayuzuyully/oh-boy-instrumental"
+
+[[tracks]]
+position = 5
+song-id = "sudannayuzuyully/first-time-instrumental"
+
+[[tracks]]
+position = 6
+song-id = "sudannayuzuyully/konnichi-what-s-up-instrumental"

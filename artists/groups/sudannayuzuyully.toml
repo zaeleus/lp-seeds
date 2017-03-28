@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2017"
+country = "JP"
+
+names = [
+  { name = "スダンナユズユリー", locale = "ja", original = true },
+  { name = "SudannaYuzuYully", locale = "ja-Latn", default = true },
+]

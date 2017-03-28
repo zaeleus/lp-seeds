@@ -1,0 +1,48 @@
+artist-id = "sudannayuzuyully"
+kind = "single"
+
+names = [
+  { name = "OH BOY", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-03-01"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1206238590" },
+  { url = "http://mora.jp/package/43000002/RZCD-86277/" },
+  { url = "http://mora.jp/package/43000002/ANTCD-21624_F/" },
+]
+
+[[releases]]
+released-on = "2017-03-01"
+country = "JP"
+catalog-number = "RZCD-86277/B"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "CD+DVD"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/689141/products/1212573/1/" },
+  { url = "http://sudannayuzuyully-official.jp/disco.php" },
+]
+
+[[releases]]
+released-on = "2017-03-01"
+country = "JP"
+catalog-number = "RZCD-86278"
+media = [{ kind = "cd" }]
+disambiguation = "CD"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/689141/products/1212574/1/" },
+  { url = "http://sudannayuzuyully-official.jp/disco.php" },
+]
+
+[[releases]]
+released-on = "2017-03-01"
+country = "JP"
+catalog-number = "RZC1-86279"
+media = [{ kind = "cd" }]
+disambiguation = "One Coin"
+urls = [
+  { url = "http://sudannayuzuyully-official.jp/disco.php" },
+]
