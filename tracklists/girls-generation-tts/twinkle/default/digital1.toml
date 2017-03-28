@@ -1,0 +1,39 @@
+medium-ids = [
+  "girls-generation-tts/twinkle/default/cd1",
+  "girls-generation-tts/twinkle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation-tts/twinkle"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation-tts/baby-steps"
+duration = "3:55"
+
+[[tracks]]
+position = 3
+song-id = "girls-generation-tts/omg-oh-my-god"
+duration = "3:24"
+
+[[tracks]]
+position = 4
+song-id = "girls-generation-tts/library"
+duration = "4:02"
+
+[[tracks]]
+position = 5
+song-id = "girls-generation-tts/annyeong-good-bye-hello"
+duration = "3:51"
+
+[[tracks]]
+position = 6
+song-id = "girls-generation-tts/cheoeumieossjyo-love-sick"
+duration = "3:25"
+
+[[tracks]]
+position = 7
+song-id = "girls-generation-tts/checkmate"
+duration = "3:26"
