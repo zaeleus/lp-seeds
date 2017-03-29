@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1991-05-03"
+country = "KR"
+
+names = [
+  { name = "서사무엘", locale = "ko", kind = "real", original = true },
+  { name = "Samuel Seo", locale = "ko-Latn", kind = "real", default = true },
+]
