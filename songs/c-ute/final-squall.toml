@@ -1,0 +1,8 @@
+names = [
+  { name = "ファイナルスコール", locale = "ja", original = true },
+  { name = "Final Squall", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=2l8-eUEO-qA", name = "Music Video" },
+]

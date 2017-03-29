@@ -1,0 +1,33 @@
+medium-ids = [
+  "c-ute/to-tomorrow-final-squall-the-curtain-rises/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "c-ute/to-tomorrow"
+duration = "4:10"
+
+[[tracks]]
+position = 2
+song-id = "c-ute/final-squall"
+duration = "4:37"
+
+[[tracks]]
+position = 3
+song-id = "c-ute/the-curtain-rises"
+duration = "4:10"
+
+[[tracks]]
+position = 4
+song-id = "c-ute/to-tomorrow-instrumental"
+duration = "4:11"
+
+[[tracks]]
+position = 5
+song-id = "c-ute/final-squall-instrumental"
+duration = "4:37"
+
+[[tracks]]
+position = 6
+song-id = "c-ute/the-curtain-rises-instrumental"
+duration = "4:11"

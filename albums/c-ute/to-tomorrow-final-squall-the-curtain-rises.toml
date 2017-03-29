@@ -1,0 +1,25 @@
+artist-id = "c-ute"
+kind = "single"
+
+names = [
+  { name = "To Tomorrow/ファイナルスコール/The Curtain Rises", locale = "ja", original = true },
+  { name = "To Tomorrow / Final Squall / The Curtain Rises", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-03-29"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000030/EPCE-7322/" },
+  { url = "https://itunes.apple.com/jp/album/id1214795248" },
+]
+
+[[releases]]
+released-on = "2017-03-29"
+country = "JP"
+media = [{ kind = "digital" }]
+disambiguation = "Hi-Res"
+urls = [
+  { url = "http://mora.jp/package/43000030/EPCE-7322-HR/" },
+]

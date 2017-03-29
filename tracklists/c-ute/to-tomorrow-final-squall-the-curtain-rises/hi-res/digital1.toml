@@ -1,0 +1,18 @@
+medium-ids = [
+  "c-ute/to-tomorrow-final-squall-the-curtain-rises/hi-res/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "c-ute/to-tomorrow"
+duration = "4:12"
+
+[[tracks]]
+position = 2
+song-id = "c-ute/final-squall"
+duration = "4:37"
+
+[[tracks]]
+position = 3
+song-id = "c-ute/the-curtain-rises"
+duration = "4:14"

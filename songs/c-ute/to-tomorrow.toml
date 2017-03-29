@@ -1,0 +1,7 @@
+names = [
+  { name = "To Tomorrow", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=jG3S3BnxaR8", name = "Music Video" },
+]

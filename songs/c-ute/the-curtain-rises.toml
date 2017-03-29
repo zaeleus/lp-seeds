@@ -1,0 +1,7 @@
+names = [
+  { name = "The Curtain Rises", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=n_K8bSpDw9U", name = "Music Video" },
+]
