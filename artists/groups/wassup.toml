@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2013"
+country = "KR"
+
+names = [
+  { name = "와썹", locale = "ko" },
+  { name = "WA$$UP", locale = "ko-Latn", original = true, default = true },
+  { name = "Wassup", locale = "ko-Latn" },
+]
