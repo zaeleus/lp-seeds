@@ -1,0 +1,13 @@
+medium-ids = [
+  "red-velvet/would-u/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/would-u"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/would-u-inst"
+duration = "3:23"
