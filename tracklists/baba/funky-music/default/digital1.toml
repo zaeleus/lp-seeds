@@ -1,0 +1,13 @@
+medium-ids = [
+  "baba/funky-music/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "baba/funky-music"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "baba/funky-music-inst"
+duration = "3:22"

@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2015"
+country = "KR"
+
+names = [
+  { name = "바바", locale = "ko", original = true },
+  { name = "Baba", locale = "ko-Latn", default = true },
+]
