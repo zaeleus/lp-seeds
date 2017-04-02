@@ -1,0 +1,13 @@
+medium-ids = [
+  "baba/catch-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "baba/catch-me"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "baba/catch-me-inst"
+duration = "3:25"
