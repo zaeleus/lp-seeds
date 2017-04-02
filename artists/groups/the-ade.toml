@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "디에이드", locale = "ko", original = true },
+  { name = "The Ade", locale = "ko-Latn", default = true },
+]

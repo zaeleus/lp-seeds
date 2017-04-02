@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-ade/talmeun-georaeyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-ade/talmeun-georaeyo"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "the-ade/talmeun-georaeyo-inst"
+duration = "3:41"

@@ -1,0 +1,8 @@
+names = [
+  { name = "닮은거래요", locale = "ko", original = true },
+  { name = "Talmeun Georaeyo", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=mK2o_S9DUMM", name = "Audio" },
+]
