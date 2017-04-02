@@ -1,0 +1,8 @@
+medium-ids = [
+  "han-all/bomnare-mannaja/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "han-all/bomnare-mannaja"
+duration = "3:45"
