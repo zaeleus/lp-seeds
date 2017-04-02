@@ -1,0 +1,13 @@
+names = [
+  { name = "This Is Love (Feat. 장현승)", locale = "ko", original = true },
+  { name = "This Is Love (Feat. Jang Hyun Seung)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=RHbXzL-Rmns", name = "Promo Video" },
+  { url = "https://www.youtube.com/watch?v=PnV53ll_9sU", name = "Audio" },
+]
+
+contributions = [
+  { artist-id = "beast/jang-hyun-seung", kind = "performer" },
+]

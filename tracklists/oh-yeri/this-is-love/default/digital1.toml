@@ -1,0 +1,13 @@
+medium-ids = [
+  "oh-yeri/this-is-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-yeri/this-is-love-feat-jang-hyun-seung"
+duration = "2:46"
+
+[[tracks]]
+position = 2
+song-id = "oh-yeri/this-is-love-feat-jang-hyun-seung-inst"
+duration = "2:46"
