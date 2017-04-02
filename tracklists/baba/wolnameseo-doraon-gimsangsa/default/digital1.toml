@@ -1,0 +1,13 @@
+medium-ids = [
+  "baba/wolnameseo-doraon-gimsangsa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "baba/wolnameseo-doraon-gimsangsa"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "baba/chiquita"
+duration = "2:47"

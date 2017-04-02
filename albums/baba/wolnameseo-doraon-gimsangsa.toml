@@ -1,0 +1,15 @@
+artist-id = "baba"
+kind = "single"
+
+names = [
+  { name = "월남에서 돌아온 김상사", locale = "ko", original = true },
+  { name = "Wolnameseo Doraon Gimsangsa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2015-03-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2310517" },
+]
