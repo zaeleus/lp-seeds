@@ -1,0 +1,7 @@
+names = [
+  { name = "THE IDOLM@STER", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=GPa27Hzr3v0", name = "Music Video" },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "b-side/the-idolm-ster/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "b-side/the-idolm-ster"
+duration = "2:54"
