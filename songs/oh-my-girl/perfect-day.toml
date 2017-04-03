@@ -1,0 +1,7 @@
+names = [
+  { name = "Perfect Day", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=oHeS2ysICc4", name = "April Fools' Day Teaser" },
+]

@@ -1,0 +1,10 @@
+names = [
+  { name = "컬러링북 (Coloring Book)", locale = "ko", original = true },
+  { name = "Coloring Book", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Oc-_YokV9Us", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=39G6v2HSIsM", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=7cjZFjWBZI0", name = "Music Video" },
+]
