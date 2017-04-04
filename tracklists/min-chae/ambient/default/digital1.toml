@@ -1,0 +1,33 @@
+medium-ids = [
+  "min-chae/ambient/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "min-chae/maeumi-ambient-ver"
+duration = "4:12"
+
+[[tracks]]
+position = 2
+song-id = "min-chae/neoreul-mannamyeon"
+duration = "3:57"
+
+[[tracks]]
+position = 3
+song-id = "min-chae/haru-jazz-ver"
+duration = "4:01"
+
+[[tracks]]
+position = 4
+song-id = "min-chae/bomui-fantasy"
+duration = "4:05"
+
+[[tracks]]
+position = 5
+song-id = "min-chae/deulliji-anhni"
+duration = "3:19"
+
+[[tracks]]
+position = 6
+song-id = "min-chae/saebyeoknyeok-jeo-haneureun"
+duration = "3:59"

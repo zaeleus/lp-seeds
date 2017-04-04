@@ -1,0 +1,14 @@
+artist-id = "min-chae"
+kind = "ep"
+
+names = [
+  { name = "Ambient", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-04-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10051196" },
+]
