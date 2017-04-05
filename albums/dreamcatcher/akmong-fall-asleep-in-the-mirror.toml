@@ -1,0 +1,20 @@
+artist-id = "dreamcatcher"
+kind = "single"
+
+names = [
+  { name = "악몽·Fall asleep in the mirror", locale = "ko", original = true },
+  { name = "Akmong - Fall asleep in the mirror", locale = "ko-Latn", default = true },
+  { name = "Nightmare - Fall asleep in the mirror", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=KvU3Ap-02Mo", name = "Album Preview" },
+]
+
+[[releases]]
+released-on = "2017-04-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10052038" },
+]

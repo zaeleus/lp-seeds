@@ -1,0 +1,23 @@
+medium-ids = [
+  "dreamcatcher/akmong-fall-asleep-in-the-mirror/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dreamcatcher/my-toys-intro"
+duration = "1:06"
+
+[[tracks]]
+position = 2
+song-id = "dreamcatcher/good-night"
+duration = "2:54"
+
+[[tracks]]
+position = 3
+song-id = "dreamcatcher/lullaby"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "dreamcatcher/good-night-inst"
+duration = "2:54"
