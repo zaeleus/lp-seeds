@@ -12,6 +12,8 @@ released-on = "2016-11-23"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
+  { url = "https://itunes.apple.com/us/album/id1178907628" },
+  { url = "https://play.google.com/music/m/B3yi3si6tj4tov3aeobmrd5eelm" },
   { url = "http://www.melon.com/album/detail.htm?albumId=10016726" },
   { url = "http://www.mnet.com/album/1536753" },
   { url = "https://play.spotify.com/album/1dakUeYDjlm2TQwzbLrln1" },

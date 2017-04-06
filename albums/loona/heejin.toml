@@ -10,5 +10,8 @@ released-on = "2016-10-05"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
+  { url = "https://itunes.apple.com/us/album/id1162060452" },
+  { url = "https://play.google.com/music/m/Borfmpjvaxl5lrmhgslyyy3675a" },
   { url = "http://www.melon.com/album/detail.htm?albumId=10000874" },
+  { url = "https://play.spotify.com/album/2AHmT9guQLdXT35Zr3ePEO" },
 ]

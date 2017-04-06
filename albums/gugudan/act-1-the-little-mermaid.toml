@@ -18,6 +18,7 @@ country = "KR"
 media = [{ kind = "digital" }]
 urls = [
   { url = "https://itunes.apple.com/us/album/id1128322245" },
+  { url = "https://play.google.com/music/m/B46fbbhkw2tt6ochmv5su5ybvqq" },
   { url = "http://www.melon.com/album/detail.htm?albumId=2694101" },
   { url = "http://www.mnet.com/album/558278" },
   { url = "https://open.spotify.com/album/2s65QrFa3eBaqdAlDlffhm" },

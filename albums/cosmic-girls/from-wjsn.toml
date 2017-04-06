@@ -17,6 +17,8 @@ released-on = "2017-01-04"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
+  { url = "https://itunes.apple.com/us/album/id1191680412" },
+  { url = "https://play.google.com/music/m/Bjyw2tsrhyzl2d6hl4vmawr7fhy" },
   { url = "http://www.melon.com/album/detail.htm?albumId=10028121" },
   { url = "http://www.mnet.com/album/1753442" },
   { url = "http://music.naver.com/album/index.nhn?albumId=1772194" },
