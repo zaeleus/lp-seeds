@@ -28,3 +28,22 @@ media = [{ kind = "cd" }]
 urls = [
   { url = "http://www.hanteo.com/search/nAlbum_info2.asp?mcode=045401584" },
 ]
+
+[[releases]]
+released-on = "2017-04-05"
+country = "KR"
+media = [{ kind = "digital" }]
+disambiguation = "Deluxe Edition"
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10051887" },
+]
+
+[[releases]]
+released-on = "2017-04-05"
+country = "KR"
+catalog-number = "SMK-0775"
+media = [{ kind = "cd" }]
+disambiguation = "Deluxe Edition"
+urls = [
+  { url = "http://www.hanteo.com/search/album_info.asp?mcode=045401665" },
+]
