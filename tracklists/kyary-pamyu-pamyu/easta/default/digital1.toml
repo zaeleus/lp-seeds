@@ -1,0 +1,28 @@
+medium-ids = [
+  "kyary-pamyu-pamyu/easta/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kyary-pamyu-pamyu/easta"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "kyary-pamyu-pamyu/todoke-punch"
+duration = "2:58"
+
+[[tracks]]
+position = 3
+song-id = "kyary-pamyu-pamyu/sai-co-extended-mix"
+duration = "4:24"
+
+[[tracks]]
+position = 4
+song-id = "kyary-pamyu-pamyu/easta-instrumental"
+duration = "3:00"
+
+[[tracks]]
+position = 5
+song-id = "kyary-pamyu-pamyu/todoke-punch-instrumental"
+duration = "2:58"

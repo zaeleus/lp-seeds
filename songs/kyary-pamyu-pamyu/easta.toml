@@ -1,0 +1,9 @@
+names = [
+  { name = "良すた", locale = "ja", original = true },
+  { name = "Easta", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=mua51ECZzxE", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=6OSiE4I-tRY", name = "Music Video" },
+]

@@ -1,0 +1,16 @@
+artist-id = "kyary-pamyu-pamyu"
+kind = "single"
+
+names = [
+  { name = "良すた", locale = "ja", original = true },
+  { name = "Easta", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-04-05"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1216766612" },
+  { url = "http://mora.jp/package/43000008/190295826062/" },
+]
