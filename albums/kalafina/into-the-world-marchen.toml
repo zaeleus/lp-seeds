@@ -1,0 +1,16 @@
+artist-id = "kalafina"
+kind = "single"
+
+names = [
+  { name = "into the world/メルヒェン", locale = "ja", original = true },
+  { name = "into the world / Märchen", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-04-05"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000001/4547366306194/" },
+  { url = "http://mora.jp/package/43000001/4547366306330/" },
+]

@@ -1,0 +1,23 @@
+medium-ids = [
+  "kalafina/into-the-world-marchen/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kalafina/into-the-world"
+duration = "5:42"
+
+[[tracks]]
+position = 2
+song-id = "kalafina/marchen"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "kalafina/haru-wo-matsu"
+duration = "3:50"
+
+[[tracks]]
+position = 4
+song-id = "kalafina/into-the-world-instrumental"
+duration = "5:40"
