@@ -1,0 +1,16 @@
+artist-id = "iu"
+kind = "single"
+
+names = [
+  { name = "사랑이 잘", locale = "ko", original = true },
+  { name = "Sarangi Jal", locale = "ko-Latn", default = true },
+  { name = "Can't Love You Anymore", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-04-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10052968" },
+]

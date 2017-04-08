@@ -1,0 +1,9 @@
+names = [
+  { name = "사랑이 잘 (With 오혁)", locale = "ko", original = true },
+  { name = "Sarangi Jal (With Oh Hyuk)", locale = "ko-Latn", default = true },
+  { name = "Can't Love You Anymore (With Oh Hyuk)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=fWoVvVVd84A", name = "Teaser" },
+]
