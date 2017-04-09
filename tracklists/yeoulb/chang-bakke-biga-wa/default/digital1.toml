@@ -1,0 +1,13 @@
+medium-ids = [
+  "yeoulb/chang-bakke-biga-wa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yeoulb/chang-bakke-biga-wa"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "yeoulb/chang-bakke-biga-wa-inst"
+duration = "3:25"

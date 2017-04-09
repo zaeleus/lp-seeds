@@ -1,0 +1,15 @@
+artist-id = "yeoulb"
+kind = "single"
+
+names = [
+  { name = "창 밖에 비가 와", locale = "ko", original = true },
+  { name = "Chang Bakke Biga Wa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-03-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10047990" },
+]
