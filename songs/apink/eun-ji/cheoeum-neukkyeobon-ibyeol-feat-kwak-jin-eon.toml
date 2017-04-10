@@ -1,0 +1,11 @@
+names = [
+  { name = "처음 느껴본 이별 (Feat. 곽진언)", locale = "ko", original = true },
+  { name = "Cheoeum Neukkyeobon Ibyeol (Feat. Kwak Jin Eon)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]

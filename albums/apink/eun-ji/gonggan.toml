@@ -1,0 +1,20 @@
+artist-id = "apink/eun-ji"
+kind = "ep"
+
+names = [
+  { name = "공간", locale = "ko", original = true },
+  { name = "Gonggan", locale = "ko-Latn", default = true },
+  { name = "The Space", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=3jfRI5SpraM", name = "Rolling Music" },
+]
+
+[[releases]]
+released-on = "2017-04-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10053122" },
+]

@@ -1,0 +1,17 @@
+names = [
+  { name = "너란 봄 (Feat. 하림)", locale = "ko", original = true },
+  { name = "Neoran Bom (Feat. Hareem)", locale = "ko-Latn", default = true },
+  { name = "The Spring (Feat. Hareem)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=kvxSPUfZdBE", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=PWDISJZr7Yc", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
