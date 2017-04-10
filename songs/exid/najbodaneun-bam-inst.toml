@@ -1,0 +1,5 @@
+names = [
+  { name = "낮보다는 밤 (Inst.)", locale = "ko", original = true },
+  { name = "Najbodaneun Bam (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Night Rather Than Day (Inst.)", locale = "en" },
+]

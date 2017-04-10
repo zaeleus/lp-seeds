@@ -1,0 +1,22 @@
+artist-id = "exid"
+kind = "ep"
+
+names = [
+  { name = "Eclipse", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=vIxNjwLSmlA", name = "Jacket Film (LE)" },
+  { url = "https://www.youtube.com/watch?v=VVnP5UHqoUc", name = "Jacket Film (Jeonghwa)" },
+  { url = "https://www.youtube.com/watch?v=1t_LFlcPW5s", name = "Jacket Film (Hyelin)" },
+  { url = "https://www.youtube.com/watch?v=FIX67hZnUUM", name = "Jacket Film (Hani)" },
+  { url = "https://www.youtube.com/watch?v=_OGixZ95PhM", name = "Hightlight Melody" },
+]
+
+[[releases]]
+released-on = "2017-04-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10053013" },
+]

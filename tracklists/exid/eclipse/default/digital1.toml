@@ -1,0 +1,33 @@
+medium-ids = [
+  "exid/eclipse/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exid/boy"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "exid/najbodaneun-bam"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "exid/how-why"
+duration = "3:51"
+
+[[tracks]]
+position = 4
+song-id = "exid/uyu-hani-solo"
+duration = "3:24"
+
+[[tracks]]
+position = 5
+song-id = "exid/velvet-le-solo"
+duration = "3:12"
+
+[[tracks]]
+position = 6
+song-id = "exid/najbodaneun-bam-inst"
+duration = "3:18"

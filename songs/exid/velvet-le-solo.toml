@@ -1,0 +1,7 @@
+names = [
+  { name = "Velvet (LE Solo)", locale = "ko", original = true, default = true },
+]
+
+contributions = [
+  { artist-id = "exid/le", kind = "performer" },
+]

@@ -1,0 +1,10 @@
+names = [
+  { name = "낮보다는 밤", locale = "ko", original = true },
+  { name = "Najbodaneun Bam", locale = "ko-Latn", default = true },
+  { name = "Night Rather Than Day", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=_7_fGwRsLV0", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=5wEjz3RdnKA", name = "Music Video" },
+]

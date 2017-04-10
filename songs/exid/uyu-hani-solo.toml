@@ -1,0 +1,9 @@
+names = [
+  { name = "우유 (하니 Solo)", locale = "ko", original = true },
+  { name = "Uyu (Hani Solo)", locale = "ko-Latn", default = true },
+  { name = "Milk (Hani Solo)", locale = "en" },
+]
+
+contributions = [
+  { artist-id = "exid/hani", kind = "performer" },
+]
