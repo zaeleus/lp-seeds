@@ -1,0 +1,69 @@
+medium-ids = [
+  "rie-fu/tobira-album/default/cd1",
+  "rie-fu/tobira-album/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rie-fu/500-miles-album-version"
+duration = "4:24"
+
+[[tracks]]
+position = 2
+song-id = "rie-fu/come-to-my-door"
+duration = "3:58"
+
+[[tracks]]
+position = 3
+song-id = "rie-fu/tsukiakari"
+duration = "4:28"
+
+[[tracks]]
+position = 4
+song-id = "rie-fu/kimi-ga-ukabu-yo"
+duration = "4:20"
+
+[[tracks]]
+position = 5
+song-id = "rie-fu/tobira"
+duration = "4:02"
+
+[[tracks]]
+position = 6
+song-id = "rie-fu/on-it-s-way"
+duration = "4:01"
+
+[[tracks]]
+position = 7
+song-id = "rie-fu/until-i-say"
+duration = "4:59"
+
+[[tracks]]
+position = 8
+song-id = "rie-fu/smile"
+duration = "3:42"
+
+[[tracks]]
+position = 9
+song-id = "rie-fu/feel-the-same"
+duration = "5:07"
+
+[[tracks]]
+position = 10
+song-id = "rie-fu/dreams-be"
+duration = "3:47"
+
+[[tracks]]
+position = 11
+song-id = "rie-fu/sunshine-of-my-day-live-version"
+duration = "2:55"
+
+[[tracks]]
+position = 12
+song-id = "rie-fu/london"
+duration = "4:35"
+
+[[tracks]]
+position = 13
+song-id = "rie-fu/anata-ga-koko-ni-iru-riyuu"
+duration = "3:37"

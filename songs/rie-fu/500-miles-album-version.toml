@@ -1,0 +1,4 @@
+names = [
+  { name = "5000マイル～Album version", locale = "ja", original = true },
+  { name = "500 Miles ~ Album version", locale = "en", default = true },
+]

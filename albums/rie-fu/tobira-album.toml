@@ -1,0 +1,23 @@
+artist-id = "rie-fu"
+kind = "lp"
+
+names = [
+  { name = "Tobira Album", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2007-11-21"
+country = "JP"
+catalog-number = "QQCL-31"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.oricon.co.jp/prof/335027/products/738052/1/" },
+]
+
+[[releases]]
+released-on = "2012-10-01"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000001/4560427400587/" },
+]
