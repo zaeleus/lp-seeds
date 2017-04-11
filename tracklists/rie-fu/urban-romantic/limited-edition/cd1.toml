@@ -1,0 +1,70 @@
+medium-ids = [
+  "rie-fu/urban-romantic/limited-edition/cd1",
+  "rie-fu/urban-romantic/regular-edition/cd1",
+  "rie-fu/urban-romantic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rie-fu/something-in-my-head"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "rie-fu/sunny-days"
+duration = "2:57"
+
+[[tracks]]
+position = 3
+song-id = "rie-fu/hey-i-m-calling-up"
+duration = "5:28"
+
+[[tracks]]
+position = 4
+song-id = "rie-fu/business"
+duration = "4:05"
+
+[[tracks]]
+position = 5
+song-id = "rie-fu/anata-wo-omoeba-afureru-namida"
+duration = "4:25"
+
+[[tracks]]
+position = 6
+song-id = "rie-fu/romantic"
+duration = "4:22"
+
+[[tracks]]
+position = 7
+song-id = "rie-fu/drummy"
+duration = "4:02"
+
+[[tracks]]
+position = 8
+song-id = "rie-fu/she-can-t-say-no-no-to-ienai-onna"
+duration = "2:31"
+
+[[tracks]]
+position = 9
+song-id = "rie-fu/money-will-love-you-english-version"
+duration = "3:38"
+
+[[tracks]]
+position = 10
+song-id = "rie-fu/itsuka-kono-michi-no-saki-ni-all-the-way"
+duration = "5:04"
+
+[[tracks]]
+position = 11
+song-id = "rie-fu/present"
+duration = "4:33"
+
+[[tracks]]
+position = 12
+song-id = "rie-fu/suki"
+duration = "3:23"
+
+[[tracks]]
+position = 13
+song-id = "rie-fu/romantic-strings-version"
+duration = "3:55"

@@ -1,0 +1,4 @@
+names = [
+  { name = "あなたを想えばあふれる涙", locale = "ja", original = true },
+  { name = "Anata wo Omoeba Afureru Namida", locale = "ja-Latn", default = true },
+]

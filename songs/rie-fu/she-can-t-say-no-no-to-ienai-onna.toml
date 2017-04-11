@@ -1,0 +1,4 @@
+names = [
+  { name = "She Can't Say No～ノーと言えない女～", locale = "ja", original = true },
+  { name = "She Can't Say No ~No to Ienai Onna~", locale = "ja-Latn", default = true },
+]
