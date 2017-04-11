@@ -1,0 +1,34 @@
+artist-id = "rie-fu"
+kind = "lp"
+
+names = [
+  { name = "I Can Do Better", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2011-11-23"
+country = "JP"
+catalog-number = "SRCL-7809/10"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/335027/products/939935/1/" },
+]
+
+[[releases]]
+released-on = "2011-11-23"
+country = "JP"
+catalog-number = "SRCL-7811"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/335027/products/939937/1/" },
+]
+
+[[releases]]
+released-on = "2012-10-01"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000001/4988009068220/" },
+]

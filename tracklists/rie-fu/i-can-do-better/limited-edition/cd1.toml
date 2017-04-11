@@ -1,0 +1,85 @@
+medium-ids = [
+  "rie-fu/i-can-do-better/limited-edition/cd1",
+  "rie-fu/i-can-do-better/regular-edition/cd1",
+  "rie-fu/i-can-do-better/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rie-fu/decay"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "rie-fu/life-is-like-a-boat"
+duration = "4:59"
+
+[[tracks]]
+position = 3
+song-id = "rie-fu/i-wanna-go-to-a-place"
+duration = "5:07"
+
+[[tracks]]
+position = 4
+song-id = "rie-fu/negaigoto"
+duration = "4:45"
+
+[[tracks]]
+position = 5
+song-id = "rie-fu/tiny-tiny-melody"
+duration = "5:08"
+
+[[tracks]]
+position = 6
+song-id = "rie-fu/until-i-say"
+duration = "5:01"
+
+[[tracks]]
+position = 7
+song-id = "rie-fu/tsukiakari"
+duration = "4:31"
+
+[[tracks]]
+position = 8
+song-id = "rie-fu/500-miles"
+duration = "4:28"
+
+[[tracks]]
+position = 9
+song-id = "rie-fu/anata-ga-koko-ni-iru-riyuu"
+duration = "3:36"
+
+[[tracks]]
+position = 10
+song-id = "rie-fu/home"
+duration = "4:49"
+
+[[tracks]]
+position = 11
+song-id = "rie-fu/romantic"
+duration = "4:26"
+
+[[tracks]]
+position = 12
+song-id = "rie-fu/in-the-airplane"
+duration = "4:00"
+
+[[tracks]]
+position = 13
+song-id = "rie-fu/present"
+duration = "4:36"
+
+[[tracks]]
+position = 14
+song-id = "rie-fu/hitotsu-hitotsu"
+duration = "4:32"
+
+[[tracks]]
+position = 15
+song-id = "rie-fu/for-you"
+duration = "4:05"
+
+[[tracks]]
+position = 16
+song-id = "rie-fu/for-your-wedding"
+duration = "4:28"
