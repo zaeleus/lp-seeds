@@ -1,0 +1,4 @@
+names = [
+  { name = "理想の男性の条件", locale = "ja", original = true },
+  { name = "Risou no Dansei no Jouken", locale = "ja-Latn", default = true },
+]

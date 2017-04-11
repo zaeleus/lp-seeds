@@ -1,0 +1,15 @@
+artist-id = "rie-fu"
+kind = "lp"
+
+names = [
+  { name = "I", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-11-12"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id933457835" },
+  { url = "http://mora.jp/package/43000074/TCJPR0000161869/" },
+]

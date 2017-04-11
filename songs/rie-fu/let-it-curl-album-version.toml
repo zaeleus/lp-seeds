@@ -1,0 +1,3 @@
+names = [
+  { name = "Let It Curl (Album Version)", locale = "ja", original = true, default = true },
+]
