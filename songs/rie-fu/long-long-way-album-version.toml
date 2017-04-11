@@ -1,0 +1,3 @@
+names = [
+  { name = "Long Long Way (Album Version)", locale = "ja", original = true, default = true },
+]
