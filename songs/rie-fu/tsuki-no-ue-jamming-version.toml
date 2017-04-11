@@ -1,0 +1,4 @@
+names = [
+  { name = "ツキノウエ (Jamming Version)", locale = "ja", original = true },
+  { name = "Tsuki no Ue (Jamming Version)", locale = "ja-Latn", default = true },
+]

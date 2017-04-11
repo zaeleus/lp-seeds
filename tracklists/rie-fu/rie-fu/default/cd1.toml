@@ -1,0 +1,74 @@
+medium-ids = [
+  "rie-fu/rie-fu/default/cd1",
+  "rie-fu/rie-fu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rie-fu/waratte-megumi-no-moto-e"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "rie-fu/beautiful-words"
+duration = "2:45"
+
+[[tracks]]
+position = 3
+song-id = "rie-fu/somebody-s-world"
+duration = "4:18"
+
+[[tracks]]
+position = 4
+song-id = "rie-fu/2cm"
+duration = "4:45"
+
+[[tracks]]
+position = 5
+song-id = "rie-fu/i-so-wanted"
+duration = "5:07"
+
+[[tracks]]
+position = 6
+song-id = "rie-fu/decay"
+duration = "3:06"
+
+[[tracks]]
+position = 7
+song-id = "rie-fu/prayers-melodies"
+duration = "3:40"
+
+[[tracks]]
+position = 8
+song-id = "rie-fu/ame-no-hi-ga-sukitte-omotte-mitai"
+duration = "4:14"
+
+[[tracks]]
+position = 9
+song-id = "rie-fu/voice-album-version"
+duration = "3:44"
+
+[[tracks]]
+position = 10
+song-id = "rie-fu/tsuki-no-ue-jamming-version"
+duration = "3:53"
+
+[[tracks]]
+position = 11
+song-id = "rie-fu/shine"
+duration = "3:46"
+
+[[tracks]]
+position = 12
+song-id = "rie-fu/life-is-like-a-boat"
+duration = "4:59"
+
+[[tracks]]
+position = 13
+song-id = "rie-fu/interlude"
+duration = "1:04"
+
+[[tracks]]
+position = 14
+song-id = "rie-fu/decay-english-version"
+duration = "3:12"
