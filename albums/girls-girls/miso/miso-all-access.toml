@@ -1,0 +1,14 @@
+artist-id = "girls-girls/miso"
+kind = "single"
+
+names = [
+  { name = "MiSO ALL ACCESS", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-04-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10051529" },
+]

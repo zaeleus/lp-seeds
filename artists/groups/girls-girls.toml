@@ -7,6 +7,10 @@ names = [
   { name = "GIRLS GIRLS", locale = "ko-Latn", default = true },
 ]
 
+members = [
+  { artist-id = "girls-girls/miso" },
+]
+
 urls = [
   { url = "https://www.youtube.com/channel/UCx89yX7v37cQ7fchXjqt_mQ" },
 ]

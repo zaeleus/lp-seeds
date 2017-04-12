@@ -1,0 +1,5 @@
+names = [
+  { name = "낄끼빠빠 (KKPP)", locale = "ko", original = true },
+  { name = "Kkil Kki Ppa Ppa (KKPP)", locale = "ko-Latn", default = true },
+  { name = "KKPP", locale = "en" },
+]
