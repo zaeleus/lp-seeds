@@ -1,0 +1,14 @@
+artist-id = "davichi/lee-hae-ri"
+kind = "single"
+
+names = [
+  { name = "h", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-04-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10053123" },
+]

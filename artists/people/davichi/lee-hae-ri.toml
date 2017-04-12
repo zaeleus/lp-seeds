@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1985-02-14"
+country = "KR"
+
+names = [
+  { name = "이해리", locale = "ko", kind = "real", original = true },
+  { name = "Lee Hae Ri", locale = "ko-Latn", kind = "real", default = true },
+]

@@ -6,3 +6,8 @@ names = [
   { name = "다비치", locale = "ko", original = true },
   { name = "Davichi", locale = "ko-Latn", default = true },
 ]
+
+# TODO
+members = [
+  { artist-id = "davichi/lee-hae-ri" },
+]
