@@ -1,0 +1,16 @@
+kind = "person"
+started-on = "1976-11-09"
+country = "KR"
+
+names = [
+  { name = "오희정", locale = "ko", kind = "real", original = true },
+  { name = "Oh Hee Jung", locale = "ko-Latn", kind = "real", default = true },
+]
+
+urls = [
+  { url = "https://ohheejung.bandcamp.com/" },
+  { url = "https://www.facebook.com/5heejung" },
+  { url = "https://soundcloud.com/heejung-oh" },
+  { url = "https://twitter.com/ohgigigirl" },
+  { url = "http://www.youtube.com/user/fever5985" },
+]
