@@ -1,0 +1,9 @@
+names = [
+  { name = "칼라 TV (Color TV)", locale = "ko", original = true },
+  { name = "Color TV", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=yYs5vBgmgi4", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=Dvs-rOu-bq8", name = "Music Video" },
+]

@@ -1,0 +1,14 @@
+artist-id = "wassup"
+kind = "ep"
+
+names = [
+  { name = "COLOR TV", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-04-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10054539" },
+]

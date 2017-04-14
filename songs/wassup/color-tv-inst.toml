@@ -1,0 +1,4 @@
+names = [
+  { name = "칼라 TV (Color TV) (Inst.)", locale = "ko", original = true },
+  { name = "Color TV (Inst.)", locale = "en", default = true },
+]

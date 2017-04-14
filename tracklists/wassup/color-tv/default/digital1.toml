@@ -1,0 +1,28 @@
+medium-ids = [
+  "wassup/color-tv/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wassup/color-tv"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "wassup/lover"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "wassup/lalala"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "wassup/areumdawo"
+duration = "3:33"
+
+[[tracks]]
+position = 5
+song-id = "wassup/color-tv-inst"
+duration = "3:13"
