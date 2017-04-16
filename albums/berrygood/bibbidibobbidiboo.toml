@@ -1,0 +1,15 @@
+artist-id = "berrygood"
+kind = "single"
+
+names = [
+  { name = "비비디바비디부", locale = "ko", original = true },
+  { name = "BibbidiBobbidiBoo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-04-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10055348" },
+]
