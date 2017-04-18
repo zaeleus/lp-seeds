@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheon-so-ah/naneun-jom-yeppeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheon-so-ah/naneun-jom-yeppeo"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "cheon-so-ah/naneun-jom-yeppeo-inst"
+duration = "3:04"
