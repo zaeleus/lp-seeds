@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheon-dan-bi/eoneu-bomui-geojismal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheon-dan-bi/eoneu-bomui-geojismal"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "cheon-dan-bi/eoneu-bomui-geojismal-inst"
+duration = "3:52"

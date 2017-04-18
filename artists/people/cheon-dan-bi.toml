@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1986-04-27"
+country = "KR"
+
+names = [
+  { name = "천단비", locale = "ko", kind = "real", original = true },
+  { name = "Cheon Dan Bi", locale = "ko-Latn", kind = "real", default = true },
+]

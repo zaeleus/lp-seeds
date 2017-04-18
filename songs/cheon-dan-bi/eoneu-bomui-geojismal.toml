@@ -1,0 +1,10 @@
+names = [
+  { name = "어느 봄의 거짓말", locale = "ko", original = true },
+  { name = "Eoneu Bomui Geojismal", locale = "ko-Latn", default = true },
+  { name = "Lieland in the Springtime", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=HlPajjrO0gQ", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=c3IwFSABcJA", name = "Music Video" },
+]

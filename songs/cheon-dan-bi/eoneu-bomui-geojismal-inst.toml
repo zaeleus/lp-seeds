@@ -1,0 +1,5 @@
+names = [
+  { name = "어느 봄의 거짓말 (Inst.)", locale = "ko", original = true },
+  { name = "Eoneu Bomui Geojismal (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Lieland in the Springtime (Inst.)", locale = "en" },
+]
