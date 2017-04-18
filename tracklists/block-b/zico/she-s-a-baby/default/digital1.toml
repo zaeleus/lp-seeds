@@ -1,0 +1,8 @@
+medium-ids = [
+  "block-b/zico/she-s-a-baby/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "block-b/zico/she-s-a-baby"
+duration = "2:45"
