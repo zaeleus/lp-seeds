@@ -1,0 +1,33 @@
+medium-ids = [
+  "2ne1/minzy/minzy-work-01-uno/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2ne1/minzy/ninano-feat-flowsik"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "2ne1/minzy/superwoman"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "2ne1/minzy/ing-alssong-dalssong"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "2ne1/minzy/flashlight-feat-jay-park"
+duration = "3:15"
+
+[[tracks]]
+position = 5
+song-id = "2ne1/minzy/beautiful-lie"
+duration = "4:16"
+
+[[tracks]]
+position = 6
+song-id = "2ne1/minzy/ninano-english-rap-ver-feat-flowsik"
+duration = "3:11"

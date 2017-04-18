@@ -1,0 +1,4 @@
+names = [
+  { name = "니나노 (Feat. 플로우식 (Flowsik))", locale = "ko", original = true },
+  { name = "Ninano (Feat. Flowsik)", locale = "ko-Latn", default = true },
+]
