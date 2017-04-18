@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1991-06-06"
+country = "KR"
+
+names = [
+  { name = "장재인", locale = "ko", kind = "real", original = true },
+  { name = "Jang Jae In", locale = "ko-Latn", kind = "real", default = true },
+]
