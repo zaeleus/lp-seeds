@@ -1,0 +1,4 @@
+names = [
+  { name = "Everyday I Love You (Feat. 하슬) (ViVi)", locale = "ko", original = true },
+  { name = "Everyday I Love You (Feat. HaSeul) (ViVi)", locale = "ko-Latn", default = true },
+]

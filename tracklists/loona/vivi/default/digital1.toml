@@ -1,0 +1,13 @@
+medium-ids = [
+  "loona/vivi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/everyday-i-love-you-feat-haseul-vivi"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "loona/everyday-i-need-you-feat-jinsoul-vivi"
+duration = "3:07"
