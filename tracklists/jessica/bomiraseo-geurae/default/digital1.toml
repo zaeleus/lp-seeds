@@ -1,0 +1,13 @@
+medium-ids = [
+  "jessica/bomiraseo-geurae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jessica/bomiraseo-geurae"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "jessica/bomiraseo-geurae-inst"
+duration = "3:28"

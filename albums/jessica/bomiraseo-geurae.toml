@@ -1,0 +1,16 @@
+artist-id = "jessica"
+kind = "single"
+
+names = [
+  { name = "봄이라서 그래", locale = "ko", original = true },
+  { name = "Bomiraseo Geurae", locale = "ko-Latn", default = true },
+  { name = "It's Spring", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-04-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10055767" },
+]

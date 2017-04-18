@@ -1,0 +1,5 @@
+names = [
+  { name = "봄이라서 그래 (Inst.)", locale = "ko", original = true },
+  { name = "Bomiraseo Geurae (Inst.)", locale = "ko-Latn", default = true },
+  { name = "It's Spring (Inst.)", locale = "en" },
+]
