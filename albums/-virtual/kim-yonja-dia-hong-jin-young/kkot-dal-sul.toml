@@ -1,11 +1,10 @@
+artist-id = "-virtual/kim-yonja-dia-hong-jin-young"
+kind = "single"
+
 names = [
   { name = "꽃, 달, 술", locale = "ko", original = true },
   { name = "Kkot, Dal, Sul", locale = "ko-Latn", default = true },
   { name = "You Are My Flower", locale = "en" },
-]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=ELunqIocey0", name = "Music Video" },
 ]
 
 [[artist-credits]]
@@ -25,3 +24,11 @@ separator = ", "
 
 [[artist-credits]]
 artist-id = "hong-jin-young"
+
+[[releases]]
+released-on = "2017-04-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10052303" },
+]
