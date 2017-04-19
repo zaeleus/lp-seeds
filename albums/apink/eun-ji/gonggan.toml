@@ -11,6 +11,13 @@ urls = [
   { url = "https://www.youtube.com/watch?v=3jfRI5SpraM", name = "Rolling Music" },
 ]
 
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
+
 [[releases]]
 released-on = "2017-04-10"
 country = "KR"
