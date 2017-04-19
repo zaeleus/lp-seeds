@@ -1,0 +1,8 @@
+names = [
+  { name = "시간이 없어 (Feat. 김청하)", locale = "ko", original = true },
+  { name = "Sigani Eopseo (Feat. Kim Chung Ha)", locale = "ko-Latn", default = true },
+]
+
+contributions = [
+  { artist-id = "i-o-i/kim-chung-ha", kind = "performer" },
+]

@@ -1,0 +1,19 @@
+names = [
+  { name = "꽃, 달, 술", locale = "ko", original = true },
+  { name = "Kkot, Dal, Sul", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "kim-yonja"
+names = [
+  { name = "金蓮子", locale = "ja", kind = "real" },
+  { name = "Kim Yonja", locale = "ja-Latn", kind = "real" },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "dia"
+separator = ", "
+
+[[artist-credits]]
+artist-id = "hong-jin-young"

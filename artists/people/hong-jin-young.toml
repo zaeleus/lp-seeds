@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1985-08-09"
+country = "KR"
+
+names = [
+  { name = "홍진영", locale = "ko", kind = "real", original = true },
+  { name = "Hong Jin Young", locale = "ko-Latn", kind = "real", default = true },
+]

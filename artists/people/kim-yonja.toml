@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1959-01-25"
+country = "KR"
+
+names = [
+  { name = "김연자", locale = "ko", kind = "real", original = true },
+  { name = "Kim Yonja", locale = "ko-Latn", kind = "real", default = true },
+  { name = "金蓮子", locale = "ja", kind = "real" },
+  { name = "Kim Yonja", locale = "ja-Latn", kind = "real" },
+]

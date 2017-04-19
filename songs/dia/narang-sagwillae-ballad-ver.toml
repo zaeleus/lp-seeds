@@ -1,0 +1,5 @@
+names = [
+  { name = "나랑 사귈래 (Ballad Ver.)", locale = "ko", original = true },
+  { name = "Narang Sagwillae (Ballad Ver.)", locale = "ko-Latn", default = true },
+  { name = "Will You Go Out with Me (Ballad Ver.)", locale = "en" },
+]
