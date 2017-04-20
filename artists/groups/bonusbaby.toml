@@ -6,3 +6,11 @@ names = [
   { name = " 보너스베이비", locale = "ko", original = true },
   { name = "BONUSbaby", locale = "ko-Latn", default = true },
 ]
+
+urls = [
+  { url = "http://cafe.daum.net/bonusbaby" },
+  { url = "https://twitter.com/bonusbaby_twt" },
+  { url = "https://www.facebook.com/bonusbaby" },
+  { url = "https://www.instagram.com/bonusbaby_ig/" },
+  { url = "https://www.youtube.com/channel/UCQWTROGFzVaHDanfSk9TbCQ" },
+]
