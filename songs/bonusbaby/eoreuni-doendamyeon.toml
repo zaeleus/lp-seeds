@@ -1,0 +1,9 @@
+names = [
+  { name = "어른이 된다면", locale = "ko", original = true },
+  { name = "Eoreuni Doendamyeon", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=-rb0WemS748", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=kqrVRy0Ayio", name = "Music Video" },
+]

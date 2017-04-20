@@ -1,0 +1,15 @@
+artist-id = "bonusbaby"
+kind = "single"
+
+names = [
+  { name = "어른이 된다면", locale = "ko", original = true },
+  { name = "Eoreuni Doendamyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-04-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10056859" },
+]

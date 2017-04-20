@@ -1,0 +1,13 @@
+medium-ids = [
+  "bonusbaby/eoreuni-doendamyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bonusbaby/eoreuni-doendamyeon"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "bonusbaby/eoreuni-doendamyeon-inst"
+duration = "2:57"
