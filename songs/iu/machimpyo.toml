@@ -1,0 +1,5 @@
+names = [
+  { name = "마침표", locale = "ko", original = true },
+  { name = "Machimpyo", locale = "ko-Latn", default = true },
+  { name = "Full Stop", locale = "en" },
+]

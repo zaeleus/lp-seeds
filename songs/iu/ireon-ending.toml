@@ -1,0 +1,5 @@
+names = [
+  { name = "이런 엔딩", locale = "ko", original = true },
+  { name = "Ireon Ending", locale = "ko-Latn", default = true },
+  { name = "Ending Scene", locale = "en" },
+]

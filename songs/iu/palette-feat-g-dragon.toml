@@ -1,0 +1,4 @@
+names = [
+  { name = "팔레트 (Feat. G-DRAGON)", locale = "ko", original = true },
+  { name = "Palette (Feat. G-DRAGON)", locale = "en", default = true },
+]
