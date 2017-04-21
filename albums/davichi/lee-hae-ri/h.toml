@@ -1,14 +1,23 @@
 artist-id = "davichi/lee-hae-ri"
-kind = "single"
+kind = "ep"
 
 names = [
   { name = "h", locale = "ko", original = true, default = true },
 ]
 
 [[releases]]
-released-on = "2017-04-12"
+released-on = "2017-04-19"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
   { url = "http://www.melon.com/album/detail.htm?albumId=10053123" },
+]
+
+[[releases]]
+released-on = "2017-04-19"
+country = "KR"
+catalog-number = "CMAC-11038"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.hanteo.com/search/album_info.asp?mcode=034204045" },
 ]

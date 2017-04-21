@@ -1,0 +1,10 @@
+names = [
+  { name = "미운 날", locale = "ko", original = true },
+  { name = "Miun Nal", locale = "ko-Latn", default = true },
+  { name = "Hate That I Miss You", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=zPyP3mUmUME", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=1IXfIGy7kUI", name = "Music Video" },
+]

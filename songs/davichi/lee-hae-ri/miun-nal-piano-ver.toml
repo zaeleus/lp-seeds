@@ -1,0 +1,5 @@
+names = [
+  { name = "미운 날 (Piano Ver.)", locale = "ko", original = true },
+  { name = "Miun Nal (Piano Ver.)", locale = "ko-Latn", default = true },
+  { name = "Hate That I Miss You (Piano Ver.)", locale = "en" },
+]
