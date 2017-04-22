@@ -38,7 +38,12 @@ names = [
 ]
 
 [[members]]
-artist-id = "i-o-i/kim-chung-ha"
+[[members.artist-credits]]
+artist-id = "chungha"
+names = [
+  { name = "김청하", locale = "ko", original = true },
+  { name = "Kim Chung Ha", locale = "ko-Latn", default = true },
+]
 
 [[members]]
 artist-id = "i-o-i/kim-do-yeon"

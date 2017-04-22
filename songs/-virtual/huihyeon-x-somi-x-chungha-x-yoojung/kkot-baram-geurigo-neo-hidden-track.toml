@@ -17,7 +17,11 @@ artist-id = "i-o-i/jeon-so-mi"
 separator = " X "
 
 [[artist-credits]]
-artist-id = "i-o-i/kim-chung-ha"
+artist-id = "chungha"
+names = [
+  { name = "김청하", locale = "ko", original = true },
+  { name = "Kim Chung Ha", locale = "ko-Latn", default = true },
+]
 separator = " X "
 
 [[artist-credits]]

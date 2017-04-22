@@ -1,0 +1,16 @@
+artist-id = "chungha"
+kind = "single"
+
+names = [
+  { name = "월화수목금토일", locale = "ko", original = true },
+  { name = "Wol Hwa Su Mok Geum To Il", locale = "ko-Latn", default = true },
+  { name = "Week", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-04-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10057080" },
+]

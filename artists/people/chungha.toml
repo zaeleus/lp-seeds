@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1996-02-09"
+country = "KR"
+
+names = [
+  { name = "청하", locale = "ko", kind = "stage", original = true },
+  { name = "Chungha", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김청하", locale = "ko", kind = "real" },
+  { name = "Kim Chung Ha", locale = "ko-Latn", kind = "real" },
+]
+
+[metadata]
+blood-type = "B"
+height = 161
+weight = 44
