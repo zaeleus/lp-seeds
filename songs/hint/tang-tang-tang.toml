@@ -1,0 +1,8 @@
+names = [
+  { name = "탕탕탕", locale = "ko", original = true },
+  { name = "Tang Tang Tang", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=In3-Jd6kYEg", name = "Music Video" },
+]
