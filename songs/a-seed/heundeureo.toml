@@ -1,0 +1,8 @@
+names = [
+  { name = "흔들어", locale = "ko", original = true },
+  { name = "Heundeureo", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=9ZHcQm1Nhy0", name = "Music Video" },
+]

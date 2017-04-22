@@ -1,0 +1,12 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "에이시드", locale = "ko", original = true },
+  { name = "A-seed", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/channel/UCNJfFmgkOP-QJnV8FB16-aQ" },
+]

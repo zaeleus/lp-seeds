@@ -1,0 +1,13 @@
+medium-ids = [
+  "a-seed/heundeureo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "a-seed/heundeureo"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "a-seed/heundeureo-inst"
+duration = "3:12"
