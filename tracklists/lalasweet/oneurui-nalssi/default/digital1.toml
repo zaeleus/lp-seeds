@@ -1,0 +1,8 @@
+medium-ids = [
+  "lalasweet/oneurui-nalssi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lalasweet/oneurui-nalssi"
+duration = "3:25"
