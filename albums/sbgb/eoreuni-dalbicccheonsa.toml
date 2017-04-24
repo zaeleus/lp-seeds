@@ -1,0 +1,15 @@
+artist-id = "sbgb"
+kind = "single"
+
+names = [
+  { name = "어른이, 달빛천사", locale = "ko", original = true },
+  { name = "Eoreuni, Dalbicccheonsa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-04-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10052158" },
+]

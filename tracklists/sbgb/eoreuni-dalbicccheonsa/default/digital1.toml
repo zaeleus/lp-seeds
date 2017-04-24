@@ -1,0 +1,13 @@
+medium-ids = [
+  "sbgb/eoreuni-dalbicccheonsa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sbgb/eoreuni"
+duration = "2:55"
+
+[[tracks]]
+position = 2
+song-id = "sbgb/dalbicccheonsa-opening"
+duration = "2:20"

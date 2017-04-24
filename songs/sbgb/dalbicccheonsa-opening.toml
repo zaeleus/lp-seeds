@@ -1,0 +1,8 @@
+names = [
+  { name = "달빛천사 (Opening)", locale = "ko", original = true },
+  { name = "Dalbicccheonsa (Opening)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=HpVI77DJtXY", name = "Teaser" },
+]

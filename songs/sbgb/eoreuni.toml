@@ -1,0 +1,9 @@
+names = [
+  { name = "어른이", locale = "ko", original = true },
+  { name = "Eoreuni", locale = "ko-Latn", default = true },
+  { name = "Ki-dult", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=BOxxTbpp9j4", name = "Music Video" },
+]
