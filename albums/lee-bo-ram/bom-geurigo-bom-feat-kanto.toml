@@ -1,0 +1,15 @@
+artist-id = "lee-bo-ram"
+kind = "single"
+
+names = [
+  { name = "봄 그리고 봄 (Feat. 칸토)", locale = "ko", original = true },
+  { name = "Bom Geurigo Bom (Feat. Kanto)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-04-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10052153" },
+]

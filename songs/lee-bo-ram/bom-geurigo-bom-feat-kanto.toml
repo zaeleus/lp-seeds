@@ -1,0 +1,4 @@
+names = [
+  { name = "봄 그리고 봄 (Feat. 칸토)", locale = "ko", original = true },
+  { name = "Bom Geurigo Bom (Feat. Kanto)", locale = "ko-Latn", default = true },
+]

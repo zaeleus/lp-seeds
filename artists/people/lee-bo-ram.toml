@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1987-02-17"
+country = "KR"
+
+names = [
+  { name = "이보람", locale = "ko", kind = "real", original = true },
+  { name = "Lee Bo Ram", locale = "ko-Latn", kind = "real", default = true },
+]
