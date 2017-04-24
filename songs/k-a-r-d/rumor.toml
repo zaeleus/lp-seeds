@@ -1,0 +1,9 @@
+names = [
+  { name = "RUMOR", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=xU6gCEQugGg", name = "Key Point of Dance" },
+  { url = "https://www.youtube.com/watch?v=TjFpnAn5sY8", name = "Trailer" },
+  { url = "https://www.youtube.com/watch?v=8LPjJ1p4dYs", name = "Music Video" },
+]

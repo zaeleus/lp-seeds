@@ -1,0 +1,8 @@
+medium-ids = [
+  "k-a-r-d/rumor/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "k-a-r-d/rumor"
+duration = "3:37"
