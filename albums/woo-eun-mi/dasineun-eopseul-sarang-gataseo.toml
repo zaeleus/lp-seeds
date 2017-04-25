@@ -1,0 +1,15 @@
+artist-id = "woo-eun-mi"
+kind = "single"
+
+names = [
+  { name = "다시는 없을 사랑 같아서", locale = "ko", original = true },
+  { name = "Dasineun Eopseul Sarang Gataseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-04-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10057438" },
+]

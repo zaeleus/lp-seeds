@@ -1,0 +1,13 @@
+medium-ids = [
+  "woo-eun-mi/dasineun-eopseul-sarang-gataseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-eun-mi/dasineun-eopseul-sarang-gataseo"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "woo-eun-mi/dasineun-eopseul-sarang-gataseo-inst"
+duration = "4:00"
