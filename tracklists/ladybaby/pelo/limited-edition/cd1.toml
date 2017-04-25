@@ -1,0 +1,23 @@
+medium-ids = [
+  "ladybaby/pelo/limited-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ladybaby/pelo"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "ladybaby/lady-baby-blue"
+duration = "5:26"
+
+[[tracks]]
+position = 3
+song-id = "ladybaby/pelo-off-vocal-ver"
+duration = "3:36"
+
+[[tracks]]
+position = 4
+song-id = "ladybaby/lady-baby-blue-off-vocal-ver"
+duration = "5:26"

@@ -1,0 +1,43 @@
+artist-id = "ladybaby"
+kind = "single"
+
+names = [
+  { name = "Pelo", locale = "ja", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "ladybaby"
+names = [
+  { name = "The Idol Formerly Known As LADYBABY", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-04-12"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1224830190" },
+  { url = "http://mora.jp/package/43000014/KICM-1756/" },
+]
+
+[[releases]]
+released-on = "2017-04-12"
+country = "JP"
+catalog-number = "KICM-91755"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://ladybaby-fc.com/discography/720" },
+  { url = "http://www.oricon.co.jp/prof/653371/products/1218624/1/" },
+]
+
+[[releases]]
+released-on = "2017-04-12"
+country = "JP"
+catalog-number = "KICM-1756"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://ladybaby-fc.com/discography/720" },
+  { url = "http://www.oricon.co.jp/prof/653371/products/1218624/1/" },
+]
