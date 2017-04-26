@@ -1,0 +1,10 @@
+names = [
+  { name = "어마어마해", locale = "ko", original = true },
+  { name = "Eomaeomahae", locale = "ko-Latn", default = true },
+  { name = "Wonderful Love", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=PkQXDu1BXIQ", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=TkSv0TkvTRs", name = "Music Video" },
+]

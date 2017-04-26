@@ -1,0 +1,16 @@
+artist-id = "momoland"
+kind = "single"
+
+names = [
+  { name = "어마어마해", locale = "ko", original = true },
+  { name = "Eomaeomahae", locale = "ko-Latn", default = true },
+  { name = "Wonderful Love", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-04-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10058095" },
+]
