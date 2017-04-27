@@ -1,0 +1,10 @@
+names = [
+  { name = "알 수 없는 비밀 (Sonatine)", locale = "ko", original = true },
+  { name = "Al Su Eopsneun Bimil (Sonatine)", locale = "ko-Latn", default = true },
+  { name = "Sonatine", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=XZffZGjBhHM", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=a6JmCdDs_GM", name = "Music Video" },
+]

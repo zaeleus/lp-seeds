@@ -3,3 +3,7 @@ names = [
   { name = "3 Woreul Gidaryeo (Valentine Girl)", locale = "ko-Latn", default = true },
   { name = "Valentine Girl", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=1aCGLdRx0AE", name = "Teaser" },
+]
