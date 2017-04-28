@@ -1,0 +1,14 @@
+artist-id = "suran"
+kind = "single"
+
+names = [
+  { name = "WINE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-04-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10058598" },
+]

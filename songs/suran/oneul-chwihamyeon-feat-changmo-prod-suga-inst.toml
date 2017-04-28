@@ -1,0 +1,5 @@
+names = [
+  { name = "오늘 취하면 (Prod. SUGA) (Inst.)", locale = "ko", original = true },
+  { name = "Oneul Chwihamyeon (Feat. CHANGMO) (Prod. SUGA) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "If I Get Drunk Today (Feat. CHANGMO) (Prod. SUGA) (Inst.)", locale = "en" },
+]
