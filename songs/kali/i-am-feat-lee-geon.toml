@@ -1,0 +1,8 @@
+names = [
+  { name = "I Am (Feat. 이건)", locale = "ko", original = true },
+  { name = "I Am (Feat. Lee Geon)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=o6_L8sJIH8E", name = "Music Video" },
+]

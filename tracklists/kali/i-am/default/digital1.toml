@@ -1,0 +1,13 @@
+medium-ids = [
+  "kali/i-am/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kali/i-am-feat-lee-geon"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "kali/i-am-inst"
+duration = "3:43"
