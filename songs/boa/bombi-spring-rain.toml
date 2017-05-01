@@ -1,0 +1,5 @@
+names = [
+  { name = "봄비 (Spring Rain)", locale = "ko", original = true },
+  { name = "Bombi (Spring Rain)", locale = "ko-Latn", default = true },
+  { name = "Spring Rain", locale = "en" },
+]

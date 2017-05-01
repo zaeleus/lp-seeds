@@ -1,0 +1,16 @@
+artist-id = "boa"
+kind = "single"
+
+names = [
+  { name = "봄비 (Spring Rain)", locale = "ko", original = true },
+  { name = "Bombi (Spring Rain)", locale = "ko-Latn", default = true },
+  { name = "Spring Rain", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-04-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10059213" },
+]

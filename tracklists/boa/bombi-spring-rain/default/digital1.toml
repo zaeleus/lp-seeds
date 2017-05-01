@@ -1,0 +1,13 @@
+medium-ids = [
+  "boa/bombi-spring-rain/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boa/bombi-spring-rain"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "boa/bombi-spring-rain-inst"
+duration = "3:38"
