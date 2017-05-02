@@ -1,0 +1,10 @@
+names = [
+  { name = "지금, 우리", locale = "ko", original = true },
+  { name = "Jigeum, Uri", locale = "ko-Latn", default = true },
+  { name = "Now, We", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=e4tsywy_OZY", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=wMCoQaE0LvQ", name = "Music Video" },
+]

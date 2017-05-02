@@ -1,6 +1,6 @@
 names = [
   { name = "나의 연인 (Yoo Ji-Ae & Seo Ji-Soo)", locale = "ko", original = true },
-  { name = "Naui Yeonin", locale = "ko-Latn", default = true },
+  { name = "Naui Yeonin (Yoo Ji-Ae & Seo Ji-Soo)", locale = "ko-Latn", default = true },
 ]
 
 contributions = [

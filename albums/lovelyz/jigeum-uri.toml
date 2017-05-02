@@ -1,0 +1,21 @@
+artist-id = "lovelyz"
+kind = "lp"
+
+names = [
+  { name = "지금, 우리", locale = "ko-Latn", original = true },
+  { name = "Jigeum, Uri", locale = "ko-Latn", default = true },
+  { name = "Now, We", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=FfqHSvjeVo0", name = "Prologue Film (Peek Ver.)" },
+  { url = "https://www.youtube.com/watch?v=GnuERzwhqAg", name = "Prologue Film (Full Ver.)" },
+]
+
+[[releases]]
+released-on = "2017-05-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10059493" },
+]
