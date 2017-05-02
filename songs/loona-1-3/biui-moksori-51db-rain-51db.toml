@@ -1,5 +1,5 @@
 names = [
   { name = "비의 목소리 51db (Rain 51db)", locale = "ko", original = true },
-  { name = "Biui Moksori 51db  (Rain 51db)", locale = "ko-Latn", default = true },
+  { name = "Biui Moksori 51db (Rain 51db)", locale = "ko-Latn", default = true },
   { name = "Rain 51db", locale = "en" },
 ]
