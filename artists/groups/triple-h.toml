@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "트리플 H", locale = "ko", original = true },
+  { name = "Triple H", locale = "ko-Latn", default = true },
+]

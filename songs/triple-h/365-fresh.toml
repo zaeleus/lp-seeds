@@ -1,0 +1,10 @@
+names = [
+  { name = "365 FRESH", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=_daZpcdfUiY", name = "Teaser (HyunA)" },
+  { url = "https://www.youtube.com/watch?v=gC56lAHnWpA", name = "Teaser (Hui)" },
+  { url = "https://www.youtube.com/watch?v=rZP0WSOJs3o", name = "Teaser (E'dawn)" },
+  { url = "https://www.youtube.com/watch?v=qsJd9Ixa-ow", name = "Music Video" },
+]

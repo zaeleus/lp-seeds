@@ -1,0 +1,28 @@
+medium-ids = [
+  "triple-h/199x/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "triple-h/baragi"
+duration = "2:29"
+
+[[tracks]]
+position = 2
+song-id = "triple-h/365-fresh"
+duration = "3:39"
+
+[[tracks]]
+position = 3
+song-id = "triple-h/kkumiya-saengsiya"
+duration = "3:29"
+
+[[tracks]]
+position = 4
+song-id = "triple-h/girl-girl-girl"
+duration = "3:18"
+
+[[tracks]]
+position = 5
+song-id = "triple-h/365-fresh-inst"
+duration = "3:39"
