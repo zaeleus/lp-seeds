@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1991-08-03"
+country = "KR"
+
+names = [
+  { name = "남영주", locale = "ko", kind = "real", original = true },
+  { name = "Nam Young Joo", locale = "ko-Latn", kind = "real", default = true },
+]

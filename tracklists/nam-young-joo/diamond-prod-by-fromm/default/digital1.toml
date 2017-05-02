@@ -1,0 +1,13 @@
+medium-ids = [
+  "nam-young-joo/diamond-prod-by-fromm/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nam-young-joo/diamond-prod-by-fromm"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "nam-young-joo/diamond-prod-by-fromm-mr"
+duration = "3:37"
