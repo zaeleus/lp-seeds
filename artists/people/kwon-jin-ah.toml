@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1997-07-18"
+country = "KR"
+
+names = [
+  { name = "권진아", locale = "ko", kind = "real", original = true },
+  { name = "Kwon Jin Ah", locale = "ko-Latn", kind = "real", default = true },
+]

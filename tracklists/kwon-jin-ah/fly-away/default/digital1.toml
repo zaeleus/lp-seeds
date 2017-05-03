@@ -1,0 +1,13 @@
+medium-ids = [
+  "kwon-jin-ah/fly-away/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kwon-jin-ah/fly-away"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "kwon-jin-ah/fly-away-inst"
+duration = "3:40"
