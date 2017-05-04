@@ -17,5 +17,7 @@ released-on = "2017-05-02"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
+  { url = "https://itunes.apple.com/us/album/id1232178631" },
   { url = "http://www.melon.com/album/detail.htm?albumId=10059493" },
+  { url = "https://open.spotify.com/album/7DWUo61Mfyjud0ds8CT5Nu" },
 ]
