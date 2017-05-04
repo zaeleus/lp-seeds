@@ -1,0 +1,14 @@
+artist-id = "maddy"
+kind = "single"
+
+names = [
+  { name = "Rollercoaster", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-11-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10018916" },
+]

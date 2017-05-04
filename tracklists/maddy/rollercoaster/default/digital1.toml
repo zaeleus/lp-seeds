@@ -1,0 +1,13 @@
+medium-ids = [
+  "maddy/rollercoaster/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "maddy/rollercoaster"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "maddy/rollercoaster-inst"
+duration = "3:06"
