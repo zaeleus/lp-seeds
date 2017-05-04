@@ -1,0 +1,8 @@
+medium-ids = [
+  "maddy/still-dreamin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "maddy/still-dreamin"
+duration = "3:22"
