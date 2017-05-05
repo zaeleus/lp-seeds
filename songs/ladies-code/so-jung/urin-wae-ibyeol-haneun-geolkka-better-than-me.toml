@@ -1,0 +1,9 @@
+names = [
+  { name = "우린 왜 이별 하는 걸까? (Better than Me)", locale = "ko", original = true },
+  { name = "Urin Wae Ibyeol Haneun Geolkka? (Better than Me)", locale = "ko-Latn", default = true },
+  { name = "Better than Me", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=vRztZiP9gew", name = "Music Video" },
+]
