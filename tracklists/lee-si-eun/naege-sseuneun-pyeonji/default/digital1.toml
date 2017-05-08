@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-si-eun/naege-sseuneun-pyeonji/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-si-eun/naege-sseuneun-pyeonji"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "lee-si-eun/naege-sseuneun-pyeonji-inst"
+duration = "4:15"

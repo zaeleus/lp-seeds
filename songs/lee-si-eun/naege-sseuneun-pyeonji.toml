@@ -1,0 +1,5 @@
+names = [
+  { name = "나에게 쓰는 편지", locale = "ko", original = true },
+  { name = "Naege Sseuneun Pyeonji", locale = "ko-Latn", default = true },
+  { name = "A Letter to Me", locale = "en" },
+]
