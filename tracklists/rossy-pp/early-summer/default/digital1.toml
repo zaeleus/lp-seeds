@@ -1,0 +1,23 @@
+medium-ids = [
+  "rossy-pp/early-summer/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rossy-pp/i-know"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "rossy-pp/early-summer"
+duration = "4:08"
+
+[[tracks]]
+position = 3
+song-id = "rossy-pp/gapjagi-naege-on-suddenly-i-realized"
+duration = "3:09"
+
+[[tracks]]
+position = 4
+song-id = "rossy-pp/o-summer"
+duration = "2:07"

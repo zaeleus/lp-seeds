@@ -1,0 +1,14 @@
+kind = "person"
+started-on = "1984-05-11"
+country = "KR"
+
+names = [
+  { name = "로지피피", locale = "ko", kind = "stage", original = true },
+  { name = "Rossy PP", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "류성희", locale = "ko", kind = "real" },
+  { name = "Ryu Seong Hee", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "http://www.melon.com/artist/timeline.htm?artistId=186509" },
+]

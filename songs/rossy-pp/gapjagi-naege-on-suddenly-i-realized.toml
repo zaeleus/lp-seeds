@@ -1,0 +1,5 @@
+names = [
+  { name = "갑자기 나에게 온 (Suddenly I Realized)", locale = "ko", original = true },
+  { name = "Gapjagi Naege On (Suddenly I Realized)", locale = "ko-Latn", default = true },
+  { name = "Suddenly I Realized", locale = "en" },
+]
