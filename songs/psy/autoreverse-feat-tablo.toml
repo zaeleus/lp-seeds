@@ -1,0 +1,4 @@
+names = [
+  { name = "오토리버스 (Feat. TABLO)", locale = "ko", original = true },
+  { name = "Autoreverse (Feat. TABLO)", locale = "en", default = true },
+]

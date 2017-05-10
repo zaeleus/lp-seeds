@@ -1,0 +1,4 @@
+names = [
+  { name = "마지막 장면 (Feat. 이성경)", locale = "ko", original = true },
+  { name = "Majimak Jangmyeon (Feat. Lee Sung Kyung)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1977-12-31"
+country = "KR"
+
+names = [
+  { name = "싸이", locale = "ko", kind = "stage", original = true },
+  { name = "PSY", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박재상", locale = "ko", kind = "real" },
+  { name = "Park Jae Sang", locale = "ko-Latn", kind = "real" },
+]
