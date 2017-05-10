@@ -1,0 +1,7 @@
+kind = "group"
+started-on = "2014"
+country = "KR"
+
+names = [
+  { name = "WINNER", locale = "ko", original = true, default = true },
+]

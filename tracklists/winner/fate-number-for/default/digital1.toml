@@ -1,0 +1,13 @@
+medium-ids = [
+  "winner/fate-number-for/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "winner/really-really"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "winner/fool"
+duration = "3:41"

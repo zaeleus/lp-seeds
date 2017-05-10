@@ -1,0 +1,14 @@
+artist-id = "winner"
+kind = "single"
+
+names = [
+  { name = "FATE NUMBER FOR", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-04-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10051659" },
+]
