@@ -1,0 +1,13 @@
+medium-ids = [
+  "laysha/chocolate-cream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "laysha/chocolate-cream-feat-nassun"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "laysha/chocolate-cream-inst"
+duration = "3:08"

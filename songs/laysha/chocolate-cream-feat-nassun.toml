@@ -1,0 +1,8 @@
+names = [
+  { name = "Chocolate Cream (Feat. 낯선)", locale = "ko", original = true },
+  { name = "Chocolate Cream (Feat. Nassun)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=HfySji7kNi0", name = "Music Video" },
+]

@@ -1,0 +1,12 @@
+kind = "group"
+started-on = "2015"
+country = "KR"
+
+names = [
+  { name = "레이샤", locale = "ko", original = true },
+  { name = "LAYSHA", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "http://www.melon.com/artist/timeline.htm?artistId=861274" },
+]
