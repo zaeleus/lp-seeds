@@ -1,0 +1,13 @@
+medium-ids = [
+  "laysha/party-tonight/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "laysha/party-tonight"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "laysha/party-tonight-inst"
+duration = "3:18"
