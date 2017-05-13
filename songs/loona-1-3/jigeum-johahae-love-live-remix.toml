@@ -1,0 +1,5 @@
+names = [
+  { name = "지금, 좋아해 (Love & Live) (Remix)", locale = "ko", original = true },
+  { name = "Jigeum, Johahae (Love & Live) (Remix)", locale = "ko-Latn", default = true },
+  { name = "Love & Live (Remix)", locale = "en" },
+]
