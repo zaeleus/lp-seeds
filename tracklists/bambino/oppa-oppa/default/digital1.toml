@@ -1,0 +1,13 @@
+medium-ids = [
+  "bambino/oppa-oppa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bambino/oppa-oppa"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "bambino/oppa-oppa-inst"
+duration = "3:30"
