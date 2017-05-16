@@ -1,0 +1,9 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "로켓트 아가씨", locale = "ko", kind = "stage", original = true },
+  { name = "Rocket Agassi", locale = "ko-Latn", kind = "stage" },
+  { name = "Lady Rocket", locale = "en", kind = "stage", default = true },
+]
