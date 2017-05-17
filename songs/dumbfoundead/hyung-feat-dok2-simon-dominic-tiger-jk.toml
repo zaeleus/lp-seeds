@@ -1,0 +1,8 @@
+names = [
+  { name = "형 (Hyung) (Feat. Dok2, Simon Dominic, Tiger JK)", locale = "ko", original = true },
+  { name = "Hyung (Feat. Dok2, Simon Dominic, Tiger JK)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=tOxGNh3cwJo", name = "Music Video" },
+]

@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1986-02-18"
+country = "US"
+
+names = [
+  { name = "Dumbfoundead", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "Jonathan Park", locale = "en", kind = "real" },
+  { name = "박성만", locale = "ko", kind = "real" },
+  { name = "Park Seong Man", locale = "ko-Latn", kind = "real" },
+]
