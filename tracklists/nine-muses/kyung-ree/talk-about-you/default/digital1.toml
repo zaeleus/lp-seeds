@@ -1,0 +1,18 @@
+medium-ids = [
+  "nine-muses/kyung-ree/talk-about-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/kyung-ree/talk-about-you"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "nine-muses/kyung-ree/talk-about-you-eng-ver"
+duration = "3:55"
+
+[[tracks]]
+position = 3
+song-id = "nine-muses/kyung-ree/talk-about-you-inst"
+duration = "3:55"
