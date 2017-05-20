@@ -1,0 +1,14 @@
+artist-id = "cheeze"
+kind = "single"
+
+names = [
+  { name = "Be There", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-05-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10063579" },
+]
