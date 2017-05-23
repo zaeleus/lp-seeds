@@ -1,0 +1,10 @@
+names = [
+  { name = "나쁜 여자", locale = "ko", original = true },
+  { name = "Nappeun Yeoja", locale = "ko-Latn", default = true },
+  { name = "Bad Girl", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=WmNf71T2sBY", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=QcOz2jpoCkw", name = "Music Video" },
+]
