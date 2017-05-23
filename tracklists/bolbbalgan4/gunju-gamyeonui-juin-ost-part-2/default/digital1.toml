@@ -1,0 +1,13 @@
+medium-ids = [
+  "bolbbalgan4/gunju-gamyeonui-juin-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bolbbalgan4/cheoeumbuteo-neowa-na"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "bolbbalgan4/cheoeumbuteo-neowa-na-inst"
+duration = "3:24"
