@@ -1,0 +1,13 @@
+medium-ids = [
+  "purfles/1-2-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "purfles/1-2-3"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "purfles/1-2-3-inst"
+duration = "3:30"

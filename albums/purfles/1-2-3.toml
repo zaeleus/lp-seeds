@@ -1,0 +1,14 @@
+artist-id = "purfles"
+kind = "single"
+
+names = [
+  { name = "1.2.3", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-10-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2286927" },
+]
