@@ -1,0 +1,16 @@
+artist-id = "purfles"
+kind = "single"
+
+names = [
+  { name = "나쁜짓", locale = "ko", original = true },
+  { name = "Nappeunjit", locale = "ko-Latn", default = true },
+  { name = "A Bad Thing", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-09-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2638046" },
+]

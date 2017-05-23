@@ -1,0 +1,10 @@
+names = [
+  { name = "나쁜짓", locale = "ko", original = true },
+  { name = "Nappeunjit", locale = "ko-Latn", default = true },
+  { name = "A Bad Thing", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=kjzJzE4H0sM", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=vN4F02aA6rU", name = "Music Video" },
+]
