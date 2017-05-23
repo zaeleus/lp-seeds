@@ -1,0 +1,4 @@
+names = [
+  { name = "Eclipse (Prod. by Daniel Obi Klein) (김립)", locale = "ko", original = true },
+  { name = "Eclipse (Prod. by Daniel Obi Klein) (Kim Lip)", locale = "ko-Latn", default = true },
+]
