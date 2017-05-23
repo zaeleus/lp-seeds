@@ -3,7 +3,7 @@ kind = "single"
 
 names = [
   { name = "언니들의 슬램덩크", locale = "ko", original = true },
-  { name = "Eonnideurui Seullaemdeongkeu", locale = "ko-Latn", default = true },
+  { name = "Eonnideurui Slam Dunk", locale = "ko-Latn", default = true },
   { name = "Sister's Slam Dunk", locale = "en" },
 ]
 
