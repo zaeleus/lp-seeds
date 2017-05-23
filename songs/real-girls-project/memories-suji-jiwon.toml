@@ -1,0 +1,8 @@
+names = [
+  { name = "메모리즈 (수지&지원)", locale = "ko", original = true },
+  { name = "Memories (Suji & Jiwon)", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=I6sJQ_BriWU", name = "Music Video" },
+]
