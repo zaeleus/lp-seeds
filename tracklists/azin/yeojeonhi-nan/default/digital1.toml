@@ -1,0 +1,13 @@
+medium-ids = [
+  "azin/yeojeonhi-nan/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "azin/yeojeonhi-nan-inst"
+duration = "4:28"
+
+[[tracks]]
+position = 2
+song-id = "azin/yeojeonhi-nan"
+duration = "4:28"

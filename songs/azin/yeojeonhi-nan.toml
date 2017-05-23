@@ -1,0 +1,9 @@
+names = [
+  { name = "여전히 난", locale = "ko", original = true },
+  { name = "Yeojeonhi Nan", locale = "ko-Latn", default = true },
+  { name = "I Still", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=4VmQsbEA9Ns", name = "Music Video" },
+]
