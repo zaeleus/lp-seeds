@@ -1,0 +1,16 @@
+artist-id = "unnies"
+kind = "single"
+
+names = [
+  { name = "언니들의 슬램덩크 시즌 2", locale = "ko", original = true },
+  { name = "Eonnideurui Slam Dunk Season 2", locale = "ko-Latn", default = true },
+  { name = "Sister's Slam Dunk Season 2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-05-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10061398" },
+]
