@@ -1,0 +1,17 @@
+artist-id = "yasuda-rei"
+kind = "single"
+
+names = [
+  { name = "きみのうた", locale = "ja", original = true },
+  { name = "Kimi no Uta", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-05-24"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1228487225" },
+  { url = "http://mora.jp/package/43000001/4547366310764/" },
+  { url = "http://mora.jp/package/43000001/4547366312775/" },
+]

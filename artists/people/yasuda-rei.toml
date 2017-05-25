@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1993-04-15"
+country = "JP"
+
+names = [
+  { name = "安田レイ", locale = "ja", kind = "stage", original = true },
+  { name = "Yasuda Rei", locale = "ja-Latn", kind = "stage", default = true },
+]
