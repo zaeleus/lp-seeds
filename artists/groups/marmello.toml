@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "마르멜로", locale = "ko", original = true },
+  { name = "MARMELLO", locale = "ko-Latn", default = true },
+]
