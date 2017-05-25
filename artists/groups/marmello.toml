@@ -6,3 +6,7 @@ names = [
   { name = "마르멜로", locale = "ko", original = true },
   { name = "MARMELLO", locale = "ko-Latn", default = true },
 ]
+
+urls = [
+  { url = "http://www.bandmarmello.com/" },
+]
