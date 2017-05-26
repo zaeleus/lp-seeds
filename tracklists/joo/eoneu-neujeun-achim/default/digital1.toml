@@ -1,0 +1,13 @@
+medium-ids = [
+  "joo/eoneu-neujeun-achim/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "joo/eoneu-neujeun-achim"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "joo/eoneu-neujeun-achim-inst"
+duration = "4:15"

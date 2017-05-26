@@ -1,0 +1,9 @@
+names = [
+  { name = "어느 늦은 아침", locale = "ko", original = true },
+  { name = "Eoneu Neujeun Achim", locale = "ko-Latn", default = true },
+  { name = "Late in the Morning", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ecSRL_IYjDE", name = "Music Video" },
+]

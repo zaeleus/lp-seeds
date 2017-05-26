@@ -1,0 +1,16 @@
+artist-id = "joo"
+kind = "single"
+
+names = [
+  { name = "어느 늦은 아침", locale = "ko", original = true },
+  { name = "Eoneu Neujeun Achim", locale = "ko-Latn", default = true },
+  { name = "Late in the Morning", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-05-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10065903" },
+]
