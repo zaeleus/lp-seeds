@@ -1,0 +1,3 @@
+names = [
+  { name = "Send Me To War (Feat. Jessi, Year of the Ox)", locale = "ko", original = true, default = true },
+]

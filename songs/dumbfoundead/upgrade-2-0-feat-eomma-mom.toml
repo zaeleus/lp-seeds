@@ -1,0 +1,5 @@
+names = [
+  { name = "Upgrade (2.0) (Feat. 엄마 (Mom))", locale = "ko", original = true },
+  { name = "Upgrade (2.0) (Feat. Eomma (Mom))", locale = "ko-Latn", default = true },
+  { name = "Upgrade (2.0) (Feat. Mom)", locale = "en" },
+]

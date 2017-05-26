@@ -1,0 +1,5 @@
+names = [
+  { name = "물 (Water) (Feat. G.Soul)", locale = "ko", original = true },
+  { name = "Mul (Water) (Feat. G.Soul)", locale = "ko-Latn", default = true },
+  { name = "Water (Feat. G.Soul)", locale = "en" },
+]

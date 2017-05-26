@@ -1,0 +1,3 @@
+names = [
+  { name = "History of Violence (Feat. Chancellor)", locale = "ko", original = true, default = true },
+]

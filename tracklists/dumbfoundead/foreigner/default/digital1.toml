@@ -1,0 +1,28 @@
+medium-ids = [
+  "dumbfoundead/foreigner/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dumbfoundead/hyung-feat-dok2-simon-dominic-tiger-jk"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "dumbfoundead/history-of-violence-feat-chancellor"
+duration = "4:00"
+
+[[tracks]]
+position = 3
+song-id = "dumbfoundead/upgrade-2-0-feat-eomma-mom"
+duration = "2:51"
+
+[[tracks]]
+position = 4
+song-id = "dumbfoundead/mul-water-feat-g-soul"
+duration = "3:17"
+
+[[tracks]]
+position = 5
+song-id = "dumbfoundead/send-me-to-war-feat-jessi-year-of-the-ox"
+duration = "4:14"
