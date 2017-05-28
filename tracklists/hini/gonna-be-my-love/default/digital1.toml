@@ -1,0 +1,13 @@
+medium-ids = [
+  "hini/gonna-be-my-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hini/gonna-be-my-love"
+duration = "4:08"
+
+[[tracks]]
+position = 2
+song-id = "hini/gonna-be-my-love-inst"
+duration = "4:08"
