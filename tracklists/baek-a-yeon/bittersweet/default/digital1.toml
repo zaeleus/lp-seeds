@@ -1,0 +1,33 @@
+medium-ids = [
+  "baek-a-yeon/bittersweet/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "baek-a-yeon/dalkomhan-binmal-feat-the-barberettes"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "baek-a-yeon/yeonragi-eopseumyeon"
+duration = "3:19"
+
+[[tracks]]
+position = 3
+song-id = "baek-a-yeon/jiltuga-na-feat-park-ji-min"
+duration = "3:48"
+
+[[tracks]]
+position = 4
+song-id = "baek-a-yeon/mabeopsonyeo"
+duration = "3:59"
+
+[[tracks]]
+position = 5
+song-id = "baek-a-yeon/neomeojyeora"
+duration = "3:11"
+
+[[tracks]]
+position = 6
+song-id = "baek-a-yeon/kkeutmoseup"
+duration = "3:41"

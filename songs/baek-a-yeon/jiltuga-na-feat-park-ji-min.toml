@@ -1,0 +1,13 @@
+names = [
+  { name = "질투가 나 (Feat. 박지민)", locale = "ko", original = true },
+  { name = "Jiltuga Na (Feat. Park Ji Min)", locale = "ko-Latn", default = true },
+]
+
+[[contributions]]
+kind = "performer"
+[[contributions.artist-credits]]
+artist-id = "15and/jimin"
+names = [
+  { name = "박지민", locale = "ko" },
+  { name = "Park Ji Min", locale = "ko-Latn" },
+]

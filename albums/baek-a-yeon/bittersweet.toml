@@ -1,0 +1,18 @@
+artist-id = "baek-a-yeon"
+kind = "ep"
+
+names = [
+  { name = "Bittersweet", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=_FaLDL9d3LU", name = "Album Spoiler Live" },
+]
+
+[[releases]]
+released-on = "2017-05-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10066518" },
+]

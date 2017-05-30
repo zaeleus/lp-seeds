@@ -1,0 +1,9 @@
+names = [
+  { name = "달콤한 빈말 (Feat. 바버렛츠)", locale = "ko", original = true },
+  { name = "Dalkomhan Binmal (Feat. The Barberettes)", locale = "ko-Latn", default = true },
+  { name = "Sweet Lies (Feat. The Barberettes)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=dXZzAdEqAkc", name = "Music Video" },
+]
