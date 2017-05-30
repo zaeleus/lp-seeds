@@ -1,0 +1,10 @@
+names = [
+  { name = "MAYDAY", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=hz8GTj0DjQA", name = "Trailer" },
+  { url = "https://www.youtube.com/watch?v=stS6z92AIfY", name = "Dance Teaser" },
+  { url = "https://www.youtube.com/watch?v=DqZJy0Ysju8", name = "Teaser (Are You Curious? Ver.)" },
+  { url = "https://www.youtube.com/watch?v=5YdEEDdxIWg", name = "Music Video" },
+]

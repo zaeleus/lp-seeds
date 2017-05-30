@@ -1,0 +1,9 @@
+names = [
+  { name = "따끔", locale = "ko", original = true },
+  { name = "Ttakkeum", locale = "ko-Latn", default = true },
+  { name = "Lovesick", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=MWkkcRpLam0", name = "Music Video" },
+]

@@ -1,0 +1,18 @@
+medium-ids = [
+  "april/mayday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "april/ttakkeum"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "april/mayday"
+duration = "2:58"
+
+[[tracks]]
+position = 3
+song-id = "april/yes-sir"
+duration = "3:00"
