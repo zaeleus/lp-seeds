@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-generation/hyoyeon/wannabe-feat-san-e/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/hyoyeon/wannabe-feat-san-e"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/hyoyeon/wannabe-feat-san-e-inst"
+duration = "3:02"

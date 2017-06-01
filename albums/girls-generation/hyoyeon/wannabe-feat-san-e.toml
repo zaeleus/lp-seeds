@@ -1,0 +1,21 @@
+artist-id = "girls-generation/hyoyeon"
+kind = "single"
+
+names = [
+  { name = "Wannabe (Feat. San E)", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/hyoyeon"
+names = [
+  { name = "효연", locale = "ko", kind = "stage", original = true },
+  { name = "HYOYEON", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+[[releases]]
+released-on = "2017-06-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10067831" },
+]
