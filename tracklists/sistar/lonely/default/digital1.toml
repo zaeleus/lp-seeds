@@ -1,0 +1,13 @@
+medium-ids = [
+  "sistar/lonely/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sistar/lonely"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "sistar/for-you"
+duration = "3:52"
