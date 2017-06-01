@@ -1,0 +1,10 @@
+names = [
+  { name = "낙서 (Scribbling)", locale = "ko", original = true },
+  { name = "Nakseo (Scribbling)", locale = "ko-Latn", default = true },
+  { name = "Scribbling", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=E2Hg5Gr5Oj4", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=mZl2oLZt_Nc", name = "Music Video (Performance Ver.)" },
+]

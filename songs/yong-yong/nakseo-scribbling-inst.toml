@@ -1,0 +1,5 @@
+names = [
+  { name = "낙서 (Scribbling) (Inst.)", locale = "ko", original = true },
+  { name = "Nakseo (Scribbling) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Scribbling (Inst.)", locale = "en" },
+]

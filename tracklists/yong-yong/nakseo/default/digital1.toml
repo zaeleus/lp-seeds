@@ -1,0 +1,13 @@
+medium-ids = [
+  "yong-yong/nakseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yong-yong/nakseo-scribbling"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "yong-yong/nakseo-scribbling-inst"
+duration = "3:35"
