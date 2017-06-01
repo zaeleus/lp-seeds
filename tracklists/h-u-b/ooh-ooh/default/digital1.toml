@@ -1,0 +1,13 @@
+medium-ids = [
+  "h-u-b/ooh-ooh/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "h-u-b/ooh-ooh"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "h-u-b/ooh-ooh-inst"
+duration = "3:06"
