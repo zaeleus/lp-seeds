@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "에이핑크", locale = "ko", original = true },
-  { name = "APink", locale = "ko-Latn", default = true },
+  { name = "Apink", locale = "ko-Latn", default = true },
 ]
 
 labels = [{ label-id = "a-cube-entertainment" }]

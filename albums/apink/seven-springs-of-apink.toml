@@ -2,7 +2,7 @@ artist-id = "apink"
 kind = "ep"
 
 names = [
-  { name = "Seven Springs of APink", locale = "ko", original = true, default = true },
+  { name = "Seven Springs of Apink", locale = "ko", original = true, default = true },
 ]
 
 [[releases]]

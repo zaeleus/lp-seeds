@@ -3,7 +3,7 @@ started-on = "2014"
 country = "KR"
 
 names = [
-  { name = "APink BnN", locale = "ko", original = true, default = true },
+  { name = "Apink BnN", locale = "ko", original = true, default = true },
 ]
 
 labels = [{ label-id = "a-cube-entertainment" }]

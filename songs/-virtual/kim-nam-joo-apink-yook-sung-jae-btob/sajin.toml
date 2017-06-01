@@ -12,7 +12,7 @@ urls = [
 artist-id = "apink/nam-joo"
 names = [
   { name = "김남주 (에이핑크)", locale = "ko", original = true },
-  { name = "Kim Nam Joo (APink)", locale = "ko-Latn", default = true },
+  { name = "Kim Nam Joo (Apink)", locale = "ko-Latn", default = true },
 ]
 separator = ", "
 
