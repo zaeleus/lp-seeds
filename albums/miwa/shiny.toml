@@ -1,0 +1,17 @@
+artist-id = "miwa"
+kind = "single"
+
+names = [
+  { name = "シャイニー", locale = "ja", original = true },
+  { name = "Shiny", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-05-17"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1232097259" },
+  { url = "http://mora.jp/package/43000001/4547366311570/" },
+  { url = "http://mora.jp/package/43000001/4547366312065/" },
+]
