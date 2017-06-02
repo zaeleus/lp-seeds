@@ -1,0 +1,14 @@
+names = [
+  { name = "따르릉 (작곡가 Ver.)", locale = "ko", original = true },
+  { name = "Ttareureung (Jakgokga Ver.)", locale = "ko-Latn", default = true },
+  { name = "Ring Ring (Composer Ver.)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "kim-young-chul", separator = ", " },
+  { artist-id = "hong-jin-young" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=l95Oi8sssqA", name = "Music Video" },
+]

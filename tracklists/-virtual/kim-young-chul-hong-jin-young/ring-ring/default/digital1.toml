@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/kim-young-chul-hong-jin-young/ring-ring/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/kim-young-chul-hong-jin-young/ttareureung"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/kim-young-chul-hong-jin-young/ttareureung-jakgokga-ver"
+duration = "3:17"

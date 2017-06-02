@@ -1,0 +1,19 @@
+artist-id = "-virtual/kim-young-chul-hong-jin-young"
+kind = "single"
+
+names = [
+  { name = "Ring Ring", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "kim-young-chul", separator = ", " },
+  { artist-id = "hong-jin-young" },
+]
+
+[[releases]]
+released-on = "2017-04-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10056653" },
+]

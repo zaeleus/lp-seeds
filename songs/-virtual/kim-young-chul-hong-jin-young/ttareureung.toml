@@ -1,0 +1,10 @@
+names = [
+  { name = "따르릉", locale = "ko", original = true },
+  { name = "Ttareureung", locale = "ko-Latn", default = true },
+  { name = "Ring Ring", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "kim-young-chul", separator = ", " },
+  { artist-id = "hong-jin-young" },
+]

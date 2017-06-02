@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1974-06-23"
+country = "KR"
+
+names = [
+  { name = "김영철", locale = "ko", kind = "real", original = true },
+  { name = "Kim Young Chul", locale = "ko-Latn", kind = "real", default = true },
+]
