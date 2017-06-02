@@ -1,4 +1,5 @@
 names = [
   { name = "빛", locale = "ko", original = true },
   { name = "Bit", locale = "ko-Latn", default = true },
+  { name = "Light", locale = "en" },
 ]

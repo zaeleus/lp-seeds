@@ -1,4 +1,0 @@
-names = [
-  { name = "乾坤坎離", locale = "ko", original = true },
-  { name = "Qiánkūn Kǎn Lí", locale = "zh-Latn", default = true },
-]

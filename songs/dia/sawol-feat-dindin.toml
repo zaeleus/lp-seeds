@@ -1,4 +1,5 @@
 names = [
   { name = "사월 (Feat. 딘딘)", locale = "ko", original = true },
   { name = "Sawol (Feat. DinDin)", locale = "ko-Latn", default = true },
+  { name = "April (Feat. DinDin)", locale = "en" },
 ]

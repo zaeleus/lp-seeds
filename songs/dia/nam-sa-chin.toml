@@ -1,4 +1,5 @@
 names = [
   { name = "남.사.친", locale = "ko", original = true },
-  { name = "Nam.Sa.Chin", locale = "ko-Latn", default = true },
+  { name = "Nam.sa.chin", locale = "ko-Latn", default = true },
+  { name = "Boy.fri.end", locale = "en" },
 ]

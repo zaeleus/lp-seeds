@@ -1,4 +1,5 @@
 names = [
   { name = "꽃, 달, 술", locale = "ko", original = true },
   { name = "Kkot, Dal, Sul", locale = "ko-Latn", default = true },
+  { name = "You Are My Flower", locale = "en" },
 ]
