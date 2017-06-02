@@ -1,0 +1,11 @@
+names = [
+  { name = "우리 처음", locale = "ko", original = true },
+  { name = "Uri Cheoeum", locale = "ko-Latn", default = true },
+  { name = "We, First", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=3MOGIMaW3Ws", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=bSs0IKzInOU", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=px0ebMTNdIA", name = "Music Video" },
+]

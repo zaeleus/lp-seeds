@@ -1,0 +1,14 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "ELRIS", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "http://cafe.daum.net/elris.official" },
+  { url = "https://www.instagram.com/hunus_elris/" },
+  { url = "https://twitter.com/hunus_elris" },
+  { url = "https://www.youtube.com/channel/UC-MRBhuTep3dzojQd5RvoFA/videos" },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "elris/we-first/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "elris/searching-for-elris-intro"
+duration = "1:14"
+
+[[tracks]]
+position = 2
+song-id = "elris/uri-cheoeum"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "elris/naui-byeol"
+duration = "3:48"
+
+[[tracks]]
+position = 4
+song-id = "elris/miracle"
+duration = "3:10"
+
+[[tracks]]
+position = 5
+song-id = "elris/neowa-na"
+duration = "3:42"
