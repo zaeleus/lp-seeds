@@ -1,0 +1,18 @@
+artist-id = "suran"
+kind = "ep"
+
+names = [
+  { name = "Walkin'", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=WbnFJfaS-0c", name = "Highlight Medley" },
+]
+
+[[releases]]
+released-on = "2017-06-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10068300" },
+]

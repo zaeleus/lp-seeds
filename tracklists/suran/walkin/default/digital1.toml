@@ -1,0 +1,33 @@
+medium-ids = [
+  "suran/walkin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "suran/walking"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "suran/1-1-0-feat-dean"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "suran/oneul-chwihamyeon-feat-changmo-prod-suga"
+duration = "3:52"
+names = [
+  { name = "오늘 취하면 (Feat. 창모) (Prod. by SUGA)", locale = "ko", original = true },
+  { name = "Oneul Chwihamyeon (Feat. CHANGMO) (Prod. by SUGA)", locale = "ko-Latn", default = true },
+  { name = "If I Get Drunk Today (Feat. CHANGMO) (Prod. by SUGA)", locale = "en" },
+]
+
+[[tracks]]
+position = 4
+song-id = "suran/jjeoljjeolmaejwo"
+duration = "3:13"
+
+[[tracks]]
+position = 5
+song-id = "suran/haeyo-feat-swings"
+duration = "4:16"

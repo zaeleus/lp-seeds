@@ -1,0 +1,8 @@
+names = [
+  { name = "1+1=0 (Feat. DEAN)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=gVmuRm-vguw", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=YA6G74gk6R8", name = "Music Video" },
+]
