@@ -1,0 +1,16 @@
+artist-id = "oohyo"
+kind = "single"
+
+names = [
+  { name = "민들레", locale = "ko", original = true },
+  { name = "Mindeulle", locale = "ko-Latn", default = true },
+  { name = "Dandelion", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-05-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10066942" },
+]

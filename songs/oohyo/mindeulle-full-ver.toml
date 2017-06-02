@@ -1,0 +1,5 @@
+names = [
+  { name = "민들레 (full ver.)", locale = "ko", original = true },
+  { name = "Mindeulle (full ver.)", locale = "ko-Latn", default = true },
+  { name = "Dandelion (full ver.)", locale = "en" },
+]
