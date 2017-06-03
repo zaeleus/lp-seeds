@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/punch-glabingo/choegoui-hanbang-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/punch-glabingo/beautiful-beautiful"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/punch-glabingo/beautiful-beautiful-inst"
+duration = "3:25"

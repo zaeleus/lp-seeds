@@ -1,0 +1,8 @@
+names = [
+  { name = "Beautiful Beautiful (Inst.)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "punch", separator = " & " },
+  { artist-id = "glabingo" },
+]

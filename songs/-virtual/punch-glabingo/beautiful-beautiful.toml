@@ -1,0 +1,12 @@
+names = [
+  { name = "Beautiful Beautiful", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "punch", separator = " & " },
+  { artist-id = "glabingo" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=An0KNf70lHE", name = "Music Video" },
+]
