@@ -1,0 +1,7 @@
+names = [
+  { name = "I Know You Know", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "wolhasonyeon" }
+]

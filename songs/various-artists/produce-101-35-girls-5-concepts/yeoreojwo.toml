@@ -1,0 +1,9 @@
+names = [
+  { name = "열어줘", locale = "ko", original = true },
+  { name = "Yeoreojwo", locale = "ko-Latn", default = true },
+  { name = "Open Up", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "knock" }
+]

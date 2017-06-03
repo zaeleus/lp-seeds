@@ -1,0 +1,28 @@
+medium-ids = [
+  "various-artists/produce-101-35-boys-5-concepts/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "various-artists/produce-101-35-boys-5-concepts/show-time"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "various-artists/produce-101-35-boys-5-concepts/i-know-you-know"
+duration = "3:07"
+
+[[tracks]]
+position = 3
+song-id = "various-artists/produce-101-35-boys-5-concepts/yeoreojwo"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "various-artists/produce-101-35-boys-5-concepts/oh-little-girl"
+duration = "3:21"
+
+[[tracks]]
+position = 5
+song-id = "various-artists/produce-101-35-boys-5-concepts/never"
+duration = "3:16"

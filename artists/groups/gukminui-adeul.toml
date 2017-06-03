@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "국민의 아들", locale = "ko", original = true },
+  { name = "Gukminui Adeul", locale = "en", default = true },
+  { name = "Sons of People", locale = "en" },
+]

@@ -1,0 +1,7 @@
+names = [
+  { name = "Oh Little Girl", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "slate" }
+]

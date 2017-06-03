@@ -1,0 +1,7 @@
+names = [
+  { name = "Show Time", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "it-s" }
+]

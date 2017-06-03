@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "월하소년 (月下少年)", locale = "ko", original = true },
+  { name = "Wolhasonyeon", locale = "en", default = true },
+  { name = "Boys Under the Moon", locale = "en" },
+]
