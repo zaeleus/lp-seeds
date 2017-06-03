@@ -2,7 +2,7 @@ artist-id = "various-artists"
 kind = "ep"
 
 names = [
-  { name = "35 Girls 5 Concepts", locale = "ko", original = true, default = true },
+  { name = "PRODUCE 101 - 35 Girls 5 Concepts", locale = "ko", original = true, default = true },
 ]
 
 [[releases]]
