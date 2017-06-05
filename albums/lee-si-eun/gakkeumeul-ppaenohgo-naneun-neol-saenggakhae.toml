@@ -1,0 +1,16 @@
+artist-id = "lee-si-eun"
+kind = "single"
+
+names = [
+  { name = "가끔을 빼놓고 나는 널 생각해", locale = "ko", original = true },
+  { name = "Gakkeumeul Ppaenohgo Naneun Neol Saenggakhae", locale = "ko-Latn", default = true },
+  { name = "Think About You", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-06-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10068006" },
+]

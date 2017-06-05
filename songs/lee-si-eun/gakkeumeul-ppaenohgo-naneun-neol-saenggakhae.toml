@@ -1,0 +1,9 @@
+names = [
+  { name = "가끔을 빼놓고 나는 널 생각해", locale = "ko", original = true },
+  { name = "Gakkeumeul Ppaenohgo Naneun Neol Saenggakhae", locale = "ko-Latn", default = true },
+  { name = "Think About You", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=MYW4W1rq_mg", name = "Music Video" },
+]
