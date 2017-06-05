@@ -1,4 +1,9 @@
 names = [
   { name = "너와 나", locale = "ko", original = true },
   { name = "Neowa Na", locale = "ko-Latn", default = true },
+  { name = "You and I", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=hIvKMsr1yb0", name = "Music Video" },
 ]
