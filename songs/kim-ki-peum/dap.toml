@@ -1,0 +1,9 @@
+names = [
+  { name = "답", locale = "ko", original = true },
+  { name = "Dap", locale = "ko-Latn", default = true },
+  { name = "Out of My Way", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=SZNAZ4aTye8", name = "Music Video" },
+]

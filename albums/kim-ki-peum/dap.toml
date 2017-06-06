@@ -1,0 +1,16 @@
+artist-id = "kim-ki-peum"
+kind = "single"
+
+names = [
+  { name = "답", locale = "ko", original = true },
+  { name = "Dap", locale = "ko-Latn", default = true },
+  { name = "Out of My Way", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-05-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10066655" },
+]
