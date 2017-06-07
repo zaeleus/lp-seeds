@@ -1,0 +1,38 @@
+artist-id = "amuro-namie"
+kind = "single"
+
+names = [
+  { name = "Just You and I", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-05-31"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1237536294" },
+  { url = "http://mora.jp/package/43000002/AVCN-99044/" },
+  { url = "http://recochoku.jp/album/A2000963959/" },
+]
+
+[[releases]]
+released-on = "2017-05-31"
+country = "JP"
+catalog-number = "AVCN-99044/B"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "CD+DVD"
+urls = [
+  { url = "http://namieamuro.jp/discography/single45.html" },
+  { url = "http://www.oricon.co.jp/prof/191925/products/1226105/1/" },
+]
+
+[[releases]]
+released-on = "2017-05-31"
+country = "JP"
+catalog-number = "AVCN-99045"
+media = [{ kind = "cd" }]
+disambiguation = "CD"
+urls = [
+  { url = "http://namieamuro.jp/discography/single45.html" },
+  { url = "http://www.oricon.co.jp/prof/191925/products/1226106/1/" },
+]

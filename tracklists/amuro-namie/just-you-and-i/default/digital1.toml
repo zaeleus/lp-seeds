@@ -1,0 +1,13 @@
+medium-ids = [
+  "amuro-namie/just-you-and-i/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "amuro-namie/just-you-and-i"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "amuro-namie/strike-a-pose"
+duration = "3:22"

@@ -1,0 +1,3 @@
+names = [
+  { name = "Strike A Pose", locale = "ja", original = true, default = true },
+]
