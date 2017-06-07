@@ -1,0 +1,5 @@
+names = [
+  { name = "퐁당퐁당 (Plop Plop)", locale = "ko", original = true },
+  { name = "Pongdang Pongdang (Plop Plop)", locale = "ko-Latn", default = true },
+  { name = "Plop Plop", locale = "en" },
+]

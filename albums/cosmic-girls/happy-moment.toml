@@ -1,0 +1,19 @@
+artist-id = "cosmic-girls"
+kind = "lp"
+
+names = [
+  { name = "HAPPY MOMENT", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=u_5aTtSjdx8", name = "HAPPY MOMENT Film" },
+  { url = "https://www.youtube.com/watch?v=roi2zFWUmsM", name = "Album Preview" },
+]
+
+[[releases]]
+released-on = "2017-06-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10069220" },
+]

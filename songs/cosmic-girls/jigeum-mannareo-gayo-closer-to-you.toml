@@ -1,0 +1,5 @@
+names = [
+  { name = "지금 만나러 가요 (Closer to you)", locale = "ko", original = true },
+  { name = "Jigeum Mannareo Gayo (Closer to you)", locale = "ko-Latn", default = true },
+  { name = "Closer to you", locale = "en" },
+]

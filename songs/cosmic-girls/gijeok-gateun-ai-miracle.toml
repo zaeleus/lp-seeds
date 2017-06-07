@@ -1,0 +1,5 @@
+names = [
+  { name = "기적 같은 아이 (Miracle)", locale = "ko", original = true },
+  { name = "Gijeok Gateun Ai (Miracle)", locale = "ko-Latn", default = true },
+  { name = "Miracle", locale = "en" },
+]
