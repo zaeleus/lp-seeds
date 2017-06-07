@@ -1,0 +1,16 @@
+artist-id = "dal-shabet/subin"
+kind = "single"
+
+names = [
+  { name = "아이돌 드라마 공작단 OST Part.1", locale = "ko", original = true },
+  { name = "Idol Drama Gongjakdan OST Part.1", locale = "ko-Latn", default = true },
+  { name = "Idol Drama Operation Team OST Part.1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-06-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10067998" },
+]

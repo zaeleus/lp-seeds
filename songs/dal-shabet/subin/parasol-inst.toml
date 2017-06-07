@@ -1,0 +1,4 @@
+names = [
+  { name = "파라솔 (Inst.)", locale = "ko", original = true },
+  { name = "Parasol (Inst.)", locale = "en", default = true },
+]
