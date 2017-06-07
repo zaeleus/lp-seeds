@@ -1,0 +1,10 @@
+names = [
+  { name = "Why Don't You Know (Feat. 넉살)", locale = "ko", original = true },
+  { name = "Why Don't You Know (Feat. Nucksal)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=1OlwjkJIXfE", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=xyP1fGBWI8k", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=OTDUQUp3lDg", name = "Music Video" },
+]

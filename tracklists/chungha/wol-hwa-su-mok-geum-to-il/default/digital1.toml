@@ -1,8 +1,0 @@
-medium-ids = [
-  "chungha/wol-hwa-su-mok-geum-to-il/default/digital1",
-]
-
-[[tracks]]
-position = 1
-song-id = "chungha/wol-hwa-su-mok-geum-to-il"
-duration = "3:22"

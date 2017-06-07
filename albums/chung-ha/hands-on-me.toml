@@ -1,0 +1,18 @@
+artist-id = "chung-ha"
+kind = "ep"
+
+names = [
+  { name = "Hands on Me", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=QQ4wM7D5Yjk", name = "Highlight Medley" },
+]
+
+[[releases]]
+released-on = "2017-06-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10068972" },
+]

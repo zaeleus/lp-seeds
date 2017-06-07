@@ -1,5 +1,0 @@
-names = [
-  { name = "월화수목금토일", locale = "ko", original = true },
-  { name = "Wol Hwa Su Mok Geum To Il", locale = "ko-Latn", default = true },
-  { name = "Week", locale = "en" },
-]

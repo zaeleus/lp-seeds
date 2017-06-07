@@ -1,0 +1,15 @@
+names = [
+  { name = "월화수목금토일", locale = "ko", original = true },
+  { name = "Wol Hwa Su Mok Geum To Il", locale = "ko-Latn", default = true },
+  { name = "Week", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=D1AF24cs7GQ", name = "Preview Film" },
+  { url = "https://www.youtube.com/watch?v=rl4UuvEG-ME", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=G59mnTEMBhE", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=3NLeZ9t3Vz8", name = "M/V Making Film" },
+  { url = "https://www.youtube.com/watch?v=kC18vnbaKc0", name = "Music Video (Short Dance Ver.)" },
+  { url = "https://www.youtube.com/watch?v=qbwnfmyugqI", name = "Music Video (Full Dance Ver.)" },
+  { url = "https://www.youtube.com/watch?v=6OmnE6tkIsM", name = "Training Room Choreography Exercises" },
+]

@@ -4,9 +4,14 @@ country = "KR"
 
 names = [
   { name = "청하", locale = "ko", kind = "stage", original = true },
-  { name = "Chungha", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Chung Ha", locale = "ko-Latn", kind = "stage", default = true },
   { name = "김청하", locale = "ko", kind = "real" },
   { name = "Kim Chung Ha", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "http://cafe.daum.net/MNH-Chungha" },
+  { url = "https://www.instagram.com/chungha_official/" },
 ]
 
 [metadata]

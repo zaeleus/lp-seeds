@@ -1,0 +1,28 @@
+medium-ids = [
+  "chung-ha/hands-on-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "chung-ha/hands-on-me"
+duration = "1:08"
+
+[[tracks]]
+position = 2
+song-id = "chung-ha/why-don-t-you-know-feat-nucksal"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "chung-ha/make-a-wish"
+duration = "3:05"
+
+[[tracks]]
+position = 4
+song-id = "chung-ha/ujumeonji"
+duration = "3:44"
+
+[[tracks]]
+position = 5
+song-id = "chung-ha/wol-hwa-su-mok-geum-to-il"
+duration = "3:22"
