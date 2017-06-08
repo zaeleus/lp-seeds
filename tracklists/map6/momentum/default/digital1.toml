@@ -1,0 +1,23 @@
+medium-ids = [
+  "map6/momentum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "map6/i-m-ready"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "map6/closer"
+duration = "3:04"
+
+[[tracks]]
+position = 3
+song-id = "map6/sigani-jinado"
+duration = "2:35"
+
+[[tracks]]
+position = 4
+song-id = "map6/i-m-ready-inst"
+duration = "3:06"
