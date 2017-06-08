@@ -1,0 +1,12 @@
+names = [
+  { name = "Do Better", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Qj4AqNtoZdE", name = "Teaser (Original Ver.)" },
+  { url = "https://www.youtube.com/watch?v=0g0h31JpVzg", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=1JX48ClBg9E", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=gZz60gj92D0", name = "Dance Practice" },
+  { url = "https://www.youtube.com/watch?v=jHH0_5gU8no", name = "Music Video (360° ver.)" },
+  { url = "https://www.youtube.com/watch?v=5Qb56PZvgn0", name = "Making Film (VR ver.)" },
+]

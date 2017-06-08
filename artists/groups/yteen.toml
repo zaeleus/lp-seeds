@@ -1,0 +1,12 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "Y틴", locale = "ko", original = true },
+  { name = "YTEEN", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.instagram.com/official_yteen/" },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "yteen/do-better/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yteen/do-better"
+duration = "3:06"
