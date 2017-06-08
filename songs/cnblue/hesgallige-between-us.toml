@@ -1,0 +1,4 @@
+names = [
+  { name = "헷갈리게 (Between Us)", locale = "ko", original = true },
+  { name = "Hesgallige (Between Us)", locale = "ko-Latn", default = true },
+]

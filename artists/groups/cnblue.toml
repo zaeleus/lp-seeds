@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2010"
+country = "KR"
+
+names = [
+  { name = "씨엔블루", locale = "ko", original = true },
+  { name = "CNBLUE", locale = "ko-Latn", default = true },
+]
