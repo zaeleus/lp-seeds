@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2007"
+country = "KR"
+
+names = [
+  { name = "FT아일랜드", locale = "ko", original = true },
+  { name = "FTISLAND", locale = "ko-Latn", default = true },
+]
