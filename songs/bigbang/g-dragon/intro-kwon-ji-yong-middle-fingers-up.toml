@@ -1,0 +1,4 @@
+names = [
+  { name = "INTRO. 권지용 (Middle Fingers-Up)", locale = "ko", original = true },
+  { name = "INTRO. Kwon Ji Yong (Middle Fingers-Up)", locale = "ko-Latn", default = true },
+]

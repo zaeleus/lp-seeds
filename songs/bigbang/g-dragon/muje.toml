@@ -1,0 +1,9 @@
+names = [
+  { name = "무제(無題) (Untitled, 2014)", locale = "ko", original = true },
+  { name = "Muje", locale = "ko-Latn", default = true },
+  { name = "Untitled, 2014", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=9kaCAbIXuyg", name = "Music Video" },
+]

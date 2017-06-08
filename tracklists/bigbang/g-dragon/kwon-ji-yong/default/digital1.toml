@@ -1,0 +1,28 @@
+medium-ids = [
+  "bigbang/g-dragon/kwon-ji-yong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bigbang/g-dragon/intro-kwon-ji-yong-middle-fingers-up"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "bigbang/g-dragon/gaesori-bullshit"
+duration = "3:02"
+
+[[tracks]]
+position = 3
+song-id = "bigbang/g-dragon/super-star"
+duration = "3:46"
+
+[[tracks]]
+position = 4
+song-id = "bigbang/g-dragon/muje"
+duration = "3:42"
+
+[[tracks]]
+position = 5
+song-id = "bigbang/g-dragon/outro-singok-divina-commedia"
+duration = "3:44"
