@@ -1,0 +1,5 @@
+names = [
+  { name = "머리카락 보일라 (Hide and Seek)", locale = "ko", original = true },
+  { name = "Meorikarak Boilla (Hide and Seek)", locale = "ko-Latn", default = true },
+  { name = "Hide and Seek", locale = "en" },
+]

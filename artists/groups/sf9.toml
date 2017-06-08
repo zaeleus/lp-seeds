@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "에스에프나인", locale = "ko", original = true },
+  { name = "SF9", locale = "ko-Latn", default = true },
+]

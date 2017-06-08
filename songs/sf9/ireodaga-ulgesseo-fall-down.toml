@@ -1,0 +1,5 @@
+names = [
+  { name = "이러다가 울겠어 (Fall Down)", locale = "ko", original = true },
+  { name = "Ireodaga Ulgesseo (Fall Down)", locale = "ko-Latn", default = true },
+  { name = "Fall Down", locale = "en" },
+]

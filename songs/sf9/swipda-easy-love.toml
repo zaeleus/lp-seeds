@@ -1,0 +1,5 @@
+names = [
+  { name = "쉽다 (Easy Love)", locale = "ko", original = true },
+  { name = "Swipda (Easy Love)", locale = "ko-Latn", default = true },
+  { name = "Easy Love", locale = "en" },
+]

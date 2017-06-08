@@ -1,0 +1,33 @@
+medium-ids = [
+  "sf9/breaking-sensation/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sf9/intro-ibyeol-jeueume"
+duration = "1:30"
+
+[[tracks]]
+position = 2
+song-id = "sf9/swipda-easy-love"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "sf9/watch-out"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "sf9/meorikarak-boilla-hide-and-seek"
+duration = "3:57"
+
+[[tracks]]
+position = 5
+song-id = "sf9/ireodaga-ulgesseo-fall-down"
+duration = "3:01"
+
+[[tracks]]
+position = 6
+song-id = "sf9/wae-irae-why"
+duration = "3:06"
