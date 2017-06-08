@@ -1,0 +1,5 @@
+names = [
+  { name = "힘쎈여자 (Inst.)", locale = "ko", original = true },
+  { name = "Himssenyeoja (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Strong Girl (Inst.)", locale = "en" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "fat-cat/himssenyeoja/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fat-cat/himssenyeoja"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "fat-cat/himssenyeoja-inst"
+duration = "3:34"

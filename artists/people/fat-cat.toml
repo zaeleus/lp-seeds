@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1990-03-14"
+country = "KR"
+
+names = [
+  { name = "살찐고양이", locale = "ko", kind = "stage", original = true },
+  { name = "Fat Cat", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김소영", locale = "ko", kind = "real" },
+  { name = "Kim So Young", locale = "ko-Latn", kind = "real" },
+]
