@@ -1,0 +1,4 @@
+names = [
+  { name = "빨리 뛰어 (ROCK N HIPHOP)", locale = "ko", original = true },
+  { name = "Ppalli Ttwieo (ROCK N HIPHOP)", locale = "ko-Latn", default = true },
+]

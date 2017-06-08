@@ -1,0 +1,15 @@
+kind = "group"
+started-on = "2012"
+country = "KR"
+
+names = [
+  { name = "비투비", locale = "ko", original = true },
+  { name = "BTOB", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "http://cafe.daum.net/cube-btob" },
+  { url = "https://www.facebook.com/BTOBofficial" },
+  { url = "https://twitter.com/officialbtob" },
+  { url = "https://www.youtube.com/channel/UCgB7A457ULlgm5c3948vr-w" },
+]

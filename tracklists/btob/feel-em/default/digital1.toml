@@ -1,0 +1,28 @@
+medium-ids = [
+  "btob/feel-em/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "btob/malman-hae"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "btob/movie"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song-id = "btob/about-time"
+duration = "3:45"
+
+[[tracks]]
+position = 4
+song-id = "btob/ppalli-ttwieo-rock-n-hiphop"
+duration = "3:39"
+
+[[tracks]]
+position = 5
+song-id = "btob/eonjenga-someday"
+duration = "4:47"
