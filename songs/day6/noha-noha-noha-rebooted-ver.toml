@@ -1,0 +1,5 @@
+names = [
+  { name = "놓아 놓아 놓아 (Rebooted Ver.)", locale = "ko", original = true },
+  { name = "Noha Noha Noha (Rebooted Ver.)", locale = "ko-Latn", default = true },
+  { name = "Letting Go", locale = "en" },
+]
