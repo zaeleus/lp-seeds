@@ -1,0 +1,7 @@
+kind = "group"
+started-on = "2015"
+country = "KR"
+
+names = [
+  { name = "VAV", locale = "ko", original = true, default = true },
+]

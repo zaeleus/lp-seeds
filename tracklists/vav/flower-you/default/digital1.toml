@@ -1,0 +1,13 @@
+medium-ids = [
+  "vav/flower-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vav/flower-you"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "vav/flower-you-inst"
+duration = "3:09"
