@@ -1,0 +1,10 @@
+names = [
+  { name = "내가 사랑할 사람", locale = "ko", original = true },
+  { name = "Naega Saranghal Saram", locale = "ko-Latn", default = true },
+  { name = "The Person I Loved", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=KNVBS4joFx4", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=rvi49InMs3k", name = "Music Video" },
+]

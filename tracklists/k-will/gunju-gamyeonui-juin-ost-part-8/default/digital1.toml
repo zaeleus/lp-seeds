@@ -1,0 +1,13 @@
+medium-ids = [
+  "k-will/gunju-gamyeonui-juin-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "k-will/naega-saranghal-saram"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "k-will/naega-saranghal-saram-inst"
+duration = "3:48"
