@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1994-01-21"
+country = "KR"
+
+names = [
+  { name = "장희원", locale = "ko", kind = "real", original = true },
+  { name = "Jang Hee Won", locale = "ko-Latn", kind = "real", default = true },
+]

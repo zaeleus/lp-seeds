@@ -1,0 +1,8 @@
+names = [
+  { name = "5cm (Feat. 김민석 of 멜로망스)", locale = "ko", original = true },
+  { name = "5cm (Feat. Kim Min Seok of MeloMance)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=27yRFz4OGeM", name = "Music Video" },
+]

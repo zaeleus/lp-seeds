@@ -1,0 +1,14 @@
+artist-id = "jang-hee-won"
+kind = "single"
+
+names = [
+  { name = "5cm", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-06-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10069254" },
+]
