@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2015"
+country = "KR"
+
+names = [
+  { name = "몬스타엑스", locale = "ko", original = true },
+  { name = "MONSTA X", locale = "ko-Latn", default = true },
+]

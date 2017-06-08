@@ -1,0 +1,14 @@
+artist-id = "monsta-x"
+kind = "lp"
+
+names = [
+  { name = "THE CLAN pt.2.5: BEAUTIFUL", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-03-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10047752" },
+]

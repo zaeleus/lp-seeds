@@ -1,0 +1,5 @@
+names = [
+  { name = "넌 어때 (I'll Be There)", locale = "ko", original = true },
+  { name = "Neon Eottae (I'll Be There)", locale = "ko-Latn", default = true },
+  { name = "I'll Be There", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "너만 생각해 (All I Do)", locale = "ko", original = true },
+  { name = "Neoman Saenggakhae (All I Do)", locale = "ko-Latn", default = true },
+  { name = "All I Do", locale = "en" },
+]

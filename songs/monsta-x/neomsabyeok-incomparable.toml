@@ -1,0 +1,5 @@
+names = [
+  { name = "넘사벽 (Incomparable)", locale = "ko", original = true },
+  { name = "Neomsabyeok (Incomparable)", locale = "ko-Latn", default = true },
+  { name = "Incomparable", locale = "en" },
+]
