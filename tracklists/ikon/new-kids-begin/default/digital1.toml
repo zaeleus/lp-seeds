@@ -1,0 +1,13 @@
+medium-ids = [
+  "ikon/new-kids-begin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ikon/bling-bling"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "ikon/beoltte-b-day"
+duration = "3:34"

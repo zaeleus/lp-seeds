@@ -1,0 +1,5 @@
+names = [
+  { name = "벌떼 (B-DAY)", locale = "ko", original = true },
+  { name = "Beoltte (B-DAY)", locale = "ko-Latn", default = true },
+  { name = "B-DAY", locale = "en" },
+]
