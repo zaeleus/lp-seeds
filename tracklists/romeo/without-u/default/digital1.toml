@@ -1,0 +1,33 @@
+medium-ids = [
+  "romeo/without-u/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "romeo/romeo-is-back-intro"
+duration = "1:05"
+
+[[tracks]]
+position = 2
+song-id = "romeo/niga-eopsneunde"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "romeo/like-i-do"
+duration = "3:55"
+
+[[tracks]]
+position = 4
+song-id = "romeo/joheun-cha-joheun-jip"
+duration = "3:48"
+
+[[tracks]]
+position = 5
+song-id = "romeo/jangnanchiji-ma-focus-on-me"
+duration = "3:20"
+
+[[tracks]]
+position = 6
+song-id = "romeo/blue"
+duration = "4:03"

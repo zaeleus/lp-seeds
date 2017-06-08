@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2015"
+country = "KR"
+
+names = [
+  { name = "로미오", locale = "ko", original = true },
+  { name = "ROMEO", locale = "ko-Latn", default = true },
+]

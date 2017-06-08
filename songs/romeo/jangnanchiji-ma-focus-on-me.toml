@@ -1,0 +1,4 @@
+names = [
+  { name = "장난치지 마 (FOCUS ON ME)", locale = "ko", original = true },
+  { name = "Jangnanchiji Ma (FOCUS ON ME)", locale = "ko-Latn", default = true },
+]
