@@ -1,0 +1,11 @@
+names = [
+  { name = "I Understand (Feat. 디어 (d.ear))", locale = "ko", original = true },
+  { name = "I Understand (Feat. d.ear)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "playback/eunjin"
+names = [
+  { name = "마은진", locale = "ko", original = true },
+  { name = "Ma Eun Jin", locale = "ko-Latn", default = true },
+]

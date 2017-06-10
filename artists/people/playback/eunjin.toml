@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1997-08-14"
+country = "KR"
+
+names = [
+  { name = "은진", locale = "ko", kind = "stage", original = true },
+  { name = "Eunjin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "마은진", locale = "ko", kind = "real" },
+  { name = "Ma Eun Jin", locale = "ko-Latn", kind = "real" },
+]

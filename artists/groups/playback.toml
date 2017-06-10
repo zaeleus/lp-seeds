@@ -12,6 +12,7 @@ members = [
   { artist-id = "playback/soyun" },
   { artist-id = "playback/woolim" },
   { artist-id = "playback/yena" },
+  { artist-id = "playback/eunjin", started-on = "2017-04-13" },
 ]
 
 urls = [

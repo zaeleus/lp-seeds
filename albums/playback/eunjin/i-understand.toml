@@ -1,0 +1,21 @@
+artist-id = "playback/eunjin"
+kind = "single"
+
+names = [
+  { name = "I Understand", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "playback/eunjin"
+names = [
+  { name = "마은진", locale = "ko", original = true },
+  { name = "Ma Eun Jin", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-06-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10068951" },
+]
