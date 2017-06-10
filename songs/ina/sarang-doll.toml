@@ -1,0 +1,10 @@
+names = [
+  { name = "사랑Doll", locale = "ko", original = true },
+  { name = "Sarang Doll", locale = "ko-Latn", default = true },
+  { name = "Love Doll", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=ilW6j39Ch-U", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=INLyrc4OGyY", name = "Music Video" },
+]

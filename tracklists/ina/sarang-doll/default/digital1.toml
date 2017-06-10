@@ -1,0 +1,23 @@
+medium-ids = [
+  "ina/sarang-doll/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ina/sarang-doll"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "ina/summer-love-feat-big-size"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "ina/sarang-doll-inst"
+duration = "3:23"
+
+[[tracks]]
+position = 4
+song-id = "ina/summer-love-inst"
+duration = "3:06"
