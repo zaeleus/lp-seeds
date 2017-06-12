@@ -1,0 +1,18 @@
+medium-ids = [
+  "park-hi/higher/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-hi/higher"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "park-hi/scene"
+duration = "3:54"
+
+[[tracks]]
+position = 3
+song-id = "park-hi/millapcheonsa"
+duration = "3:23"
