@@ -1,0 +1,5 @@
+names = [
+  { name = "예뻐죽겠네", locale = "ko", original = true },
+  { name = "Yeppeojukgessne", locale = "ko-Latn", default = true },
+  { name = "Critical Beauty", locale = "en" },
+]

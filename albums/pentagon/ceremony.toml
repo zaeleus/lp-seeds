@@ -1,0 +1,14 @@
+artist-id = "pentagon"
+kind = "ep"
+
+names = [
+  { name = "CEREMONY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-06-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10070254" },
+]

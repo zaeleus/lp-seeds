@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "펜타곤", locale = "ko", original = true },
+  { name = "PENTAGON", locale = "ko-Latn", default = true },
+]

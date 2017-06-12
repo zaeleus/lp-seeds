@@ -1,0 +1,38 @@
+medium-ids = [
+  "pentagon/ceremony/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pentagon/yeppeojukgessne"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "pentagon/lucky"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "pentagon/sojunghan-yaksok-to-universe"
+duration = "3:44"
+
+[[tracks]]
+position = 4
+song-id = "pentagon/nothing"
+duration = "3:33"
+
+[[tracks]]
+position = 5
+song-id = "pentagon/seupekteokeul-hae"
+duration = "3:34"
+
+[[tracks]]
+position = 6
+song-id = "pentagon/gomawo-jinho-hui"
+duration = "4:16"
+
+[[tracks]]
+position = 7
+song-id = "pentagon/beautiful-prod-by-jung-il-hoon-of-btob"
+duration = "3:43"
