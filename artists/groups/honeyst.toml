@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "허니스트", locale = "ko", original = true },
+  { name = "HONEYST", locale = "ko-Latn", default = true },
+]

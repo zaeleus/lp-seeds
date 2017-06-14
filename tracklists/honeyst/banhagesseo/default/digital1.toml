@@ -1,0 +1,18 @@
+medium-ids = [
+  "honeyst/banhagesseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "honeyst/banhagesseo"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "honeyst/my-girl"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "honeyst/gamjeong"
+duration = "3:20"
