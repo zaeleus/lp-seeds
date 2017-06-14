@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-next-door/idol-drama-gongjakdan-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-next-door/deep-blue-eyes-prod-by-jinyoung"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "girls-next-door/deep-blue-eyes-prod-by-jinyoung-inst"
+duration = "3:28"

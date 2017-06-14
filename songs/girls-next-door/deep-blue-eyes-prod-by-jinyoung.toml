@@ -1,0 +1,17 @@
+names = [
+  { name = "Deep Blue Eyes (Prod. by 진영)", locale = "ko", original = true },
+  { name = "Deep Blue Eyes (Prod. by Jinyoung)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=vrjGRob06m4", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "b1a4/jinyoung", kind = "lyricist" },
+  { artist-id = "mamamoo/moonbyul", kind = "lyricist" },
+  { artist-id = "sonamoo/d-ana", kind = "lyricist" },
+  { artist-id = "b1a4/jinyoung", kind = "composer" },
+  { artist-id = "b1a4/jinyoung", kind = "arranger" },
+  { artist-id = "kang-myung-shin", kind = "arranger" },
+]

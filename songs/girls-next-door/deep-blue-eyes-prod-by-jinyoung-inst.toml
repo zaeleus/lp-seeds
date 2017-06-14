@@ -1,0 +1,10 @@
+names = [
+  { name = "Deep Blue Eyes (Prod. by 진영) (Inst.)", locale = "ko", original = true },
+  { name = "Deep Blue Eyes (Prod. by Jinyoung) (Inst.)", locale = "ko-Latn", default = true },
+]
+
+contributions = [
+  { artist-id = "b1a4/jinyoung", kind = "composer" },
+  { artist-id = "b1a4/jinyoung", kind = "arranger" },
+  { artist-id = "kang-myung-shin", kind = "arranger" },
+]

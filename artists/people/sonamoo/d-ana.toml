@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1995-09-10"
+country = "KR"
+
+names = [
+  { name = "디애나", locale = "ko", kind = "stage", original = true },
+  { name = "D.ana", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조은애", locale = "ko", kind = "real" },
+  { name = "Jo Eun Ae", locale = "ko-Latn", kind = "real" },
+]

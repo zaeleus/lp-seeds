@@ -1,0 +1,19 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "옆소", locale = "ko", original = true },
+  { name = "Yeopso", locale = "ko-Latn" },
+  { name = "Girls Next Door", locale = "en", default = true },
+]
+
+members = [
+  { artist-id = "red-velvet/seulgi" },
+  { artist-id = "mamamoo/moonbyul" },
+  { artist-id = "oh-my-girl/seung-hee" },
+  { artist-id = "lovelyz/ryu-su-jeong" },
+  { artist-id = "sonamoo/d-ana" },
+  { artist-id = "i-o-i/jeon-so-mi" },
+  { artist-id = "i-b-i/kim-so-hee" },
+]
