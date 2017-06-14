@@ -1,0 +1,14 @@
+names = [
+  { name = "남이 될 수 있을까", locale = "ko", original = true },
+  { name = "Nami Doel Su Isseulkka", locale = "ko-Latn", default = true },
+  { name = "We Loved", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "bolbbalgan4", separator = " X " },
+  { artist-id = "20-years-of-age" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Z1pGxkXyDvc", name = "Music Video" },
+]

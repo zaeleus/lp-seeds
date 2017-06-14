@@ -1,0 +1,10 @@
+kind = "group"
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "스무살", locale = "ko", kind = "stage", original = true },
+  { name = "20 Years of Age", locale = "en", kind = "stage", default = true },
+  { name = "황대현", locale = "ko", kind = "real" },
+  { name = "Hwang Dae Hyeon", locale = "ko-Latn", kind = "real" },
+]
