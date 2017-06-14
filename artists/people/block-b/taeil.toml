@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1990-09-24"
+country = "KR"
+
+names = [
+  { name = "태일", locale = "ko", kind = "stage", original = true },
+  { name = "Taeil", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이태일", locale = "ko", kind = "real" },
+  { name = "Lee Tae Il", locale = "ko-Latn", kind = "real" },
+]

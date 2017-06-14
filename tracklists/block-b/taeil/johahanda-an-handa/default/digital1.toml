@@ -1,0 +1,13 @@
+medium-ids = [
+  "block-b/taeil/johahanda-an-handa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "block-b/taeil/johahanda-an-handa-duet-sejeong-of-gugudan-prod-park-kyung"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "block-b/taeil/johahanda-an-handa-prod-park-kyung-inst"
+duration = "3:32"

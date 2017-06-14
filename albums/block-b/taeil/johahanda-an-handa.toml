@@ -1,0 +1,15 @@
+artist-id = "block-b/taeil"
+kind = "single"
+
+names = [
+  { name = "좋아한다 안 한다", locale = "ko", original = true },
+  { name = "Johahanda An Handa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-06-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10070260" },
+]

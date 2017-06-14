@@ -1,0 +1,8 @@
+names = [
+  { name = "좋아한다 안 한다 (Duet. 세정 of 구구단) (Prod. 박경)", locale = "ko", original = true },
+  { name = "Johahanda An Handa (Duet. Sejeong of gugudan) (Prod. Park Kyung)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=FBnxOIjExHs", name = "Color LIVE" },
+]
