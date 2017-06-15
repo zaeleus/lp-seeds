@@ -1,0 +1,5 @@
+names = [
+  { name = "바람처럼 떠나버린 너", locale = "ko", original = true },
+  { name = "Baramcheoreom Tteonabeorin Neo", locale = "ko-Latn", default = true },
+  { name = "Like the Wind", locale = "en" },
+]
