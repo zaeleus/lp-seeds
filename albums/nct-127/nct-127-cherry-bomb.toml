@@ -1,0 +1,14 @@
+artist-id = "nct-127"
+kind = "ep"
+
+names = [
+  { name = "NCT #127 CHERRY BOMB", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-06-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10071172" },
+]
