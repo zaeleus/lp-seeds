@@ -1,0 +1,13 @@
+medium-ids = [
+  "glabingo/bonny/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "glabingo/bonny"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "glabingo/in-a-party"
+duration = "3:47"
