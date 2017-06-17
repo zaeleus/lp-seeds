@@ -1,0 +1,9 @@
+names = [
+  { name = "여름비", locale = "ko", original = true },
+  { name = "Yeoreumbi", locale = "ko-Latn", default = true },
+  { name = "Summer Rain", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Mxizvigusus", name = "Music Video" },
+]

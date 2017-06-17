@@ -1,0 +1,8 @@
+medium-ids = [
+  "lalasweet/yeoreumbi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lalasweet/yeoreumbi"
+duration = "4:22"
