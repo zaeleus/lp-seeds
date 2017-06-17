@@ -1,0 +1,8 @@
+medium-ids = [
+  "momoland/eomaeomahae-edm-ver/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "momoland/eomaeomahae-edm-ver"
+duration = "3:19"

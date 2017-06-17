@@ -1,0 +1,5 @@
+names = [
+  { name = "어마어마해 (EDM Ver.)", locale = "ko", original = true },
+  { name = "Eomaeomahae (EDM Ver.)", locale = "ko-Latn", default = true },
+  { name = "Wonderful Love (EDM Ver.)", locale = "en" },
+]
