@@ -1,0 +1,23 @@
+medium-ids = [
+  "real-girls-project/idolm-ster-kr-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "real-girls-project/i-must-go"
+duration = "7:14"
+
+[[tracks]]
+position = 2
+song-id = "real-girls-project/eureureong-rookie-jo"
+duration = "3:27"
+
+[[tracks]]
+position = 3
+song-id = "real-girls-project/dubeonjjae-gobaek-debut-jo"
+duration = "3:54"
+
+[[tracks]]
+position = 4
+song-id = "real-girls-project/wanna-be-your-star-haseo-jane-yeeun"
+duration = "4:05"

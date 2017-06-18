@@ -1,0 +1,5 @@
+names = [
+  { name = "두번째 고백 (데뷔조)", locale = "ko", original = true },
+  { name = "Dubeonjjae Gobaek (Debut Jo)", locale = "ko-Latn", default = true },
+  { name = "2nd Confession (Debut Group)", locale = "en" },
+]
