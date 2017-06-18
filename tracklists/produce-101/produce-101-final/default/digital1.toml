@@ -1,0 +1,18 @@
+medium-ids = [
+  "produce-101/produce-101-final/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "produce-101/hands-on-me"
+duration = "4:11"
+
+[[tracks]]
+position = 2
+song-id = "produce-101/super-hot"
+duration = "3:57"
+
+[[tracks]]
+position = 3
+song-id = "produce-101/i-jarie-always"
+duration = "4:01"

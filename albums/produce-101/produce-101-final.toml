@@ -1,0 +1,14 @@
+artist-id = "produce-101"
+kind = "single"
+
+names = [
+  { name = "PRODUCE 101 - FINAL", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-06-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10072182" },
+]
