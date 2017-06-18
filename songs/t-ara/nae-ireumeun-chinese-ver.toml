@@ -1,0 +1,5 @@
+names = [
+  { name = "내 이름은 (Chinese Ver.)", locale = "ko", original = true },
+  { name = "Nae Ireumeun (Chinese Ver.)", locale = "ko-Latn", default = true },
+  { name = "What's my name? (Chinese Ver.)", locale = "en" },
+]

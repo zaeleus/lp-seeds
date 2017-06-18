@@ -1,0 +1,48 @@
+medium-ids = [
+  "t-ara/what-s-my-name/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/nae-ireumeun"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/reload"
+duration = "3:00"
+
+[[tracks]]
+position = 3
+song-id = "t-ara/20090729"
+duration = "3:55"
+
+[[tracks]]
+position = 4
+song-id = "t-ara/diamond-qri-solo"
+duration = "3:00"
+
+[[tracks]]
+position = 5
+song-id = "t-ara/ooh-la-la-hyomin-solo"
+duration = "2:59"
+
+[[tracks]]
+position = 6
+song-id = "t-ara/real-love-eunjung-solo"
+duration = "3:22"
+
+[[tracks]]
+position = 7
+song-id = "t-ara/lullaby-jiyeon-solo"
+duration = "3:19"
+
+[[tracks]]
+position = 8
+song-id = "t-ara/nae-ireumeun-chinese-ver"
+duration = "3:32"
+
+[[tracks]]
+position = 9
+song-id = "t-ara/nae-ireumeun-inst"
+duration = "3:32"
