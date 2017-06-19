@@ -1,0 +1,14 @@
+artist-id = "nine-muses"
+kind = "ep"
+
+names = [
+  { name = "MUSES DIARY PART.2: IDENTITY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-06-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10072401" },
+]
