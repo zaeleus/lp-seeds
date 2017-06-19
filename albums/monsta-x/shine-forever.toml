@@ -1,0 +1,14 @@
+artist-id = "monsta-x"
+kind = "lp"
+
+names = [
+  { name = "SHINE FOREVER", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-06-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10072518" },
+]
