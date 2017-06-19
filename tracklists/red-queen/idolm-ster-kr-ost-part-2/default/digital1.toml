@@ -1,0 +1,18 @@
+medium-ids = [
+  "red-queen/idolm-ster-kr-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-queen/super-girl-magic"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "red-queen/acacia"
+duration = "3:27"
+
+[[tracks]]
+position = 3
+song-id = "red-queen/attention"
+duration = "3:38"

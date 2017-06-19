@@ -1,0 +1,15 @@
+artist-id = "red-queen"
+kind = "single"
+
+names = [
+  { name = "아이돌마스터.KR OST Part.2", locale = "ko", original = true },
+  { name = "IDOLM@STER.KR OST Part.2", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-05-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10064116" },
+]
