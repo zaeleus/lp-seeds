@@ -1,0 +1,5 @@
+names = [
+  { name = "平行線", locale = "ja", original = true },
+  { name = "Heikousen", locale = "ja-Latn", default = true },
+  { name = "Parallel Line", locale = "en" },
+]

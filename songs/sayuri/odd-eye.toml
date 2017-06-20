@@ -1,0 +1,5 @@
+names = [
+  { name = "オッドアイ", locale = "ja", original = true },
+  { name = "Odd Eye", locale = "en", default = true },
+  { name = "Eyes Mismatched in Colour", locale = "en" },
+]

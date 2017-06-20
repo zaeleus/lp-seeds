@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1996-06-07"
+country = "JP"
+
+names = [
+  { name = "さユり", locale = "ja", kind = "stage", original = true },
+  { name = "Sayuri", locale = "ja-Latn", kind = "stage", default = true },
+]

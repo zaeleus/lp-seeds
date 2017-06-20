@@ -1,0 +1,16 @@
+artist-id = "sayuri"
+kind = "lp"
+
+names = [
+  { name = "ミカヅキの航海", locale = "ja", original = true },
+  { name = "Mikazuki No Koukai", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-05-17"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1234498255" },
+  { url = "http://mora.jp/package/43000001/4547366308051/" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "それは小さな光のような", locale = "ja", original = true },
+  { name = "Sore wa Chiisana Hikari no Youna", locale = "ja-Latn", default = true },
+]

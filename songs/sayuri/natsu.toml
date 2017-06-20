@@ -1,0 +1,5 @@
+names = [
+  { name = "夏", locale = "ja", original = true },
+  { name = "Natsu", locale = "ja-Latn", default = true },
+  { name = "Summer", locale = "en" },
+]

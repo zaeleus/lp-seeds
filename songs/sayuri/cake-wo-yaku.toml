@@ -1,0 +1,5 @@
+names = [
+  { name = "ケーキを焼く", locale = "ja", original = true },
+  { name = "Cake wo Yaku", locale = "ja-Latn", default = true },
+  { name = "Bake a Cake", locale = "en" },
+]

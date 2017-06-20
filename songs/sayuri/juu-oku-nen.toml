@@ -1,0 +1,5 @@
+names = [
+  { name = "十億年", locale = "ja", original = true },
+  { name = "Juu Oku-nen", locale = "ja-Latn", default = true },
+  { name = "A Billion Year", locale = "en" },
+]
