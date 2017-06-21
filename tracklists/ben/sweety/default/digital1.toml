@@ -1,0 +1,23 @@
+medium-ids = [
+  "ben/sweety/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/daldalhae-feat-yo-ap"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "ben/daldalhae-acoustic-ver"
+duration = "4:04"
+
+[[tracks]]
+position = 3
+song-id = "ben/daldalhae-feat-yo-ap-inst"
+duration = "4:03"
+
+[[tracks]]
+position = 4
+song-id = "ben/daldalhae-acoustic-ver-inst"
+duration = "4:04"

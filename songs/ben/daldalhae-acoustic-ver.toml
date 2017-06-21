@@ -1,0 +1,5 @@
+names = [
+  { name = "달달해 (Acoustic Ver.)", locale = "ko", original = true },
+  { name = "Daldalhae (Acoustic Ver.)", locale = "ko-Latn", default = true },
+  { name = "Sweety (Acoustic Ver.)", locale = "en" },
+]

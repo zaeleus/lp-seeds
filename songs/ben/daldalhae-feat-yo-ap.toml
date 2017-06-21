@@ -1,0 +1,5 @@
+names = [
+  { name = "달달해 (Feat. 요셉)", locale = "ko", original = true },
+  { name = "Daldalhae (Feat. Yo$ap)", locale = "ko-Latn", default = true },
+  { name = "Sweety (Feat. Yo$ap)", locale = "en" },
+]
