@@ -1,0 +1,8 @@
+kind = "group"
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "벨", locale = "ko", kind = "stage", original = true },
+  { name = "The Belle", locale = "en", kind = "stage", default = true },
+]
