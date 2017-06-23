@@ -1,0 +1,9 @@
+names = [
+  { name = "마지막처럼", locale = "ko", original = true },
+  { name = "Majimak Cheoreom", locale = "ko-Latn", default = true },
+  { name = "AS IF IT'S YOUR LAST", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Amq-qlqbjYA", name = "Music Video" },
+]

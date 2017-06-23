@@ -1,0 +1,16 @@
+artist-id = "blackpink"
+kind = "single"
+
+names = [
+  { name = "마지막처럼", locale = "ko", original = true },
+  { name = "Majimak Cheoreom", locale = "ko-Latn", default = true },
+  { name = "AS IF IT'S YOUR LAST", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-06-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10072696" },
+]
