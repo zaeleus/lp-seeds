@@ -1,0 +1,5 @@
+names = [
+  { name = "나로 말할 것 같으면", locale = "ko", original = true },
+  { name = "Naro Malhal Geot Gateumyeon", locale = "ko-Latn", default = true },
+  { name = "Yes I am", locale = "en" },
+]

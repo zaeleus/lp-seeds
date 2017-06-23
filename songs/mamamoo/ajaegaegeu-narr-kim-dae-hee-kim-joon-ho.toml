@@ -1,0 +1,4 @@
+names = [
+  { name = "아재개그 (Narr. 김대희, 김준호)", locale = "ko", original = true },
+  { name = "Ajaegaegeu (Narr. Kim Dae Hee, Kim Joon Ho)", locale = "ko-Latn", default = true },
+]

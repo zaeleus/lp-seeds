@@ -1,0 +1,28 @@
+medium-ids = [
+  "mamamoo/purple/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/naro-malhal-geot-gateumyeon"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/finally"
+duration = "3:08"
+
+[[tracks]]
+position = 3
+song-id = "mamamoo/guchahae-solo-moonbyul"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "mamamoo/ajaegaegeu-narr-kim-dae-hee-kim-joon-ho"
+duration = "3:31"
+
+[[tracks]]
+position = 5
+song-id = "mamamoo/darada-wheein-jeff-bernat-b-o"
+duration = "3:57"
