@@ -1,10 +1,10 @@
 kind = "person"
-started-on = "1993-08-20"
+started-on = "1977-12-30"
 country = "KR"
 
 names = [
-  { name = "타이미", locale = "ko", kind = "stage", original = true },
-  { name = "Tymee", locale = "ko-Latn", kind = "stage", default = true },
-  { name = "이옥주", locale = "ko", kind = "real" },
-  { name = "Lee Ok Joo", locale = "ko-Latn", kind = "real" },
+  { name = "리즈", locale = "ko", kind = "stage", original = true },
+  { name = "Leeds", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "엄지선", locale = "ko", kind = "real" },
+  { name = "Uhm Ji Sung", locale = "ko-Latn", kind = "real" },
 ]

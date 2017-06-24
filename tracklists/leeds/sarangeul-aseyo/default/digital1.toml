@@ -1,0 +1,8 @@
+medium-ids = [
+  "leeds/sarangeul-aseyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leeds/sarangeul-aseyo"
+duration = "3:10"
