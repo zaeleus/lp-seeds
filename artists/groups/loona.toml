@@ -16,6 +16,7 @@ members = [
   { artist-id = "loona/yeojin" },
   { artist-id = "loona/vivi" },
   { artist-id = "loona/kim-lip" },
+  { artist-id = "loona/jinsoul" },
 ]
 
 urls = [

@@ -1,0 +1,13 @@
+names = [
+  { name = "Singing in the Rain (진솔)", locale = "ko", original = true },
+  { name = "Singing in the Rain (JinSoul)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=hQDwFLuk3dI", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=RWeyOyY_puQ", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "loona/jinsoul", kind = "performer" },
+]

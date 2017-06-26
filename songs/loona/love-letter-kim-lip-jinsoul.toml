@@ -1,0 +1,9 @@
+names = [
+  { name = "Love Letter (김립, 진솔)", locale = "ko", original = true },
+  { name = "Love Letter (Kim Lip, JinSoul)", locale = "ko-Latn", default = true },
+]
+
+contributions = [
+  { artist-id = "loona/kim-lip", kind = "performer" },
+  { artist-id = "loona/jinsoul", kind = "performer" },
+]

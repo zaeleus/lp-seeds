@@ -1,0 +1,13 @@
+medium-ids = [
+  "loona/jinsoul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/singing-in-the-rain-jinsoul"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "loona/love-letter-kim-lip-jinsoul"
+duration = "3:08"
