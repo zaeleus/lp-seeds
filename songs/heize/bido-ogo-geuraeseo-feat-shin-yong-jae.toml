@@ -1,0 +1,10 @@
+names = [
+  { name = "비도 오고 그래서 (Feat. 신용재)", locale = "ko", original = true },
+  { name = "Bido Ogo Geuraeseo (Feat. Shin Yong Jae)", locale = "ko-Latn", default = true },
+  { name = "You, Cloud, Rain (Feat. Shin Yong Jae)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=7HGKTuICH34", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=afxLaQiLu-o", name = "Music Video" },
+]

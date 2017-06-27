@@ -1,0 +1,11 @@
+names = [
+  { name = "널 너무 모르고", locale = "ko", original = true },
+  { name = "Neol Neomu Moreugo", locale = "ko-Latn", default = true },
+  { name = "Don't Know You", locale = "en" },
+]
+
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=0aM9F0XJ4hM", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=vvkWaI91mLM", name = "Music Video" },
+]

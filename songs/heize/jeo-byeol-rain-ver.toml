@@ -1,0 +1,5 @@
+names = [
+  { name = "저 별 (rain ver.)", locale = "ko", original = true },
+  { name = "Jeo Byeol (Rain Ver.)", locale = "ko-Latn", default = true },
+  { name = "Star (Rain Ver.)", locale = "en" },
+]
