@@ -1,0 +1,10 @@
+names = [
+  { name = "세피로트의 나무", locale = "ko", original = true },
+  { name = "Sephiroth-ui Namu", locale = "ko-Latn", default = true },
+  { name = "Archangels of the Sephiroth", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=6AgCvpkmNTU", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=9ivBktSZ8yQ", name = "Music Video" },
+]

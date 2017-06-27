@@ -1,0 +1,28 @@
+medium-ids = [
+  "stellar/stellar-in-to-the-world/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stellar/sephiroth-ui-namu"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "stellar/wae-ttaemune"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "stellar/the-wave"
+duration = "3:42"
+
+[[tracks]]
+position = 4
+song-id = "stellar/twinkle"
+duration = "3:36"
+
+[[tracks]]
+position = 5
+song-id = "stellar/sephiroth-ui-namu-inst"
+duration = "3:06"
