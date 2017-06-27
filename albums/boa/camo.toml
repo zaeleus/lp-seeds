@@ -1,0 +1,14 @@
+artist-id = "boa"
+kind = "single"
+
+names = [
+  { name = "CAMO", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-06-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10074456" },
+]

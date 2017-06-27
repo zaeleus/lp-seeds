@@ -1,0 +1,8 @@
+medium-ids = [
+  "boa/camo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boa/camo"
+duration = "3:19"
