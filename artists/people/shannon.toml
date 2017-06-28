@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1998-05-26"
+country = "KR"
+
+names = [
+  { name = "샤넌", locale = "ko", kind = "stage", original = true },
+  { name = "Shannon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Shannon Areum Williams Lees", locale = "en", kind = "real" },
+]

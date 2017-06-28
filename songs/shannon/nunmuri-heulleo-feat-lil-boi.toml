@@ -1,0 +1,10 @@
+names = [
+  { name = "눈물이 흘러 (Feat. Lil Boi)", locale = "ko", original = true },
+  { name = "Nunmuri Heulleo (Feat. Lil Boi)", locale = "ko-Latn", default = true },
+  { name = "Love Don't Hurt (Feat. Lil Boi)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=vJ9yg5UbNGo", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=wzGKTOQ5D2I", name = "Music Video" },
+]
