@@ -1,0 +1,13 @@
+medium-ids = [
+  "u-sung-eun/idol-drama-gongjakdan-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "u-sung-eun/you-can-feel-it"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "u-sung-eun/you-can-feel-it-inst"
+duration = "3:56"
