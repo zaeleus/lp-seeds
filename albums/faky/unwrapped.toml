@@ -1,0 +1,15 @@
+artist-id = "faky"
+kind = "ep"
+
+names = [
+  { name = "Unwrapped", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-06-14"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000002/ANTCD-22764_F/" },
+  { url = "http://mora.jp/package/43000002/RZCD-86355/" },
+]

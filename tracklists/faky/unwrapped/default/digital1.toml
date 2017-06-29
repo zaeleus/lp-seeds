@@ -1,0 +1,33 @@
+medium-ids = [
+  "faky/unwrapped/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "faky/keep-out"
+duration = "5:01"
+
+[[tracks]]
+position = 2
+song-id = "faky/candy"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "faky/are-you-ok"
+duration = "3:31"
+
+[[tracks]]
+position = 4
+song-id = "faky/surrender"
+duration = "2:55"
+
+[[tracks]]
+position = 5
+song-id = "faky/bad-things"
+duration = "3:59"
+
+[[tracks]]
+position = 6
+song-id = "faky/someday-we-ll-know"
+duration = "3:33"

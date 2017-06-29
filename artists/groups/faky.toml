@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2013"
+country = "JP"
+
+names = [
+  { name = "フェイキー", locale = "ja", original = true },
+  { name = "FAKY", locale = "ja-Latn", default = true },
+]
