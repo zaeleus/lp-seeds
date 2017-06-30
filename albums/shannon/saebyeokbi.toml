@@ -1,0 +1,16 @@
+artist-id = "shannon"
+kind = "single"
+
+names = [
+  { name = "새벽비", locale = "ko", original = true },
+  { name = "Saebyeokbi", locale = "ko-Latn", default = true },
+  { name = "Daybreak Rain", locale = "en" },
+]
+
+[[releases]]
+released-on = "2014-12-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2292982" },
+]
