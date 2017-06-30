@@ -1,0 +1,20 @@
+names = [
+  { name = "FRUITY (Prod. GroovyRoom)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=s6FRPxwdIsc", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=X7be8Ib653I", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=EWzK7fyETlI", name = "Making Film" },
+]
+
+[[artist-credits]]
+artist-id = "sistar/hyo-rin"
+names = [
+  { name = "효린", locale = "ko", original = true },
+  { name = "Hyolyn", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "kisum"
