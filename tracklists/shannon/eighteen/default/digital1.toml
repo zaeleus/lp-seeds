@@ -1,0 +1,38 @@
+medium-ids = [
+  "shannon/eighteen/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shannon/waeyo-waeyo"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "shannon/i-know"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "shannon/gossip-girl"
+duration = "3:39"
+
+[[tracks]]
+position = 4
+song-id = "shannon/20inch"
+duration = "3:33"
+
+[[tracks]]
+position = 5
+song-id = "shannon/hate-you"
+duration = "3:49"
+
+[[tracks]]
+position = 6
+song-id = "shannon/sum"
+duration = "3:57"
+
+[[tracks]]
+position = 7
+song-id = "shannon/saebyeokbi"
+duration = "3:26"

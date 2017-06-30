@@ -1,0 +1,5 @@
+names = [
+  { name = "새벽비", locale = "ko", original = true },
+  { name = "Saebyeokbi", locale = "ko-Latn", default = true },
+  { name = "Daybreak Rain", locale = "en" },
+]

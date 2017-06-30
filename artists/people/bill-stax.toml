@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1980-12-18"
+country = "KR"
+
+names = [
+  { name = "빌스택스", locale = "ko", kind = "stage", original = true },
+  { name = "BILL STAX", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "바스코", locale = "ko", kind = "stage" },
+  { name = "Vasco", locale = "ko-Latn", kind = "stage" },
+  { name = "신동열", locale = "ko", kind = "real" },
+  { name = "Shin Dong Yeol", locale = "ko-Latn", kind = "real" },
+]

@@ -1,0 +1,14 @@
+artist-id = "shannon"
+kind = "ep"
+
+names = [
+  { name = "Eighteen", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2015-03-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2306611" },
+]
