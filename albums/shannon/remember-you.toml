@@ -1,0 +1,14 @@
+artist-id = "shannon"
+kind = "single"
+
+names = [
+  { name = "Remember You", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-01-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2229812" },
+]
