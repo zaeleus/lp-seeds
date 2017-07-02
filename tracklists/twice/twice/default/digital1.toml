@@ -1,0 +1,28 @@
+medium-ids = [
+  "twice/twice/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twice/like-ooh-ahh-japanese-ver"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "twice/cheer-up-japanese-ver"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "twice/tt-japanese-ver"
+duration = "3:33"
+
+[[tracks]]
+position = 4
+song-id = "twice/knock-knock-japanese-ver"
+duration = "3:18"
+
+[[tracks]]
+position = 5
+song-id = "twice/signal-japanese-ver"
+duration = "3:17"

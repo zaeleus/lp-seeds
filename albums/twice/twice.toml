@@ -1,0 +1,14 @@
+artist-id = "twice"
+kind = "ep"
+
+names = [
+  { name = "#TWICE", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-06-28"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000008/190295788520/" },
+]

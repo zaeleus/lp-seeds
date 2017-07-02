@@ -1,0 +1,3 @@
+names = [
+  { name = "SIGNAL -Japanese ver.-", locale = "ja", original = true, default = true },
+]
