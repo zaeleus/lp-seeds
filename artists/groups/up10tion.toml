@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2015"
+country = "KR"
+
+names = [
+  { name = "업텐션", locale = "ko", original = true },
+  { name = "UP10TION", locale = "ko-Latn", default = true },
+]

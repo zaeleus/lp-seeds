@@ -1,0 +1,33 @@
+medium-ids = [
+  "up10tion/star-dom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "up10tion/sijakhae-runner"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "up10tion/everything"
+duration = "3:55"
+
+[[tracks]]
+position = 3
+song-id = "up10tion/neodaun-true-love"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "up10tion/hot-blood"
+duration = "3:25"
+
+[[tracks]]
+position = 5
+song-id = "up10tion/maeil-everyday"
+duration = "3:41"
+
+[[tracks]]
+position = 6
+song-id = "up10tion/dream-you"
+duration = "3:41"
