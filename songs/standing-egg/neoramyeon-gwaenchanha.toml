@@ -1,0 +1,8 @@
+names = [
+  { name = "너라면 괜찮아", locale = "ko", original = true },
+  { name = "Neoramyeon Gwaenchanha", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=xFwS72JE6dI", name = "Music Video" },
+]

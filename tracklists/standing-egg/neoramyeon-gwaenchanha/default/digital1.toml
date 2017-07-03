@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/neoramyeon-gwaenchanha/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/neoramyeon-gwaenchanha"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/neoramyeon-gwaenchanha-inst"
+duration = "4:15"
