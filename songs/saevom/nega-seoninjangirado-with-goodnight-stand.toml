@@ -1,0 +1,4 @@
+names = [
+  { name = "네가 선인장이라도 (With 굿나잇스탠드)", locale = "ko", original = true },
+  { name = "Nega Seoninjangirado (With Goodnight Stand)", locale = "ko-Latn", default = true },
+]

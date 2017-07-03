@@ -1,0 +1,15 @@
+artist-id = "saevom"
+kind = "single"
+
+names = [
+  { name = "네가 선인장이라도", locale = "ko", original = true },
+  { name = "Nega Seoninjangirado", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-06-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10075218" },
+]
