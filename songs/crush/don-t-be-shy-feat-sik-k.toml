@@ -1,0 +1,3 @@
+names = [
+  { name = "Don't be shy (Feat. Sik-K)", locale = "ko", original = true, default = true },
+]
