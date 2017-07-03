@@ -2,8 +2,8 @@ artist-id = "sunny-girls"
 kind = "single"
 
 names = [
-  { name = "인기가요 뮤직크러쉬 Part. 2", locale = "ko", original = true },
-  { name = "Inkigayo Music Crush Part. 2", locale = "en", default = true },
+  { name = "인기가요 뮤직크러쉬 Part.2", locale = "ko", original = true },
+  { name = "Inkigayo Music Crush Part.2", locale = "en", default = true },
 ]
 
 [[releases]]
