@@ -1,0 +1,20 @@
+artist-id = "-virtual/soyou-x-junggigo"
+kind = "single"
+
+names = [
+  { name = "인기가요 뮤직크러쉬 Part.3", locale = "ko", original = true },
+  { name = "Inkigayo Music Crush Part.3", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "sistar/soyou", separator = " X " },
+  { artist-id = "junggigo" },
+]
+
+[[releases]]
+released-on = "2016-12-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10022194" },
+]

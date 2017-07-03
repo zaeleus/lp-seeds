@@ -1,0 +1,9 @@
+names = [
+  { name = "사랑은 이별보다 하나가 많아", locale = "ko", original = true },
+  { name = "Sarangeun Ibyeolboda Hanaga Manha", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "sistar/soyou", separator = " X " },
+  { artist-id = "junggigo" },
+]
