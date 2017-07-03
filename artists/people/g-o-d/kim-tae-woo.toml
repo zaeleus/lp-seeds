@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1981-05-12"
+country = "KR"
+
+names = [
+  { name = "김태우", locale = "ko", kind = "real", original = true },
+  { name = "Kim Tae Woo", locale = "ko-Latn", kind = "real", default = true },
+]

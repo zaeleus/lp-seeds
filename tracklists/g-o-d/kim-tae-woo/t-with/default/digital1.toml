@@ -1,0 +1,53 @@
+medium-ids = [
+  "g-o-d/kim-tae-woo/t-with/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-o-d/kim-tae-woo/director-s-cut-with-kixs"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "g-o-d/kim-tae-woo/ttaraga"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "g-o-d/kim-tae-woo/niga-gopa-with-mad-clown-son-ho-young"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "g-o-d/kim-tae-woo/sunrise-with-punch"
+duration = "3:00"
+
+[[tracks]]
+position = 5
+song-id = "g-o-d/kim-tae-woo/neukkimjeogin-neukkim-with-jun-k-taecyeon-of-2pm"
+duration = "3:15"
+
+[[tracks]]
+position = 6
+song-id = "g-o-d/kim-tae-woo/siwonhae-with-ali"
+duration = "3:36"
+
+[[tracks]]
+position = 7
+song-id = "g-o-d/kim-tae-woo/sigan-with-u-sung-eun-album-ver"
+duration = "3:57"
+
+[[tracks]]
+position = 8
+song-id = "g-o-d/kim-tae-woo/siwonhae-remix-with-team-haerop"
+duration = "3:37"
+
+[[tracks]]
+position = 9
+song-id = "g-o-d/kim-tae-woo/ttaraga-inst"
+duration = "3:30"
+
+[[tracks]]
+position = 10
+song-id = "g-o-d/kim-tae-woo/niga-gopa-inst"
+duration = "3:34"

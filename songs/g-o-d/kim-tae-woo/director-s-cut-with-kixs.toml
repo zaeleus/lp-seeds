@@ -1,0 +1,4 @@
+names = [
+  { name = "디렉터스컷 (With KIXS)", locale = "ko", original = true },
+  { name = "Director's Cut (With KIXS)", locale = "en", default = true },
+]

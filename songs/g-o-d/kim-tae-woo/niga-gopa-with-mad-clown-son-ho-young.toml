@@ -1,0 +1,4 @@
+names = [
+  { name = "니가 고파 (With 매드클라운 & 손호영)", locale = "ko", original = true },
+  { name = "Niga Gopa (With Mad Clown & Son Ho Young)", locale = "ko-Latn", default = true },
+]

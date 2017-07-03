@@ -1,0 +1,4 @@
+names = [
+  { name = "느낌적인 느낌 (With 준케이(JUN. K) & 택연 of 2pm)", locale = "ko", original = true },
+  { name = "Neukkimjeogin Neukkim (With JUN. K & Taecyeon of 2pm)", locale = "ko-Latn", default = true },
+]
