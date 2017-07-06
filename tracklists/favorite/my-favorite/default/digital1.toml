@@ -1,0 +1,23 @@
+medium-ids = [
+  "favorite/my-favorite/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "favorite/hello"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "favorite/party-time"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "favorite/my-day"
+duration = "3:07"
+
+[[tracks]]
+position = 4
+song-id = "favorite/on-himeul-dahae"
+duration = "3:35"
