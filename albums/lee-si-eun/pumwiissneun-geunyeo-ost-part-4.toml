@@ -1,0 +1,17 @@
+artist-id = "lee-si-eun"
+kind = "single"
+subkind = "ost"
+
+names = [
+  { name = "품위있는 그녀 OST Part.4", locale = "ko", original = true },
+  { name = "Pumwiissneun Geunyeo OST Part.4", locale = "ko-Latn", default = true },
+  { name = "Women of Dignity OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-07-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10077410" },
+]

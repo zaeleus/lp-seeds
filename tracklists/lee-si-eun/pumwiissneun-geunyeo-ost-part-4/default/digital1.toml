@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-si-eun/pumwiissneun-geunyeo-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-si-eun/mitgo-sipji-anha"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "lee-si-eun/mitgo-sipji-anha-inst"
+duration = "3:58"
