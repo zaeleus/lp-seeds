@@ -1,0 +1,13 @@
+medium-ids = [
+  "via/gwaenchanha-geokjeongeun-hajima/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "via/gwaenchanha-geokjeongeun-hajima"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "via/gwaenchanha-geokjeongeun-hajima-inst"
+duration = "3:27"

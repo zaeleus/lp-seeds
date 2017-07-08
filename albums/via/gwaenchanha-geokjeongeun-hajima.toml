@@ -1,0 +1,15 @@
+artist-id = "via"
+kind = "single"
+
+names = [
+  { name = "괜찮아 걱정은 하지마", locale = "ko", original = true },
+  { name = "Gwaenchanha Geokjeongeun Hajima", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-07-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10077811" },
+]
