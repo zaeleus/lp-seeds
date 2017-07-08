@@ -1,0 +1,5 @@
+names = [
+  { name = "변하지않는건 (Feat. Los)", locale = "ko", original = true },
+  { name = "Byeonhajianhneungeon (Feat. Los)", locale = "ko-Latn", default = true },
+  { name = "Unchanged (Feat. Los)", locale = "en" },
+]

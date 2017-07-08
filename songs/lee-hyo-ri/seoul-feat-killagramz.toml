@@ -1,0 +1,3 @@
+names = [
+  { name = "Seoul (Feat. Killagramz)", locale = "ko", original = true, default = true },
+]

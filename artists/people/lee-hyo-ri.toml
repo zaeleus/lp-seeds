@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1979-05-10"
+country = "KR"
+
+names = [
+  { name = "이효리", locale = "ko", kind = "stage", original = true },
+  { name = "Lee Hyo Ri", locale = "ko-Latn", kind = "stage", default = true },
+]
