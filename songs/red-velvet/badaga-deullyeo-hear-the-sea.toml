@@ -1,0 +1,5 @@
+names = [
+  { name = "바다가 들려 (Hear The Sea)", locale = "ko", original = true },
+  { name = "Badaga Deullyeo (Hear The Sea)", locale = "ko-Latn", default = true },
+  { name = "Hear the Sea", locale = "en" },
+]

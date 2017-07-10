@@ -1,0 +1,14 @@
+artist-id = "red-velvet"
+kind = "ep"
+
+names = [
+  { name = "The Red Summer", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-07-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10077879" },
+]

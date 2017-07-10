@@ -1,0 +1,5 @@
+names = [
+  { name = "빨간 맛 (Red Flavor)", locale = "ko", original = true },
+  { name = "Ppalgan Mat (Red Flavor)", locale = "ko-Latn", default = true },
+  { name = "Red Flavor", locale = "en" },
+]
