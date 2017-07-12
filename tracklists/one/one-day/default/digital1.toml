@@ -1,0 +1,13 @@
+medium-ids = [
+  "one/one-day/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "one/geunyang-geurae"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "one/heyahe"
+duration = "3:05"

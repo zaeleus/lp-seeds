@@ -1,0 +1,5 @@
+names = [
+  { name = "그냥 그래", locale = "ko", original = true },
+  { name = "Geunyang Geurae", locale = "ko-Latn", default = true },
+  { name = "Gettin' by", locale = "en" },
+]

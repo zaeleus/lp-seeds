@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1987-11-10"
+country = "KR"
+
+names = [
+  { name = "ONE", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "정제원", locale = "ko", kind = "real" },
+  { name = "Jung Jae Won", locale = "ko-Latn", kind = "real" },
+]
