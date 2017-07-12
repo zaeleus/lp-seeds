@@ -1,0 +1,15 @@
+artist-id = "moodin"
+kind = "single"
+
+names = [
+  { name = "난 아름답지 않아", locale = "ko", original = true },
+  { name = "Nan Areumdapji Anha", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-07-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10077928" },
+]

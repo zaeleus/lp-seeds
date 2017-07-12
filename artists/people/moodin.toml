@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1987-11-10"
+country = "KR"
+
+names = [
+  { name = "무딘", locale = "ko", kind = "stage", original = true },
+  { name = "Moodin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "장지은", locale = "ko", kind = "real" },
+  { name = "Jang Ji Eun", locale = "ko-Latn", kind = "real" },
+]
