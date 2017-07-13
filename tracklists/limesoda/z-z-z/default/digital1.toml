@@ -1,0 +1,13 @@
+medium-ids = [
+  "limesoda/z-z-z/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "limesoda/z-z-z-feat-mc-gree"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "limesoda/z-z-z-inst"
+duration = "3:09"

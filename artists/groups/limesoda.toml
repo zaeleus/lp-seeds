@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "라임소다", locale = "ko", original = true },
+  { name = "Limesoda", locale = "ko-Latn", default = true },
+]
