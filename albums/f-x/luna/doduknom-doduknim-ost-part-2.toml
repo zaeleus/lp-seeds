@@ -1,0 +1,24 @@
+artist-id = "f-x/luna"
+kind = "single"
+subkind = "ost"
+
+names = [
+  { name = "도둑놈 도둑님 OST Part.2", locale = "ko", original = true },
+  { name = "Doduknom Doduknim OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Bad Thief, Good Thief OST Part.2", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "f-x/luna"
+names = [
+  { name = "루나", locale = "ko", original = true },
+  { name = "LUNA", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-07-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10079837" },
+]

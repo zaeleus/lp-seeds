@@ -1,0 +1,13 @@
+medium-ids = [
+  "f-x/luna/doduknom-doduknim-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/luna/where-are-you"
+duration = "4:13"
+
+[[tracks]]
+position = 2
+song-id = "f-x/luna/where-are-you-inst"
+duration = "4:13"
