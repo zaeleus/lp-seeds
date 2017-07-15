@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1984-01-24"
+country = "KR"
+
+names = [
+  { name = "팔로알토", locale = "ko", kind = "real", original = true },
+  { name = "Paloalto", locale = "ko-Latn", kind = "real", default = true },
+]
