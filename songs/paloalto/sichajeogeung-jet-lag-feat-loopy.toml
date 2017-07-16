@@ -1,0 +1,5 @@
+names = [
+  { name = "시차적응 (Jet Lag) (Feat. Loopy)", locale = "ko", original = true },
+  { name = "Sichajeogeung (Jet Lag) (Feat. Loopy)", locale = "ko-Latn", default = true },
+  { name = "Jet Lag (Feat. Loopy)", locale = "en" },
+]

@@ -1,0 +1,38 @@
+medium-ids = [
+  "paloalto/victories/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "paloalto/home"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "paloalto/sichajeogeung-jet-lag-feat-loopy"
+duration = "4:10"
+
+[[tracks]]
+position = 3
+song-id = "paloalto/victories"
+duration = "4:01"
+
+[[tracks]]
+position = 4
+song-id = "paloalto/matiz"
+duration = "3:32"
+
+[[tracks]]
+position = 5
+song-id = "paloalto/no-love-feat-justhis-extended-ver"
+duration = "3:25"
+
+[[tracks]]
+position = 6
+song-id = "paloalto/desire-feat-kim-sa-rang-koonta"
+duration = "3:57"
+
+[[tracks]]
+position = 7
+song-id = "paloalto/bejjangi-feat-car-the-garden"
+duration = "3:52"
