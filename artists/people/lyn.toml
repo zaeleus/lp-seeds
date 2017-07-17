@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1981-11-09"
+country = "KR"
+
+names = [
+  { name = "린", locale = "ko", kind = "stage", original = true },
+  { name = "Lyn", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이세진", locale = "ko", kind = "real" },
+  { name = "Lee Se Jin", locale = "ko-Latn", kind = "real" },
+]
