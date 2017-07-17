@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1986-02-24"
+country = "KR"
+
+names = [
+  { name = "비스윗", locale = "ko", kind = "stage", original = true },
+  { name = "besweet", locale = "ko-Latn", kind = "stage", default = true },
+]

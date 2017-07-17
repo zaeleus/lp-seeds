@@ -1,0 +1,23 @@
+medium-ids = [
+  "besweet/geuhae-yeoreum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "besweet/geuhae-yeoreum"
+duration = "2:49"
+
+[[tracks]]
+position = 2
+song-id = "besweet/suddenly-acoustic-ver"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "besweet/geuhae-yeoreum-inst"
+duration = "2:49"
+
+[[tracks]]
+position = 4
+song-id = "besweet/suddenly-acoustic-ver-inst"
+duration = "3:33"

@@ -1,0 +1,15 @@
+artist-id = "besweet"
+kind = "single"
+
+names = [
+  { name = "그해 여름", locale = "ko", original = true },
+  { name = "Geuhae Yeoreum", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-07-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10079453" },
+]
