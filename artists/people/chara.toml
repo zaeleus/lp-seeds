@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1968-01-13"
+country = "JP"
+
+names = [
+  { name = "ちゃら", locale = "ja", kind = "stage", original = true },
+  { name = "Chara", locale = "ja-Latn", kind = "stage", default = true },
+]

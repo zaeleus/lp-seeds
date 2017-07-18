@@ -1,0 +1,15 @@
+artist-id = "chara"
+kind = "lp"
+
+names = [
+  { name = "Sympathy", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-07-19"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1248691280" },
+  { url = "http://mora.jp/package/43000001/4547366321753/" },
+]
