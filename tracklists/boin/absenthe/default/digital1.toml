@@ -1,0 +1,13 @@
+medium-ids = [
+  "boin/absenthe/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boin/summer-rain"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "boin/find-me"
+duration = "2:12"
