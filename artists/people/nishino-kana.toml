@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1989-03-18"
+country = "JP"
+
+names = [
+  { name = "西野カナ", locale = "ja", kind = "real", original = true },
+  { name = "Nishino Kana", locale = "ja-Latn", kind = "real", default = true },
+]

@@ -1,0 +1,18 @@
+medium-ids = [
+  "nishino-kana/girls/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nishino-kana/girls"
+duration = "4:20"
+
+[[tracks]]
+position = 2
+song-id = "nishino-kana/go-fight-win"
+duration = "2:56"
+
+[[tracks]]
+position = 3
+song-id = "nishino-kana/yokubari"
+duration = "3:53"
