@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan/hakgyo-2017-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/isunganeul-mideulge"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/isunganeul-mideulge-inst"
+duration = "3:16"

@@ -1,0 +1,17 @@
+artist-id = "gugudan"
+kind = "single"
+subkind = "ost"
+
+names = [
+  { name = "학교 2017 OST Part.1", locale = "ko", original = true },
+  { name = "Hakgyo 2017 OST Part.1", locale = "ko-Latn", default = true },
+  { name = "School 2017 OST Part.1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-07-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10079933" },
+]
