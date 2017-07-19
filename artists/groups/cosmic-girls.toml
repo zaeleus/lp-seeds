@@ -8,6 +8,8 @@ names = [
   { name = "WJSN", locale = "ko-Latn" },
   { name = "宇宙少女", locale = "ja" },
   { name = "Uchuu Shoujo", locale = "ja-Latn" },
+  { name = "宇宙少女", locale = "zh" },
+  { name = "Yǔzhòu Shàonǚ", locale = "zh-Latn" },
   { name = "Cosmic Girls", locale = "en", default = true },
 ]
 
