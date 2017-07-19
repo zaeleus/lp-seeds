@@ -1,0 +1,16 @@
+artist-id = "leola"
+kind = "lp"
+
+names = [
+  { name = "Hello! My name is Leola.", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-07-12"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1240689043" },
+  { url = "http://mora.jp/package/43000001/4547366316490/" },
+  { url = "http://mora.jp/package/43000001/4547366316490/" },
+]

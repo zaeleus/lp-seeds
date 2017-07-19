@@ -1,0 +1,12 @@
+kind = "person"
+#started-on = ""
+country = "JP"
+
+names = [
+  { name = "レオラ", locale = "ja", kind = "stage", original = true },
+  { name = "Leola", locale = "ja-Latn", kind = "stage", default = true },
+]
+
+urls = [
+  { url = "http://www.sonymusic.co.jp/artist/leola/" },
+]

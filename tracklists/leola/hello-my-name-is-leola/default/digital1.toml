@@ -1,0 +1,63 @@
+medium-ids = [
+  "leola/hello-my-name-is-leola/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leola/sunshine-voice"
+duration = "1:39"
+
+[[tracks]]
+position = 2
+song-id = "leola/summer-time"
+duration = "4:14"
+
+[[tracks]]
+position = 3
+song-id = "leola/let-it-fly"
+duration = "5:29"
+
+[[tracks]]
+position = 4
+song-id = "leola/koiseyo-watashi"
+duration = "5:17"
+
+[[tracks]]
+position = 5
+song-id = "leola/your-melody"
+duration = "5:33"
+
+[[tracks]]
+position = 6
+song-id = "leola/it-s-a-new-day"
+duration = "4:39"
+
+[[tracks]]
+position = 7
+song-id = "leola/rainbow"
+duration = "5:06"
+
+[[tracks]]
+position = 8
+song-id = "leola/mr-right"
+duration = "3:58"
+
+[[tracks]]
+position = 9
+song-id = "leola/i-believe"
+duration = "4:07"
+
+[[tracks]]
+position = 10
+song-id = "leola/i-i"
+duration = "5:23"
+
+[[tracks]]
+position = 11
+song-id = "leola/the-way"
+duration = "5:02"
+
+[[tracks]]
+position = 12
+song-id = "leola/hello-my-name-is"
+duration = "3:37"
