@@ -1,0 +1,7 @@
+names = [
+  { name = "Take Five", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=16sXoYFWL4c", name = "Music Video" },
+]

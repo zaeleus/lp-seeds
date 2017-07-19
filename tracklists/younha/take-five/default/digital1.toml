@@ -1,0 +1,8 @@
+medium-ids = [
+  "younha/take-five/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "younha/take-five"
+duration = "3:35"
