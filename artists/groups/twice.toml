@@ -5,6 +5,7 @@ country = "KR"
 names = [
   { name = "트와이스", locale = "ko", original = true },
   { name = "TWICE", locale = "ko-Latn", default = true },
+  { name = "トゥワイス", locale = "ja" },
 ]
 
 labels = [{ label-id = "jyp-entertainment" }]
