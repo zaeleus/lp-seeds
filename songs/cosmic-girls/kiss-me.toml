@@ -2,3 +2,9 @@ names = [
   { name = "KISS ME (키스 미)", locale = "ko", original = true },
   { name = "KISS ME", locale = "en", default = true },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=cXuK1maAk4g", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=oSG_plpPA58", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=krbN59j2boM", name = "Making Film" },
+]
