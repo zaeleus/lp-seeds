@@ -1,0 +1,4 @@
+names = [
+  { name = "風笛(Orchestra version)", locale = "ja", original = true },
+  { name = "Kaze Fue (Orchestra version)", locale = "ja-Latn", default = true },
+]

@@ -1,0 +1,3 @@
+names = [
+  { name = "My Heart Will Go On featuring May J.", locale = "ja", original = true, default = true },
+]

@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1983-12-07"
+country = "JP"
+
+names = [
+  { name = "宮本笑里", locale = "ja", kind = "real", original = true },
+  { name = "Miyamoto Emiri", locale = "ja-Latn", kind = "real", default = true },
+]

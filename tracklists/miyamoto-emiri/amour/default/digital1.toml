@@ -1,0 +1,63 @@
+medium-ids = [
+  "miyamoto-emiri/amour/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miyamoto-emiri/flower"
+duration = "5:02"
+
+[[tracks]]
+position = 2
+song-id = "miyamoto-emiri/kaze-fue-orchestra-version"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "miyamoto-emiri/my-heart-will-go-on-featuring-may-j"
+duration = "4:33"
+
+[[tracks]]
+position = 4
+song-id = "miyamoto-emiri/grain-of-the-light"
+duration = "4:40"
+
+[[tracks]]
+position = 5
+song-id = "miyamoto-emiri/you-raise-me-up"
+duration = "4:55"
+
+[[tracks]]
+position = 6
+song-id = "miyamoto-emiri/yasashisa-de-afureru-youni"
+duration = "5:02"
+
+[[tracks]]
+position = 7
+song-id = "miyamoto-emiri/ha-re"
+duration = "4:35"
+
+[[tracks]]
+position = 8
+song-id = "miyamoto-emiri/cherbourg-no-amagasa"
+duration = "3:39"
+
+[[tracks]]
+position = 9
+song-id = "miyamoto-emiri/mascagni-cavalleria-rusticana-kansou-kyoku"
+duration = "3:19"
+
+[[tracks]]
+position = 10
+song-id = "miyamoto-emiri/vivaldi-fuyu-featuring-jin-oki"
+duration = "3:42"
+
+[[tracks]]
+position = 11
+song-id = "miyamoto-emiri/tadoritsuku-basho"
+duration = "3:58"
+
+[[tracks]]
+position = 12
+song-id = "miyamoto-emiri/niji-shoku-no-yume-e"
+duration = "3:54"

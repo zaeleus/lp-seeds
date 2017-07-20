@@ -1,0 +1,5 @@
+names = [
+  { name = "マスカーニ：カヴァレリア・ルスティカーナ間奏曲", locale = "ja", original = true },
+  { name = "Mascagni: Cavalleria Rusticana Kansou Kyoku", locale = "ja-Latn", default = true },
+  { name = "Mascagni: Cavalleria Rusticana Intermezzo", locale = "en" },
+]
