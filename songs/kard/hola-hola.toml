@@ -1,0 +1,10 @@
+names = [
+  { name = "Hola Hola", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=qgqgskQ3Tgg", name = "Trailer" },
+  { url = "https://www.youtube.com/watch?v=2nhPYvSR95E", name = "Key Point of Dance" },
+  { url = "https://www.youtube.com/watch?v=MuUDDo5y004", name = "Special Teaser" },
+  { url = "https://www.youtube.com/watch?v=USx4WyrkfU4", name = "Music Video" },
+]
