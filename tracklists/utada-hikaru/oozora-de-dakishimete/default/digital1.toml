@@ -1,0 +1,8 @@
+medium-ids = [
+  "utada-hikaru/oozora-de-dakishimete/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "utada-hikaru/oozora-de-dakishimete"
+duration = "4:37"

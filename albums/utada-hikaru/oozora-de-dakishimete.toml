@@ -1,0 +1,17 @@
+artist-id = "utada-hikaru"
+kind = "single"
+
+names = [
+  { name = "大空で抱きしめて", locale = "ja", original = true },
+  { name = "Oozora de Dakishimete", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-07-10"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1250727789" },
+  { url = "http://mora.jp/package/43000001/4547366317527/" },
+  { url = "http://mora.jp/package/43000001/4547366317954/" },
+]
