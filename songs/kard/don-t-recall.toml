@@ -9,3 +9,9 @@ urls = [
   { url = "https://www.youtube.com/watch?v=45bE23eECMo", name = "Trailer" },
   { url = "https://www.youtube.com/watch?v=41Dp7Q-SM1Y", name = "Music Video" },
 ]
+
+[[artist-credits]]
+artist-id = "kard"
+names = [
+  { name = "K.A.R.D", locale = "ko", original = true, default = true },
+]

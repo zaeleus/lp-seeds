@@ -1,8 +1,14 @@
-artist-id = "k-a-r-d"
+artist-id = "kard"
 kind = "single"
 
 names = [
   { name = "RUMOR", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "kard"
+names = [
+  { name = "K.A.R.D", locale = "ko", original = true, default = true },
 ]
 
 [[releases]]

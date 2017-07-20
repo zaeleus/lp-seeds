@@ -5,3 +5,9 @@ names = [
 urls = [
   { url = "https://www.youtube.com/watch?v=QWWLZOQKo78", name = "Music Video" },
 ]
+
+[[artist-credits]]
+artist-id = "kard"
+names = [
+  { name = "K.A.R.D", locale = "ko", original = true, default = true },
+]

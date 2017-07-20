@@ -1,0 +1,8 @@
+medium-ids = [
+  "kard/rumor/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kard/rumor"
+duration = "3:37"

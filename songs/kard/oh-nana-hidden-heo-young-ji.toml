@@ -2,3 +2,9 @@ names = [
   { name = "Oh NaNa (Hidden. 허영지)", locale = "ko", original = true },
   { name = "Oh NaNa (Hidden. Heo Young Ji)", locale = "ko-Latn", default = true },
 ]
+
+[[artist-credits]]
+artist-id = "kard"
+names = [
+  { name = "K.A.R.D", locale = "ko", original = true, default = true },
+]

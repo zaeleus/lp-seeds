@@ -1,0 +1,15 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "KARD", locale = "ko", original = true, default = true },
+  { name = "K.A.R.D", locale = "ko" },
+]
+
+members = [
+  { artist-id = "kard/bm" },
+  { artist-id = "kard/j-seph" },
+  { artist-id = "kard/ji-woo" },
+  { artist-id = "kard/so-min" },
+]

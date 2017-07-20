@@ -1,0 +1,13 @@
+medium-ids = [
+  "kard/don-t-recall/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kard/don-t-recall"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "kard/don-t-recall-hidden-ver"
+duration = "3:29"

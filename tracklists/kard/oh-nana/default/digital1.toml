@@ -1,0 +1,8 @@
+medium-ids = [
+  "kard/oh-nana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kard/oh-nana-hidden-heo-young-ji"
+duration = "3:26"
