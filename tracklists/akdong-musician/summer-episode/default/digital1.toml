@@ -1,0 +1,13 @@
+medium-ids = [
+  "akdong-musician/summer-episode/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "akdong-musician/dinosaur"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "akdong-musician/my-darling"
+duration = "3:45"
