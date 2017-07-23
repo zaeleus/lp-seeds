@@ -1,0 +1,13 @@
+medium-ids = [
+  "kassy/habaegui-sinbu-2017-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/kkumkkudeon-nal"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "kassy/kkumkkudeon-nal-inst"
+duration = "3:17"
