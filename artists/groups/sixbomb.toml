@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2012"
+country = "KR"
+
+names = [
+  { name = "식스밤", locale = "ko", original = true },
+  { name = "Sixbomb", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "sixbomb/yeppeojineun-jungipnida-after/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sixbomb/yeppeojineun-jungipnida-after"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "sixbomb/yeppeojineun-jungipnida-after-inst"
+duration = "3:03"
