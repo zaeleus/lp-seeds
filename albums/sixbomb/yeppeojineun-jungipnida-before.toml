@@ -1,0 +1,15 @@
+artist-id = "sixbomb"
+kind = "single"
+
+names = [
+  { name = "예뻐지는 중입니다 Before", locale = "ko", original = true },
+  { name = "Yeppeojineun Jungipnida Before", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-02-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10036825" },
+]
