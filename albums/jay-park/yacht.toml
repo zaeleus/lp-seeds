@@ -1,0 +1,14 @@
+artist-id = "jay-park"
+kind = "single"
+
+names = [
+  { name = "YACHT", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-07-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10080099" },
+]
