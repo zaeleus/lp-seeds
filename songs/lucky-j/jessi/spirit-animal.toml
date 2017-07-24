@@ -1,0 +1,3 @@
+names = [
+  { name = "Spirit Animal", locale = "ko", original = true, default = true },
+]
