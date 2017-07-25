@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1987-10-23"
+country = "KR"
+
+names = [
+  { name = "서인국", locale = "ko", kind = "real", original = true },
+  { name = "Seo In Guk", locale = "ko-Latn", kind = "real", default = true },
+]

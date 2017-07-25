@@ -1,0 +1,13 @@
+medium-ids = [
+  "seo-in-guk/hamkke-georeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seo-in-guk/hamkke-georeo"
+duration = "4:10"
+
+[[tracks]]
+position = 2
+song-id = "seo-in-guk/mint-chocolate-feat-40"
+duration = "4:04"

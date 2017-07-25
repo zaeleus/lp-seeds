@@ -1,0 +1,10 @@
+names = [
+  { name = "함께 걸어", locale = "ko", original = true },
+  { name = "Hamkke Georeo", locale = "ko-Latn", default = true },
+  { name = "Better Together", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=a49zC0J7v3s", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=HO1gBzuVJYo", name = "Music Video" },
+]

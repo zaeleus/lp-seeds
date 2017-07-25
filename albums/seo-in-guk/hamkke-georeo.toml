@@ -1,0 +1,16 @@
+artist-id = "seo-in-guk"
+kind = "single"
+
+names = [
+  { name = "함께 걸어", locale = "ko", original = true },
+  { name = "Hamkke Georeo", locale = "ko-Latn", default = true },
+  { name = "Better Together", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-03-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10049229" },
+]
