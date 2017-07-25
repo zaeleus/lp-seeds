@@ -1,0 +1,13 @@
+medium-ids = [
+  "laboum/laboum-summer-special/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "laboum/dubadup-only-u"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "laboum/dubadup-only-u-inst"
+duration = "3:31"

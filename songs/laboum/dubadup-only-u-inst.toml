@@ -1,0 +1,5 @@
+names = [
+  { name = "두바둡 (only u) (Inst.)", locale = "ko", original = true },
+  { name = "Dubadup (only u) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "only u (Inst.)", locale = "en" },
+]
