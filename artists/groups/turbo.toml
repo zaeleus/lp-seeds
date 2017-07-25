@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "1995"
+country = "KR"
+
+names = [
+  { name = "터보", locale = "ko", original = true },
+  { name = "Turbo", locale = "ko-Latn", default = true },
+]

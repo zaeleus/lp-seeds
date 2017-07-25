@@ -1,0 +1,4 @@
+names = [
+  { name = "그림배경", locale = "ko", original = true },
+  { name = "Geurimbaegyeong", locale = "ko-Latn", default = true },
+]

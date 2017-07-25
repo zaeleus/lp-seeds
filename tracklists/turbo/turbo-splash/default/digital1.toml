@@ -1,0 +1,33 @@
+medium-ids = [
+  "turbo/turbo-splash/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "turbo/tteugeoun-seoltang-hot-sugar"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "turbo/paradise"
+duration = "3:53"
+
+[[tracks]]
+position = 3
+song-id = "turbo/geurimbaegyeong"
+duration = "3:49"
+
+[[tracks]]
+position = 4
+song-id = "turbo/namjadapge"
+duration = "3:51"
+
+[[tracks]]
+position = 5
+song-id = "turbo/tteugeoun-seoltang-hot-sugar-inst"
+duration = "3:40"
+
+[[tracks]]
+position = 6
+song-id = "turbo/paradise-inst"
+duration = "3:53"

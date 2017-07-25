@@ -1,0 +1,5 @@
+names = [
+  { name = "뜨거운 설탕 (Hot Sugar) (Inst.)", locale = "ko", original = true },
+  { name = "Tteugeoun Seoltang (Hot Sugar) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Hot Sugar (Inst.)", locale = "en" },
+]
