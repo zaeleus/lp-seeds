@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/seo-in-guk-jeong-eun-ji/eungdaphara-1997-love-story-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/seo-in-guk-jeong-eun-ji/all-for-you"
+duration = "4:08"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/seo-in-guk-jeong-eun-ji/all-for-you-inst"
+duration = "4:08"
