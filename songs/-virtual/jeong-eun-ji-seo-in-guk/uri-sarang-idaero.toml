@@ -1,0 +1,15 @@
+names = [
+  { name = "우리 사랑 이대로", locale = "ko", original = true },
+  { name = "Uri Sarang Idaero", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
+separator = " & "
+
+[[artist-credits]]
+artist-id = "seo-in-guk"

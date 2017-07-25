@@ -1,0 +1,28 @@
+artist-id = "-virtual/jeong-eun-ji-seo-in-guk"
+kind = "single"
+subkind = "ost"
+
+names = [
+  { name = "응답하라 1997 Love Story Part 2", locale = "ko", original = true },
+  { name = "Eungdaphara 1997 Love Story Part 2", locale = "ko-Latn", default = true },
+  { name = "Reply 1997 Love Story Part 2", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
+separator = " & "
+
+[[artist-credits]]
+artist-id = "seo-in-guk"
+
+[[releases]]
+released-on = "2012-09-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2148910" },
+]
