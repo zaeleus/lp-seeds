@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2008"
+country = "KR"
+
+names = [
+  { name = "바닐라 어쿠스틱", locale = "ko", original = true },
+  { name = "Vanilla Acoustic", locale = "ko-Latn", default = true },
+]

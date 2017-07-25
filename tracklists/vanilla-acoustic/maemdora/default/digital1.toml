@@ -1,0 +1,8 @@
+medium-ids = [
+  "vanilla-acoustic/maemdora/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vanilla-acoustic/maemdora"
+duration = "3:11"
