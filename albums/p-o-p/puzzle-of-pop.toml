@@ -1,0 +1,14 @@
+artist-id = "p-o-p"
+kind = "ep"
+
+names = [
+  { name = "Puzzle of POP", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-07-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10082793" },
+]

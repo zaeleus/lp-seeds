@@ -1,0 +1,38 @@
+medium-ids = [
+  "p-o-p/puzzle-of-pop/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "p-o-p/start-161516"
+duration = "1:14"
+
+[[tracks]]
+position = 2
+song-id = "p-o-p/aetage-get-hage"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "p-o-p/bimirilgi"
+duration = "3:43"
+
+[[tracks]]
+position = 4
+song-id = "p-o-p/han-georeumssik-geotgi"
+duration = "3:02"
+
+[[tracks]]
+position = 5
+song-id = "p-o-p/yip-pee"
+duration = "3:17"
+
+[[tracks]]
+position = 6
+song-id = "p-o-p/memory"
+duration = "3:30"
+
+[[tracks]]
+position = 7
+song-id = "p-o-p/aetage-get-hage-inst"
+duration = "3:28"

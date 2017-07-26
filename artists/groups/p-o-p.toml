@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "피오피", locale = "ko", original = true },
+  { name = "P.O.P", locale = "ko-Latn", default = true },
+]
