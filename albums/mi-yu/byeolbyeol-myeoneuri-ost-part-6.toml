@@ -1,0 +1,16 @@
+artist-id = "mi-yu"
+kind = "single"
+
+names = [
+  { name = "별별 며느리 OST Part.6", locale = "ko", original = true },
+  { name = "Byeolbyeol Myeoneuri OST Part.6", locale = "ko-Latn", default = true },
+  { name = "Sisters-in-Law OST Part.6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-07-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10082177" },
+]

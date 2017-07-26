@@ -1,0 +1,13 @@
+medium-ids = [
+  "mi-yu/byeolbyeol-myeoneuri-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mi-yu/neoreul-ilhda"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "mi-yu/neoreul-ilhda-inst"
+duration = "3:04"
