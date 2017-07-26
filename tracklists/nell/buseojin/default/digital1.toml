@@ -1,0 +1,8 @@
+medium-ids = [
+  "nell/buseojin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nell/buseojin"
+duration = "3:52"

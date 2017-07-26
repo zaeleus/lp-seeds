@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2001"
+country = "KR"
+
+names = [
+  { name = "넬", locale = "ko", original = true },
+  { name = "NELL", locale = "ko-Latn", default = true },
+]

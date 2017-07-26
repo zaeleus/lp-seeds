@@ -1,0 +1,15 @@
+artist-id = "nell"
+kind = "single"
+
+names = [
+  { name = "부서진", locale = "ko", original = true },
+  { name = "Buseojin", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-07-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10082516" },
+]
