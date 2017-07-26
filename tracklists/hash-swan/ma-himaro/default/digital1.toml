@@ -1,0 +1,8 @@
+medium-ids = [
+  "hash-swan/ma-himaro/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hash-swan/ma-himaro"
+duration = "4:45"
