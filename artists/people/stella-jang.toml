@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1991-11-18"
+country = "KR"
+
+names = [
+  { name = "스텔라장", locale = "ko", kind = "real", original = true },
+  { name = "Stella Jang", locale = "ko-Latn", kind = "real", default = true },
+]

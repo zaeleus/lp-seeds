@@ -1,0 +1,4 @@
+names = [
+  { name = "그대는 그대로 (Hidden Track No.V 6월 선정곡)", locale = "ko", original = true },
+  { name = "Geudaeneun Geudaero (Hidden Track No.V 6wol Seonjeonggok)", locale = "ko-Latn", default = true },
+]

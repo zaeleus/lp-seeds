@@ -1,0 +1,15 @@
+artist-id = "stella-jang"
+kind = "single"
+
+names = [
+  { name = "그대는 그대로", locale = "ko", original = true },
+  { name = "Geudaeneun Geudaero", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-07-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10078979" },
+]
