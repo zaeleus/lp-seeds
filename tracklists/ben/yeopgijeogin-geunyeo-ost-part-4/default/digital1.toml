@@ -1,0 +1,13 @@
+medium-ids = [
+  "ben/yeopgijeogin-geunyeo-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/unmyeong-cheoreom"
+duration = "4:07"
+
+[[tracks]]
+position = 2
+song-id = "ben/unmyeong-cheoreom-inst"
+duration = "4:07"

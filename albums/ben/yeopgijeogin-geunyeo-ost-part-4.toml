@@ -1,0 +1,17 @@
+artist-id = "ben"
+kind = "single"
+subkind = "ost"
+
+names = [
+  { name = "엽기적인 그녀 OST Part.4", locale = "ko", original = true },
+  { name = "Yeopgijeogin Geunyeo OST Part.4", locale = "ko-Latn", default = true },
+  { name = "My Sassy Girl OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-06-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10074259" },
+]
