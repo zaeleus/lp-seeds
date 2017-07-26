@@ -1,0 +1,13 @@
+medium-ids = [
+  "mfbty/yoon-mi-rae/choegoui-hanbang-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mfbty/yoon-mi-rae/jeolmeun-narui-sky"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "mfbty/yoon-mi-rae/jeolmeun-narui-sky-inst"
+duration = "2:58"

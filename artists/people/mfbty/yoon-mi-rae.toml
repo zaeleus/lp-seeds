@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1981-05-31"
+country = "KR"
+
+names = [
+  { name = "윤미래", locale = "ko", kind = "real", original = true },
+  { name = "Yoon Mi Rae", locale = "ko-Latn", kind = "real", default = true },
+  { name = "Natasha Shanta Reid", locale = "en", kind = "real" },
+]
