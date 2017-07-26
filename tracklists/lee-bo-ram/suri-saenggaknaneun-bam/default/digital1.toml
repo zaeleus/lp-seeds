@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-bo-ram/suri-saenggaknaneun-bam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-bo-ram/suri-saenggaknaneun-bam"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "lee-bo-ram/suri-saenggaknaneun-bam-inst"
+duration = "3:21"
