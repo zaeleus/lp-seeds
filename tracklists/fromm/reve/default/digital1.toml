@@ -1,0 +1,23 @@
+medium-ids = [
+  "fromm/reve/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fromm/our-night"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "fromm/beautiful-world"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "fromm/bomeun-gyeouri-kkuneun-kkum"
+duration = "3:50"
+
+[[tracks]]
+position = 4
+song-id = "fromm/fin"
+duration = "3:37"
