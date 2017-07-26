@@ -1,0 +1,4 @@
+names = [
+  { name = "Ambition and Vision (Feat. Beenzino, 창모, 김효은, Hash Swan, The Quiett)", locale = "ko", original = true },
+  { name = "Ambition and Vision (Feat. Beenzino, Changmo, Kim Hyo Eun, Hash Swan, The Quiett)", locale = "ko-Latn", default = true },
+]

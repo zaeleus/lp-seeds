@@ -1,0 +1,4 @@
+names = [
+  { name = "1llusion Remix (Feat. The Quiett, 김효은, CHANGMO, Hash Swan) (Bonus Track)", locale = "ko", original = true },
+  { name = "1llusion Remix (Feat. The Quiett, Kim Hyo Eun, CHANGMO, Hash Swan) (Bonus Track)", locale = "ko-Latn", default = true },
+]

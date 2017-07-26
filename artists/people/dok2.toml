@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1990-03-28"
+country = "KR"
+
+names = [
+  { name = "Dok2", locale = "ko-Latn", kind = "stage", original = true, default = true },
+  { name = "이준경", locale = "ko", kind = "real" },
+  { name = "Lee Joon Kyung", locale = "ko-Latn", kind = "real" },
+]

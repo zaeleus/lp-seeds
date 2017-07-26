@@ -1,0 +1,4 @@
+names = [
+  { name = "워럽 (Feat. 김효은)", locale = "ko", original = true },
+  { name = "Warp (Feat. Kim Hyo Eun)", locale = "en", default = true },
+]
