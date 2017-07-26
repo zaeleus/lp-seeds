@@ -1,0 +1,8 @@
+medium-ids = [
+  "g-soul/tequila/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-soul/tequila-feat-hoody"
+duration = "3:23"

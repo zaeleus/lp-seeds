@@ -1,0 +1,14 @@
+artist-id = "g-soul"
+kind = "single"
+
+names = [
+  { name = "Tequila", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-06-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10074639" },
+]
