@@ -1,0 +1,8 @@
+medium-ids = [
+  "bewhy/heunjeok/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bewhy/heunjeok"
+duration = "3:25"
