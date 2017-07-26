@@ -1,0 +1,3 @@
+names = [
+  { name = "Stay Alive (Feat. Dok2 & Hash Swan)", locale = "ko", original = true, default = true },
+]
