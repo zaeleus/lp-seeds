@@ -1,0 +1,33 @@
+medium-ids = [
+  "wonder-girls/2-different-tears/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wonder-girls/2-different-tears"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "wonder-girls/2-different-tears-english-ver"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "wonder-girls/2-different-tears-remix-ver"
+duration = "3:41"
+
+[[tracks]]
+position = 4
+song-id = "wonder-girls/tell-me-english-ver"
+duration = "3:39"
+
+[[tracks]]
+position = 5
+song-id = "wonder-girls/so-hot-english-ver"
+duration = "3:02"
+
+[[tracks]]
+position = 6
+song-id = "wonder-girls/nobody-english-ver"
+duration = "3:35"
