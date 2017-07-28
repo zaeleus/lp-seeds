@@ -1,0 +1,14 @@
+artist-id = "gilme"
+kind = "lp"
+
+names = [
+  { name = "2 Face", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-09-04"
+country = "KR"
+media = [{ kind = "digital" }, { kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2280885" },
+]

@@ -1,0 +1,3 @@
+names = [
+  { name = "Success (Don't KILL my Vibe)", locale = "ko", original = true, default = true },
+]

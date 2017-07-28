@@ -1,0 +1,23 @@
+medium-ids = [
+  "gilme/2-face/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gilme/shut-ur-mouth"
+duration = "2:04"
+
+[[tracks]]
+position = 2
+song-id = "gilme/success-don-t-kill-my-vibe"
+duration = "3:55"
+
+[[tracks]]
+position = 3
+song-id = "gilme/my-turn"
+duration = "3:07"
+
+[[tracks]]
+position = 4
+song-id = "gilme/standing-still"
+duration = "3:41"

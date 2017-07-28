@@ -3,8 +3,8 @@ started-on = "1985-04-10"
 country = "KR"
 
 names = [
-  { name = "길미", locale = "ko", kind = "real", original = true },
-  { name = "Gilme", locale = "ko-Latn", kind = "real", default = true },
+  { name = "길미", locale = "ko", kind = "stage", original = true },
+  { name = "Gilme", locale = "ko-Latn", kind = "stage", default = true },
 ]
 
 urls = [
