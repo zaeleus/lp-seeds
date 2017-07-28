@@ -1,0 +1,27 @@
+artist-id = "ieiri-leo"
+kind = "single"
+
+names = [
+  { name = "ずっと、ふたりで", locale = "ja", original = true },
+  { name = "Zutto, Futari de", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-07-26"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1258154456" },
+  { url = "http://mora.jp/package/43000005/VICL-37299/" },
+  { url = "http://mora.jp/package/43000005/VICL-37299_F/" },
+]
+
+[[releases]]
+released-on = "2017-07-26"
+country = "JP"
+catalog-number = "VICL-37299"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/554427/products/1236819/1/" },
+]

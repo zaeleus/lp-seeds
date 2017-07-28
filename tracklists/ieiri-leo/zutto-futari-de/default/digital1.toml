@@ -1,0 +1,18 @@
+medium-ids = [
+  "ieiri-leo/zutto-futari-de/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ieiri-leo/zutto-futari-de"
+duration = "4:40"
+
+[[tracks]]
+position = 2
+song-id = "ieiri-leo/datte-neko-dakara"
+duration = "3:56"
+
+[[tracks]]
+position = 3
+song-id = "ieiri-leo/hero"
+duration = "4:26"
