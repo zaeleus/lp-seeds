@@ -1,0 +1,5 @@
+names = [
+  { name = "넌 왜? (Feat. 서사무엘)", locale = "ko", original = true },
+  { name = "Neon Wae? (Feat. Samuel Seo)", locale = "ko-Latn", default = true },
+  { name = "Why, You? (Feat. Samuel Seo)", locale = "ko-Latn" },
+]

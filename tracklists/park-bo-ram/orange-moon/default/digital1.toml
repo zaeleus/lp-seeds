@@ -1,0 +1,28 @@
+medium-ids = [
+  "park-bo-ram/orange-moon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-bo-ram/neon-wae-feat-samuel-seo"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "park-bo-ram/moonwalk"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "park-bo-ram/irony"
+duration = "2:55"
+
+[[tracks]]
+position = 4
+song-id = "park-bo-ram/sangsang-date"
+duration = "3:42"
+
+[[tracks]]
+position = 5
+song-id = "park-bo-ram/aljanha"
+duration = "3:11"
