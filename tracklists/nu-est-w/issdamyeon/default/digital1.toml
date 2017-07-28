@@ -1,0 +1,8 @@
+medium-ids = [
+  "nu-est-w/issdamyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nu-est-w/issdamyeon"
+duration = "3:27"

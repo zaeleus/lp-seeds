@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "뉴이스트 W", locale = "ko", original = true },
+  { name = "NU'EST W", locale = "ko-Latn", default = true },
+]
