@@ -1,0 +1,3 @@
+names = [
+  { name = "Before & After (Intro)", locale = "ko", original = true, default = true },
+]

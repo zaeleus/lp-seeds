@@ -1,0 +1,33 @@
+medium-ids = [
+  "dreamcatcher/prequel/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dreamcatcher/before-after-intro"
+duration = "1:10"
+
+[[tracks]]
+position = 2
+song-id = "dreamcatcher/naraolla-fly-high"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "dreamcatcher/wake-up"
+duration = "3:32"
+
+[[tracks]]
+position = 4
+song-id = "dreamcatcher/sleep-walking"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "dreamcatcher/gwaenchanha"
+duration = "3:24"
+
+[[tracks]]
+position = 6
+song-id = "dreamcatcher/naraolla-fly-high-inst"
+duration = "3:31"

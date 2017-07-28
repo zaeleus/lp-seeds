@@ -1,0 +1,5 @@
+names = [
+  { name = "날아올라 (Fly high)", locale = "ko", original = true },
+  { name = "Naraolla (Fly high)", locale = "ko-Latn", default = true },
+  { name = "Fly high", locale = "en" },
+]
