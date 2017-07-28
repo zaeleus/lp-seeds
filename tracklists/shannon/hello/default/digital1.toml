@@ -1,0 +1,28 @@
+medium-ids = [
+  "shannon/hello/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shannon/hello"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "shannon/gado-dwae"
+duration = "3:47"
+
+[[tracks]]
+position = 3
+song-id = "shannon/nunmuri-heulleo-feat-lil-boi"
+duration = "3:33"
+
+[[tracks]]
+position = 4
+song-id = "shannon/love-don-t-hurt-feat-amber-of-f-x"
+duration = "3:33"
+
+[[tracks]]
+position = 5
+song-id = "shannon/hello-inst"
+duration = "3:21"
