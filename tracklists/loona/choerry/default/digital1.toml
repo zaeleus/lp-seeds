@@ -1,0 +1,13 @@
+medium-ids = [
+  "loona/choerry/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/love-cherry-motion-choerry"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "loona/puzzle-jinsoul-choerry"
+duration = "3:40"

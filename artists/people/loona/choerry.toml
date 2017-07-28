@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "2001-06-04"
+country = "KR"
+
+names = [
+  { name = "최리", locale = "ko", kind = "stage", original = true },
+  { name = "Choerry", locale = "ko-Latn", kind = "stage", default = true },
+]

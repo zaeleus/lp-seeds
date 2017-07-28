@@ -1,0 +1,10 @@
+names = [
+  { name = "Love Cherry Motion (최리)", locale = "ko", original = true },
+  { name = "Love Cherry Motion (Choerry)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=TYcl321HkYU", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=wck9n58URTU", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=VBbeuXW8Nko", name = "Music Video" },
+]
