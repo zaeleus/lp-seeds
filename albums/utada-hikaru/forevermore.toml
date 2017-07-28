@@ -1,0 +1,16 @@
+artist-id = "utada-hikaru"
+kind = "single"
+
+names = [
+  { name = "Forevermore", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-07-28"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1258447983" },
+  { url = "http://mora.jp/package/43000001/4547366320909/" },
+  { url = "http://mora.jp/package/43000001/4547366320916/" },
+]
