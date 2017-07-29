@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2014"
+country = "KR"
+
+names = [
+  { name = "원셋", locale = "ko", original = true },
+  { name = "1set", locale = "ko-Latn", default = true },
+]
