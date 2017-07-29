@@ -21,5 +21,6 @@ urls = [
   { url = "https://www.facebook.com/loonatheworld/" },
   { url = "https://www.instagram.com/loonatheworld/" },
   { url = "https://twitter.com/loonatheworld" },
+  { url = "http://channels.vlive.tv/E1F3A7" },
   { url = "https://www.youtube.com/channel/UCOJplhB0wGQWv9OuRmMT-4g" },
 ]
