@@ -3,3 +3,8 @@ names = [
   { name = "Ppalgan Mat (Red Flavor)", locale = "ko-Latn", default = true },
   { name = "Red Flavor", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=TTv7DBUWqxM", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=WyiIGEHQP8o", name = "Music Video" },
+]
