@@ -1,0 +1,43 @@
+medium-ids = [
+  "yeseo/million-things/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yeseo/silhouette"
+duration = "2:46"
+
+[[tracks]]
+position = 2
+song-id = "yeseo/million-things"
+duration = "4:14"
+
+[[tracks]]
+position = 3
+song-id = "yeseo/gongjunge-lazy-mary-jane"
+duration = "3:35"
+
+[[tracks]]
+position = 4
+song-id = "yeseo/last-touch"
+duration = "3:52"
+
+[[tracks]]
+position = 5
+song-id = "yeseo/rude"
+duration = "3:27"
+
+[[tracks]]
+position = 6
+song-id = "yeseo/my-youth"
+duration = "4:07"
+
+[[tracks]]
+position = 7
+song-id = "yeseo/deeper-than-love"
+duration = "4:02"
+
+[[tracks]]
+position = 8
+song-id = "yeseo/silhouette-e"
+duration = "2:47"

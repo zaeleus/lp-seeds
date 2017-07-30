@@ -1,0 +1,5 @@
+names = [
+  { name = "공중에 (Lazy Mary Jane)", locale = "ko", original = true },
+  { name = "Gongjunge (Lazy Mary Jane)", locale = "ko-Latn", default = true },
+  { name = "Lazy Mary Jane", locale = "en" },
+]
