@@ -1,0 +1,5 @@
+names = [
+  { name = "밥 영화 카페 (Feat. Aron of NU'EST)", locale = "ko", original = true },
+  { name = "Bap Yeonghwa Kape (Feat. Aron of NU'EST)", locale = "ko-Latn", default = true },
+  { name = "Loop (Feat. Aron of NU'EST)", locale = "en" },
+]

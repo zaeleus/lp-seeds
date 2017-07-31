@@ -1,0 +1,16 @@
+artist-id = "after-school/raina"
+kind = "single"
+
+names = [
+  { name = "밥 영화 카페", locale = "ko", original = true },
+  { name = "Bap Yeonghwa Kape", locale = "ko-Latn", default = true },
+  { name = "Loop", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-07-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10084076" },
+]

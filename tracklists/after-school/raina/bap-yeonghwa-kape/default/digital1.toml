@@ -1,0 +1,18 @@
+medium-ids = [
+  "after-school/raina/bap-yeonghwa-kape/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "after-school/raina/bap-yeonghwa-kape-feat-aron-of-nu-est"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "after-school/raina/matgyeojwo"
+duration = "2:58"
+
+[[tracks]]
+position = 3
+song-id = "after-school/raina/gati-issgo-sipeo"
+duration = "2:49"
