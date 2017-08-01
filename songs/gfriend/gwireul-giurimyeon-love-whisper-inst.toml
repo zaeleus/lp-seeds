@@ -1,0 +1,5 @@
+names = [
+  { name = "귀를 기울이면 (LOVE WHISPER) (Inst.)", locale = "ko", original = true },
+  { name = "Gwireul Giurimyeon (LOVE WHISPER) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "LOVE WHISPER (Inst.)", locale = "en" },
+]

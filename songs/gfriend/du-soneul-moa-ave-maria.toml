@@ -1,0 +1,5 @@
+names = [
+  { name = "두 손을 모아 (AVE MARIA)", locale = "ko", original = true },
+  { name = "Du Soneul Moa (AVE MARIA)", locale = "ko-Latn", default = true },
+  { name = "AVE MARIA", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "이분의 일 1/2 (ONE-HALF)", locale = "ko", original = true },
+  { name = "Ibunui Il 1/2 (ONE-HALF)", locale = "ko-Latn", default = true },
+  { name = "ONE-HALF", locale = "en" },
+]

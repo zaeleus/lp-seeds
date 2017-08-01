@@ -1,0 +1,5 @@
+names = [
+  { name = "빨간우산 (RED UMBRELLA)", locale = "ko", original = true },
+  { name = "Ppalganusan (RED UMBRELLA)", locale = "ko-Latn", default = true },
+  { name = "RED UMBRELLA", locale = "en" },
+]
