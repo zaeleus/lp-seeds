@@ -1,0 +1,33 @@
+medium-ids = [
+  "nine-muses/muses-diary-part-3-love-city/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/love-city"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "nine-muses/gieokhae"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "nine-muses/peseuchyuri"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "nine-muses/duriseo"
+duration = "3:34"
+
+[[tracks]]
+position = 5
+song-id = "nine-muses/hate-me"
+duration = "3:24"
+
+[[tracks]]
+position = 6
+song-id = "nine-muses/love-city-inst"
+duration = "3:26"

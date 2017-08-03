@@ -1,0 +1,14 @@
+artist-id = "nine-muses"
+kind = "ep"
+
+names = [
+  { name = "MUSES DIARY PART.3: LOVE CITY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10085109" },
+]
