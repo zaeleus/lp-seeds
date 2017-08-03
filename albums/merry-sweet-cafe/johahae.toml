@@ -1,0 +1,16 @@
+artist-id = "merry-sweet-cafe"
+kind = "single"
+
+names = [
+  { name = "좋아해", locale = "ko", original = true },
+  { name = "Johahae", locale = "ko-Latn", default = true },
+  { name = "Like It", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-08-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10084922" },
+]

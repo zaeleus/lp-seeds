@@ -1,0 +1,8 @@
+medium-ids = [
+  "merry-sweet-cafe/johahae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "merry-sweet-cafe/johahae"
+duration = "3:24"

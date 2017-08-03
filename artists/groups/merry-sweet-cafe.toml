@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+
+names = [
+  { name = "메리스윗카페", locale = "ko", original = true },
+  { name = "Merry Sweet Cafe", locale = "ko-Latn", default = true },
+]
