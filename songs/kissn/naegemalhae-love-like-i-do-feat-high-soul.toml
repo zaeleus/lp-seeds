@@ -1,0 +1,5 @@
+names = [
+  { name = "내게말해 (Love like i do) (Feat. 하이솔)", locale = "ko", original = true },
+  { name = "Naegemalhae (Love like i do) (Feat. High Soul)", locale = "ko-Latn", default = true },
+  { name = "Love like i do (Feat. High Soul)", locale = "en" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "kissn/naegemalhae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kissn/naegemalhae-love-like-i-do-feat-high-soul"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "kissn/naegemalhae-love-like-i-do-inst"
+duration = "3:12"

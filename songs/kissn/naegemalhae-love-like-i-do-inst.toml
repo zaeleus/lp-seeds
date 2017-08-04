@@ -1,0 +1,5 @@
+names = [
+  { name = "내게말해 (Love like i do) (Inst.)", locale = "ko", original = true },
+  { name = "Naegemalhae (Love like i do) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Love like i do (Inst.)", locale = "en" },
+]
