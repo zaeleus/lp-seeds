@@ -1,0 +1,4 @@
+names = [
+  { name = "With U (Feat. 청하)", locale = "ko", original = true },
+  { name = "With U (Feat. Chung Ha)", locale = "ko-Latn", default = true },
+]

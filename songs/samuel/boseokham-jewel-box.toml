@@ -1,0 +1,5 @@
+names = [
+  { name = "보석함 (Jewel Box)", locale = "ko", original = true },
+  { name = "Boseokham (Jewel Box)", locale = "ko-Latn", default = true },
+  { name = "Jewel Box", locale = "en" },
+]
