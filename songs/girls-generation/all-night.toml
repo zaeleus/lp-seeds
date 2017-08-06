@@ -1,0 +1,17 @@
+names = [
+  { name = "All Night", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=eQc9urMe5Ww", name = "Teaser Clip (#YOONA)" },
+  { url = "https://www.youtube.com/watch?v=BxnkTLW26So", name = "Teaser Clip (#TIFFANY)" },
+  { url = "https://www.youtube.com/watch?v=mMiteYOtUZY", name = "Teaser Clip (#YURI)" },
+  { url = "https://www.youtube.com/watch?v=1CVwO8R09FY", name = "Teaser Clip (#HYOYEON)" },
+  { url = "https://www.youtube.com/watch?v=5MF2CBygdKQ", name = "Teaser Clip (#SOOYOUNG)" },
+  { url = "https://www.youtube.com/watch?v=bObEofHm_SU", name = "Teaser Clip (#SEOHYUN)" },
+  { url = "https://www.youtube.com/watch?v=QCHbWV6EP_U", name = "Teaser Clip (#TAEYEON)" },
+  { url = "https://www.youtube.com/watch?v=EOjF2ay3CdE", name = "Teaser Clip (#SUNNY)" },
+  { url = "https://www.youtube.com/watch?v=Il9Megm7cRo", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=HzEJPRqLUZE", name = "Music Video (Documentary Ver.)" },
+  { url = "https://www.youtube.com/watch?v=f4w8IbQTJpY", name = "Music Video (Clean Ver.)" },
+]
