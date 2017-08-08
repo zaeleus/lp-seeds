@@ -1,0 +1,14 @@
+artist-id = "weki-meki"
+kind = "ep"
+
+names = [
+  { name = "WEME", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10086118" },
+]

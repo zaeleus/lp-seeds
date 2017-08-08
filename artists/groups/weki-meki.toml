@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "위키미키", locale = "ko", original = true },
+  { name = "Weki Meki", locale = "ko-Latn", default = true },
+]
