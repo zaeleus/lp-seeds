@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "블루미", locale = "ko", original = true },
+  { name = "Bloomy", locale = "ko-Latn", default = true },
+]
