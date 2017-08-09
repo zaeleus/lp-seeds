@@ -1,0 +1,33 @@
+medium-ids = [
+  "jessica/my-decade/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jessica/summer-storm"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "jessica/beautiful-mind"
+duration = "3:39"
+
+[[tracks]]
+position = 3
+song-id = "jessica/saturday-night"
+duration = "3:04"
+
+[[tracks]]
+position = 4
+song-id = "jessica/love-u"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "jessica/starry-night"
+duration = "4:25"
+
+[[tracks]]
+position = 6
+song-id = "jessica/bomiraseo-geurae"
+duration = "3:28"
