@@ -1,0 +1,13 @@
+medium-ids = [
+  "juniel/last-carnival/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "juniel/last-carnival"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "juniel/last-carnival-inst"
+duration = "3:43"
