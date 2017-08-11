@@ -1,0 +1,31 @@
+medium-ids = [
+  "maddy/come-over/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "maddy/moon-dance"
+duration = "2:23"
+
+[[tracks]]
+position = 2
+song-id = "maddy/shining"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "maddy/still-dreamin"
+duration = "3:22"
+names = [
+  { name = "STILL DREAMIN'", locale = "ko", original = true, default = true },
+]
+
+[[tracks]]
+position = 4
+song-id = "maddy/come-over"
+duration = "3:54"
+
+[[tracks]]
+position = 5
+song-id = "maddy/rollercoaster-remaster"
+duration = "3:06"

@@ -1,0 +1,3 @@
+names = [
+  { name = "Rollercoaster (Remaster)", locale = "ko", original = true, default = true },
+]
