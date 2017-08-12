@@ -1,0 +1,23 @@
+medium-ids = [
+  "bp-rania/refresh-7th/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bp-rania/beep-beep-beep"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "bp-rania/breathe-heavy"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "bp-rania/no-dab"
+duration = "3:12"
+
+[[tracks]]
+position = 4
+song-id = "bp-rania/breathe-heavy-eng-ver"
+duration = "3:42"

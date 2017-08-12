@@ -1,0 +1,14 @@
+artist-id = "bp-rania"
+kind = "ep"
+
+names = [
+  { name = "Refresh 7th", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10087285" },
+]
