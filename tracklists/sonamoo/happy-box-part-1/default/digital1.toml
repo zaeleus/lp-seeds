@@ -1,0 +1,13 @@
+medium-ids = [
+  "sonamoo/happy-box-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sonamoo/so-good"
+duration = "1:19"
+
+[[tracks]]
+position = 2
+song-id = "sonamoo/geumyoilbam"
+duration = "3:19"
