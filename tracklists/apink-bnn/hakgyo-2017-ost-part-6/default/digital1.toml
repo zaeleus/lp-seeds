@@ -1,0 +1,13 @@
+medium-ids = [
+  "apink-bnn/hakgyo-2017-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink-bnn/i-pray-4-you"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "apink-bnn/i-pray-4-you-inst"
+duration = "3:51"
