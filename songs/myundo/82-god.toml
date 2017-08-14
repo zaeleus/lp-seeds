@@ -1,0 +1,3 @@
+names = [
+  { name = "82 God", locale = "ko", original = true, default = true },
+]
