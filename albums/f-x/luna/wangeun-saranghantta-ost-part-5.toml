@@ -1,0 +1,24 @@
+artist-id = "f-x/luna"
+kind = "single"
+subkind = "ost"
+
+names = [
+  { name = "왕은 사랑한다 OST Part.5", locale = "ko", original = true },
+  { name = "Wangeun Saranghantta Ost Part.5", locale = "ko-Latn", default = true },
+  { name = "The King of Love OST Part.5", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "f-x/luna"
+names = [
+  { name = "루나", locale = "ko", original = true },
+  { name = "LUNA", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-08-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10087295" },
+]

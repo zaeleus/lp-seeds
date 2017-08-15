@@ -1,0 +1,11 @@
+names = [
+  { name = "말해줄래요 (Inst.)", locale = "ko", original = true },
+  { name = "Malhaejullaeyo (Inst.)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "f-x/luna"
+names = [
+  { name = "루나", locale = "ko", original = true },
+  { name = "LUNA", locale = "ko-Latn", default = true },
+]

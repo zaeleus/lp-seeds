@@ -1,0 +1,13 @@
+medium-ids = [
+  "f-x/luna/wangeun-saranghantta-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/luna/malhaejullaeyo"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "f-x/luna/malhaejullaeyo-inst"
+duration = "4:01"
