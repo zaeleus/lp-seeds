@@ -1,0 +1,8 @@
+medium-ids = [
+  "images/hello-hello/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "images/hello-hello-feat-sumin"
+duration = "3:45"

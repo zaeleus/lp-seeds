@@ -1,0 +1,14 @@
+artist-id = "images"
+kind = "single"
+
+names = [
+  { name = "Hello Hello", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10087450" },
+]
