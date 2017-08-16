@@ -1,0 +1,8 @@
+medium-ids = [
+  "suran/seulpeun-apeum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "suran/seulpeun-apeum"
+duration = "4:27"
