@@ -3,3 +3,10 @@ names = [
   { name = "Gwireul Giurimyeon (LOVE WHISPER)", locale = "ko-Latn", default = true },
   { name = "LOVE WHISPER", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=4OcI54zOXpk", name = "Comeback Trailer" },
+  { url = "https://www.youtube.com/watch?v=Bu3qbXHBxKU", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=lnXXfYA91Y8", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=BryESQvnfoc", name = "Dance Practice" },
+]
