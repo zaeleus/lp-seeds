@@ -1,0 +1,13 @@
+medium-ids = [
+  "winner/our-twenty-for/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "winner/love-me-love-me"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "winner/island"
+duration = "3:27"
