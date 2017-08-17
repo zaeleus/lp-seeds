@@ -1,0 +1,14 @@
+artist-id = "wanna-one"
+kind = "ep"
+
+names = [
+  { name = "1X1=1 (TO BE ONE)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10085951" },
+]

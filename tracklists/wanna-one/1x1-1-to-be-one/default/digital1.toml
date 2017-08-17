@@ -1,0 +1,28 @@
+medium-ids = [
+  "wanna-one/1x1-1-to-be-one/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wanna-one/to-be-one-intro"
+duration = "1:01"
+
+[[tracks]]
+position = 2
+song-id = "wanna-one/hwalhwal-burn-it-up"
+duration = "3:35"
+
+[[tracks]]
+position = 3
+song-id = "wanna-one/energetic"
+duration = "3:09"
+
+[[tracks]]
+position = 4
+song-id = "wanna-one/wanna-be-my-baby"
+duration = "3:21"
+
+[[tracks]]
+position = 5
+song-id = "wanna-one/i-jarie-acoustic-ver"
+duration = "4:18"

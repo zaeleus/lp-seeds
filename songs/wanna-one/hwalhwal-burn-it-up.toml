@@ -1,0 +1,5 @@
+names = [
+  { name = "활활 (Burn It Up)", locale = "ko", original = true },
+  { name = "Hwalhwal (Burn It Up)", locale = "ko-Latn", default = true },
+  { name = "Burn It Up", locale = "en" },
+]
