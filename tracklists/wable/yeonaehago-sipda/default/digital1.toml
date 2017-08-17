@@ -1,0 +1,8 @@
+medium-ids = [
+  "wable/yeonaehago-sipda/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wable/yeonaehago-sipda"
+duration = "2:54"

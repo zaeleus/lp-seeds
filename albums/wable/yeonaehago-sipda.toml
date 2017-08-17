@@ -1,0 +1,15 @@
+artist-id = "wable"
+kind = "single"
+
+names = [
+  { name = "연애하고 싶다", locale = "ko", original = true },
+  { name = "Yeonaehago Sipda", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-02-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2667182" },
+]
