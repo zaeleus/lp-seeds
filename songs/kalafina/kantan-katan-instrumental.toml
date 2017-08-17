@@ -1,0 +1,4 @@
+names = [
+  { name = "カンタンカタン-instrumental-", locale = "ja", original = true },
+  { name = "Kantan Katan -instrumental-", locale = "ja-Latn", default = true },
+]

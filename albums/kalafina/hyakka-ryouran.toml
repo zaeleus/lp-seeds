@@ -1,0 +1,17 @@
+artist-id = "kalafina"
+kind = "single"
+
+names = [
+  { name = "百火撩乱", locale = "ja", original = true },
+  { name = "Hyakka Ryouran", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-08-09"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1262278401" },
+  { url = "http://mora.jp/package/43000001/4547366324310/" },
+  { url = "http://mora.jp/package/43000001/4547366324303/" },
+]
