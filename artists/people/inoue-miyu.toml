@@ -1,0 +1,15 @@
+kind = "person"
+started-on = "1997-08-19"
+country = "JP"
+gender = "female"
+
+names = [
+  { name = "井上実優", locale = "ja", kind = "real", original = true },
+  { name = "Inoue Miyu", locale = "ja-Latn", kind = "real", default = true },
+]
+
+urls = [
+  { url = "http://www.inouemiyu.com/" },
+  { url = "https://www.instagram.com/miyuinoue0819/" },
+  { url = "https://twitter.com/miyu_i_official" },
+]

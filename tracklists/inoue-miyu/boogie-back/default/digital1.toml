@@ -1,0 +1,18 @@
+medium-ids = [
+  "inoue-miyu/boogie-back/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "inoue-miyu/boogie-back"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "inoue-miyu/slave"
+duration = "2:55"
+
+[[tracks]]
+position = 3
+song-id = "inoue-miyu/i-will-be-your-love"
+duration = "3:54"

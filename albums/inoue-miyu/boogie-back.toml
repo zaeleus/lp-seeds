@@ -1,0 +1,49 @@
+artist-id = "inoue-miyu"
+kind = "single"
+
+names = [
+  { name = "Boogie Back", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-04-19"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1213686248" },
+  { url = "http://mora.jp/package/43000005/VEAWA-34114/" },
+  { url = "http://mora.jp/package/43000005/VEAHD-11630_F/" },
+]
+
+[[releases]]
+released-on = "2017-04-19"
+country = "JP"
+catalog-number = "VIZL-1146"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.jvcmusic.co.jp/-/Discography/A025729/VIZL-1146.html" },
+  { url = "http://www.oricon.co.jp/prof/694191/products/1223321/1/" },
+]
+
+[[releases]]
+released-on = "2017-04-19"
+country = "JP"
+catalog-number = "VICL-37262"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.jvcmusic.co.jp/-/Discography/A025729/VICL-37262.html" },
+  { url = "http://www.oricon.co.jp/prof/694191/products/1223324/1/" },
+]
+
+[[releases]]
+released-on = "2017-04-19"
+country = "JP"
+catalog-number = "VICL-37263"
+media = [{ kind = "cd" }]
+disambiguation = "First Press Limited Edition"
+urls = [
+  { url = "http://www.jvcmusic.co.jp/-/Discography/A025729/VICL-37263.html" },
+  { url = "http://www.oricon.co.jp/prof/694191/products/1223323/1/" },
+]
