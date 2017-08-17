@@ -1,0 +1,4 @@
+names = [
+  { name = "~42 (Feat. 샘김 (SAM KIM), 에스나 (eSNa))", locale = "ko", original = true },
+  { name = "~42 (Feat. Sam Kim, eSNa)", locale = "en", default = true },
+]

@@ -1,0 +1,15 @@
+artist-id = "primary"
+kind = "ep"
+
+names = [
+  { name = "신인류", locale = "ko", original = true },
+  { name = "Shininryu", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-08-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10085342" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "On (Feat. 서사무엘, 죠지)", locale = "ko", original = true },
+  { name = "On (Feat. Samuel Seo, Jyoji)", locale = "ko-Latn", default = true },
+]

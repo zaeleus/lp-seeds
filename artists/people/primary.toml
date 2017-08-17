@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1983-01-31"
+country = "KR"
+
+names = [
+  { name = "프라이머리", locale = "ko", kind = "stage", original = true },
+  { name = "Primary", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "최동훈", locale = "ko", kind = "real" },
+  { name = "Choi Dong Hoon", locale = "ko-Latn", kind = "real" },
+]

@@ -1,0 +1,43 @@
+medium-ids = [
+  "primary/shininryu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "primary/on-feat-samuel-seo-jyoji"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "primary/baby-feat-joo-young"
+duration = "3:46"
+
+[[tracks]]
+position = 3
+song-id = "primary/sangsanghae-feat-chancellor-ph-1"
+duration = "4:04"
+
+[[tracks]]
+position = 4
+song-id = "primary/42-feat-sam-kim-esna"
+duration = "3:33"
+
+[[tracks]]
+position = 5
+song-id = "primary/ara-feat-sumin"
+duration = "3:30"
+
+[[tracks]]
+position = 6
+song-id = "primary/oneureun-waenji-feat-lee-yo-han-ofa"
+duration = "3:52"
+
+[[tracks]]
+position = 7
+song-id = "primary/bamkkot-night-flower-feat-car-the-garden"
+duration = "3:03"
+
+[[tracks]]
+position = 8
+song-id = "primary/mijigeunhae-feat-cokebath"
+duration = "4:03"
