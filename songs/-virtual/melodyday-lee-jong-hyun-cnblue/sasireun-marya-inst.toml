@@ -1,0 +1,15 @@
+names = [
+  { name = "사실은 말야 (Inst.)", locale = "ko", original = true },
+  { name = "Sasireun Marya (Inst.)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "melodyday"
+separator = ", "
+
+[[artist-credits]]
+artist-id = "cnblue/lee-jong-hyun"
+names = [
+  { name = "이종현 (CNBUE)", locale = "ko", original = true },
+  { name = "Lee Jong Hyun (CNBLUE)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/melodyday-lee-jong-hyun-cnblue/sasireun-marya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/melodyday-lee-jong-hyun-cnblue/sasireun-marya"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/melodyday-lee-jong-hyun-cnblue/sasireun-marya-inst"
+duration = "3:51"

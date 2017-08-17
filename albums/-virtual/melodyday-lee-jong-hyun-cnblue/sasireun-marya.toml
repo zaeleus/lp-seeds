@@ -1,0 +1,26 @@
+artist-id = "-virtual/melodyday-lee-jong-hyun-cnblue"
+kind = "single"
+
+names = [
+  { name = "사실은 말야", locale = "ko", original = true },
+  { name = "Sasireun Marya", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "melodyday"
+separator = ", "
+
+[[artist-credits]]
+artist-id = "cnblue/lee-jong-hyun"
+names = [
+  { name = "이종현 (CNBUE)", locale = "ko", original = true },
+  { name = "Lee Jong Hyun (CNBLUE)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2014-08-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2274653" },
+]
