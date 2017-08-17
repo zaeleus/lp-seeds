@@ -1,0 +1,13 @@
+medium-ids = [
+  "wable/baram-geurigo-kkochip-iyagi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wable/baram-geurigo-kkochip-iyagi"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "wable/baram-geurigo-kkochip-iyagi-original-ver"
+duration = "3:11"

@@ -1,0 +1,4 @@
+names = [
+  { name = "바람 그리고 (꽃잎 이야기) (Original Ver.)", locale = "ko", original = true },
+  { name = "Baram Geurigo (Kkochip Iyagi) (Original Ver.)", locale = "ko-Latn", default = true },
+]

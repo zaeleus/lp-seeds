@@ -1,0 +1,15 @@
+artist-id = "wable"
+kind = "single"
+
+names = [
+  { name = "바람 그리고 (꽃잎 이야기)", locale = "ko", original = true },
+  { name = "Baram Geurigo (Kkochip Iyagi)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2016-06-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2690585" },
+]
