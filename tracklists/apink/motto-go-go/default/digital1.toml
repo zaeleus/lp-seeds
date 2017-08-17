@@ -1,0 +1,23 @@
+medium-ids = [
+  "apink/motto-go-go/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink/motto-go-go"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "apink/i-m-in-love"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "apink/motto-go-go-instrumental"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "apink/i-m-in-love-instrumental"
+duration = "3:34"

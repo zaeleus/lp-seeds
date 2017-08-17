@@ -1,0 +1,16 @@
+artist-id = "apink"
+kind = "single"
+
+names = [
+  { name = "もっとGO!GO!", locale = "ja", original = true },
+  { name = "Motto GO!GO!", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-07-25"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1257572395" },
+  { url = "http://mora.jp/package/43000006/00602557818376/" },
+]
