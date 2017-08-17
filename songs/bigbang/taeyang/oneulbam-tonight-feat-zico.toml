@@ -1,0 +1,4 @@
+names = [
+  { name = "오늘밤 (TONIGHT) (Feat. ZICO)", locale = "ko", original = true },
+  { name = "Oneulbam (Tonight) (Feat. Zico)", locale = "ko-Latn", default = true },
+]
