@@ -1,0 +1,4 @@
+names = [
+  { name = "一樣愛著你 (Ryan B. Remix)", locale = "zh", original = true },
+  { name = "Yī Yàng Ài Zhe Nǐ (Ryan B. Remix)", locale = "zh-Latn", default = true },
+]

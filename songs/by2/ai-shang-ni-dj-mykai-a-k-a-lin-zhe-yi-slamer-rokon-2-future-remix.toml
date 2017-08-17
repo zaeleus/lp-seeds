@@ -1,0 +1,4 @@
+names = [
+  { name = "愛上你 (DJ Mykal a.k.a.林哲儀 & Slamer 'ROKON 2 FUTURE' Remix)", locale = "zh", original = true },
+  { name = "Ài Shàng Nǐ (DJ Mykal a.k.a. Lín Zhé Yí & Slamer 'ROKON 2 FUTURE' Remix)", locale = "zh-Latn", default = true },
+]

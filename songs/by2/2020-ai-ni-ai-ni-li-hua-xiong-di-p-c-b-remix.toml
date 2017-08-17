@@ -1,0 +1,4 @@
+names = [
+  { name = "2020 愛你愛你 (理化兄弟P.C.B Remix)", locale = "zh", original = true },
+  { name = "2020 Ài Nǐ ài Nǐ (Lǐ Huà Xiōng Dì P.C.B Remix)", locale = "zh-Latn", default = true },
+]

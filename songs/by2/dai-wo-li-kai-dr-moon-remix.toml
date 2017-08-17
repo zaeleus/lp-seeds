@@ -1,0 +1,4 @@
+names = [
+  { name = "帶我離開 (Dr. Moon Remix)", locale = "zh", original = true },
+  { name = "Dài Wǒ Lí Kāi (Dr. Moon Remix)", locale = "zh-Latn", default = true },
+]

@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2008"
+country = "TW"
+gender = "female"
+
+names = [
+  { name = "By2", locale = "zh", original = true, default = true },
+]

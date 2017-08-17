@@ -1,0 +1,16 @@
+artist-id = "by2"
+kind = "lp"
+
+names = [
+  { name = "愛又愛", locale = "zh", original = true },
+  { name = "Ài Yòu Ài", locale = "zh-Latn", default = true },
+  { name = "Love and Love", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-03-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1209444283" },
+]

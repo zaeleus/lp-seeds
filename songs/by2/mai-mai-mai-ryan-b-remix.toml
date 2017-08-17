@@ -1,0 +1,5 @@
+names = [
+  { name = "買買買 (Ryan B. Remix)", locale = "zh", original = true },
+  { name = "Mǎi Mǎi Mǎi (Ryan B. Remix)", locale = "zh-Latn", default = true },
+  { name = "Buy Buy Buy (Ryan B. Remix)", locale = "en" },
+]

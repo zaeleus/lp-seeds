@@ -1,0 +1,4 @@
+names = [
+  { name = "我知道 (DJ Noodle Remix)", locale = "zh", original = true },
+  { name = "Wǒ Zhī Dào (DJ Noodle Remix)", locale = "zh-Latn", default = true },
+]
