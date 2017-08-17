@@ -1,0 +1,8 @@
+names = [
+  { name = "눈물나게 (Solo)", locale = "ko", original = true },
+  { name = "Nunmullage (Solo)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "lee-si-eun" },
+]

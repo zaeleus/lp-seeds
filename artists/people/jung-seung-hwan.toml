@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1996-08-21"
+country = "KR"
+
+names = [
+  { name = "정승환", locale = "ko", kind = "real", original = true },
+  { name = "Jung Seung Hwan", locale = "ko-Latn", kind = "real", default = true },
+]
