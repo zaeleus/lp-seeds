@@ -1,0 +1,13 @@
+medium-ids = [
+  "hoody/baby-oh-baby/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hoody/baby-oh-baby"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "hoody/baby-oh-baby-cokejazz-hini-lee-remix"
+duration = "3:59"
