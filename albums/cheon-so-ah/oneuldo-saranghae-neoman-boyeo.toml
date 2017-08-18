@@ -1,0 +1,15 @@
+artist-id = "cheon-so-ah"
+kind = "single"
+
+names = [
+  { name = "오늘도 사랑해 너만 보여", locale = "ko", original = true },
+  { name = "Oneuldo Saranghae Neoman Boyeo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-08-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10087343" },
+]

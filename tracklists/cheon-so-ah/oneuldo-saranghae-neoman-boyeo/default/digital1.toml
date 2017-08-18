@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheon-so-ah/oneuldo-saranghae-neoman-boyeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheon-so-ah/oneuldo-saranghae-neoman-boyeo"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "cheon-so-ah/oneuldo-saranghae-neoman-boyeo-inst"
+duration = "3:02"
