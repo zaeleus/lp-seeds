@@ -1,0 +1,11 @@
+names = [
+  { name = "입술자국", locale = "ko", original = true },
+  { name = "Ipsuljaguk", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "f-ve-dolls"
+names = [
+  { name = "파이브돌스", locale = "ko", original = true },
+  { name = "5dolls", locale = "ko", default = true },
+]

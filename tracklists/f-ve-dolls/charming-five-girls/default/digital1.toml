@@ -1,0 +1,28 @@
+medium-ids = [
+  "f-ve-dolls/charming-five-girls/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-ve-dolls/neo-mariya"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "f-ve-dolls/ipsuljaguk"
+duration = "3:44"
+
+[[tracks]]
+position = 3
+song-id = "f-ve-dolls/jjureureureureu"
+duration = "3:36"
+
+[[tracks]]
+position = 4
+song-id = "f-ve-dolls/jallasseo"
+duration = "3:08"
+
+[[tracks]]
+position = 5
+song-id = "f-ve-dolls/geogi-jamkkan"
+duration = "3:18"

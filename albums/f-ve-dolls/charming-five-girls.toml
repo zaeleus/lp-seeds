@@ -1,0 +1,21 @@
+artist-id = "f-ve-dolls"
+kind = "ep"
+
+names = [
+  { name = "Charming Five Girls", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "f-ve-dolls"
+names = [
+  { name = "파이브돌스", locale = "ko", original = true },
+  { name = "5dolls", locale = "ko", default = true },
+]
+
+[[releases]]
+released-on = "2011-02-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1175152" },
+]
