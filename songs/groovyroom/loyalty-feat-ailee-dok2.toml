@@ -1,0 +1,4 @@
+names = [
+  { name = "Loyalty (Feat. 에일리, Dok2)", locale = "ko", original = true },
+  { name = "Loyalty (Feat. Ailee, Dok2)", locale = "ko-Latn", default = true },
+]

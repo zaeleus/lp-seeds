@@ -1,0 +1,14 @@
+artist-id = "groovyroom"
+kind = "ep"
+
+names = [
+  { name = "EVERYWHERE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-07-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10082152" },
+]

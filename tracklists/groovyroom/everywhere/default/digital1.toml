@@ -1,0 +1,38 @@
+medium-ids = [
+  "groovyroom/everywhere/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "groovyroom/unsigned-hype-feat-justhis"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "groovyroom/sunday-feat-heize-jay-park"
+duration = "3:02"
+
+[[tracks]]
+position = 3
+song-id = "groovyroom/eodijjeume-feat-suran-ph-1"
+duration = "3:29"
+
+[[tracks]]
+position = 4
+song-id = "groovyroom/ynf-feat-nafla-verbal-jint"
+duration = "2:43"
+
+[[tracks]]
+position = 5
+song-id = "groovyroom/tell-me-feat-sik-k-giriboy"
+duration = "3:18"
+
+[[tracks]]
+position = 6
+song-id = "groovyroom/xindoshi-feat-loopy-masta-wu-kim-hyo-eun-sik-k"
+duration = "4:15"
+
+[[tracks]]
+position = 7
+song-id = "groovyroom/loyalty-feat-ailee-dok2"
+duration = "3:45"
