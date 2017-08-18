@@ -1,0 +1,13 @@
+medium-ids = [
+  "f-ve-dolls/since-1971/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-ve-dolls/jjak-1-ho-original"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "f-ve-dolls/jjak-1-ho-listen-2"
+duration = "3:48"

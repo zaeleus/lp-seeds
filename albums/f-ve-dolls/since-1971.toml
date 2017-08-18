@@ -1,0 +1,14 @@
+artist-id = "f-ve-dolls"
+kind = "single"
+
+names = [
+  { name = "SINCE 1971", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-07-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2194904" },
+]
