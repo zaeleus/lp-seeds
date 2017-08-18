@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan-oguogu/ice-chu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan-oguogu/ice-chu"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "gugudan-oguogu/ice-chu-inst"
+duration = "3:15"
