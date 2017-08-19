@@ -1,0 +1,23 @@
+medium-ids = [
+  "loco/summer-go-loco/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loco/oppa"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "loco/summer-go-loco-feat-gray"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "loco/party-band-feat-punchnello-thur"
+duration = "3:55"
+
+[[tracks]]
+position = 4
+song-id = "loco/alright-summer-time-feat-sam-kim"
+duration = "3:49"
