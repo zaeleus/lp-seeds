@@ -1,0 +1,14 @@
+artist-id = "yeseo"
+kind = "single"
+
+names = [
+  { name = "No City For Love", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-02-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10041611" },
+]
