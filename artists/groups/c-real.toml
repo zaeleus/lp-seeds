@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2011"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "씨리얼", locale = "ko", original = true },
+  { name = "C-REAL", locale = "ko-Latn", default = true },
+]
