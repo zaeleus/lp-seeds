@@ -1,0 +1,4 @@
+names = [
+  { name = "VJ in 피노키오 (BPM105)", locale = "ko", original = true },
+  { name = "VJ in Pinocchio (BPM105)", locale = "en", default = true },
+]

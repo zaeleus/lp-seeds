@@ -1,0 +1,3 @@
+names = [
+  { name = "VJ in Zero (BPM91)", locale = "ko", original = true, default = true },
+]

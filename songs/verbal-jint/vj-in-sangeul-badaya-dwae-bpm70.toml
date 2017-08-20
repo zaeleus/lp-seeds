@@ -1,0 +1,4 @@
+names = [
+  { name = "VJ in 상을 받아야 돼 (BPM70)", locale = "ko", original = true },
+  { name = "VJ in Sangeul Badaya Dwae (BPM70)", locale = "ko-Latn", default = true },
+]

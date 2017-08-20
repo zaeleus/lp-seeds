@@ -1,0 +1,4 @@
+names = [
+  { name = "VJ in 애매해 (BPM85)", locale = "ko", original = true },
+  { name = "VJ in Aemaehae (BPM85)", locale = "ko-Latn", default = true },
+]
