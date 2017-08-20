@@ -1,0 +1,33 @@
+medium-ids = [
+  "c-real/love-diary/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "c-real/love-diary"
+duration = "1:04"
+
+[[tracks]]
+position = 2
+song-id = "c-real/joma-joma"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "c-real/joahae-saranghae"
+duration = "3:44"
+
+[[tracks]]
+position = 4
+song-id = "c-real/mame-deundago"
+duration = "3:30"
+
+[[tracks]]
+position = 5
+song-id = "c-real/nappeun-aecheoreom"
+duration = "3:10"
+
+[[tracks]]
+position = 6
+song-id = "c-real/joma-joma-tap-cut-ver-inst"
+duration = "3:23"
