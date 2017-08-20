@@ -1,0 +1,38 @@
+medium-ids = [
+  "gi/tremendous/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gi/neo-ttaemune"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "gi/gi-yeuk"
+duration = "3:48"
+
+[[tracks]]
+position = 3
+song-id = "gi/ppeongchijima-feat-dok2"
+duration = "2:49"
+
+[[tracks]]
+position = 4
+song-id = "gi/dirideom"
+duration = "3:32"
+
+[[tracks]]
+position = 5
+song-id = "gi/beetles"
+duration = "3:29"
+
+[[tracks]]
+position = 6
+song-id = "gi/gi-yeuk-inst"
+duration = "3:48"
+
+[[tracks]]
+position = 7
+song-id = "gi/ppeongchijima-inst"
+duration = "2:49"
