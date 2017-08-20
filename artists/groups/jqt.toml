@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2009"
+country = "KR"
+
+names = [
+  { name = "제이큐티", locale = "ko", original = true },
+  { name = "JQT", locale = "ko-Latn", default = true },
+]

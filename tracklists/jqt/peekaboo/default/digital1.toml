@@ -1,0 +1,33 @@
+medium-ids = [
+  "jqt/peekaboo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jqt/peekaboo"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "jqt/neo-ttaemune"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "jqt/choosy-boy"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song-id = "jqt/one-by-one"
+duration = "3:29"
+
+[[tracks]]
+position = 5
+song-id = "jqt/nollangeol"
+duration = "3:10"
+
+[[tracks]]
+position = 6
+song-id = "jqt/peekaboo-inst"
+duration = "3:21"
