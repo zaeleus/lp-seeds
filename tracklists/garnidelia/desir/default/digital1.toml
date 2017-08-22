@@ -1,0 +1,23 @@
+medium-ids = [
+  "garnidelia/desir/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "garnidelia/desir"
+duration = "4:44"
+
+[[tracks]]
+position = 2
+song-id = "garnidelia/wasurenagusa"
+duration = "4:16"
+
+[[tracks]]
+position = 3
+song-id = "garnidelia/special-girl"
+duration = "3:46"
+
+[[tracks]]
+position = 4
+song-id = "garnidelia/desir-instrumental"
+duration = "4:44"

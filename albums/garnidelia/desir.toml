@@ -1,0 +1,16 @@
+artist-id = "garnidelia"
+kind = "single"
+
+names = [
+  { name = "Desir", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-23"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1266194931" },
+  { url = "http://mora.jp/package/43000001/4547366325805/" },
+  { url = "http://mora.jp/package/43000001/4547366326130/" },
+]

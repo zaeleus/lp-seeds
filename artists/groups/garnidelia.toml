@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "2010"
+country = "JP"
+
+names = [
+  { name = "ガルニデリア", locale = "ja" },
+  { name = "GARNiDELiA", locale = "ja-Latn", original = true, default = true },
+]
