@@ -1,0 +1,16 @@
+artist-id = "red-velvet"
+kind = "single"
+
+names = [
+  { name = "환생 (Rebirth)", locale = "ko", original = true },
+  { name = "Hwansaeng (Rebirth)", locale = "ko-Latn", default = true },
+  { name = "Rebirth", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-08-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10089060" },
+]

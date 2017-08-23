@@ -1,0 +1,5 @@
+names = [
+  { name = "환생 (Rebirth)", locale = "ko", original = true },
+  { name = "Hwansaeng (Rebirth)", locale = "ko-Latn", default = true },
+  { name = "Rebirth", locale = "en" },
+]

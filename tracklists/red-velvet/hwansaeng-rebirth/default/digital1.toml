@@ -1,0 +1,13 @@
+medium-ids = [
+  "red-velvet/hwansaeng-rebirth/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/hwansaeng-rebirth"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/hwansaeng-rebirth-inst"
+duration = "3:33"
