@@ -1,0 +1,14 @@
+artist-id = "pristin"
+kind = "ep"
+
+names = [
+  { name = "SCHXXL OUT", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10090247" },
+]

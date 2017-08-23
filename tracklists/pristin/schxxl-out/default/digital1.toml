@@ -1,0 +1,28 @@
+medium-ids = [
+  "pristin/schxxl-out/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pristin/we-are-pristin"
+duration = "2:44"
+
+[[tracks]]
+position = 2
+song-id = "pristin/we-like"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "pristin/aloha"
+duration = "2:48"
+
+[[tracks]]
+position = 4
+song-id = "pristin/tina"
+duration = "3:00"
+
+[[tracks]]
+position = 5
+song-id = "pristin/neo-marya-neo"
+duration = "3:28"
