@@ -9,7 +9,7 @@ names = [
 
 [[releases]]
 released-on = "2017-03-03"
-country = "KR"
+country = "CN"
 media = [{ kind = "digital" }]
 urls = [
   { url = "https://itunes.apple.com/us/album/id1209444283" },
