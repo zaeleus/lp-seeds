@@ -1,0 +1,15 @@
+artist-id = "s2"
+kind = "ep"
+
+names = [
+  { name = "허니야", locale = "ko", original = true },
+  { name = "Heoniya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-08-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10090347" },
+]
