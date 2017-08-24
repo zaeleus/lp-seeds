@@ -1,0 +1,15 @@
+artist-id = "ahn-ye-eun"
+kind = "ep"
+
+names = [
+  { name = "一日 (일일)", locale = "ko", original = true },
+  { name = "Iril", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-08-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10089246" },
+]

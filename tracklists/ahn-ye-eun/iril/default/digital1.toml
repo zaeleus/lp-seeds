@@ -1,0 +1,23 @@
+medium-ids = [
+  "ahn-ye-eun/iril/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ahn-ye-eun/geurae"
+duration = "2:55"
+
+[[tracks]]
+position = 2
+song-id = "ahn-ye-eun/little-kingdom"
+duration = "2:46"
+
+[[tracks]]
+position = 3
+song-id = "ahn-ye-eun/bomsonbamkkum"
+duration = "4:41"
+
+[[tracks]]
+position = 4
+song-id = "ahn-ye-eun/paaran"
+duration = "4:03"
