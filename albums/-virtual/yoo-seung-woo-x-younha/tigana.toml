@@ -1,0 +1,20 @@
+artist-id = "-virtual/yoo-seung-woo-x-younha"
+kind = "single"
+
+names = [
+  { name = "티가나", locale = "ko", original = true },
+  { name = "Tigana", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "yoo-seung-woo", separator = " X " },
+  { artist-id = "younha" },
+]
+
+[[releases]]
+released-on = "2017-08-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10090788" },
+]

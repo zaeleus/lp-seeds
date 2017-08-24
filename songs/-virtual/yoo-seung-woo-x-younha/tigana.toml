@@ -1,0 +1,9 @@
+names = [
+  { name = "티가나", locale = "ko", original = true },
+  { name = "Tigana", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "yoo-seung-woo", separator = " X " },
+  { artist-id = "younha" },
+]
