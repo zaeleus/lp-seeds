@@ -1,0 +1,14 @@
+artist-id = "cherry-coke"
+kind = "single"
+
+names = [
+  { name = "Don't Kill My Vibe", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10090488" },
+]
