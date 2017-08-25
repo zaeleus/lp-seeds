@@ -1,0 +1,14 @@
+artist-id = "noodles"
+kind = "lp"
+
+names = [
+  { name = "Metaltic Nocturne", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-07-26"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000014/QECD-10004/" },
+]

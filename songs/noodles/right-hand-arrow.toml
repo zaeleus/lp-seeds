@@ -1,0 +1,3 @@
+names = [
+  { name = "right hand arrow", locale = "ja", original = true, default = true },
+]

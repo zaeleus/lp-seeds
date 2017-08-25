@@ -1,0 +1,3 @@
+names = [
+  { name = "Last chance for a good look at the planet", locale = "ja", original = true, default = true },
+]
