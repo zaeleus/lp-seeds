@@ -1,0 +1,5 @@
+names = [
+  { name = "비야 와라 (Let it rain)", locale = "ko", original = true },
+  { name = "Biya Wara (Let it rain)", locale = "ko-Latn", default = true },
+  { name = "Let it rain", locale = "en" },
+]

@@ -1,0 +1,16 @@
+artist-id = "kassy"
+kind = "single"
+
+names = [
+  { name = "비야 와라 (Let it rain)", locale = "ko", original = true },
+  { name = "Biya Wara (Let it rain)", locale = "ko-Latn", default = true },
+  { name = "Let it rain", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-08-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10090956" },
+]

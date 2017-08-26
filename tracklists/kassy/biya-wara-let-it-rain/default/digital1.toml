@@ -1,0 +1,13 @@
+medium-ids = [
+  "kassy/biya-wara-let-it-rain/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/biya-wara-let-it-rain"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "kassy/biya-wara-let-it-rain-inst"
+duration = "3:10"
