@@ -1,0 +1,14 @@
+names = [
+  { name = "Dumb Dumb", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "jang-jae-in", separator = ", " },
+  { artist-id = "giant-pink", separator = ", " },
+  { artist-id = "perc-nt" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=wvtnMGk_baI", name = "Preview" },
+  { url = "https://www.youtube.com/watch?v=zDq2dr70sC8", name = "Music Video" },
+]

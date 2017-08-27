@@ -1,0 +1,20 @@
+artist-id = "-virtual/jang-jae-in-giant-pink-perc-nt"
+kind = "single"
+
+names = [
+  { name = "LISTEN 012 Dumb Dumb", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "jang-jae-in", separator = ", " },
+  { artist-id = "giant-pink", separator = ", " },
+  { artist-id = "perc-nt" },
+]
+
+[[releases]]
+released-on = "2017-08-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10088592" },
+]
