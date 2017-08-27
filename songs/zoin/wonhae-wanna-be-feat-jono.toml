@@ -1,0 +1,4 @@
+names = [
+  { name = "원해 (Wanna Be) (Feat. JONO)", locale = "ko", original = true },
+  { name = "Wonhae (Wanna Be) (Feat. JONO)", locale = "ko-Latn", default = true },
+]
