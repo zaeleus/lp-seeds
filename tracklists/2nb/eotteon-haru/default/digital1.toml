@@ -1,0 +1,13 @@
+medium-ids = [
+  "2nb/eotteon-haru/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2nb/eotteon-haru"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "2nb/eotteon-haru-inst"
+duration = "3:25"
