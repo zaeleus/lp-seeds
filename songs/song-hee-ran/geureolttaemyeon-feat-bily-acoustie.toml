@@ -1,0 +1,4 @@
+names = [
+  { name = "그럴때면 (Feat. 빌리어코스티)", locale = "ko", original = true },
+  { name = "Geureolttaemyeon (Feat. Bily Acoustie)", locale = "ko-Latn", default = true },
+]

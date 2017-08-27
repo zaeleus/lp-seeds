@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1985-12-15"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "송희란", locale = "ko", kind = "real", original = true },
+  { name = "Song Hee Ran", locale = "ko-Latn", kind = "real", default = true },
+]

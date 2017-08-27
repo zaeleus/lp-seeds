@@ -1,0 +1,8 @@
+medium-ids = [
+  "song-hee-ran/geureolttaemyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "song-hee-ran/geureolttaemyeon-feat-bily-acoustie"
+duration = "3:30"
