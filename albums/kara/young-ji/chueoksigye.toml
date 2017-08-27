@@ -1,0 +1,23 @@
+artist-id = "kara/young-ji"
+kind = "single"
+
+names = [
+  { name = "추억시계", locale = "ko", original = true },
+  { name = "Chueoksigye", locale = "ko-Latn", default = true },
+  { name = "Memory Clock", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "kara/young-ji"
+names = [
+  { name = "허영지", locale = "ko", original = true },
+  { name = "Hur Young Ji", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-08-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10090105" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "kara/young-ji/chueoksigye/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kara/young-ji/chueoksigye"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "kara/young-ji/chueoksigye-inst"
+duration = "3:13"
