@@ -1,0 +1,14 @@
+kind = "person"
+started-on = "1991-11-15"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "후아유", locale = "ko", kind = "stage", original = true },
+  { name = "Who R U", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+urls = [
+  { url = "https://www.instagram.com/whoru_u/" },
+  { url = "http://cafe.naver.com/whorrru" },
+]

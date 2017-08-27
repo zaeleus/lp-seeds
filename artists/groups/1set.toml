@@ -1,8 +1,14 @@
 kind = "group"
 started-on = "2014"
 country = "KR"
+gender = "female"
 
 names = [
   { name = "원셋", locale = "ko", original = true },
   { name = "1set", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { artist-id = "1set/who-r-u" },
+  { artist-id = "1set/yerin" },
 ]
