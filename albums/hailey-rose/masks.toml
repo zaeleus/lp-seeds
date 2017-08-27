@@ -1,0 +1,14 @@
+artist-id = "hailey-rose"
+kind = "single"
+
+names = [
+  { name = "Masks", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10091117" },
+]

@@ -1,0 +1,7 @@
+names = [
+  { name = "Masks (Feat. SWYZII)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=gpZ9N032M6Q", name = "Music Video" },
+]
