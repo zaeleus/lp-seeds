@@ -1,0 +1,8 @@
+medium-ids = [
+  "heize/neowa-hamkkehan-sigan-sogeseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heize/neowa-hamkkehan-sigan-sogeseo"
+duration = "3:45"
