@@ -1,0 +1,9 @@
+names = [
+  { name = "우쭈쭈", locale = "ko", original = true },
+  { name = "Woo Chu Chu", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=E5StlvzQDaA", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=qivFyyllBSE", name = "Music Video" },
+]

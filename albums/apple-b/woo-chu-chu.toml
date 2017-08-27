@@ -1,0 +1,15 @@
+artist-id = "apple-b"
+kind = "single"
+
+names = [
+  { name = "우쭈쭈", locale = "ko", original = true },
+  { name = "Woo Chu Chu", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-08-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10084363" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "apple-b/woo-chu-chu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apple-b/woo-chu-chu"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "apple-b/woo-chu-chu-inst"
+duration = "3:22"
