@@ -1,0 +1,4 @@
+names = [
+  { name = "Summer holiday (Duet With 동욱 of 밴드민욱)", locale = "ko", original = true },
+  { name = "Summer holiday (Duet with Dong Wook of MINUK)", locale = "en", default = true },
+]
