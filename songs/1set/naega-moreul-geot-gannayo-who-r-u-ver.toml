@@ -1,0 +1,4 @@
+names = [
+  { name = "내가 모를 것 같나요 (후아유 Ver.)", locale = "ko", original = true },
+  { name = "Naega Moreul Geot Gannayo (Who R U Ver.)", locale = "ko-Latn", default = true },
+]
