@@ -1,0 +1,16 @@
+artist-id = "s-i-s"
+kind = "single"
+
+names = [
+  { name = "느낌이 와", locale = "ko", original = true },
+  { name = "Neukkimi Wa", locale = "ko-Latn", default = true },
+  { name = "I've Got a Feeling", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-08-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10090889" },
+]

@@ -1,0 +1,23 @@
+medium-ids = [
+  "s-i-s/neukkimi-wa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "s-i-s/neukkimi-wa"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "s-i-s/aya"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "s-i-s/naui-uju"
+duration = "3:27"
+
+[[tracks]]
+position = 4
+song-id = "s-i-s/neukkimi-wa-inst"
+duration = "3:10"
