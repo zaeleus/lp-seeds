@@ -1,0 +1,5 @@
+names = [
+  { name = "취하고 있어 (Feat. 용준형)", locale = "ko", original = true },
+  { name = "Chwihago Isseo (Feat. Yong Jun Hyung)", locale = "ko-Latn", default = true },
+  { name = "Mesmerized (Feat. Yong Jun Hyung)", locale = "en" },
+]

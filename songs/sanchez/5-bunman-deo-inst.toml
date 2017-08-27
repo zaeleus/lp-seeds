@@ -1,0 +1,5 @@
+names = [
+  { name = "5분만 더 (Inst.)", locale = "ko", original = true },
+  { name = "5-bunman Deo (Inst.)", locale = "ko-Latn", default = true },
+  { name = "5 More Minutes (Inst.)", locale = "en" },
+]

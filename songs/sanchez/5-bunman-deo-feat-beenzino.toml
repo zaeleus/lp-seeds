@@ -1,0 +1,5 @@
+names = [
+  { name = "5분만 더 (Feat. 빈지노)", locale = "ko", original = true },
+  { name = "5-bunman Deo (Feat. Beenzino)", locale = "ko-Latn", default = true },
+  { name = "5 More Minutes (Feat. Beenzino)", locale = "en" },
+]

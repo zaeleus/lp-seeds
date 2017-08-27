@@ -1,0 +1,15 @@
+artist-id = "sanchez"
+kind = "ep"
+
+names = [
+  { name = "감성 EP", locale = "ko", original = true },
+  { name = "Gamseong EP", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-08-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10091288" },
+]
