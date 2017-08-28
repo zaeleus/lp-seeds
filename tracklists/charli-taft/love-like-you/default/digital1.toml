@@ -1,0 +1,13 @@
+medium-ids = [
+  "charli-taft/love-like-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "charli-taft/love-like-you"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "charli-taft/love-like-you-inst"
+duration = "3:40"

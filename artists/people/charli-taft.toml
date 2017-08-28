@@ -1,0 +1,12 @@
+kind = "person"
+#started-on = ""
+country = "UK"
+
+names = [
+  { name = "Charli Taft", locale = "en", kind = "real", original = true },
+]
+
+urls = [
+  { url = "https://www.facebook.com/charlitaft" },
+  { url = "https://twitter.com/charlitaft" },
+]
