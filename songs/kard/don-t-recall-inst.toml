@@ -1,0 +1,3 @@
+names = [
+  { name = "Don't Recall (Inst.)", locale = "ko", original = true, default = true },
+]
