@@ -1,0 +1,27 @@
+medium-ids = [
+  "block-b/zico/television/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "block-b/zico/cheonjae-behind-the-scene"
+
+[[tracks]]
+position = 2
+song-id = "block-b/zico/artist"
+
+[[tracks]]
+position = 3
+song-id = "block-b/zico/anti-feat-g-soul"
+
+[[tracks]]
+position = 4
+song-id = "block-b/zico/fanxy-child-feat-fanxy-child"
+
+[[tracks]]
+position = 5
+song-id = "block-b/zico/she-s-a-baby"
+
+[[tracks]]
+position = 6
+song-id = "block-b/zico/bermuda-triangle-feat-crush-dean"

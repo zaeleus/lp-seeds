@@ -1,0 +1,23 @@
+medium-ids = [
+  "block-b/zico/television/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "block-b/zico/cheonjae-behind-the-scene"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "block-b/zico/artist"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "block-b/zico/anti-feat-g-soul"
+duration = "3:36"
+
+[[tracks]]
+position = 4
+song-id = "block-b/zico/fanxy-child-feat-fanxy-child"
+duration = "3:54"

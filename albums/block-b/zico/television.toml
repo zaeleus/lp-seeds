@@ -1,0 +1,23 @@
+artist-id = "block-b/zico"
+kind = "ep"
+
+names = [
+  { name = "TELEVISION", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-07-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10078915" },
+]
+
+[[releases]]
+released-on = "2017-07-12"
+country = "KR"
+catalog-number = "CMCC11114"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.hanteo.com/search/album_info.asp?mcode=034204186" },
+]

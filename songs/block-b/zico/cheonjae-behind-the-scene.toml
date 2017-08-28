@@ -1,0 +1,4 @@
+names = [
+  { name = "천재 (Behind the scene)", locale = "ko", original = true },
+  { name = "Cheonjae (Behind the scene)", locale = "ko-Latn", default = true },
+]
