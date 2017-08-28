@@ -1,0 +1,13 @@
+medium-ids = [
+  "flashe/flashe-season-album/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "flashe/popping"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "flashe/popping-inst"
+duration = "3:32"

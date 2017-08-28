@@ -1,0 +1,9 @@
+names = [
+  { name = "POPPING (팝핑)", locale = "ko", original = true },
+  { name = "POPPING", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=mgezwzfKKLM", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=7HQE7cDdhZc", name = "Music Video" },
+]
