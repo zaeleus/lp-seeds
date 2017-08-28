@@ -1,0 +1,13 @@
+medium-ids = [
+  "to-day/moonlit/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "to-day/moonlit"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "to-day/moonlit-inst"
+duration = "4:01"

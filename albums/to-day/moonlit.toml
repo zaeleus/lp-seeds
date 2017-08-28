@@ -1,0 +1,14 @@
+artist-id = "to-day"
+kind = "single"
+
+names = [
+  { name = "Moonlit", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10091410" },
+]

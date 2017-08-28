@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1996-01-04"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "오늘", locale = "ko", kind = "stage", original = true },
+  { name = "Oneul", locale = "ko-Latn", kind = "stage" },
+  { name = "TO-DAY", locale = "en", kind = "stage", default = true },
+  { name = "오지원", locale = "ko", kind = "real" },
+  { name = "Oh Ji Won", locale = "ko-Latn", kind = "real" },
+]
