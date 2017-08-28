@@ -1,0 +1,11 @@
+kind = "group"
+started-on = "2010"
+country = "KR"
+
+names = [
+  { name = "10cm", locale = "ko", original = true, default = true },
+]
+
+members = [
+  { artist-id = "10cm/kwon-jeong-yeol" },
+]
