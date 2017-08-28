@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/ali-cheetah/don-t-speak/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/ali-cheetah/don-t-speak"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/ali-cheetah/don-t-speak-inst"
+duration = "3:22"

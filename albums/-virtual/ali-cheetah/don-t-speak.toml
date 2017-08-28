@@ -1,0 +1,19 @@
+artist-id = "-virtual/ali-cheetah"
+kind = "single"
+
+names = [
+  { name = "Don't Speak", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "ali", separator = " & " },
+  { artist-id = "cheetah" },
+]
+
+[[releases]]
+released-on = "2017-08-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10085704" },
+]

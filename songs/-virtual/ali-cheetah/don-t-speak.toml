@@ -1,0 +1,8 @@
+names = [
+  { name = "Don't Speak", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "ali", separator = " & " },
+  { artist-id = "cheetah" },
+]

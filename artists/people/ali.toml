@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1984-11-20"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "알리", locale = "ko", kind = "stage", original = true },
+  { name = "ALi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조용진", locale = "ko", kind = "real" },
+  { name = "Jo Yong Jin", locale = "ko-Latn", kind = "real" },
+]
