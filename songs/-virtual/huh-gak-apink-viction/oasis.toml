@@ -1,0 +1,10 @@
+names = [
+  { name = "오아시스", locale = "ko", original = true },
+  { name = "Oasis", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "huh-gak", separator = ", " },
+  { artist-id = "apink", separator = ", " },
+  { artist-id = "viction" },
+]
