@@ -1,0 +1,16 @@
+artist-id = "fine"
+kind = "single"
+
+names = [
+  { name = "Rollercoaster ∞ 사랑, 그 감정노동", locale = "ko", original = true },
+  { name = "Rollercoaster ∞ Sarang, Geu Gamjeongnodong", locale = "ko-Latn", default = true },
+  { name = "Rollercoaster ∞ Love, Sentinmental Work", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-08-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10091207" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "Rollercoaster ∞ 사랑, 그 감정노동", locale = "ko", original = true },
+  { name = "Rollercoaster ∞ Sarang, Geu Gamjeongnodong", locale = "ko-Latn", default = true },
+  { name = "Rollercoaster ∞ Love, Sentinmental Work", locale = "en" },
+]
