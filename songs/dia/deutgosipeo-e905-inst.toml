@@ -1,0 +1,5 @@
+names = [
+  { name = "듣고싶어 (E905) (Inst.)", locale = "ko", original = true },
+  { name = "Deutgosipeo (E905) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Can't Stop (E905) (Inst.)", locale = "en" },
+]

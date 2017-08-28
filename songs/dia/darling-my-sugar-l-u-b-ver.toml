@@ -1,0 +1,7 @@
+names = [
+  { name = "DARLING MY SUGAR (L.U.B Ver.)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=NpcrMhGsf_4", name = "Music Video" },
+]

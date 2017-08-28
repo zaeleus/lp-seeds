@@ -1,0 +1,5 @@
+names = [
+  { name = "니맘대로야 (빈챈현스S Ver.)", locale = "ko", original = true },
+  { name = "Nimamdaeroya (BCHCS Ver.)", locale = "ko-Latn", default = true },
+  { name = "You Always Try to Be Your Best (BCHCS Ver.)", locale = "en" },
+]

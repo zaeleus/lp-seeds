@@ -1,0 +1,5 @@
+names = [
+  { name = "키스해줘 (빈챈현스S Ver.)", locale = "ko", original = true },
+  { name = "Kiss Haejwo (BCHCS Ver.)", locale = "ko-Latn", default = true },
+  { name = "Kiss Me (BCHCS Ver.)", locale = "en" },
+]

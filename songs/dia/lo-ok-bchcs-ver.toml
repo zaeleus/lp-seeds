@@ -1,0 +1,8 @@
+names = [
+  { name = "LO OK (빈챈현스S Ver.)", locale = "ko", original = true },
+  { name = "LO OK (BCHCS Ver.)", locale = "en", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=TIrr8sS_j4g", name = "Music Video" },
+]

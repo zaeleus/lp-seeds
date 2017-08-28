@@ -1,0 +1,5 @@
+names = [
+  { name = "한입만 (L.U.B Ver.)", locale = "ko", original = true },
+  { name = "Hanimman (L.U.B Ver.)", locale = "ko-Latn", default = true },
+  { name = "Only One Bite (L.U.B Ver.)", locale = "en" },
+]

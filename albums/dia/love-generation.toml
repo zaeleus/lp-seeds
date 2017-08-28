@@ -1,0 +1,21 @@
+artist-id = "dia"
+kind = "ep"
+
+names = [
+  { name = "LOVE GENERATION", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=sPyj-zm-SXQ", name = "Highlight Medley" },
+]
+
+[[releases]]
+released-on = "2017-08-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1273993849" },
+  { url = "https://play.google.com/music/m/Bpgdkbae36x3b7srr2gpk5lct7y" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=10089773" },
+  { url = "https://open.spotify.com/album/2YC8M3B0hDBavlgzsAQrjf" },
+]

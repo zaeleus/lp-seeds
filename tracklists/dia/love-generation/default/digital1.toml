@@ -1,0 +1,63 @@
+medium-ids = [
+  "dia/love-generation/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dia/deutgosipeo-e905"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "dia/neon-dalla"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "dia/yeo-sa-chin-urisai"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "dia/lo-ok-bchcs-ver"
+duration = "3:39"
+
+[[tracks]]
+position = 5
+song-id = "dia/kiss-haejwo-bchcs-ver"
+duration = "3:07"
+
+[[tracks]]
+position = 6
+song-id = "dia/nimamdaeroya-bchcs-ver"
+duration = "4:05"
+
+[[tracks]]
+position = 7
+song-id = "dia/darling-my-sugar-l-u-b-ver"
+duration = "3:21"
+
+[[tracks]]
+position = 8
+song-id = "dia/hanimman-l-u-b-ver"
+duration = "3:20"
+
+[[tracks]]
+position = 9
+song-id = "dia/i-need-healing-l-u-b-ver"
+duration = "3:25"
+
+[[tracks]]
+position = 10
+song-id = "dia/gmgn-good-morning-good-night-limited-ver"
+duration = "3:12"
+
+[[tracks]]
+position = 11
+song-id = "dia/paradise-limited-ver"
+duration = "3:43"
+
+[[tracks]]
+position = 12
+song-id = "dia/deutgosipeo-e905-inst"
+duration = "3:40"

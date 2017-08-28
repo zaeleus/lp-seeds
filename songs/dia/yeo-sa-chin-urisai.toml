@@ -1,0 +1,5 @@
+names = [
+  { name = "여.사.친 (우리사이)", locale = "ko", original = true },
+  { name = "Yeo.Sa.Chin (Urisai)", locale = "ko-Latn", default = true },
+  { name = "You & I", locale = "en" },
+]

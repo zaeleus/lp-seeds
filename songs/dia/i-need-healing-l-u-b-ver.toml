@@ -1,0 +1,3 @@
+names = [
+  { name = "I need healing (L.U.B Ver.)", locale = "ko", original = true, default = true },
+]

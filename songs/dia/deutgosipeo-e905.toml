@@ -1,0 +1,11 @@
+names = [
+  { name = "듣고싶어 (E905)", locale = "ko", original = true },
+  { name = "Deutgosipeo (E905)", locale = "ko-Latn", default = true },
+  { name = "Can't Stop (E905)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Qjxm55HhVqs", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=Air9N8VrZo8", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=cF4DJvz1pic", name = "Music Video" },
+]
