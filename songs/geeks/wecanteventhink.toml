@@ -1,0 +1,5 @@
+names = [
+  { name = "우린아무것도생각나지가않아", locale = "ko", original = true },
+  { name = "Urinamugeotdosaenggangnajigaana", locale = "ko-Latn" },
+  { name = "Wecanteventhink", locale = "en", default = true },
+]

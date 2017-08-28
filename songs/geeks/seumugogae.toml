@@ -1,0 +1,5 @@
+names = [
+  { name = "스무고개", locale = "ko", original = true },
+  { name = "Seumugogae", locale = "ko-Latn", default = true },
+  { name = "20 Questions", locale = "en" },
+]

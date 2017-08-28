@@ -1,0 +1,5 @@
+names = [
+  { name = "큰일났어 (Feat. 테일러)", locale = "ko", original = true },
+  { name = "Keunillasseo (Feat. Taylor)", locale = "ko-Latn", default = true },
+  { name = "Troubles Travels (Feat. Taylor)", locale = "en" },
+]

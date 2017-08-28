@@ -1,0 +1,5 @@
+names = [
+  { name = "문제아 (Feat. 스텔라장)", locale = "ko", original = true },
+  { name = "Munjea (Feat. Stella Jang)", locale = "ko-Latn", default = true },
+  { name = "Troublemaker (Feat. Stella Jang)", locale = "en" },
+]

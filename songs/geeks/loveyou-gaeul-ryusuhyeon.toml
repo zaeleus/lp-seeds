@@ -1,0 +1,5 @@
+names = [
+  { name = "#Loveyou #가을 #류수현", locale = "ko", original = true },
+  { name = "#Loveyou #Gaeul #Ryusuhyeon", locale = "ko-Latn", default = true },
+  { name = "#Loveyou #Fall #RSH", locale = "en" },
+]

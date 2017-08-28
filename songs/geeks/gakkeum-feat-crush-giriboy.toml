@@ -1,0 +1,5 @@
+names = [
+  { name = "가끔 (Feat. Crush, 기리보이)", locale = "ko", original = true },
+  { name = "Gakkeum (Feat. Crush, Giriboy)", locale = "ko-Latn", default = true },
+  { name = "Sometimes (Feat. Crush, Giriboy)", locale = "en" },
+]

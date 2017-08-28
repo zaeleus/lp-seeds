@@ -1,0 +1,15 @@
+artist-id = "geeks"
+kind = "lp"
+
+names = [
+  { name = "Fireworks", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-07-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1260928420" },
+  { url = "http://www.melon.com/album/detail.htm?albumId=10080647" },
+]

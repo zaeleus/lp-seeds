@@ -1,0 +1,5 @@
+names = [
+  { name = "#한밤의꿈 #여름 #류수현", locale = "ko", original = true },
+  { name = "#Hanbamuikkum #Yeoreum #Ryusuhyeon", locale = "ko-Latn", default = true },
+  { name = "#Midnightdream #Summer #RSH", locale = "en" },
+]
