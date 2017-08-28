@@ -5,4 +5,6 @@ country = "KR"
 names = [
   { name = "미유", locale = "ko", kind = "stage", original = true },
   { name = "Mi-Yu", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "유지희", locale = "ko", kind = "real" },
+  { name = "Yoo Ji Hui", locale = "ko-Latn", kind = "real" },
 ]
