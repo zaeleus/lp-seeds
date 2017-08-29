@@ -1,0 +1,11 @@
+names = [
+  { name = "보라색 (With 이던 of 펜타곤)", locale = "ko", original = true },
+  { name = "Borasaek (With E'Dawn of PENTAGON)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]

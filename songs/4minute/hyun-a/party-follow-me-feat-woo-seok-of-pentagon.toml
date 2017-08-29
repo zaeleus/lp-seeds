@@ -1,0 +1,11 @@
+names = [
+  { name = "PARTY (FOLLOW ME) (Feat. 우석 of 펜타곤)", locale = "ko", original = true },
+  { name = "PARTY (FOLLOW ME) (Feat. Woo Seok of PENTAGON)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]
