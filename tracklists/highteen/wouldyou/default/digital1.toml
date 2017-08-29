@@ -1,0 +1,18 @@
+medium-ids = [
+  "highteen/wouldyou/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "highteen/wouldyou"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "highteen/wouldyou-vintage-mastering"
+duration = "3:47"
+
+[[tracks]]
+position = 3
+song-id = "highteen/wouldyou-inst"
+duration = "3:47"
