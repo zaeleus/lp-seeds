@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1987-09-13"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "신유미", locale = "ko", kind = "real", original = true },
+  { name = "Shin Yu Mi", locale = "ko-Latn", kind = "real", default = true },
+]
