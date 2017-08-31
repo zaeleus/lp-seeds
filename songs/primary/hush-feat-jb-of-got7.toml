@@ -1,0 +1,4 @@
+names = [
+  { name = "허쉬 (Feat. JB of GOT7)", locale = "ko", original = true },
+  { name = "Hush (Feat. JB of GOT7)", locale = "en", default = true },
+]
