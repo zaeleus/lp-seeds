@@ -1,0 +1,35 @@
+artist-id = "perfume"
+kind = "single"
+
+names = [
+  { name = "If you wanna", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-30"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1273479654" },
+  { url = "http://mora.jp/package/43000029/UPCP-5010/" },
+]
+
+[[releases]]
+released-on = "2017-08-30"
+country = "JP"
+catalog-number = "UPCP-9016"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Complete Limited Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/325277/products/1243851/1/" },
+]
+
+[[releases]]
+released-on = "2017-08-30"
+country = "JP"
+catalog-number = "UPCP-9017"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.oricon.co.jp/prof/325277/products/1243854/1" },
+]

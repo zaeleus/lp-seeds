@@ -1,0 +1,13 @@
+medium-ids = [
+  "perfume/if-you-wanna/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "perfume/if-you-wanna"
+duration = "2:43"
+
+[[tracks]]
+position = 2
+song-id = "perfume/everyday"
+duration = "3:47"

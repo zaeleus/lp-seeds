@@ -1,0 +1,7 @@
+names = [
+  { name = "If you wanna", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=G448nhrkUHc", name = "Teaser" },
+]
