@@ -1,0 +1,23 @@
+medium-ids = [
+  "hwang-in-sun/rainbow/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hwang-in-sun/rainbow"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "hwang-in-sun/all-the-way"
+duration = "4:07"
+
+[[tracks]]
+position = 3
+song-id = "hwang-in-sun/rainbow-inst"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "hwang-in-sun/all-the-way-inst"
+duration = "4:07"

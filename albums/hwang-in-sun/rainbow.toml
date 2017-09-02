@@ -1,0 +1,15 @@
+artist-id = "hwang-in-sun"
+kind = "single"
+
+names = [
+  { name = "레인보우 (Rainbow)", locale = "ko", original = true },
+  { name = "Rainbow", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-08-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10091668" },
+]
