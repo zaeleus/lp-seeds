@@ -1,0 +1,13 @@
+medium-ids = [
+  "heize/pume-sweet-pume/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heize/pume-sweet-pume-feat-monokim"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "heize/pume-sweet-pume-inst"
+duration = "3:27"
