@@ -1,0 +1,8 @@
+medium-ids = [
+  "heize/nae-namjachinguga-gomapdae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heize/nae-namjachinguga-gomapdae"
+duration = "3:26"
