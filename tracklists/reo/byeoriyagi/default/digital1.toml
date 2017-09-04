@@ -1,0 +1,13 @@
+medium-ids = [
+  "reo/byeoriyagi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "reo/byeoriyagi"
+duration = "2:59"
+
+[[tracks]]
+position = 2
+song-id = "reo/byeoriyagi-inst"
+duration = "2:59"
