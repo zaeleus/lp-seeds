@@ -1,0 +1,33 @@
+medium-ids = [
+  "heize/heize/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heize/maktoob"
+duration = "0:41"
+
+[[tracks]]
+position = 2
+song-id = "heize/keulleobirado-jom-ga"
+duration = "3:13"
+
+[[tracks]]
+position = 3
+song-id = "heize/algo-isseo"
+duration = "3:36"
+
+[[tracks]]
+position = 4
+song-id = "heize/jogeumman-deo-banghwanghago-feat-crucial-star"
+duration = "3:42"
+
+[[tracks]]
+position = 5
+song-id = "heize/keulleobirado-jom-ga-inst"
+duration = "3:11"
+
+[[tracks]]
+position = 6
+song-id = "heize/algo-isseo-inst"
+duration = "3:36"
