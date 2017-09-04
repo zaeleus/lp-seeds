@@ -1,0 +1,5 @@
+names = [
+  { name = "돌아오지마 (Feat. 용준형 of 비스트)", locale = "ko", original = true },
+  { name = "Doraojima (Feat. Yong Jun Hyung of BEAST)", locale = "ko-Latn", default = true },
+  { name = "Don't Come Back (Feat. Yong Jun Hyung of BEAST)", locale = "en" },
+]

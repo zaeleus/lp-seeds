@@ -1,0 +1,13 @@
+medium-ids = [
+  "heize/doraojima/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heize/niga-animyeon-intro"
+duration = "1:13"
+
+[[tracks]]
+position = 2
+song-id = "heize/doraojima-feat-yong-jun-hyung-of-beast"
+duration = "3:37"
