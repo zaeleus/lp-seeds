@@ -1,0 +1,4 @@
+names = [
+  { name = "Because of You (Feat. 송민경 of 더씨야)", locale = "ko", original = true },
+  { name = "Because of You (Feat. Song Min Young of The SeeYa)", locale = "ko-Latn", default = true },
+]

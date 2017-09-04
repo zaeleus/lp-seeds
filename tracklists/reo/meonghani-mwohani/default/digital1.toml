@@ -1,0 +1,43 @@
+medium-ids = [
+  "reo/meonghani-mwohani/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "reo/meonghani-mwohani"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "reo/dalbithaneul-feat-taesabiae"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "reo/hello"
+duration = "3:09"
+
+[[tracks]]
+position = 4
+song-id = "reo/because-of-you-feat-song-min-young-of-the-seeya"
+duration = "3:29"
+
+[[tracks]]
+position = 5
+song-id = "reo/meonghani-mwohani-inst"
+duration = "3:20"
+
+[[tracks]]
+position = 6
+song-id = "reo/dalbithaneul-inst"
+duration = "3:10"
+
+[[tracks]]
+position = 7
+song-id = "reo/hello-inst"
+duration = "3:09"
+
+[[tracks]]
+position = 8
+song-id = "reo/because-of-you-inst"
+duration = "3:29"
