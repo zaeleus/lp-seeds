@@ -1,0 +1,18 @@
+medium-ids = [
+  "b-a-p/blue/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "b-a-p/honeymoon"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "b-a-p/all-the-way-up"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "b-a-p/rewind"
+duration = "3:31"
