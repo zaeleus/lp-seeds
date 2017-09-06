@@ -1,0 +1,5 @@
+names = [
+  { name = "시차 (We Are) (Feat. 로꼬 & GRAY)", locale = "ko", original = true },
+  { name = "Sicha (We Are) (Feat. Loco & GRAY)", locale = "ko-Latn", default = true },
+  { name = "We Are (Feat. Loco & GRAY)", locale = "en" },
+]

@@ -1,0 +1,16 @@
+artist-id = "woo-won-jae"
+kind = "single"
+
+names = [
+  { name = "시차 (We Are)", locale = "ko", original = true },
+  { name = "Sicha (We Are)", locale = "ko-Latn", default = true },
+  { name = "We Are", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-09-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10093389" },
+]
