@@ -1,0 +1,28 @@
+medium-ids = [
+  "bbahn/voice/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bbahn/uriga-wae-apeujyo"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "bbahn/gwireul-billyeojuseyo"
+duration = "3:51"
+
+[[tracks]]
+position = 3
+song-id = "bbahn/oneulttara"
+duration = "4:04"
+
+[[tracks]]
+position = 4
+song-id = "bbahn/byeolgwa-dalbit-arae"
+duration = "2:43"
+
+[[tracks]]
+position = 5
+song-id = "bbahn/uriga-wae-apeujyo-inst"
+duration = "3:24"
