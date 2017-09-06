@@ -1,0 +1,3 @@
+names = [
+  { name = "AS IF IT'S YOUR LAST", locale = "ja", original = true, default = true },
+]

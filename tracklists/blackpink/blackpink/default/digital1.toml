@@ -1,0 +1,33 @@
+medium-ids = [
+  "blackpink/blackpink/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "blackpink/boombayah-jp"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "blackpink/whistle"
+duration = "3:32"
+
+[[tracks]]
+position = 3
+song-id = "blackpink/playing-with-fire"
+duration = "3:17"
+
+[[tracks]]
+position = 4
+song-id = "blackpink/stay-jp"
+duration = "3:51"
+
+[[tracks]]
+position = 5
+song-id = "blackpink/as-if-it-s-your-last"
+duration = "3:32"
+
+[[tracks]]
+position = 6
+song-id = "blackpink/whistle-acoustic-ver"
+duration = "3:33"
