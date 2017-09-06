@@ -1,0 +1,15 @@
+artist-id = "rocoberry"
+kind = "single"
+
+names = [
+  { name = "니가 내리는 거리 (Broken Heart)", locale = "ko", original = true },
+  { name = "Niga Naerineun Geori (Broken Heart)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-09-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10093878" },
+]

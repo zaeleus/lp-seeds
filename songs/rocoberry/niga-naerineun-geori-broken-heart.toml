@@ -1,0 +1,4 @@
+names = [
+  { name = "니가 내리는 거리 (Broken Heart)", locale = "ko", original = true },
+  { name = "Niga Naerineun Geori (Broken Heart)", locale = "ko-Latn", default = true },
+]
