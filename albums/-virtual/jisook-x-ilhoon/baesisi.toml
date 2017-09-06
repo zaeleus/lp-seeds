@@ -1,0 +1,30 @@
+artist-id = "-virtual/jisook-x-ilhoon"
+kind = "single"
+
+names = [
+  { name = "배시시", locale = "ko", original = true },
+  { name = "Baesisi", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "rainbow/ji-sook"
+names = [
+  { name = "지숙", locale = "ko", original = true },
+  { name = "Jisook", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "btob/jung-il-hoon"
+names = [
+  { name = "일훈", locale = "ko", original = true },
+  { name = "Ilhoon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-08-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10090497" },
+]

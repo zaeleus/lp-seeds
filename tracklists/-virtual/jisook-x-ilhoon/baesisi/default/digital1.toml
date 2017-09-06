@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/jisook-x-ilhoon/baesisi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/jisook-x-ilhoon/baesisi"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/jisook-x-ilhoon/baesisi-inst"
+duration = "3:59"

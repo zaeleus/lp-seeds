@@ -1,0 +1,19 @@
+names = [
+  { name = "배시시 (Inst.)", locale = "ko", original = true },
+  { name = "Baesisi (Inst.)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "rainbow/ji-sook"
+names = [
+  { name = "지숙", locale = "ko", original = true },
+  { name = "Jisook", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "btob/jung-il-hoon"
+names = [
+  { name = "일훈", locale = "ko", original = true },
+  { name = "Ilhoon", locale = "ko-Latn", default = true },
+]
