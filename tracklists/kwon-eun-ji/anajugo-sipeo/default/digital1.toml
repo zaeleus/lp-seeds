@@ -1,0 +1,13 @@
+medium-ids = [
+  "kwon-eun-ji/anajugo-sipeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kwon-eun-ji/anajugo-sipeo-feat-gadjet"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "kwon-eun-ji/anajugo-sipeo-inst"
+duration = "3:29"

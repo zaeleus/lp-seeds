@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1996-07-03"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "권은지", locale = "ko", kind = "real", original = true },
+  { name = "Kwon Eun Ji", locale = "ko-Latn", kind = "real", default = true },
+]
