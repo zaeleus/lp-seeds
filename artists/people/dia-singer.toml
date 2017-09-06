@@ -1,0 +1,16 @@
+kind = "person"
+started-on = "1992-06-12"
+country = "KR"
+gender = "female"
+disambiguation = "singer"
+
+names = [
+  { name = "디아", locale = "ko", kind = "stage", original = true },
+  { name = "Dia", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김지은", locale = "ko", kind = "real" },
+  { name = "Kim Ji Eun", locale = "ko-Latn", kind = "real" },
+]
+
+urls = [
+  { url = "http://www.winningmusic.co.kr/artist/artist05_01.php" },
+]
