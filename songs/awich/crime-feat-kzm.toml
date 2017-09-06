@@ -1,0 +1,3 @@
+names = [
+  { name = "Crime (feat. kZm)", locale = "ja", original = true, default = true },
+]

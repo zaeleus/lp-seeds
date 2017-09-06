@@ -1,0 +1,16 @@
+artist-id = "awich"
+kind = "lp"
+
+names = [
+  { name = "8", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-08"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1261254932" },
+  { url = "http://mora.jp/package/43000074/TCJPR0000387829/" },
+  { url = "http://mora.jp/package/43000074/TCJPR0000387829_hires/" },
+]

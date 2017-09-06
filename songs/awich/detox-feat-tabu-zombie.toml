@@ -1,0 +1,3 @@
+names = [
+  { name = "Detox (feat. Tabu Zombie)", locale = "ja", original = true, default = true },
+]

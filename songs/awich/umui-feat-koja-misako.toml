@@ -1,0 +1,3 @@
+names = [
+  { name = "UMUI (feat. KOJA MISAKO)", locale = "ja", original = true, default = true },
+]

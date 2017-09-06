@@ -1,0 +1,3 @@
+names = [
+  { name = "Remember (feat. YOUNG JUJU)", locale = "ja", original = true, default = true },
+]

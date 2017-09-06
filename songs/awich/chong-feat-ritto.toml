@@ -1,0 +1,3 @@
+names = [
+  { name = "Chong (feat. Ritto)", locale = "ja", original = true, default = true },
+]
