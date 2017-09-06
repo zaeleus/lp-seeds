@@ -1,0 +1,5 @@
+names = [
+  { name = "ぶっぱなせ！ Baby, I Love Ya！", locale = "ja", original = true },
+  { name = "Buppanase! Baby, I Love Ya!", locale = "ja-Latn", default = true },
+  { name = "Shoot! Baby, I Love Ya!", locale = "en" },
+]

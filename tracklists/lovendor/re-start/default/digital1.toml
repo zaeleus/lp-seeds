@@ -1,0 +1,33 @@
+medium-ids = [
+  "lovendor/re-start/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lovendor/buppanase-baby-i-love-ya"
+duration = "4:27"
+
+[[tracks]]
+position = 2
+song-id = "lovendor/giragira-densetsu"
+duration = "4:26"
+
+[[tracks]]
+position = 3
+song-id = "lovendor/cinderella-time"
+duration = "3:45"
+
+[[tracks]]
+position = 4
+song-id = "lovendor/tabidachi-no-kane"
+duration = "4:21"
+
+[[tracks]]
+position = 5
+song-id = "lovendor/game"
+duration = "3:28"
+
+[[tracks]]
+position = 6
+song-id = "lovendor/carry-on"
+duration = "4:07"

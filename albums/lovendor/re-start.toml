@@ -1,0 +1,15 @@
+artist-id = "lovendor"
+kind = "ep"
+
+names = [
+  { name = "Яe:Start", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-09-06"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1273126555" },
+  { url = "http://mora.jp/package/43000030/EPCE-7358/" },
+]

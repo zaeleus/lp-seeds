@@ -1,0 +1,4 @@
+names = [
+  { name = "ギラギラ伝説", locale = "ja", original = true },
+  { name = "Giragira Densetsu", locale = "ja-Latn", default = true },
+]
