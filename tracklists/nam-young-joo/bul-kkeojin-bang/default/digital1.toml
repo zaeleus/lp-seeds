@@ -1,0 +1,13 @@
+medium-ids = [
+  "nam-young-joo/bul-kkeojin-bang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nam-young-joo/bul-kkeojin-bang-feat-snacky-chan"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "nam-young-joo/bul-kkeojin-bang-inst"
+duration = "3:12"

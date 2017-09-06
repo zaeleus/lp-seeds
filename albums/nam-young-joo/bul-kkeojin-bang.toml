@@ -1,0 +1,15 @@
+artist-id = "nam-young-joo"
+kind = "single"
+
+names = [
+  { name = "불 꺼진 방", locale = "ko", original = true },
+  { name = "Bul Kkeojin Bang", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-09-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10093991" },
+]

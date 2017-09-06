@@ -1,0 +1,4 @@
+names = [
+  { name = "불 꺼진 방 (Feat. 스내키챈)", locale = "ko", original = true },
+  { name = "Bul Kkeojin Bang (Feat. Snacky Chan)", locale = "ko-Latn", default = true },
+]
