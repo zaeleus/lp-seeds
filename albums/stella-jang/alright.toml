@@ -1,0 +1,14 @@
+artist-id = "stella-jang"
+kind = "single"
+
+names = [
+  { name = "Alright", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-06-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10073856" },
+]
