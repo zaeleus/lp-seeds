@@ -1,0 +1,16 @@
+artist-id = "dasom-kyung"
+kind = "single"
+
+names = [
+  { name = "느낌적인 느낌", locale = "ko", original = true },
+  { name = "Neukkimjeogin Neukkim", locale = "ko-Latn", default = true },
+  { name = "Think I Wanted to Be", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-09-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10094663" },
+]

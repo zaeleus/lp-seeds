@@ -1,0 +1,8 @@
+medium-ids = [
+  "dasom-kyung/neukkimjeogin-neukkim/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dasom-kyung/neukkimjeogin-neukkim"
+duration = "3:33"
