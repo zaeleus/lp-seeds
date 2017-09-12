@@ -1,0 +1,4 @@
+names = [
+  { name = "6 Cypher (Bizzy, 최자, 개코, 박재범, Dok2, 타이거JK)", locale = "ko", original = true },
+  { name = "6 Cypher (Bizzy, Choiza, Gaeko, Jay Park, Dok2, Tiger JK)", locale = "ko-Latn", default = true },
+]

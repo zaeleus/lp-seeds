@@ -1,0 +1,5 @@
+names = [
+  { name = "워럽형 (Feat. YDG)", locale = "ko", original = true },
+  { name = "Woreophyeong (Feat. YDG)", locale = "ko-Latn", default = true },
+  { name = "What's up Hyung (Feat. YDG)", locale = "en" },
+]

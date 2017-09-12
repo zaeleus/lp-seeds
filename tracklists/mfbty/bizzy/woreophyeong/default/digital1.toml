@@ -1,0 +1,18 @@
+medium-ids = [
+  "mfbty/bizzy/woreophyeong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mfbty/bizzy/geunal"
+duration = "1:50"
+
+[[tracks]]
+position = 2
+song-id = "mfbty/bizzy/woreophyeong-feat-ydg"
+duration = "3:05"
+
+[[tracks]]
+position = 3
+song-id = "mfbty/bizzy/6-cypher-bizzy-choiza-gaeko-jay-park-dok2-tiger-jk"
+duration = "4:14"
