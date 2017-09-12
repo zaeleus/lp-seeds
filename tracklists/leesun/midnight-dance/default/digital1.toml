@@ -1,0 +1,8 @@
+medium-ids = [
+  "leesun/midnight-dance/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leesun/midnight-dance"
+duration = "2:56"
