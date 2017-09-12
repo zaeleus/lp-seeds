@@ -1,0 +1,8 @@
+medium-ids = [
+  "4minute/ji-yoon/jeogiyo-hello/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "4minute/ji-yoon/jeogiyo-feat-kisum"
+duration = "3:31"

@@ -1,0 +1,22 @@
+artist-id = "4minute/ji-yoon"
+kind = "single"
+
+names = [
+  { name = "저기요 (Hello)", locale = "ko", original = true },
+  { name = "Jeogiyo (Hello)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/ji-yoon"
+names = [
+  { name = "전지윤", locale = "ko", kind = "real", original = true },
+  { name = "Jeon Ji Yoon", locale = "ko-Latn", kind = "real", default = true },
+]
+
+[[releases]]
+released-on = "2017-09-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10095341" },
+]

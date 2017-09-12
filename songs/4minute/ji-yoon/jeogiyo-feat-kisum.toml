@@ -1,0 +1,11 @@
+names = [
+  { name = "저기요 (Feat. 키썸 (KISUM))", locale = "ko", original = true },
+  { name = "Jeogiyo (Feat. KISUM)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/ji-yoon"
+names = [
+  { name = "전지윤", locale = "ko", kind = "real", original = true },
+  { name = "Jeon Ji Yoon", locale = "ko-Latn", kind = "real", default = true },
+]
