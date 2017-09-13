@@ -1,0 +1,4 @@
+names = [
+  { name = "열려라 그대 (Roopretelcham)", locale = "ko", original = true },
+  { name = "Yeollyeora Geudae (Roopretelcham)", locale = "ko-Latn", default = true },
+]

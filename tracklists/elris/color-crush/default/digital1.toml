@@ -1,0 +1,33 @@
+medium-ids = [
+  "elris/color-crush/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "elris/heart-bank"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "elris/pow-pow"
+duration = "3:01"
+
+[[tracks]]
+position = 3
+song-id = "elris/yeollyeora-geudae-roopretelcham"
+duration = "3:40"
+
+[[tracks]]
+position = 4
+song-id = "elris/wonderland-girl"
+duration = "3:04"
+
+[[tracks]]
+position = 5
+song-id = "elris/jjagibyeol-feat-kim-sang-gyun-a-k-a-a-tom"
+duration = "4:02"
+
+[[tracks]]
+position = 6
+song-id = "elris/midnight-moonlight"
+duration = "3:24"
