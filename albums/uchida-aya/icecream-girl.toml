@@ -1,0 +1,16 @@
+artist-id = "uchida-aya"
+kind = "lp"
+
+names = [
+  { name = "ICECREAM GIRL", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-09-13"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1273973672" },
+  { url = "http://mora.jp/package/43000074/TCJPR0000390904/" },
+  { url = "http://mora.jp/package/43000074/TCJPR0000392101_hires/" },
+]

@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1986-07-23"
+country = "JP"
+gender = "female"
+
+names = [
+  { name = "内田彩", locale = "ja", kind = "real", original = true },
+  { name = "Uchida Aya", locale = "ja-Latn", kind = "real", default = true },
+]
