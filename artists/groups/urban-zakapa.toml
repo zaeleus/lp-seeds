@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2009"
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "어반자카파", locale = "ko", original = true },
+  { name = "Urban Zakapa", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,16 @@
+artist-id = "urban-zakapa"
+kind = "single"
+
+names = [
+  { name = "혼자", locale = "ko", original = true },
+  { name = "Honja", locale = "ko-Latn", default = true },
+  { name = "Alone", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-05-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10063174" },
+]
