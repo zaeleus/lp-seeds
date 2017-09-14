@@ -1,0 +1,13 @@
+medium-ids = [
+  "fromm/linda-linda/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fromm/linda-linda"
+duration = "4:43"
+
+[[tracks]]
+position = 2
+song-id = "fromm/linda-linda-inst"
+duration = "4:43"
