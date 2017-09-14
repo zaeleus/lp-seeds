@@ -1,0 +1,14 @@
+artist-id = "g-rina"
+kind = "lp"
+
+names = [
+  { name = "LIVE & LEARN", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-01-11"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000005/VICL-64700/" },
+]

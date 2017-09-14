@@ -1,0 +1,4 @@
+names = [
+  { name = "夏のめまい feat. 田我流", locale = "ja", original = true },
+  { name = "Natsu no Memai feat. Dengaryu", locale = "ja-Latn", default = true },
+]

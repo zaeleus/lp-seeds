@@ -1,0 +1,4 @@
+names = [
+  { name = "想像未来 feat. 鎮座DOPENESS", locale = "ja", original = true },
+  { name = "Souzou Mirai feat. Chinza DOPENESS", locale = "ja-Latn", default = true },
+]
