@@ -1,0 +1,11 @@
+names = [
+  { name = "여름비 (SUMMER RAIN)", locale = "ko", original = true },
+  { name = "Yeoreumbi (SUMMER RAIN)", locale = "ko-Latn", default = true },
+  { name = "SUMMER RAIN", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=jAQM7P2V7zk", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=Y2VUWtH9ufs", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=ZsYwEV_ge4Y", name = "Music Video" },
+]
