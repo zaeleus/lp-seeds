@@ -1,0 +1,9 @@
+names = [
+  { name = "월급은 통장을 스칠 뿐", locale = "ko", original = true },
+  { name = "Wolgeubeun Tongjangeul Seuchil Ppun", locale = "ko-Latn", default = true },
+  { name = "Vanishing Paycheck", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=-rSqW5ojE5A", name = "Music Video" },
+]

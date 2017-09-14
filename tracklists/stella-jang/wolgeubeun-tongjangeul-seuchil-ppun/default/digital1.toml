@@ -1,0 +1,23 @@
+medium-ids = [
+  "stella-jang/wolgeubeun-tongjangeul-seuchil-ppun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stella-jang/woryobyeongga"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "stella-jang/wolgeubeun-tongjangeul-seuchil-ppun"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "stella-jang/ppalgannal"
+duration = "3:38"
+
+[[tracks]]
+position = 4
+song-id = "stella-jang/departure"
+duration = "3:55"

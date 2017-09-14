@@ -1,0 +1,16 @@
+artist-id = "stella-jang"
+kind = "ep"
+
+names = [
+  { name = "월급은 통장을 스칠 뿐", locale = "ko", original = true },
+  { name = "Wolgeubeun Tongjangeul Seuchil Ppun", locale = "ko-Latn", default = true },
+  { name = "Vanishing Paycheck", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-04-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10058886" },
+]
