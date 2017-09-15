@@ -1,0 +1,4 @@
+names = [
+  { name = "걷고 싶다", locale = "ko", original = true },
+  { name = "Geotgo Sipda", locale = "ko-Latn", default = true },
+]

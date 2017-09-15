@@ -1,0 +1,14 @@
+artist-id = "cho-yong-pil"
+kind = "lp"
+
+names = [
+  { name = "Hello", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-04-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2182627" },
+]

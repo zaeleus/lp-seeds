@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1950-03-21"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "조용필", locale = "ko", kind = "real", original = true },
+  { name = "Cho Yong Pil", locale = "ko-Latn", kind = "real", default = true },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "Hello (Feat. 버벌진트)", locale = "ko", original = true },
+  { name = "Hello (Feat. Verbal Jint)", locale = "ko-Latn", default = true },
+]
