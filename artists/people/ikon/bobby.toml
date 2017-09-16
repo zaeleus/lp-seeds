@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1995-12-21"
+country = "KR"
+
+names = [
+  { name = "바비", locale = "ko", kind = "stage", original = true },
+  { name = "BOBBY", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김지원", locale = "ko", kind = "real" },
+  { name = "Kim Ji Won", locale = "ko-Latn", kind = "real" },
+]

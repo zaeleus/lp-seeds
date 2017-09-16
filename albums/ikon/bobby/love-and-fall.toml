@@ -1,0 +1,14 @@
+artist-id = "ikon/bobby"
+kind = "lp"
+
+names = [
+  { name = "LOVE AND FALL", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-09-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10096416" },
+]

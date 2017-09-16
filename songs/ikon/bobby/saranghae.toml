@@ -1,0 +1,9 @@
+names = [
+  { name = "사랑해", locale = "ko", original = true },
+  { name = "Saranghae", locale = "ko-Latn", default = true },
+  { name = "I LOVE YOU", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=KBk0-QDjWfA", name = "Music Video" },
+]

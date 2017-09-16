@@ -1,0 +1,53 @@
+medium-ids = [
+  "ikon/bobby/love-and-fall/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ikon/bobby/saranghae"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "ikon/bobby/runaway"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song-id = "ikon/bobby/dareun-sesang-saram"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "ikon/bobby/tende"
+duration = "3:36"
+
+[[tracks]]
+position = 5
+song-id = "ikon/bobby/up-feat-mino"
+duration = "4:10"
+
+[[tracks]]
+position = 6
+song-id = "ikon/bobby/secret-feat-dk-katie"
+duration = "3:36"
+
+[[tracks]]
+position = 7
+song-id = "ikon/bobby/in-love"
+duration = "3:35"
+
+[[tracks]]
+position = 8
+song-id = "ikon/bobby/suyeonghae"
+duration = "4:00"
+
+[[tracks]]
+position = 9
+song-id = "ikon/bobby/firework"
+duration = "3:45"
+
+[[tracks]]
+position = 10
+song-id = "ikon/bobby/naege-gidae"
+duration = "3:43"
