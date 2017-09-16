@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1992-09-25"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "주노플로", locale = "ko", kind = "stage", original = true },
+  { name = "Junoflo", locale = "ko-Latn", kind = "stage", default = true },
+]
