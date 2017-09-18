@@ -1,0 +1,3 @@
+names = [
+  { name = "Wright Brothers (Feat. C Jamm)", locale = "ko", original = true, default = true },
+]

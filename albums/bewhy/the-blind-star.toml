@@ -1,0 +1,14 @@
+artist-id = "bewhy"
+kind = "lp"
+
+names = [
+  { name = "The blind star", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-09-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10096854" },
+]
