@@ -1,0 +1,16 @@
+artist-id = "iu"
+kind = "single"
+
+names = [
+  { name = "가을 아침", locale = "ko", original = true },
+  { name = "Gaeul Achim", locale = "ko-Latn", default = true },
+  { name = "Autumn Morning", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-09-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10096855" },
+]
