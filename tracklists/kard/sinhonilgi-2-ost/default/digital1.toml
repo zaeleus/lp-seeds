@@ -1,0 +1,28 @@
+medium-ids = [
+  "kard/sinhonilgi-2-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kard/ije-uri-song-by-j-seph-jeon-so-min"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "kard/afternoon-tea"
+duration = "2:28"
+
+[[tracks]]
+position = 3
+song-id = "kard/i-diary"
+duration = "2:00"
+
+[[tracks]]
+position = 4
+song-id = "kard/meal-meal"
+duration = "2:23"
+
+[[tracks]]
+position = 5
+song-id = "kard/moonlight"
+duration = "3:32"
