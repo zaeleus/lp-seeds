@@ -1,0 +1,3 @@
+names = [
+  { name = "Skit: Billboard Music Awards Speech", locale = "ko", original = true, default = true },
+]

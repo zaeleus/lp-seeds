@@ -1,0 +1,15 @@
+artist-id = "bts"
+kind = "ep"
+
+names = [
+  { name = "LOVE YOURSELF 承 'Her'", locale = "ko", original = true },
+  { name = "LOVE YOURSELF: Her", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-09-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10097112" },
+]
