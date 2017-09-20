@@ -1,0 +1,33 @@
+medium-ids = [
+  "april/eternity/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "april/soneul-jabajwo"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "april/tting"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "april/magic-in-love"
+duration = "3:33"
+
+[[tracks]]
+position = 4
+song-id = "april/hey-yo-hey"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "april/jjirit-jjirit"
+duration = "3:01"
+
+[[tracks]]
+position = 6
+song-id = "april/saranghaedo-doelkkayo"
+duration = "3:37"

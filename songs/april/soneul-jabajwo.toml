@@ -1,0 +1,5 @@
+names = [
+  { name = "손을 잡아줘", locale = "ko", original = true },
+  { name = "Soneul Jabajwo", locale = "ko-Latn", default = true },
+  { name = "Take My Hand", locale = "en" },
+]
