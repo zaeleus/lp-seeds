@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1984-08-11"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "리디아", locale = "ko", kind = "stage", original = true },
+  { name = "Lydia", locale = "ko-Latn", kind = "stage", default = true },
+]

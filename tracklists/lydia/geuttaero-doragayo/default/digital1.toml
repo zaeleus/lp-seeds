@@ -1,0 +1,38 @@
+medium-ids = [
+  "lydia/geuttaero-doragayo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lydia/geuttaero-doragayo"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "lydia/deoneun-apeuji-maraya-hae"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "lydia/gwaenchannayo-geudaeneun"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "lydia/sarangeun-eoneusae-dagawaseo"
+duration = "3:01"
+
+[[tracks]]
+position = 5
+song-id = "lydia/geuriwoseo"
+duration = "3:27"
+
+[[tracks]]
+position = 6
+song-id = "lydia/apeugo-apeugo"
+duration = "2:35"
+
+[[tracks]]
+position = 7
+song-id = "lydia/geuttaero-doragayo-inst"
+duration = "3:51"
