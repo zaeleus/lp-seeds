@@ -1,0 +1,16 @@
+artist-id = "little-glee-monster"
+kind = "single"
+
+names = [
+  { name = "明日へ", locale = "ja", original = true },
+  { name = "Ashita e", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-09-13"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1276441066" },
+  { url = "http://mora.jp/package/43000001/4547366329759/" },
+]
