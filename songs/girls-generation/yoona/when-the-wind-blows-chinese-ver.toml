@@ -1,0 +1,10 @@
+names = [
+  { name = "When The Wind Blows (Chinese Ver.)", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/yoona"
+names = [
+  { name = "윤아", locale = "ko", original = true },
+  { name = "YOONA", locale = "ko-Latn", default = true },
+]

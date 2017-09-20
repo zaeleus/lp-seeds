@@ -1,0 +1,18 @@
+medium-ids = [
+  "girls-generation/yoona/barami-bulmyeon-when-the-wind-blows/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/yoona/barami-bulmyeon-when-the-wind-blows"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/yoona/when-the-wind-blows-chinese-ver"
+duration = "3:46"
+
+[[tracks]]
+position = 3
+song-id = "girls-generation/yoona/barami-bulmyeon-when-the-wind-blows-inst"
+duration = "3:46"

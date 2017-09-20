@@ -1,0 +1,12 @@
+names = [
+  { name = "바람이 불면 (When The Wind Blows)", locale = "ko", original = true },
+  { name = "Barami Bulmyeon (When The Wind Blows)", locale = "ko-Latn", default = true },
+  { name = "When The Wind Blows", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/yoona"
+names = [
+  { name = "윤아", locale = "ko", original = true },
+  { name = "YOONA", locale = "ko-Latn", default = true },
+]

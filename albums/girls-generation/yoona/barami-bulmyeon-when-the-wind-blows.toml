@@ -1,0 +1,23 @@
+artist-id = "girls-generation/yoona"
+kind = "single"
+
+names = [
+  { name = "바람이 불면 (When The Wind Blows)", locale = "ko", original = true },
+  { name = "Barami Bulmyeon (When The Wind Blows)", locale = "ko-Latn", default = true },
+  { name = "When The Wind Blows", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/yoona"
+names = [
+  { name = "윤아", locale = "ko", original = true },
+  { name = "YOONA", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-09-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10095020" },
+]
