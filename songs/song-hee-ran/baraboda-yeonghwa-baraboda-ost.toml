@@ -1,0 +1,4 @@
+names = [
+  { name = "바라보다 (영화 '바라보다' OST)", locale = "ko", original = true },
+  { name = "Baraboda (Yeonghwa 'Baraboda' OST)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "song-hee-ran/baby/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "song-hee-ran/eodiisseulkka"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "song-hee-ran/geu-naldeul"
+duration = "3:40"
+
+[[tracks]]
+position = 3
+song-id = "song-hee-ran/baby"
+duration = "3:22"
+
+[[tracks]]
+position = 4
+song-id = "song-hee-ran/gidarineun-dongan"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song-id = "song-hee-ran/baraboda-yeonghwa-baraboda-ost"
+duration = "3:13"
