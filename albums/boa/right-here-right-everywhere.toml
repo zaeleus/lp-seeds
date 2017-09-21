@@ -1,0 +1,14 @@
+artist-id = "boa"
+kind = "single"
+
+names = [
+  { name = "Right Here, Right Everywhere", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-09-18"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10096790" },
+]
