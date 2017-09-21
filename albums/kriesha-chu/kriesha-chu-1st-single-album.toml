@@ -1,0 +1,14 @@
+artist-id = "kriesha-chu"
+kind = "single"
+
+names = [
+  { name = "Kriesha Chu 1st Single Album", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-05-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10064136" },
+]

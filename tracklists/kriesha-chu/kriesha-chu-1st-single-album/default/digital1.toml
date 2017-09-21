@@ -1,0 +1,13 @@
+medium-ids = [
+  "kriesha-chu/kriesha-chu-1st-single-album/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kriesha-chu/neoyeosseumyeon-hae-feat-yong-jun-hyung-prod-by-yong-jun-hyung-kim-tae-joo"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "kriesha-chu/trouble-prod-by-yong-jun-hyung-kim-tae-joo"
+duration = "3:06"

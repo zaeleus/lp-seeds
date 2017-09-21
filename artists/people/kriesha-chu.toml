@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1998-12-20"
+country = "PH"
+gender = "female"
+
+names = [
+  { name = "크리샤 츄", locale = "ko", kind = "real", original = true },
+  { name = "Kriesha Chu", locale = "ko-Latn", kind = "real", default = true },
+]
