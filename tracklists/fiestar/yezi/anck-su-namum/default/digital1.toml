@@ -1,0 +1,13 @@
+medium-ids = [
+  "fiestar/yezi/anck-su-namum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fiestar/yezi/anck-su-namum"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "fiestar/yezi/anck-su-namum-inst"
+duration = "3:15"
