@@ -1,0 +1,15 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "이달의 소녀 오드아이써클", locale = "ko", original = true },
+  { name = "ODD EYE CIRCLE", locale = "en", default = true },
+]
+
+members = [
+  { artist-id = "loona/kim-lip" },
+  { artist-id = "loona/jinsoul" },
+  { artist-id = "loona/choerry" },
+]
