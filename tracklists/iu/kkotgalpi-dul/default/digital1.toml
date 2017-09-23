@@ -1,0 +1,33 @@
+medium-ids = [
+  "iu/kkotgalpi-dul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "iu/gaeul-achim"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "iu/bimirui-hwawon"
+duration = "3:44"
+
+[[tracks]]
+position = 3
+song-id = "iu/jam-mot-deuneun-bam-bineun-naerigo"
+duration = "4:26"
+
+[[tracks]]
+position = 4
+song-id = "iu/eojetbam-iyagi"
+duration = "3:53"
+
+[[tracks]]
+position = 5
+song-id = "iu/gaeyeoul"
+duration = "5:37"
+
+[[tracks]]
+position = 6
+song-id = "iu/maeil-geudaewa"
+duration = "3:44"
