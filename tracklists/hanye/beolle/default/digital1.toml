@@ -1,0 +1,8 @@
+medium-ids = [
+  "hanye/beolle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hanye/beolle"
+duration = "2:26"
