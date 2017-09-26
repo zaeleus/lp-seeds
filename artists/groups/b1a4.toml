@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2011"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "B1A4", locale = "ko", original = true, default = true },
+]
