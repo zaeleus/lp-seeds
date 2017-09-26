@@ -1,3 +1,9 @@
 names = [
-  { name = "Right Here, Right Everywhere", locale = "ko", original = true, default = true },
+  { name = "Right Here, Right Everywhere", locale = "ja", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "boa"
+names = [
+  { name = "BoA", locale = "ja", original = true, default = true },
 ]

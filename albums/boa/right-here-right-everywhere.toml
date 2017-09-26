@@ -5,6 +5,12 @@ names = [
   { name = "Right Here, Right Everywhere", locale = "ja", original = true, default = true },
 ]
 
+[[artist-credits]]
+artist-id = "boa"
+names = [
+  { name = "BoA", locale = "ja", original = true, default = true },
+]
+
 [[releases]]
 released-on = "2017-09-18"
 country = "JP"
