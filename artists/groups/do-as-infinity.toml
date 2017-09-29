@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "1999"
+country = "JP"
+gender = "coed"
+
+names = [
+  { name = "Do As Infinity", locale = "ja", original = true, default = true },
+]

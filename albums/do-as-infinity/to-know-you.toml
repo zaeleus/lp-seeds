@@ -1,0 +1,16 @@
+artist-id = "do-as-infinity"
+kind = "single"
+
+names = [
+  { name = "To Know You", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-09-27"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1279703741" },
+  { url = "http://mora.jp/package/43000002/ANTCD-24580_F/" },
+  { url = "http://mora.jp/package/43000002/AVCD-83917/" },
+]

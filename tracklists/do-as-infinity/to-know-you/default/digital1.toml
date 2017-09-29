@@ -1,0 +1,13 @@
+medium-ids = [
+  "do-as-infinity/to-know-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "do-as-infinity/to-know-you"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "do-as-infinity/yuiitsu-no-shinjitsu"
+duration = "4:40"
