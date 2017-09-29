@@ -1,0 +1,13 @@
+medium-ids = [
+  "koda-kumi/lit/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "koda-kumi/lit"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "koda-kumi/lit-instrumental"
+duration = "3:27"

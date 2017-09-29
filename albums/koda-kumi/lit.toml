@@ -1,0 +1,16 @@
+artist-id = "koda-kumi"
+kind = "single"
+
+names = [
+  { name = "LIT", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-02"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1260926292" },
+  { url = "http://mora.jp/package/43000002/ANTCD-24069_F/" },
+  { url = "http://mora.jp/package/43000002/RZC1-86385/" },
+]
