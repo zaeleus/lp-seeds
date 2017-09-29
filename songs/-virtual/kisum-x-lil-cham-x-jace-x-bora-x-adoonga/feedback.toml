@@ -1,0 +1,12 @@
+names = [
+  { name = "Feedback (피드백)", locale = "ko", original = true },
+  { name = "Feedback", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "kisum", separator = " X " },
+  { artist-id = "lil-cham", separator = " X " },
+  { artist-id = "jace", separator = " X " },
+  { artist-id = "sistar/bora", separator = " X " },
+  { artist-id = "adoonga" },
+]
