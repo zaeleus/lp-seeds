@@ -1,0 +1,5 @@
+names = [
+  { name = "실화 (Inst.)", locale = "ko", original = true },
+  { name = "Silhwa (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Nonfiction (Inst.)", locale = "en" },
+]

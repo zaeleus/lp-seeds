@@ -1,0 +1,14 @@
+artist-id = "k-will"
+kind = "lp"
+
+names = [
+  { name = "The 4th Album Part.1: Nonfiction", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-09-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10099295" },
+]
