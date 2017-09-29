@@ -1,0 +1,28 @@
+medium-ids = [
+  "bolbbalgan4/red-diary-page-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bolbbalgan4/sseom-talkkeoya"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "bolbbalgan4/blue"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "bolbbalgan4/gochyeojuseyo"
+duration = "3:06"
+
+[[tracks]]
+position = 4
+song-id = "bolbbalgan4/sang-sang"
+duration = "2:55"
+
+[[tracks]]
+position = 5
+song-id = "bolbbalgan4/naui-sachungiege"
+duration = "3:42"
