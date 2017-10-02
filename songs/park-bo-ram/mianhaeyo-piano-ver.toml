@@ -1,0 +1,5 @@
+names = [
+  { name = "미안해요 (Piano Ver.)", locale = "ko", original = true },
+  { name = "Mianhaeyo (Piano Ver.)", locale = "ko-Latn", default = true },
+  { name = "Sorry (Piano Ver.)", locale = "en" },
+]

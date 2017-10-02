@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-bo-ram/mianhaeyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-bo-ram/mianhaeyo"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "park-bo-ram/mianhaeyo-piano-ver"
+duration = "3:23"

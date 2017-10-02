@@ -1,0 +1,16 @@
+artist-id = "park-bo-ram"
+kind = "single"
+
+names = [
+  { name = "미안해요", locale = "ko", original = true },
+  { name = "Mianhaeyo", locale = "ko-Latn", default = true },
+  { name = "Sorry", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-10-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2643513" },
+]
