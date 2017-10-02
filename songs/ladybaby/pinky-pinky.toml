@@ -1,0 +1,9 @@
+names = [
+  { name = "Pinky! Pinky!", locale = "ja", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "ladybaby"
+names = [
+  { name = "The Idol Formerly Known As LADYBABY", locale = "ja", original = true, default = true },
+]

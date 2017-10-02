@@ -1,0 +1,21 @@
+artist-id = "ladybaby"
+kind = "single"
+
+names = [
+  { name = "Pinky! Pinky!", locale = "ja", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "ladybaby"
+names = [
+  { name = "The Idol Formerly Known As LADYBABY", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-09-27"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1276920538" },
+  { url = "http://mora.jp/package/43000014/KICM-1811/" },
+]
