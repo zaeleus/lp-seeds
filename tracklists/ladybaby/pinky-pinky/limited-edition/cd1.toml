@@ -1,0 +1,19 @@
+medium-ids = [
+  "ladybaby/pinky-pinky/limited-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ladybaby/pinky-pinky"
+
+[[tracks]]
+position = 2
+song-id = "ladybaby/me-me-me"
+
+[[tracks]]
+position = 3
+song-id = "ladybaby/pinky-pinky-off-vocal-ver"
+
+[[tracks]]
+position = 4
+song-id = "ladybaby/me-me-me-off-vocal-ver"

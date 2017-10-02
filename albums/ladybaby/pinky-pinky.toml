@@ -19,3 +19,25 @@ urls = [
   { url = "https://itunes.apple.com/jp/album/id1276920538" },
   { url = "http://mora.jp/package/43000014/KICM-1811/" },
 ]
+
+[[releases]]
+released-on = "2017-09-27"
+country = "JP"
+catalog-number = "KICM-91810"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://ladybaby-fc.com/discography/1394" },
+  { url = "http://www.oricon.co.jp/prof/653371/products/1244551/1/" },
+]
+
+[[releases]]
+released-on = "2017-09-27"
+country = "JP"
+catalog-number = "KICM-1811"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://ladybaby-fc.com/discography/1394" },
+  { url = "http://www.oricon.co.jp/prof/653371/products/1244555/1/" },
+]
