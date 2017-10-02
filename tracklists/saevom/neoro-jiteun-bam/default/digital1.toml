@@ -1,0 +1,8 @@
+medium-ids = [
+  "saevom/neoro-jiteun-bam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saevom/neoro-jiteun-bam-with-han-all"
+duration = "3:50"
