@@ -6,7 +6,7 @@ names = [
   { name = "은하", locale = "ko", kind = "stage", original = true },
   { name = "Eunha", locale = "ko-Latn", kind = "stage", default = true },
   { name = "정은비", locale = "ko", kind = "real" },
-  { name = "Jugn Eun Bi", locale = "ko-Latn", kind = "real" },
+  { name = "Jung Eun Bi", locale = "ko-Latn", kind = "real" },
 ]
 
 labels = [{ label-id = "source-music-entertainment" }]
