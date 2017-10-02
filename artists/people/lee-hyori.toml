@@ -4,5 +4,5 @@ country = "KR"
 
 names = [
   { name = "이효리", locale = "ko", kind = "stage", original = true },
-  { name = "Lee Hyo Ri", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Lee Hyori", locale = "ko-Latn", kind = "stage", default = true },
 ]
