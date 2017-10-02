@@ -1,0 +1,14 @@
+artist-id = "the-ade"
+kind = "ep"
+
+names = [
+  { name = "Reborn", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-10-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10005186" },
+]
