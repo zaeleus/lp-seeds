@@ -1,0 +1,16 @@
+artist-id = "gfriend/eunha"
+kind = "single"
+
+names = [
+  { name = "사랑의 온도 OST Part.2", locale = "ko", original = true },
+  { name = "Sarangui Ondo OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Temperature of Love OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-10-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10099477" },
+]
