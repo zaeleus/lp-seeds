@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/eric-nam-cheeze/your-bgm-vol-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/eric-nam-cheeze/perhaps-love-sarangingayo-prod-by-park-geun-tae"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/eric-nam-cheeze/perhaps-love-inst"
+duration = "3:59"

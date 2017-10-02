@@ -1,0 +1,8 @@
+names = [
+  { name = "Perhaps Love (Inst.)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "eric-nam", separator = " & " },
+  { artist-id = "cheeze" },
+]
