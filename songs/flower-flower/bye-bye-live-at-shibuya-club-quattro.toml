@@ -1,0 +1,4 @@
+names = [
+  { name = "バイバイ Live at SHIBUYA CLUB QUATTRO", locale = "ja", original = true },
+  { name = "bye bye Live at SHIBUYA CLUB QUATTRO", locale = "en", default = true },
+]

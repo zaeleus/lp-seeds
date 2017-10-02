@@ -1,0 +1,4 @@
+names = [
+  { name = "素晴らしい世界 Live at SHIBUYA CLUB QUATTRO", locale = "ja", original = true },
+  { name = "Subarashii Sekai Live at SHIBUYA CLUB QUATTRO", locale = "ja-Latn", default = true },
+]

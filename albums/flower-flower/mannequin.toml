@@ -1,0 +1,17 @@
+artist-id = "flower-flower"
+kind = "single"
+
+names = [
+  { name = "マネキン", locale = "ja", original = true },
+  { name = "Mannequin", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-08-02"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1261273748" },
+  { url = "http://mora.jp/package/43000001/4547366323757/" },
+  { url = "http://mora.jp/package/43000001/4547366323764/" },
+]

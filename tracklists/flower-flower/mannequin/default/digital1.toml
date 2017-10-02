@@ -1,0 +1,28 @@
+medium-ids = [
+  "flower-flower/mannequin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "flower-flower/mannequin"
+duration = "5:31"
+
+[[tracks]]
+position = 2
+song-id = "flower-flower/drama"
+duration = "4:50"
+
+[[tracks]]
+position = 3
+song-id = "flower-flower/kamisama-live-at-shibuya-club-quattro"
+duration = "3:25"
+
+[[tracks]]
+position = 4
+song-id = "flower-flower/subarashii-sekai-live-at-shibuya-club-quattro"
+duration = "3:39"
+
+[[tracks]]
+position = 5
+song-id = "flower-flower/bye-bye-live-at-shibuya-club-quattro"
+duration = "7:22"

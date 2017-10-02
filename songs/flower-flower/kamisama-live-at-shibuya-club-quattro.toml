@@ -1,0 +1,4 @@
+names = [
+  { name = "神様 Live at SHIBUYA CLUB QUATTRO", locale = "ja", original = true },
+  { name = "Kamisama Live at SHIBUYA CLUB QUATTRO", locale = "ja-Latn", default = true },
+]

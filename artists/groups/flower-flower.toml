@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2013"
+country = "JP"
+gender = "coed"
+
+names = [
+  { name = "FLOWER FLOWER", locale = "ja", original = true, default = true },
+]
