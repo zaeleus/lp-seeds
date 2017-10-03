@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/nae-ane-inneun-geudaega/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/nae-ane-inneun-geudaega"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "ran/nae-ane-inneun-geudaega-inst"
+duration = "3:19"

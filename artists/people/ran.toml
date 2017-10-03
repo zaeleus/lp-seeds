@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1982-05-20"
+country = "KR"
+
+names = [
+  { name = "란", locale = "ko", kind = "stage", original = true },
+  { name = "RAN", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정현선", locale = "ko", kind = "real" },
+  { name = "Jeong Hyeon Seon", locale = "ko-Latn", kind = "real" },
+]

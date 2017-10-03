@@ -1,0 +1,15 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "내 안에 있는 그대가", locale = "ko", original = true },
+  { name = "Nae Ane Inneun Geudaega", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-09-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10098098" },
+]
