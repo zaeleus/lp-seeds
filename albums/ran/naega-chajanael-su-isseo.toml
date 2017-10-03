@@ -1,0 +1,15 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "내가 찾아낼 수 있어", locale = "ko", original = true },
+  { name = "Naega Chajanael Su Isseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-03-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10047691" },
+]
