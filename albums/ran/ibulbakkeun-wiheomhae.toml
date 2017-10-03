@@ -1,0 +1,15 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "이불밖은 위험해", locale = "ko", original = true },
+  { name = "Ibulbakkeun Wiheomhae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-07-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10079265" },
+]
