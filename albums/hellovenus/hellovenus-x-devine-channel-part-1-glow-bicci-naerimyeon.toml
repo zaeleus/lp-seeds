@@ -2,8 +2,8 @@ artist-id = "hellovenus"
 kind = "single"
 
 names = [
-  { name = "HELLOVENUS X DEVINE CHANNEL Part 1: Glow (빛이 내리면)", locale = "ko", original = true },
-  { name = "HELLOVENUS X DEVINE CHANNEL Part 1: Glow (Bicci Naerimyeon)", locale = "ko-Latn", default = true },
+  { name = "HELLOVENUS X DEVINE CHANNEL Part.1: Glow (빛이 내리면)", locale = "ko", original = true },
+  { name = "HELLOVENUS X DEVINE CHANNEL Part.1: Glow (Bicci Naerimyeon)", locale = "ko-Latn", default = true },
 ]
 
 [[releases]]

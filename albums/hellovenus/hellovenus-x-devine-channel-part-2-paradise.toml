@@ -2,7 +2,7 @@ artist-id = "hellovenus"
 kind = "single"
 
 names = [
-  { name = "HELLOVENUS X DEVINE CHANNEL Part 2: Paradise", locale = "ko", original = true, default = true },
+  { name = "HELLOVENUS X DEVINE CHANNEL Part.2: Paradise", locale = "ko", original = true, default = true },
 ]
 
 [[releases]]
