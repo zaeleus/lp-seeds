@@ -1,0 +1,21 @@
+artist-id = "-virtual/kittib-jace"
+kind = "single"
+
+names = [
+  { name = "바쁘다 바빠", locale = "ko", original = true },
+  { name = "Bappeuda Bappa", locale = "ko-Latn", default = true },
+  { name = "So Busy", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "kittib", separator = ", " },
+  { artist-id = "jace" },
+]
+
+[[releases]]
+released-on = "2016-09-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2711156" },
+]

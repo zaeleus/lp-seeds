@@ -1,0 +1,15 @@
+names = [
+  { name = "바쁘다 바빠 (Feat. 칸토, DJ Juice)", locale = "ko", original = true },
+  { name = "Bappeuda Bappa (Feat. Kanto, DJ Juice)", locale = "ko-Latn", default = true },
+  { name = "So Busy (Feat. Kanto, DJ Juice)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "kittib", separator = ", " },
+  { artist-id = "jace" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=n8umEmHtlv4", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=wRGHY6UKzUU", name = "Music Video" },
+]
