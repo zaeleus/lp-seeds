@@ -1,0 +1,13 @@
+medium-ids = [
+  "haruae/full-moon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "haruae/full-moon"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "haruae/full-moon-inst"
+duration = "3:56"
