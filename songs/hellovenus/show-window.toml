@@ -1,0 +1,3 @@
+names = [
+  { name = "Show Window", locale = "ko", original = true, default = true },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "난 예술이야 (Club Remix)", locale = "ko", original = true },
+  { name = "Nan Yesuriya (Club Remix)", locale = "ko-Latn", default = true },
+  { name = "I'm ill (Club Remix)", locale = "en" },
+]
