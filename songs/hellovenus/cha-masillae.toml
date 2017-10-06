@@ -1,0 +1,9 @@
+names = [
+  { name = "차 마실래?", locale = "ko", original = true },
+  { name = "Cha Masillae?", locale = "ko-Latn", default = true },
+  { name = "Would you stay for tea?", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=bfVYOFCQufw", name = "Music Video" },
+]
