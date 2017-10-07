@@ -1,0 +1,16 @@
+artist-id = "hellovenus"
+kind = "ep"
+
+names = [
+  { name = "파도처럼", locale = "ko", original = true },
+  { name = "Padocheoreom", locale = "ko-Latn", default = true },
+  { name = "Like a Wave", locale = "en" },
+]
+
+[[releases]]
+released-on = "2012-07-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2136028" },
+]
