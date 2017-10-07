@@ -1,0 +1,16 @@
+artist-id = "hellovenus"
+kind = "ep"
+
+names = [
+  { name = "오늘 뭐해?", locale = "ko", original = true },
+  { name = "Oneul Mwohae?", locale = "ko-Latn", default = true },
+  { name = "What are you doing today?", locale = "en" },
+]
+
+[[releases]]
+released-on = "2012-12-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2169935" },
+]
