@@ -1,0 +1,16 @@
+artist-id = "jiae"
+kind = "single"
+
+names = [
+  { name = "마치 (Maybe)", locale = "ko", original = true },
+  { name = "Machi (Maybe)", locale = "ko-Latn", default = true },
+  { name = "Maybe", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-10-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10100449" },
+]

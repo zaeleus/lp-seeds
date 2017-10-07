@@ -1,0 +1,13 @@
+medium-ids = [
+  "jiae/machi-maybe/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jiae/machi-maybe"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "jiae/machi-maybe-inst"
+duration = "3:56"
