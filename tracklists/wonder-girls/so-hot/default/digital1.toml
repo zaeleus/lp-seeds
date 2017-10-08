@@ -1,0 +1,23 @@
+medium-ids = [
+  "wonder-girls/so-hot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wonder-girls/so-hot"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "wonder-girls/this-time"
+duration = "4:36"
+
+[[tracks]]
+position = 3
+song-id = "wonder-girls/you-re-out"
+duration = "3:10"
+
+[[tracks]]
+position = 4
+song-id = "wonder-girls/tell-me-rap-ver"
+duration = "3:37"
