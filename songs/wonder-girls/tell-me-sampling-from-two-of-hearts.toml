@@ -1,0 +1,3 @@
+names = [
+  { name = 'Tell me (Sampling from "Two of Hearts")', locale = "ko", original = true, default = true },
+]
