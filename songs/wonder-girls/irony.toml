@@ -1,3 +1,4 @@
 names = [
-  { name = "Irony", locale = "ko", original = true, default = true },
+  { name = "Irony (아이러니)", locale = "ko", original = true },
+  { name = "Irony", locale = "en", default = true },
 ]

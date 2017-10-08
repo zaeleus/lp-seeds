@@ -66,3 +66,6 @@ duration = "3:59"
 position = 13
 song-id = "wonder-girls/irony"
 duration = "4:03"
+names = [
+  { name = "Irony", locale = "ko", original = true, default = true },
+]
