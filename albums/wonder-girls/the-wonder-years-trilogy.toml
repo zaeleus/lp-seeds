@@ -1,0 +1,14 @@
+artist-id = "wonder-girls"
+kind = "single"
+
+names = [
+  { name = "The Wonder Years - Trilogy", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2008-09-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=398026" },
+]
