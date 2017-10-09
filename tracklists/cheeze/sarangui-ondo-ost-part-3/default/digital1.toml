@@ -1,0 +1,23 @@
+medium-ids = [
+  "cheeze/sarangui-ondo-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheeze/i-still"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "cheeze/i-still-piano-ver"
+duration = "3:19"
+
+[[tracks]]
+position = 3
+song-id = "cheeze/i-still-inst"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song-id = "cheeze/i-still-piano-ver-inst"
+duration = "3:19"
