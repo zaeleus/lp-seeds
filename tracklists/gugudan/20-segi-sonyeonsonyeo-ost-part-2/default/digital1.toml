@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan/20-segi-sonyeonsonyeo-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/ilgi"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/ilgi-inst"
+duration = "3:37"

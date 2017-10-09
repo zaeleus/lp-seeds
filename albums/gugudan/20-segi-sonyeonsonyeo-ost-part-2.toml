@@ -1,0 +1,16 @@
+artist-id = "gugudan"
+kind = "single"
+
+names = [
+  { name = "20세기 소년소녀 OST Part.2", locale = "ko", original = true },
+  { name = "20-segi Sonyeonsonyeo OST Part.2", locale = "ko-Latn", default = true },
+  { name = "20th Century Boy and Girl OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-10-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10100475" },
+]
