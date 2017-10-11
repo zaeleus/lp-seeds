@@ -1,0 +1,13 @@
+medium-ids = [
+  "kiss-cry/nappeun-yeoja/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kiss-cry/nappeun-yeoja"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "kiss-cry/nappeun-yeoja-inst"
+duration = "3:27"
