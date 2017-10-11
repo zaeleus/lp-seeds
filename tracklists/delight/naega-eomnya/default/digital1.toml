@@ -1,0 +1,8 @@
+medium-ids = [
+  "delight/naega-eomnya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "delight/naega-eomnya"
+duration = "3:23"
