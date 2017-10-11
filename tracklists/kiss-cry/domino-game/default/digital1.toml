@@ -1,0 +1,13 @@
+medium-ids = [
+  "kiss-cry/domino-game/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kiss-cry/domino-game"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "kiss-cry/inst"
+duration = "3:40"

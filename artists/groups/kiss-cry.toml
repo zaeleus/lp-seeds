@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2014"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "키스&크라이", locale = "ko", original = true },
+  { name = "Kiss&Cry", locale = "ko-Latn", default = true },
+]
