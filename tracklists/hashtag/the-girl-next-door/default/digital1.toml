@@ -1,0 +1,33 @@
+medium-ids = [
+  "hashtag/the-girl-next-door/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hashtag/intro"
+duration = "0:39"
+
+[[tracks]]
+position = 2
+song-id = "hashtag/hue"
+duration = "3:13"
+
+[[tracks]]
+position = 3
+song-id = "hashtag/geureongeo"
+duration = "2:43"
+
+[[tracks]]
+position = 4
+song-id = "hashtag/hz"
+duration = "3:14"
+
+[[tracks]]
+position = 5
+song-id = "hashtag/biga-naerimyeon"
+duration = "3:13"
+
+[[tracks]]
+position = 6
+song-id = "hashtag/hue-inst"
+duration = "3:13"

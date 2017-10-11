@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "해시태그", locale = "ko", original = true },
+  { name = "Hashtag", locale = "ko-Latn", default = true },
+]
