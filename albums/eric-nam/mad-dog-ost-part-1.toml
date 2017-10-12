@@ -1,0 +1,15 @@
+artist-id = "eric-nam"
+kind = "single"
+
+names = [
+  { name = "매드독 OST Part.1", locale = "ko", original = true },
+  { name = "Mad Dog OST Part.1", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-10-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10101498" },
+]

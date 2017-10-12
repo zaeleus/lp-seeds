@@ -1,0 +1,13 @@
+medium-ids = [
+  "eric-nam/mad-dog-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eric-nam/haega-jigi-jeone"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "eric-nam/haega-jigi-jeone-inst"
+duration = "3:09"
