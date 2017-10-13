@@ -1,0 +1,10 @@
+names = [
+  { name = "시월에 설악산", locale = "ko", original = true },
+  { name = "Siwore Seoraksan", locale = "ko-Latn", default = true },
+  { name = "Seoraksan in October", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "dia/yebin", separator = ", " },
+  { artist-id = "dia/somyi" },
+]

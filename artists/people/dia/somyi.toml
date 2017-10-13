@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "2000-01-26"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "솜이", locale = "ko", kind = "stage", original = true },
+  { name = "Somyi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "안솜이", locale = "ko", kind = "real" },
+  { name = "Ahn Som Yi", locale = "ko-Latn", kind = "real" },
+]
