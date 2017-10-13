@@ -1,0 +1,10 @@
+names = [
+  { name = "별빛이 피면 (Star Blossom) (Inst.)", locale = "ko", original = true },
+  { name = "Byeolbichi Pimyeon (Star Blossom) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Star Blossom (Inst.)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "nct/doyoung", separator = " X " },
+  { artist-id = "gugudan/sejeong" },
+]

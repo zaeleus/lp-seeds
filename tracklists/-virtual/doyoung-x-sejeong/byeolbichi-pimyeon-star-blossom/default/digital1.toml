@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/doyoung-x-sejeong/byeolbichi-pimyeon-star-blossom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/doyoung-x-sejeong/byeolbichi-pimyeon-star-blossom"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/doyoung-x-sejeong/byeolbichi-pimyeon-star-blossom-inst"
+duration = "3:31"

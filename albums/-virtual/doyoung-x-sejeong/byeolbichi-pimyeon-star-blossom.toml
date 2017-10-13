@@ -1,0 +1,21 @@
+artist-id = "-virtual/doyoung-x-sejeong"
+kind = "single"
+
+names = [
+  { name = "별빛이 피면 (Star Blossom)", locale = "ko", original = true },
+  { name = "Byeolbichi Pimyeon (Star Blossom)", locale = "ko-Latn", default = true },
+  { name = "Star Blossom", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "nct/doyoung", separator = " X " },
+  { artist-id = "gugudan/sejeong" },
+]
+
+[[releases]]
+released-on = "2017-10-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10102193" },
+]
