@@ -1,0 +1,13 @@
+medium-ids = [
+  "b1a4/the-package-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "b1a4/you-are-my-baby"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "b1a4/you-are-my-baby-inst"
+duration = "3:07"
