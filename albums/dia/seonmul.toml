@@ -1,0 +1,16 @@
+artist-id = "dia"
+kind = "ep"
+
+names = [
+  { name = "선물", locale = "ko", original = true },
+  { name = "Seonmul", locale = "ko-Latn", default = true },
+  { name = "Present", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-10-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10101535" },
+]

@@ -1,0 +1,35 @@
+medium-ids = [
+  "dia/seonmul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dia/gutbam-good-night"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "dia/eye-contact"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/yebin-somyi/siwore-seoraksan"
+duration = "4:07"
+names = [
+  { name = "시월에 설악산 (예빈&솜이)", locale = "ko", original = true },
+  { name = "Siwore Seoraksan (Yebin & Somyi)", locale = "ko-Latn", default = true },
+  { name = "Seoraksan in October (Yebin & Somyi)", locale = "en" },
+]
+[[tracks.artist-credits]]
+artist-id = "dia"
+
+[[tracks]]
+position = 4
+song-id = "dia/deutgosipeo-e905"
+duration = "3:40"
+
+[[tracks]]
+position = 5
+song-id = "dia/gutbam-good-night-inst"
+duration = "3:07"
