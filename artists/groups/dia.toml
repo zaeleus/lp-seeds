@@ -9,7 +9,7 @@ names = [
 
 members = [
   { artist-id = "dia/chaeyeon" },
-  { artist-id = "dia/eunchae" },
+  { artist-id = "dia/eunchae", started-on = "2016-03-07" },
   { artist-id = "dia/eunice" },
   { artist-id = "dia/eunjin" },
   { artist-id = "dia/huihyeon" },
