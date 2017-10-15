@@ -1,0 +1,5 @@
+names = [
+  { name = "그대 내게 다시 (Come Back To Me)", locale = "ko", original = true },
+  { name = "Geudae Naege Dasi (Come Back To Me)", locale = "ko-Latn", default = true },
+  { name = "Come Back To Me", locale = "en" },
+]

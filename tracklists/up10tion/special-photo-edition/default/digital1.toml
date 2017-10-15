@@ -1,0 +1,18 @@
+medium-ids = [
+  "up10tion/special-photo-edition/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "up10tion/michige-hae-going-crazy"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "up10tion/geudae-naege-dasi-come-back-to-me"
+duration = "3:36"
+
+[[tracks]]
+position = 3
+song-id = "up10tion/michige-hae-going-crazy-inst"
+duration = "3:29"
