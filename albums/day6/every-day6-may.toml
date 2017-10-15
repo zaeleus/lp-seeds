@@ -1,0 +1,14 @@
+artist-id = "day6"
+kind = "single"
+
+names = [
+  { name = "Every DAY6 May", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-05-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10060034" },
+]
