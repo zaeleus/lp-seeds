@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1991-06-03"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "승희", locale = "ko", kind = "stage", original = true },
+  { name = "Seunghee", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조승희", locale = "ko", kind = "real" },
+  { name = "Cho Seung Hee", locale = "ko-Latn", kind = "real" },
+]

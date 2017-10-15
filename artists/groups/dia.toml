@@ -15,6 +15,7 @@ members = [
   { artist-id = "dia/huihyeon" },
   { artist-id = "dia/jenny" },
   { artist-id = "dia/jueun", started-on = "2017-05-04" },
+  { artist-id = "dia/seunghee", ended-on = "2016-04-30" },
   { artist-id = "dia/somyi", started-on = "2017-05-04" },
   { artist-id = "dia/yebin" },
 ]
