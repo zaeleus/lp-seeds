@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1995-06-07"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "주은", locale = "ko", kind = "stage", original = true },
+  { name = "Jueun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이주은", locale = "ko", kind = "real" },
+  { name = "Lee Ju Eun", locale = "ko-Latn", kind = "real" },
+]
