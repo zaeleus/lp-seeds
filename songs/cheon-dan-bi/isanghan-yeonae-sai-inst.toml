@@ -1,0 +1,4 @@
+names = [
+  { name = "이상한 연애 사이 (Inst.)", locale = "ko", original = true },
+  { name = "Isanghan Yeonae Sai (Inst.)", locale = "ko-Latn", default = true },
+]
