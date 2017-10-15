@@ -1,0 +1,15 @@
+artist-id = "aisle"
+kind = "ep"
+
+names = [
+  { name = "첫차", locale = "ko", original = true },
+  { name = "Cheotcha", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-10-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10101703" },
+]

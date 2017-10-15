@@ -1,0 +1,28 @@
+medium-ids = [
+  "aisle/cheotcha/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aisle/gidarideon-bam"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "aisle/gieoksanchaek"
+duration = "3:57"
+
+[[tracks]]
+position = 3
+song-id = "aisle/cheotcha"
+duration = "4:36"
+
+[[tracks]]
+position = 4
+song-id = "aisle/usan"
+duration = "5:26"
+
+[[tracks]]
+position = 5
+song-id = "aisle/good-bye"
+duration = "3:40"
