@@ -1,0 +1,33 @@
+medium-ids = [
+  "day6/the-day/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "day6/free-hage"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "day6/isanghage-gyesok-irae"
+duration = "3:11"
+
+[[tracks]]
+position = 3
+song-id = "day6/congratulations"
+duration = "3:49"
+
+[[tracks]]
+position = 4
+song-id = "day6/beoreusi-dwaesseo"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "day6/taeyangcheoreom"
+duration = "3:38"
+
+[[tracks]]
+position = 6
+song-id = "day6/colors"
+duration = "4:17"
