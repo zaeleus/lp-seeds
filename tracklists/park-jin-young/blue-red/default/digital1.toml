@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-jin-young/blue-red/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-jin-young/huhoehae-duet-heize"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "park-jin-young/huhoehae-duet-heize-inst"
+duration = "3:37"

@@ -1,0 +1,9 @@
+names = [
+  { name = "후회해 (Duet. 헤이즈)", locale = "ko", original = true },
+  { name = "Huhoehae (Duet. Heize)", locale = "ko-Latn", default = true },
+  { name = "Regrets (Duet. Heize)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=gDwTAC5oGSA", name = "Lyric Video" },
+]

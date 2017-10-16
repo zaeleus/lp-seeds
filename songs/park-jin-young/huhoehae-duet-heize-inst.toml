@@ -1,0 +1,5 @@
+names = [
+  { name = "후회해 (Duet. 헤이즈) (Inst.)", locale = "ko", original = true },
+  { name = "Huhoehae (Duet. Heize) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Regrets (Duet. Heize) (Inst.)", locale = "en" },
+]
