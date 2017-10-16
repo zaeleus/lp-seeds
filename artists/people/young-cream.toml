@@ -1,0 +1,9 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "영크림", locale = "ko", kind = "stage", original = true },
+  { name = "Young Cream", locale = "ko-Latn", kind = "stage", default = true },
+]

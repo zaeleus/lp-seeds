@@ -1,0 +1,14 @@
+artist-id = "young-cream"
+kind = "single"
+
+names = [
+  { name = "BANANA", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-10-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10102292" },
+]
