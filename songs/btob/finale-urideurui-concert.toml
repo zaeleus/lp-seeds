@@ -1,0 +1,4 @@
+names = [
+  { name = "Finale: 우리들의 콘서트", locale = "ko", original = true },
+  { name = "Finale: Urideurui Concert", locale = "ko-Latn", default = true },
+]

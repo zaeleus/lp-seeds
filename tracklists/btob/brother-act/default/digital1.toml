@@ -1,0 +1,63 @@
+medium-ids = [
+  "btob/brother-act/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "btob/prelude-haru"
+duration = "0:59"
+
+[[tracks]]
+position = 2
+song-id = "btob/geuriwohada"
+duration = "3:56"
+
+[[tracks]]
+position = 3
+song-id = "btob/my-lady"
+duration = "4:06"
+
+[[tracks]]
+position = 4
+song-id = "btob/saeppalgan-geojinmal"
+duration = "3:29"
+
+[[tracks]]
+position = 5
+song-id = "btob/sinbaram"
+duration = "3:57"
+
+[[tracks]]
+position = 6
+song-id = "btob/interlude-brother-act"
+duration = "2:19"
+
+[[tracks]]
+position = 7
+song-id = "btob/nanana"
+duration = "3:28"
+
+[[tracks]]
+position = 8
+song-id = "btob/kkume"
+duration = "3:34"
+
+[[tracks]]
+position = 9
+song-id = "btob/guitar-stroke-of-love"
+duration = "3:34"
+
+[[tracks]]
+position = 10
+song-id = "btob/ibyeoreul-mannada"
+duration = "3:54"
+
+[[tracks]]
+position = 11
+song-id = "btob/fly-away"
+duration = "3:38"
+
+[[tracks]]
+position = 12
+song-id = "btob/finale-urideurui-concert"
+duration = "4:00"
