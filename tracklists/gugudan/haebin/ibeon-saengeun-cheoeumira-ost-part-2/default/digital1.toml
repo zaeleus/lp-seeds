@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan/haebin/ibeon-saengeun-cheoeumira-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/haebin/everyday"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/haebin/everyday-inst"
+duration = "3:47"

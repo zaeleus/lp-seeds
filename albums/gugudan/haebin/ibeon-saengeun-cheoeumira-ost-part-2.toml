@@ -1,0 +1,16 @@
+artist-id = "gugudan/haebin"
+kind = "single"
+
+names = [
+  { name = "이번 생은 처음이라 OST Part.2", locale = "ko", original = true },
+  { name = "Ibeon Saengeun Cheoeumira OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Because This is My First Life OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-10-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10102935" },
+]
