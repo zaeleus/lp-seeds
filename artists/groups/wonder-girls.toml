@@ -11,7 +11,7 @@ names = [
 labels = [{ label-id = "jyp-entertainment" }]
 
 members = [
-  { artist-id = "wonder-girls/hae-lim", started-on = "2010-01-22" },
+  { artist-id = "wonder-girls/hye-rim", started-on = "2010-01-22" },
   { artist-id = "wonder-girls/so-hee", ended-on = "2013-12-21" },
   { artist-id = "wonder-girls/sunmi", ended-on = "2010-01-22" },
   { artist-id = "wonder-girls/sun-ye" },

@@ -4,9 +4,9 @@ country = "KR"
 
 names = [
   { name = "혜림", locale = "ko", kind = "stage", original = true },
-  { name = "Hae Lim", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Hye Rim", locale = "ko-Latn", kind = "stage", default = true },
   { name = "우혜림", locale = "ko", kind = "real" },
-  { name = "Woo Hae Lim", locale = "ko-Latn", kind = "real" },
+  { name = "Woo Hye Rim", locale = "ko-Latn", kind = "real" },
   { name = "禹惠林", locale = "zh", kind = "real" },
   { name = "Lim", locale = "en", kind = "stage" },
 ]
