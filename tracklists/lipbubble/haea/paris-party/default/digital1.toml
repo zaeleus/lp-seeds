@@ -1,0 +1,13 @@
+medium-ids = [
+  "lipbubble/haea/paris-party/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lipbubble/haea/paris-party"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "lipbubble/haea/paris-party-inst"
+duration = "3:34"

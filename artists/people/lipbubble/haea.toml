@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "2000-09-09"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "해아", locale = "ko", kind = "stage", original = true },
+  { name = "Haea", locale = "ko-Latn", kind = "stage", default = true },
+]

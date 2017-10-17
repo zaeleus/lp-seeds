@@ -7,6 +7,10 @@ names = [
   { name = "LipBubble", locale = "ko-Latn", default = true },
 ]
 
+members = [
+  { artist-id = "lipbubble/haea" },
+]
+
 urls = [
   { url = "https://www.youtube.com/channel/UCiGda91LMc1h-YUn_unp69Q" },
 ]
