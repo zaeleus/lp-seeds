@@ -5,9 +5,11 @@ country = "KR"
 names = [
   { name = "예은", locale = "ko", kind = "stage", original = true },
   { name = "Ye Eun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "핫펠트", locale = "ko", kind = "stage" },
+  { name = "HA:TFELT", locale = "ko-Latn", kind = "stage" },
+  { name = "Yenny", locale = "en", kind = "stage" },
   { name = "박예은", locale = "ko", kind = "real" },
   { name = "Park Ye Eun", locale = "ko-Latn", kind = "real" },
-  { name = "Yenny", locale = "en", kind = "stage" },
 ]
 
 labels = [{ label-id = "jyp-entertainment" }]

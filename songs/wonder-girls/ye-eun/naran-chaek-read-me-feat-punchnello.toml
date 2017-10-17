@@ -1,0 +1,16 @@
+names = [
+  { name = "나란 책 (Read Me) (Feat. PUNCHNELLO)", locale = "ko", original = true },
+  { name = "Naran Chaek (Read Me) (Feat. PUNCHNELLO)", locale = "ko-Latn", default = true },
+  { name = "Read Me (Feat. PUNCHNELLO)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=cf8Uf9dHBLQ", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "wonder-girls/ye-eun"
+names = [
+  { name = "핫펠트", locale = "ko", original = true },
+  { name = "HA:TFELT", locale = "ko-Latn", default = true },
+]

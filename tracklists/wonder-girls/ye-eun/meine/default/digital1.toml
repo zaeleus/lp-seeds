@@ -1,0 +1,13 @@
+medium-ids = [
+  "wonder-girls/ye-eun/meine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wonder-girls/ye-eun/sae-sinbal-i-wander-feat-gaeko"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "wonder-girls/ye-eun/naran-chaek-read-me-feat-punchnello"
+duration = "4:03"

@@ -1,0 +1,16 @@
+names = [
+  { name = "새 신발 (I Wander) (Feat. 개코)", locale = "ko", original = true },
+  { name = "Sae Sinbal (I Wander) (Feat. Gaeko)", locale = "ko-Latn", default = true },
+  { name = "I Wander (Feat. Gaeko)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=FZbp8UH4ueM", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "wonder-girls/ye-eun"
+names = [
+  { name = "핫펠트", locale = "ko", original = true },
+  { name = "HA:TFELT", locale = "ko-Latn", default = true },
+]
