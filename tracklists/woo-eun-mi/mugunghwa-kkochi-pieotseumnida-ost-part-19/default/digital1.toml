@@ -1,0 +1,13 @@
+medium-ids = [
+  "woo-eun-mi/mugunghwa-kkochi-pieotseumnida-ost-part-19/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-eun-mi/saranghaeyo-sum-jugyeohaneun-mal"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "woo-eun-mi/saranghaeyo-sum-jugyeohaneun-mal-inst"
+duration = "3:24"

@@ -1,0 +1,16 @@
+artist-id = "woo-eun-mi"
+kind = "single"
+
+names = [
+  { name = "무궁화 꽃이 피었습니다 OST Part.19", locale = "ko", original = true },
+  { name = "Mugunghwa Kkochi Pieotseumnida OST Part.19", locale = "ko-Latn", default = true },
+  { name = "Lovers in Bloom OST Part.19", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-10-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10102775" },
+]
