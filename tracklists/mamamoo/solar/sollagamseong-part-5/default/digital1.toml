@@ -1,0 +1,13 @@
+medium-ids = [
+  "mamamoo/solar/sollagamseong-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/solar/oeroun-saramdeul"
+duration = "4:07"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/solar/gaeul-pyeonji"
+duration = "2:44"
