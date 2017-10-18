@@ -1,0 +1,5 @@
+names = [
+  { name = "움직이지마 (Inst.)", locale = "ko", original = true },
+  { name = "Umjigijima (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Don't Move (Inst.)", locale = "en" },
+]
