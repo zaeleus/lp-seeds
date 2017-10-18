@@ -1,0 +1,4 @@
+names = [
+  { name = "화이트 (WHITE) (Feat. 박재범)", locale = "ko", original = true },
+  { name = "WHITE (Feat. Jay Park)", locale = "en", default = true },
+]
