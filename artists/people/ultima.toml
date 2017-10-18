@@ -1,0 +1,9 @@
+kind = "group"
+#started-on = ""
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "울티마", locale = "ko", kind = "stage", original = true },
+  { name = "ULTIMA", locale = "ko-Latn", kind = "stage", default = true },
+]

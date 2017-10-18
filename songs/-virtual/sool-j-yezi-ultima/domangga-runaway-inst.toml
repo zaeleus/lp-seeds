@@ -1,0 +1,11 @@
+names = [
+  { name = "도망가 (Runaway) (Inst.)", locale = "ko", original = true },
+  { name = "Domangga (Runaway) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Runaway", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "sool-j", separator = ", " },
+  { artist-id = "fiestar/yezi", separator = ", " },
+  { artist-id = "ultima" },
+]

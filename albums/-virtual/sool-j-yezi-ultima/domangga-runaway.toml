@@ -1,0 +1,22 @@
+artist-id = "-virtual/sool-j-yezi-ultima"
+kind = "single"
+
+names = [
+  { name = "도망가 (Runaway)", locale = "ko", original = true },
+  { name = "Domangga (Runaway)", locale = "ko-Latn", default = true },
+  { name = "Runaway", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "sool-j", separator = ", " },
+  { artist-id = "fiestar/yezi", separator = ", " },
+  { artist-id = "ultima" },
+]
+
+[[releases]]
+released-on = "2017-06-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10072991" },
+]
