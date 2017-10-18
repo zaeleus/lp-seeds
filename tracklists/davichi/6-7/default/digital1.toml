@@ -1,0 +1,28 @@
+medium-ids = [
+  "davichi/6-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/heeojyeotda-mannatda"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "davichi/umjigijima"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "davichi/palbegae"
+duration = "3:43"
+
+[[tracks]]
+position = 4
+song-id = "davichi/umjigijima-inst"
+duration = "3:45"
+
+[[tracks]]
+position = 5
+song-id = "davichi/palbegae-inst"
+duration = "3:43"

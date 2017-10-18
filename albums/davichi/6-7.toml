@@ -1,0 +1,14 @@
+artist-id = "davichi"
+kind = "ep"
+
+names = [
+  { name = "6,7", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-06-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2261505" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "팔베개 (Inst.)", locale = "ko", original = true },
+  { name = "Palbegae (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Pillow (Inst.)", locale = "en" },
+]
