@@ -1,0 +1,8 @@
+medium-ids = [
+  "the-rose/sorry/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-rose/sorry"
+duration = "3:35"
