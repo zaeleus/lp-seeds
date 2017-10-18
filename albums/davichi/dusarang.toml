@@ -1,0 +1,16 @@
+artist-id = "davichi"
+kind = "single"
+
+names = [
+  { name = "두사랑", locale = "ko", original = true },
+  { name = "Dusarang", locale = "ko-Latn", default = true },
+  { name = "Two Lovers", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-03-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2309174" },
+]

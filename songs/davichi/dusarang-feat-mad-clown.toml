@@ -1,0 +1,5 @@
+names = [
+  { name = "두사랑 (Feat. 매드클라운)", locale = "ko", original = true },
+  { name = "Dusarang (Feat. Mad Clown)", locale = "ko-Latn", default = true },
+  { name = "Two Lovers (Feat. Mad Clown)", locale = "en" },
+]
