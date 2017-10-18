@@ -1,0 +1,8 @@
+medium-ids = [
+  "davichi/i-sungan/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/i-sungan"
+duration = "3:32"

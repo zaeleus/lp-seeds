@@ -1,0 +1,16 @@
+artist-id = "davichi"
+kind = "single"
+
+names = [
+  { name = "이 순간", locale = "ko", original = true },
+  { name = "I Sungan", locale = "ko-Latn", default = true },
+  { name = "Moment", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-11-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2648678" },
+]
