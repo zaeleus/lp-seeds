@@ -1,0 +1,19 @@
+names = [
+  { name = "자꾸", locale = "ko", original = true },
+  { name = "Jakku", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=JRdnWKDrPPk", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "ants"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "dal-shabet/serri"
+names = [
+  { name = "세리 (달샤벳)", locale = "ko", original = true },
+  { name = "Serri (Dal Shabet)", locale = "ko-Latn", default = true },
+]

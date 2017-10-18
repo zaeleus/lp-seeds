@@ -1,0 +1,26 @@
+artist-id = "-virtual/ants-x-serri-dal-shabet"
+kind = "single"
+
+names = [
+  { name = "자꾸", locale = "ko", original = true },
+  { name = "Jakku", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "ants"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "dal-shabet/serri"
+names = [
+  { name = "세리 (달샤벳)", locale = "ko", original = true },
+  { name = "Serri (Dal Shabet)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-09-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10098899" },
+]

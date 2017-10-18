@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/ants-x-serri-dal-shabet/jakku/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/ants-x-serri-dal-shabet/jakku"
+duration = "3:21"
