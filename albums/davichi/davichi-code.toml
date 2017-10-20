@@ -1,0 +1,14 @@
+artist-id = "davichi"
+kind = "single"
+
+names = [
+  { name = "DAVICHI CODE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2013-11-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2214910" },
+]

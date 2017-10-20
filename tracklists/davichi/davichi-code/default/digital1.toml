@@ -1,0 +1,8 @@
+medium-ids = [
+  "davichi/davichi-code/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/pyeonji"
+duration = "4:01"
