@@ -1,0 +1,5 @@
+names = [
+  { name = "녹는 중 (Feat. 버벌진트)", locale = "ko", original = true },
+  { name = "Nongneun Jung (Feat. Verbal Jint)", locale = "ko-Latn", default = true },
+  { name = "Be Warmed (Feat. Verbal Jint)", locale = "en" },
+]

@@ -1,0 +1,16 @@
+artist-id = "davichi"
+kind = "single"
+
+names = [
+  { name = "녹는 중", locale = "ko", original = true },
+  { name = "Nongneun Jung", locale = "ko-Latn", default = true },
+  { name = "Be Warmed", locale = "en" },
+]
+
+[[releases]]
+released-on = "2013-04-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2179893" },
+]
