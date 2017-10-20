@@ -1,0 +1,15 @@
+artist-id = "woo-eun-mi"
+kind = "single"
+
+names = [
+  { name = "차라리 모르는 사이라면", locale = "ko", original = true },
+  { name = "Charari Moreuneun Sairamyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-10-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10103949" },
+]

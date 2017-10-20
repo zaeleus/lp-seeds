@@ -1,0 +1,13 @@
+medium-ids = [
+  "woo-eun-mi/charari-moreuneun-sairamyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-eun-mi/charari-moreuneun-sairamyeon"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "woo-eun-mi/charari-moreuneun-sairamyeon-inst"
+duration = "3:19"
