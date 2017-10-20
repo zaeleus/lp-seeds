@@ -1,0 +1,13 @@
+medium-ids = [
+  "davichi/dangsini-jamdeun-saie-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/oneuldo-geuriwo-geuriwo"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "davichi/oneuldo-geuriwo-geuriwo-inst"
+duration = "3:20"
