@@ -1,0 +1,13 @@
+medium-ids = [
+  "moodin/annyeong-nae-haru/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "moodin/annyeong-nae-haru"
+duration = "4:06"
+
+[[tracks]]
+position = 2
+song-id = "moodin/annyeong-nae-haru-inst"
+duration = "4:04"
