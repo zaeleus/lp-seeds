@@ -1,0 +1,5 @@
+names = [
+  { name = "오늘따라 보고싶어서 그래", locale = "ko", original = true },
+  { name = "Oneulttara Bogosipeoseo Geurae", locale = "ko-Latn", default = true },
+  { name = "Missing you Today", locale = "en" },
+]
