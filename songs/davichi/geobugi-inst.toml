@@ -1,0 +1,5 @@
+names = [
+  { name = "거북이 (Inst.)", locale = "ko", original = true },
+  { name = "Geobugi (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Turtle (Inst.)", locale = "en" },
+]

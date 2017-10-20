@@ -1,0 +1,5 @@
+names = [
+  { name = "둘이서 한잔해 (Inst.)", locale = "ko", original = true },
+  { name = "Duriseo Hanjanhae (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Just the Two of Us (Inst.)", locale = "en" },
+]
