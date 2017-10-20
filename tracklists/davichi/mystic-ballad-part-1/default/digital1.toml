@@ -1,0 +1,13 @@
+medium-ids = [
+  "davichi/mystic-ballad-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/geobugi"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "davichi/geobugi-inst"
+duration = "3:43"
