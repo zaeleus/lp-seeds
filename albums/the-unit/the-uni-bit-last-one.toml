@@ -1,0 +1,16 @@
+artist-id = "the-unit"
+kind = "single"
+
+names = [
+  { name = "THE UNI+ 빛 (Last One)", locale = "ko", original = true },
+  { name = "THE UNI+ Bit (Last One)", locale = "ko-Latn", default = true },
+  { name = "THE UNI+ Last One", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-10-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10104492" },
+]

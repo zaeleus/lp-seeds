@@ -1,0 +1,5 @@
+names = [
+  { name = "빛 (Last One)", locale = "ko", original = true },
+  { name = "Bit (Last One)", locale = "ko-Latn", default = true },
+  { name = "Last One", locale = "en" },
+]
