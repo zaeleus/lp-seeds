@@ -1,0 +1,16 @@
+artist-id = "sbgb"
+kind = "single"
+
+names = [
+  { name = "오후의 무엇", locale = "ko", original = true },
+  { name = "Ohuui Mueot", locale = "ko-Latn", default = true },
+  { name = "Something Happens in This Afternoon", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-10-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10104510" },
+]

@@ -1,0 +1,9 @@
+names = [
+  { name = "오후의 무엇 (Feat. 최낙타)", locale = "ko", original = true },
+  { name = "Ohuui Mueot (Feat. NaktaCho2)", locale = "ko-Latn", default = true },
+  { name = "Something Happens in This Afternoon (Feat. NaktaCho2)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=sz691Uad50A", name = "Music Video" },
+]
