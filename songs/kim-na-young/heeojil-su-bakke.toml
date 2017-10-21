@@ -1,4 +1,11 @@
 names = [
   { name = "헤어질 수 밖에", locale = "ko", original = true },
   { name = "Heeojil Su Bakke", locale = "ko-Latn", default = true },
+  { name = "But I Must", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=dBa4NiAQibg", name = "Teaser 1" },
+  { url = "https://www.youtube.com/watch?v=pSWYoDl_3kw", name = "Teaser 2" },
+  { url = "https://www.youtube.com/watch?v=vJ4bl_upx3A", name = "Music Video" },
 ]
