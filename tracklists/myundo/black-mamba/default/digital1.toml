@@ -1,0 +1,8 @@
+medium-ids = [
+  "myundo/black-mamba/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "myundo/black-mamba-tribute"
+duration = "3:29"
