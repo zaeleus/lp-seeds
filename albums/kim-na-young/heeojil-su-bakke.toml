@@ -1,0 +1,15 @@
+artist-id = "kim-na-young"
+kind = "single"
+
+names = [
+  { name = "헤어질 수 밖에", locale = "ko", original = true },
+  { name = "Heeojil Su Bakke", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-10-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10103242" },
+]

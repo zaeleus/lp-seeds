@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-na-young/heeojil-su-bakke/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-na-young/heeojil-su-bakke"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "kim-na-young/heeojil-su-bakke-inst"
+duration = "4:03"
