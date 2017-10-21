@@ -1,0 +1,15 @@
+artist-id = "the-ade"
+kind = "single"
+
+names = [
+  { name = "더 패키지 OST Part.2", locale = "ko", original = true },
+  { name = "The Package OST Part.2", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-10-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10102941" },
+]

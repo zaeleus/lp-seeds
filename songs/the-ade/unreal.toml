@@ -1,0 +1,3 @@
+names = [
+  { name = "Unreal", locale = "ko", original = true, default = true },
+]
