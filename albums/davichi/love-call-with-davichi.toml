@@ -1,0 +1,15 @@
+artist-id = "davichi"
+kind = "single"
+
+names = [
+  { name = "LOVE CALL (With 다비치)", locale = "ko", original = true },
+  { name = "Love Call (With Davichi)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2012-02-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2076258" },
+]

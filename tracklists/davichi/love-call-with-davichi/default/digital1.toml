@@ -1,0 +1,13 @@
+medium-ids = [
+  "davichi/love-call-with-davichi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/saenggangnalgeoya"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "davichi/saenggangnalgeoya-inst"
+duration = "3:39"
