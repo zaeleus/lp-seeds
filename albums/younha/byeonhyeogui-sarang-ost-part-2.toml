@@ -1,0 +1,16 @@
+artist-id = "younha"
+kind = "single"
+
+names = [
+  { name = "변혁의 사랑 OST Part.2", locale = "ko", original = true },
+  { name = "Byeonhyeogui Sarang OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Revolution OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-10-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10104557" },
+]
