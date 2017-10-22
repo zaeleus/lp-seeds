@@ -1,0 +1,5 @@
+names = [
+  { name = "안녕이라고 말하지마", locale = "ko", original = true },
+  { name = "Annyeongirago Malhajima", locale = "ko-Latn", default = true },
+  { name = "Don't Say Goodbye", locale = "en" },
+]
