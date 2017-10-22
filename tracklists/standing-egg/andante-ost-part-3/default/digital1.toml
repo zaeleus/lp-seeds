@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/andante-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/neon-nae-ane"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/neon-nae-ane-inst"
+duration = "3:10"
