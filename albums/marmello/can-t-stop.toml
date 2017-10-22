@@ -1,0 +1,14 @@
+artist-id = "marmello"
+kind = "single"
+
+names = [
+  { name = "Can't Stop", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-10-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10104426" },
+]
