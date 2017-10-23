@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2015"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "포켓걸스", locale = "ko", original = true },
+  { name = "Pocket Girls", locale = "ko-Latn", default = true },
+]

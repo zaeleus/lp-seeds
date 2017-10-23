@@ -1,0 +1,5 @@
+names = [
+  { name = "쓸애기 (Inst.)", locale = "ko", original = true },
+  { name = "Sseuraegi (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Oppa Is Trash (Inst.)", locale = "en" },
+]

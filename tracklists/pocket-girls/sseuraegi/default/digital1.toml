@@ -1,0 +1,13 @@
+medium-ids = [
+  "pocket-girls/sseuraegi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pocket-girls/sseuraegi"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "pocket-girls/sseuraegi-inst"
+duration = "3:36"
