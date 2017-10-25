@@ -1,0 +1,15 @@
+artist-id = "cherry-berry"
+kind = "single"
+
+names = [
+  { name = "물어보나 마나", locale = "ko", original = true },
+  { name = "Mureobona Mana", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-10-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10105050" },
+]

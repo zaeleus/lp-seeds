@@ -1,0 +1,13 @@
+medium-ids = [
+  "cherry-berry/mureobona-mana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cherry-berry/mureobona-mana"
+duration = "2:54"
+
+[[tracks]]
+position = 2
+song-id = "cherry-berry/mureobona-mana-inst"
+duration = "2:54"
