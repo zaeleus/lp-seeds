@@ -1,0 +1,21 @@
+artist-id = "-virtual/louie-x-soyou"
+kind = "single"
+
+names = [
+  { name = "너에게만 (Monitor Girl)", locale = "ko", original = true },
+  { name = "Neoegeman (Monitor Girl)", locale = "ko-Latn", default = true },
+  { name = "Monitor Girl", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "louie", separator = " X " },
+  { artist-id = "sistar/soyou" },
+]
+
+[[releases]]
+released-on = "2017-10-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10105535" },
+]

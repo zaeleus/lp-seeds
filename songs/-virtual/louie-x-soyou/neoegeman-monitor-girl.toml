@@ -1,0 +1,14 @@
+names = [
+  { name = "너에게만 (Monitor Girl)", locale = "ko", original = true },
+  { name = "Neoegeman (Monitor Girl)", locale = "ko-Latn", default = true },
+  { name = "Monitor Girl", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "louie", separator = " X " },
+  { artist-id = "sistar/soyou" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Imlx8ng3d9k", name = "Music Video" },
+]

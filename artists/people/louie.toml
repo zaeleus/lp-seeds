@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1990-04-30"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "루이", locale = "ko", kind = "stage", original = true },
+  { name = "Louie", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "황문섭", locale = "ko", kind = "real" },
+  { name = "Hwang Moon Seop", locale = "ko-Latn", kind = "real" },
+]
