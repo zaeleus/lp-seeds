@@ -1,0 +1,4 @@
+names = [
+  { name = "컬러링 (Coloring) (Feat. Hash Swan)", locale = "ko", original = true },
+  { name = "Coloring (Feat. Hash Swan)", locale = "en", default = true },
+]

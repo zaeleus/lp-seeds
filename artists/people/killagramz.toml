@@ -1,0 +1,9 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "킬라그램", locale = "ko", kind = "stage", original = true },
+  { name = "Killagramz", locale = "ko-Latn", kind = "stage", default = true },
+]

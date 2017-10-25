@@ -1,0 +1,15 @@
+artist-id = "killagramz"
+kind = "single"
+
+names = [
+  { name = "컬러링 (Coloring)", locale = "ko", original = true },
+  { name = "Coloring", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-10-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10103636" },
+]
