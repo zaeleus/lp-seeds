@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/baboya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/baboya-with-lee-hae-ri-of-davichi"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/baboya-inst"
+duration = "3:44"

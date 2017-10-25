@@ -1,0 +1,15 @@
+artist-id = "standing-egg"
+kind = "single"
+
+names = [
+  { name = "바보야", locale = "ko", original = true },
+  { name = "Baboya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-10-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10105896" },
+]
