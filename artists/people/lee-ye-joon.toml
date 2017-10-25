@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1988-10-08"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "이예준", locale = "ko", kind = "real", original = true },
+  { name = "Lee Ye Joon", locale = "ko-Latn", kind = "real", default = true },
+]

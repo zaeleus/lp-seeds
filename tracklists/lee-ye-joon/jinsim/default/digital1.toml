@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-ye-joon/jinsim/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-ye-joon/jinsim"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "lee-ye-joon/jinsim-inst"
+duration = "3:50"
