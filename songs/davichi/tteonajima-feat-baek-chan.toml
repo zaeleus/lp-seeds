@@ -1,0 +1,5 @@
+names = [
+  { name = "떠나지마 (Feat. 백찬)", locale = "ko", original = true },
+  { name = "Tteonajima (Feat. Baek Chan)", locale = "ko-Latn", default = true },
+  { name = "Don't Go Away (Feat. Baek Chan)", locale = "en" },
+]

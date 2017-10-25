@@ -1,0 +1,5 @@
+names = [
+  { name = "시간아 멈춰라", locale = "ko", original = true },
+  { name = "Sigana Meomchwora", locale = "ko-Latn", default = true },
+  { name = "Let the Time Stop", locale = "en" },
+]

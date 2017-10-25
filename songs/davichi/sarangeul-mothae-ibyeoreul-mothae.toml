@@ -1,0 +1,5 @@
+names = [
+  { name = "사랑을 못해 이별을 못해", locale = "ko", original = true },
+  { name = "Sarangeul Mothae Ibyeoreul Mothae", locale = "ko-Latn", default = true },
+  { name = "Can't Love, Can't Leave", locale = "en" },
+]

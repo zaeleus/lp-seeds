@@ -1,0 +1,5 @@
+names = [
+  { name = "첫키스", locale = "ko", original = true },
+  { name = "Cheot Kiss", locale = "ko-Latn", default = true },
+  { name = "First Kiss", locale = "en" },
+]
