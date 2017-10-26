@@ -1,0 +1,14 @@
+artist-id = "davichi"
+kind = "ep"
+
+names = [
+  { name = "Davichi In Wonderland", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2009-02-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=508460" },
+]

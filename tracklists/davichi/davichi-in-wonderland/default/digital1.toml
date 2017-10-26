@@ -1,0 +1,33 @@
+medium-ids = [
+  "davichi/davichi-in-wonderland/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/8282"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "davichi/sagochyeosseoyo"
+duration = "3:56"
+
+[[tracks]]
+position = 3
+song-id = "davichi/my-man"
+duration = "3:12"
+
+[[tracks]]
+position = 4
+song-id = "davichi/sarangi-useumni"
+duration = "4:08"
+
+[[tracks]]
+position = 5
+song-id = "davichi/orgel"
+duration = "3:35"
+
+[[tracks]]
+position = 6
+song-id = "davichi/crazy-woman-kim-yeon-ji-lee-hae-ri-lee-jeong-min"
+duration = "4:23"

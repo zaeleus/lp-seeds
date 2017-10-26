@@ -1,0 +1,4 @@
+names = [
+  { name = "Crazy Woman (김연지, 이해리, 이정민)", locale = "ko", original = true },
+  { name = "Crazy Woman (Kim Yeon Ji, Lee Hae Ri, Lee Jeong Min)", locale = "ko-Latn", default = true },
+]
