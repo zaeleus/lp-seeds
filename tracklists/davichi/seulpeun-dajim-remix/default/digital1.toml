@@ -1,0 +1,13 @@
+medium-ids = [
+  "davichi/seulpeun-dajim-remix/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/seulpeun-dajim-remix"
+duration = "3:41"
+names = [
+  { name = "슬픈 다짐 (Remix Ver.)", locale = "ko", original = true },
+  { name = "Seulpeun Dajim (Remix Ver.)", locale = "ko-Latn", default = true },
+  { name = "Sad Promise (Remix Ver.)", locale = "en" },
+]
