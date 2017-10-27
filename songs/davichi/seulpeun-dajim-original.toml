@@ -1,0 +1,5 @@
+names = [
+  { name = "슬픈 다짐 (Original)", locale = "ko", original = true },
+  { name = "Seulpeun Dajim (Original)", locale = "ko-Latn", default = true },
+  { name = "Sad Promise (Original)", locale = "en" },
+]

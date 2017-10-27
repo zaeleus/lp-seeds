@@ -1,0 +1,4 @@
+names = [
+  { name = "이별의 반대 말", locale = "ko", original = true },
+  { name = "Ibyeorui Bandae Mal", locale = "ko-Latn", default = true },
+]

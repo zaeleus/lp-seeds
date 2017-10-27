@@ -1,0 +1,68 @@
+medium-ids = [
+  "davichi/vivid-summer-edition/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/mulbyeong"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "davichi/saranggwa-jeonjaeng-narr-haha"
+duration = "4:16"
+
+[[tracks]]
+position = 3
+song-id = "davichi/seulpeun-dajim-remix"
+duration = "3:41"
+
+[[tracks]]
+position = 4
+song-id = "davichi/oesarang"
+duration = "4:13"
+
+[[tracks]]
+position = 5
+song-id = "davichi/miwodo-saranghanikka"
+duration = "5:00"
+
+[[tracks]]
+position = 6
+song-id = "davichi/byeori-binnaneun-bam"
+duration = "3:53"
+
+[[tracks]]
+position = 7
+song-id = "davichi/nappeugo-apeun-na"
+duration = "4:44"
+
+[[tracks]]
+position = 8
+song-id = "davichi/geureongeoni"
+duration = "4:12"
+
+[[tracks]]
+position = 9
+song-id = "davichi/lipstick-jitge-bareugo"
+duration = "4:14"
+
+[[tracks]]
+position = 10
+song-id = "davichi/seulpeun-sarangui-norae"
+duration = "3:38"
+
+[[tracks]]
+position = 11
+song-id = "davichi/gyeougyeou"
+duration = "4:12"
+
+[[tracks]]
+position = 12
+song-id = "davichi/ibyeorui-bandae-mal"
+duration = "3:46"
+
+[[tracks]]
+position = 13
+song-id = "davichi/seulpeun-dajim-original"
+duration = "3:32"

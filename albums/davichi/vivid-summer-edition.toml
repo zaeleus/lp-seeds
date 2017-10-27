@@ -1,0 +1,14 @@
+artist-id = "davichi"
+kind = "lp"
+
+names = [
+  { name = "Vivid Summer Edition", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2008-07-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=388456" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "립스틱 짙게 바르고", locale = "ko", original = true },
+  { name = "Lipstick Jitge Bareugo", locale = "ko-Latn", default = true },
+]

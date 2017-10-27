@@ -1,0 +1,5 @@
+names = [
+  { name = "사랑과 전쟁 (Narr. 하하)", locale = "ko", original = true },
+  { name = "Saranggwa Jeonjaeng (Narr. Haha)", locale = "ko-Latn", default = true },
+  { name = "War and Love (Narr. Haha)", locale = "en" },
+]
