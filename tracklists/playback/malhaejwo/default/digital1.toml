@@ -1,0 +1,18 @@
+medium-ids = [
+  "playback/malhaejwo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "playback/malhaejwo"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "playback/malhaji-mothan-iyagi"
+duration = "3:48"
+
+[[tracks]]
+position = 3
+song-id = "playback/i-understand-ma-eun-jin-solo-ver"
+duration = "3:24"

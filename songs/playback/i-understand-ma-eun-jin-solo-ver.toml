@@ -1,0 +1,4 @@
+names = [
+  { name = "I Understand (마은진 Solo Ver.)", locale = "ko", original = true },
+  { name = "I Understand (Ma Eun Jin Solo Ver.)", locale = "ko-Latn", default = true },
+]

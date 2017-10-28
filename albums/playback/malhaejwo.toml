@@ -1,0 +1,16 @@
+artist-id = "playback"
+kind = "single"
+
+names = [
+  { name = "말해줘", locale = "ko", original = true },
+  { name = "Malhaejwo", locale = "ko-Latn", default = true },
+  { name = "Want You to Say", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-10-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10106785" },
+]
