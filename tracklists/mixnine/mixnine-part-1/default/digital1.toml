@@ -1,0 +1,8 @@
+medium-ids = [
+  "mixnine/mixnine-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mixnine/just-dance"
+duration = "2:57"

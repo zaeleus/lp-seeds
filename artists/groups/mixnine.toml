@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+
+names = [
+  { name = "믹스나인", locale = "ko", original = true },
+  { name = "MIXNINE", locale = "ko-Latn", default = true },
+]
