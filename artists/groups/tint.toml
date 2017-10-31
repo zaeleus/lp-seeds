@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2013"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "틴트", locale = "ko", original = true },
+  { name = "TINT", locale = "ko-Latn", default = true },
+]

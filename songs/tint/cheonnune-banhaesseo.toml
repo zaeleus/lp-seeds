@@ -1,0 +1,5 @@
+names = [
+  { name = "첫눈에 반했어", locale = "ko", original = true },
+  { name = "Cheonnune Banhaesseo", locale = "ko-Latn", default = true },
+  { name = "Love at First Sight", locale = "en" },
+]

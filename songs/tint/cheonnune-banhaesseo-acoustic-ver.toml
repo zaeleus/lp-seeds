@@ -1,0 +1,5 @@
+names = [
+  { name = "첫눈에 반했어 (Acoustic Ver.)", locale = "ko", original = true },
+  { name = "Cheonnune Banhaesseo (Acoustic Ver.)", locale = "ko-Latn", default = true },
+  { name = "Love at First Sight (Acoustic Ver.)", locale = "en" },
+]
