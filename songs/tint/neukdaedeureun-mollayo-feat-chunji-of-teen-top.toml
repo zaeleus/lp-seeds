@@ -1,0 +1,5 @@
+names = [
+  { name = "늑대들은 몰라요 (Feat. 천지 of TEEN TOP)", locale = "ko", original = true },
+  { name = "Neukdaedeureun Mollayo (Feat. Chunji of TEEN TOP)", locale = "ko-Latn", default = true },
+  { name = "Wolf is Stupid (Feat. Chunji of TEEN TOP)", locale = "en" },
+]

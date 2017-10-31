@@ -1,0 +1,18 @@
+medium-ids = [
+  "tint/neukdaedeureun-mollayo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "tint/neukdaedeureun-mollayo-feat-chunji-of-teen-top"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "tint/neukdaedeureun-mollayo"
+duration = "2:59"
+
+[[tracks]]
+position = 3
+song-id = "tint/neukdaedeureun-mollayo-inst"
+duration = "3:20"

@@ -1,0 +1,16 @@
+artist-id = "tint"
+kind = "single"
+
+names = [
+  { name = "늑대들은 몰라요", locale = "ko", original = true },
+  { name = "Neukdaedeureun Mollayo", locale = "ko-Latn", default = true },
+  { name = "Wolf is Stupid", locale = "en" },
+]
+
+[[releases]]
+released-on = "2014-03-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2246169" },
+]

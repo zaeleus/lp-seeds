@@ -1,0 +1,5 @@
+names = [
+  { name = "늑대들은 몰라요", locale = "ko", original = true },
+  { name = "Neukdaedeureun Mollayo", locale = "ko-Latn", default = true },
+  { name = "Wolf is Stupid", locale = "en" },
+]
