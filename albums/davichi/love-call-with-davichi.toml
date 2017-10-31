@@ -3,7 +3,7 @@ kind = "single"
 
 names = [
   { name = "LOVE CALL (With 다비치)", locale = "ko", original = true },
-  { name = "Love Call (With Davichi)", locale = "ko-Latn", default = true },
+  { name = "LOVE CALL (With Davichi)", locale = "ko-Latn", default = true },
 ]
 
 [[releases]]
