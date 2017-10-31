@@ -1,0 +1,15 @@
+artist-id = "brown-eyed-girls/narsha"
+kind = "single"
+
+names = [
+  { name = "맘마미아", locale = "ko", original = true },
+  { name = "Mamma Mia", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2010-08-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1000200" },
+]

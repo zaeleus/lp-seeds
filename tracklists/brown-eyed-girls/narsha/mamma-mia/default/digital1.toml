@@ -1,0 +1,13 @@
+medium-ids = [
+  "brown-eyed-girls/narsha/mamma-mia/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brown-eyed-girls/narsha/mamma-mia-with-sunny-hill"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "brown-eyed-girls/narsha/bbi-ri-bba-bba-east4a-club-vocal-mix"
+duration = "3:37"

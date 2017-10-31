@@ -1,0 +1,4 @@
+names = [
+  { name = "삐리빠빠 (East4A Club Vocal Mix)", locale = "ko", original = true },
+  { name = "Bbi Ri Bba Bba (East4A Club Vocal Mix)", locale = "ko-Latn", default = true },
+]
