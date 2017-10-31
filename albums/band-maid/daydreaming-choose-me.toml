@@ -1,0 +1,15 @@
+artist-id = "band-maid"
+kind = "single"
+
+names = [
+  { name = "Daydreaming / Choose me", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-07-19"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1253769455" },
+  { url = "http://mora.jp/package/43000028/CRCP-10377/" },
+]

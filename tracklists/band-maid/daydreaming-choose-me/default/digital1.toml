@@ -1,0 +1,18 @@
+medium-ids = [
+  "band-maid/daydreaming-choose-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "band-maid/daydreaming"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "band-maid/choose-me"
+duration = "3:41"
+
+[[tracks]]
+position = 3
+song-id = "band-maid/play"
+duration = "3:21"
