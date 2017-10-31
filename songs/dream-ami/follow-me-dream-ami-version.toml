@@ -1,0 +1,3 @@
+names = [
+  { name = "Follow Me (Dream Ami version)", locale = "ja", original = true, default = true },
+]

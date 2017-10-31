@@ -1,0 +1,88 @@
+medium-ids = [
+  "dream-ami/re-dream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dream-ami/hayaku-aitai"
+duration = "4:57"
+
+[[tracks]]
+position = 2
+song-id = "dream-ami/re-dream"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song-id = "dream-ami/try-everything-dream-ami-version"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "dream-ami/can-t-help-falling-in-love-aisazu-ni-irarenai"
+duration = "3:36"
+
+[[tracks]]
+position = 5
+song-id = "dream-ami/song"
+duration = "3:34"
+
+[[tracks]]
+position = 6
+song-id = "dream-ami/eden-no-en"
+duration = "3:53"
+
+[[tracks]]
+position = 7
+song-id = "dream-ami/xoxo"
+duration = "4:14"
+
+[[tracks]]
+position = 8
+song-id = "dream-ami/surf-on-the-summer"
+duration = "3:29"
+
+[[tracks]]
+position = 9
+song-id = "dream-ami/jump"
+duration = "4:17"
+
+[[tracks]]
+position = 10
+song-id = "dream-ami/dress-wo-nuida-cinderella"
+duration = "3:45"
+
+[[tracks]]
+position = 11
+song-id = "dream-ami/follow-me-dream-ami-version"
+duration = "4:44"
+
+[[tracks]]
+position = 12
+song-id = "dream-ami/magic-time"
+duration = "4:52"
+
+[[tracks]]
+position = 13
+song-id = "dream-ami/lovefool-suki-datte-itte"
+duration = "3:12"
+
+[[tracks]]
+position = 14
+song-id = "dream-ami/change-my-life"
+duration = "4:18"
+
+[[tracks]]
+position = 15
+song-id = "dream-ami/alright"
+duration = "4:03"
+
+[[tracks]]
+position = 16
+song-id = "dream-ami/kimi-no-tonari"
+duration = "4:02"
+
+[[tracks]]
+position = 17
+song-id = "dream-ami/saitei-na-start"
+duration = "5:39"

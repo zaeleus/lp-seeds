@@ -1,0 +1,4 @@
+names = [
+  { name = "Can't Help Falling In Love ～愛さずにいられない～", locale = "ja", original = true },
+  { name = "Can't Help Falling In Love ~Aisazu ni Irarenai~", locale = "ja-Latn", default = true },
+]

@@ -1,0 +1,14 @@
+artist-id = "dream-ami"
+kind = "lp"
+
+names = [
+  { name = "Re: Dream", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-10-04"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000002/RZCD-86390/" },
+]
