@@ -1,0 +1,16 @@
+artist-id = "aira-mitsuki"
+kind = "lp"
+
+names = [
+  { name = "Pyramidal", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-10-11"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1288946455" },
+  { url = "http://mora.jp/package/43000074/TCJPR0000397551/" },
+  { url = "http://mora.jp/package/43000074/TCJPR0000397551_hires/" },
+]

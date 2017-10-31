@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1988-09-21"
+country = "JP"
+gender = "female"
+
+names = [
+  { name = "アイラミツキ", locale = "ja", kind = "real", original = true },
+  { name = "Aira Mitsuki", locale = "ja-Latn", kind = "real", default = true },
+]
