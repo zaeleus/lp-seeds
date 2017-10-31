@@ -1,0 +1,38 @@
+medium-ids = [
+  "brown-eyed-girls/narsha/narsha/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brown-eyed-girls/narsha/fantastic"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "brown-eyed-girls/narsha/bbi-ri-bba-bba"
+duration = "3:27"
+
+[[tracks]]
+position = 3
+song-id = "brown-eyed-girls/narsha/i-m-in-love-with-jung-sung-ha"
+duration = "4:01"
+
+[[tracks]]
+position = 4
+song-id = "brown-eyed-girls/narsha/queen-b"
+duration = "3:31"
+
+[[tracks]]
+position = 5
+song-id = "brown-eyed-girls/narsha/radio-star"
+duration = "3:52"
+
+[[tracks]]
+position = 6
+song-id = "brown-eyed-girls/narsha/mamma-mia-preview"
+duration = "0:27"
+
+[[tracks]]
+position = 7
+song-id = "brown-eyed-girls/narsha/bbi-ri-bba-bba-inst"
+duration = "3:27"
