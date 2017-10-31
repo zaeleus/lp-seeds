@@ -1,0 +1,8 @@
+medium-ids = [
+  "hoody/hangang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hoody/hangang"
+duration = "3:20"
