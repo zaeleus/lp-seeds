@@ -54,7 +54,7 @@ duration = "3:38"
 
 [[tracks]]
 position = 11
-song-id = "davichi/gyeougyeou"
+song-id = "davichi/gyeou-gyeou"
 duration = "4:12"
 
 [[tracks]]
@@ -64,5 +64,10 @@ duration = "3:46"
 
 [[tracks]]
 position = 13
-song-id = "davichi/seulpeun-dajim-original"
+song-id = "davichi/seulpeun-dajim"
 duration = "3:32"
+names = [
+  { name = "슬픈 다짐 (Original)", locale = "ko", original = true },
+  { name = "Seulpeun Dajim (Original)", locale = "ko-Latn", default = true },
+  { name = "Sad Promise (Original)", locale = "en" },
+]
