@@ -1,0 +1,16 @@
+artist-id = "may-j"
+kind = "lp"
+
+names = [
+  { name = "Futuristic", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-10-25"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1294983244" },
+  { url = "http://mora.jp/package/43000002/ANTCD-25323_F/" },
+  { url = "http://mora.jp/package/43000002/RZCD-86402/" },
+]

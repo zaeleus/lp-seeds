@@ -1,0 +1,4 @@
+names = [
+  { name = "花は咲く ～大好き 東北Ver.～", locale = "ja", original = true },
+  { name = "Hana wa Saku ~Daisuki Touhoku Ver.~", locale = "ja-Latn", default = true },
+]

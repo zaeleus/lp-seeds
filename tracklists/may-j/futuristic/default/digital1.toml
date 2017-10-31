@@ -1,0 +1,83 @@
+medium-ids = [
+  "may-j/futuristic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "may-j/side-by-side"
+duration = "4:42"
+
+[[tracks]]
+position = 2
+song-id = "may-j/glory-wave"
+duration = "4:25"
+
+[[tracks]]
+position = 3
+song-id = "may-j/futari-no-mahou"
+duration = "3:19"
+
+[[tracks]]
+position = 4
+song-id = "may-j/faith"
+duration = "4:41"
+
+[[tracks]]
+position = 5
+song-id = "may-j/my-star-message"
+duration = "5:34"
+
+[[tracks]]
+position = 6
+song-id = "may-j/break-free"
+duration = "3:31"
+
+[[tracks]]
+position = 7
+song-id = "may-j/shake-it-off"
+duration = "4:04"
+
+[[tracks]]
+position = 8
+song-id = "may-j/smile-at-me"
+duration = "3:42"
+
+[[tracks]]
+position = 9
+song-id = "may-j/have-dreams"
+duration = "4:54"
+
+[[tracks]]
+position = 10
+song-id = "may-j/hero"
+duration = "3:38"
+
+[[tracks]]
+position = 11
+song-id = "may-j/sparkle-kagayaki-wo-shinjite"
+duration = "4:31"
+
+[[tracks]]
+position = 12
+song-id = "may-j/shine-japanese-ver"
+duration = "4:11"
+
+[[tracks]]
+position = 13
+song-id = "may-j/yeah-yeah-yeah-feat-murakami-keisuke"
+duration = "4:29"
+
+[[tracks]]
+position = 14
+song-id = "may-j/the-one"
+duration = "5:14"
+
+[[tracks]]
+position = 15
+song-id = "may-j/haha-to-musume-no-10-000-nichi-mirai-no-tobira-duet-with-yashiro-aki"
+duration = "5:05"
+
+[[tracks]]
+position = 16
+song-id = "may-j/hana-wa-saku-daisuki-touhoku-ver"
+duration = "5:40"
