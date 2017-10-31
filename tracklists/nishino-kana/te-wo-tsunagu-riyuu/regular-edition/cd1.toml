@@ -1,0 +1,15 @@
+medium-ids = [
+  "nishino-kana/te-wo-tsunagu-riyuu/regular-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nishino-kana/te-wo-tsunagu-riyuu"
+
+[[tracks]]
+position = 2
+song-id = "nishino-kana/one-more-time"
+
+[[tracks]]
+position = 3
+song-id = "nishino-kana/drive-away"

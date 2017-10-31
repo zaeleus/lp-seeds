@@ -1,0 +1,18 @@
+medium-ids = [
+  "nishino-kana/te-wo-tsunagu-riyuu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nishino-kana/te-wo-tsunagu-riyuu"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "nishino-kana/one-more-time"
+duration = "4:25"
+
+[[tracks]]
+position = 3
+song-id = "nishino-kana/drive-away"
+duration = "2:50"

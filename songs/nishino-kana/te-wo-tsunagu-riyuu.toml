@@ -1,0 +1,4 @@
+names = [
+  { name = "手をつなぐ理由", locale = "ja", original = true },
+  { name = "Te wo Tsunagu Riyuu", locale = "ja-Latn", default = true },
+]

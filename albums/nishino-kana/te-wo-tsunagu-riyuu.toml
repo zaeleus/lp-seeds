@@ -1,0 +1,38 @@
+artist-id = "nishino-kana"
+kind = "single"
+
+names = [
+  { name = "手をつなぐ理由", locale = "ja", original = true },
+  { name = "Te wo Tsunagu Riyuu", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-10-13"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1287366099" },
+  { url = "http://mora.jp/package/43000001/4547366333961/" },
+]
+
+[[releases]]
+released-on = "2017-10-13"
+country = "JP"
+catalog-number = "SECL-2213"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.nishinokana.com/disco/archive/?SECL-2213" },
+  { url = "https://www.oricon.co.jp/prof/445018/products/1245359/1/" },
+]
+
+[[releases]]
+released-on = "2017-10-13"
+country = "JP"
+catalog-number = "SECL-2215"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.nishinokana.com/disco/archive/?SECL-2215" },
+  { url = "https://www.oricon.co.jp/prof/445018/products/1245360/1/" },
+]
