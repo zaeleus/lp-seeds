@@ -1,0 +1,5 @@
+names = [
+  { name = "혼술", locale = "ko", original = true },
+  { name = "Honsul", locale = "ko-Latn", default = true },
+  { name = "I Drink Alone", locale = "en" },
+]

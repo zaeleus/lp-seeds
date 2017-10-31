@@ -1,0 +1,28 @@
+medium-ids = [
+  "juniel/ordinary-things/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "juniel/last-carnival"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "juniel/merry-go-round"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "juniel/honsul"
+duration = "3:35"
+
+[[tracks]]
+position = 4
+song-id = "juniel/pyeonji"
+duration = "4:29"
+
+[[tracks]]
+position = 5
+song-id = "juniel/song-for-you"
+duration = "3:07"
