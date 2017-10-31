@@ -1,0 +1,14 @@
+artist-id = "odd-eye-circle"
+kind = "lp"
+
+names = [
+  { name = "Max & Match", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-10-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10107086" },
+]
