@@ -1,0 +1,5 @@
+names = [
+  { name = "니가 불어와 (Crazy Sexy Cool)", locale = "ko", original = true },
+  { name = "Niga Bureowa (Crazy Sexy Cool)", locale = "ko-Latn", default = true },
+  { name = "Crazy Sexy Cool", locale = "en" },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "astro/dream-part-02/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "astro/with-you"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "astro/niga-bureowa-crazy-sexy-cool"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "astro/butterfly"
+duration = "3:35"
+
+[[tracks]]
+position = 4
+song-id = "astro/run"
+duration = "3:39"
+
+[[tracks]]
+position = 5
+song-id = "astro/eoneusae-urin"
+duration = "3:30"
