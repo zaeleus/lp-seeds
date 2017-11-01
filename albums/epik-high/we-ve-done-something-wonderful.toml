@@ -1,0 +1,14 @@
+artist-id = "epik-high"
+kind = "lp"
+
+names = [
+  { name = "WE'VE DONE SOMETHING WONDERFUL", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-10-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10105030" },
+]

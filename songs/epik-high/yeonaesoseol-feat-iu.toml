@@ -1,0 +1,5 @@
+names = [
+  { name = "연애소설 (Feat. 아이유)", locale = "ko", original = true },
+  { name = "Yeonaesoseol (Feat. IU)", locale = "ko-Latn", default = true },
+  { name = "Love Story (Feat. IU)", locale = "en" },
+]
