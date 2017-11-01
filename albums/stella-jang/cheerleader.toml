@@ -1,0 +1,15 @@
+artist-id = "stella-jang"
+kind = "single"
+
+names = [
+  { name = "치어리더 (Cheerleader)", locale = "ko", original = true },
+  { name = "Cheerleader", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10107976" },
+]
