@@ -1,0 +1,15 @@
+artist-id = "mamy"
+kind = "single"
+
+names = [
+  { name = "空色センセーション", locale = "ja", original = true },
+  { name = "Sorairo Sensation", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-10-04"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/id1290750016" },
+]

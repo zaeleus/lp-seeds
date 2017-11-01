@@ -1,0 +1,4 @@
+names = [
+  { name = "空色センセーション -TV size-", locale = "ja", original = true },
+  { name = "Sorairo Sensation -TV size-", locale = "ja-Latn", default = true },
+]

@@ -1,0 +1,23 @@
+medium-ids = [
+  "mamy/sorairo-sensation/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamy/sorairo-sensation"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "mamy/futari"
+duration = "4:13"
+
+[[tracks]]
+position = 3
+song-id = "mamy/hitori"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "mamy/sorairo-sensation-tv-size"
+duration = "1:35"

@@ -1,0 +1,8 @@
+names = [
+  { name = "空色センセーション", locale = "ja", original = true },
+  { name = "Sorairo Sensation", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=hPWgb2VkdDo", name = "Music Video" },
+]
