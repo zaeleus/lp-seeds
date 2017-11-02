@@ -1,0 +1,13 @@
+medium-ids = [
+  "woo-yi-kyung/manneun-ge-eopjana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-yi-kyung/manneun-ge-eopjana"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "woo-yi-kyung/manneun-ge-eopjana-inst"
+duration = "3:31"

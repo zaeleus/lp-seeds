@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1987-12-26"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "우이경", locale = "ko", kind = "real", original = true },
+  { name = "Woo Yi Kyung", locale = "ko-Latn", kind = "real", default = true },
+]
