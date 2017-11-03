@@ -1,0 +1,31 @@
+artist-id = "morning-musume"
+kind = "single"
+
+names = [
+  { name = "愛の種(20th Anniversary Ver.)", locale = "ja", original = true },
+  { name = "Ai no Tane (20th Anniversary Ver.)", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。20th", locale = "ja", original = true },
+  { name = "Morning Musume 20th", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-03"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000030/UFDL-1366/" },
+]
+
+[[releases]]
+released-on = "2017-11-03"
+country = "JP"
+media = [{ kind = "digital" }]
+disambiguation = "Hi-Res"
+urls = [
+  { url = "http://mora.jp/package/43000030/UFDL-1366-HR/" },
+]

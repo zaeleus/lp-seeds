@@ -1,0 +1,13 @@
+medium-ids = [
+  "morning-musume/ai-no-tane-20th-anniversary-ver/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "morning-musume/ai-no-tane-20th-anniversary-ver"
+duration = "4:06"
+
+[[tracks]]
+position = 2
+song-id = "morning-musume/ai-no-tane-20th-anniversary-ver-instrumental"
+duration = "4:06"

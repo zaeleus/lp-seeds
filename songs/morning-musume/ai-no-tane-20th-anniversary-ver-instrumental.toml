@@ -1,0 +1,11 @@
+names = [
+  { name = "愛の種(20th Anniversary Ver.)(Instrumental)", locale = "ja", original = true },
+  { name = "Ai no Tane (20th Anniversary Ver.) (Instrumental)", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。20th", locale = "ja", original = true },
+  { name = "Morning Musume 20th", locale = "ja-Latn", default = true },
+]
