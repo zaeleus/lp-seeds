@@ -1,0 +1,16 @@
+artist-id = "miwa"
+kind = "single"
+
+names = [
+  { name = "We are the light", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-10-25"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1293638295" },
+  { url = "http://mora.jp/package/43000001/4547366335477/" },
+  { url = "http://mora.jp/package/43000001/4547366335651/" },
+]
