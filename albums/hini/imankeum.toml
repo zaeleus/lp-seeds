@@ -1,0 +1,15 @@
+artist-id = "hini"
+kind = "single"
+
+names = [
+  { name = "이만큼", locale = "ko", original = true },
+  { name = "Imankeum", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10108210" },
+]
