@@ -1,0 +1,14 @@
+artist-id = "girl-s-day/min-ah"
+kind = "single"
+
+names = [
+  { name = "Other way", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-11-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10108856" },
+]
