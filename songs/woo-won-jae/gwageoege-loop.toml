@@ -1,0 +1,5 @@
+names = [
+  { name = "과거에게 (loop)", locale = "ko", original = true },
+  { name = "Gwageoege (loop)", locale = "ko-Latn", default = true },
+  { name = "loop", locale = "en" },
+]

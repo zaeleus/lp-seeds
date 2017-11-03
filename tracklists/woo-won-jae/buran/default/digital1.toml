@@ -1,0 +1,13 @@
+medium-ids = [
+  "woo-won-jae/buran/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-won-jae/gwageoege-loop"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "woo-won-jae/paranoid"
+duration = "3:15"
