@@ -1,0 +1,13 @@
+medium-ids = [
+  "day6/every-day6-november/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "day6/honjaya"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "day6/ssodajinda"
+duration = "4:05"
