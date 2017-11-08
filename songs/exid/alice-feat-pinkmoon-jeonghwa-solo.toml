@@ -1,0 +1,4 @@
+names = [
+  { name = "ALICE (Feat. PINKMOON) (정화 SOLO)", locale = "ko", original = true },
+  { name = "ALICE (Feat. PINKMOON) (Jeonghwa SOLO)", locale = "ko-Latn", default = true },
+]
