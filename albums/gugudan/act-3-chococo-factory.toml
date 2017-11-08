@@ -1,0 +1,14 @@
+artist-id = "gugudan"
+kind = "single"
+
+names = [
+  { name = "Act.3 Chococo Factory", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-11-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10109665" },
+]
