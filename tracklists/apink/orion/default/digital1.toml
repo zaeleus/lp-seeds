@@ -1,0 +1,23 @@
+medium-ids = [
+  "apink/orion/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink/orion"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "apink/rainbow"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "apink/orion-instrumental"
+duration = "3:33"
+
+[[tracks]]
+position = 4
+song-id = "apink/rainbow-instrumental"
+duration = "3:28"
