@@ -1,0 +1,15 @@
+artist-id = "hail"
+kind = "single"
+
+names = [
+  { name = "누군가의 당신을 사랑한다는 것", locale = "ko", original = true },
+  { name = "Nugungaui Dangsineul Saranghandaneun Geot", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10109811" },
+]
