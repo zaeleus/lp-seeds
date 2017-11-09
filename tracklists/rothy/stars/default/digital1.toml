@@ -1,0 +1,13 @@
+medium-ids = [
+  "rothy/stars/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rothy/stars"
+duration = "4:20"
+
+[[tracks]]
+position = 2
+song-id = "rothy/stars-inst"
+duration = "4:20"
