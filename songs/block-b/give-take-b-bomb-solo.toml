@@ -1,0 +1,3 @@
+names = [
+  { name = "Give & Take (B-BOMB Solo)", locale = "ko", original = true, default = true },
+]
