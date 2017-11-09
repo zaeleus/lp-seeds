@@ -1,0 +1,13 @@
+medium-ids = [
+  "my-darling/nan-niga-joeunde/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "my-darling/nan-niga-joeunde"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "my-darling/nan-niga-joeunde-inst"
+duration = "3:20"

@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "마이달링", locale = "ko", original = true },
+  { name = "My Darling", locale = "en", default = true },
+]
