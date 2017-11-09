@@ -1,0 +1,16 @@
+artist-id = "urban-zakapa"
+kind = "single"
+
+names = [
+  { name = "그때의 나, 그때의 우리", locale = "ko", original = true },
+  { name = "Geuttaeui Na, Geuttaeui Uri", locale = "ko-Latn", default = true },
+  { name = "When We Were Two", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-11-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10108597" },
+]

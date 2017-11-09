@@ -1,0 +1,5 @@
+names = [
+  { name = "그때의 나, 그때의 우리", locale = "ko", original = true },
+  { name = "Geuttaeui Na, Geuttaeui Uri", locale = "ko-Latn", default = true },
+  { name = "When We Were Two", locale = "en" },
+]
