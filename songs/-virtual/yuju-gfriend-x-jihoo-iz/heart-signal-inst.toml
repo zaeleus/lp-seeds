@@ -1,0 +1,19 @@
+names = [
+  { name = "하트시그널 (Inst.)", locale = "ko", original = true },
+  { name = "Heart Signal (Inst.)", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "gfriend/yuju"
+names = [
+  { name = "유주 (여자친구)", locale = "ko", original = true },
+  { name = "Yuju (GFRIEND)", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "iz/jihoo"
+names = [
+  { name = "지후 (아이즈)", locale = "ko", original = true },
+  { name = "Jihoo (IZ)", locale = "ko-Latn", default = true },
+]

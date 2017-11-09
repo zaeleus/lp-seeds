@@ -1,0 +1,30 @@
+artist-id = "-virtual/yuju-gfriend-x-jihoo-iz"
+kind = "single"
+
+names = [
+  { name = "하트시그널", locale = "ko", original = true },
+  { name = "Heart Signal", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "gfriend/yuju"
+names = [
+  { name = "유주 (여자친구)", locale = "ko", original = true },
+  { name = "Yuju (GFRIEND)", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "iz/jihoo"
+names = [
+  { name = "지후 (아이즈)", locale = "ko", original = true },
+  { name = "Jihoo (IZ)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-10-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10105015" },
+]
