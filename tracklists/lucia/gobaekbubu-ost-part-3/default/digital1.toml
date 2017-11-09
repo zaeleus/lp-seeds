@@ -1,0 +1,13 @@
+medium-ids = [
+  "lucia/gobaekbubu-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucia/dream"
+duration = "4:08"
+
+[[tracks]]
+position = 2
+song-id = "lucia/dream-inst"
+duration = "4:08"

@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1986-07-16"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "심규선", locale = "ko", kind = "stage", original = true },
+  { name = "Lucia", locale = "ko-Latn", kind = "stage", default = true },
+]
