@@ -1,0 +1,8 @@
+medium-ids = [
+  "park-soo-jin/blue-wave/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-soo-jin/blue-wave"
+duration = "3:41"
