@@ -1,0 +1,3 @@
+names = [
+  { name = "OVER -instrumental-", locale = "ja", original = true, default = true },
+]

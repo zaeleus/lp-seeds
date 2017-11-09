@@ -1,0 +1,38 @@
+medium-ids = [
+  "little-glee-monster/over-hikaru-kakera/special-edition/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "little-glee-monster/over"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "little-glee-monster/hikaru-kakera"
+duration = "4:51"
+
+[[tracks]]
+position = 3
+song-id = "little-glee-monster/houkago-high-five-live-on-2017-9-18"
+duration = "3:32"
+
+[[tracks]]
+position = 4
+song-id = "little-glee-monster/my-best-friend-live-on-2017-9-18"
+duration = "5:17"
+
+[[tracks]]
+position = 5
+song-id = "little-glee-monster/dakara-hitori-janai-live-on-2017-9-18"
+duration = "3:55"
+
+[[tracks]]
+position = 6
+song-id = "little-glee-monster/over-instrumental"
+duration = "3:56"
+
+[[tracks]]
+position = 7
+song-id = "little-glee-monster/hikaru-kakera-instrumental"
+duration = "4:49"

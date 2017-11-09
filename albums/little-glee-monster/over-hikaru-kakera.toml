@@ -1,0 +1,18 @@
+artist-id = "little-glee-monster"
+kind = "single"
+
+names = [
+  { name = "OVER/ヒカルカケラ", locale = "ja", original = true },
+  { name = "OVER / Hikaru Kakera", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-08"
+country = "JP"
+media = [{ kind = "digital" }]
+disambiguation = "Special Edition"
+urls = [
+  { url = "https://itunes.apple.com/jp/album/id1300505398" },
+  { url = "http://mora.jp/package/43000001/4547366338119/" },
+  { url = "http://mora.jp/package/43000001/4547366338720/" },
+]
