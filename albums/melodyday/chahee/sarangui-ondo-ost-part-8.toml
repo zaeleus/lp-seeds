@@ -1,0 +1,16 @@
+artist-id = "melodyday/chahee"
+kind = "single"
+
+names = [
+  { name = "사랑의 온도 OST Part.8", locale = "ko", original = true },
+  { name = "Sarangui Ondo OST Part.8", locale = "ko-Latn", default = true },
+  { name = "Temperature of Love OST Part.8", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-11-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10108803" },
+]

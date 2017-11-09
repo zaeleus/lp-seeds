@@ -1,0 +1,13 @@
+medium-ids = [
+  "melodyday/chahee/sarangui-ondo-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melodyday/chahee/joatda-maratda"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "melodyday/chahee/joatda-maratda-inst"
+duration = "3:04"
