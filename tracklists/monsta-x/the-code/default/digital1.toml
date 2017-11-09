@@ -1,0 +1,38 @@
+medium-ids = [
+  "monsta-x/the-code/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "monsta-x/dramarama"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "monsta-x/now-or-never"
+duration = "3:11"
+
+[[tracks]]
+position = 3
+song-id = "monsta-x/in-time"
+duration = "3:08"
+
+[[tracks]]
+position = 4
+song-id = "monsta-x/from-zero"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "monsta-x/x"
+duration = "3:45"
+
+[[tracks]]
+position = 6
+song-id = "monsta-x/yeoldaeya"
+duration = "3:43"
+
+[[tracks]]
+position = 7
+song-id = "monsta-x/deja-vu"
+duration = "3:36"
