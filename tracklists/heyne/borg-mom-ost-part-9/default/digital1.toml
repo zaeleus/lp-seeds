@@ -1,0 +1,13 @@
+medium-ids = [
+  "heyne/borg-mom-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heyne/loving-you"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "heyne/loving-you-inst"
+duration = "3:45"
