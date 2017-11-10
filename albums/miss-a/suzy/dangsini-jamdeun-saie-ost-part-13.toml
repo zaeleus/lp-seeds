@@ -1,0 +1,16 @@
+artist-id = "miss-a/suzy"
+kind = "single"
+
+names = [
+  { name = "당신이 잠든 사이에 OST Part.13", locale = "ko", original = true },
+  { name = "Dangsini Jamdeun Saie OST Part.13", locale = "ko-Latn", default = true },
+  { name = "While You Were Sleeping OST Part.13", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-11-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10110240" },
+]

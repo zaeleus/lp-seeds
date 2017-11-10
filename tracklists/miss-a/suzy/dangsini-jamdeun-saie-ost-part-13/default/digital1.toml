@@ -1,0 +1,13 @@
+medium-ids = [
+  "miss-a/suzy/dangsini-jamdeun-saie-ost-part-13/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miss-a/suzy/deutgo-sipeun-mal"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "miss-a/suzy/deutgo-sipeun-mal-inst"
+duration = "3:27"
