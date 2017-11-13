@@ -1,0 +1,15 @@
+artist-id = "cheon-so-ah"
+kind = "single"
+
+names = [
+  { name = "작년 이 맘때 쯤 헤어진 기억", locale = "ko", original = true },
+  { name = "Jangnyeon I Mamttae Jjeum Heeojin Gieok", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10110617" },
+]
