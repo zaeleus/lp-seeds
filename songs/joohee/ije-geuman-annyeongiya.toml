@@ -1,0 +1,5 @@
+names = [
+  { name = "이제 그만 안녕이야", locale = "ko", original = true },
+  { name = "Ije Geuman Annyeongiya", locale = "ko-Latn", default = true },
+  { name = "Goodbye Now", locale = "en" },
+]
