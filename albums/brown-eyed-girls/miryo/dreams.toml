@@ -1,0 +1,14 @@
+artist-id = "brown-eyed-girls/miryo"
+kind = "single"
+
+names = [
+  { name = "DREAMS", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-11-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10111416" },
+]

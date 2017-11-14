@@ -1,0 +1,4 @@
+names = [
+  { name = "We Love (Feat. 윤종신)", locale = "ko", original = true },
+  { name = "We Love (Feat. Yoon Jong Shin)", locale = "ko-Latn", default = true },
+]
