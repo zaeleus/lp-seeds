@@ -1,0 +1,15 @@
+artist-id = "cosmic-girls/yeon-jung"
+kind = "single"
+
+names = [
+  { name = "멜로홀릭 OST Part.4", locale = "ko", original = true },
+  { name = "Meloholic OST Part.4", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10110702" },
+]

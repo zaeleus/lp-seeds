@@ -1,0 +1,13 @@
+medium-ids = [
+  "cosmic-girls/yeon-jung/meloholic-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cosmic-girls/yeon-jung/meloholic"
+duration = "2:48"
+
+[[tracks]]
+position = 2
+song-id = "cosmic-girls/yeon-jung/meloholic-inst"
+duration = "2:48"
