@@ -1,0 +1,5 @@
+names = [
+  { name = "활활 (Burn It Up) (Prequel Remix)", locale = "ko", original = true },
+  { name = "Hwalhwal (Burn It Up) (Prequel Remix)", locale = "ko-Latn", default = true },
+  { name = "Burn It Up (Prequel Remix)", locale = "en" },
+]

@@ -1,0 +1,14 @@
+artist-id = "wanna-one"
+kind = "lp"
+
+names = [
+  { name = "1-1=0 (NOTHING WITHOUT YOU)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-11-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10111029" },
+]
