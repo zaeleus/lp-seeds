@@ -1,0 +1,68 @@
+medium-ids = [
+  "han-all/eotteon-gamjeong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "han-all/teul"
+duration = "4:35"
+
+[[tracks]]
+position = 2
+song-id = "han-all/mangseoryeo"
+duration = "3:36"
+
+[[tracks]]
+position = 3
+song-id = "han-all/nega-geureochi-mwo"
+duration = "3:53"
+
+[[tracks]]
+position = 4
+song-id = "han-all/saebyeok-tonghwa"
+duration = "3:38"
+
+[[tracks]]
+position = 5
+song-id = "han-all/gwichana"
+duration = "3:07"
+
+[[tracks]]
+position = 6
+song-id = "han-all/nugungaui-wiroga-piryohan-bam-remastered"
+duration = "3:33"
+
+[[tracks]]
+position = 7
+song-id = "han-all/uri-ppaego"
+duration = "3:38"
+
+[[tracks]]
+position = 9
+song-id = "han-all/yangboda-geudae"
+duration = "3:46"
+
+[[tracks]]
+position = 10
+song-id = "han-all/cheot-nun-with-lee-min-hyuk"
+duration = "4:01"
+
+[[tracks]]
+position = 11
+song-id = "han-all/neowa-naneun"
+duration = "3:56"
+
+[[tracks]]
+position = 12
+song-id = "han-all/gipi-jamdeureoyo-remastered"
+duration = "3:21"
+
+[[tracks]]
+position = 13
+song-id = "han-all/mangseoryeo-inst"
+duration = "3:36"
+
+[[tracks]]
+position = 14
+song-id = "han-all/uri-ppaego-inst"
+duration = "3:38"

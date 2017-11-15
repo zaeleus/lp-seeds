@@ -1,0 +1,4 @@
+names = [
+  { name = "깊이 잠들어요 (Remastered)", locale = "ko", original = true },
+  { name = "Gipi Jamdeureoyo (Remastered)", locale = "ko-Latn", default = true },
+]
