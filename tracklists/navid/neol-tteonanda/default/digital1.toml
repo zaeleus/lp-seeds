@@ -1,0 +1,13 @@
+medium-ids = [
+  "navid/neol-tteonanda/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "navid/neol-tteonanda"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "navid/neol-tteonanda-inst"
+duration = "3:49"

@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1986-11-16"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "나비드", locale = "ko", kind = "real", original = true },
+  { name = "NAVID", locale = "ko-Latn", kind = "real", default = true },
+]
