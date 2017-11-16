@@ -1,0 +1,33 @@
+medium-ids = [
+  "ali/expand/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ali/102-gaji"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "ali/mari-doeni"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song-id = "ali/seom"
+duration = "4:23"
+
+[[tracks]]
+position = 4
+song-id = "ali/black-and-white"
+duration = "2:54"
+
+[[tracks]]
+position = 5
+song-id = "ali/mari-doeni-inst"
+duration = "3:43"
+
+[[tracks]]
+position = 6
+song-id = "ali/black-and-white-inst"
+duration = "2:54"
