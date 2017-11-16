@@ -1,0 +1,5 @@
+names = [
+  { name = "끌려 (Crush on you)", locale = "ko", original = true },
+  { name = "Kkeullyeo (Crush on you)", locale = "ko-Latn", default = true },
+  { name = "Crush on you", locale = "en" },
+]

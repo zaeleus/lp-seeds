@@ -1,0 +1,14 @@
+artist-id = "samuel"
+kind = "lp"
+
+names = [
+  { name = "EYE CANDY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-11-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10112187" },
+]
