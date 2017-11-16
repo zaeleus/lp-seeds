@@ -1,0 +1,5 @@
+names = [
+  { name = "하나만 해 (Can't Wait)", locale = "ko", original = true },
+  { name = "Hanaman Hae (Can't Wait)", locale = "ko-Latn", default = true },
+  { name = "Can't Wait", locale = "en" },
+]
