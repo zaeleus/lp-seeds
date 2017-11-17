@@ -1,0 +1,33 @@
+medium-ids = [
+  "dok2/crazy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dok2/good-vibration"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "dok2/eomjisongarak-2-feat-kim-hyo-eun"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "dok2/crazy"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "dok2/i-don-t-know-feat-hash-swan"
+duration = "2:43"
+
+[[tracks]]
+position = 5
+song-id = "dok2/vibe-outro"
+duration = "2:06"
+
+[[tracks]]
+position = 6
+song-id = "dok2/crazy-remix-feat-changmo"
+duration = "3:16"
