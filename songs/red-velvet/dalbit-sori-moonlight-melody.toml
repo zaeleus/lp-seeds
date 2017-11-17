@@ -1,0 +1,5 @@
+names = [
+  { name = "달빛 소리 (Moonlight Melody)", locale = "ko", original = true },
+  { name = "Dalbit Sori (Moonlight Melody)", locale = "ko-Latn", default = true },
+  { name = "Moonlight Melody", locale = "en" },
+]

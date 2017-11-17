@@ -1,0 +1,5 @@
+names = [
+  { name = "두 번째 데이트 (My Second Date)", locale = "ko", original = true },
+  { name = "Du Beonjjae Date (My Second Date)", locale = "ko-Latn", default = true },
+  { name = "My Second Date", locale = "en" },
+]
