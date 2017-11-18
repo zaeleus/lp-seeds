@@ -3,6 +3,6 @@ started-on = "1990-04-23"
 country = "KR"
 
 names = [
-  { name = "새봄", locale = "ko", kind = "real", original = true },
-  { name = "saevom", locale = "ko-Latn", kind = "real", default = true },
+  { name = "새봄", locale = "ko", kind = "stage", original = true },
+  { name = "saevom", locale = "ko-Latn", kind = "stage", default = true },
 ]
