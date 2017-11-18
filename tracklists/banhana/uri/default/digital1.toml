@@ -1,0 +1,28 @@
+medium-ids = [
+  "banhana/uri/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "banhana/honja-saneunbeop"
+duration = "4:06"
+
+[[tracks]]
+position = 2
+song-id = "banhana/samkinda-someday"
+duration = "4:24"
+
+[[tracks]]
+position = 3
+song-id = "banhana/uri-feat-lim-cheol-of-jangdeokcheol"
+duration = "5:03"
+
+[[tracks]]
+position = 4
+song-id = "banhana/ne-anbureul-naege-munneunda"
+duration = "3:17"
+
+[[tracks]]
+position = 5
+song-id = "banhana/saranghan-gieongman"
+duration = "3:34"
