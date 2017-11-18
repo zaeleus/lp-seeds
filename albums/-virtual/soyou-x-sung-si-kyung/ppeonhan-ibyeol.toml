@@ -1,0 +1,21 @@
+artist-id = "-virtual/soyou-x-sung-si-kyung"
+kind = "single"
+
+names = [
+  { name = "뻔한 이별", locale = "ko", original = true },
+  { name = "Ppeonhan Ibyeol", locale = "ko-Latn", default = true },
+  { name = "I Still", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "sistar/soyou", separator = " X " },
+  { artist-id = "sung-si-kyung" },
+]
+
+[[releases]]
+released-on = "2017-11-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10111091" },
+]

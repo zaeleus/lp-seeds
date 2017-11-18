@@ -1,0 +1,14 @@
+names = [
+  { name = "뻔한 이별", locale = "ko", original = true },
+  { name = "Ppeonhan Ibyeol", locale = "ko-Latn", default = true },
+  { name = "I Still", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "sistar/soyou", separator = " X " },
+  { artist-id = "sung-si-kyung" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=u2aUGVX8Cg8", name = "Music Video" },
+]

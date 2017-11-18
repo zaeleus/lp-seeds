@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1979-04-17"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "성시경", locale = "ko", kind = "real", original = true },
+  { name = "Sung Si Kyung", locale = "ko-Latn", kind = "real", default = true },
+]
