@@ -1,0 +1,19 @@
+artist-id = "-virtual/nell-x-groovyroom"
+kind = "single"
+
+names = [
+  { name = "NELL X GROOVYROOM", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "nell", separator = " X " },
+  { artist-id = "groovyroom" },
+]
+
+[[releases]]
+released-on = "2017-11-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10112509" },
+]

@@ -1,0 +1,14 @@
+names = [
+  { name = "오늘은", locale = "ko", original = true },
+  { name = "Oneureun", locale = "ko-Latn", default = true },
+  { name = "Today", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "nell", separator = " X " },
+  { artist-id = "groovyroom" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=CGrk5YZC1y0", name = "Music Video" },
+]

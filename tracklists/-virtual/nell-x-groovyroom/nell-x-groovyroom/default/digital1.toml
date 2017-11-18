@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/nell-x-groovyroom/nell-x-groovyroom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/nell-x-groovyroom/oneureun"
+duration = "4:15"
