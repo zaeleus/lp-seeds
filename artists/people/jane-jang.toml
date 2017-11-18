@@ -4,5 +4,6 @@ country = "KR"
 
 names = [
   { name = "장재인", locale = "ko", kind = "real", original = true },
-  { name = "Jang Jae In", locale = "ko-Latn", kind = "real", default = true },
+  { name = "Jang Jae In", locale = "ko-Latn", kind = "real" },
+  { name = "Jane Jang", locale = "en", kind = "real", default = true },
 ]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "jane-jang/carmin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jane-jang/carmin"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "jane-jang/carmin-inst"
+duration = "3:43"

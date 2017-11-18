@@ -1,4 +1,4 @@
-artist-id = "-virtual/jang-jae-in-giant-pink-perc-nt"
+artist-id = "-virtual/jane-jang-giant-pink-perc-nt"
 kind = "single"
 
 names = [
@@ -6,7 +6,7 @@ names = [
 ]
 
 artist-credits = [
-  { artist-id = "jang-jae-in", separator = ", " },
+  { artist-id = "jane-jang", separator = ", " },
   { artist-id = "giant-pink", separator = ", " },
   { artist-id = "perc-nt" },
 ]
