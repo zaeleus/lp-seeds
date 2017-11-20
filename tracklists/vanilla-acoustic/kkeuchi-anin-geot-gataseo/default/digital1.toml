@@ -1,0 +1,8 @@
+medium-ids = [
+  "vanilla-acoustic/kkeuchi-anin-geot-gataseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vanilla-acoustic/kkeuchi-anin-geot-gataseo"
+duration = "4:14"
