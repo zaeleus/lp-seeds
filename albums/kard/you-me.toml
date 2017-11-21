@@ -1,0 +1,23 @@
+artist-id = "kard"
+kind = "ep"
+
+names = [
+  { name = "YOU & ME", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-11-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10113160" },
+]
+
+[[releases]]
+released-on = "2017-11-21"
+country = "KR"
+catalog-number = "L100005409"
+media = [{ kind = "cd" }]
+urls = [
+  { url = "http://www.hanteo.com/search/album_info.asp?mcode=001210666" },
+]
