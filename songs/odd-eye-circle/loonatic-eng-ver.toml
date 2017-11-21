@@ -1,0 +1,7 @@
+names = [
+  { name = "LOONATIC (Eng. Ver.)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=XznW8Ti6WWk", name = "Lyric Video" },
+]
