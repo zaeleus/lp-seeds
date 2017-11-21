@@ -1,0 +1,5 @@
+names = [
+  { name = "JUST DANCE (소년 Ver.)", locale = "ko", original = true },
+  { name = "JUST DANCE (Sonyeon Ver.)", locale = "ko-Latn", default = true },
+  { name = "JUST DANCE (Boy Ver.)", locale = "en" },
+]

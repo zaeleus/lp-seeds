@@ -1,0 +1,15 @@
+artist-id = "mixnine"
+kind = "single"
+
+names = [
+  { name = "믹스나인 Part.3", locale = "ko", original = true },
+  { name = "MIXNINE Part.3", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10112585" },
+]
