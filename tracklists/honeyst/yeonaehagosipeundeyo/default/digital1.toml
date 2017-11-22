@@ -1,0 +1,18 @@
+medium-ids = [
+  "honeyst/yeonaehagosipeundeyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "honeyst/yeonaehagosipeundeyo"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "honeyst/tik-tok"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "honeyst/feel-so-good"
+duration = "3:33"

@@ -1,0 +1,16 @@
+artist-id = "honeyst"
+kind = "single"
+
+names = [
+  { name = "연애하고싶은데요", locale = "ko", original = true },
+  { name = "Yeonaehagosipeundeyo", locale = "ko-Latn", default = true },
+  { name = "Someone to Love", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-11-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10113621" },
+]
