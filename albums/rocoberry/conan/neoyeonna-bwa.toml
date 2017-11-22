@@ -1,0 +1,15 @@
+artist-id = "rocoberry/conan"
+kind = "ep"
+
+names = [
+  { name = "너였나 봐", locale = "ko", original = true },
+  { name = "Neoyeonna Bwa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10113172" },
+]

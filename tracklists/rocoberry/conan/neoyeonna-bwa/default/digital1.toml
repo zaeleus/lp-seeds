@@ -1,0 +1,28 @@
+medium-ids = [
+  "rocoberry/conan/neoyeonna-bwa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rocoberry/conan/neoyeonna-bwa"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "rocoberry/conan/nareul-tteonaneun-bam"
+duration = "2:26"
+
+[[tracks]]
+position = 3
+song-id = "rocoberry/conan/saramgwangye"
+duration = "2:33"
+
+[[tracks]]
+position = 4
+song-id = "rocoberry/conan/neoyeonna-bwa-inst"
+duration = "3:17"
+
+[[tracks]]
+position = 5
+song-id = "rocoberry/conan/nareul-tteonaneun-bam-inst"
+duration = "2:26"
