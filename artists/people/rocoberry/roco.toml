@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1985-10-21"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "로코", locale = "ko", kind = "stage", original = true },
+  { name = "Roco", locale = "ko-Latn", kind = "stage", default = true },
+]

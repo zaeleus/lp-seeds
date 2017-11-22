@@ -6,3 +6,8 @@ names = [
   { name = "로코베리", locale = "ko", original = true },
   { name = "Rocoberry", locale = "ko-Latn", default = true },
 ]
+
+members = [
+  { artist-id = "rocoberry/conan" },
+  { artist-id = "rocoberry/roco" },
+]

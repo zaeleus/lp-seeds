@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1979-07-17"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "코난", locale = "ko", kind = "stage", original = true },
+  { name = "Conan", locale = "ko-Latn", kind = "stage", default = true },
+]
