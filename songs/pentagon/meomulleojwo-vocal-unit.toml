@@ -1,5 +1,4 @@
 names = [
   { name = "머물러줘 (Vocal Unit)", locale = "ko", original = true },
   { name = "Meomulleojwo (Vocal Unit)", locale = "ko-Latn", default = true },
-  { name = "Please Stay (Vocal Unit)", locale = "en" },
 ]
