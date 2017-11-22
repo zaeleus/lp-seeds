@@ -1,0 +1,13 @@
+medium-ids = [
+  "ben/ibeon-saengeun-cheoeumira-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/gal-suga-eopseo"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "ben/gal-suga-eopseo-inst"
+duration = "3:32"

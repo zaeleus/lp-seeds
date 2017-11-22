@@ -1,0 +1,16 @@
+artist-id = "ben"
+kind = "single"
+
+names = [
+  { name = "이번 생은 처음이라 OST Part.8", locale = "ko", original = true },
+  { name = "Ibeon Saengeun Cheoeumira OST Part.8", locale = "ko-Latn", default = true },
+  { name = "Because This is My First Life OST Part.8", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-11-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10112930" },
+]
