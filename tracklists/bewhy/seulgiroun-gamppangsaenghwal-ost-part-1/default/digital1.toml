@@ -1,0 +1,13 @@
+medium-ids = [
+  "bewhy/seulgiroun-gamppangsaenghwal-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bewhy/ok-prod-by-gray"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "bewhy/ok-prod-by-gray-inst"
+duration = "3:12"

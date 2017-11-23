@@ -1,0 +1,16 @@
+artist-id = "bewhy"
+kind = "single"
+
+names = [
+  { name = "슬기로운 감빵생활 OST Part.1", locale = "ko", original = true },
+  { name = "Seulgiroun Gamppangsaenghwal OST Part.1", locale = "ko-Latn", default = true },
+  { name = "Prison Playbook OST Part.1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-11-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10113876" },
+]
