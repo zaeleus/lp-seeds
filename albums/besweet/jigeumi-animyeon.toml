@@ -1,0 +1,15 @@
+artist-id = "besweet"
+kind = "single"
+
+names = [
+  { name = "지금이 아니면", locale = "ko", original = true },
+  { name = "Jigeumi Animyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10113719" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "besweet/jigeumi-animyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "besweet/jigeumi-animyeon"
+duration = "5:00"
+
+[[tracks]]
+position = 2
+song-id = "besweet/jigeumi-animyeon-inst"
+duration = "5:00"
