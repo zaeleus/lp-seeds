@@ -1,0 +1,5 @@
+names = [
+  { name = "바보상자스타 (Prod. by Minit) (Feat. 김승민)", locale = "ko", original = true },
+  { name = "Babosangja Star (Prod. by Minit) (Feat. Kim Seung Min)", locale = "ko-Latn", default = true },
+  { name = "TV Star (Prod. by Minit) (Feat. Kim Seung Min)", locale = "en" },
+]

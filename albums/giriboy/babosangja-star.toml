@@ -1,0 +1,16 @@
+artist-id = "giriboy"
+kind = "single"
+
+names = [
+  { name = "바보상자스타", locale = "ko", original = true },
+  { name = "Babosangja Star", locale = "ko-Latn", default = true },
+  { name = "TV Star", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-11-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10114620" },
+]
