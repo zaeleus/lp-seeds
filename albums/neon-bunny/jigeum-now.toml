@@ -1,0 +1,15 @@
+artist-id = "neon-bunny"
+kind = "single"
+
+names = [
+  { name = "지금 (Now)", locale = "ko", original = true },
+  { name = "Jigeum (Now)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10114509" },
+]
