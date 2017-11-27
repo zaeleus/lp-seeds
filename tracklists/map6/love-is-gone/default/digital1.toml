@@ -1,0 +1,13 @@
+medium-ids = [
+  "map6/love-is-gone/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "map6/love-is-gone"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "map6/love-is-gone-inst"
+duration = "3:26"

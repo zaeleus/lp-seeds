@@ -1,0 +1,14 @@
+artist-id = "map6"
+kind = "single"
+
+names = [
+  { name = "Love is Gone", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-11-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10114629" },
+]
