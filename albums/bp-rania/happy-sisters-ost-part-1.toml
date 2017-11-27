@@ -1,0 +1,15 @@
+artist-id = "bp-rania"
+kind = "single"
+
+names = [
+  { name = "해피시스터즈 OST Part.1", locale = "ko", original = true },
+  { name = "Happy Sisters OST Part.1", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10114610" },
+]

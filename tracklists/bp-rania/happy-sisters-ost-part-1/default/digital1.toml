@@ -1,0 +1,13 @@
+medium-ids = [
+  "bp-rania/happy-sisters-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bp-rania/look-at-me"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "bp-rania/look-at-me-inst"
+duration = "3:36"
