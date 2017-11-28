@@ -1,0 +1,13 @@
+medium-ids = [
+  "loona/yves/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/new-yves"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "loona/d-1-yves"
+duration = "3:19"
