@@ -1,0 +1,8 @@
+medium-ids = [
+  "cherry-b/geuui-geudae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cherry-b/geuui-geudae"
+duration = "4:09"

@@ -1,0 +1,15 @@
+artist-id = "cherry-b"
+kind = "single"
+
+names = [
+  { name = "그의 그대", locale = "ko", original = true },
+  { name = "Geuui Geudae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10115622" },
+]
