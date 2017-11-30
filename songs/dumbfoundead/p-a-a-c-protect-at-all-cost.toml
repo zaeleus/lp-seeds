@@ -1,0 +1,3 @@
+names = [
+  { name = "P.A.A.C. (Protect At All Cost)", locale = "ko", original = true, default = true },
+]
