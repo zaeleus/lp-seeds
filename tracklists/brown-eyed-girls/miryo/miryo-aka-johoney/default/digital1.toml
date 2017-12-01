@@ -1,0 +1,28 @@
+medium-ids = [
+  "brown-eyed-girls/miryo/miryo-aka-johoney/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brown-eyed-girls/miryo/party-rock-feat-gary-of-leessang-the-koxx"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "brown-eyed-girls/miryo/dirty"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "brown-eyed-girls/miryo/saranghae-saranghae-feat-sunny-of-girls-generation"
+duration = "4:08"
+
+[[tracks]]
+position = 4
+song-id = "brown-eyed-girls/miryo/revenger-feat-rude-paper"
+duration = "4:23"
+
+[[tracks]]
+position = 5
+song-id = "brown-eyed-girls/miryo/leggo-feat-narsha-of-brown-eyed-girls"
+duration = "3:34"
