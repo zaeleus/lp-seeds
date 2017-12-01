@@ -1,0 +1,4 @@
+names = [
+  { name = "QUEEN (Feat. 가인)", locale = "ko", original = true },
+  { name = "QUEEN (Feat. Gain)", locale = "ko-Latn", default = true },
+]

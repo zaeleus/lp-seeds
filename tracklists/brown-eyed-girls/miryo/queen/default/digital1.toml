@@ -1,0 +1,13 @@
+medium-ids = [
+  "brown-eyed-girls/miryo/queen/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brown-eyed-girls/miryo/dream-feat-dj-dopsh"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "brown-eyed-girls/miryo/queen-feat-gain"
+duration = "3:11"
