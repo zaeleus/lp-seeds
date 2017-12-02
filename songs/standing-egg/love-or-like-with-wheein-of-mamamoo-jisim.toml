@@ -1,0 +1,4 @@
+names = [
+  { name = "Love or Like (With 휘인 of 마마무, JISIM)", locale = "ko", original = true },
+  { name = "Love or Like (With Wheein of MAMAMOO, Jisim)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,53 @@
+medium-ids = [
+  "standing-egg/dramatic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/ne-saenggak-nadeora"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/byeorui-jogak"
+duration = "4:28"
+
+[[tracks]]
+position = 3
+song-id = "standing-egg/love-or-like-with-wheein-of-mamamoo-jisim"
+duration = "4:01"
+
+[[tracks]]
+position = 4
+song-id = "standing-egg/yeoreumbame-urin"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "standing-egg/ttuk-ttuk-ttuk-with-ye-seul"
+duration = "3:40"
+
+[[tracks]]
+position = 6
+song-id = "standing-egg/neoramyeon-gwaenchana"
+duration = "4:15"
+
+[[tracks]]
+position = 7
+song-id = "standing-egg/oneul-bameun-with-jisim"
+duration = "3:51"
+
+[[tracks]]
+position = 8
+song-id = "standing-egg/baboya-with-lee-hae-ri-of-davichi"
+duration = "3:44"
+
+[[tracks]]
+position = 9
+song-id = "standing-egg/sarangui-gyejeol-with-ye-seul"
+duration = "3:51"
+
+[[tracks]]
+position = 10
+song-id = "standing-egg/neol-saranghaesseulkka"
+duration = "4:53"
