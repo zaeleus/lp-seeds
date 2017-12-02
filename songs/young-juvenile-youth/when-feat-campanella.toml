@@ -1,0 +1,3 @@
+names = [
+  { name = "When (feat. Campanella)", locale = "ja", original = true, default = true },
+]

@@ -1,0 +1,7 @@
+kind = "group"
+started-on = "2012"
+country = "JP"
+
+names = [
+  { name = "Young Juvenile Youth", locale = "ja", original = true, default = true },
+]

@@ -1,0 +1,3 @@
+names = [
+  { name = "Hive (Album Mix)", locale = "ja", original = true, default = true },
+]

@@ -1,0 +1,3 @@
+names = [
+  { name = "Anti Everything (Album Rework)", locale = "ja", original = true, default = true },
+]

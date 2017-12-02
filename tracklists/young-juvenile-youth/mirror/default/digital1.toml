@@ -1,0 +1,68 @@
+medium-ids = [
+  "young-juvenile-youth/mirror/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "young-juvenile-youth/her"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "young-juvenile-youth/keys"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "young-juvenile-youth/in-blue-album-mix"
+duration = "3:47"
+
+[[tracks]]
+position = 4
+song-id = "young-juvenile-youth/when-feat-campanella"
+duration = "2:47"
+
+[[tracks]]
+position = 5
+song-id = "young-juvenile-youth/r-e-m"
+duration = "3:56"
+
+[[tracks]]
+position = 6
+song-id = "young-juvenile-youth/girlfriend"
+duration = "3:51"
+
+[[tracks]]
+position = 7
+song-id = "young-juvenile-youth/gossip"
+duration = "4:15"
+
+[[tracks]]
+position = 8
+song-id = "young-juvenile-youth/slapback"
+duration = "4:28"
+
+[[tracks]]
+position = 9
+song-id = "young-juvenile-youth/youth-album-mix"
+duration = "6:08"
+
+[[tracks]]
+position = 10
+song-id = "young-juvenile-youth/hive-album-mix"
+duration = "4:35"
+
+[[tracks]]
+position = 11
+song-id = "young-juvenile-youth/anti-everything-album-rework"
+duration = "4:47"
+
+[[tracks]]
+position = 12
+song-id = "young-juvenile-youth/a-way-out-kamuy-mix"
+duration = "5:38"
+
+[[tracks]]
+position = 13
+song-id = "young-juvenile-youth/roman"
+duration = "3:50"
