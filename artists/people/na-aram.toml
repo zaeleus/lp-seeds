@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1984-01-09"
+country = "KR"
+
+names = [
+  { name = "나아람", locale = "ko", kind = "real", original = true },
+  { name = "Na Aram", locale = "ko-Latn", kind = "real", default = true },
+]
