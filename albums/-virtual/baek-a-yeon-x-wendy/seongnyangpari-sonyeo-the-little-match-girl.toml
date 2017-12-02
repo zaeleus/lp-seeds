@@ -1,0 +1,21 @@
+artist-id = "-virtual/baek-a-yeon-x-wendy"
+kind = "single"
+
+names = [
+  { name = "성냥팔이 소녀 (The Little Match Girl)", locale = "ko", original = true },
+  { name = "Seongnyangpari Sonyeo (The Little Match Girl)", locale = "ko-Latn", default = true },
+  { name = "The Little Match Girl", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "baek-a-yeon", separator = " X " },
+  { artist-id = "red-velvet/wendy" },
+]
+
+[[releases]]
+released-on = "2017-12-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10116436" },
+]

@@ -1,0 +1,10 @@
+names = [
+  { name = "성냥팔이 소녀 (The Little Match Girl) (Inst.)", locale = "ko", original = true },
+  { name = "Seongnyangpari Sonyeo (The Little Match Girl) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "The Little Match Girl (Inst.)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "baek-a-yeon", separator = " X " },
+  { artist-id = "red-velvet/wendy" },
+]

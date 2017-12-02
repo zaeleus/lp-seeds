@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/baek-a-yeon-x-wendy/seongnyangpari-sonyeo-the-little-match-girl/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/baek-a-yeon-x-wendy/seongnyangpari-sonyeo-the-little-match-girl"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/baek-a-yeon-x-wendy/seongnyangpari-sonyeo-the-little-match-girl-inst"
+duration = "3:45"
