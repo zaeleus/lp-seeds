@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1989-12-11"
+country = "KR"
+
+names = [
+  { name = "김아름", locale = "ko", kind = "real", original = true },
+  { name = "Kim A Reum", locale = "ko-Latn", kind = "real", default = true },
+]

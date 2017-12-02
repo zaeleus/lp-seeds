@@ -1,0 +1,33 @@
+medium-ids = [
+  "kim-a-reum/love-story/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-a-reum/naman-eoryeoun-yeonaejung"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "kim-a-reum/merry-solo-christmas"
+duration = "3:57"
+
+[[tracks]]
+position = 3
+song-id = "kim-a-reum/honja-haneun-yeonae"
+duration = "4:16"
+
+[[tracks]]
+position = 4
+song-id = "kim-a-reum/solromance"
+duration = "3:16"
+
+[[tracks]]
+position = 5
+song-id = "kim-a-reum/namjachingu"
+duration = "3:46"
+
+[[tracks]]
+position = 6
+song-id = "kim-a-reum/merry-solo-christmas-inst"
+duration = "3:57"
