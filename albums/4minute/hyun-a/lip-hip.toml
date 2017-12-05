@@ -1,0 +1,21 @@
+artist-id = "4minute/hyun-a"
+kind = "single"
+
+names = [
+  { name = "Lip & Hip", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-12-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10116876" },
+]

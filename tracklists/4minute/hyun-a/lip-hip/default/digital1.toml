@@ -1,0 +1,13 @@
+medium-ids = [
+  "4minute/hyun-a/lip-hip/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "4minute/hyun-a/lip-hip"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "4minute/hyun-a/lip-hip-inst"
+duration = "3:29"
