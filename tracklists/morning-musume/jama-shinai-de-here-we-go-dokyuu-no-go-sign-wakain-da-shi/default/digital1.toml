@@ -1,0 +1,33 @@
+medium-ids = [
+  "morning-musume/jama-shinai-de-here-we-go-dokyuu-no-go-sign-wakain-da-shi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "morning-musume/jama-shinai-de-here-we-go"
+duration = "4:35"
+
+[[tracks]]
+position = 2
+song-id = "morning-musume/dokyuu-no-go-sign"
+duration = "3:49"
+
+[[tracks]]
+position = 3
+song-id = "morning-musume/wakain-da-shi"
+duration = "5:11"
+
+[[tracks]]
+position = 4
+song-id = "morning-musume/jama-shinai-de-here-we-go-instrumental"
+duration = "4:35"
+
+[[tracks]]
+position = 5
+song-id = "morning-musume/dokyuu-no-go-sign-instrumental"
+duration = "3:49"
+
+[[tracks]]
+position = 6
+song-id = "morning-musume/wakain-da-shi-instrumental"
+duration = "5:10"

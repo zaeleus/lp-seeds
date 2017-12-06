@@ -1,0 +1,12 @@
+names = [
+  { name = "若いんだし！(Instrumental)", locale = "ja", original = true },
+  { name = "Wakain da shi! (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "You're Young Anyway! (Instrumental)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]

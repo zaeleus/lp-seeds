@@ -1,0 +1,18 @@
+medium-ids = [
+  "morning-musume/jama-shinai-de-here-we-go-dokyuu-no-go-sign-wakain-da-shi/hi-res/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "morning-musume/jama-shinai-de-here-we-go"
+duration = "4:34"
+
+[[tracks]]
+position = 2
+song-id = "morning-musume/dokyuu-no-go-sign"
+duration = "3:48"
+
+[[tracks]]
+position = 3
+song-id = "morning-musume/wakain-da-shi"
+duration = "5:10"

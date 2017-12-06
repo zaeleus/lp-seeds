@@ -1,0 +1,12 @@
+names = [
+  { name = "邪魔しないで Here We Go！", locale = "ja", original = true },
+  { name = "Jama Shinai de Here We Go!", locale = "ja-Latn", default = true },
+  { name = "Don't Bother Me, Here We Go!", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]

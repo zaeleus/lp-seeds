@@ -1,0 +1,33 @@
+artist-id = "morning-musume"
+kind = "single"
+
+names = [
+  { name = "邪魔しないで Here We Go！/弩級のゴーサイン/若いんだし！", locale = "ja", original = true },
+  { name = "Jama Shinai de Here We Go! / Dokyuu no Go Sign / Wakain da shi!", locale = "ja-Latn", default = true },
+  { name = "Don't Bother Me, Here We Go! / Green Light of the Dreadnaught / You're Young Anyway!", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-10-04"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/1281834663" },
+  { url = "http://mora.jp/package/43000030/EPCE-7368/" },
+]
+
+[[releases]]
+released-on = "2017-10-04"
+country = "JP"
+media = [{ kind = "digital" }]
+disambiguation = "Hi-Res"
+urls = [
+  { url = "http://mora.jp/package/43000030/EPCE-7368-HR/" },
+]
