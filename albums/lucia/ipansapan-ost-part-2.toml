@@ -1,0 +1,16 @@
+artist-id = "lucia"
+kind = "single"
+
+names = [
+  { name = "이판사판 OST Part.2", locale = "ko", original = true },
+  { name = "Ipansapan OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Judge vs. Judge OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-12-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10117512" },
+]
