@@ -1,3 +1,10 @@
 names = [
   { name = "Like OOH-AHH -Japanese ver.-", locale = "ja", original = true, default = true },
 ]
+
+[[artist-credits]]
+artist-id = "twice"
+names = [
+  { name = "トゥワイス", locale = "ja", original = true },
+  { name = "TWICE", locale = "ja-Latn", default = true },
+]

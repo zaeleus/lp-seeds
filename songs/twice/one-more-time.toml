@@ -1,3 +1,10 @@
 names = [
   { name = "One More Time", locale = "ja", original = true, default = true },
 ]
+
+[[artist-credits]]
+artist-id = "twice"
+names = [
+  { name = "トゥワイス", locale = "ja", original = true },
+  { name = "TWICE", locale = "ja-Latn", default = true },
+]

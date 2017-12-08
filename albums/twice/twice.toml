@@ -5,6 +5,13 @@ names = [
   { name = "#TWICE", locale = "ja", original = true, default = true },
 ]
 
+[[artist-credits]]
+artist-id = "twice"
+names = [
+  { name = "トゥワイス", locale = "ja", original = true },
+  { name = "TWICE", locale = "ja-Latn", default = true },
+]
+
 [[releases]]
 released-on = "2017-06-28"
 country = "JP"
