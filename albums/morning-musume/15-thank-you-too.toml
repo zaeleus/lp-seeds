@@ -1,0 +1,24 @@
+artist-id = "morning-musume"
+kind = "lp"
+
+names = [
+  { name = "⑮  Thank you, too", locale = "ja", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-12-06"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/1314893053" },
+  { url = "http://mora.jp/package/43000030/EPCE-7373/" },
+  { url = "http://mora.jp/package/43000030/EPCE-7373-HR/" },
+  { url = "http://recochoku.jp/album/A2001117680/" },
+]

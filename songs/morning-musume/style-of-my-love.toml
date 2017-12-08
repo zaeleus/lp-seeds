@@ -1,0 +1,11 @@
+names = [
+  { name = "Style of my love / 飯窪春菜・小田さくら・牧野真莉愛", locale = "ja", original = true },
+  { name = "Style of my love / Iikubo Haruna, Oda Sakura, Makino Maria", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]

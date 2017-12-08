@@ -1,0 +1,11 @@
+names = [
+  { name = "私のなんにもわかっちゃない", locale = "ja", original = true },
+  { name = "Watashi no Nanni mo Wakacchanai", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]

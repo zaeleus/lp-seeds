@@ -1,0 +1,11 @@
+names = [
+  { name = "恋は時に / 譜久村聖・生田衣梨奈・石田亜佑美・佐藤優樹・工藤遥・野中美希・森戸知沙希", locale = "ja", original = true },
+  { name = "Koi wa Toki ni / Fukumura Mizuki, Ikuta Erina, Ishida Ayumi, Sato Masaki, Kudo Haruka, Nonaka Miki, Morito Chisaki", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]

@@ -1,0 +1,11 @@
+names = [
+  { name = "ロマンスに目覚める妄想女子の歌", locale = "ja", original = true },
+  { name = "Romance ni Mezameru Mousou Joshi no Uta", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]

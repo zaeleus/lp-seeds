@@ -1,0 +1,11 @@
+names = [
+  { name = "女子かしまし物語 (モーニング娘。'17 Ver.)", locale = "ja", original = true },
+  { name = "Joshi Kashimashi Monogatari (Morning Musume '17 Ver.)", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]

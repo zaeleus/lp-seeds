@@ -1,0 +1,11 @@
+names = [
+  { name = "もう 我慢できないわ～Love ice cream～ / 尾形春水・羽賀朱音・加賀楓・横山玲奈", locale = "ja", original = true },
+  { name = "Mou Gaman Dekinai wa ~Love ice cream~ / Ogata Haruna, Haga Akane, Kaga Kaede, Yokoyama Reina", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]
