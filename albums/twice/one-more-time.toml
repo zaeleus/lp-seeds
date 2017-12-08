@@ -1,0 +1,15 @@
+artist-id = "twice"
+kind = "single"
+
+names = [
+  { name = "One More Time", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-10-18"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1288112870" },
+  { url = "http://mora.jp/package/43000008/190295729370/" },
+]
