@@ -1,0 +1,16 @@
+artist-id = "utada-hikaru"
+kind = "single"
+
+names = [
+  { name = "あなた", locale = "ja", original = true },
+  { name = "Anata", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-12-08"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1313602294" },
+  { url = "http://mora.jp/package/43000001/4547366340044/" },
+]
