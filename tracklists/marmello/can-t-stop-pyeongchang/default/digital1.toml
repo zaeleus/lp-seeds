@@ -1,0 +1,8 @@
+medium-ids = [
+  "marmello/can-t-stop-pyeongchang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "marmello/can-t-stop-pyeongchang"
+duration = "3:27"

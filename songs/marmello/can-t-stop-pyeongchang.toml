@@ -1,0 +1,4 @@
+names = [
+  { name = "Can't Stop 평창", locale = "ko", original = true },
+  { name = "Can't Stop Pyeongchang", locale = "ko-Latn", default = true },
+]

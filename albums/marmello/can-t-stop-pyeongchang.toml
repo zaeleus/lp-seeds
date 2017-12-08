@@ -1,0 +1,15 @@
+artist-id = "marmello"
+kind = "single"
+
+names = [
+  { name = "Can't Stop 평창", locale = "ko", original = true },
+  { name = "Can't Stop Pyeongchang", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-12-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10118310" },
+]
