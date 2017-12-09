@@ -1,0 +1,13 @@
+medium-ids = [
+  "oh-so-yeon/ctrl-z/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-so-yeon/ctrl-z"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "oh-so-yeon/ctrl-z-inst"
+duration = "3:18"
