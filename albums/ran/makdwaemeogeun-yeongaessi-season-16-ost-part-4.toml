@@ -1,0 +1,15 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "막돼먹은 영애씨 시즌16 OST Part.4", locale = "ko", original = true },
+  { name = "Makdwaemeogeun Yeongaessi Season 16 OST Part.4", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-12-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10118922" },
+]
