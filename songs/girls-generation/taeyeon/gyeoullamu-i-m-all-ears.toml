@@ -1,0 +1,12 @@
+names = [
+  { name = "겨울나무 (I'm all ears)", locale = "ko", original = true },
+  { name = "Gyeoullamu (I'm all ears)", locale = "ko-Latn", default = true },
+  { name = "I'm all ears", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", kind = "stage", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
+]

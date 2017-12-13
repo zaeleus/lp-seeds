@@ -1,0 +1,21 @@
+artist-id = "girls-generation/taeyeon"
+kind = "ep"
+
+names = [
+  { name = "This Christmas - Winter is Coming", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", kind = "stage", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+[[releases]]
+released-on = "2017-12-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10119324" },
+]
