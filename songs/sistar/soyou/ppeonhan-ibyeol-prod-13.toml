@@ -1,0 +1,4 @@
+names = [
+  { name = "뻔한 이별 (PROD. 13)", locale = "ko", original = true },
+  { name = "Ppeonhan Ibyeol (PROD. 13)", locale = "ko-Latn", default = true },
+]

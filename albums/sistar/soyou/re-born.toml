@@ -1,0 +1,14 @@
+artist-id = "sistar/soyou"
+kind = "lp"
+
+names = [
+  { name = "RE:BORN", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-12-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10111091" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "기우는 밤 (Feat. 긱스) (PROD. 프라이머리)", locale = "ko", original = true },
+  { name = "Giuneun Bam (Feat. Geeks) (PROD. Primary)", locale = "ko-Latn", default = true },
+  { name = "The Night (Feat. Geeks) (PROD. Primary)", locale = "en" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "일곱살 (PROD. 문문)", locale = "ko", original = true },
+  { name = "Ilgopsal (PROD. MoonMoon)", locale = "ko-Latn", default = true },
+]
