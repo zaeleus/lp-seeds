@@ -1,0 +1,15 @@
+artist-id = "cheon-so-ah"
+kind = "single"
+
+names = [
+  { name = "너에게로 달려갈거야", locale = "ko", original = true },
+  { name = "Neoegero Dallyeogalgeoya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-12-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10120515" },
+]
