@@ -1,0 +1,13 @@
+medium-ids = [
+  "laysha/pink-label/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "laysha/pink-label"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "laysha/pink-label-inst"
+duration = "3:19"
