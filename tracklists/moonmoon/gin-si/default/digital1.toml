@@ -1,0 +1,53 @@
+medium-ids = [
+  "moonmoon/gin-si/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "moonmoon/yeongha"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "moonmoon/indie"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "moonmoon/hyuil"
+duration = "3:42"
+
+[[tracks]]
+position = 4
+song-id = "moonmoon/sunbokssi"
+duration = "4:27"
+
+[[tracks]]
+position = 5
+song-id = "moonmoon/misulgwan"
+duration = "3:29"
+
+[[tracks]]
+position = 6
+song-id = "moonmoon/sarameopsin-sarameuro-mot-sarayo"
+duration = "3:07"
+
+[[tracks]]
+position = 7
+song-id = "moonmoon/namu"
+duration = "4:03"
+
+[[tracks]]
+position = 8
+song-id = "moonmoon/mulgogi"
+duration = "3:09"
+
+[[tracks]]
+position = 9
+song-id = "moonmoon/jeonyeokhyang"
+duration = "3:52"
+
+[[tracks]]
+position = 10
+song-id = "moonmoon/parangsae"
+duration = "2:55"
