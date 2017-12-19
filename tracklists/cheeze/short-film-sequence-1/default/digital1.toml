@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheeze/short-film-sequence-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheeze/daeume-tto-mannayo"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "cheeze/daeume-tto-mannayo-inst"
+duration = "3:30"
