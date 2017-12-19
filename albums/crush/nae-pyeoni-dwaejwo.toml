@@ -1,0 +1,16 @@
+artist-id = "crush"
+kind = "single"
+
+names = [
+  { name = "내 편이 돼줘", locale = "ko", original = true },
+  { name = "Nae Pyeoni Dwaejwo", locale = "ko-Latn", default = true },
+  { name = "Be by My Side", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-12-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10121018" },
+]
