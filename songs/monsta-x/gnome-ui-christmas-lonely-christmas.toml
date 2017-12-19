@@ -1,0 +1,5 @@
+names = [
+  { name = "그놈의 크리스마스 (Lonely Christmas)", locale = "ko", original = true },
+  { name = "Gnome-ui Christmas (Lonely Christmas)", locale = "ko-Latn", default = true },
+  { name = "Lonely Christmas", locale = "en" },
+]
