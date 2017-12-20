@@ -1,0 +1,8 @@
+medium-ids = [
+  "long-d/all-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "long-d/all-night-feat-kim-do-yeon-of-weki-meki"
+duration = "3:45"

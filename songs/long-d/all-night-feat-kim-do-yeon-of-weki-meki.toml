@@ -1,0 +1,4 @@
+names = [
+  { name = "All night (Feat. 김도연 of 위키미키)", locale = "ko", original = true },
+  { name = "All night (Feat. Kim Do Yeon of Weki Meki)", locale = "ko-Latn", default = true },
+]
