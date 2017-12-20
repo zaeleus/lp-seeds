@@ -1,0 +1,13 @@
+medium-ids = [
+  "morning-musume/gosenfu-no-tasuki/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "morning-musume/gosenfu-no-tasuki"
+duration = "4:28"
+
+[[tracks]]
+position = 2
+song-id = "morning-musume/gosenfu-no-tasuki-instrumental"
+duration = "4:28"

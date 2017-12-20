@@ -1,0 +1,12 @@
+names = [
+  { name = "五線譜のたすき(Instrumental)", locale = "ja", original = true },
+  { name = "Gosenfu no Tasuki (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "Sash of Staff Notation (Instrumental)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '17", locale = "ja", original = true },
+  { name = "Morning Musume '17", locale = "ja-Latn", default = true },
+]
