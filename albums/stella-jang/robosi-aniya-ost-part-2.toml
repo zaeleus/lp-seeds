@@ -1,0 +1,16 @@
+artist-id = "stella-jang"
+kind = "single"
+
+names = [
+  { name = "로봇이 아니야 OST Part.2", locale = "ko", original = true },
+  { name = "Robosi Aniya OST Part.2", locale = "ko-Latn", default = true },
+  { name = "I'm Not a Robot OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-12-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10121350" },
+]
