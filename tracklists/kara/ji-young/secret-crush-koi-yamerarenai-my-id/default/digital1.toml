@@ -1,0 +1,18 @@
+medium-ids = [
+  "kara/ji-young/secret-crush-koi-yamerarenai-my-id/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kara/ji-young/secret-crush-koi-yamerarenai"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "kara/ji-young/my-id"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "kara/ji-young/secret-crush-koi-yamerarenai-piano-slow-edit"
+duration = "3:27"
