@@ -1,0 +1,13 @@
+medium-ids = [
+  "dal-shabet/serri/miwodo-saranghae-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dal-shabet/serri/haengbogeul-juneun-saram"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "dal-shabet/serri/haengbogeul-juneun-saram-inst"
+duration = "3:02"
