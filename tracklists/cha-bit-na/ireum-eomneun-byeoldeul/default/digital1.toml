@@ -1,0 +1,13 @@
+medium-ids = [
+  "cha-bit-na/ireum-eomneun-byeoldeul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cha-bit-na/jageunjip"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "cha-bit-na/ireum-eomneun-byeoldeul"
+duration = "3:48"

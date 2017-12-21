@@ -1,0 +1,9 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "차빛나", locale = "ko", kind = "real", original = true },
+  { name = "Cha Bit Na", locale = "ko-Latn", kind = "real", default = true },
+]
