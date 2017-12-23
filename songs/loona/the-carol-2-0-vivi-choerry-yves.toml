@@ -1,0 +1,4 @@
+names = [
+  { name = "The Carol 2.0 (ViVi, 최리, 이브)", locale = "ko", original = true },
+  { name = "The Carol 2.0 (ViVi, Choerry, Yves)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "loona/the-carol-2-0/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/the-carol-2-0-vivi-choerry-yves"
+duration = "3:26"
