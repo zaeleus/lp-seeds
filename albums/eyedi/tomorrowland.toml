@@ -1,0 +1,14 @@
+artist-id = "eyedi"
+kind = "single"
+
+names = [
+  { name = "Tomorrowland", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-08-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10085247" },
+]
