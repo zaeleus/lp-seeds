@@ -1,0 +1,18 @@
+medium-ids = [
+  "eyedi/oeropji-ana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eyedi/oeropji-ana"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "eyedi/sign-acoustic-ver-feat-loopy"
+duration = "4:09"
+
+[[tracks]]
+position = 3
+song-id = "eyedi/oeropji-ana-inst"
+duration = "4:01"
