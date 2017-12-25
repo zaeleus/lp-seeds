@@ -1,0 +1,53 @@
+medium-ids = [
+  "brown-eyed-girls/basic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brown-eyed-girls/ice-cream-ui-sigan"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "brown-eyed-girls/warm-hole"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "brown-eyed-girls/wave"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "brown-eyed-girls/sinsegye"
+duration = "4:01"
+
+[[tracks]]
+position = 5
+song-id = "brown-eyed-girls/obsession"
+duration = "3:38"
+
+[[tracks]]
+position = 6
+song-id = "brown-eyed-girls/sinui-ipja"
+duration = "3:15"
+
+[[tracks]]
+position = 7
+song-id = "brown-eyed-girls/light"
+duration = "3:16"
+
+[[tracks]]
+position = 8
+song-id = "brown-eyed-girls/atomic"
+duration = "4:01"
+
+[[tracks]]
+position = 9
+song-id = "brown-eyed-girls/jusawi-nori"
+duration = "3:43"
+
+[[tracks]]
+position = 10
+song-id = "brown-eyed-girls/fractal"
+duration = "3:34"
