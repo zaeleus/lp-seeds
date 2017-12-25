@@ -1,0 +1,13 @@
+medium-ids = [
+  "eyedi/sign/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eyedi/sign-feat-loopy"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "eyedi/sign-inst"
+duration = "3:39"
