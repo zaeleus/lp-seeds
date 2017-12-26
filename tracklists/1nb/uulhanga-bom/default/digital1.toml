@@ -1,0 +1,13 @@
+medium-ids = [
+  "1nb/uulhanga-bom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "1nb/uulhanga-bom-feat-soulstar"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "1nb/uulhanga-bom-inst"
+duration = "3:44"
