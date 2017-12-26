@@ -1,0 +1,4 @@
+names = [
+  { name = "아무렇지 않아 (Feat. Sik-K)", locale = "ko", original = true },
+  { name = "Amureochi Ana (Feat. Sik-K)", locale = "ko-Latn", default = true },
+]

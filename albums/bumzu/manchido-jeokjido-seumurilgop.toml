@@ -1,0 +1,15 @@
+artist-id = "bumzu"
+kind = "ep"
+
+names = [
+  { name = "BUMZU 3RD MINI ALBUM '많지도 + 적지도 : 스물일곱'", locale = "ko", original = true },
+  { name = "Manchido + Jeokjido: Seumurilgop", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-12-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10123099" },
+]
