@@ -1,0 +1,3 @@
+names = [
+  { name = "instagram", locale = "ko", original = true, default = true },
+]

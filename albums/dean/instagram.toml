@@ -1,0 +1,14 @@
+artist-id = "dean"
+kind = "single"
+
+names = [
+  { name = "instagram", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-12-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10122929" },
+]
