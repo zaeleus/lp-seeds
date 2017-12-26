@@ -1,0 +1,13 @@
+medium-ids = [
+  "1nb/dasi-gyeoul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "1nb/dasi-gyeoul"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "1nb/dasi-gyeoul-inst"
+duration = "3:53"
