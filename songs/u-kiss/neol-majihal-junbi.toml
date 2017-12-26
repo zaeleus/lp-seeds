@@ -1,0 +1,5 @@
+names = [
+  { name = "널 맞이할 준비", locale = "ko", original = true },
+  { name = "Neol Majihal Junbi", locale = "ko-Latn", default = true },
+  { name = "Ready for U", locale = "en" },
+]

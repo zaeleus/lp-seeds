@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2008"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "유키스", locale = "ko", original = true },
+  { name = "U-KISS", locale = "ko-Latn", default = true },
+]

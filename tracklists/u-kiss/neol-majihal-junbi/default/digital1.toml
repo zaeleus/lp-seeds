@@ -1,0 +1,13 @@
+medium-ids = [
+  "u-kiss/neol-majihal-junbi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "u-kiss/neol-majihal-junbi"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "u-kiss/neol-majihal-junbi-inst"
+duration = "3:44"
