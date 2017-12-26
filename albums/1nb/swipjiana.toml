@@ -1,0 +1,16 @@
+artist-id = "1nb"
+kind = "single"
+
+names = [
+  { name = "쉽지않아", locale = "ko", original = true },
+  { name = "Swipjiana", locale = "ko-Latn", default = true },
+  { name = "Where U at", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-11-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10115141" },
+]

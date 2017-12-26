@@ -1,0 +1,13 @@
+medium-ids = [
+  "1nb/swipjiana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "1nb/swipjiana-where-u-at"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "1nb/swipjiana-where-u-at-inst"
+duration = "3:37"
