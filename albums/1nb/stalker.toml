@@ -1,0 +1,15 @@
+artist-id = "1nb"
+kind = "single"
+
+names = [
+  { name = "스토커", locale = "ko", original = true },
+  { name = "Stalker", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-02-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10036231" },
+]
