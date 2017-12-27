@@ -1,0 +1,10 @@
+names = [
+  { name = "분홍분홍해 (부제 : 좋아한다 말해)", locale = "ko", original = true },
+  { name = "Bunhongbunhonghae (Buje: Joahanda Malhae)", locale = "ko-Latn", default = true },
+  { name = "Pink Pink (Subtitle: Say You Love Me)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "samuel", separator = " & " },
+  { artist-id = "kriesha-chu" },
+]

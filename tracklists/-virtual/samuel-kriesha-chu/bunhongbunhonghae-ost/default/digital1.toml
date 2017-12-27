@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/samuel-kriesha-chu/bunhongbunhonghae-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/samuel-kriesha-chu/bunhongbunhonghae-buje-joahanda-malhae"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/samuel-kriesha-chu/bunhongbunhonghae-buje-joahanda-malhae-inst"
+duration = "3:22"
