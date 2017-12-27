@@ -1,0 +1,3 @@
+names = [
+  { name = "Airplane mode", locale = "ko", original = true, default = true },
+]
