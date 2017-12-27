@@ -1,0 +1,16 @@
+artist-id = "eric-nam"
+kind = "single"
+
+names = [
+  { name = "놓지마 (Hold me)", locale = "ko", original = true },
+  { name = "Nochima (Hold me)", locale = "ko-Latn", default = true },
+  { name = "Hold me", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-12-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10122704" },
+]

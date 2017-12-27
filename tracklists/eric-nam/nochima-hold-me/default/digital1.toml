@@ -1,0 +1,13 @@
+medium-ids = [
+  "eric-nam/nochima-hold-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eric-nam/nochima-hold-me"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "eric-nam/4am"
+duration = "4:08"
