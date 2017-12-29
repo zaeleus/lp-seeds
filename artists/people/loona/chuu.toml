@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1999-10-20"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "츄", locale = "ko", kind = "stage", original = true },
+  { name = "Chuu", locale = "ko-Latn", kind = "stage", default = true },
+]
