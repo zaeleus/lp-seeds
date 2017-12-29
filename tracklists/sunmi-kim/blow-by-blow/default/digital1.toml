@@ -1,0 +1,53 @@
+medium-ids = [
+  "sunmi-kim/blow-by-blow/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sunmi-kim/beolsseo-il-nyeon"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "sunmi-kim/geuge-sarang-feat-henrik-freischlader"
+duration = "4:58"
+
+[[tracks]]
+position = 3
+song-id = "sunmi-kim/uri-gachi"
+duration = "3:42"
+
+[[tracks]]
+position = 4
+song-id = "sunmi-kim/ultarireul-sewojulge"
+duration = "2:23"
+
+[[tracks]]
+position = 5
+song-id = "sunmi-kim/gibun-joeun-nal"
+duration = "3:20"
+
+[[tracks]]
+position = 6
+song-id = "sunmi-kim/soneul-kkok-japgo-georeoyo"
+duration = "3:18"
+
+[[tracks]]
+position = 7
+song-id = "sunmi-kim/annyeong"
+duration = "4:55"
+
+[[tracks]]
+position = 8
+song-id = "sunmi-kim/ulboya"
+duration = "4:07"
+
+[[tracks]]
+position = 9
+song-id = "sunmi-kim/kamome-sikdang"
+duration = "3:05"
+
+[[tracks]]
+position = 10
+song-id = "sunmi-kim/gasip"
+duration = "3:59"

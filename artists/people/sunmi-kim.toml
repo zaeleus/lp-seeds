@@ -1,0 +1,11 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "선미킴", locale = "ko", kind = "stage", original = true },
+  { name = "Sunmi Kim", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김선미", locale = "ko", kind = "real" },
+  { name = "Kim Sun Mi", locale = "ko-Latn", kind = "real" },
+]

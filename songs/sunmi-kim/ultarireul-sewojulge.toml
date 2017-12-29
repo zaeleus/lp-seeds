@@ -1,0 +1,4 @@
+names = [
+  { name = "울타리를 세워줄게", locale = "ko", original = true },
+  { name = "Ultarireul Sewojulge", locale = "ko-Latn", default = true },
+]
