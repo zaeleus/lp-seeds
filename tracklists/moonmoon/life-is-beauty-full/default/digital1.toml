@@ -1,0 +1,28 @@
+medium-ids = [
+  "moonmoon/life-is-beauty-full/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "moonmoon/aewol"
+duration = "4:36"
+
+[[tracks]]
+position = 2
+song-id = "moonmoon/monet"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "moonmoon/full"
+duration = "3:39"
+
+[[tracks]]
+position = 4
+song-id = "moonmoon/bihaengun"
+duration = "2:58"
+
+[[tracks]]
+position = 5
+song-id = "moonmoon/diwalli-with-jeosujiui-ttaldeul"
+duration = "3:40"

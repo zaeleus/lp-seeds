@@ -1,0 +1,4 @@
+names = [
+  { name = "디왈리 (With 저수지의 딸들)", locale = "ko", original = true },
+  { name = "Diwalli (With Jeosujiui Ttaldeul)", locale = "ko-Latn", default = true },
+]
