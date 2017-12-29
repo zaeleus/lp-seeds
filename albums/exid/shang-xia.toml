@@ -1,0 +1,16 @@
+artist-id = "exid"
+kind = "single"
+
+names = [
+  { name = "上下", locale = "zh", original = true },
+  { name = "Shàng Xià", locale = "zh-Latn", default = true },
+  { name = "Up & Down", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-01-10"
+country = "CN"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://y.qq.com/n/yqq/album/004S0PIe4Jw4Tq.html" },
+]

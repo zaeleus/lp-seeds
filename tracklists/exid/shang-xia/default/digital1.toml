@@ -1,0 +1,8 @@
+medium-ids = [
+  "exid/shang-xia/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exid/shang-xia"
+duration = "3:09"
