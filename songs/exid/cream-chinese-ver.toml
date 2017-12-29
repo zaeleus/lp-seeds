@@ -1,0 +1,3 @@
+names = [
+  { name = "CREAM (Chinese Ver.)", locale = "zh", original = true, default = true },
+]

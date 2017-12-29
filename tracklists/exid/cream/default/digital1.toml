@@ -1,0 +1,8 @@
+medium-ids = [
+  "exid/cream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exid/cream-chinese-ver"
+duration = "3:13"

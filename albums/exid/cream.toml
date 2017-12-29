@@ -1,0 +1,14 @@
+artist-id = "exid"
+kind = "single"
+
+names = [
+  { name = "CREAM", locale = "zh", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-12-20"
+country = "CN"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://y.qq.com/n/yqq/album/003Vx40j2AobXt.html" },
+]
