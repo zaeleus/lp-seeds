@@ -1,0 +1,8 @@
+names = [
+  { name = "Flame (Inst.)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "exid/hani", separator = ", " },
+  { artist-id = "exid/solji", separator = " [EXID]" },
+]

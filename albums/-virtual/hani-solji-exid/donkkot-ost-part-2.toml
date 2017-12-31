@@ -1,0 +1,21 @@
+artist-id = "-virtual/hani-solji-exid"
+kind = "single"
+
+names = [
+  { name = "돈꽃 OST Part.2", locale = "ko", original = true },
+  { name = "Donkkot OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Money Flower OST Part.2", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "exid/hani", separator = ", " },
+  { artist-id = "exid/solji", separator = " [EXID]" },
+]
+
+[[releases]]
+released-on = "2017-12-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10123728" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/hani-solji-exid/donkkot-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/hani-solji-exid/flame"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/hani-solji-exid/flame-inst"
+duration = "3:58"
