@@ -1,0 +1,18 @@
+medium-ids = [
+  "smtown/dear-my-family/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "smtown/dear-my-family-studio-ver"
+duration = "5:26"
+
+[[tracks]]
+position = 2
+song-id = "smtown/dear-my-family-live-concert-ver"
+duration = "5:32"
+
+[[tracks]]
+position = 3
+song-id = "smtown/dear-my-family-inst"
+duration = "5:26"
