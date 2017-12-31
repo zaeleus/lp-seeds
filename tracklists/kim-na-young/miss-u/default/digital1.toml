@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-na-young/miss-u/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-na-young/miss-u"
+duration = "4:10"
+
+[[tracks]]
+position = 2
+song-id = "kim-na-young/miss-u-inst"
+duration = "4:10"
