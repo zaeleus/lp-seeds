@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/chan-barami-bureoomyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/chan-barami-bureoomyeon"
+duration = "2:47"
+
+[[tracks]]
+position = 2
+song-id = "ran/chan-barami-bureoomyeon-inst"
+duration = "2:47"
