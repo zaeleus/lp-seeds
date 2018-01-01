@@ -1,8 +1,11 @@
 kind = "person"
-#started-on = ""
+started-on = "1990-07-21"
 country = "KR"
+gender = "female"
 
 names = [
   { name = "소리", locale = "ko", kind = "stage", original = true },
   { name = "Sori", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김소리", locale = "ko", kind = "real" },
+  { name = "Kim So Ri", locale = "ko-Latn", kind = "real" },
 ]
