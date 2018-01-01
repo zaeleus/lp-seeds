@@ -1,0 +1,13 @@
+medium-ids = [
+  "dean/limbo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dean/bulcheonggaek"
+duration = "1:56"
+
+[[tracks]]
+position = 2
+song-id = "dean/neomeowa-feat-yerin-baek"
+duration = "4:26"

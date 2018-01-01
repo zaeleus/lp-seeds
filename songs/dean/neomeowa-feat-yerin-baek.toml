@@ -1,0 +1,5 @@
+names = [
+  { name = "넘어와 (Feat. 백예린)", locale = "ko", original = true },
+  { name = "Neomeowa (Feat. Yerin Baek)", locale = "ko-Latn", default = true },
+  { name = "Come Over (Feat. Yerin Baek)", locale = "en" },
+]
