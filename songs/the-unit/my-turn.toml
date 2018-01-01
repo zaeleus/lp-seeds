@@ -1,0 +1,4 @@
+names = [
+  { name = "마이턴 (My turn)", locale = "ko", original = true },
+  { name = "My turn", locale = "en", default = true },
+]

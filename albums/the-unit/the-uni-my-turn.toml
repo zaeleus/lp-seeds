@@ -1,0 +1,15 @@
+artist-id = "the-unit"
+kind = "single"
+
+names = [
+  { name = "THE UNI+ 마이턴 (My turn)", locale = "ko", original = true },
+  { name = "THE UNI+ My turn", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-10-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10102228" },
+]
