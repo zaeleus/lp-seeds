@@ -1,0 +1,9 @@
+names = [
+  { name = "잘했다 말해주고 싶어", locale = "ko", original = true },
+  { name = "Jalhaetda Malhaejugo Sipeo", locale = "ko-Latn", default = true },
+  { name = "To Myself", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "cocosori/sori" },
+]
