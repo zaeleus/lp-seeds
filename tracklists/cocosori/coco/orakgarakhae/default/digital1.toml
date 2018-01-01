@@ -1,0 +1,8 @@
+medium-ids = [
+  "cocosori/coco/orakgarakhae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cocosori/coco/orakgarakhae"
+duration = "3:28"

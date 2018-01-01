@@ -1,0 +1,16 @@
+artist-id = "cocosori/coco"
+kind = "single"
+
+names = [
+  { name = "오락가락해", locale = "ko", original = true },
+  { name = "Orakgarakhae", locale = "ko-Latn", default = true },
+  { name = "Wishy Washy", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-05-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10065557" },
+]
