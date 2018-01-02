@@ -1,0 +1,10 @@
+names = [
+  { name = "꿀차", locale = "ko", original = true },
+  { name = "Kkulcha", locale = "ko-Latn", default = true },
+  { name = "Honey Tea", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Ndx24fhXKig", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=E1qX6vE4G6U", name = "Music Video" },
+]

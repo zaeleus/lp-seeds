@@ -1,0 +1,5 @@
+names = [
+  { name = "꿀차 (Inst.)", locale = "ko", original = true },
+  { name = "Kkulcha (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Honey Tea (Inst.)", locale = "en" },
+]
