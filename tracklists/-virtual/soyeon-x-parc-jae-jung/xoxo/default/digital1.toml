@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/soyeon-x-parc-jae-jung/xoxo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/soyeon-x-parc-jae-jung/xoxo"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/soyeon-x-parc-jae-jung/xoxo-inst"
+duration = "3:42"

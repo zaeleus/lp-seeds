@@ -1,0 +1,8 @@
+names = [
+  { name = "XOXO (Inst.)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "laboum/so-yeon", separator = " X " },
+  { artist-id = "parc-jae-jung" },
+]
