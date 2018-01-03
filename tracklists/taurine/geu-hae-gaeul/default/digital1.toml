@@ -1,0 +1,13 @@
+medium-ids = [
+  "taurine/geu-hae-gaeul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "taurine/geu-hae-gaeul"
+duration = "4:19"
+
+[[tracks]]
+position = 2
+song-id = "taurine/geu-hae-gaeul-inst"
+duration = "4:19"

@@ -1,0 +1,15 @@
+artist-id = "taurine"
+kind = "single"
+
+names = [
+  { name = "그 해 가을", locale = "ko", original = true },
+  { name = "Geu Hae Gaeul", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-01-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10124496" },
+]

@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2014"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "타우린", locale = "ko", original = true },
+  { name = "Taurine", locale = "ko-Latn", default = true },
+]
