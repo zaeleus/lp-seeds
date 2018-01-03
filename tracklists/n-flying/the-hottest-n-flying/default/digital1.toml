@@ -1,0 +1,33 @@
+medium-ids = [
+  "n-flying/the-hottest-n-flying/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "n-flying/geureonikka-uri"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "n-flying/tteugeoun-gamja"
+duration = "3:13"
+
+[[tracks]]
+position = 3
+song-id = "n-flying/golmokgireseo"
+duration = "3:45"
+
+[[tracks]]
+position = 4
+song-id = "n-flying/i-know-u-know"
+duration = "3:10"
+
+[[tracks]]
+position = 5
+song-id = "n-flying/iboda-joeulkka"
+duration = "2:59"
+
+[[tracks]]
+position = 6
+song-id = "n-flying/ttak-haruman"
+duration = "3:26"
