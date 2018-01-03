@@ -1,0 +1,8 @@
+medium-ids = [
+  "e-lin/snowing-outside/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "e-lin/snowing-outside"
+duration = "3:40"
