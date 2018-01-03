@@ -1,0 +1,17 @@
+names = [
+  { name = "재미없을 나이", locale = "ko", original = true },
+  { name = "Jaemieopseul Nai", locale = "ko-Latn", default = true },
+  { name = "Twenty-something", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=hAh_vba90Us", name = "Music Video" },
+  { url = "https://www.youtube.com/watch?v=kAjOpbuVgbc", name = "M/V Making Film" },
+]
+
+[[artist-credits]]
+artist-id = "hellovenus/alice"
+names = [
+  { name = "송주희", locale = "ko", original = true },
+  { name = "Song Joo Hee", locale = "ko-Latn", default = true },
+]

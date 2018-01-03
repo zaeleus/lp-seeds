@@ -1,0 +1,23 @@
+artist-id = "hellovenus/alice"
+kind = "single"
+
+names = [
+  { name = "FM201.8-01Hz: 재미없을 나이", locale = "ko", original = true },
+  { name = "FM201.8-01Hz: Jaemieopseul Nai", locale = "ko-Latn", default = true },
+  { name = "FM201.8-01Hz: Twenty-something", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "hellovenus/alice"
+names = [
+  { name = "송주희", locale = "ko", original = true },
+  { name = "Song Joo Hee", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-01-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10124771" },
+]
