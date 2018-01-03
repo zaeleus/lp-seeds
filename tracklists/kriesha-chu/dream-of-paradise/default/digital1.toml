@@ -1,0 +1,23 @@
+medium-ids = [
+  "kriesha-chu/dream-of-paradise/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kriesha-chu/like-paradise-prod-flow-blow"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "kriesha-chu/sunset-dream-korean-ver"
+duration = "3:07"
+
+[[tracks]]
+position = 3
+song-id = "kriesha-chu/sunset-dream-english-ver"
+duration = "3:07"
+
+[[tracks]]
+position = 4
+song-id = "kriesha-chu/falling-star-with-min-joo"
+duration = "3:39"
