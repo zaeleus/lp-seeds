@@ -1,0 +1,28 @@
+medium-ids = [
+  "hint/walkie-talkie/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hint/love-beat"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "hint/walkie-talkie"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "hint/girls-on-top"
+duration = "3:25"
+
+[[tracks]]
+position = 4
+song-id = "hint/damdadi"
+duration = "3:10"
+
+[[tracks]]
+position = 5
+song-id = "hint/walkie-talkie-inst"
+duration = "3:30"
