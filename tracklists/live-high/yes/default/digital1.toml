@@ -1,0 +1,13 @@
+medium-ids = [
+  "live-high/yes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "live-high/yes"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "live-high/yes-inst"
+duration = "3:26"

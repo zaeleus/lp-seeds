@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2013"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "리브하이", locale = "ko", original = true },
+  { name = "LIVE HIGH", locale = "en", default = true },
+]
