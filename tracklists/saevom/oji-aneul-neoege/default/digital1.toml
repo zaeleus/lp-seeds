@@ -1,0 +1,13 @@
+medium-ids = [
+  "saevom/oji-aneul-neoege/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saevom/oji-aneul-neoege-with-gyung-mo-of-slou-d"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "saevom/oji-aneul-neoege-with-joo-ye-in"
+duration = "3:41"
