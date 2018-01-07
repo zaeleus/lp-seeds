@@ -1,0 +1,29 @@
+artist-id = "-virtual/amber-x-luna"
+kind = "single"
+
+names = [
+  { name = "Lower", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "f-x/amber"
+names = [
+  { name = "엠버", locale = "ko", original = true },
+  { name = "AMBER", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "f-x/luna"
+names = [
+  { name = "루나", locale = "ko", original = true },
+  { name = "LUNA", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-01-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10125824" },
+]

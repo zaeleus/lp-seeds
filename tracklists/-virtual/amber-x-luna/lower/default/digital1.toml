@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/amber-x-luna/lower/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/amber-x-luna/lower"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/amber-x-luna/lower-inst"
+duration = "3:26"
