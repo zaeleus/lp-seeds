@@ -1,0 +1,4 @@
+names = [
+  { name = "고백 (Sung Jong Solo)", locale = "ko", original = true },
+  { name = "Gobaek (Sung Jong Solo)", locale = "ko-Latn", default = true },
+]
