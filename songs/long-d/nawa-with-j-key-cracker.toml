@@ -1,0 +1,4 @@
+names = [
+  { name = "나와 (With J;KEY, 크래커)", locale = "ko", original = true },
+  { name = "Nawa (With J;KEY, Cracker)", locale = "ko-Latn", default = true },
+]

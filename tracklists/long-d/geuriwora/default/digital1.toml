@@ -1,0 +1,33 @@
+medium-ids = [
+  "long-d/geuriwora/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "long-d/all-night-feat-kim-do-yeon-of-weki-meki"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "long-d/q-a-feat-tarin"
+duration = "3:27"
+
+[[tracks]]
+position = 3
+song-id = "long-d/geuriwora"
+duration = "4:04"
+
+[[tracks]]
+position = 4
+song-id = "long-d/nari-joaseo-feat-chawoo"
+duration = "3:20"
+
+[[tracks]]
+position = 5
+song-id = "long-d/nawa-with-j-key-cracker"
+duration = "3:09"
+
+[[tracks]]
+position = 6
+song-id = "long-d/nuga-dugo-gasseulkka"
+duration = "3:01"

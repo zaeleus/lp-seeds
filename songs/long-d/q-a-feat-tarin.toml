@@ -1,0 +1,4 @@
+names = [
+  { name = "Q&A (Feat. 타린)", locale = "ko", original = true },
+  { name = "Q&A (Feat. Tarin)", locale = "ko-Latn", default = true },
+]

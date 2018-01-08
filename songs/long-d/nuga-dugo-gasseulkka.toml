@@ -1,0 +1,4 @@
+names = [
+  { name = "누가 두고 갔을까", locale = "ko", original = true },
+  { name = "Nuga Dugo Gasseulkka", locale = "ko-Latn", default = true },
+]
