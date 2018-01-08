@@ -1,0 +1,8 @@
+names = [
+  { name = "이 밤이 지나면", locale = "ko", original = true },
+  { name = "I Bami Jinamyeon", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "joeun-vibe" },
+]

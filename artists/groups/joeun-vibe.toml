@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "좋은 바이브", locale = "ko", original = true },
+  { name = "Joeun Vibe", locale = "ko-Latn", default = true },
+  { name = "Good Vibe", locale = "en" },
+]

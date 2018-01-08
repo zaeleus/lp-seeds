@@ -1,0 +1,18 @@
+medium-ids = [
+  "mixnine/mixnine-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mixnine/hush-swit"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "mixnine/i-bami-jinamyeon"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "mixnine/dangerous-girl"
+duration = "3:42"

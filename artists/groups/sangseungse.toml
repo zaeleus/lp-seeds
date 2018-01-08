@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "상승세", locale = "ko", original = true },
+  { name = "Sangseungse", locale = "ko-Latn", default = true },
+  { name = "Rising", locale = "en" },
+]

@@ -1,0 +1,9 @@
+names = [
+  { name = "HUSH (쉿!)", locale = "ko", original = true },
+  { name = "HUSH (Swit!)", locale = "ko-Latn", default = true },
+  { name = "HUSH", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "my9mi" },
+]
