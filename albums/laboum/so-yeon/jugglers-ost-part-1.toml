@@ -1,0 +1,15 @@
+artist-id = "laboum/so-yeon"
+kind = "single"
+
+names = [
+  { name = "저글러스 OST Part.1", locale = "ko", original = true },
+  { name = "Jugglers OST Part.1", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-12-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10117295" },
+]
