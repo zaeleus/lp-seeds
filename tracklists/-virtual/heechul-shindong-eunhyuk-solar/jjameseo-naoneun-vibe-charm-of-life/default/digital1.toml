@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/heechul-shindong-eunhyuk-solar/jjameseo-naoneun-vibe-charm-of-life/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/heechul-shindong-eunhyuk-solar/jjameseo-naoneun-vibe-charm-of-life"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/heechul-shindong-eunhyuk-solar/jjameseo-naoneun-vibe-charm-of-life-inst"
+duration = "3:35"

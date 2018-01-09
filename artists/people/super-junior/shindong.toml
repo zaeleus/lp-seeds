@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1985-09-28"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "신동", locale = "ko", kind = "stage", original = true },
+  { name = "Shindong", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "신동희", locale = "ko", kind = "real" },
+  { name = "Shin Dong Hee", locale = "ko-Latn", kind = "real" },
+]

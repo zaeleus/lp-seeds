@@ -1,0 +1,12 @@
+names = [
+  { name = "짬에서 나오는 바이브 (Charm of Life)", locale = "ko", original = true },
+  { name = "Jjameseo Naoneun Vibe (Charm of Life)", locale = "ko-Latn", default = true },
+  { name = "Charm of Life", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "super-junior/heechul" },
+  { artist-id = "super-junior/shindong" },
+  { artist-id = "super-junior/eunhyuk" },
+  { artist-id = "mamamoo/solar" },
+]

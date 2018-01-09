@@ -1,0 +1,23 @@
+artist-id = "-virtual/heechul-shindong-eunhyuk-solar"
+kind = "single"
+
+names = [
+  { name = "짬에서 나오는 바이브 (Charm of Life)", locale = "ko", original = true },
+  { name = "Jjameseo Naoneun Vibe (Charm of Life)", locale = "ko-Latn", default = true },
+  { name = "Charm of Life", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "super-junior/heechul" },
+  { artist-id = "super-junior/shindong" },
+  { artist-id = "super-junior/eunhyuk" },
+  { artist-id = "mamamoo/solar" },
+]
+
+[[releases]]
+released-on = "2017-12-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10118609" },
+]
