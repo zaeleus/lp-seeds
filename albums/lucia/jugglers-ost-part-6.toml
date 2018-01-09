@@ -1,0 +1,15 @@
+artist-id = "lucia"
+kind = "single"
+
+names = [
+  { name = "저글러스 OST Part.6", locale = "ko", original = true },
+  { name = "Jugglers OST Part.6", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-01-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10126962" },
+]

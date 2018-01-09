@@ -1,0 +1,13 @@
+medium-ids = [
+  "lucia/jugglers-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucia/dosiui-cheonsadeul"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "lucia/dosiui-cheonsadeul-inst"
+duration = "3:51"
