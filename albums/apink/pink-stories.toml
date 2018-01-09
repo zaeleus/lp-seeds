@@ -1,0 +1,15 @@
+artist-id = "apink"
+kind = "lp"
+
+names = [
+  { name = "Pink Stories", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-12-27"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1321675880" },
+  { url = "http://mora.jp/package/43000006/00602567296652/" },
+]
