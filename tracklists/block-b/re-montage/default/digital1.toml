@@ -1,0 +1,43 @@
+medium-ids = [
+  "block-b/re-montage/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "block-b/tteonajimayo"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "block-b/majimak-jeongnyujang-jaehyo-solo"
+duration = "3:52"
+
+[[tracks]]
+position = 3
+song-id = "block-b/everythin-u-kwon-solo"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "block-b/my-zone"
+duration = "2:56"
+
+[[tracks]]
+position = 5
+song-id = "block-b/shall-we-dance"
+duration = "3:00"
+
+[[tracks]]
+position = 6
+song-id = "block-b/ilbangjeogiya"
+duration = "3:32"
+
+[[tracks]]
+position = 7
+song-id = "block-b/ireoke-vocal-unit"
+duration = "3:50"
+
+[[tracks]]
+position = 8
+song-id = "block-b/give-take-b-bomb-solo"
+duration = "3:19"

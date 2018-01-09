@@ -1,0 +1,4 @@
+names = [
+  { name = "마지막 정류장 (재효 Solo)", locale = "ko", original = true },
+  { name = "Majimak Jeongnyujang (Jaehyo Solo)", locale = "ko-Latn", default = true },
+]
