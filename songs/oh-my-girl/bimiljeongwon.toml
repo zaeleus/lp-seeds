@@ -1,0 +1,5 @@
+names = [
+  { name = "비밀정원", locale = "ko", original = true },
+  { name = "Bimiljeongwon", locale = "ko-Latn", default = true },
+  { name = "Secret Garden", locale = "en" },
+]

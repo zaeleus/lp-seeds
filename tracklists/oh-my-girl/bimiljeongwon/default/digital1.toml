@@ -1,0 +1,28 @@
+medium-ids = [
+  "oh-my-girl/bimiljeongwon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-my-girl/bimiljeongwon"
+duration = "4:04"
+
+[[tracks]]
+position = 2
+song-id = "oh-my-girl/love-o-clock"
+duration = "3:56"
+
+[[tracks]]
+position = 3
+song-id = "oh-my-girl/butterfly"
+duration = "3:53"
+
+[[tracks]]
+position = 4
+song-id = "oh-my-girl/sixteen"
+duration = "3:21"
+
+[[tracks]]
+position = 5
+song-id = "oh-my-girl/magic"
+duration = "3:04"
