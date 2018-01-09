@@ -1,0 +1,16 @@
+artist-id = "laboum/so-yeon"
+kind = "single"
+
+names = [
+  { name = "병원선 OST Part.4", locale = "ko", original = true },
+  { name = "Byeongwonseon OST Part.4", locale = "ko-Latn", default = true },
+  { name = "Hospital Ship OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-09-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10097461" },
+]

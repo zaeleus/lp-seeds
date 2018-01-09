@@ -1,0 +1,13 @@
+medium-ids = [
+  "laboum/so-yeon/byeongwonseon-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "laboum/so-yeon/i-feel-love"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "laboum/so-yeon/i-feel-love-inst"
+duration = "3:32"
