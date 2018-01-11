@@ -1,0 +1,27 @@
+artist-id = "-virtual/sohee-x-kim-sang-gyun"
+kind = "single"
+
+names = [
+  { name = "유치해도", locale = "ko", original = true },
+  { name = "Yuchihaedo", locale = "ko-Latn", default = true },
+  { name = "Childlike", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "sohee"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "topp-dogg/a-tom"
+names = [
+  { name = "김상균", locale = "ko", original = true },
+  { name = "Kim Sang Gyun", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-12-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10116955" },
+]

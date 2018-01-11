@@ -1,0 +1,21 @@
+names = [
+  { name = "유치해도 (Prod. 이민혁 (비투비))", locale = "ko", original = true },
+  { name = "Yuchihaedo (Prod. Lee Min Hyuk (BTOB))", locale = "ko-Latn", default = true },
+  { name = "Childlike (Prod. Lee Min Hyuk (BTOB))", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=Nb0rc96bd-c", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=BsjNDV7ily8", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "sohee"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "topp-dogg/a-tom"
+names = [
+  { name = "김상균", locale = "ko", original = true },
+  { name = "Kim Sang Gyun", locale = "ko-Latn", default = true },
+]
