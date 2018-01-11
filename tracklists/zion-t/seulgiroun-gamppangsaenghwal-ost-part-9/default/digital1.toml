@@ -1,0 +1,13 @@
+medium-ids = [
+  "zion-t/seulgiroun-gamppangsaenghwal-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zion-t/haru-ilgwa"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "zion-t/haru-ilgwa-inst"
+duration = "3:04"
