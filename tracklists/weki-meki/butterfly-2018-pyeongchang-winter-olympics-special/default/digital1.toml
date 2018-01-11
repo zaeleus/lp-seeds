@@ -1,0 +1,8 @@
+medium-ids = [
+  "weki-meki/butterfly-2018-pyeongchang-winter-olympics-special/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weki-meki/butterfly"
+duration = "3:47"
