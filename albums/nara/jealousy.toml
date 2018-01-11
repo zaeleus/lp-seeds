@@ -1,0 +1,14 @@
+artist-id = "nara"
+kind = "single"
+
+names = [
+  { name = "Jealousy", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-01-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10127761" },
+]
