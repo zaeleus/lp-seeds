@@ -1,0 +1,8 @@
+medium-ids = [
+  "bigbang/taeyang/louder/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bigbang/taeyang/louder"
+duration = "3:40"
