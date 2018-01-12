@@ -1,0 +1,16 @@
+artist-id = "cheetah"
+kind = "single"
+
+names = [
+  { name = "비틀비틀", locale = "ko", original = true },
+  { name = "Biteul Biteul", locale = "ko-Latn", default = true },
+  { name = "Stagger", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-01-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10127767" },
+]

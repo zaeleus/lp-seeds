@@ -1,0 +1,5 @@
+names = [
+  { name = "비틀비틀 (Inst.)", locale = "ko", original = true },
+  { name = "Biteul Biteul (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Stagger (Inst.)", locale = "en" },
+]
