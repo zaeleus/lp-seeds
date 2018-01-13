@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1987-10-23"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "안녕하신가영", locale = "ko", kind = "stage", original = true },
+  { name = "Annyeonghasin Gayoung", locale = "ko-Latn", kind = "stage" },
+  { name = "Hello Gayoung", locale = "en", kind = "stage", default = true },
+  { name = "백가영", locale = "ko", kind = "real" },
+  { name = "Park Ga Young", locale = "ko-Latn", kind = "real" },
+]
