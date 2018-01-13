@@ -1,0 +1,13 @@
+medium-ids = [
+  "dreamcatcher/full-moon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dreamcatcher/full-moon"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "dreamcatcher/full-moon-inst"
+duration = "3:09"
