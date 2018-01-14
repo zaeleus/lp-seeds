@@ -1,0 +1,15 @@
+names = [
+  { name = "Candy Pop", locale = "ja", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=pePqDI1OcT4", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=wQ_POfToaVY", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "twice"
+names = [
+  { name = "トゥワイス", locale = "ja", original = true },
+  { name = "TWICE", locale = "ja-Latn", default = true },
+]
