@@ -1,0 +1,16 @@
+artist-id = "eb"
+kind = "single"
+
+names = [
+  { name = "흠 (Hmm)", locale = "ko", original = true },
+  { name = "Heum (Hmm)", locale = "ko-Latn" },
+  { name = "Hmm", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-01-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10128331" },
+]
