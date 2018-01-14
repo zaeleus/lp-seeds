@@ -1,0 +1,7 @@
+names = [
+  { name = "SUPER FREAK", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "gangnamyeok-10-beon-chulgu" },
+]

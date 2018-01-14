@@ -1,0 +1,18 @@
+medium-ids = [
+  "mixnine/mixnine-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mixnine/sone-sonjapgo"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "mixnine/super-freak"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "mixnine/stand-by-me"
+duration = "3:21"

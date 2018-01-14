@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "강남역 10번 출구", locale = "ko", original = true },
+  { name = "Gangnamyeok 10-beon Chulgu", locale = "ko-Latn", default = true },
+  { name = "Gangnam Station Exit 10", locale = "en" },
+]
