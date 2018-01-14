@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "빨강하다", locale = "ko", original = true },
+  { name = "Ppalganghada", locale = "ko-Latn", default = true },
+]

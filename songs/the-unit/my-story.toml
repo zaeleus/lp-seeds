@@ -1,0 +1,7 @@
+names = [
+  { name = "My Story", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "unit-ranger" },
+]

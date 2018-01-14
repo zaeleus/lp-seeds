@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "훈남쓰", locale = "ko", original = true },
+  { name = "Hunnamsseu", locale = "ko-Latn", default = true },
+]

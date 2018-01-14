@@ -1,0 +1,9 @@
+names = [
+  { name = "내꺼", locale = "ko", original = true },
+  { name = "Naekkeo", locale = "ko-Latn", default = true },
+  { name = "You're Mine", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "chorokpikhana" },
+]

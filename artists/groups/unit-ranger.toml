@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "유닛레인저", locale = "ko", original = true },
+  { name = "Unit Ranger", locale = "en", default = true },
+]
