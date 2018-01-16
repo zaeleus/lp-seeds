@@ -1,0 +1,13 @@
+medium-ids = [
+  "lucia/habaegui-sinbu-2017-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucia/niga-eomneun-nal"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "lucia/niga-eomneun-nal-inst"
+duration = "4:00"
