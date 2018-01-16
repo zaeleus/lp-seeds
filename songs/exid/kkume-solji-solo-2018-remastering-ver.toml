@@ -1,0 +1,5 @@
+names = [
+  { name = "꿈에 (솔지 SOLO) (2018 Remastering Ver.)", locale = "ko", original = true },
+  { name = "Kkume (Solji SOLO) (2018 Remastering Ver.)", locale = "ko-Latn", default = true },
+  { name = "Dreamer (Solji SOLO) (2018 Remastering Ver.)", locale = "en" },
+]

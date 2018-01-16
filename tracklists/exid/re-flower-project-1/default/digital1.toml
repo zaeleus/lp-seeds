@@ -1,0 +1,13 @@
+medium-ids = [
+  "exid/re-flower-project-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exid/kkume-solji-solo-2018-remastering-ver"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "exid/kkume-solji-solo-2018-remastering-ver-inst"
+duration = "3:25"
