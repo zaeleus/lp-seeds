@@ -1,0 +1,14 @@
+artist-id = "jang-jae-in"
+kind = "single"
+
+names = [
+  { name = "BUTTON", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-01-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10128776" },
+]
