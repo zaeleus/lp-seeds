@@ -1,0 +1,15 @@
+artist-id = "mfbty/bizzy"
+kind = "single"
+
+names = [
+  { name = "우아", locale = "ko", original = true },
+  { name = "Ooh Ah", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-01-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10129521" },
+]
