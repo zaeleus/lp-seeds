@@ -1,0 +1,14 @@
+artist-id = "girlkind"
+kind = "single"
+
+names = [
+  { name = "FANCI", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-01-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10126510" },
+]
