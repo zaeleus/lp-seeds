@@ -1,0 +1,16 @@
+artist-id = "wonder-girls/sunmi"
+kind = "single"
+
+names = [
+  { name = "주인공", locale = "ko", original = true },
+  { name = "Juingong", locale = "ko-Latn", default = true },
+  { name = "Heroine", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-01-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10128855" },
+]
