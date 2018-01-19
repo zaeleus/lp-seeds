@@ -1,0 +1,16 @@
+artist-id = "little-glee-monster"
+kind = "lp"
+
+names = [
+  { name = "juice", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-01-17"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1326755689" },
+  { url = "http://mora.jp/package/43000001/4547366345810/" },
+  { url = "http://mora.jp/package/43000001/4547366345827/" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "Let's Grooooove!!!!! Monster～Opening/Ending～", locale = "ja", original = true },
+  { name = "Let's Grooooove!!!!! Monster ~Opening/Ending~", locale = "en", default = true },
+]
