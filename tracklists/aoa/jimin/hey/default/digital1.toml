@@ -1,0 +1,8 @@
+medium-ids = [
+  "aoa/jimin/hey/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aoa/jimin/hey"
+duration = "2:54"
