@@ -1,0 +1,4 @@
+names = [
+  { name = "RUN IT (Feat. 우원재 & 제시) (Prod. by GRAY)", locale = "ko", original = true },
+  { name = "RUN IT (Feat. Woo Won Jae & Jessi)", locale = "ko-Latn", default = true },
+]
