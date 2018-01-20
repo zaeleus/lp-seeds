@@ -1,0 +1,13 @@
+medium-ids = [
+  "suran/hwayugi-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "suran/dwinmoseup"
+duration = "4:12"
+
+[[tracks]]
+position = 2
+song-id = "suran/dwinmoseup-inst"
+duration = "4:12"
