@@ -1,0 +1,5 @@
+names = [
+  { name = "설렘주의보", locale = "ko", original = true },
+  { name = "Seollemjuuibo", locale = "ko-Latn", default = true },
+  { name = "Fluttering Forecast", locale = "en" },
+]

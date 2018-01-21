@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan/hana/aeganjang-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/hana/seollemjuuibo"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/hana/seollemjuuibo-inst"
+duration = "3:57"

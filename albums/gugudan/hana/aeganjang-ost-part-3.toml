@@ -1,0 +1,16 @@
+artist-id = "gugudan/hana"
+kind = "single"
+
+names = [
+  { name = "애간장 OST Part.3", locale = "ko", original = true },
+  { name = "Aeganjang OST Part.3", locale = "ko-Latn", default = true },
+  { name = "My First Love OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-01-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10131118" },
+]
