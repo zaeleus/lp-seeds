@@ -1,0 +1,14 @@
+artist-id = "cherry-coke"
+kind = "single"
+
+names = [
+  { name = "Iloveyourcheek", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-01-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10131138" },
+]

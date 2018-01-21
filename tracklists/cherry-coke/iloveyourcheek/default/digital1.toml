@@ -1,0 +1,8 @@
+medium-ids = [
+  "cherry-coke/iloveyourcheek/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cherry-coke/iloveyourcheek"
+duration = "3:06"
