@@ -1,0 +1,23 @@
+medium-ids = [
+  "migyo/you-i/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "migyo/ijeodo-geugeosi"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "migyo/gyesok-noraehago-sipeoyo"
+duration = "4:11"
+
+[[tracks]]
+position = 3
+song-id = "migyo/ijeodo-geugeosi-inst"
+duration = "3:35"
+
+[[tracks]]
+position = 4
+song-id = "migyo/gyesok-noraehago-sipeoyo-inst"
+duration = "4:11"
