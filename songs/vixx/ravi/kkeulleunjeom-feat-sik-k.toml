@@ -1,0 +1,4 @@
+names = [
+  { name = "끓는점 (Feat. Sik-K)", locale = "ko", original = true },
+  { name = "Kkeulleunjeom (Feat. Sik-K)", locale = "ko-Latn", default = true },
+]

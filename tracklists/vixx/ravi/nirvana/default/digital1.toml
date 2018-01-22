@@ -1,0 +1,38 @@
+medium-ids = [
+  "vixx/ravi/nirvana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vixx/ravi/kkeulleunjeom-feat-sik-k"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "vixx/ravi/chameleon"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "vixx/ravi/nirvana-feat-jimin-park"
+duration = "3:40"
+
+[[tracks]]
+position = 4
+song-id = "vixx/ravi/ravi-da-loca"
+duration = "2:34"
+
+[[tracks]]
+position = 5
+song-id = "vixx/ravi/payday-feat-choi-cho-a-olnl"
+duration = "3:18"
+
+[[tracks]]
+position = 6
+song-id = "vixx/ravi/alcohol"
+duration = "2:52"
+
+[[tracks]]
+position = 7
+song-id = "vixx/ravi/where-am-i-feat-microdot"
+duration = "3:43"

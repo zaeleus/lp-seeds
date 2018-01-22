@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1993-02-15"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "라비", locale = "ko", kind = "stage", original = true },
+  { name = "Ravi", locale = "ko-Latn", kind = "stage", default = true },
+]
