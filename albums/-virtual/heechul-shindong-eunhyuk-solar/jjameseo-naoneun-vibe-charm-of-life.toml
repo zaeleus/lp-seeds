@@ -8,9 +8,9 @@ names = [
 ]
 
 artist-credits = [
-  { artist-id = "super-junior/heechul" },
-  { artist-id = "super-junior/shindong" },
-  { artist-id = "super-junior/eunhyuk" },
+  { artist-id = "super-junior/heechul", separator = ", " },
+  { artist-id = "super-junior/shindong", separator = ", " },
+  { artist-id = "super-junior/eunhyuk", separator = ", " },
   { artist-id = "mamamoo/solar" },
 ]
 
