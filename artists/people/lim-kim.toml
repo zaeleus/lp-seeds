@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1994-01-21"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "김예림", locale = "ko", kind = "real", original = true },
+  { name = "Kim Ye Rim", locale = "ko-Latn", kind = "real" },
+  { name = "Lim Kim", locale = "en", kind = "stage", default = true },
+]

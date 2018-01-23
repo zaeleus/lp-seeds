@@ -1,0 +1,4 @@
+names = [
+  { name = "캐럴의 말장난", locale = "ko", original = true },
+  { name = "Kaereorui Maljangnan", locale = "ko-Latn", default = true },
+]
