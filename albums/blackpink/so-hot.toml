@@ -1,0 +1,14 @@
+artist-id = "blackpink"
+kind = "single"
+
+names = [
+  { name = "SO HOT", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-12-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://soundcloud.com/yg-entertainment/blackpink_sohot" },
+]
