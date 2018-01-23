@@ -1,0 +1,16 @@
+artist-id = "nishino-kana"
+kind = "lp"
+
+names = [
+  { name = "LOVE it", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-11-15"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1297891130" },
+  { url = "http://mora.jp/package/43000001/4547366336771/" },
+  { url = "http://mora.jp/package/43000001/4547366339406/" },
+]
