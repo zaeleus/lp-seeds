@@ -1,0 +1,28 @@
+medium-ids = [
+  "the-unit/the-uni-g-step-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-unit/always"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "the-unit/cherry-on-top"
+duration = "2:57"
+
+[[tracks]]
+position = 3
+song-id = "the-unit/dalkomhae"
+duration = "3:07"
+
+[[tracks]]
+position = 4
+song-id = "the-unit/cosmos"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song-id = "the-unit/poco-a-poco"
+duration = "2:59"

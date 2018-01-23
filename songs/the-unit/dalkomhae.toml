@@ -1,0 +1,9 @@
+names = [
+  { name = "달콤해", locale = "ko", original = true },
+  { name = "Dalkomhae", locale = "ko-Latn", default = true },
+  { name = "Sweet", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "too-charming" },
+]

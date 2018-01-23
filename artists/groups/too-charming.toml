@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "투챠밍", locale = "ko", original = true },
+  { name = "Tuchyaming", locale = "ko-Latn" },
+  { name = "Too Charming", locale = "en", default = true },
+]

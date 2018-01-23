@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "10시 45분", locale = "ko", original = true },
+  { name = "10-si 45-bun", locale = "ko-Latn" },
+  { name = "10:45", locale = "en", default = true },
+]

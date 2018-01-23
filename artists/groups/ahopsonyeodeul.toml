@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "아홉소녀들", locale = "ko", original = true },
+  { name = "Ahopsonyeodeul", locale = "ko-Latn", default = true },
+  { name = "Nine Girls", locale = "en" },
+]
