@@ -1,0 +1,4 @@
+names = [
+  { name = "名うての泥棒猫", locale = "ja", original = true },
+  { name = "Naute no Dorobou Neko", locale = "ja-Latn", default = true },
+]

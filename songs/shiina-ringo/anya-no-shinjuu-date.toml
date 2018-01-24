@@ -1,0 +1,4 @@
+names = [
+  { name = "暗夜の心中立て", locale = "ja", original = true },
+  { name = "Anya no Shinjuu Date", locale = "ja-Latn", default = true },
+]

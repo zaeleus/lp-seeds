@@ -1,0 +1,18 @@
+artist-id = "shiina-ringo"
+kind = "lp"
+
+names = [
+  { name = "逆輸入 ～航空局～", locale = "ja", original = true },
+  { name = "Gyakuyunyuu ~Koukuukyoku~", locale = "ja-Latn", default = true },
+  { name = "Reimport vol. 2: Civil Aviation Bureau", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-12-06"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1314236181" },
+  { url = "http://mora.jp/package/43000006/00602567250425/" },
+  { url = "http://mora.jp/package/43000006/00602567250432/" },
+]

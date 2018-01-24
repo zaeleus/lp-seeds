@@ -1,0 +1,4 @@
+names = [
+  { name = "野性の同盟", locale = "ja", original = true },
+  { name = "Yasei no Doumei", locale = "ja-Latn", default = true },
+]

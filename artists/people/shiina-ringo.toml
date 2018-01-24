@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1978-11-25"
+country = "JP"
+gender = "female"
+
+names = [
+  { name = "椎名林檎", locale = "ja", kind = "stage", original = true },
+  { name = "Shiina Ringo", locale = "ja-Latn", kind = "stage", default = true },
+]
