@@ -1,0 +1,15 @@
+artist-id = "shuukaren"
+kind = "single"
+
+names = [
+  { name = "LOVE YOUR LIFE/【パラレル・シンクロニシティ】 produced by m-flo", locale = "ja", original = true },
+  { name = "LOVE YOUR LIFE / [Parallel Synchronicity] produced by m-flo", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2017-11-10"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000001/4547366338294/" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "shuukaren/love-your-life-parallel-synchronicity-produced-by-m-flo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shuukaren/love-your-life"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "shuukaren/parallel-synchronicity-produced-by-m-flo"
+duration = "4:12"
