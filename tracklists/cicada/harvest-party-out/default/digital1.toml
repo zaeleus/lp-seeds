@@ -1,0 +1,13 @@
+medium-ids = [
+  "cicada/harvest-party-out/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cicada/harvest"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "cicada/party-out"
+duration = "4:38"
