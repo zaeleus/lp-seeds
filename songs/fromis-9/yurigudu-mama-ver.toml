@@ -1,0 +1,5 @@
+names = [
+  { name = "유리구두 (MAMA Ver.)", locale = "ko", original = true },
+  { name = "Yurigudu (MAMA Ver.)", locale = "ko-Latn", default = true },
+  { name = "Glass Shoes (MAMA Ver.)", locale = "en" },
+]

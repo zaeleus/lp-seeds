@@ -1,0 +1,5 @@
+names = [
+  { name = "환상속의 그대", locale = "ko", original = true },
+  { name = "Hwansangsogui Geudae", locale = "ko-Latn", default = true },
+  { name = "You in My Fantasy", locale = "en" },
+]
