@@ -1,0 +1,53 @@
+medium-ids = [
+  "davichi/10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/uri-dul"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "davichi/neo-eomneun-sigandeul"
+duration = "4:33"
+
+[[tracks]]
+position = 3
+song-id = "davichi/araseo-arayo"
+duration = "4:13"
+
+[[tracks]]
+position = 4
+song-id = "davichi/geuraedo-uri"
+duration = "4:35"
+
+[[tracks]]
+position = 5
+song-id = "davichi/saranghaji-marayo"
+duration = "3:49"
+
+[[tracks]]
+position = 6
+song-id = "davichi/apeun-kkeut"
+duration = "4:43"
+
+[[tracks]]
+position = 7
+song-id = "davichi/naega-deo-saranghaneun-il"
+duration = "3:37"
+
+[[tracks]]
+position = 8
+song-id = "davichi/jinan-nal"
+duration = "4:22"
+
+[[tracks]]
+position = 9
+song-id = "davichi/miwodo-saranghanikka-special-track"
+duration = "5:25"
+
+[[tracks]]
+position = 10
+song-id = "davichi/neo-eomneun-sigandeul-inst"
+duration = "4:33"

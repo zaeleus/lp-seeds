@@ -1,0 +1,5 @@
+names = [
+  { name = "너 없는 시간들 (Inst.)", locale = "ko", original = true },
+  { name = "Neo Eomneun Sigandeul (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Days Without You (Inst.)", locale = "en" },
+]
