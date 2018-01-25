@@ -1,0 +1,16 @@
+artist-id = "san-e"
+kind = "single"
+
+names = [
+  { name = "라라 (Live Again, Love Again) OST Part.3", locale = "ko", original = true },
+  { name = "Rara (Live Again, Love Again) OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Live Again, Love Again OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-01-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10132546" },
+]
