@@ -1,0 +1,5 @@
+names = [
+  { name = "사랑을 했다 (LOVE SCENARIO)", locale = "ko", original = true },
+  { name = "Sarangeul Haetda (LOVE SCENARIO)", locale = "ko-Latn", default = true },
+  { name = "LOVE SCENARIO", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "나를 사랑하지 않나요? (LOVE ME)", locale = "ko", original = true },
+  { name = "Nareul Saranghaji Annayo? (LOVE ME)", locale = "ko-Latn", default = true },
+  { name = "LOVE ME", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "돗대 (ONE AND ONLY) (B.I SOLO)", locale = "ko", original = true },
+  { name = "Dotdae (ONE AND ONLY) (B.I SOLO)", locale = "ko-Latn", default = true },
+  { name = "ONE AND ONLY (B.I SOLO)", locale = "en" },
+]

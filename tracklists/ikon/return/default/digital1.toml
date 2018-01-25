@@ -1,0 +1,63 @@
+medium-ids = [
+  "ikon/return/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ikon/sarangeul-haetda-love-scenario"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "ikon/beautiful"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "ikon/dotdae-one-and-only-b-i-solo"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "ikon/nappeunnom-jerk"
+duration = "3:43"
+
+[[tracks]]
+position = 5
+song-id = "ikon/best-friend"
+duration = "3:50"
+
+[[tracks]]
+position = 6
+song-id = "ikon/everything"
+duration = "3:34"
+
+[[tracks]]
+position = 7
+song-id = "ikon/anaboja-hug-me"
+duration = "3:36"
+
+[[tracks]]
+position = 8
+song-id = "ikon/itjimayo-don-t-forget"
+duration = "4:13"
+
+[[tracks]]
+position = 9
+song-id = "ikon/sinosijak"
+duration = "3:08"
+
+[[tracks]]
+position = 10
+song-id = "ikon/nareul-saranghaji-annayo-love-me"
+duration = "3:28"
+
+[[tracks]]
+position = 11
+song-id = "ikon/just-go"
+duration = "3:36"
+
+[[tracks]]
+position = 12
+song-id = "ikon/long-time-no-see"
+duration = "3:26"
