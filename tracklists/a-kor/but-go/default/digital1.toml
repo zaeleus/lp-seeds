@@ -1,0 +1,13 @@
+medium-ids = [
+  "a-kor/but-go/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "a-kor/but-go"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "a-kor/but-go-inst"
+duration = "3:25"
