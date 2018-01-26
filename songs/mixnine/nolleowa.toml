@@ -1,0 +1,9 @@
+names = [
+  { name = "놀러와", locale = "ko", original = true },
+  { name = "Nolleowa", locale = "ko-Latn", default = true },
+  { name = "Come Over", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "urijip" },
+]

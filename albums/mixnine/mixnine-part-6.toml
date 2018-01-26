@@ -1,0 +1,15 @@
+artist-id = "mixnine"
+kind = "ep"
+
+names = [
+  { name = "믹스나인 Part.6", locale = "ko", original = true },
+  { name = "MIXNINE Part.6", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-01-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10133622" },
+]

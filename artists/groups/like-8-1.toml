@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "에잇좋아+1", locale = "ko", original = true },
+  { name = "Eitjoa+1", locale = "ko-Latn" },
+  { name = "Like 8+1", locale = "en", default = true },
+]

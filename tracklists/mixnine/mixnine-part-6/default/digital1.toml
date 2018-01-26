@@ -1,0 +1,23 @@
+medium-ids = [
+  "mixnine/mixnine-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mixnine/eomeona"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "mixnine/nolleowa"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "mixnine/mwo"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "mixnine/nado-joa"
+duration = "3:30"

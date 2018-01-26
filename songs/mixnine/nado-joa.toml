@@ -1,0 +1,9 @@
+names = [
+  { name = "나도 좋아", locale = "ko", original = true },
+  { name = "Nado Joa", locale = "ko-Latn", default = true },
+  { name = "I Like It Too", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "like-8-1" },
+]

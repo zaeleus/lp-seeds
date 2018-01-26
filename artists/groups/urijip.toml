@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "우리집", locale = "ko", original = true },
+  { name = "Urijip", locale = "ko-Latn", default = true },
+  { name = "Our House", locale = "en" },
+]

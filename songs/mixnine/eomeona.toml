@@ -1,0 +1,8 @@
+names = [
+  { name = "어머나", locale = "ko", original = true },
+  { name = "Eomeona", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "universe" },
+]

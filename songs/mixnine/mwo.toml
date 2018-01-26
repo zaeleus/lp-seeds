@@ -1,0 +1,9 @@
+names = [
+  { name = "뭐!?", locale = "ko", original = true },
+  { name = "Mwo!?", locale = "ko-Latn", default = true },
+  { name = "What!?", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "top-line" },
+]
