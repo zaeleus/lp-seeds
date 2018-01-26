@@ -1,0 +1,18 @@
+medium-ids = [
+  "-virtual/yuri-x-raiden/always-find-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/yuri-x-raiden/always-find-you-korean-ver"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/yuri-x-raiden/always-find-you"
+duration = "3:38"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/yuri-x-raiden/always-find-you-inst"
+duration = "3:38"

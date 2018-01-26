@@ -1,0 +1,18 @@
+names = [
+  { name = "Always Find You (Korean Ver.)", locale = "ko", original = true, default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=U_DhGJaoEfc", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/yuri"
+names = [
+  { name = "유리", locale = "ko", original = true },
+  { name = "YURI", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "raiden"

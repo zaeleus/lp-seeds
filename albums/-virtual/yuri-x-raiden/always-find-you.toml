@@ -1,0 +1,25 @@
+artist-id = "-virtual/yuri-x-raiden"
+kind = "single"
+
+names = [
+  { name = "Always Find You", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/yuri"
+names = [
+  { name = "유리", locale = "ko", original = true },
+  { name = "YURI", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "raiden"
+
+[[releases]]
+released-on = "2018-01-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10133457" },
+]

@@ -1,0 +1,14 @@
+names = [
+  { name = "Always Find You", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/yuri"
+names = [
+  { name = "유리", locale = "ko", original = true },
+  { name = "YURI", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "raiden"
