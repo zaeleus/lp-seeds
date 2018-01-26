@@ -1,0 +1,38 @@
+medium-ids = [
+  "sbgb/saebyeong-radio/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sbgb/praha"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "sbgb/saebyeong-radio-199-3"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "sbgb/ohuui-mueot-feat-choi-nakta"
+duration = "3:02"
+
+[[tracks]]
+position = 4
+song-id = "sbgb/haru-sijak"
+duration = "3:28"
+
+[[tracks]]
+position = 5
+song-id = "sbgb/gyejeori-jinamyeon"
+duration = "3:29"
+
+[[tracks]]
+position = 6
+song-id = "sbgb/shall-we-dance"
+duration = "3:33"
+
+[[tracks]]
+position = 7
+song-id = "sbgb/eoreuni"
+duration = "2:55"

@@ -1,0 +1,15 @@
+artist-id = "sbgb"
+kind = "ep"
+
+names = [
+  { name = "새벽라디오", locale = "ko", original = true },
+  { name = "Saebyeong Radio", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-01-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10133190" },
+]
