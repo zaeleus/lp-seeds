@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "1999"
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "캐스커", locale = "ko", original = true },
+  { name = "Casker", locale = "ko-Latn", default = true },
+]
