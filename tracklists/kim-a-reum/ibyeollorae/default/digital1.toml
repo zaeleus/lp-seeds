@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-a-reum/ibyeollorae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-a-reum/ibyeollorae-feat-no-11"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "kim-a-reum/ibyeollorae-inst"
+duration = "3:20"

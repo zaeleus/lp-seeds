@@ -1,0 +1,4 @@
+names = [
+  { name = "이별노래 (Feat. 11호)", locale = "ko", original = true },
+  { name = "Ibyeollorae (Feat. No.11)", locale = "ko-Latn", default = true },
+]
