@@ -1,0 +1,5 @@
+names = [
+  { name = "비너스 (Dance With Me)", locale = "ko", original = true },
+  { name = "Bineoseu (Dance With Me)", locale = "ko-Latn", default = true },
+  { name = "Dance With Me", locale = "en" },
+]
