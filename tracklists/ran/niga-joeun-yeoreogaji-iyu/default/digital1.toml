@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/niga-joeun-yeoreogaji-iyu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/niga-joeun-yeoreogaji-iyu"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "ran/niga-joeun-yeoreogaji-iyu-inst"
+duration = "3:01"
