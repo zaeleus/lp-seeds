@@ -1,0 +1,8 @@
+medium-ids = [
+  "soya/soya-color-project-vol-1-show/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "soya/show"
+duration = "3:10"

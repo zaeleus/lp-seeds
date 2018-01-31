@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1990-04-02"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "소야", locale = "ko", kind = "stage", original = true },
+  { name = "SOYA", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김소야", locale = "ko", kind = "real" },
+  { name = "Kim So Ya", locale = "ko-Latn", kind = "real" },
+]
