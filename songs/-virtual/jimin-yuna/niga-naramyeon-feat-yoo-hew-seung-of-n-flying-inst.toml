@@ -1,0 +1,9 @@
+names = [
+  { name = "니가 나라면 (Feat. 유회승 of N.Flying) (Inst.)", locale = "ko", original = true },
+  { name = "Niga Naramyeon (Feat. Yoo Hew Seung of N.Flying) (Inst.)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "aoa/jimin", separator = ", " },
+  { artist-id = "aoa/yuna" }
+]

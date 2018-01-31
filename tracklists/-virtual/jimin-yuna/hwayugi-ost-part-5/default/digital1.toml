@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/jimin-yuna/hwayugi-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/jimin-yuna/niga-naramyeon-feat-yoo-hew-seung-of-n-flying"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/jimin-yuna/niga-naramyeon-feat-yoo-hew-seung-of-n-flying-inst"
+duration = "3:17"

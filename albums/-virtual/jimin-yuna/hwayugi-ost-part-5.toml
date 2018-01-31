@@ -1,0 +1,21 @@
+artist-id = "-virtual/jimin-yuna"
+kind = "single"
+
+names = [
+  { name = "화유기 OST Part.5", locale = "ko", original = true },
+  { name = "Hwayugi OST Part.5", locale = "ko-Latn", default = true },
+  { name = "A Korean Odyssey OST Part.5", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "aoa/jimin", separator = ", " },
+  { artist-id = "aoa/yuna" }
+]
+
+[[releases]]
+released-on = "2018-01-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10133447" },
+]
