@@ -1,0 +1,13 @@
+medium-ids = [
+  "boa/nega-dola/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boa/nega-dola"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "boa/nega-dola-inst"
+duration = "2:56"

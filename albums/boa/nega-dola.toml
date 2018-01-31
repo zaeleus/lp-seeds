@@ -1,0 +1,16 @@
+artist-id = "boa"
+kind = "single"
+
+names = [
+  { name = "내가 돌아 (NEGA DOLA)", locale = "ko", original = true },
+  { name = "Naega Dora (NEGA DOLA)", locale = "ko-Latn" },
+  { name = "NEGA DOLA", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-01-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10134956" },
+]

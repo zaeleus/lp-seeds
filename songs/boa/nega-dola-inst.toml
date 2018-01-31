@@ -1,0 +1,5 @@
+names = [
+  { name = "내가 돌아 (NEGA DOLA) (Inst.)", locale = "ko", original = true },
+  { name = "Naega Dora (NEGA DOLA) (Inst.)", locale = "ko-Latn" },
+  { name = "NEGA DOLA (Inst.)", locale = "en", default = true },
+]
