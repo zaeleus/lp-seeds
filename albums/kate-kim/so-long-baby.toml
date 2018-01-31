@@ -1,0 +1,14 @@
+artist-id = "kate-kim"
+kind = "single"
+
+names = [
+  { name = "So Long, Baby", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-01-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10134610" },
+]

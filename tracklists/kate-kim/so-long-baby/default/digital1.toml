@@ -1,0 +1,13 @@
+medium-ids = [
+  "kate-kim/so-long-baby/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kate-kim/so-long-baby"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "kate-kim/so-long-baby-inst"
+duration = "3:30"

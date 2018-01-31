@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1993-02-16"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "케이트 킴", locale = "ko", kind = "real", original = true },
+  { name = "Kate Kim", locale = "ko-Latn", kind = "real", default = true },
+]
