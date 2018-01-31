@@ -1,0 +1,13 @@
+medium-ids = [
+  "rocoberry/i-miss-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rocoberry/i-miss-you"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "rocoberry/i-miss-you-inst"
+duration = "3:24"
