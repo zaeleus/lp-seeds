@@ -1,0 +1,13 @@
+medium-ids = [
+  "1nb/dari-yeppeoseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "1nb/dari-yeppeoseo-feat-two-in-the-morning"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "1nb/dari-yeppeoseo-inst"
+duration = "3:18"

@@ -1,0 +1,4 @@
+names = [
+  { name = "달이 예뻐서 (Feat. 새벽두시)", locale = "ko", original = true },
+  { name = "Dari Yeppeoseo (Feat. Two in the Morning)", locale = "ko-Latn", default = true },
+]
