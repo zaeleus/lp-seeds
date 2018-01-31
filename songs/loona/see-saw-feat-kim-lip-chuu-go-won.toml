@@ -1,0 +1,4 @@
+names = [
+  { name = "See Saw (Feat. 김립) (츄, 고원)", locale = "ko", original = true },
+  { name = "See Saw (Feat. Kim Lip) (Chuu, Go Won)", locale = "ko-Latn", default = true },
+]

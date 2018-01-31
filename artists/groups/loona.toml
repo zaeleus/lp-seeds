@@ -20,6 +20,7 @@ members = [
   { artist-id = "loona/choerry" },
   { artist-id = "loona/yves" },
   { artist-id = "loona/chuu" },
+  { artist-id = "loona/go-won" },
 ]
 
 urls = [
