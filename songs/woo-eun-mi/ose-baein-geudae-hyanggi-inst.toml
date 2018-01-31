@@ -1,0 +1,4 @@
+names = [
+  { name = "옷에 배인 그대 향기 (Inst.)", locale = "ko", original = true },
+  { name = "Ose Baein Geudae Hyanggi (Inst.)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "woo-eun-mi/ose-baein-geudae-hyanggi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-eun-mi/ose-baein-geudae-hyanggi"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "woo-eun-mi/ose-baein-geudae-hyanggi-inst"
+duration = "3:50"
