@@ -1,0 +1,38 @@
+medium-ids = [
+  "miss-a/suzy/faces-of-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miss-a/suzy/dareunsarameul-saranghago-isseo"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "miss-a/suzy/holiday-feat-dpr-live"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "miss-a/suzy/sober"
+duration = "3:06"
+
+[[tracks]]
+position = 4
+song-id = "miss-a/suzy/nappeun-x"
+duration = "3:21"
+
+[[tracks]]
+position = 5
+song-id = "miss-a/suzy/jalja-nae-mokkkaji"
+duration = "4:13"
+
+[[tracks]]
+position = 6
+song-id = "miss-a/suzy/seotun-maeum-prod-jungkey"
+duration = "3:21"
+
+[[tracks]]
+position = 7
+song-id = "miss-a/suzy/neoneun-bamsaedorok"
+duration = "3:25"

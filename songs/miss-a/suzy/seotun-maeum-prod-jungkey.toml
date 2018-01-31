@@ -1,0 +1,4 @@
+names = [
+  { name = "서툰 마음 (Prod. 정키)", locale = "ko", original = true },
+  { name = "Seotun Maeum (Prod. Jungkey)", locale = "ko-Latn", default = true },
+]
