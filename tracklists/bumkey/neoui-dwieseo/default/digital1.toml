@@ -1,0 +1,13 @@
+medium-ids = [
+  "bumkey/neoui-dwieseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bumkey/neoui-dwieseo-feat-suran-loco"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "bumkey/neoui-dwieseo-inst"
+duration = "3:46"

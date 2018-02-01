@@ -1,0 +1,5 @@
+names = [
+  { name = "너의 뒤에서 (Feat. 수란, 로꼬)", locale = "ko", original = true },
+  { name = "Neoui Dwieseo (Feat. Suran, Loco)", locale = "ko-Latn", default = true },
+  { name = "Lalala (Feat. Suran, Loco)", locale = "en" },
+]
