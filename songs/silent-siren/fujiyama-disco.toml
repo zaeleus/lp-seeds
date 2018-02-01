@@ -2,7 +2,3 @@ names = [
   { name = "フジヤマディスコ", locale = "ja", original = true },
   { name = "Fujiyama Disco", locale = "ja-Latn", default = true },
 ]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=mwIB1ekjOMI", name = "Music Video (Short Ver.)" },
-]

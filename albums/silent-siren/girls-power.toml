@@ -1,0 +1,37 @@
+artist-id = "silent-siren"
+kind = "lp"
+
+names = [
+  { name = "GIRLS POWER", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-12-27"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1319042551" },
+  { url = "http://mora.jp/package/43000006/00602567298083/" },
+]
+
+[[releases]]
+released-on = "2017-12-27"
+country = "JP"
+catalog-number = "UPCH-20477"
+media = [{ kind = "cd" }]
+disambiguation = "CD only"
+urls = [
+  { url = "https://www.oricon.co.jp/prof/556983/products/1256834/1/" },
+  { url = "http://silent-siren.com/disco/detail.php?disc=70" },
+]
+
+[[releases]]
+released-on = "2017-12-27"
+country = "JP"
+catalog-number = "UPCH-29277"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "CD + DVD"
+urls = [
+  { url = "https://www.oricon.co.jp/prof/556983/products/1256833/1/" },
+  { url = "http://silent-siren.com/disco/detail.php?disc=69" },
+]

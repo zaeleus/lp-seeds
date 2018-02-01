@@ -1,0 +1,3 @@
+names = [
+  { name = "ODOREmotion", locale = "ja", original = true, default = true },
+]
