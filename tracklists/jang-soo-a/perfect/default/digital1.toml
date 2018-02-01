@@ -1,0 +1,33 @@
+medium-ids = [
+  "jang-soo-a/perfect/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jang-soo-a/bogo-sipeojyeo"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "jang-soo-a/u-feat-jason"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "jang-soo-a/na-hollo-jibe"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "jang-soo-a/georeoyo"
+duration = "3:35"
+
+[[tracks]]
+position = 5
+song-id = "jang-soo-a/neoraseo-geurae"
+duration = "2:59"
+
+[[tracks]]
+position = 6
+song-id = "jang-soo-a/bogo-sipeojyeo-inst"
+duration = "3:04"

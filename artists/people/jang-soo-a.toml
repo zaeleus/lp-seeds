@@ -1,0 +1,9 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "장수아", locale = "ko", kind = "real", original = true },
+  { name = "Jang Soo A", locale = "ko-Latn", kind = "real", default = true },
+]
