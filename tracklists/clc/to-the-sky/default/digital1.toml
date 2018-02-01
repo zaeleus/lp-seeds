@@ -1,0 +1,8 @@
+medium-ids = [
+  "clc/to-the-sky/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "clc/to-the-sky"
+duration = "3:05"
