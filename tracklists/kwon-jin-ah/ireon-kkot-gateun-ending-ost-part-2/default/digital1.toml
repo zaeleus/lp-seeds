@@ -1,0 +1,18 @@
+medium-ids = [
+  "kwon-jin-ah/ireon-kkot-gateun-ending-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kwon-jin-ah/ibyeol-dwinmyeon"
+duration = "4:40"
+
+[[tracks]]
+position = 2
+song-id = "kwon-jin-ah/ibyeol-dwinmyeon-piano-ver"
+duration = "1:29"
+
+[[tracks]]
+position = 3
+song-id = "kwon-jin-ah/ibyeol-dwinmyeon-inst"
+duration = "4:40"

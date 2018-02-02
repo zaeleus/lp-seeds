@@ -1,0 +1,4 @@
+names = [
+  { name = "이별 뒷면 (Piano Ver.)", locale = "ko", original = true },
+  { name = "Ibyeol Dwinmyeon (Piano Ver.)", locale = "ko-Latn", default = true },
+]

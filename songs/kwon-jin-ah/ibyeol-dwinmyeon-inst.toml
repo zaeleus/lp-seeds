@@ -1,0 +1,4 @@
+names = [
+  { name = "이별 뒷면 (Inst.)", locale = "ko", original = true },
+  { name = "Ibyeol Dwinmyeon (Inst.)", locale = "ko-Latn", default = true },
+]
