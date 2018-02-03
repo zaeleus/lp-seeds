@@ -1,0 +1,16 @@
+artist-id = "ben"
+kind = "single"
+
+names = [
+  { name = "화유기 OST Part.6", locale = "ko", original = true },
+  { name = "Hwayugi OST Part.6", locale = "ko-Latn", default = true },
+  { name = "A Korean Odyssey OST Part.6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-02-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10136071" },
+]

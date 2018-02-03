@@ -1,0 +1,13 @@
+medium-ids = [
+  "ben/hwayugi-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/unmyeongiramyeon"
+duration = "4:11"
+
+[[tracks]]
+position = 2
+song-id = "ben/unmyeongiramyeon-inst"
+duration = "4:11"
