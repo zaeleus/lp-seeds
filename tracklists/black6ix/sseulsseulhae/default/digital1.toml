@@ -1,0 +1,13 @@
+medium-ids = [
+  "black6ix/sseulsseulhae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "black6ix/sseulsseulhae"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "black6ix/sseulsseulhae-inst"
+duration = "3:17"
