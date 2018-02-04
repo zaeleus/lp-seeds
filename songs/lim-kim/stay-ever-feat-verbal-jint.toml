@@ -1,0 +1,4 @@
+names = [
+  { name = "Stay Ever (Feat. 버벌진트)", locale = "ko", original = true },
+  { name = "Stay Ever (Feat. Verbal Jint)", locale = "ko-Latn", default = true },
+]

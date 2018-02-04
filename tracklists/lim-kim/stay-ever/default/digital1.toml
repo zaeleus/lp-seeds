@@ -1,0 +1,13 @@
+medium-ids = [
+  "lim-kim/stay-ever/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lim-kim/stay-ever-feat-verbal-jint"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "lim-kim/stay-ever"
+duration = "3:38"

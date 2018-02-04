@@ -1,0 +1,14 @@
+artist-id = "lim-kim"
+kind = "single"
+
+names = [
+  { name = "Stay Ever", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2015-12-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2655548" },
+]
