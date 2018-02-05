@@ -1,0 +1,18 @@
+medium-ids = [
+  "almeng/pillow/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "almeng/pillow"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "almeng/cheers-to-me-remastering-ver"
+duration = "3:40"
+
+[[tracks]]
+position = 3
+song-id = "almeng/pillow-inst"
+duration = "3:25"
