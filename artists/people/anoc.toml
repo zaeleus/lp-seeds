@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1990-08-31"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "아녹", locale = "ko", kind = "stage", original = true },
+  { name = "Anoc", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "석인혜", locale = "ko", kind = "real" },
+  { name = "Seok In Hye", locale = "ko-Latn", kind = "real" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "anoc/i-m-in-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "anoc/i-m-in-love"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "anoc/i-m-in-love-inst"
+duration = "3:02"
