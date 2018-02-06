@@ -1,0 +1,23 @@
+artist-id = "sistar/hyo-rin"
+kind = "single"
+
+names = [
+  { name = "HYOLYN SET UP TIME #1 내일할래 (To Do List)", locale = "ko", original = true },
+  { name = "HYOLYN SET UP TIME #1 Naeilhallae (To Do List)", locale = "ko-Latn", default = true },
+  { name = "HYOLYN SET UP TIME #1 To Do List", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "sistar/hyo-rin"
+names = [
+  { name = "효린", locale = "ko", original = true },
+  { name = "Hyolyn", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-02-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10136896" },
+]

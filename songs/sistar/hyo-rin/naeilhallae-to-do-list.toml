@@ -1,0 +1,12 @@
+names = [
+  { name = "내일할래 (To Do List)", locale = "ko", original = true },
+  { name = "Naeilhallae (To Do List)", locale = "ko-Latn", default = true },
+  { name = "To Do List", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "sistar/hyo-rin"
+names = [
+  { name = "효린", locale = "ko", original = true },
+  { name = "Hyolyn", locale = "ko-Latn", default = true },
+]
