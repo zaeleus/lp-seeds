@@ -1,0 +1,13 @@
+medium-ids = [
+  "hong-jin-young/jalgara/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hong-jin-young/jalgara"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "hong-jin-young/jalgara-inst"
+duration = "3:16"

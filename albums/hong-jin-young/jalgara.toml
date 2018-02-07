@@ -1,0 +1,16 @@
+artist-id = "hong-jin-young"
+kind = "single"
+
+names = [
+  { name = "잘가라", locale = "ko", original = true },
+  { name = "Jalgara", locale = "ko-Latn", default = true },
+  { name = "Good Bye", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-02-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10137397" },
+]
