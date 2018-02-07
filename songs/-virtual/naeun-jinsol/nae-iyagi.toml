@@ -1,0 +1,15 @@
+names = [
+  { name = "내 이야기", locale = "ko", original = true },
+  { name = "Nae Iyagi", locale = "ko-Latn", default = true },
+  { name = "My Story", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "april/na-eun", separator = " & " },
+  { artist-id = "april/jin-sol" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=BdpSUsZElCs", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=NVW9yYOx8wU", name = "Music Video" },
+]

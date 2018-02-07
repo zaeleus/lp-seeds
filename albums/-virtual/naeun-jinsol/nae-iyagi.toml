@@ -1,0 +1,21 @@
+artist-id = "-virtual/naeun-jinsol"
+kind = "single"
+
+names = [
+  { name = "내 이야기", locale = "ko", original = true },
+  { name = "Nae Iyagi", locale = "ko-Latn", default = true },
+  { name = "My Story", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "april/na-eun", separator = " & " },
+  { artist-id = "april/jin-sol" },
+]
+
+[[releases]]
+released-on = "2018-02-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10136085" },
+]

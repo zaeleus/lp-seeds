@@ -1,0 +1,10 @@
+names = [
+  { name = "내 이야기 (Inst.)", locale = "ko", original = true },
+  { name = "Nae Iyagi (Inst.)", locale = "ko-Latn", default = true },
+  { name = "My Story (Inst.)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "april/na-eun", separator = " & " },
+  { artist-id = "april/jin-sol" },
+]
