@@ -1,0 +1,4 @@
+names = [
+  { name = "바람아 (Feat. 빈지노)", locale = "ko", original = true },
+  { name = "Barama (Feat. Beenzino)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,14 @@
+artist-id = "lim-kim"
+kind = "ep"
+
+names = [
+  { name = "Simple Mind", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2015-04-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2315200" },
+]
