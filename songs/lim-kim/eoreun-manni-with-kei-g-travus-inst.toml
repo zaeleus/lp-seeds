@@ -1,0 +1,5 @@
+names = [
+  { name = "어른 맞니 (With Kei G Travus) (Inst.)", locale = "ko", original = true },
+  { name = "Eoreun Manni (With Kei G Travus) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Are You a Grown Up? (With Kei G Travus) (Inst.)", locale = "en" },
+]

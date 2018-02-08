@@ -1,0 +1,16 @@
+artist-id = "lim-kim"
+kind = "single"
+
+names = [
+  { name = "어른 맞니 (With Kei G Travus)", locale = "ko", original = true },
+  { name = "Eoreun Manni (With Kei G Travus)", locale = "ko-Latn", default = true },
+  { name = "Are You a Grown Up? (With Kei G Travus)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-03-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2307194" },
+]

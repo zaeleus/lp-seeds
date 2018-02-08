@@ -1,0 +1,13 @@
+medium-ids = [
+  "lim-kim/eoreun-manni-with-kei-g-travus/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lim-kim/eoreun-manni-with-kei-g-travus"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "lim-kim/eoreun-manni-with-kei-g-travus-inst"
+duration = "4:06"
