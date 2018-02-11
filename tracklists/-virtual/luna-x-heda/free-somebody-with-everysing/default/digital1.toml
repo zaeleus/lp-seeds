@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/luna-x-heda/free-somebody-with-everysing/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/luna-x-heda/free-somebody-with-everysing"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/luna-x-heda/free-somebody-with-everysing-inst"
+duration = "3:18"

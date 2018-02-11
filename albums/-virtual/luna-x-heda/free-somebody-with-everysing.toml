@@ -1,0 +1,25 @@
+artist-id = "-virtual/luna-x-heda"
+kind = "single"
+
+names = [
+  { name = "Free Somebody (with everysing)", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "f-x/luna"
+names = [
+  { name = "루나", locale = "ko", original = true },
+  { name = "LUNA", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "heda"
+
+[[releases]]
+released-on = "2018-02-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10138215" },
+]
