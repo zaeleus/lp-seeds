@@ -1,0 +1,18 @@
+medium-ids = [
+  "ailee/ireon-kkot-gateun-ending-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ailee/dasi-sseugo-sipeo"
+duration = "4:10"
+
+[[tracks]]
+position = 2
+song-id = "ailee/dasi-sseugo-sipeo-piano-ver"
+duration = "0:54"
+
+[[tracks]]
+position = 3
+song-id = "ailee/dasi-sseugo-sipeo-inst"
+duration = "4:10"
