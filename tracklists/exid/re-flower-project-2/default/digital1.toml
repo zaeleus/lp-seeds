@@ -1,0 +1,13 @@
+medium-ids = [
+  "exid/re-flower-project-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exid/deryeoda-jullae"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "exid/deryeoda-jullae-inst"
+duration = "3:11"
