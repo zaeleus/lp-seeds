@@ -1,0 +1,13 @@
+medium-ids = [
+  "brown-eyed-girls/miryo/come/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brown-eyed-girls/miryo/can-i-see-you-again"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "brown-eyed-girls/miryo/what-did-he-say"
+duration = "3:31"
