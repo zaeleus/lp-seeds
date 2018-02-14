@@ -1,0 +1,15 @@
+artist-id = "eun-ho"
+kind = "single"
+
+names = [
+  { name = "상자", locale = "ko", original = true },
+  { name = "Sangja", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-02-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10138876" },
+]

@@ -1,0 +1,11 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "은호", locale = "ko", kind = "stage", original = true },
+  { name = "Eun Ho", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이은호", locale = "ko", kind = "real" },
+  { name = "Lee Eun Ho", locale = "ko-Latn", kind = "real" },
+]
