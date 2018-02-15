@@ -1,0 +1,33 @@
+medium-ids = [
+  "cocosori/mi-amor/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cocosori/mi-amor"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "cocosori/jeongjeongi"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "cocosori/coco/orakgarakhae"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "cocosori/dark-circle"
+duration = "3:10"
+
+[[tracks]]
+position = 5
+song-id = "cocosori/mi-amor-inst"
+duration = "3:31"
+
+[[tracks]]
+position = 6
+song-id = "cocosori/dark-circle-inst"
+duration = "3:07"
