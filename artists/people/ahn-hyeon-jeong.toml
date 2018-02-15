@@ -1,0 +1,9 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "안현정", locale = "ko", kind = "real", original = true },
+  { name = "Ahn Hyeon Jeong", locale = "ko-Latn", kind = "real", default = true },
+]
