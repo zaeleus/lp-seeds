@@ -6,3 +6,18 @@ medium-ids = [
 position = 1
 song-id = "twice/candy-pop"
 duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "twice/brand-new-girl"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "twice/candy-pop-instrumental"
+duration = "3:22"
+
+[[tracks]]
+position = 4
+song-id = "twice/brand-new-girl-instrumental"
+duration = "3:33"

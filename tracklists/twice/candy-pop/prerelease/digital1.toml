@@ -1,0 +1,8 @@
+medium-ids = [
+  "twice/candy-pop/prerelease/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twice/candy-pop"
+duration = "3:22"

@@ -16,7 +16,16 @@ names = [
 released-on = "2018-01-12"
 country = "JP"
 media = [{ kind = "digital" }]
+disambiguation = "Prerelease"
+urls = [
+  { url = "http://mora.jp/package/43000008/190295685249/" },
+]
+
+[[releases]]
+released-on = "2018-02-07"
+country = "JP"
+media = [{ kind = "digital" }]
 urls = [
   { url = "https://itunes.apple.com/jp/album/1333016985" },
-  { url = "http://mora.jp/package/43000008/190295685249/" },
+  { url = "http://mora.jp/package/43000008/190295685256/" },
 ]
