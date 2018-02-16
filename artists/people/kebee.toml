@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1983-05-29"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "키비", locale = "ko", kind = "stage", original = true },
+  { name = "Kebee", locale = "ko-Latn", kind = "stage", default = true },
+]
