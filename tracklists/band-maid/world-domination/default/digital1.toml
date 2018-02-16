@@ -1,0 +1,78 @@
+medium-ids = [
+  "band-maid/world-domination/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "band-maid/i-can-t-live-without-you"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "band-maid/play"
+duration = "3:19"
+
+[[tracks]]
+position = 3
+song-id = "band-maid/one-and-only"
+duration = "3:22"
+
+[[tracks]]
+position = 4
+song-id = "band-maid/domination"
+duration = "3:51"
+
+[[tracks]]
+position = 5
+song-id = "band-maid/fate"
+duration = "4:31"
+
+[[tracks]]
+position = 6
+song-id = "band-maid/spirit"
+duration = "3:41"
+
+[[tracks]]
+position = 7
+song-id = "band-maid/rock-in-me"
+duration = "3:21"
+
+[[tracks]]
+position = 8
+song-id = "band-maid/clang"
+duration = "4:10"
+
+[[tracks]]
+position = 9
+song-id = "band-maid/turn-me-on"
+duration = "4:15"
+
+[[tracks]]
+position = 10
+song-id = "band-maid/carry-on-living"
+duration = "3:32"
+
+[[tracks]]
+position = 11
+song-id = "band-maid/daydreaming"
+duration = "3:57"
+
+[[tracks]]
+position = 12
+song-id = "band-maid/anemone"
+duration = "4:22"
+
+[[tracks]]
+position = 13
+song-id = "band-maid/alive-or-dead"
+duration = "3:44"
+
+[[tracks]]
+position = 14
+song-id = "band-maid/dice"
+duration = "4:02"
+
+[[tracks]]
+position = 15
+song-id = "band-maid/honey"
+duration = "3:24"

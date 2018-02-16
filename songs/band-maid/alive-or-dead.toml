@@ -1,0 +1,3 @@
+names = [
+  { name = "Alive-or-Dead", locale = "ja", original = true, default = true },
+]
