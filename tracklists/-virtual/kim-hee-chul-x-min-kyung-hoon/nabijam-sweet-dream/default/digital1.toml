@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/kim-hee-chul-x-min-kyung-hoon/nabijam-sweet-dream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/kim-hee-chul-x-min-kyung-hoon/nabijam-sweet-dream"
+duration = "4:34"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/kim-hee-chul-x-min-kyung-hoon/nabijam-sweet-dream-inst"
+duration = "4:34"

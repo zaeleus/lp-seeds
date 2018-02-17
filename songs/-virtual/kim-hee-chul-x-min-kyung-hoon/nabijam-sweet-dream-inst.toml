@@ -1,0 +1,16 @@
+names = [
+  { name = "나비잠 (Sweet Dream) (Inst.)", locale = "ko", original = true },
+  { name = "Nabijam (Sweet Dream) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Sweet Dream (Inst.)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "super-junior/heechul"
+names = [
+  { name = "김희철", locale = "ko", original = true },
+  { name = "Kim Hee Chul", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "buzz/min-kyung-hoon"
