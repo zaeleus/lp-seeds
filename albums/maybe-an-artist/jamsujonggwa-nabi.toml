@@ -1,0 +1,16 @@
+artist-id = "maybe-an-artist"
+kind = "single"
+
+names = [
+  { name = "잠수종과 나비", locale = "ko", original = true },
+  { name = "Jamsujonggwa Nabi", locale = "ko-Latn", default = true },
+  { name = "The Diving Bell and the Butterfly", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-02-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10138231" },
+]

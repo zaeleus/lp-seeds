@@ -1,0 +1,12 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "어쩌면 아티스트", locale = "ko", kind = "stage", original = true },
+  { name = "Eojjeomyeon Atiseuteu", locale = "ko-Latn", kind = "stage" },
+  { name = "Maybe an Artist", locale = "en", kind = "stage", default = true },
+  { name = "이경미", locale = "ko", kind = "real" },
+  { name = "Lee Gyeong Mi", locale = "ko-Latn", kind = "real" },
+]
