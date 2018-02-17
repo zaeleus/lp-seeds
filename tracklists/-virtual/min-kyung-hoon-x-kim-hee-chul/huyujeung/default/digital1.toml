@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/min-kyung-hoon-x-kim-hee-chul/huyujeung/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/min-kyung-hoon-x-kim-hee-chul/huyujeung"
+duration = "4:10"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/min-kyung-hoon-x-kim-hee-chul/huyujeung-inst"
+duration = "4:10"

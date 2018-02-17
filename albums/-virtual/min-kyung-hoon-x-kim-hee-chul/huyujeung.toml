@@ -1,0 +1,27 @@
+artist-id = "-virtual/min-kyung-hoon-x-kim-hee-chul"
+kind = "single"
+
+names = [
+  { name = "후유증", locale = "ko", original = true },
+  { name = "Huyujeung", locale = "ko-Latn", default = true },
+  { name = "Falling Blossoms", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "buzz/min-kyung-hoon"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "super-junior/heechul"
+names = [
+  { name = "김희철", locale = "ko", original = true },
+  { name = "Kim Hee Chul", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-02-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10139924" },
+]

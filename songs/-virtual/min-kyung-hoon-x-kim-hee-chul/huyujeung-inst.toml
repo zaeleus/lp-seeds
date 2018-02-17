@@ -1,0 +1,16 @@
+names = [
+  { name = "후유증 (Inst.)", locale = "ko", original = true },
+  { name = "Huyujeung (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Falling Blossoms (Inst.)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "buzz/min-kyung-hoon"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "super-junior/heechul"
+names = [
+  { name = "김희철", locale = "ko", original = true },
+  { name = "Kim Hee Chul", locale = "ko-Latn", default = true },
+]
