@@ -1,0 +1,3 @@
+names = [
+  { name = "Cigarette (Feat. Tablo, MISO)", locale = "ko", original = true, default = true },
+]

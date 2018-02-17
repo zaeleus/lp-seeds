@@ -1,0 +1,5 @@
+names = [
+  { name = "춤", locale = "ko", original = true },
+  { name = "Chum", locale = "ko-Latn", default = true },
+  { name = "Dance", locale = "en" },
+]

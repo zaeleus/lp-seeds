@@ -1,0 +1,3 @@
+names = [
+  { name = "film roll", locale = "ko", original = true, default = true },
+]
