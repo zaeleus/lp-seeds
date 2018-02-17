@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/kang-ho-dong-x-hong-jin-young/bogeul-ballo-chabeoryeosseo-i-kicked-my-luck-off/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/kang-ho-dong-x-hong-jin-young/bogeul-ballo-chabeoryeosseo-i-kicked-my-luck-off"
+duration = "2:49"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/kang-ho-dong-x-hong-jin-young/bogeul-ballo-chabeoryeosseo-i-kicked-my-luck-off-inst"
+duration = "2:41"

@@ -1,0 +1,21 @@
+artist-id = "-virtual/kang-ho-dong-x-hong-jin-young"
+kind = "single"
+
+names = [
+  { name = "복을 발로 차버렸어 (I kicked my luck off)", locale = "ko", original = true },
+  { name = "Bogeul Ballo Chabeoryeosseo (I kicked my luck off)", locale = "ko-Latn", default = true },
+  { name = "I kicked my luck off", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "kang-ho-dong", separator = " X " },
+  { artist-id = "hong-jin-young" },
+]
+
+[[releases]]
+released-on = "2018-02-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10139672" },
+]

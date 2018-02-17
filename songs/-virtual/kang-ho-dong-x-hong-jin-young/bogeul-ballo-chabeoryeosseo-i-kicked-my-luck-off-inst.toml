@@ -1,0 +1,10 @@
+names = [
+  { name = "복을 발로 차버렸어 (I kicked my luck off) (Inst.)", locale = "ko", original = true },
+  { name = "Bogeul Ballo Chabeoryeosseo (I kicked my luck off) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "I kicked my luck off (Inst.)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "kang-ho-dong", separator = " X " },
+  { artist-id = "hong-jin-young" },
+]

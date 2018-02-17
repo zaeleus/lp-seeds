@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1970-06-11"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "강호동", locale = "ko", kind = "real", original = true },
+  { name = "Kang Ho Dong", locale = "ko-Latn", kind = "real", default = true },
+]
