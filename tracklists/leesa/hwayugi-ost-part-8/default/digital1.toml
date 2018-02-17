@@ -1,0 +1,13 @@
+medium-ids = [
+  "leesa/hwayugi-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leesa/always-you"
+duration = "2:55"
+
+[[tracks]]
+position = 2
+song-id = "leesa/always-you-inst"
+duration = "2:55"
