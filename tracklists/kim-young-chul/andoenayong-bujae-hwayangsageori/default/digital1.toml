@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-young-chul/andoenayong-bujae-hwayangsageori/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-young-chul/andoenayong-feat-wheesung-realslow"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "kim-young-chul/andoenayong-inst"
+duration = "3:11"

@@ -1,0 +1,4 @@
+names = [
+  { name = "안되나용 (Feat. 휘성 (Realslow))", locale = "ko", original = true },
+  { name = "Andoenayong (Feat. Wheesung (Realslow))", locale = "ko-Latn", default = true },
+]
