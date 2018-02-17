@@ -1,0 +1,4 @@
+names = [
+  { name = "나 참 거만했었어 (With 임소정)", locale = "ko", original = true },
+  { name = "Na Cham Geomanhaesseosseo (With Im So Jeong)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "깊어지려나 보다 (With 이민혁)", locale = "ko", original = true },
+  { name = "Gipeojiryeona Boda (With Lee Min Hyuk)", locale = "ko-Latn", default = true },
+]

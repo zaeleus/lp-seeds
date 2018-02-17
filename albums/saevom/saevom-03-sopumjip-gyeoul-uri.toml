@@ -1,0 +1,16 @@
+artist-id = "saevom"
+kind = "ep"
+
+names = [
+  { name = "새봄, 03 소품집 '겨울 우리'", locale = "ko", original = true },
+  { name = 'saevom, 03 Sopumjip "Gyeoul Uri"', locale = "ko-Latn", default = true },
+  { name = 'saevom, 03 Sketchbook "Winter"', locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-02-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10135986" },
+]

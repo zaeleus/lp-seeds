@@ -1,0 +1,33 @@
+medium-ids = [
+  "saevom/saevom-03-sopumjip-gyeoul-uri/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saevom/gipeojiryeona-boda-with-lee-min-hyuk"
+duration = "4:55"
+
+[[tracks]]
+position = 2
+song-id = "saevom/gyeoul-uri-with-flour-deer"
+duration = "4:21"
+
+[[tracks]]
+position = 3
+song-id = "saevom/neoro-jiteun-bam-with-han-all"
+duration = "3:50"
+
+[[tracks]]
+position = 4
+song-id = "saevom/na-cham-geomanhaesseosseo-with-im-so-jeong"
+duration = "3:40"
+
+[[tracks]]
+position = 5
+song-id = "saevom/oji-aneul-neoege-with-gyung-mo-of-slou-d"
+duration = "3:50"
+
+[[tracks]]
+position = 6
+song-id = "saevom/oji-aneul-neoege-with-joo-ye-in"
+duration = "3:41"
