@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "하이파이브", locale = "ko", original = true },
+  { name = "Haipaibeu", locale = "ko-Latn" },
+  { name = "High Five", locale = "en", default = true },
+]

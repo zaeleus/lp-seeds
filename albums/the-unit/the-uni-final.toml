@@ -1,0 +1,14 @@
+artist-id = "the-unit"
+kind = "single"
+
+names = [
+  { name = "THE UNI+ FINAL", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-02-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10138438" },
+]

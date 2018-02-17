@@ -1,0 +1,9 @@
+names = [
+  { name = "You&I (내가 하고싶은 말은)", locale = "ko", original = true },
+  { name = "You&I (Naega Hagosipeun Mareun)", locale = "ko-Latn", default = true },
+  { name = "You&I", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "nihago-naehago" },
+]

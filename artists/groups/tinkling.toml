@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "팅클링", locale = "ko", original = true },
+  { name = "Tingkeulling", locale = "ko-Latn" },
+  { name = "Tinkling", locale = "en", default = true },
+]

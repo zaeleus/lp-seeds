@@ -1,0 +1,9 @@
+names = [
+  { name = "끌어줘", locale = "ko", original = true },
+  { name = "Kkeureojwo", locale = "ko-Latn", default = true },
+  { name = "Pull Me", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "high-five" },
+]

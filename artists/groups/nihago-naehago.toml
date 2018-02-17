@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "니하고내하고", locale = "ko", original = true },
+  { name = "Nihago Naehago", locale = "ko-Latn" },
+  { name = "You and Me", locale = "en", default = true },
+]

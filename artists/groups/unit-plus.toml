@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+
+names = [
+  { name = "유닛플러스", locale = "ko", original = true },
+  { name = "Yunitpeulleoseu", locale = "ko-Latn" },
+  { name = "Unit Plus", locale = "en", default = true },
+]
