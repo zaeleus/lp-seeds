@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-bo-ram/aesseuji-mayo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-bo-ram/aesseuji-mayo"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "park-bo-ram/aesseuji-mayo-inst"
+duration = "3:47"

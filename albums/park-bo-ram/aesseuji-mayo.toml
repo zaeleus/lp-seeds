@@ -1,0 +1,16 @@
+artist-id = "park-bo-ram"
+kind = "single"
+
+names = [
+  { name = "애쓰지 마요", locale = "ko", original = true },
+  { name = "Aesseuji Mayo", locale = "ko-Latn", default = true },
+  { name = "Will Be Fine", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-02-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10138304" },
+]
