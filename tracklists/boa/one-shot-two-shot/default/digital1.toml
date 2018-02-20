@@ -1,0 +1,38 @@
+medium-ids = [
+  "boa/one-shot-two-shot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boa/one-shot-two-shot"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "boa/everybody-knows"
+duration = "3:36"
+
+[[tracks]]
+position = 3
+song-id = "boa/nega-dola"
+duration = "2:56"
+
+[[tracks]]
+position = 4
+song-id = "boa/your-song-feat-junoflo"
+duration = "3:32"
+
+[[tracks]]
+position = 5
+song-id = "boa/recollection"
+duration = "3:38"
+
+[[tracks]]
+position = 6
+song-id = "boa/always-all-ways-feat-chancellor"
+duration = "3:42"
+
+[[tracks]]
+position = 7
+song-id = "boa/camo"
+duration = "3:19"
