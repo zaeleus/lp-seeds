@@ -1,0 +1,4 @@
+names = [
+  { name = "Saying (Duet. 이안킴)", locale = "ko", original = true },
+  { name = "Saying (Duet. Ian Kim)", locale = "ko-Latn", default = true },
+]
