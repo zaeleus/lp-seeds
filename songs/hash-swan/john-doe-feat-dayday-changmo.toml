@@ -1,0 +1,3 @@
+names = [
+  { name = "John Doe (Feat. Dayday, CHANGMO)", locale = "ko", original = true, default = true },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "알렉산더처럼 왕 (Feat. GRAY)", locale = "ko", original = true },
+  { name = "Alexander Cheoreom Wang (Feat. GRAY)", locale = "ko-Latn", default = true },
+  { name = "Wang Like Alexande (Feat. GRAY)", locale = "en" },
+]

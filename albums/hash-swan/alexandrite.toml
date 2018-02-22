@@ -1,0 +1,14 @@
+artist-id = "hash-swan"
+kind = "ep"
+
+names = [
+  { name = "Alexandrite", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-02-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10141262" },
+]
