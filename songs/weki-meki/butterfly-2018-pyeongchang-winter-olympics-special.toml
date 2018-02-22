@@ -1,0 +1,3 @@
+names = [
+  { name = "Butterfly (2018 PyeongChang Winter Olympics Special)", locale = "ko", original = true, default = true },
+]

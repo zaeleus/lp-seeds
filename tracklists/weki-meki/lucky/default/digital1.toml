@@ -1,0 +1,33 @@
+medium-ids = [
+  "weki-meki/lucky/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weki-meki/lucky"
+duration = "1:12"
+
+[[tracks]]
+position = 2
+song-id = "weki-meki/la-la-la"
+duration = "2:50"
+
+[[tracks]]
+position = 3
+song-id = "weki-meki/iron-boy"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "weki-meki/metronome"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song-id = "weki-meki/color-me"
+duration = "3:40"
+
+[[tracks]]
+position = 6
+song-id = "weki-meki/butterfly-2018-pyeongchang-winter-olympics-special"
+duration = "3:47"
