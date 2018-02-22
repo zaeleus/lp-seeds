@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "브로맨스", locale = "ko", original = true },
+  { name = "VROMANCE", locale = "en", default = true },
+]

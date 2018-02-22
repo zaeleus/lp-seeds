@@ -1,0 +1,13 @@
+medium-ids = [
+  "vromance/byeol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vromance/byeol"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "vromance/byeol-inst"
+duration = "3:34"
