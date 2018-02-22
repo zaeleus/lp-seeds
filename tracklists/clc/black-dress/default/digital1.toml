@@ -1,0 +1,28 @@
+medium-ids = [
+  "clc/black-dress/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "clc/black-dress"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "clc/like-that"
+duration = "2:59"
+
+[[tracks]]
+position = 3
+song-id = "clc/seon"
+duration = "3:07"
+
+[[tracks]]
+position = 4
+song-id = "clc/to-the-sky"
+duration = "3:05"
+
+[[tracks]]
+position = 5
+song-id = "clc/ilgop-beonjjae"
+duration = "4:11"
