@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheeze/short-film-sequence-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheeze/geojinmalcheoreom"
+duration = "4:17"
+
+[[tracks]]
+position = 2
+song-id = "cheeze/geojinmalcheoreom-eng-ver"
+duration = "4:17"
