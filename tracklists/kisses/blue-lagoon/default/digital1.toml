@@ -1,0 +1,13 @@
+medium-ids = [
+  "kisses/blue-lagoon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kisses/blue-lagoon"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "kisses/blue-lagoon-inst"
+duration = "3:37"
