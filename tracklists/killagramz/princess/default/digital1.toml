@@ -1,0 +1,23 @@
+medium-ids = [
+  "killagramz/princess/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "killagramz/up-all-night-dream-on-feat-muzie"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "killagramz/geoura-feat-lako"
+duration = "4:09"
+
+[[tracks]]
+position = 3
+song-id = "killagramz/jaemieopseo"
+duration = "2:49"
+
+[[tracks]]
+position = 4
+song-id = "killagramz/chagawo-feat-muzie-incredible-debby"
+duration = "4:31"

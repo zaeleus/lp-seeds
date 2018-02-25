@@ -1,0 +1,4 @@
+names = [
+  { name = "차가워 (Feat. 뮤지, 인크레더블, 데비)", locale = "ko", original = true },
+  { name = "Chagawo (Feat. Muzie, Incredible, Debby)", locale = "ko-Latn", default = true },
+]

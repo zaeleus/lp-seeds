@@ -1,0 +1,4 @@
+names = [
+  { name = "Up All Night (Dream on) (Feat. 뮤지)", locale = "ko", original = true },
+  { name = "Up All Night (Dream on) (Feat. Muzie)", locale = "ko-Latn", default = true },
+]
