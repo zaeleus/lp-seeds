@@ -4,4 +4,5 @@ country = "KR"
 
 names = [
   { name = "THE UNI+", locale = "ko", original = true, default = true },
+  { name = "THE UNIT", locale = "en" },
 ]
