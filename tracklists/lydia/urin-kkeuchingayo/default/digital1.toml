@@ -1,0 +1,13 @@
+medium-ids = [
+  "lydia/urin-kkeuchingayo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lydia/urin-kkeuchingayo"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "lydia/urin-kkeuchingayo-inst"
+duration = "4:05"
