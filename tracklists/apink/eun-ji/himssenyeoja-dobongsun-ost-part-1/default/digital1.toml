@@ -1,0 +1,13 @@
+medium-ids = [
+  "apink/eun-ji/himssenyeoja-dobongsun-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink/eun-ji/geudaeran-jeongwon"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "apink/eun-ji/geudaeran-jeongwon-inst"
+duration = "4:03"

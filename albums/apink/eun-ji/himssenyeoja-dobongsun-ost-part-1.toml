@@ -1,0 +1,23 @@
+artist-id = "apink/eun-ji"
+kind = "single"
+
+names = [
+  { name = "힘쎈여자 도봉순 OST Part.1", locale = "ko", original = true },
+  { name = "Himssenyeoja Do Bong Soon OST Part.1", locale = "ko-Latn", default = true },
+  { name = "Strong Girl Bong Soon OST Part.1", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-02-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10041754" },
+]

@@ -1,0 +1,11 @@
+names = [
+  { name = "그대란 정원 (Inst.)", locale = "ko", original = true },
+  { name = "Geudaeran Jeongwon (Inst.)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
