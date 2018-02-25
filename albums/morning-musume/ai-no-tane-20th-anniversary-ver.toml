@@ -2,7 +2,7 @@ artist-id = "morning-musume"
 kind = "single"
 
 names = [
-  { name = "愛の種(20th Anniversary Ver.)", locale = "ja", original = true },
+  { name = "愛の種 (20th Anniversary Ver.)", locale = "ja", original = true },
   { name = "Ai no Tane (20th Anniversary Ver.)", locale = "ja-Latn", default = true },
 ]
 
