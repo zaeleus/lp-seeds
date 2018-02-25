@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "2002-02-21"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "민티", locale = "ko", kind = "stage", original = true },
+  { name = "Minty", locale = "ko-Latn", kind = "stage", default = true },
+]

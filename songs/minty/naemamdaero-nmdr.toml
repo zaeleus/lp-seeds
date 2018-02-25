@@ -1,0 +1,8 @@
+names = [
+  { name = "내맘대로 (NMDR)", locale = "ko", original = true },
+  { name = "Naemamdaero (NMDR)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=2gcIkWlANCw", name = "Music Video" },
+]

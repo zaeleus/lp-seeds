@@ -1,0 +1,18 @@
+medium-ids = [
+  "minty/you-do/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minty/you-do"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "minty/naemamdaero-nmdr"
+duration = "2:24"
+
+[[tracks]]
+position = 3
+song-id = "minty/you-do-inst"
+duration = "3:12"
