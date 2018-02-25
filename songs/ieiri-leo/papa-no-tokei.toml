@@ -1,0 +1,4 @@
+names = [
+  { name = "パパの時計", locale = "ja", original = true },
+  { name = "Papa no Tokei", locale = "ja-Latn", default = true },
+]
