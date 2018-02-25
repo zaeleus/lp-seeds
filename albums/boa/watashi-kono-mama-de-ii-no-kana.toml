@@ -1,0 +1,16 @@
+artist-id = "boa"
+kind = "lp"
+
+names = [
+  { name = "私このままでいいのかな", locale = "ja", original = true },
+  { name = "Watashi Kono Mama de Ii no Kana", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-02-14"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1339134628" },
+  { url = "http://mora.jp/package/43000002/AVCK-79407/" },
+]

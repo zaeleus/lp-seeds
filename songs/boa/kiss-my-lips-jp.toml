@@ -1,0 +1,9 @@
+names = [
+  { name = "Kiss My Lips", locale = "ja", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "boa"
+names = [
+  { name = "BoA", locale = "ja", original = true, default = true },
+]
