@@ -1,0 +1,11 @@
+names = [
+  { name = "WE ARE LEADERS! ～リーダーってのもつらいもの～", locale = "ja", original = true },
+  { name = "WE ARE LEADERS! ~Leader tte no mo Tsurai Mono~", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "ーニング娘。リーダーズ", locale = "ja", original = true },
+  { name = "Morning Musume Leaders", locale = "en", default = true },
+]

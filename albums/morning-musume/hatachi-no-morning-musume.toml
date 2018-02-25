@@ -1,0 +1,24 @@
+artist-id = "morning-musume"
+kind = "ep"
+
+names = [
+  { name = "二十歳のモーニング娘。", locale = "ja", original = true },
+  { name = "Hatachi no Morning Musume", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。20th", locale = "ja", original = true },
+  { name = "Morning Musume 20th", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-02-07"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1339091887" },
+  { url = "http://mora.jp/package/43000030/EPCE-7389-HR/" },
+  { url = "http://mora.jp/package/43000030/EPCE-7389/" },
+]

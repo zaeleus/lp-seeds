@@ -1,0 +1,11 @@
+names = [
+  { name = "お天気の日のお祭り", locale = "ja", original = true },
+  { name = "Otenki no Hi no Omatsuri", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '18", locale = "ja", original = true },
+  { name = "Morning Musume '18", locale = "ja-Latn", default = true },
+]

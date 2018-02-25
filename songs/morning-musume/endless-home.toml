@@ -1,0 +1,9 @@
+names = [
+  { name = "ENDLESS HOME", locale = "ja", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "morning-musume/abe-natsumi", separator = " feat. " },
+  { artist-id = "morning-musume/fukumura-mizuki", separator = ", " },
+  { artist-id = "morning-musume/oda-sakura" },
+]

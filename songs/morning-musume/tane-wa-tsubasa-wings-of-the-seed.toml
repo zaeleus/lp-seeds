@@ -1,0 +1,12 @@
+names = [
+  { name = "タネはツバサ(Wings of the Seed)", locale = "ja", original = true },
+  { name = "Tane wa Tsubasa (Wings of the Seed)", locale = "ja-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "morning-musume/nakazawa-yuko", separator = ", " },
+  { artist-id = "morning-musume/ishiguro-aya", separator = ", " },
+  { artist-id = "morning-musume/iida-kaori", separator = ", " },
+  { artist-id = "morning-musume/abe-natsumi", separator = ", " },
+  { artist-id = "morning-musume/fukuda-asuka" }
+]

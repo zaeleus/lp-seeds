@@ -1,6 +1,6 @@
 names = [
-  { name = "愛の種 (20th Anniversary Ver.)", locale = "ja", original = true },
-  { name = "Ai no Tane (20th Anniversary Ver.)", locale = "ja-Latn", default = true },
+  { name = "モーニングコーヒー (20th Anniversary Ver.)", locale = "ja", original = true },
+  { name = "Morning Coffee (20th Anniversary Ver.)", locale = "en", default = true },
 ]
 
 [[artist-credits]]
