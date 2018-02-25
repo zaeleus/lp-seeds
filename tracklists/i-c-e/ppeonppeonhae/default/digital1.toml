@@ -1,0 +1,13 @@
+medium-ids = [
+  "i-c-e/ppeonppeonhae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "i-c-e/ppeonppeonhae"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "i-c-e/ppeonppeonhae-inst"
+duration = "3:21"
