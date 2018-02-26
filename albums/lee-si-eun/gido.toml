@@ -1,0 +1,15 @@
+artist-id = "lee-si-eun"
+kind = "single"
+
+names = [
+  { name = "기도", locale = "ko", original = true },
+  { name = "Gido", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-02-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10142143" },
+]
