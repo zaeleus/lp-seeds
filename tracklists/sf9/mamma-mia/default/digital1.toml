@@ -1,0 +1,33 @@
+medium-ids = [
+  "sf9/mamma-mia/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sf9/mamma-mia"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "sf9/never-say-goodbye"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "sf9/siganeul-geokkuro"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "sf9/be-my-baby"
+duration = "3:41"
+
+[[tracks]]
+position = 5
+song-id = "sf9/midnight-road"
+duration = "4:03"
+
+[[tracks]]
+position = 6
+song-id = "sf9/dear-fantasy"
+duration = "3:43"
