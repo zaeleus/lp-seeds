@@ -1,0 +1,13 @@
+medium-ids = [
+  "woo-eun-mi/nunmuri-nawaseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-eun-mi/nunmuri-nawaseo"
+duration = "4:04"
+
+[[tracks]]
+position = 2
+song-id = "woo-eun-mi/nunmuri-nawaseo-inst"
+duration = "4:04"

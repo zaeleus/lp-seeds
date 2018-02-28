@@ -1,0 +1,15 @@
+artist-id = "woo-eun-mi"
+kind = "single"
+
+names = [
+  { name = "눈물이 나와서", locale = "ko", original = true },
+  { name = "Nunmuri Nawaseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-02-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10142956" },
+]
