@@ -1,0 +1,5 @@
+names = [
+  { name = "꿈꾸는 마음으로 (Chinese Ver.)", locale = "ko", original = true },
+  { name = "Kkumkkuneun Maeumeuro (Chinese Ver.)", locale = "ko-Latn", default = true },
+  { name = "Dreams Come True (Chinese Ver.)", locale = "en" },
+]

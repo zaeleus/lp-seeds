@@ -1,0 +1,33 @@
+medium-ids = [
+  "cosmic-girls/dream-your-dream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cosmic-girls/kkumkkuneun-maeumeuro"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "cosmic-girls/hodukkagi-inhyeong"
+duration = "3:13"
+
+[[tracks]]
+position = 3
+song-id = "cosmic-girls/renaissance"
+duration = "3:41"
+
+[[tracks]]
+position = 4
+song-id = "cosmic-girls/seolleneun-bam"
+duration = "3:16"
+
+[[tracks]]
+position = 5
+song-id = "cosmic-girls/gyeouljam"
+duration = "3:29"
+
+[[tracks]]
+position = 6
+song-id = "cosmic-girls/kkumkkuneun-maeumeuro-chinese-ver"
+duration = "3:45"
