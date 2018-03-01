@@ -1,0 +1,5 @@
+names = [
+  { name = "너 하나만 (Feat. 효린)", locale = "ko", original = true },
+  { name = "Neo Hanaman (Feat. Hyolyn)", locale = "ko-Latn", default = true },
+  { name = "One And Only You (Feat. Hyolyn)", locale = "en" },
+]
