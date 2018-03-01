@@ -1,0 +1,11 @@
+names = [
+  { name = "서로의 눈물이 되어 (Inst.)", locale = "ko", original = true },
+  { name = "Seoroui Nunmuri Doeeo (Inst.)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "sistar/hyo-rin"
+names = [
+  { name = "효린", locale = "ko", original = true },
+  { name = "Hyolyn", locale = "ko-Latn", default = true },
+]

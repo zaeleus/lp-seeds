@@ -1,0 +1,13 @@
+medium-ids = [
+  "sistar/hyo-rin/hwarang-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sistar/hyo-rin/seoroui-nunmuri-doeeo"
+duration = "4:23"
+
+[[tracks]]
+position = 2
+song-id = "sistar/hyo-rin/seoroui-nunmuri-doeeo-inst"
+duration = "4:23"
