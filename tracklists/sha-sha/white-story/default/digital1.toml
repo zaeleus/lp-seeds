@@ -1,0 +1,13 @@
+medium-ids = [
+  "sha-sha/white-story/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sha-sha/white-story"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "sha-sha/white-story-inst"
+duration = "4:02"
