@@ -1,4 +1,4 @@
 names = [
-  { name = "BLURRED LINES (Feat. 한해)", locale = "ko", original = true },
-  { name = "BLURRED LINES (Feat. Hanhae)", locale = "ko-Latn", default = true },
+  { name = "Blurred Lines (Feat. 한해)", locale = "ko", original = true },
+  { name = "Blurred Lines (Feat. Hanhae)", locale = "ko-Latn", default = true },
 ]

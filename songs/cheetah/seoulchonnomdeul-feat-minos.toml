@@ -1,0 +1,5 @@
+names = [
+  { name = "서울촌놈들 (Feat. 마이노스)", locale = "ko", original = true },
+  { name = "Seoulchonnomdeul (Feat. Minos)", locale = "ko-Latn", default = true },
+  { name = "Bumpkins (Feat. Minos)", locale = "en" },
+]
