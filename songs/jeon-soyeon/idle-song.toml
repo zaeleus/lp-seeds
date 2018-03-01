@@ -1,0 +1,5 @@
+names = [
+  { name = "아이들 쏭 (Idle song)", locale = "ko", original = true },
+  { name = "Aideul Ssong (Idle song)", locale = "ko-Latn" },
+  { name = "Idle song", locale = "en", default = true },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "jeon-soyeon/idle-song/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jeon-soyeon/idle-song"
+duration = "3:08"

@@ -1,0 +1,16 @@
+artist-id = "jeon-soyeon"
+kind = "single"
+
+names = [
+  { name = "아이들 쏭", locale = "ko", original = true },
+  { name = "Aideul Ssong", locale = "ko-Latn" },
+  { name = "Idle song", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-02-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10143163" },
+]
