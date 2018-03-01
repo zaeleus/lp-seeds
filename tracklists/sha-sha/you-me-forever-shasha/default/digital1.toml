@@ -1,0 +1,23 @@
+medium-ids = [
+  "sha-sha/you-me-forever-shasha/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sha-sha/neowana"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "sha-sha/sha-sha"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "sha-sha/neowana-inst"
+duration = "3:07"
+
+[[tracks]]
+position = 4
+song-id = "sha-sha/sha-sha-inst"
+duration = "3:20"
