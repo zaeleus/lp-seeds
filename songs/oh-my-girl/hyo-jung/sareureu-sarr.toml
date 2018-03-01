@@ -1,0 +1,4 @@
+names = [
+  { name = "사르르 (SARR)", locale = "ko", original = true },
+  { name = "Sareureu (SARR)", locale = "ko-Latn", default = true },
+]

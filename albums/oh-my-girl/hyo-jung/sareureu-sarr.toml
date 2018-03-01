@@ -1,0 +1,15 @@
+artist-id = "oh-my-girl/hyo-jung"
+kind = "single"
+
+names = [
+  { name = "사르르 (SARR)", locale = "ko", original = true },
+  { name = "Sareureu (SARR)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-03-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10143128" },
+]
