@@ -1,0 +1,3 @@
+names = [
+  { name = "RUSH -Seiho Remix", locale = "ja", original = true, default = true },
+]

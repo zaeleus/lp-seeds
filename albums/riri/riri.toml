@@ -1,0 +1,16 @@
+artist-id = "riri"
+kind = "lp"
+
+names = [
+  { name = "RIRI", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-02-14"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1313680374" },
+  { url = "http://mora.jp/package/43000001/4547366341300/" },
+  { url = "http://mora.jp/package/43000001/4547366350197/" },
+]

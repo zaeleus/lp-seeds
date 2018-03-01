@@ -1,0 +1,3 @@
+names = [
+  { name = "RUSH (2018 remastered)", locale = "ja", original = true, default = true },
+]

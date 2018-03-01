@@ -1,0 +1,3 @@
+names = [
+  { name = "Promised Road", locale = "ja", original = true, default = true },
+]
