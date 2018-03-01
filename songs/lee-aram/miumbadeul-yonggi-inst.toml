@@ -1,0 +1,4 @@
+names = [
+  { name = "미움받을 용기 (Inst.)", locale = "ko", original = true },
+  { name = "Miumbadeul Yonggi (Inst.)", locale = "ko-Latn", default = true },
+]
