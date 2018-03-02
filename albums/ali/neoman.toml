@@ -1,0 +1,16 @@
+artist-id = "ali"
+kind = "single"
+
+names = [
+  { name = "너만", locale = "ko", original = true },
+  { name = "Neoman", locale = "ko-Latn", default = true },
+  { name = "Only You", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10143700" },
+]
