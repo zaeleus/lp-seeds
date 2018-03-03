@@ -1,0 +1,8 @@
+medium-ids = [
+  "honeyst/hanimman-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "honeyst/1-do-gieogi-an-na"
+duration = "3:08"
