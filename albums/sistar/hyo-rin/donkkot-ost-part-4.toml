@@ -1,0 +1,23 @@
+artist-id = "sistar/hyo-rin"
+kind = "single"
+
+names = [
+  { name = "돈꽃 OST Part.4", locale = "ko", original = true },
+  { name = "Donkkot OST Part.4", locale = "ko-Latn", default = true },
+  { name = "Money Flower OST Part.4", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "sistar/hyo-rin"
+names = [
+  { name = "효린", locale = "ko", original = true },
+  { name = "Hyolyn", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-01-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10128674" },
+]
