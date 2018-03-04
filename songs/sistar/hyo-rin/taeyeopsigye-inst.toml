@@ -1,0 +1,11 @@
+names = [
+  { name = "태엽시계 (Inst.)", locale = "ko", original = true },
+  { name = "Taeyeopsigye (Inst.)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "sistar/hyo-rin"
+names = [
+  { name = "효린", locale = "ko", original = true },
+  { name = "Hyolyn", locale = "ko-Latn", default = true },
+]

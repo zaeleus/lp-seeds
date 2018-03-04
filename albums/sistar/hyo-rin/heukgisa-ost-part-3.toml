@@ -1,0 +1,23 @@
+artist-id = "sistar/hyo-rin"
+kind = "single"
+
+names = [
+  { name = "흑기사 OST Part.3", locale = "ko", original = true },
+  { name = "Heukgisa OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Black Knight: The Man Who Guards Me OST Part.3", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "sistar/hyo-rin"
+names = [
+  { name = "효린", locale = "ko", original = true },
+  { name = "Hyolyn", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-12-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10121288" },
+]
