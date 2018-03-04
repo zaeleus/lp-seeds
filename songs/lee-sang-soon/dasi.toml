@@ -1,0 +1,9 @@
+names = [
+  { name = "다시", locale = "ko", original = true },
+  { name = "Dasi", locale = "ko-Latn", default = true },
+  { name = "Again", locale = "en" },
+]
+
+url = [
+  { url = "https://www.youtube.com/watch?v=lXvPaWvaoO4", name = "Music Video" },
+]
