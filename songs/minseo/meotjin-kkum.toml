@@ -1,0 +1,9 @@
+names = [
+  { name = "멋진 꿈", locale = "ko", original = true },
+  { name = "Meotjin Kkum", locale = "ko-Latn", default = true },
+  { name = "The Grand Dreams", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=pyKbj8j2qss", name = "Music Video" },
+]

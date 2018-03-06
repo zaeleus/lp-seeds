@@ -1,0 +1,5 @@
+names = [
+  { name = "멋진 꿈 (Acoustic Ver.)", locale = "ko", original = true },
+  { name = "Meotjin Kkum (Acoustic Ver.)", locale = "ko-Latn", default = true },
+  { name = "The Grand Dreams (Acoustic Ver.)", locale = "en" },
+]

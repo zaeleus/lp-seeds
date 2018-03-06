@@ -1,0 +1,16 @@
+artist-id = "minseo"
+kind = "single"
+
+names = [
+  { name = "멋진 꿈", locale = "ko", original = true },
+  { name = "Meotjin Kkum", locale = "ko-Latn", default = true },
+  { name = "The Grand Dreams", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10144940" },
+]
