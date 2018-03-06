@@ -1,0 +1,6 @@
+names = [
+  { name = "약속해요 (I.P.U.)", locale = "ko", original = true },
+  { name = "Yaksokhaeyo (I.P.U.)", locale = "ko-Latn", default = true },
+  { name = "I.P.U.", locale = "en" },
+  { name = "I Promise You", locale = "en" },
+]

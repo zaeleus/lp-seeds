@@ -1,0 +1,17 @@
+artist-id = "wanna-one"
+kind = "single"
+
+names = [
+  { name = "약속해요 (I.P.U.)", locale = "ko", original = true },
+  { name = "Yaksokhaeyo (I.P.U.)", locale = "ko-Latn", default = true },
+  { name = "I.P.U.", locale = "en" },
+  { name = "I Promise You", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10144723" },
+]
