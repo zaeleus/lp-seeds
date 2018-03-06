@@ -1,0 +1,23 @@
+artist-id = "april/jin-sol"
+kind = "single"
+
+names = [
+  { name = '"키스 먼저 할까요?" OST Part.2', locale = "ko", original = true },
+  { name = '"Kiss Meonjeo Halkkayo?" OST Part.2', locale = "ko-Latn", default = true },
+  { name = '"Should We Kiss First?" OST Part.2', locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "april/jin-sol"
+names = [
+  { name = "이진솔 (에이프릴)", locale = "ko", original = true },
+  { name = "Lee Jin Sol (APRIL)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-03-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10145027" },
+]

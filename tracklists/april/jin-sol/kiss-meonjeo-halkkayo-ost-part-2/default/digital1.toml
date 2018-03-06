@@ -1,0 +1,13 @@
+medium-ids = [
+  "april/jin-sol/kiss-meonjeo-halkkayo-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "april/jin-sol/perfect"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "april/jin-sol/perfect-inst"
+duration = "3:26"

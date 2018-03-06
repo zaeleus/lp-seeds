@@ -1,0 +1,10 @@
+names = [
+  { name = "PERFECT", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "april/jin-sol"
+names = [
+  { name = "이진솔 (에이프릴)", locale = "ko", original = true },
+  { name = "Lee Jin Sol (APRIL)", locale = "ko-Latn", default = true },
+]
