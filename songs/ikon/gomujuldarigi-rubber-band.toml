@@ -1,0 +1,5 @@
+names = [
+  { name = "고무줄다리기 (Rubber Band)", locale = "ko", original = true },
+  { name = "Gomujuldarigi (Rubber Band)", locale = "ko-Latn", default = true },
+  { name = "Rubber Band", locale = "en" },
+]
