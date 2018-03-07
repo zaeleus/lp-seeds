@@ -3,3 +3,7 @@ names = [
   { name = "Chilhaejwo", locale = "ko-Latn", default = true },
   { name = "Paint Me", locale = "en" },
 ]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=S10azlzvS_8", name = "Music Video" },
+]

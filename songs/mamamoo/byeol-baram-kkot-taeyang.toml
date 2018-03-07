@@ -1,0 +1,9 @@
+names = [
+  { name = "별 바람 꽃 태양", locale = "ko", original = true },
+  { name = "Byeol Baram Kkot Taeyang", locale = "ko-Latn", default = true },
+  { name = "Star Wind Flower Sun", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=kLeBQWw11yw", name = "Music Video" },
+]

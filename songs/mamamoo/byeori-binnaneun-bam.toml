@@ -1,0 +1,9 @@
+names = [
+  { name = "별이 빛나는 밤", locale = "ko", original = true },
+  { name = "Byeori Binnaneun Bam", locale = "ko-Latn", default = true },
+  { name = "Starry Night", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=0FB2EoKTK_Q", name = "Music Video" },
+]
