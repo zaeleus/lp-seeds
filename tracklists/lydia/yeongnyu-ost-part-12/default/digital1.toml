@@ -1,0 +1,13 @@
+medium-ids = [
+  "lydia/yeongnyu-ost-part-12/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lydia/anigil-jeongmal-baraesseonneunde"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "lydia/anigil-jeongmal-baraesseonneunde-inst"
+duration = "3:29"
