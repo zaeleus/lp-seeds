@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "모노그램", locale = "ko", original = true },
+  { name = "monogram", locale = "en", default = true },
+]
