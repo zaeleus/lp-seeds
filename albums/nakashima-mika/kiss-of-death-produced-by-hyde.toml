@@ -1,0 +1,16 @@
+artist-id = "nakashima-mika"
+kind = "single"
+
+names = [
+  { name = "KISS OF DEATH (Produced by HYDE)", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-03-07"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1351567445" },
+  { url = "http://mora.jp/package/43000001/4547366353556/" },
+  { url = "http://mora.jp/package/43000001/4547366353587/" },
+]

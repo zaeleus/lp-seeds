@@ -1,0 +1,3 @@
+names = [
+  { name = "KISS OF DEATH (Produced by HYDE)", locale = "ja", original = true, default = true },
+]

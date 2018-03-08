@@ -1,0 +1,9 @@
+names = [
+  { name = "GLAMOROUS SKY (Re：Present 2018)", locale = "ja", original = true },
+  { name = "GLAMOROUS SKY (Re: Present 2018)", locale = "en", default = true },
+]
+[[artist-credits]]
+artist-id = "nakashima-mika"
+names = [
+  { name = "NANA starring MIKA NAKASHIMA", locale = "ja", original = true, default = true },
+]
