@@ -1,0 +1,33 @@
+medium-ids = [
+  "heize/baram/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heize/jenga-feat-gaeko"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "heize/gwaenchannyago"
+duration = "3:51"
+
+[[tracks]]
+position = 3
+song-id = "heize/naega-deo-nappa"
+duration = "3:58"
+
+[[tracks]]
+position = 4
+song-id = "heize/jal-salgil-barae-with-davii"
+duration = "3:28"
+
+[[tracks]]
+position = 5
+song-id = "heize/baram"
+duration = "1:33"
+
+[[tracks]]
+position = 6
+song-id = "heize/mianhae"
+duration = "3:37"

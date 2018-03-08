@@ -1,0 +1,16 @@
+artist-id = "heize"
+kind = "ep"
+
+names = [
+  { name = "바람", locale = "ko", original = true },
+  { name = "Baram", locale = "ko-Latn", default = true },
+  { name = "Wind", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10145963" },
+]
