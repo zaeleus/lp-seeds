@@ -1,0 +1,13 @@
+medium-ids = [
+  "lovelyz/kim-ji-yeon/churiui-yeowang-season-2-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lovelyz/kim-ji-yeon/yojeum-neo-yojeum-na"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "lovelyz/kim-ji-yeon/yojeum-neo-yojeum-na-inst"
+duration = "3:39"
