@@ -1,0 +1,5 @@
+names = [
+  { name = "잘자 내 몫까지 (With 이루마)", locale = "ko", original = true },
+  { name = "Jalja Nae Mokkkaji (With Yiruma)", locale = "ko-Latn", default = true },
+  { name = "Midnight (With Yiruma)", locale = "en" },
+]

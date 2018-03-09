@@ -1,0 +1,16 @@
+artist-id = "miss-a/suzy"
+kind = "single"
+
+names = [
+  { name = "잘자 내 몫까지 (With 이루마)", locale = "ko", original = true },
+  { name = "Jalja Nae Mokkkaji (With Yiruma)", locale = "ko-Latn", default = true },
+  { name = "Midnight (With Yiruma)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10146346" },
+]
