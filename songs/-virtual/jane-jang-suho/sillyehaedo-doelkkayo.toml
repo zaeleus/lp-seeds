@@ -1,0 +1,21 @@
+names = [
+  { name = "실례해도 될까요", locale = "ko", original = true },
+  { name = "Sillyehaedo Doelkkayo", locale = "ko-Latn", default = true },
+  { name = "Do You Have a Moment", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=jquRqHn6daM", name = "Teaser" },
+  { url = "https://www.youtube.com/watch?v=GjHAA2rmK7I", name = "Music Video" },
+]
+
+[[artist-credits]]
+artist-id = "jane-jang"
+separator = ", "
+
+[[artist-credits]]
+artist-id = "exo/suho"
+names = [
+  { name = "수호", locale = "ko", original = true },
+  { name = "SUHO", locale = "ko-Latn", default = true },
+]

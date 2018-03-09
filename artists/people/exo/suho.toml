@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1991-05-22"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "수호", locale = "ko", kind = "stage", original = true },
+  { name = "Suho", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김준면", locale = "ko", kind = "real" },
+  { name = "Kim Jun Myeon", locale = "ko-Latn", kind = "real" },
+]
