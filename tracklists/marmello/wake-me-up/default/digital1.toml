@@ -1,0 +1,28 @@
+medium-ids = [
+  "marmello/wake-me-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "marmello/pocket-doll"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "marmello/wake-me-up"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "marmello/moonlight"
+duration = "3:56"
+
+[[tracks]]
+position = 4
+song-id = "marmello/thank-u"
+duration = "4:01"
+
+[[tracks]]
+position = 5
+song-id = "marmello/thank-u-acoustic-ver"
+duration = "4:01"
