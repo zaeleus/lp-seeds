@@ -1,0 +1,5 @@
+names = [
+  { name = "꿈을 꾼 듯", locale = "ko", original = true },
+  { name = "Kkumeul Kkun Deut", locale = "ko-Latn", default = true },
+  { name = "As If in a Dream", locale = "en" },
+]
