@@ -1,0 +1,25 @@
+artist-id = "-virtual/suho-x-jane-jang"
+kind = "single"
+
+names = [
+  { name = "Dinner", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "exo/suho"
+names = [
+  { name = "수호", locale = "ko", original = true },
+  { name = "SUHO", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "jane-jang"
+
+[[releases]]
+released-on = "2018-03-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10146527" },
+]

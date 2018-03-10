@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/suho-x-jane-jang/dinner/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/suho-x-jane-jang/dinner"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/suho-x-jane-jang/dinner-inst"
+duration = "3:24"
