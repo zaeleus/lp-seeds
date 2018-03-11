@@ -1,0 +1,13 @@
+medium-ids = [
+  "heyne/jami-oji-ana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heyne/jami-oji-ana"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "heyne/jami-oji-ana-inst"
+duration = "3:36"

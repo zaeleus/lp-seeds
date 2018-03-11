@@ -1,0 +1,5 @@
+names = [
+  { name = "잠이 오지 않아 (Inst.)", locale = "ko", original = true },
+  { name = "Jami Oji Ana (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Insomnia (Inst.)", locale = "en" },
+]
