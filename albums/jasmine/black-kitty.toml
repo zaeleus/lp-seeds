@@ -1,0 +1,16 @@
+artist-id = "jasmine"
+kind = "single"
+
+names = [
+  { name = "Black Kitty", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-03-02"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1353013567" },
+  { url = "http://mora.jp/package/43000074/TCJPR0000421255/" },
+  { url = "http://mora.jp/package/43000074/TCJPR0000421255_hires/" },
+]

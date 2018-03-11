@@ -1,0 +1,8 @@
+medium-ids = [
+  "jasmine/black-kitty/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jasmine/black-kitty"
+duration = "5:01"
