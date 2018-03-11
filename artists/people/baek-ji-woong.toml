@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1990-01-15"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "백지웅", locale = "ko", kind = "real", original = true },
+  { name = "Baek Ji Woon", locale = "ko-Latn", kind = "real", default = true },
+]
