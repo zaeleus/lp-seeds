@@ -1,0 +1,5 @@
+names = [
+  { name = "청춘 (DAY)", locale = "ko", original = true },
+  { name = "Cheongchun (DAY)", locale = "ko-Latn", default = true },
+  { name = "Youth (DAY)", locale = "en" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "oohyo/cheongchun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oohyo/cheongchun-day"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "oohyo/cheongchun-night"
+duration = "3:43"
