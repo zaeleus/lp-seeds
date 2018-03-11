@@ -1,0 +1,16 @@
+artist-id = "do-as-infinity"
+kind = "lp"
+
+names = [
+  { name = "ALIVE", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-02-28"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1349075054" },
+  { url = "http://mora.jp/package/43000002/ANTCD-26536_F/" },
+  { url = "http://mora.jp/package/43000002/AVCD-93823/" },
+]

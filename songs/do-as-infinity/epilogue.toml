@@ -1,0 +1,4 @@
+names = [
+  { name = "～ epilogue ～", locale = "ja", original = true },
+  { name = "~epilogue~", locale = "en", default = true },
+]

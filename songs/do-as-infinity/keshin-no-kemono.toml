@@ -1,0 +1,4 @@
+names = [
+  { name = "化身の獣", locale = "ja", original = true },
+  { name = "Keshin no Kemono", locale = "ja-Latn", default = true },
+]
