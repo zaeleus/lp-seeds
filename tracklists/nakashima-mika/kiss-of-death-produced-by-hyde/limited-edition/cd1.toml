@@ -1,0 +1,20 @@
+medium-ids = [
+  "nakashima-mika/kiss-of-death-produced-by-hyde/limited-edition/cd1",
+  "nakashima-mika/kiss-of-death-produced-by-hyde/regular-edition/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nakashima-mika/kiss-of-death-produced-by-hyde"
+
+[[tracks]]
+position = 2
+song-id = "nakashima-mika/glamorous-sky-re-present-2018"
+
+[[tracks]]
+position = 3
+song-id = "nakashima-mika/kiss-of-death-produced-by-hyde-instrumental"
+
+[[tracks]]
+position = 4
+song-id = "nakashima-mika/glamorous-sky-re-present-2018-instrumental"

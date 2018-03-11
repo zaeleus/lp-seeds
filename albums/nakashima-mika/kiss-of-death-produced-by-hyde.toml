@@ -14,3 +14,36 @@ urls = [
   { url = "http://mora.jp/package/43000001/4547366353556/" },
   { url = "http://mora.jp/package/43000001/4547366353587/" },
 ]
+
+[[releases]]
+released-on = "2018-03-07"
+country = "JP"
+catalog-number = "AICL-3492/3"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Anime Edition"
+urls = [
+  { url = "http://www.mikanakashima.com/discography/detail.html?id=AICL-3492" },
+  { url = "https://www.oricon.co.jp/prof/285194/products/1264666/1/" },
+]
+
+[[releases]]
+released-on = "2018-03-07"
+country = "JP"
+catalog-number = "AICL-3494/5"
+media = [{ kind = "cd" }, { kind = "dvd" }]
+disambiguation = "Limited Edition"
+urls = [
+  { url = "http://www.mikanakashima.com/discography/detail.html?id=AICL-3494" },
+  { url = "https://www.oricon.co.jp/prof/285194/products/1267021/1/" },
+]
+
+[[releases]]
+released-on = "2018-03-07"
+country = "JP"
+catalog-number = "AICL-3496"
+media = [{ kind = "cd" }]
+disambiguation = "Regular Edition"
+urls = [
+  { url = "http://www.mikanakashima.com/discography/detail.html?id=AICL-3496" },
+  { url = "https://www.oricon.co.jp/prof/285194/products/1267022/1/" },
+]
