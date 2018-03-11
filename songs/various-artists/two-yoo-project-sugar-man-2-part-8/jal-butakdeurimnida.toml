@@ -1,0 +1,9 @@
+names = [
+  { name = "잘 부탁드립니다", locale = "ko", original = true },
+  { name = "Jal Butakdeurimnida", locale = "ko-Latn", default = true },
+  { name = "Nice to Meet You", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "cosmic-girls" },
+]

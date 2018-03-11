@@ -1,0 +1,13 @@
+medium-ids = [
+  "various-artists/two-yoo-project-sugar-man-2-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "various-artists/two-yoo-project-sugar-man-2-part-8/love-letter"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "various-artists/two-yoo-project-sugar-man-2-part-8/jal-butakdeurimnida"
+duration = "3:40"
