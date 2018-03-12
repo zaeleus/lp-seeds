@@ -1,0 +1,10 @@
+names = [
+  { name = "参拝!御朱印girl☆", locale = "ja", original = true },
+  { name = "Sanpai! Goshuin girl☆", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "ladybaby"
+names = [
+  { name = "The Idol Formerly Known As LADYBABY", locale = "ja", original = true, default = true },
+]

@@ -1,0 +1,21 @@
+artist-id = "ladybaby"
+kind = "lp"
+
+names = [
+  { name = "Beside U", locale = "ja", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "ladybaby"
+names = [
+  { name = "The Idol Formerly Known As LADYBABY", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-03-07"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1349579529" },
+  { url = "http://mora.jp/package/43000014/KICS-93686/" },
+]

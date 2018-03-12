@@ -1,0 +1,53 @@
+medium-ids = [
+  "ladybaby/beside-u/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ladybaby/pelo"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "ladybaby/me-me-me"
+duration = "4:28"
+
+[[tracks]]
+position = 3
+song-id = "ladybaby/sanpai-goshuin-girl"
+duration = "5:07"
+
+[[tracks]]
+position = 4
+song-id = "ladybaby/easter-bunny"
+duration = "4:02"
+
+[[tracks]]
+position = 5
+song-id = "ladybaby/generation-hard-knocks"
+duration = "3:50"
+
+[[tracks]]
+position = 6
+song-id = "ladybaby/onigirikku-revival"
+duration = "3:41"
+
+[[tracks]]
+position = 7
+song-id = "ladybaby/shibuya-crossing"
+duration = "4:09"
+
+[[tracks]]
+position = 8
+song-id = "ladybaby/joujou-jouyu"
+duration = "3:51"
+
+[[tracks]]
+position = 9
+song-id = "ladybaby/pinky-pinky"
+duration = "3:41"
+
+[[tracks]]
+position = 10
+song-id = "ladybaby/lady-baby-blue"
+duration = "5:27"

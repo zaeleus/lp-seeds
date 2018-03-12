@@ -1,0 +1,10 @@
+names = [
+  { name = "渋谷 CROSSING", locale = "ja", original = true },
+  { name = "Shibuya CROSSING", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "ladybaby"
+names = [
+  { name = "The Idol Formerly Known As LADYBABY", locale = "ja", original = true, default = true },
+]
