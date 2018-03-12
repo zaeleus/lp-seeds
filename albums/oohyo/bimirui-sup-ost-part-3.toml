@@ -1,0 +1,16 @@
+artist-id = "oohyo"
+kind = "single"
+
+names = [
+  { name = "비밀의 숲 OST Part.3", locale = "ko", original = true },
+  { name = "Bimirui Sup OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Stranger OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2017-06-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10073854" },
+]

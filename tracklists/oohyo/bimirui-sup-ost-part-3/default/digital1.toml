@@ -1,0 +1,8 @@
+medium-ids = [
+  "oohyo/bimirui-sup-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oohyo/sonagi"
+duration = "4:43"
