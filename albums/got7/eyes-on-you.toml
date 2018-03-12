@@ -1,0 +1,14 @@
+artist-id = "got7"
+kind = "ep"
+
+names = [
+  { name = "Eyes On You", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-03-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10143538" },
+]

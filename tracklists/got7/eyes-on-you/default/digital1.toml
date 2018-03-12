@@ -1,0 +1,33 @@
+medium-ids = [
+  "got7/eyes-on-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "got7/neo-hanaman-feat-hyolyn"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "got7/look"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "got7/the-reason"
+duration = "3:39"
+
+[[tracks]]
+position = 4
+song-id = "got7/mangseorida"
+duration = "3:05"
+
+[[tracks]]
+position = 5
+song-id = "got7/uri"
+duration = "3:16"
+
+[[tracks]]
+position = 6
+song-id = "got7/gomawo"
+duration = "3:46"
