@@ -1,0 +1,13 @@
+medium-ids = [
+  "sistar/soyou/my-blossom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sistar/soyou/my-blossom"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "sistar/soyou/my-blossom-inst"
+duration = "3:39"
