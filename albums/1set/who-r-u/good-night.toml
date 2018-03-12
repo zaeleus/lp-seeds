@@ -1,0 +1,15 @@
+artist-id = "1set/who-r-u"
+kind = "single"
+
+names = [
+  { name = "굿나잇", locale = "ko", original = true },
+  { name = "Good Night", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-03-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10146647" },
+]
