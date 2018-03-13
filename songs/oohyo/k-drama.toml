@@ -1,0 +1,5 @@
+names = [
+  { name = "K드라마", locale = "ko", original = true },
+  { name = "K-Deurama", locale = "ko-Latn" },
+  { name = "K-Drama", locale = "en", default = true },
+]

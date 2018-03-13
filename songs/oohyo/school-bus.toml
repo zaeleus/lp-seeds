@@ -1,0 +1,5 @@
+names = [
+  { name = "스쿨버스", locale = "ko", original = true },
+  { name = "Seukulbeoseu", locale = "ko-Latn" },
+  { name = "School Bus", locale = "en", default = true },
+]
