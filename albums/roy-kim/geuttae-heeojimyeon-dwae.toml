@@ -1,0 +1,16 @@
+artist-id = "roy-kim"
+kind = "single"
+
+names = [
+  { name = "그때 헤어지면 돼", locale = "ko", original = true },
+  { name = "Geuttae Heeojimyeon Dwae", locale = "ko-Latn", default = true },
+  { name = "Only Then", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-02-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10137574" },
+]

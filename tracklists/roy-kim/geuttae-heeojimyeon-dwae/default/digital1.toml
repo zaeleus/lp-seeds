@@ -1,0 +1,13 @@
+medium-ids = [
+  "roy-kim/geuttae-heeojimyeon-dwae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "roy-kim/geuttae-heeojimyeon-dwae"
+duration = "4:08"
+
+[[tracks]]
+position = 2
+song-id = "roy-kim/geuttae-heeojimyeon-dwae-inst-with-chorus"
+duration = "4:08"

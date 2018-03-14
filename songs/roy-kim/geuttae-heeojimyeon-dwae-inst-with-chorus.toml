@@ -1,0 +1,5 @@
+names = [
+  { name = "그때 헤어지면 돼 (Inst. with Chorus)", locale = "ko", original = true },
+  { name = "Geuttae Heeojimyeon Dwae (Inst. with Chorus)", locale = "ko-Latn", default = true },
+  { name = "Only Then (Inst. with Chorus)", locale = "en" },
+]
