@@ -1,0 +1,20 @@
+names = [
+  { name = "또 혼자라는 게", locale = "ko", original = true },
+  { name = "Tto Honjaraneun Ge", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "april/chae-won"
+names = [
+  { name = "에이프릴 (채원", locale = "ko", original = true },
+  { name = "APRIL (Chaewon", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "april/jin-sol"
+names = [
+  { name = "진솔", locale = "ko", original = true },
+  { name = "Jinsol", locale = "ko-Latn", default = true },
+]
+separator = ")"

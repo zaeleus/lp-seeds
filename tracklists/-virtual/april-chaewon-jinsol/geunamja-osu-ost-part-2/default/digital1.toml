@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/april-chaewon-jinsol/geunamja-osu-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/april-chaewon-jinsol/tto-honjaraneun-ge"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/april-chaewon-jinsol/tto-honjaraneun-ge-inst"
+duration = "3:57"

@@ -1,0 +1,32 @@
+artist-id = "-virtual/april-chaewon-jinsol"
+kind = "single"
+
+names = [
+  { name = "그남자 오수 OST Part.2", locale = "ko", original = true },
+  { name = "Geunamja Osu OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Evergreen OST Part.2", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "april/chae-won"
+names = [
+  { name = "에이프릴 (채원", locale = "ko", original = true },
+  { name = "APRIL (Chaewon", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "april/jin-sol"
+names = [
+  { name = "진솔", locale = "ko", original = true },
+  { name = "Jinsol", locale = "ko-Latn", default = true },
+]
+separator = ")"
+
+[[releases]]
+released-on = "2018-03-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10147109" },
+]
