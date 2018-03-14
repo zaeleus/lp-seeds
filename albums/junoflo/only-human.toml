@@ -1,0 +1,14 @@
+artist-id = "junoflo"
+kind = "ep"
+
+names = [
+  { name = "Only Human", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-03-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10147313" },
+]

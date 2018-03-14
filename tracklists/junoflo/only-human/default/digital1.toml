@@ -1,0 +1,33 @@
+medium-ids = [
+  "junoflo/only-human/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "junoflo/grapevine-podoju-feat-jay-park"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "junoflo/undercover-feat-yoon-mi-rae"
+duration = "3:13"
+
+[[tracks]]
+position = 3
+song-id = "junoflo/nobody-feat-tiger-jk-black-nine"
+duration = "4:02"
+
+[[tracks]]
+position = 4
+song-id = "junoflo/way2gone"
+duration = "3:15"
+
+[[tracks]]
+position = 5
+song-id = "junoflo/revenue-feat-hash-swan"
+duration = "3:55"
+
+[[tracks]]
+position = 6
+song-id = "junoflo/real-ones"
+duration = "4:27"

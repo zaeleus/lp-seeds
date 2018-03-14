@@ -1,0 +1,5 @@
+names = [
+  { name = "Grapevine (포도주) (Feat. 박재범)", locale = "ko", original = true },
+  { name = "Grapevine (Podoju) (Feat. Jay Park)", locale = "ko-Latn", default = true },
+  { name = "Grapevine (Feat. Jay Park)", locale = "en" },
+]
