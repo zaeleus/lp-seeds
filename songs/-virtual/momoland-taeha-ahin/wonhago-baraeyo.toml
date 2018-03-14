@@ -1,0 +1,21 @@
+names = [
+  { name = "원하고 바래요", locale = "ko", original = true },
+  { name = "Wonhago Baraeyo", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "momoland/tae-ha"
+names = [
+  { name = "모모랜드 (태하", locale = "ko", original = true },
+  { name = "MOMOLAND (Taeha", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "momoland/ah-in"
+names = [
+  { name = "아인", locale = "ko", original = true },
+  { name = "Ahin", locale = "ko-Latn", default = true },
+]
+separator = ")"
+
