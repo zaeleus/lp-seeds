@@ -1,0 +1,5 @@
+names = [
+  { name = "꽃 길", locale = "ko", original = true },
+  { name = "Kkot Gil", locale = "ko-Latn", default = true },
+  { name = "Flower Road", locale = "en" },
+]

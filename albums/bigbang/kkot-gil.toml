@@ -1,0 +1,16 @@
+artist-id = "bigbang"
+kind = "single"
+
+names = [
+  { name = "꽃 길", locale = "ko", original = true },
+  { name = "Kkot Gil", locale = "ko-Latn", default = true },
+  { name = "Flower Road", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10147314" },
+]
