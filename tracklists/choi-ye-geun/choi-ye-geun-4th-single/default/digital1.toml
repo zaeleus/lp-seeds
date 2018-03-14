@@ -1,0 +1,13 @@
+medium-ids = [
+  "choi-ye-geun/choi-ye-geun-4th-single/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "choi-ye-geun/mianhadaneun-mal-original-ver"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "choi-ye-geun/mianhadaneun-mal-band-ver"
+duration = "3:47"

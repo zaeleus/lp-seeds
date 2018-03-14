@@ -1,0 +1,5 @@
+names = [
+  { name = "미안하다는 말 (Band Ver.)", locale = "ko", original = true },
+  { name = "Mianhadaneun Mal (Band Ver.)", locale = "ko-Latn", default = true },
+  { name = "To Say Sorry (Band Ver.)", locale = "en" },
+]
