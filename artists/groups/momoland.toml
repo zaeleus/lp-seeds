@@ -14,5 +14,6 @@ members = [
   { artist-id = "momoland/joo-e" },
   { artist-id = "momoland/na-yun" },
   { artist-id = "momoland/nancy" },
+  { artist-id = "momoland/tae-ha" },
   { artist-id = "momoland/yeon-woo" },
 ]
