@@ -1,0 +1,10 @@
+names = [
+  { name = "날 사랑해요", locale = "ko", original = true },
+  { name = "Nal Saranghaeyo", locale = "ko-Latn", default = true },
+  { name = "Love Me", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "jung-in", separator = " X " },
+  { artist-id = "fiestar/yezi" },
+]

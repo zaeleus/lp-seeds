@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/jung-in-x-yezi/sr-project-vol-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/jung-in-x-yezi/nal-saranghaeyo"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/jung-in-x-yezi/nal-saranghaeyo-inst"
+duration = "3:13"
