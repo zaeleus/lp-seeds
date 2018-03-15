@@ -1,0 +1,16 @@
+artist-id = "loco"
+kind = "single"
+
+names = [
+  { name = "나타나줘", locale = "ko", original = true },
+  { name = "Natanajwo", locale = "ko-Latn", default = true },
+  { name = "Post It", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10147750" },
+]

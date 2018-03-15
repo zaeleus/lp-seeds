@@ -1,0 +1,5 @@
+names = [
+  { name = "나타나줘 (Feat. 박재범)", locale = "ko", original = true },
+  { name = "Natanajwo (Feat. Jay Park)", locale = "ko-Latn", default = true },
+  { name = "Post It (Feat. Jay Park)", locale = "en" },
+]
