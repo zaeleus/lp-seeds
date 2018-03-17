@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2007"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "태사비애", locale = "ko", original = true },
+  { name = "TAESABIAE", locale = "ko-Latn", default = true },
+]

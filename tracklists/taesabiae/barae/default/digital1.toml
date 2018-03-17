@@ -1,0 +1,8 @@
+medium-ids = [
+  "taesabiae/barae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "taesabiae/barae"
+duration = "3:24"
