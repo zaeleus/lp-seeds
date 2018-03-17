@@ -1,0 +1,13 @@
+medium-ids = [
+  "yeseo/privacy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yeseo/privacy"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "yeseo/privacy-inst"
+duration = "3:41"
