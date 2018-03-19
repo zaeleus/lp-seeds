@@ -1,0 +1,13 @@
+medium-ids = [
+  "morra/anajwo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "morra/anajwo"
+duration = "4:25"
+
+[[tracks]]
+position = 2
+song-id = "morra/anajwo-inst"
+duration = "4:25"
