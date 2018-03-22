@@ -1,0 +1,23 @@
+medium-ids = [
+  "honey-popcorn/bibidi-babidi-boo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "honey-popcorn/bibidi-babidi-boo"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "honey-popcorn/first-kiss"
+duration = "3:36"
+
+[[tracks]]
+position = 3
+song-id = "honey-popcorn/pretty-lie"
+duration = "3:23"
+
+[[tracks]]
+position = 4
+song-id = "honey-popcorn/bibidi-babidi-boo-inst"
+duration = "3:31"

@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "허니팝콘", locale = "ko", original = true },
+  { name = "Honey Popcorn", locale = "ko-Latn", default = true },
+]
