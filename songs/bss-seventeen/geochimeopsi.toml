@@ -1,0 +1,5 @@
+names = [
+  { name = "거침없이", locale = "ko", original = true },
+  { name = "Geochimeopsi", locale = "ko-Latn", default = true },
+  { name = "Just Do It", locale = "en" },
+]

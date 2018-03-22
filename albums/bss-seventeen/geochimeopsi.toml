@@ -1,0 +1,16 @@
+artist-id = "bss-seventeen"
+kind = "single"
+
+names = [
+  { name = "거침없이", locale = "ko", original = true },
+  { name = "Geochimeopsi", locale = "ko-Latn", default = true },
+  { name = "Just Do It", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10150043" },
+]
