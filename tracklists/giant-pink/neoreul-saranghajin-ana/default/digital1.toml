@@ -1,0 +1,13 @@
+medium-ids = [
+  "giant-pink/neoreul-saranghajin-ana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giant-pink/neoreul-saranghajin-ana-feat-kassy"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "giant-pink/jal-jinae-feat-jung-in"
+duration = "3:51"

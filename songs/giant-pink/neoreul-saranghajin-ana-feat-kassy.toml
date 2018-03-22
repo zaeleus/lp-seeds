@@ -1,0 +1,5 @@
+names = [
+  { name = "너를 사랑하진 않아 (Feat. 케이시)", locale = "ko", original = true },
+  { name = "Neoreul Saranghajin Ana (Feat. Kassy)", locale = "ko-Latn", default = true },
+  { name = "I Don't Think I Love You (Feat. Kassy)", locale = "en" },
+]
