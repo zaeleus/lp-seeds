@@ -1,0 +1,8 @@
+medium-ids = [
+  "penomeco/good-morning/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "penomeco/good-morning-feat-car-the-garden"
+duration = "2:57"
