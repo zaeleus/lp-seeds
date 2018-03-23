@@ -10,7 +10,7 @@ names = [
 members = [
   { artist-id = "badkiz/k-me" },
   { artist-id = "badkiz/duna" },
-  { artist-id = "badkiz/monika" },
+  { artist-id = "badkiz/monika", ended-on = "2018-03-19" },
   { artist-id = "badkiz/somin" },
   { artist-id = "badkiz/u-si" },
 ]
