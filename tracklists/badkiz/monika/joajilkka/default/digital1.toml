@@ -1,0 +1,13 @@
+medium-ids = [
+  "badkiz/monika/joajilkka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "badkiz/monika/intro"
+duration = "0:25"
+
+[[tracks]]
+position = 2
+song-id = "badkiz/monika/joajilkka"
+duration = "3:13"
