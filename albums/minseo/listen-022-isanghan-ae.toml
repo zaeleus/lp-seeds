@@ -1,0 +1,16 @@
+artist-id = "minseo"
+kind = "single"
+
+names = [
+  { name = "LISTEN 022 이상한 애", locale = "ko", original = true },
+  { name = "LISTEN 022 Isanghan Ae", locale = "ko-Latn", default = true },
+  { name = "LISTEN 022 Weird You", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10150945" },
+]

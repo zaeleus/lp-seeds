@@ -1,0 +1,13 @@
+medium-ids = [
+  "minseo/listen-022-isanghan-ae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minseo/isanghan-ae"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "minseo/isanghan-ae-inst"
+duration = "3:03"
