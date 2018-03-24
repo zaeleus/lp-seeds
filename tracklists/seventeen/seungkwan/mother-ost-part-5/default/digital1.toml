@@ -1,0 +1,13 @@
+medium-ids = [
+  "seventeen/seungkwan/mother-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seventeen/seungkwan/eotteon-sarang"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "seventeen/seungkwan/eotteon-sarang-inst"
+duration = "3:55"
