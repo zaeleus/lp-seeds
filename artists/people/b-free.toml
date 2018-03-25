@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1985-08-19"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "비프리", locale = "ko", kind = "stage", original = true },
+  { name = "B-Free", locale = "en", kind = "stage", default = true },
+]
