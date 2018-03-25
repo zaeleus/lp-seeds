@@ -1,0 +1,8 @@
+medium-ids = [
+  "spica/kim-bo-hyung/flash-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "spica/kim-bo-hyung/flash-me"
+duration = "2:58"
