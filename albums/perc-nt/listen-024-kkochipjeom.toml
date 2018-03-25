@@ -1,0 +1,16 @@
+artist-id = "perc-nt"
+kind = "single"
+
+names = [
+  { name = "LISTEN 024 꽃잎점", locale = "ko", original = true },
+  { name = "LISTEN 024 Kkochipjeom", locale = "ko-Latn", default = true },
+  { name = "LISTEN 024 Petal Fortune", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10151081" },
+]

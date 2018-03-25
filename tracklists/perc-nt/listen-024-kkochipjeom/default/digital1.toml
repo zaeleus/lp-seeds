@@ -1,0 +1,13 @@
+medium-ids = [
+  "perc-nt/listen-024-kkochipjeom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "perc-nt/kkochipjeom"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "perc-nt/kkochipjeom-inst"
+duration = "3:44"
