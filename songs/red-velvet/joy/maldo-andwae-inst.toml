@@ -1,0 +1,11 @@
+names = [
+  { name = "말도 안돼 (Inst.)", locale = "ko", original = true },
+  { name = "Maldo Andwae (Inst.)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "red-velvet/joy"
+names = [
+  { name = "조이", locale = "ko", original = true },
+  { name = "JOY", locale = "ko-Latn", default = true },
+]
