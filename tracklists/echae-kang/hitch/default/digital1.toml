@@ -1,0 +1,28 @@
+medium-ids = [
+  "echae-kang/hitch/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "echae-kang/hitch"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "echae-kang/foolish"
+duration = "3:36"
+
+[[tracks]]
+position = 3
+song-id = "echae-kang/annyeong"
+duration = "4:44"
+
+[[tracks]]
+position = 4
+song-id = "echae-kang/morning-morning-sun"
+duration = "6:05"
+
+[[tracks]]
+position = 5
+song-id = "echae-kang/dul"
+duration = "4:34"
