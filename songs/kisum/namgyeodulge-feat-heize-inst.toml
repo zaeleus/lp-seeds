@@ -1,0 +1,5 @@
+names = [
+  { name = "남겨둘게 (Feat. 헤이즈) (Inst.)", locale = "ko", original = true },
+  { name = "Namgyeodulge (Feat. Heize) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "It's Okay (Feat. Heize) (Inst.)", locale = "en" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "kisum/namgyeodulge/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kisum/namgyeodulge-feat-heize"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "kisum/namgyeodulge-feat-heize-inst"
+duration = "3:18"

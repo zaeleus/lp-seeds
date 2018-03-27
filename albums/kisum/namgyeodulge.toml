@@ -1,0 +1,16 @@
+artist-id = "kisum"
+kind = "single"
+
+names = [
+  { name = "남겨둘게", locale = "ko", original = true },
+  { name = "Namgyeodulge", locale = "ko-Latn", default = true },
+  { name = "It's Okay", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10151707" },
+]
