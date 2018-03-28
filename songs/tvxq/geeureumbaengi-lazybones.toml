@@ -1,0 +1,5 @@
+names = [
+  { name = "게으름뱅이 (Lazybones)", locale = "ko", original = true },
+  { name = "Geeureumbaengi (Lazybones)", locale = "ko-Latn", default = true },
+  { name = "Lazybones", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "새벽 공기 (Without You)", locale = "ko", original = true },
+  { name = "Saebyeok Gonggi (Without You)", locale = "ko-Latn", default = true },
+  { name = "Without You", locale = "en" },
+]

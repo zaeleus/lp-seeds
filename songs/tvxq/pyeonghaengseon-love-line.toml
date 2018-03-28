@@ -1,0 +1,5 @@
+names = [
+  { name = "평행선 (Love Line)", locale = "ko", original = true },
+  { name = "Pyeonghaengseon (Love Line)", locale = "ko-Latn", default = true },
+  { name = "Love Line", locale = "en" },
+]

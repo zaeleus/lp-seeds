@@ -1,0 +1,5 @@
+names = [
+  { name = "운명 (The Chance of Love)", locale = "ko", original = true },
+  { name = "Unmyeong (The Chance of Love)", locale = "ko-Latn", default = true },
+  { name = "The Chance of Love", locale = "en" },
+]

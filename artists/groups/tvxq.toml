@@ -1,0 +1,16 @@
+kind = "group"
+started-on = "2013"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "동방신기", locale = "ko", original = true },
+  { name = "Dong Bang Sin Gi", locale = "ko-Latn" },
+  { name = "Dong Bang Shin Ki", locale = "ko-Latn" },
+  { name = "TVXQ!", locale = "en", default = true },
+  { name = "東方神起", locale = "ja" },
+  { name = "Tohoshinki", locale = "ja-Latn" },
+  { name = "東方神起", locale = "zh" },
+  { name = "Dōng Fāng Shén Qǐ", locale = "zh-Latn" },
+  { name = "Tong Vfang Xien Qi", locale = "zh-Latn" },
+]
