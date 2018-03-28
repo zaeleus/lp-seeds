@@ -1,0 +1,4 @@
+names = [
+  { name = "Straight Up (Feat. DJ Wegun, 김효은)", locale = "ko", original = true },
+  { name = "Straight Up (Feat. DJ Wegun, Kim Hyo Eun)", locale = "ko-Latn", default = true },
+]

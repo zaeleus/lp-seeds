@@ -1,0 +1,13 @@
+medium-ids = [
+  "dok2/1llogic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dok2/1llogic-feat-chancellor"
+duration = "4:10"
+
+[[tracks]]
+position = 2
+song-id = "dok2/straight-up-feat-dj-wegun-kim-hyo-eun"
+duration = "3:43"
