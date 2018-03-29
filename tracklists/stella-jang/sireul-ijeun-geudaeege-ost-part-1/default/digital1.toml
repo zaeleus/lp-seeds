@@ -1,0 +1,23 @@
+medium-ids = [
+  "stella-jang/sireul-ijeun-geudaeege-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stella-jang/yojeum-cheongchun"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "stella-jang/yojeum-cheongchun-acoustic-ver"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "stella-jang/yojeum-cheongchun-inst"
+duration = "3:33"
+
+[[tracks]]
+position = 4
+song-id = "stella-jang/yojeum-cheongchun-acoustic-ver-inst"
+duration = "3:16"

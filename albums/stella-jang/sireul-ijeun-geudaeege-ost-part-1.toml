@@ -1,0 +1,16 @@
+artist-id = "stella-jang"
+kind = "single"
+
+names = [
+  { name = "시를 잊은 그대에게 OST Part.1", locale = "ko", original = true },
+  { name = "Sireul Ijeun Geudaeege OST Part.1", locale = "ko-Latn", default = true },
+  { name = "A Poem a Day OST Part.1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10151314" },
+]
