@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-ade/son-kkok-japgo-jineun-seogyangeul-baraboja-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-ade/if-you"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "the-ade/if-you-inst"
+duration = "3:39"
