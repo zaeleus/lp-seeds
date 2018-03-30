@@ -1,0 +1,11 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "더 데이지", locale = "ko", kind = "stage", original = true },
+  { name = "The Daisy", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "유채영", locale = "ko", kind = "real" },
+  { name = "Yoo Chae Young", locale = "ko-Latn", kind = "real" },
+]

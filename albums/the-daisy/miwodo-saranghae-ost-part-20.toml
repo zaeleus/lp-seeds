@@ -1,0 +1,16 @@
+artist-id = "the-daisy"
+kind = "single"
+
+names = [
+  { name = "미워도 사랑해 OST Part.20", locale = "ko", original = true },
+  { name = "Miwodo Saranghae OST Part.20", locale = "ko-Latn", default = true },
+  { name = "Love Returns OST Part.20", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10152975" },
+]
