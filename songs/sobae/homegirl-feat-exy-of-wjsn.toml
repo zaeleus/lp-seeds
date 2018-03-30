@@ -1,0 +1,4 @@
+names = [
+  { name = "Homegirl (Feat. 엑시 of 우주소녀)", locale = "ko", original = true },
+  { name = "Homegirl (Feat. EXY of WJSN)", locale = "ko-Latn", default = true },
+]
