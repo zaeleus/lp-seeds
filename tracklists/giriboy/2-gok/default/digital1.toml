@@ -1,0 +1,13 @@
+medium-ids = [
+  "giriboy/2-gok/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giriboy/bangbeop-prod-by-fisherman-hayake"
+duration = "2:47"
+
+[[tracks]]
+position = 2
+song-id = "giriboy/northbutsouth-prod-by-lnb-feat-kid-milli"
+duration = "3:55"

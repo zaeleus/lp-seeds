@@ -1,0 +1,4 @@
+names = [
+  { name = "방법 (Prod. by Fisherman, HAYAKE)", locale = "ko", original = true },
+  { name = "Bangbeop (Prod. by Fisherman, HAYAKE)", locale = "ko-Latn", default = true },
+]
