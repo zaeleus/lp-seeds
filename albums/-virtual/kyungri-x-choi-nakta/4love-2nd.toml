@@ -1,0 +1,25 @@
+artist-id = "-virtual/kyungri-x-choi-nakta"
+kind = "single"
+
+names = [
+  { name = "4LOVE 2nd", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "nine-muses/kyung-ree"
+names = [
+  { name = "경리", locale = "ko", original = true },
+  { name = "Kyungri", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "choi-nakta"
+
+[[releases]]
+released-on = "2018-03-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10151951" },
+]

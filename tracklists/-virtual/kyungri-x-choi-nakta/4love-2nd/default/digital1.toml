@@ -1,0 +1,23 @@
+medium-ids = [
+  "-virtual/kyungri-x-choi-nakta/4love-2nd/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/kyungri-x-choi-nakta/bom-bom"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/kyungri-x-choi-nakta/bom-bom-with-kyungri"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/kyungri-x-choi-nakta/bom-bom-with-choi-nakta"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "-virtual/kyungri-x-choi-nakta/bom-bom-inst"
+duration = "3:18"
