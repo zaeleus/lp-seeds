@@ -1,0 +1,17 @@
+artist-id = "mamamoo"
+kind = "single"
+
+names = [
+  { name = "매일 봐요", locale = "ko", original = true },
+  { name = "Maeil Bwayo", locale = "ko-Latn" },
+  { name = "MAEIL BIO", locale = "ko-Latn", default = true },
+  { name = "Everyday", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-03-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10153370" },
+]
