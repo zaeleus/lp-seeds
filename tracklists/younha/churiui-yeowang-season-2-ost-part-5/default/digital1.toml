@@ -1,0 +1,13 @@
+medium-ids = [
+  "younha/churiui-yeowang-season-2-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "younha/nogeulji-mollayo"
+duration = "2:55"
+
+[[tracks]]
+position = 2
+song-id = "younha/nogeulji-mollayo-inst"
+duration = "2:55"
