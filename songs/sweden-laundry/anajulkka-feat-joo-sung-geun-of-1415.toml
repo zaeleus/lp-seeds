@@ -1,0 +1,4 @@
+names = [
+  { name = "안아줄까 (Feat. 주성근 of 1415)", locale = "ko", original = true },
+  { name = "Anajulkka (Feat. Joo Sung Geun of 1415)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2012"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "스웨덴세탁소", locale = "ko", original = true },
+  { name = "Sweden Laundry", locale = "en", default = true },
+]
