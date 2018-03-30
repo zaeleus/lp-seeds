@@ -1,0 +1,15 @@
+artist-id = "kim-a-reum"
+kind = "single"
+
+names = [
+  { name = "넌 나의 봄", locale = "ko", original = true },
+  { name = "Neon Naui Bom", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-03-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10153113" },
+]
