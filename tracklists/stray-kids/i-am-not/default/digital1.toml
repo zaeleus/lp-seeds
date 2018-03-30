@@ -1,0 +1,38 @@
+medium-ids = [
+  "stray-kids/i-am-not/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stray-kids/not"
+duration = "1:22"
+
+[[tracks]]
+position = 2
+song-id = "stray-kids/district-9"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "stray-kids/mirror"
+duration = "3:41"
+
+[[tracks]]
+position = 4
+song-id = "stray-kids/awaken"
+duration = "3:14"
+
+[[tracks]]
+position = 5
+song-id = "stray-kids/rock-dol"
+duration = "3:13"
+
+[[tracks]]
+position = 6
+song-id = "stray-kids/jal-hago-isseo"
+duration = "3:31"
+
+[[tracks]]
+position = 7
+song-id = "stray-kids/3rd-eye"
+duration = "4:04"
