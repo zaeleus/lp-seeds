@@ -1,0 +1,31 @@
+artist-id = "-virtual/seoyoung-hellovenus-yeoreum-hellovenus"
+kind = "single"
+
+names = [
+  { name = "FM201.8-03Hz: 너에게 달려", locale = "ko", original = true },
+  { name = "FM201.8-03Hz: Neoege Dallyeo", locale = "ko-Latn", default = true },
+  { name = "FM201.8-03Hz: Run to You", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "hellovenus/seoyoung"
+names = [
+  { name = "서영 (헬로비너스)", locale = "ko", original = true },
+  { name = "Seoyoung (HELLOVENUS)", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "hellovenus/yeoreum"
+names = [
+  { name = "여름 (헬로비너스)", locale = "ko", original = true },
+  { name = "Yeoreum (HELLOVENUS)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-03-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10153027" },
+]

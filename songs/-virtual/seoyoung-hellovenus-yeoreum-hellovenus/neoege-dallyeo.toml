@@ -1,0 +1,20 @@
+names = [
+  { name = "너에게 달려", locale = "ko", original = true },
+  { name = "Neoege Dallyeo", locale = "ko-Latn", default = true },
+  { name = "Run to You", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "hellovenus/seoyoung"
+names = [
+  { name = "서영 (헬로비너스)", locale = "ko", original = true },
+  { name = "Seoyoung (HELLOVENUS)", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "hellovenus/yeoreum"
+names = [
+  { name = "여름 (헬로비너스)", locale = "ko", original = true },
+  { name = "Yeoreum (HELLOVENUS)", locale = "ko-Latn", default = true },
+]
