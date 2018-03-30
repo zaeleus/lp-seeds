@@ -1,0 +1,8 @@
+medium-ids = [
+  "sobae/switch-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sobae/switch-up"
+duration = "3:50"
