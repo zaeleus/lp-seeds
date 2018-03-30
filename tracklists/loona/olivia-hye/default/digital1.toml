@@ -1,0 +1,13 @@
+medium-ids = [
+  "loona/olivia-hye/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/egoist-feat-jinsoul-olivia-hye"
+duration = "4:07"
+
+[[tracks]]
+position = 2
+song-id = "loona/rosy-feat-heejin-go-won-olivia-hye"
+duration = "3:15"

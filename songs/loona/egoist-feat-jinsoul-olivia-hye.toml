@@ -1,0 +1,4 @@
+names = [
+  { name = "Egoist (Feat. 진솔) (Olivia Hye)", locale = "ko", original = true },
+  { name = "Egoist (Feat. JinSoul) (Olivia Hye)", locale = "ko-Latn", default = true },
+]

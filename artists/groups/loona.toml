@@ -21,6 +21,7 @@ members = [
   { artist-id = "loona/yves" },
   { artist-id = "loona/chuu" },
   { artist-id = "loona/go-won" },
+  { artist-id = "loona/olivia-hye" },
 ]
 
 urls = [
