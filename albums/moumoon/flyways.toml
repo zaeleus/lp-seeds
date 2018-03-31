@@ -1,0 +1,16 @@
+artist-id = "moumoon"
+kind = "lp"
+
+names = [
+  { name = "Flyways", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-03-14"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/1352908600" },
+  { url = "http://mora.jp/package/43000002/ANTCD-26589_F/" },
+  { url = "http://mora.jp/package/43000002/AVCD-93838/" },
+]

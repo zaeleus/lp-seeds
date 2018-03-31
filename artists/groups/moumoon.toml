@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2005"
+country = "JP"
+gender = "coed"
+
+names = [
+  { name = "moumoon", locale = "ja", original = true, default = true },
+]
