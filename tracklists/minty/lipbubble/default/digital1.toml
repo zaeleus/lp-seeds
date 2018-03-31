@@ -1,0 +1,13 @@
+medium-ids = [
+  "minty/lipbubble/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minty/lipbubble-feat-slay"
+duration = "2:32"
+
+[[tracks]]
+position = 2
+song-id = "minty/lipbubble-inst"
+duration = "2:32"
