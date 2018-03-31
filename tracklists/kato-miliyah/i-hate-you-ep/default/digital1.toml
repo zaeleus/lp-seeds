@@ -1,0 +1,33 @@
+medium-ids = [
+  "kato-miliyah/i-hate-you-ep/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kato-miliyah/i-hate-you-track-producer-the-sknow"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "kato-miliyah/kao-mo-mitakunai-feat-jp-the-wavy-track-producer-jigg"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "kato-miliyah/futari-no-kankei-track-producer-seiho"
+duration = "3:38"
+
+[[tracks]]
+position = 4
+song-id = "kato-miliyah/interlude-the-world"
+duration = "0:27"
+
+[[tracks]]
+position = 5
+song-id = "kato-miliyah/sekai-track-producer-riki"
+duration = "3:13"
+
+[[tracks]]
+position = 6
+song-id = "kato-miliyah/don-t-let-me-down-track-producer-chaki-zulu"
+duration = "4:13"

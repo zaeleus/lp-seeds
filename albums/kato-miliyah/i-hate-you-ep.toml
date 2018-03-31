@@ -1,0 +1,14 @@
+artist-id = "kato-miliyah"
+kind = "ep"
+
+names = [
+  { name = "I HATE YOU -EP-", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-03-21"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000001/4547366353785/" },
+]

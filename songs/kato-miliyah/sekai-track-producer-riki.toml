@@ -1,0 +1,4 @@
+names = [
+  { name = "世界 (Track Producer: 理貴)", locale = "ja", original = true },
+  { name = "Sekai (Track Producer: RIKI)", locale = "ja-Latn", default = true },
+]

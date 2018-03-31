@@ -1,0 +1,4 @@
+names = [
+  { name = "二人の関係 (Track Producer: Seiho)", locale = "ja", original = true },
+  { name = "Futari no Kankei (Track Producer: Seiho)", locale = "ja-Latn", default = true },
+]
