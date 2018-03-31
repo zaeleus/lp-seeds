@@ -1,0 +1,13 @@
+medium-ids = [
+  "flowsik/all-i-need/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "flowsik/all-i-need-collab-jessi"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "flowsik/all-i-need-inst"
+duration = "3:36"

@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1985-04-05"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "플로우식", locale = "ko", kind = "stage", original = true },
+  { name = "Flowsik", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박대식", locale = "ko", kind = "real" },
+  { name = "Park Dae Sik", locale = "ko-Latn", kind = "real" },
+]
