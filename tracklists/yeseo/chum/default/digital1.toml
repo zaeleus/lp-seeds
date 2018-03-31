@@ -1,0 +1,13 @@
+medium-ids = [
+  "yeseo/chum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yeseo/chum"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "yeseo/chum-inst"
+duration = "3:48"
