@@ -1,0 +1,4 @@
+names = [
+  { name = "그럴리가 없는데 (Inst.)", locale = "ko", original = true },
+  { name = "Geureolliga Eomneunde (Inst.)", locale = "ko-Latn", default = true },
+]

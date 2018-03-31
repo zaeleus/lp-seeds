@@ -1,0 +1,13 @@
+medium-ids = [
+  "sohee/oneuldo-musahi-season-2-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sohee/geureolliga-eomneunde"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "sohee/geureolliga-eomneunde-inst"
+duration = "3:27"
