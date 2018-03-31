@@ -1,0 +1,16 @@
+artist-id = "perfume"
+kind = "single"
+
+names = [
+  { name = "無限未来", locale = "ja", original = true },
+  { name = "Mugen Mirai", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-03-14"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/1357532840" },
+  { url = "http://mora.jp/package/43000029/0602567443971/" },
+]

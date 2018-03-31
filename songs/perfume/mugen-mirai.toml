@@ -1,0 +1,4 @@
+names = [
+  { name = "無限未来", locale = "ja", original = true },
+  { name = "Mugen Mirai", locale = "ja-Latn", default = true },
+]

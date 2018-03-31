@@ -1,0 +1,18 @@
+medium-ids = [
+  "perfume/mugen-mirai/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "perfume/mugen-mirai"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "perfume/fusion"
+duration = "4:33"
+
+[[tracks]]
+position = 3
+song-id = "perfume/mugen-mirai-original-instrumental"
+duration = "3:43"
