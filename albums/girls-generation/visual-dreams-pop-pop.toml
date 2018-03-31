@@ -1,0 +1,15 @@
+artist-id = "girls-generation"
+kind = "single"
+
+names = [
+  { name = "비주얼 드림 (POP! POP!)", locale = "ko", original = true },
+  { name = "Visual Dreams (POP! POP!)", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2011-01-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=1142751" },
+]

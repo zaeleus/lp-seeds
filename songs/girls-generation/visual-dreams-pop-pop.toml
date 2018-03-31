@@ -1,0 +1,4 @@
+names = [
+  { name = "비주얼드림 (POP! POP!)", locale = "ko", original = true },
+  { name = "Visual Dreams (POP! POP!)", locale = "en", default = true },
+]
