@@ -1,0 +1,23 @@
+artist-id = "miss-a/jia"
+kind = "single"
+
+names = [
+  { name = "炎", locale = "zh", original = true },
+  { name = "Yán", locale = "zh-Latn", default = true },
+  { name = "Weapon", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "miss-a/jia"
+names = [
+  { name = "孟佳", locale = "zh", original = true },
+  { name = "Meng Jia", locale = "zh-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-03-20"
+country = "CN"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://y.qq.com/n/yqq/album/002Gpe5Z2i142r.html" },
+]
