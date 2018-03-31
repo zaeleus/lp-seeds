@@ -1,0 +1,14 @@
+names = [
+  { name = "너랑나랑노랑 (Feat. 범키)", locale = "ko", original = true },
+  { name = "Neorang Narang Norang (Feat. Bumkey)", locale = "ko-Latn", default = true },
+  { name = "Butterfly (Feat. Bumkey)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "san-e", separator = ", " },
+  { artist-id = "mad-clown" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=sXhuhRF8-vg", name = "Music Video" },
+]
