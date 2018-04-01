@@ -1,0 +1,13 @@
+medium-ids = [
+  "ritz/naui-bada-my-ocean/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ritz/naui-bada-my-ocean"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "ritz/naui-bada-my-ocean-inst"
+duration = "3:34"

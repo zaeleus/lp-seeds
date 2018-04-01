@@ -1,0 +1,15 @@
+artist-id = "ritz"
+kind = "single"
+
+names = [
+  { name = "나의 바다 (My Ocean)", locale = "ko", original = true },
+  { name = "Naui Bada (My Ocean)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-04-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10153051" },
+]
