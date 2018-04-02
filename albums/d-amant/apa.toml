@@ -1,0 +1,16 @@
+artist-id = "d-amant"
+kind = "single"
+
+names = [
+  { name = "아파", locale = "ko", original = true },
+  { name = "Apa", locale = "ko-Latn", default = true },
+  { name = "Sick", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-04-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10153519" },
+]

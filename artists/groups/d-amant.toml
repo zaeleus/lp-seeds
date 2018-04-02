@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "디아망", locale = "ko", original = true },
+  { name = "D:amant", locale = "en", default = true },
+]

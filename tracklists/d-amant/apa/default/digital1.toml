@@ -1,0 +1,13 @@
+medium-ids = [
+  "d-amant/apa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "d-amant/apa"
+duration = "4:38"
+
+[[tracks]]
+position = 2
+song-id = "d-amant/apa-inst"
+duration = "4:38"
