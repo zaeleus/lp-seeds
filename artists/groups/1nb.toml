@@ -1,8 +1,9 @@
 kind = "group"
-started-on = "2006"
+#started-on = ""
 country = "KR"
+gender = "female"
 
 names = [
-  { name = "투앤비", locale = "ko", original = true },
-  { name = "2NB", locale = "ko-Latn", default = true },
+  { name = "원앤비", locale = "ko", original = true },
+  { name = "1NB", locale = "ko-Latn", default = true },
 ]
