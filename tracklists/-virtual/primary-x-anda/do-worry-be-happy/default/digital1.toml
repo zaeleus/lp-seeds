@@ -1,0 +1,23 @@
+medium-ids = [
+  "-virtual/primary-x-anda/do-worry-be-happy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/primary-x-anda/the-open-boat-feat-colde"
+duration = "4:28"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/primary-x-anda/zeppelin"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/primary-x-anda/dressroom"
+duration = "4:42"
+
+[[tracks]]
+position = 4
+song-id = "-virtual/primary-x-anda/wolmyeongya-feat-xin-seha"
+duration = "3:24"

@@ -1,0 +1,9 @@
+names = [
+  { name = "월명야 (月明夜) (Feat. 신세하)", locale = "ko", original = true },
+  { name = "Wolmyeongya (Feat. Xin Seha)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "primary", separator = " X " },
+  { artist-id = "anda" },
+]

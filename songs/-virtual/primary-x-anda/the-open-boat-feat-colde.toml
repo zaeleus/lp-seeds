@@ -1,0 +1,8 @@
+names = [
+  { name = "The open boat (Feat. colde)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "primary", separator = " X " },
+  { artist-id = "anda" },
+]

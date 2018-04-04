@@ -1,0 +1,19 @@
+artist-id = "-virtual/primary-x-anda"
+kind = "ep"
+
+names = [
+  { name = "Do worry Be happy", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "primary", separator = " X " },
+  { artist-id = "anda" },
+]
+
+[[releases]]
+released-on = "2018-04-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10154402" },
+]
