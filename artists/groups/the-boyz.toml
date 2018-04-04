@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "더보이즈", locale = "ko", original = true },
+  { name = "THE BOYZ", locale = "en", default = true },
+]
