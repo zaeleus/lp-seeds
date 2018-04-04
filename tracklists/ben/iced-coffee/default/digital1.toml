@@ -1,0 +1,13 @@
+medium-ids = [
+  "ben/iced-coffee/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/iced-coffee"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "ben/iced-coffee-inst"
+duration = "3:36"
