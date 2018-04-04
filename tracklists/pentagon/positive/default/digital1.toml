@@ -1,0 +1,33 @@
+medium-ids = [
+  "pentagon/positive/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pentagon/off-road"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "pentagon/binnari"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "pentagon/saenggakhae"
+duration = "3:41"
+
+[[tracks]]
+position = 4
+song-id = "pentagon/jaemitgetda-rap-unit"
+duration = "3:10"
+
+[[tracks]]
+position = 5
+song-id = "pentagon/bonael-subakke"
+duration = "3:46"
+
+[[tracks]]
+position = 6
+song-id = "pentagon/hamkke-gaja-uri"
+duration = "3:18"
