@@ -1,0 +1,23 @@
+medium-ids = [
+  "oh-my-girl-bahana/banana-allergy-wonsungi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-my-girl-bahana/ukiuki-waikiki-intro"
+duration = "0:52"
+
+[[tracks]]
+position = 2
+song-id = "oh-my-girl-bahana/banana-allergy-wonsungi"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song-id = "oh-my-girl-bahana/hadeora"
+duration = "3:31"
+
+[[tracks]]
+position = 4
+song-id = "oh-my-girl-bahana/banhan-ge-anya"
+duration = "3:14"

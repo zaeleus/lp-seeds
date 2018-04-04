@@ -1,0 +1,17 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "오마이걸 반하나", locale = "ko", original = true },
+  { name = "OH MY GIRL BAHANA", locale = "ko-Latn", default = true },
+]
+
+labels = [{ label-id = "wm-entertainment" }]
+
+members = [
+  { artist-id = "oh-my-girl/hyo-jung" },
+  { artist-id = "oh-my-girl/binnie" },
+  { artist-id = "oh-my-girl/arin" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "바나나 알러지 원숭이", locale = "ko", original = true },
+  { name = "Banana Allergy Wonsungi", locale = "ko-Latn", default = true },
+  { name = "Banana Allergy Monkey", locale = "en" },
+]

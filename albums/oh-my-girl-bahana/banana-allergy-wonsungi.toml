@@ -1,0 +1,16 @@
+artist-id = "oh-my-girl-bahana"
+kind = "ep"
+
+names = [
+  { name = "바나나 알러지 원숭이", locale = "ko", original = true },
+  { name = "Banana Allergy Wonsungi", locale = "ko-Latn", default = true },
+  { name = "Banana Allergy Monkey", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-04-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10153893" },
+]
