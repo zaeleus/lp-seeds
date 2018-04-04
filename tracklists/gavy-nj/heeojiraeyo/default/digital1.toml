@@ -1,0 +1,33 @@
+medium-ids = [
+  "gavy-nj/heeojiraeyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gavy-nj/heeojiraeyo"
+duration = "4:31"
+
+[[tracks]]
+position = 2
+song-id = "gavy-nj/kkok-neo-gatdeon"
+duration = "3:46"
+
+[[tracks]]
+position = 3
+song-id = "gavy-nj/haengbokhadaetjana"
+duration = "3:46"
+
+[[tracks]]
+position = 4
+song-id = "gavy-nj/derireo-wa"
+duration = "4:11"
+
+[[tracks]]
+position = 5
+song-id = "gavy-nj/heeojiraeyo-inst"
+duration = "4:31"
+
+[[tracks]]
+position = 6
+song-id = "gavy-nj/kkok-neo-gatdeon-inst"
+duration = "3:46"
