@@ -1,0 +1,13 @@
+medium-ids = [
+  "koh-na-young/ibeon-jumal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "koh-na-young/ibeon-jumal"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "koh-na-young/ibeon-jumal-inst"
+duration = "3:38"
