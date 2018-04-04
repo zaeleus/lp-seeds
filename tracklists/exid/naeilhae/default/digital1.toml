@@ -1,0 +1,13 @@
+medium-ids = [
+  "exid/naeilhae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exid/naeilhae"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "exid/naeilhae-inst"
+duration = "3:10"
