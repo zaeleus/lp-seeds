@@ -1,0 +1,5 @@
+names = [
+  { name = "사치 (LUXURY)", locale = "ko", original = true },
+  { name = "Sachi (LUXURY)", locale = "ko-Latn", default = true },
+  { name = "LUXURY", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "손만 잡고 자자 (TURN OFF THE LIGHT) (MINO SOLO)", locale = "ko", original = true },
+  { name = "Sonman Japgo Jaja (TURN OFF THE LIGHT) (MINO SOLO)", locale = "ko-Latn", default = true },
+  { name = "TURN OFF THE LIGHT (MINO SOLO)", locale = "en" },
+]

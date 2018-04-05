@@ -1,0 +1,63 @@
+medium-ids = [
+  "winner/everyd4y/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "winner/everyday"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "winner/air"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "winner/yeoboseyo-hello"
+duration = "3:47"
+
+[[tracks]]
+position = 4
+song-id = "winner/sonman-japgo-jaja-turn-off-the-light-mino-solo"
+duration = "3:16"
+
+[[tracks]]
+position = 5
+song-id = "winner/la-la"
+duration = "3:36"
+
+[[tracks]]
+position = 6
+song-id = "winner/ae-gyae-for"
+duration = "3:18"
+
+[[tracks]]
+position = 7
+song-id = "winner/yeppeotdeora-we-were"
+duration = "3:54"
+
+[[tracks]]
+position = 8
+song-id = "winner/sachi-luxury"
+duration = "3:22"
+
+[[tracks]]
+position = 9
+song-id = "winner/movie-star"
+duration = "3:17"
+
+[[tracks]]
+position = 10
+song-id = "winner/special-night"
+duration = "3:44"
+
+[[tracks]]
+position = 11
+song-id = "winner/raining"
+duration = "3:41"
+
+[[tracks]]
+position = 12
+song-id = "winner/have-a-good-day"
+duration = "3:45"

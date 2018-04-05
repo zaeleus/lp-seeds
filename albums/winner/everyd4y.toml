@@ -1,0 +1,14 @@
+artist-id = "winner"
+kind = "lp"
+
+names = [
+  { name = "EVERYD4Y", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-04-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10154916" },
+]
