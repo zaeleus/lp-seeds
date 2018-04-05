@@ -1,0 +1,18 @@
+medium-ids = [
+  "flowsik/flowsik-x-jessi-project-album/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "flowsik/jeojeo-s-collab-jessi"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "flowsik/jeojeo-s-collab-jessi-clean-ver"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "flowsik/jeojeo-s-inst"
+duration = "3:28"

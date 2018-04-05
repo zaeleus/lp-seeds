@@ -1,0 +1,5 @@
+names = [
+  { name = "젖어'S (Collab. 제시 (Jessi)) (Clean Ver.)", locale = "ko", original = true },
+  { name = "JEOJEO'S (Collab. Jessi) (Clean Ver.)", locale = "ko-Latn", default = true },
+  { name = "Wet (Collab. Jessi) (Clean Ver.)", locale = "en" },
+]
