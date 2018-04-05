@@ -1,0 +1,3 @@
+names = [
+  { name = "Goodbye (Feat. Brwn)", locale = "ko", original = true, default = true },
+]

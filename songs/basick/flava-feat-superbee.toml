@@ -1,0 +1,3 @@
+names = [
+  { name = "Flava (Feat. SUPERBEE)", locale = "ko", original = true, default = true },
+]

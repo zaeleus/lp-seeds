@@ -1,0 +1,3 @@
+names = [
+  { name = "Starter (Feat. DJ Ebony)", locale = "ko", original = true, default = true },
+]

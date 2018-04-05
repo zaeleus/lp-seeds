@@ -1,0 +1,3 @@
+names = [
+  { name = "SM58 (Feat. JUSTHIS)", locale = "ko", original = true, default = true },
+]

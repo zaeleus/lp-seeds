@@ -1,0 +1,3 @@
+names = [
+  { name = "IDCA (Feat. Double K)", locale = "ko", original = true, default = true },
+]

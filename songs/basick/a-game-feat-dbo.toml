@@ -1,0 +1,3 @@
+names = [
+  { name = "A Game (Feat. Dbo)", locale = "ko", original = true, default = true },
+]

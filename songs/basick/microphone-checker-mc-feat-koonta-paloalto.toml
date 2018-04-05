@@ -1,0 +1,3 @@
+names = [
+  { name = "Microphone Checker (MC) (Feat. Koonta, Paloalto)", locale = "ko", original = true, default = true },
+]
