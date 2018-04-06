@@ -1,0 +1,13 @@
+medium-ids = [
+  "oh-so-yeon/neol-wihan-keopi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-so-yeon/neol-wihan-keopi"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "oh-so-yeon/neol-wihan-keopi-inst"
+duration = "3:29"
