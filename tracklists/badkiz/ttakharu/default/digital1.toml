@@ -1,0 +1,13 @@
+medium-ids = [
+  "badkiz/ttakharu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "badkiz/ttakharu"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "badkiz/ttakharu-inst"
+duration = "3:41"
