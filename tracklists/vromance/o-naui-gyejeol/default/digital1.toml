@@ -1,0 +1,13 @@
+medium-ids = [
+  "vromance/o-naui-gyejeol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vromance/o-naui-gyejeol"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "vromance/o-naui-gyejeol-inst"
+duration = "3:46"
