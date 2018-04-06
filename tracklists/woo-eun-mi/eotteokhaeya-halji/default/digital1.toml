@@ -1,0 +1,13 @@
+medium-ids = [
+  "woo-eun-mi/eotteokhaeya-halji/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-eun-mi/eotteokhaeya-halji"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "woo-eun-mi/eotteokhaeya-halji-inst"
+duration = "3:13"

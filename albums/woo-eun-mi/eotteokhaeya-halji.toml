@@ -1,0 +1,15 @@
+artist-id = "woo-eun-mi"
+kind = "single"
+
+names = [
+  { name = "어떡해야 할지", locale = "ko", original = true },
+  { name = "Eotteokhaeya Halji", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-04-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10155155" },
+]
