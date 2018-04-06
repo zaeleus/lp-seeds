@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-seung-hwan/naui-ajeossi-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-seung-hwan/botongui-haru"
+duration = "4:34"
+
+[[tracks]]
+position = 2
+song-id = "jung-seung-hwan/botongui-haru-inst"
+duration = "4:34"
