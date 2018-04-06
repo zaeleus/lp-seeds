@@ -1,0 +1,5 @@
+names = [
+  { name = "별 (Star) (Feat. Kaya)", locale = "ko", original = true },
+  { name = "Byeol (Star) (Feat. Kaya)", locale = "ko-Latn", default = true },
+  { name = "Star (Feat. Kaya)", locale = "en" },
+]

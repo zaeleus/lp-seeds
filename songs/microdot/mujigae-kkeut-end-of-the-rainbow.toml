@@ -1,0 +1,5 @@
+names = [
+  { name = "무지개 끝 (End of the Rainbow)", locale = "ko", original = true },
+  { name = "Mujigae Kkeut (End of the Rainbow)", locale = "ko-Latn", default = true },
+  { name = "End of the Rainbow", locale = "en" },
+]

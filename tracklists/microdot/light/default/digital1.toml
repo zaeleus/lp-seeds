@@ -1,0 +1,28 @@
+medium-ids = [
+  "microdot/light/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "microdot/gieogi-nane-i-remember"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "microdot/neowa-with-you"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "microdot/byeol-star-feat-kaya"
+duration = "3:43"
+
+[[tracks]]
+position = 4
+song-id = "microdot/mujigae-kkeut-end-of-the-rainbow"
+duration = "4:02"
+
+[[tracks]]
+position = 5
+song-id = "microdot/neowa-with-you-inst"
+duration = "3:42"
