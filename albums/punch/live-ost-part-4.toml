@@ -1,0 +1,15 @@
+artist-id = "punch"
+kind = "single"
+
+names = [
+  { name = "라이브 OST Part.4", locale = "ko", original = true },
+  { name = "Live OST Part.4", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-04-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10155837" },
+]
