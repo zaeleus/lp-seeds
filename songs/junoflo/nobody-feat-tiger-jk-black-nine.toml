@@ -1,4 +1,4 @@
 names = [
-  { name = "Nobody (Feat. 타이거JK &amp; 블랙나인)", locale = "ko", original = true },
-  { name = "Nobody (Feat. Tiger JK &amp; BLACK NINE)", locale = "ko-Latn", default = true },
+  { name = "Nobody (Feat. 타이거JK & 블랙나인)", locale = "ko", original = true },
+  { name = "Nobody (Feat. Tiger JK & BLACK NINE)", locale = "ko-Latn", default = true },
 ]
