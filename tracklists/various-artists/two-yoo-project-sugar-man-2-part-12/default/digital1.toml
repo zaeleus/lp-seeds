@@ -1,0 +1,13 @@
+medium-ids = [
+  "various-artists/two-yoo-project-sugar-man-2-part-12/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "various-artists/one-more-time"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "various-artists/ja-eongdeongi"
+duration = "3:05"

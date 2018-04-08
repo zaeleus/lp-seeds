@@ -1,0 +1,15 @@
+artist-id = "various-artists"
+kind = "single"
+
+names = [
+  { name = "투유 프로젝트 - 슈가맨2 Part.12", locale = "ko", original = true },
+  { name = "Two Yoo Project - Sugar Man 2 Part.12", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-04-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10155504" },
+]
