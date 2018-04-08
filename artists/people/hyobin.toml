@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1993-09-09"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "효빈", locale = "ko", kind = "stage", original = true },
+  { name = "Hyobin", locale = "ko-Latn", kind = "stage", default = true },
+]
