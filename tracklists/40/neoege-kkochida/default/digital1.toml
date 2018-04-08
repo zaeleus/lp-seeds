@@ -1,0 +1,13 @@
+medium-ids = [
+  "40/neoege-kkochida/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "40/neoege-kkochida"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "40/neoege-kkochida-inst"
+duration = "3:09"

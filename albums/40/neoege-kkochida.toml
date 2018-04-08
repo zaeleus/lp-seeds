@@ -1,0 +1,15 @@
+artist-id = "40"
+kind = "single"
+
+names = [
+  { name = "너에게 꽃이다", locale = "ko", original = true },
+  { name = "Neoege Kkochida", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-04-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10155842" },
+]
