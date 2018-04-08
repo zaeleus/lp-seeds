@@ -1,0 +1,5 @@
+names = [
+  { name = "믿어줘 (Rebooting)", locale = "ko", original = true },
+  { name = "Mideojwo (Rebooting)", locale = "ko-Latn", default = true },
+  { name = "Rebooting", locale = "en" },
+]

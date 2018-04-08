@@ -1,0 +1,5 @@
+names = [
+  { name = "감각 (Inst.)", locale = "ko", original = true },
+  { name = "Gamgak (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Sense (Inst.)", locale = "en" },
+]
