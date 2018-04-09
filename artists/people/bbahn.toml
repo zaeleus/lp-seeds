@@ -3,6 +3,6 @@ started-on = "1988-10-10"
 country = "KR"
 
 names = [
-  { name = "비비안", locale = "ko", kind = "real", original = true },
-  { name = "BBAhn", locale = "ko-Latn", kind = "real", default = true },
+  { name = "비비안", locale = "ko", kind = "stage", original = true },
+  { name = "BBAhn", locale = "ko-Latn", kind = "stage", default = true },
 ]
