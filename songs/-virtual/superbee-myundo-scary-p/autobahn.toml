@@ -1,0 +1,10 @@
+names = [
+  { name = "아우토반 (AUTOBAHN)", locale = "ko", original = true },
+  { name = "AUTOBAHN", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "superbee", separator = ", " },
+  { artist-id = "myundo", separator = ", " },
+  { artist-id = "scary-p" },
+]

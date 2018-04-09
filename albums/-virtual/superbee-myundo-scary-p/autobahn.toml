@@ -1,0 +1,21 @@
+artist-id = "-virtual/superbee-myundo-scary-p"
+kind = "single"
+
+names = [
+  { name = "아우토반 (AUTOBAHN)", locale = "ko", original = true },
+  { name = "AUTOBAHN", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "superbee", separator = ", " },
+  { artist-id = "myundo", separator = ", " },
+  { artist-id = "scary-p" },
+]
+
+[[releases]]
+released-on = "2018-04-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10155885" },
+]

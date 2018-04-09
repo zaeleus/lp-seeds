@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1983-11-20"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "스케리피", locale = "ko", kind = "stage", original = true },
+  { name = "SCARY'P", locale = "en", kind = "stage", default = true },
+  { name = "박성필", locale = "ko", kind = "real" },
+  { name = "Park Sung Pil", locale = "ko-Latn", kind = "real" },
+]
