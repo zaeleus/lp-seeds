@@ -1,0 +1,3 @@
+names = [
+  { name = "close to me (Unchained Ver.)", locale = "ja", original = true, default = true },
+]
