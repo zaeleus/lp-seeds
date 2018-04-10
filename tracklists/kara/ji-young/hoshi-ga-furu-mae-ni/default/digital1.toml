@@ -1,0 +1,28 @@
+medium-ids = [
+  "kara/ji-young/hoshi-ga-furu-mae-ni/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kara/ji-young/hoshi-ga-furu-mae-ni-prod-by-iwai-shunji"
+duration = "5:40"
+
+[[tracks]]
+position = 2
+song-id = "kara/ji-young/hoshi-ga-furu-mae-ni-prod-by-kameda-seiji"
+duration = "3:47"
+
+[[tracks]]
+position = 3
+song-id = "kara/ji-young/hoshi-ga-furu-mae-ni-prod-by-seiho"
+duration = "3:04"
+
+[[tracks]]
+position = 4
+song-id = "kara/ji-young/hoshi-ga-furu-mae-ni-prod-by-monjoe"
+duration = "3:42"
+
+[[tracks]]
+position = 5
+song-id = "kara/ji-young/hoshi-ga-furu-mae-ni-prod-by-yamamoto-katsuhiko"
+duration = "5:59"
