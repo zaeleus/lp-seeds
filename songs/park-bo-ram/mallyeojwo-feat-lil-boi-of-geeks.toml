@@ -1,0 +1,5 @@
+names = [
+  { name = "말려줘 (Feat. 릴보이 of 긱스)", locale = "ko", original = true },
+  { name = "Mallyeojwo (Feat. Lil Boi of Geeks)", locale = "ko-Latn", default = true },
+  { name = "Please, Stop Me (Feat. Lil Boi of Geeks)", locale = "en" },
+]
