@@ -1,0 +1,4 @@
+names = [
+  { name = "그러지 말걸 (Feat. MaseWonder)", locale = "ko", original = true },
+  { name = "Geureoji Malgeol (Feat. MaseWonder)", locale = "ko-Latn", default = true },
+]
