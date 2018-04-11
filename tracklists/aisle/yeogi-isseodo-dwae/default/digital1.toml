@@ -1,0 +1,13 @@
+medium-ids = [
+  "aisle/yeogi-isseodo-dwae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aisle/yeogi-isseodo-dwae"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "aisle/yeogi-isseodo-dwae-inst"
+duration = "4:05"

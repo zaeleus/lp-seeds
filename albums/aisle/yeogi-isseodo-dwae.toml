@@ -1,0 +1,15 @@
+artist-id = "aisle"
+kind = "single"
+
+names = [
+  { name = "여기 있어도 돼", locale = "ko", original = true },
+  { name = "Yeogi Isseodo Dwae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-04-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10156653" },
+]
