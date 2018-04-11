@@ -1,0 +1,13 @@
+medium-ids = [
+  "seventeen/dk/widaehan-yuhokja-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seventeen/dk/naega-meonjeo"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "seventeen/dk/naega-meonjeo-inst"
+duration = "3:56"

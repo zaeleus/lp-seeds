@@ -1,0 +1,11 @@
+names = [
+  { name = "내가 먼저 (Inst.)", locale = "ko", original = true },
+  { name = "Naega Meonjeo (Inst.)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "seventeen/dk"
+names = [
+  { name = "도겸 (SEVENTEEN)", locale = "ko", original = true },
+  { name = "DK (SEVENTEEN)", locale = "en", default = true },
+]
