@@ -1,0 +1,16 @@
+artist-id = "t-ara/ji-yeon"
+kind = "single"
+
+names = [
+  { name = "추리의 여왕 시즌2 OST Part.8", locale = "ko", original = true },
+  { name = "Churiui Yeowang Season 2 OST Part.8", locale = "ko-Latn", default = true },
+  { name = "Queen of Mystery Season 2 OST Part.8", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-04-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10156663" },
+]

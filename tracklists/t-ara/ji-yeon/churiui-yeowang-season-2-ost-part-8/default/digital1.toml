@@ -1,0 +1,13 @@
+medium-ids = [
+  "t-ara/ji-yeon/churiui-yeowang-season-2-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/ji-yeon/jibeuro-oneun-gil-feat-park-hyo-jun"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/ji-yeon/jibeuro-oneun-gil-inst"
+duration = "3:13"
