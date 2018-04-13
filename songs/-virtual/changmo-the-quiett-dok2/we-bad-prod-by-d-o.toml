@@ -1,0 +1,9 @@
+names = [
+  { name = "We Bad (Prod by D.O)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "changmo", separator = ", " },
+  { artist-id = "the-quiett", separator = ", " },
+  { artist-id = "dok2" },
+]

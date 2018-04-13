@@ -1,0 +1,20 @@
+artist-id = "-virtual/changmo-the-quiett-dok2"
+kind = "single"
+
+names = [
+  { name = "We Bad", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "changmo", separator = ", " },
+  { artist-id = "the-quiett", separator = ", " },
+  { artist-id = "dok2" },
+]
+
+[[releases]]
+released-on = "2018-04-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10158012" },
+]
