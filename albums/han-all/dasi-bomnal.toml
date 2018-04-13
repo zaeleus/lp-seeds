@@ -1,0 +1,15 @@
+artist-id = "han-all"
+kind = "single"
+
+names = [
+  { name = "다시, 봄날", locale = "ko", original = true },
+  { name = "Dasi, Bomnal", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-04-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10157050" },
+]
