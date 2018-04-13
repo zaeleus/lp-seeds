@@ -1,0 +1,13 @@
+medium-ids = [
+  "taesabiae/i-mudaega-majimagi-doedeorado-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "taesabiae/i-mudaega-majimagi-doedeorado-2-feat-ryeo"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "taesabiae/i-mudaega-majimagi-doedeorado-2-inst"
+duration = "3:49"
