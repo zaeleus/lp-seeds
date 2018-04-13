@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1974-06-11"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "드렁큰 타이거", locale = "ko", kind = "stage", original = true },
+  { name = "Drunken Tiger", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "서정권", locale = "ko", kind = "real" },
+  { name = "Seo Jung Kwon", locale = "ko-Latn", kind = "real" },
+]

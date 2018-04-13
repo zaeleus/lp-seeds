@@ -1,0 +1,8 @@
+medium-ids = [
+  "mfbty/drunken-tiger/drunken-tiger/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mfbty/drunken-tiger/yet"
+duration = "3:24"
