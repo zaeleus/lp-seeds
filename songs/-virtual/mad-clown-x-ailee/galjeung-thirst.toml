@@ -1,0 +1,10 @@
+names = [
+  { name = "갈증 (Thirst)", locale = "ko", original = true },
+  { name = "Galjeung (Thirst)", locale = "ko-Latn", default = true },
+  { name = "Thirst", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "mad-clown", separator = "X" },
+  { artist-id = "ailee" },
+]
