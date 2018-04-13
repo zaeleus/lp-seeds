@@ -1,0 +1,58 @@
+medium-ids = [
+  "vanilla-acoustic/eoullige-chilhaejwo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vanilla-acoustic/anajwoyo"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "vanilla-acoustic/gateun-mal"
+duration = "3:35"
+
+[[tracks]]
+position = 3
+song-id = "vanilla-acoustic/neoreul-dama-bom-feat-20-years-of-age"
+duration = "3:47"
+
+[[tracks]]
+position = 4
+song-id = "vanilla-acoustic/neoman-saenggangna"
+duration = "3:37"
+
+[[tracks]]
+position = 5
+song-id = "vanilla-acoustic/eoullige-chilhaejwo"
+duration = "3:11"
+
+[[tracks]]
+position = 6
+song-id = "vanilla-acoustic/kkeuchi-anin-geot-gataseo"
+duration = "4:10"
+
+[[tracks]]
+position = 7
+song-id = "vanilla-acoustic/dwieseo-georeulge"
+duration = "1:35"
+
+[[tracks]]
+position = 8
+song-id = "vanilla-acoustic/neoigireul"
+duration = "3:13"
+
+[[tracks]]
+position = 9
+song-id = "vanilla-acoustic/date"
+duration = "3:27"
+
+[[tracks]]
+position = 10
+song-id = "vanilla-acoustic/yeohaengjung"
+duration = "3:10"
+
+[[tracks]]
+position = 11
+song-id = "vanilla-acoustic/ulkeokhae"
+duration = "3:41"
