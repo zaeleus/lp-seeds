@@ -1,0 +1,13 @@
+medium-ids = [
+  "g-o-d/kim-tae-woo/bomui-mat/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-o-d/kim-tae-woo/bomui-mat"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "g-o-d/kim-tae-woo/bomui-mat-inst"
+duration = "3:00"
