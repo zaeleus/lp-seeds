@@ -1,0 +1,8 @@
+medium-ids = [
+  "yeseo/gakjaui-bam-night-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yeseo/gakjaui-bam-night-night"
+duration = "3:45"
