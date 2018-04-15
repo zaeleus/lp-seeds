@@ -1,0 +1,13 @@
+medium-ids = [
+  "klang/derillampyeon-oh-jak-doo-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "klang/neoman-moreuneun-iyagi"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "klang/neoman-moreuneun-iyagi-inst"
+duration = "3:40"

@@ -1,0 +1,17 @@
+artist-id = "klang"
+kind = "single"
+
+names = [
+  { name = "데릴남편 오작두 OST Part.5", locale = "ko", original = true },
+  { name = "Derillampyeon Oh Jak Doo OST Part.5", locale = "ko-Latn", default = true },
+  { name = "My Husband Oh Jak Doo OST Part.5", locale = "en" },
+  { name = "My Husband, Mr. Oh! OST Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-04-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10157837" },
+]
