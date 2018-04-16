@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "담소네공방", locale = "ko", original = true },
+  { name = "Damsonegongbang", locale = "ko-Latn", default = true },
+]

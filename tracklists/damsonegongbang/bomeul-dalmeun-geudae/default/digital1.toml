@@ -1,0 +1,8 @@
+medium-ids = [
+  "damsonegongbang/bomeul-dalmeun-geudae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "damsonegongbang/bomeul-dalmeun-geudae"
+duration = "3:41"
