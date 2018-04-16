@@ -10,6 +10,6 @@ urls = [
 [[artist-credits]]
 artist-id = "girls-generation/tiffany"
 names = [
-  { name = "티파니", locale = "ko", kind = "stage", original = true },
-  { name = "TIFFANY", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "티파니", locale = "ko", original = true },
+  { name = "TIFFANY", locale = "ko-Latn", default = true },
 ]

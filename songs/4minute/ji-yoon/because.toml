@@ -5,6 +5,6 @@ names = [
 [[artist-credits]]
 artist-id = "4minute/ji-yoon"
 names = [
-  { name = "전지윤", locale = "ko", kind = "real", original = true },
-  { name = "Jeon Ji Yoon", locale = "ko-Latn", kind = "real", default = true },
+  { name = "전지윤", locale = "ko", original = true },
+  { name = "Jeon Ji Yoon", locale = "ko-Latn", default = true },
 ]

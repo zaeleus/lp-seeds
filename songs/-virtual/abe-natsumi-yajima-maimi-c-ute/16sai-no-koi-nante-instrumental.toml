@@ -11,6 +11,6 @@ separator = " & "
 [[artist-credits]]
 artist-id = "c-ute/yajima-maimi"
 names = [
-  { name = "矢島舞美 (°C-ute)", locale = "ja", kind = "real", original = true },
-  { name = "Yajima Maimi (°C-ute)", locale = "ja-Latn", kind = "real", default = true },
+  { name = "矢島舞美 (°C-ute)", locale = "ja", original = true },
+  { name = "Yajima Maimi (°C-ute)", locale = "ja-Latn", default = true },
 ]

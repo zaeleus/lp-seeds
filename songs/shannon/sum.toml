@@ -11,8 +11,8 @@ separator = ", "
 [[artist-credits]]
 artist-id = "bill-stax"
 names = [
-  { name = "바스코", locale = "ko", kind = "stage" },
-  { name = "Vasco", locale = "ko-Latn", kind = "stage" },
+  { name = "바스코", locale = "ko", original = true },
+  { name = "Vasco", locale = "ko-Latn", default = true },
 ]
 separator = ", "
 
