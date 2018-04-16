@@ -1,0 +1,13 @@
+medium-ids = [
+  "monogram/sireul-ijeun-geudaeege-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "monogram/geu-saram"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "monogram/geu-saram-inst"
+duration = "3:32"
