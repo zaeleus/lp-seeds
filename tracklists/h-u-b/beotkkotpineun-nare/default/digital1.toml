@@ -1,0 +1,18 @@
+medium-ids = [
+  "h-u-b/beotkkotpineun-nare/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "h-u-b/beotkkotpineun-nare"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "h-u-b/beotkkotpineun-nare-acoustic-ver"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "h-u-b/beotkkotpineun-nare-inst"
+duration = "3:41"

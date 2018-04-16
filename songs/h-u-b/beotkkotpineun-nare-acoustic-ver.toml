@@ -1,0 +1,5 @@
+names = [
+  { name = "벚꽃피는 날에 (Acoustic Ver.)", locale = "ko", original = true },
+  { name = "Beotkkotpineun Nare (Acoustic Ver.)", locale = "ko-Latn", default = true },
+  { name = "When a Blossom Day of Cherry Blossom (Acoustic Ver.)", locale = "en" },
+]
