@@ -1,0 +1,5 @@
+names = [
+  { name = "花요일 (Blooming Day)", locale = "ko", original = true },
+  { name = "Hwa-yoil (Blooming Day)", locale = "ko-Latn", default = true },
+  { name = "Blooming Day", locale = "en" },
+]

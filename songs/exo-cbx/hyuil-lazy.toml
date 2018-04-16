@@ -1,0 +1,5 @@
+names = [
+  { name = "휴일 (Lazy)", locale = "ko", original = true },
+  { name = "Hyuil (Lazy)", locale = "ko-Latn", default = true },
+  { name = "Lazy", locale = "en" },
+]
