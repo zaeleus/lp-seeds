@@ -1,0 +1,5 @@
+names = [
+  { name = "달콤해 (Tap It)", locale = "ko", original = true },
+  { name = "Dalkomhae (Tap It)", locale = "ko-Latn", default = true },
+  { name = "Tap It", locale = "en" },
+]

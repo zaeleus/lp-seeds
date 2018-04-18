@@ -1,0 +1,14 @@
+artist-id = "highteen"
+kind = "ep"
+
+names = [
+  { name = "TEEN LOVE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-04-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10159389" },
+]
