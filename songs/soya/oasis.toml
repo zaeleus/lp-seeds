@@ -1,0 +1,3 @@
+names = [
+  { name = "OASIS", locale = "ko", original = true, default = true },
+]
