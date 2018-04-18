@@ -1,0 +1,13 @@
+medium-ids = [
+  "urban-zakapa/jo-hyun-ah/geudae-tteonan-dwi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "urban-zakapa/jo-hyun-ah/geudae-tteonan-dwi"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "urban-zakapa/jo-hyun-ah/love-letter-feat-kwak-jin-eon"
+duration = "4:39"

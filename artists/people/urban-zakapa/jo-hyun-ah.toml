@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1989-08-28"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "조현아", locale = "ko", kind = "real", original = true },
+  { name = "Jo Hyun Ah", locale = "ko-Latn", kind = "real", default = true },
+]

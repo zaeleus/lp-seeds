@@ -1,0 +1,5 @@
+names = [
+  { name = "그대 떠난 뒤", locale = "ko", original = true },
+  { name = "Geudae Tteonan Dwi", locale = "ko-Latn", default = true },
+  { name = "After You", locale = "en" },
+]
