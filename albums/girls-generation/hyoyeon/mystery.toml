@@ -8,8 +8,8 @@ names = [
 [[artist-credits]]
 artist-id = "girls-generation/hyoyeon"
 names = [
-  { name = "효연", locale = "ko", kind = "stage", original = true },
-  { name = "HYOYEON", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "효연", locale = "ko", original = true },
+  { name = "HYOYEON", locale = "ko-Latn", default = true },
 ]
 
 [[releases]]
