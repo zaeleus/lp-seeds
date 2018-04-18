@@ -1,0 +1,18 @@
+medium-ids = [
+  "chung-ha/yeonaepocha-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "chung-ha/eotteongayo-geudaen"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "chung-ha/eotteongayo-geudaen-inst"
+duration = "3:19"
+
+[[tracks]]
+position = 3
+song-id = "chung-ha/eotteongayo-geudaen-piano-ver"
+duration = "0:49"
