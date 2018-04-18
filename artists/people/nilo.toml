@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1990-04-18"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "닐로", locale = "ko", kind = "stage", original = true },
+  { name = "Nilo", locale = "ko-Latn", kind = "stage", default = true },
+]

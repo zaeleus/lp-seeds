@@ -1,0 +1,28 @@
+medium-ids = [
+  "nilo/about-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nilo/uri-intro"
+duration = "0:36"
+
+[[tracks]]
+position = 2
+song-id = "nilo/wae-cheoeumgwa-kkeuteun-dareun-geolkka"
+duration = "4:11"
+
+[[tracks]]
+position = 3
+song-id = "nilo/jinaoda"
+duration = "4:41"
+
+[[tracks]]
+position = 4
+song-id = "nilo/doedolligo-sipda"
+duration = "3:38"
+
+[[tracks]]
+position = 5
+song-id = "nilo/jinaoda-inst"
+duration = "4:41"
