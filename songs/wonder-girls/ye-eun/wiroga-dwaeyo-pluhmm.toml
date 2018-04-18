@@ -1,0 +1,12 @@
+names = [
+  { name = "위로가 돼요 (Pluhmm)", locale = "ko", original = true },
+  { name = "Wiroga Dwaeyo (Pluhmm)", locale = "ko-Latn", default = true },
+  { name = "Pluhmm", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "wonder-girls/ye-eun"
+names = [
+  { name = "핫펠트", locale = "ko", original = true },
+  { name = "HA:TFELT", locale = "ko-Latn", default = true },
+]

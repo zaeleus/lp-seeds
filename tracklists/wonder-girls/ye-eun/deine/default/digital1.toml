@@ -1,0 +1,13 @@
+medium-ids = [
+  "wonder-girls/ye-eun/deine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wonder-girls/ye-eun/wiroga-dwaeyo-pluhmm"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "wonder-girls/ye-eun/cigar"
+duration = "3:58"
