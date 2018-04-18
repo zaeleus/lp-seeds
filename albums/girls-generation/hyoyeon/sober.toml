@@ -1,0 +1,20 @@
+artist-id = "girls-generation/hyoyeon"
+kind = "single"
+
+names = [
+  { name = "Sober", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/hyoyeon"
+names = [
+  { name = "HYO", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-04-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10159356" },
+]

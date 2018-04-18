@@ -1,0 +1,18 @@
+medium-ids = [
+  "girls-generation/hyoyeon/sober/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/hyoyeon/sober-feat-ummet-ozcan"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/hyoyeon/sober-feat-ummet-ozcan-english-ver"
+duration = "2:58"
+
+[[tracks]]
+position = 3
+song-id = "girls-generation/hyoyeon/sober-pop-ver"
+duration = "3:32"
