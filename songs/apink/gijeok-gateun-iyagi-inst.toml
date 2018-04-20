@@ -1,0 +1,5 @@
+names = [
+  { name = "기적 같은 이야기 (Inst.)", locale = "ko", original = true },
+  { name = "Gijeok Gateun Iyagi (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Mircale (Inst.)", locale = "en" },
+]

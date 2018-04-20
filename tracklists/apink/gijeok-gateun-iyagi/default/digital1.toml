@@ -1,0 +1,13 @@
+medium-ids = [
+  "apink/gijeok-gateun-iyagi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink/gijeok-gateun-iyagi"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "apink/gijeok-gateun-iyagi-inst"
+duration = "3:36"

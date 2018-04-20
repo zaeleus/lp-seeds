@@ -1,0 +1,16 @@
+artist-id = "apink"
+kind = "single"
+
+names = [
+  { name = "기적 같은 이야기", locale = "ko", original = true },
+  { name = "Gijeok Gateun Iyagi", locale = "ko-Latn", default = true },
+  { name = "Miracle", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-04-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10159847" },
+]
