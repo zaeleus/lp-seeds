@@ -1,0 +1,18 @@
+medium-ids = [
+  "minseo/aljido-mothamyeonseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minseo/aljido-mothamyeonseo"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "minseo/meotjin-kkum"
+duration = "4:28"
+
+[[tracks]]
+position = 3
+song-id = "minseo/meotjin-kkum-acoustic-ver"
+duration = "4:15"
