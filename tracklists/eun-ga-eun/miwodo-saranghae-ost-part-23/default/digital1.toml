@@ -1,0 +1,13 @@
+medium-ids = [
+  "eun-ga-eun/miwodo-saranghae-ost-part-23/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eun-ga-eun/i-sarang"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "eun-ga-eun/i-sarang-inst"
+duration = "3:22"

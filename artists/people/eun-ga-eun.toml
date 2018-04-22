@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1987-08-26"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "은가은", locale = "ko", kind = "stage", original = true },
+  { name = "Eun Ga Eun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김지은", locale = "ko", kind = "real" },
+  { name = "Kim Ji Eun", locale = "ko-Latn", kind = "real" },
+]
