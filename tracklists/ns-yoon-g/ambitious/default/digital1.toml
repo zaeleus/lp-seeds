@@ -1,0 +1,28 @@
+medium-ids = [
+  "ns-yoon-g/ambitious/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ns-yoon-g/don-t-go-back"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "ns-yoon-g/golden"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "ns-yoon-g/meori-apa"
+duration = "3:57"
+
+[[tracks]]
+position = 4
+song-id = "ns-yoon-g/don-t-go-back-inst"
+duration = "3:16"
+
+[[tracks]]
+position = 5
+song-id = "ns-yoon-g/golden-inst"
+duration = "3:16"

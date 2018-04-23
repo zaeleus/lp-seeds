@@ -1,0 +1,14 @@
+artist-id = "ns-yoon-g"
+kind = "single"
+
+names = [
+  { name = "Ambitious", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2010-05-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=890858" },
+]
