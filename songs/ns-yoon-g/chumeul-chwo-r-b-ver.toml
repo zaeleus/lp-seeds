@@ -1,0 +1,5 @@
+names = [
+  { name = "춤을 춰 (R&B Ver.)", locale = "ko", original = true },
+  { name = "Chumeul Chwo (R&B Ver.)", locale = "ko-Latn", default = true },
+  { name = "Just Dance (R&B Ver.)", locale = "en" },
+]

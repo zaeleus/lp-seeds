@@ -1,0 +1,28 @@
+medium-ids = [
+  "ns-yoon-g/time-to-fly-high/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ns-yoon-g/n-to-the-s-yoon-g"
+duration = "0:45"
+
+[[tracks]]
+position = 2
+song-id = "ns-yoon-g/chumeul-chwo"
+duration = "3:38"
+
+[[tracks]]
+position = 3
+song-id = "ns-yoon-g/dj-don-t-stop"
+duration = "2:43"
+
+[[tracks]]
+position = 4
+song-id = "ns-yoon-g/chumeul-chwo-r-b-ver"
+duration = "3:38"
+
+[[tracks]]
+position = 5
+song-id = "ns-yoon-g/chumeul-chwo-inst"
+duration = "3:37"
