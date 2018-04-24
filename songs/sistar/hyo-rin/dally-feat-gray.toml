@@ -1,0 +1,11 @@
+names = [
+  { name = "달리 (Dally) (Feat. GRAY)", locale = "ko", original = true },
+  { name = "Dally (Feat. Gray)", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "sistar/hyo-rin"
+names = [
+  { name = "효린", locale = "ko", original = true },
+  { name = "Hyolyn", locale = "ko-Latn", default = true },
+]
