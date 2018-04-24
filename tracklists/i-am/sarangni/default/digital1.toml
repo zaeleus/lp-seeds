@@ -1,0 +1,13 @@
+medium-ids = [
+  "i-am/sarangni/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "i-am/sarangni"
+duration = "4:24"
+
+[[tracks]]
+position = 2
+song-id = "i-am/sarangni-inst"
+duration = "4:24"

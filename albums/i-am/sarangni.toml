@@ -1,0 +1,15 @@
+artist-id = "i-am"
+kind = "single"
+
+names = [
+  { name = "사랑니", locale = "ko", original = true },
+  { name = "Sarangni", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-04-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10160894" },
+]
