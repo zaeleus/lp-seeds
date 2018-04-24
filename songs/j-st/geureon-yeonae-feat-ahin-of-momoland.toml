@@ -1,0 +1,4 @@
+names = [
+  { name = "그런 연애 (Feat. 아인 of 모모랜드)", locale = "ko", original = true },
+  { name = "Geureon Yeonae (Feat. Ahin of MOMOLAND)", locale = "ko-Latn", default = true },
+]

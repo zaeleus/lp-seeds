@@ -1,0 +1,15 @@
+artist-id = "j-st"
+kind = "single"
+
+names = [
+  { name = "그런 연애 (Feat. 아인 of 모모랜드)", locale = "ko", original = true },
+  { name = "Geureon Yeonae (Feat. Ahin of MOMOLAND)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-04-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10160908" },
+]
