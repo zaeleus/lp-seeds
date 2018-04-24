@@ -1,0 +1,5 @@
+names = [
+  { name = "治癒 (치유)", locale = "ko", original = true },
+  { name = "Chiyu", locale = "ko-Latn", default = true },
+  { name = "Heal", locale = "en" },
+]

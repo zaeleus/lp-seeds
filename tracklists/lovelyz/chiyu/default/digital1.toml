@@ -1,0 +1,33 @@
+medium-ids = [
+  "lovelyz/chiyu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lovelyz/chiyu"
+duration = "0:55"
+
+[[tracks]]
+position = 2
+song-id = "lovelyz/geunarui-neo"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "lovelyz/mimyomimyohae"
+duration = "3:02"
+
+[[tracks]]
+position = 4
+song-id = "lovelyz/temptation"
+duration = "3:27"
+
+[[tracks]]
+position = 5
+song-id = "lovelyz/suchaehwa"
+duration = "3:48"
+
+[[tracks]]
+position = 6
+song-id = "lovelyz/shiningstar"
+duration = "3:20"
