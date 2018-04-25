@@ -1,0 +1,23 @@
+medium-ids = [
+  "mamamoo/solar/solar-gamseong-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/solar/barami-bureooneun-got"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/solar/nunmuri-jurukjuruk"
+duration = "4:11"
+
+[[tracks]]
+position = 3
+song-id = "mamamoo/solar/handongan-tteumhaesseotji"
+duration = "2:31"
+
+[[tracks]]
+position = 4
+song-id = "mamamoo/solar/byeol-baram-kkot-taeyang-solo-ver"
+duration = "3:25"

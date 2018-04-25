@@ -1,0 +1,5 @@
+names = [
+  { name = "바람이 불어오는 곳", locale = "ko", original = true },
+  { name = "Barami Bureooneun Got", locale = "ko-Latn", default = true },
+  { name = "Where the Wind Rises", locale = "en" },
+]

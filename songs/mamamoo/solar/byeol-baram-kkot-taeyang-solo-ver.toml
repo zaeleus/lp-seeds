@@ -1,0 +1,5 @@
+names = [
+  { name = "별 바람 꽃 태양 (Solo Ver.)", locale = "ko", original = true },
+  { name = "Byeol Baram Kkot Taeyang (Solo Ver.)", locale = "ko-Latn", default = true },
+  { name = "Star Wind Flower Sun (Solo Ver.)", locale = "en" },
+]
