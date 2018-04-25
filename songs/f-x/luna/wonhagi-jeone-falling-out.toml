@@ -1,0 +1,12 @@
+names = [
+  { name = "원하기 전에 (Falling Out)", locale = "ko", original = true },
+  { name = "Wonhagi Jeone (Falling Out)", locale = "ko-Latn", default = true },
+  { name = "Falling Out", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "f-x/luna"
+names = [
+  { name = "루나", locale = "ko", original = true },
+  { name = "LUNA", locale = "ko-Latn", default = true },
+]

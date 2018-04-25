@@ -1,0 +1,12 @@
+names = [
+  { name = "그런 밤 (Night Reminiscin') (With 양다일)", locale = "ko", original = true },
+  { name = "Geureon Bam (Night Reminiscin') (With Yang Da Il)", locale = "ko-Latn", default = true },
+  { name = "Night Reminiscin' (With Yang Da Il)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "f-x/luna"
+names = [
+  { name = "루나", locale = "ko", original = true },
+  { name = "LUNA", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "f-x/luna/geureon-bam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/luna/geureon-bam-night-reminiscin-with-yang-da-il"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "f-x/luna/wonhagi-jeone-falling-out"
+duration = "4:36"
