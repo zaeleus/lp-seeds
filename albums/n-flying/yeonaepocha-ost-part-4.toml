@@ -1,0 +1,15 @@
+artist-id = "n-flying"
+kind = "single"
+
+names = [
+  { name = "연애포차 OST Part.4", locale = "ko", original = true },
+  { name = "Yeonaepocha OST Part.4", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-04-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10161744" },
+]
