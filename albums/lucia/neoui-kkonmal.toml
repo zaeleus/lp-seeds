@@ -1,0 +1,15 @@
+artist-id = "lucia"
+kind = "single"
+
+names = [
+  { name = "너의 꽃말", locale = "ko", original = true },
+  { name = "Neoui Kkonmal", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-04-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10161743" },
+]
