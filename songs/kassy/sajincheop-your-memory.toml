@@ -1,0 +1,5 @@
+names = [
+  { name = "사진첩 (Your memory)", locale = "ko", original = true },
+  { name = "Sajincheop (Your memory)", locale = "ko-Latn", default = true },
+  { name = "Your memory", locale = "en" },
+]

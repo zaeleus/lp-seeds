@@ -1,0 +1,16 @@
+artist-id = "kassy"
+kind = "single"
+
+names = [
+  { name = "사진첩 (Your memory)", locale = "ko", original = true },
+  { name = "Sajincheop (Your memory)", locale = "ko-Latn", default = true },
+  { name = "Your memory", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-04-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10162207" },
+]
