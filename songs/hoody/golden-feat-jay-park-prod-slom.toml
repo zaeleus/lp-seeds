@@ -1,0 +1,4 @@
+names = [
+  { name = "Golden (Feat. 박재범) (Prod. Slom)", locale = "ko", original = true },
+  { name = "Golden (Feat. Jay Park) (Prod. Slom)", locale = "en", default = true },
+]

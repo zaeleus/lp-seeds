@@ -1,0 +1,13 @@
+medium-ids = [
+  "hoody/golden/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hoody/why-feat-george-prod-slom"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "hoody/golden-feat-jay-park-prod-slom"
+duration = "3:40"

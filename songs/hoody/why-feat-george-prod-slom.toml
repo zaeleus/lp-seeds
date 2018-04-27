@@ -1,0 +1,4 @@
+names = [
+  { name = "Why (Feat. 죠지) (Prod. Slom)", locale = "ko", original = true },
+  { name = "Why (Feat. George) (Prod. Slom)", locale = "ko-Latn", default = true },
+]
