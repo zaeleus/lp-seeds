@@ -1,0 +1,16 @@
+artist-id = "woo-eun-mi"
+kind = "single"
+
+names = [
+  { name = "인형의 집 OST Part.8", locale = "ko", original = true },
+  { name = "Inhyeongui Jip OST Part.8", locale = "ko-Latn", default = true },
+  { name = "Mysterious Personal Shopper OST Part.8", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-04-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10162362" },
+]

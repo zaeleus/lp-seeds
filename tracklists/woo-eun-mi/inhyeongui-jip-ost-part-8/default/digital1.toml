@@ -1,0 +1,13 @@
+medium-ids = [
+  "woo-eun-mi/inhyeongui-jip-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-eun-mi/neoui-sosik"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "woo-eun-mi/neoui-sosik-inst"
+duration = "3:12"
