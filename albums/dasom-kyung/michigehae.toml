@@ -1,0 +1,16 @@
+artist-id = "dasom-kyung"
+kind = "single"
+
+names = [
+  { name = "미치게해", locale = "ko", original = true },
+  { name = "Michigehae", locale = "ko-Latn", default = true },
+  { name = "Fall in Love", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-04-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10162742" },
+]
