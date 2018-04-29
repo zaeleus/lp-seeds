@@ -1,0 +1,5 @@
+names = [
+  { name = "난리가 난리가 났네 (Inst.)", locale = "ko", original = true },
+  { name = "Nalliga Nalliga Nanne (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Crazy, Gone Crazy (Inst.)", locale = "en" },
+]

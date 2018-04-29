@@ -1,0 +1,13 @@
+medium-ids = [
+  "berrygood-heartheart/nalliga-nalliga-nanne/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "berrygood-heartheart/nalliga-nalliga-nanne"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "berrygood-heartheart/nalliga-nalliga-nanne-inst"
+duration = "3:37"

@@ -1,0 +1,15 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "베리굿 하트하트", locale = "ko", original = true },
+  { name = "BerryGood HEARTHEART", locale = "en", default = true },
+]
+
+members = [
+  { artist-id = "berrygood/tae-ha" },
+  { artist-id = "berrygood/go-woon" },
+  { artist-id = "berrygood/se-hyung" },
+]

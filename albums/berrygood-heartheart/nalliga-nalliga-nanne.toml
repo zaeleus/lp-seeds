@@ -1,0 +1,16 @@
+artist-id = "berrygood-heartheart"
+kind = "single"
+
+names = [
+  { name = "난리가 난리가 났네", locale = "ko", original = true },
+  { name = "Nalliga Nalliga Nanne", locale = "ko-Latn", default = true },
+  { name = "Crazy, Gone Crazy", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-04-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10162628" },
+]
