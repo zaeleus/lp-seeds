@@ -1,0 +1,4 @@
+names = [
+  { name = "틱틱 (Tik Tik)", locale = "ko", original = true },
+  { name = "Tik Tik", locale = "en", default = true },
+]

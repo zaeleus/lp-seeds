@@ -1,0 +1,5 @@
+names = [
+  { name = "밤 (Time for the moon night)", locale = "ko", original = true },
+  { name = "Bam (Time for the moon night)", locale = "ko-Latn", default = true },
+  { name = "Time for the moon night", locale = "en" },
+]

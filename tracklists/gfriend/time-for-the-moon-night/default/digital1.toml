@@ -1,0 +1,43 @@
+medium-ids = [
+  "gfriend/time-for-the-moon-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gfriend/intro-daytime"
+duration = "1:00"
+
+[[tracks]]
+position = 2
+song-id = "gfriend/bam-time-for-the-moon-night"
+duration = "3:46"
+
+[[tracks]]
+position = 3
+song-id = "gfriend/love-bug"
+duration = "3:42"
+
+[[tracks]]
+position = 4
+song-id = "gfriend/hwiri-hwiri-flower-garden"
+duration = "3:15"
+
+[[tracks]]
+position = 5
+song-id = "gfriend/tik-tik"
+duration = "2:59"
+
+[[tracks]]
+position = 6
+song-id = "gfriend/bye"
+duration = "4:54"
+
+[[tracks]]
+position = 7
+song-id = "gfriend/byeol-you-are-my-star"
+duration = "3:15"
+
+[[tracks]]
+position = 8
+song-id = "gfriend/bam-time-for-the-moon-night-inst"
+duration = "3:47"
