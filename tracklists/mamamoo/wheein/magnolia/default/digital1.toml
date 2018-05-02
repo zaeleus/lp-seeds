@@ -1,0 +1,8 @@
+medium-ids = [
+  "mamamoo/wheein/magnolia/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/wheein/easy-feat-sik-k"
+duration = "3:08"
