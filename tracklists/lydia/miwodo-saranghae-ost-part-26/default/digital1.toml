@@ -1,0 +1,13 @@
+medium-ids = [
+  "lydia/miwodo-saranghae-ost-part-26/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lydia/sarangeul-handa-haedo"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "lydia/sarangeul-handa-haedo-inst"
+duration = "3:11"

@@ -1,0 +1,16 @@
+artist-id = "lydia"
+kind = "single"
+
+names = [
+  { name = "미워도 사랑해 OST Part.26", locale = "ko", original = true },
+  { name = "Miwodo Saranghae OST Part.26", locale = "ko-Latn", default = true },
+  { name = "Love Returns OST Part.26", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-05-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10163278" },
+]
