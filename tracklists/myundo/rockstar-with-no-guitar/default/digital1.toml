@@ -1,0 +1,8 @@
+medium-ids = [
+  "myundo/rockstar-with-no-guitar/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "myundo/rockstar-with-no-guitar-feat-kidk-kidk"
+duration = "3:40"
