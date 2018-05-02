@@ -1,0 +1,13 @@
+medium-ids = [
+  "bewhy/suits/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bewhy/suit-up"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "bewhy/man-in-the-suit"
+duration = "3:11"
