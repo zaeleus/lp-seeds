@@ -1,0 +1,5 @@
+names = [
+  { name = "모래성 (Sandcastles)", locale = "ko", original = true },
+  { name = "Moraeseong (Sandcastles)", locale = "ko-Latn", default = true },
+  { name = "Sandcastles", locale = "en" },
+]

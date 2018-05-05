@@ -1,0 +1,16 @@
+artist-id = "aseul"
+kind = "single"
+
+names = [
+  { name = "모래성 (Sandcastles)", locale = "ko", original = true },
+  { name = "Moraeseong (Sandcastles)", locale = "ko-Latn", default = true },
+  { name = "Sandcastles", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-05-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10164144" },
+]
