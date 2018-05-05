@@ -1,0 +1,16 @@
+artist-id = "crush"
+kind = "single"
+
+names = [
+  { name = "잊을만하면", locale = "ko", original = true },
+  { name = "Ijeulmanhamyeon", locale = "ko-Latn", default = true },
+  { name = "Bittersweet", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-05-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10163835" },
+]

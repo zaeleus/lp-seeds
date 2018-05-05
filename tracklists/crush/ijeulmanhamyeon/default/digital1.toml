@@ -1,0 +1,8 @@
+medium-ids = [
+  "crush/ijeulmanhamyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "crush/ijeulmanhamyeon"
+duration = "3:57"
