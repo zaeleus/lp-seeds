@@ -1,0 +1,15 @@
+artist-id = "tarin"
+kind = "single"
+
+names = [
+  { name = "행복한 일은 매일 있어", locale = "ko", original = true },
+  { name = "Haengbokhan Ireun Maeil Isseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-05-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10164397" },
+]

@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1992-09-02"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "타린", locale = "ko", kind = "stage", original = true },
+  { name = "Tarin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "한재원", locale = "ko", kind = "real" },
+  { name = "Han Jae Won", locale = "ko", kind = "real" },
+]
