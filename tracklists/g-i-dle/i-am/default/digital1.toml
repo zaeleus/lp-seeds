@@ -1,0 +1,33 @@
+medium-ids = [
+  "g-i-dle/i-am/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-i-dle/latata"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "g-i-dle/dalla"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "g-i-dle/maze"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song-id = "g-i-dle/don-t-text-me"
+duration = "3:36"
+
+[[tracks]]
+position = 5
+song-id = "g-i-dle/algo-sipeo"
+duration = "3:27"
+
+[[tracks]]
+position = 6
+song-id = "g-i-dle/deureojwoyo"
+duration = "3:57"

@@ -1,0 +1,9 @@
+kind = "group"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "(여자)아이들", locale = "ko", original = true },
+  { name = "(G)I-DLE", locale = "ko-Latn", default = true },
+]
