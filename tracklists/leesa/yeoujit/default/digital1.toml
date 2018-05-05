@@ -1,0 +1,8 @@
+medium-ids = [
+  "leesa/yeoujit/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leesa/yeoujit"
+duration = "3:16"
