@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/kyungri-it-s/oneul-bam-mwohae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/kyungri-it-s/oneul-bam-mwohae"
+duration = "2:59"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/kyungri-it-s/oneul-bam-mwohae-inst"
+duration = "2:59"

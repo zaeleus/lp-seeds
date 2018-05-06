@@ -1,0 +1,16 @@
+names = [
+  { name = "오늘 밤 뭐해?", locale = "ko", original = true },
+  { name = "Oneul Bam Mwohae?", locale = "ko-Latn", default = true },
+  { name = "What're You Doing Tonight?", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "nine-muses/kyung-ree"
+names = [
+  { name = "경리", locale = "ko", original = true },
+  { name = "Kyungri", locale = "ko-Latn", default = true },
+]
+separator = " & "
+
+[[artist-credits]]
+artist-id = "it-s"
