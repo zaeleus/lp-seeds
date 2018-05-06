@@ -1,0 +1,8 @@
+medium-ids = [
+  "soreun/cake-song/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "soreun/cake-song"
+duration = "1:32"
