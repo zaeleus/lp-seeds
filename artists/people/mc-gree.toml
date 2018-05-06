@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1998-11-10"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "MC그리", locale = "ko", kind = "stage", original = true },
+  { name = "MC GREE", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김동현", locale = "ko", kind = "real" },
+  { name = "Kim Dong Hyun", locale = "ko", kind = "real" },
+]

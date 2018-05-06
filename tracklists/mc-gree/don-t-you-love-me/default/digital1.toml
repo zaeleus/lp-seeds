@@ -1,0 +1,13 @@
+medium-ids = [
+  "mc-gree/don-t-you-love-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mc-gree/don-t-you-love-me"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "mc-gree/don-t-you-love-me-pt-2-feat-olnl-x-q"
+duration = "3:03"

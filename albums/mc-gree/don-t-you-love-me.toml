@@ -1,0 +1,14 @@
+artist-id = "mc-gree"
+kind = "single"
+
+names = [
+  { name = "DON'T YOU LOVE ME", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-05-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10164511" },
+]
