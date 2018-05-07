@@ -1,0 +1,15 @@
+artist-id = "soreun"
+kind = "single"
+
+names = [
+  { name = "가을동화", locale = "ko", original = true },
+  { name = "Gaeuldonghwa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2017-06-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10070423" },
+]
