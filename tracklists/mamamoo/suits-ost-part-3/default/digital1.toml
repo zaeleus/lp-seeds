@@ -1,0 +1,13 @@
+medium-ids = [
+  "mamamoo/suits-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/kkum-sogui-geudae"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/kkum-sogui-geudae-inst"
+duration = "3:02"
