@@ -1,0 +1,4 @@
+names = [
+  { name = "꿈 (With 세라 of Sunday Moon)", locale = "ko", original = true },
+  { name = "Kkum (With Sarah of Sunday Moon)", locale = "ko-Latn", default = true },
+]
