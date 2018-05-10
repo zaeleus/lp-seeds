@@ -1,0 +1,5 @@
+names = [
+  { name = "내꺼야 (PICK ME)", locale = "ko", original = true },
+  { name = "Naekkeoya (PICK ME)", locale = "ko-Latn", default = true },
+  { name = "PICK ME", locale = "en" },
+]

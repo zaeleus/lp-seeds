@@ -1,0 +1,15 @@
+artist-id = "produce-48"
+kind = "single"
+
+names = [
+  { name = "PRODUCE 48 - 내꺼야 (PICK ME)", locale = "ko", original = true },
+  { name = "PRODUCE 48 - Naekkeoya (PICK ME)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-05-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10165685" },
+]

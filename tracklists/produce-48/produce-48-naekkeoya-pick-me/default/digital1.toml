@@ -1,0 +1,13 @@
+medium-ids = [
+  "produce-48/produce-48-naekkeoya-pick-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "produce-48/naekkeoya-pick-me"
+duration = "4:39"
+
+[[tracks]]
+position = 2
+song-id = "produce-48/nekkoya-pick-me"
+duration = "4:39"
