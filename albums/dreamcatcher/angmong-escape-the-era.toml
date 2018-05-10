@@ -1,0 +1,16 @@
+artist-id = "dreamcatcher"
+kind = "ep"
+
+names = [
+  { name = "악몽·Escape the ERA", locale = "ko", original = true },
+  { name = "Angmong - Escape the ERA", locale = "ko-Latn", default = true },
+  { name = "Nightmware - Escape the ERA", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-05-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10165768" },
+]
