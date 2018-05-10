@@ -1,0 +1,5 @@
+names = [
+  { name = "하트시그널", locale = "ko", original = true },
+  { name = "Hateu Sigeuneol", locale = "ko-Latn" },
+  { name = "Heart Signal", locale = "en", default = true },
+]
