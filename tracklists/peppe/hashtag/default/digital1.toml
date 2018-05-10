@@ -1,0 +1,13 @@
+medium-ids = [
+  "peppe/hashtag/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "peppe/hashtag"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "peppe/hashtag-inst"
+duration = "3:21"

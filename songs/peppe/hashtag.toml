@@ -1,0 +1,4 @@
+names = [
+  { name = "해시태그 (Hashtag)", locale = "ko", original = true },
+  { name = "Hashtag", locale = "en", default = true },
+]
