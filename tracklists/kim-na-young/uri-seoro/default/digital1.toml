@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-na-young/uri-seoro/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-na-young/uri-seoro"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "kim-na-young/uri-seoro-inst"
+duration = "3:56"
