@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/sohwakhaeng/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/sohwakhaeng"
+duration = "4:49"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/sohwakhaeng-inst"
+duration = "4:49"
