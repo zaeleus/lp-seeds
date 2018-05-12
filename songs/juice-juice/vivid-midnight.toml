@@ -1,0 +1,3 @@
+names = [
+  { name = "Vivid Midnight", locale = "ja", original = true, default = true },
+]

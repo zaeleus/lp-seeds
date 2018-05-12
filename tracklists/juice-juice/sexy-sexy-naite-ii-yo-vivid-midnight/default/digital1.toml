@@ -1,0 +1,33 @@
+medium-ids = [
+  "juice-juice/sexy-sexy-naite-ii-yo-vivid-midnight/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "juice-juice/sexy-sexy"
+duration = "4:45"
+
+[[tracks]]
+position = 2
+song-id = "juice-juice/naite-ii-yo"
+duration = "4:55"
+
+[[tracks]]
+position = 3
+song-id = "juice-juice/vivid-midnight"
+duration = "4:04"
+
+[[tracks]]
+position = 4
+song-id = "juice-juice/sexy-sexy-instrumental"
+duration = "4:45"
+
+[[tracks]]
+position = 5
+song-id = "juice-juice/naite-ii-yo-instrumental"
+duration = "4:55"
+
+[[tracks]]
+position = 6
+song-id = "juice-juice/vivid-midnight-instrumental"
+duration = "4:04"

@@ -1,0 +1,5 @@
+names = [
+  { name = "泣いていいよ(Instrumental)", locale = "ja", original = true },
+  { name = "Naite Ii yo (Instrumental)", locale = "ja-Latn", default = true },
+  { name = "It's Okay to Cry (Instrumental)", locale = "en" },
+]

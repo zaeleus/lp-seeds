@@ -1,0 +1,17 @@
+artist-id = "juice-juice"
+kind = "single"
+
+names = [
+  { name = "SEXY SEXY/泣いていいよ/Vivid Midnight", locale = "ja", original = true },
+  { name = "SEXY SEXY / Naite Ii yo / Vivid Midnight", locale = "ja-Latn", default = true },
+  { name = "SEXY SEXY / It's Okay to Cry / Vivid Midnight", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-04-18"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1367367253" },
+  { url = "http://mora.jp/package/43000030/HKCN-50550/" },
+]
