@@ -1,0 +1,11 @@
+names = [
+  { name = "바람 불면", locale = "ko", original = true },
+  { name = "Baram Bulmyeon", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
