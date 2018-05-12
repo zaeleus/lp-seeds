@@ -1,0 +1,28 @@
+medium-ids = [
+  "two-x/double-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "two-x/initium"
+duration = "0:33"
+
+[[tracks]]
+position = 2
+song-id = "two-x/double-up"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "two-x/banjijaguk"
+duration = "3:36"
+
+[[tracks]]
+position = 4
+song-id = "two-x/ppum-jjikgo-keullaep"
+duration = "3:03"
+
+[[tracks]]
+position = 5
+song-id = "two-x/double-up-inst"
+duration = "3:29"
