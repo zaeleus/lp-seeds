@@ -1,0 +1,3 @@
+names = [
+  { name = "Potion (Feat. Woodie Gochild)", locale = "ko", original = true, default = true },
+]

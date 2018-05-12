@@ -1,0 +1,28 @@
+medium-ids = [
+  "eric-nam/honestly/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eric-nam/soljikhi-honestly"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "eric-nam/potion-feat-woodie-gochild"
+duration = "3:32"
+
+[[tracks]]
+position = 3
+song-id = "eric-nam/this-is-not-a-love-song"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "eric-nam/lose-you"
+duration = "3:03"
+
+[[tracks]]
+position = 5
+song-id = "eric-nam/don-t-call-me"
+duration = "3:23"
