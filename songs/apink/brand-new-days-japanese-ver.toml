@@ -1,0 +1,3 @@
+names = [
+  { name = "Brand New Days (Japanese Ver.)", locale = "ja", original = true, default = true },
+]

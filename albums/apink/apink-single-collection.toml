@@ -1,0 +1,15 @@
+artist-id = "apink"
+kind = "lp"
+
+names = [
+  { name = "APINK SINGLE COLLECTION", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-04-18"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1367762804" },
+  { url = "http://mora.jp/package/43000006/00602567549185/" },
+]
