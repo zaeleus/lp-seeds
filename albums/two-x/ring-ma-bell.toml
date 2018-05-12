@@ -1,0 +1,15 @@
+artist-id = "two-x"
+kind = "single"
+
+names = [
+  { name = "링마벨 (Ring Ma Bell)", locale = "ko", original = true },
+  { name = "Ring Ma Bell", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2013-02-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2175034" },
+]

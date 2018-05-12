@@ -1,0 +1,23 @@
+medium-ids = [
+  "two-x/ring-ma-bell/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "two-x/ring-ma-bell"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "two-x/only-u"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "two-x/hip-up"
+duration = "3:25"
+
+[[tracks]]
+position = 4
+song-id = "two-x/ring-ma-bell-inst"
+duration = "3:28"
