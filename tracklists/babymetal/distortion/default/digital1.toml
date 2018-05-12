@@ -1,0 +1,8 @@
+medium-ids = [
+  "babymetal/distortion/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "babymetal/distortion"
+duration = "3:05"

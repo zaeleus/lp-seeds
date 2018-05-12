@@ -1,0 +1,14 @@
+artist-id = "babymetal"
+kind = "single"
+
+names = [
+  { name = "Distortion", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-05-08"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000034/TFDS-00469/" },
+]
