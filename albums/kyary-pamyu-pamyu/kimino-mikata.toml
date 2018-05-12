@@ -1,0 +1,16 @@
+artist-id = "kyary-pamyu-pamyu"
+kind = "single"
+
+names = [
+  { name = "きみのみかた", locale = "ja", original = true },
+  { name = "Kimino Mikata", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-04-11"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1356567744" },
+  { url = "http://mora.jp/package/43000008/190295653712/" },
+]

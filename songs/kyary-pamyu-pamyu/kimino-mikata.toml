@@ -1,0 +1,8 @@
+names = [
+  { name = "きみのみかた", locale = "ja", original = true },
+  { name = "Kimino Mikata", locale = "ja-Latn", default = true },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=TWxrIblJHO0", name = "Music Video" },
+]
