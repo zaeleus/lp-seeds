@@ -1,0 +1,22 @@
+artist-id = "twice"
+kind = "single"
+
+names = [
+  { name = "Wake Me Up", locale = "ja", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "twice"
+names = [
+  { name = "トゥワイス", locale = "ja", original = true },
+  { name = "TWICE", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-04-25"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1372727163" },
+  { url = "http://mora.jp/package/43000008/190295638245/" },
+]

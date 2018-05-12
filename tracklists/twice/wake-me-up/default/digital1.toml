@@ -1,0 +1,8 @@
+medium-ids = [
+  "twice/wake-me-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twice/wake-me-up"
+duration = "3:31"
