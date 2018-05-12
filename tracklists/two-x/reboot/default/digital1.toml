@@ -1,0 +1,33 @@
+medium-ids = [
+  "two-x/reboot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "two-x/kkothyeo-over"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "two-x/huk-deureowa-come-in"
+duration = "3:35"
+
+[[tracks]]
+position = 3
+song-id = "two-x/heulleo-flow-away"
+duration = "4:03"
+
+[[tracks]]
+position = 4
+song-id = "two-x/kkothyeo-over-inst"
+duration = "3:24"
+
+[[tracks]]
+position = 5
+song-id = "two-x/huk-deureowa-come-in-inst"
+duration = "3:35"
+
+[[tracks]]
+position = 6
+song-id = "two-x/heulleo-flow-away-inst"
+duration = "4:01"

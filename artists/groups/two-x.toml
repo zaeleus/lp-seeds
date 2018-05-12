@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2012"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "투엑스", locale = "ko", original = true },
+  { name = "Two X", locale = "ko-Latn", default = true },
+]

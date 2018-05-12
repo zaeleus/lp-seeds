@@ -1,0 +1,5 @@
+names = [
+  { name = "흘러 (Flow Away) (Inst.)", locale = "ko", original = true },
+  { name = "Heulleo (Flow Away) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Flow Away (Inst.)", locale = "en" },
+]
