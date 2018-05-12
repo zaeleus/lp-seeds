@@ -1,0 +1,15 @@
+artist-id = "mi-yu"
+kind = "single"
+
+names = [
+  { name = "우리의 봄날은 지나갔지만", locale = "ko", original = true },
+  { name = "Uriui Bomnareun Jinagatjiman", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-05-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10164654" },
+]
