@@ -1,0 +1,16 @@
+artist-id = "zwei"
+kind = "single"
+
+names = [
+  { name = "LAST GAME", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-04-25"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1371245574" },
+  { url = "http://mora.jp/package/43000033/A64140/" },
+  { url = "http://mora.jp/package/43000033/A64173/" },
+]

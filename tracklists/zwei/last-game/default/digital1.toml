@@ -1,0 +1,23 @@
+medium-ids = [
+  "zwei/last-game/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zwei/last-game"
+duration = "4:44"
+
+[[tracks]]
+position = 2
+song-id = "zwei/don-t-cry"
+duration = "5:16"
+
+[[tracks]]
+position = 3
+song-id = "zwei/last-game-off-vocal"
+duration = "4:44"
+
+[[tracks]]
+position = 4
+song-id = "zwei/don-t-cry-off-vocal"
+duration = "5:14"
