@@ -1,0 +1,3 @@
+names = [
+  { name = "BAT", locale = "ko", original = true, default = true },
+]
