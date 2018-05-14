@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheeze/richman-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheeze/hard-for-me"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "cheeze/hard-for-me-inst"
+duration = "3:23"
