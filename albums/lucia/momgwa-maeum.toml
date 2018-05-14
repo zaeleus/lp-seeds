@@ -1,0 +1,15 @@
+artist-id = "lucia"
+kind = "ep"
+
+names = [
+  { name = "몸과 마음", locale = "ko", original = true },
+  { name = "Momgwa Maeum", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-05-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10166264" },
+]
