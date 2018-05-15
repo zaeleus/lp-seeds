@@ -1,0 +1,5 @@
+names = [
+  { name = "정신혼미 (Loveholic)", locale = "ko", original = true },
+  { name = "Jeongsinhonmi (Loveholic)", locale = "ko-Latn", default = true },
+  { name = "Loveholic", locale = "en" },
+]

@@ -1,0 +1,14 @@
+artist-id = "leebada"
+kind = "single"
+
+names = [
+  { name = "Pink Ocean", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-05-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10164835" },
+]
