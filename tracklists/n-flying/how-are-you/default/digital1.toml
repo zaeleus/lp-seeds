@@ -1,0 +1,28 @@
+medium-ids = [
+  "n-flying/how-are-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "n-flying/how-r-u-today"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "n-flying/up-all-night"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "n-flying/palbulchul"
+duration = "3:03"
+
+[[tracks]]
+position = 4
+song-id = "n-flying/anyway"
+duration = "3:02"
+
+[[tracks]]
+position = 5
+song-id = "n-flying/neo-eomneun-nan"
+duration = "4:00"
