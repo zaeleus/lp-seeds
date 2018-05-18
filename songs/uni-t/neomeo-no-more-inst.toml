@@ -1,0 +1,5 @@
+names = [
+  { name = "넘어 (No More) (Inst.)", locale = "ko", original = true },
+  { name = "Neomeo (No More) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "No More (Inst.)", locale = "en" },
+]

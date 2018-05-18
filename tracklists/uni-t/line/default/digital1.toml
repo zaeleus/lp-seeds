@@ -1,0 +1,38 @@
+medium-ids = [
+  "uni-t/line/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "uni-t/neomeo-no-more"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "uni-t/chueoksigye"
+duration = "3:59"
+
+[[tracks]]
+position = 3
+song-id = "uni-t/byeora"
+duration = "3:54"
+
+[[tracks]]
+position = 4
+song-id = "uni-t/you-i-naega-hagosipeun-mareun"
+duration = "3:19"
+
+[[tracks]]
+position = 5
+song-id = "uni-t/ting"
+duration = "3:24"
+
+[[tracks]]
+position = 6
+song-id = "uni-t/neomeo-no-more-inst"
+duration = "3:24"
+
+[[tracks]]
+position = 7
+song-id = "uni-t/chueoksigye-inst"
+duration = "3:59"

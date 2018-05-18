@@ -1,0 +1,14 @@
+artist-id = "uni-t"
+kind = "ep"
+
+names = [
+  { name = "line", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-05-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10168558" },
+]
