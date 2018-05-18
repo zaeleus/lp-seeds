@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1987-03-01"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "김그림", locale = "ko", kind = "stage", original = true },
+  { name = "Kim Greem", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김그림", locale = "ko", kind = "real" },
+  { name = "Kim Geu Rim", locale = "ko-Latn", kind = "stage" },
+]

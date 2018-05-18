@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-greem/myself/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-greem/eotteongeurim"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "kim-greem/eotteongeurim-inst"
+duration = "3:28"

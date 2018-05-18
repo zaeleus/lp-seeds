@@ -1,0 +1,14 @@
+artist-id = "kim-greem"
+kind = "single"
+
+names = [
+  { name = "Myself?", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-05-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10167091" },
+]
