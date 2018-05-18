@@ -1,0 +1,15 @@
+artist-id = "bts"
+kind = "lp"
+
+names = [
+  { name = "LOVE YOURSELF 轉 'Tear'", locale = "ko", original = true },
+  { name = "LOVE YOURSELF: Tear", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-05-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10168559" },
+]
