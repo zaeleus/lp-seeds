@@ -1,0 +1,3 @@
+names = [
+  { name = "Bliss (Feat. SUMIN)", locale = "ko", original = true, default = true },
+]
