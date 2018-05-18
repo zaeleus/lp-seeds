@@ -5,7 +5,7 @@ gender = "female"
 
 names = [
   { name = "민서", locale = "ko", kind = "stage", original = true },
-  { name = "Minseo", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "MINSEO", locale = "ko-Latn", kind = "stage", default = true },
   { name = "김민서", locale = "ko", kind = "real" },
   { name = "Kim Min Seo", locale = "ko-Latn", kind = "real" },
 ]
