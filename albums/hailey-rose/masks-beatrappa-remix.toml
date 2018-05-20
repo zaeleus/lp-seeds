@@ -1,0 +1,14 @@
+artist-id = "hailey-rose"
+kind = "single"
+
+names = [
+  { name = "Masks (Beatrappa Remix)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-05-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10168531" },
+]
