@@ -1,0 +1,4 @@
+names = [
+  { name = "그림일기 (Prequel)", locale = "ko", original = true },
+  { name = "Geurimilgi (Prequel)", locale = "ko-Latn", default = true },
+]
