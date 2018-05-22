@@ -1,0 +1,93 @@
+medium-ids = [
+  "saay/claassic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saay/from-the-horizon"
+duration = "2:13"
+
+[[tracks]]
+position = 2
+song-id = "saay/circle-feat-tish-hyman"
+duration = "3:46"
+
+[[tracks]]
+position = 3
+song-id = "saay/love-drop"
+duration = "3:41"
+
+[[tracks]]
+position = 4
+song-id = "saay/before-the-show-interlude"
+duration = "0:41"
+
+[[tracks]]
+position = 5
+song-id = "saay/encore"
+duration = "3:12"
+
+[[tracks]]
+position = 6
+song-id = "saay/zone-for-2-interlude"
+duration = "0:19"
+
+[[tracks]]
+position = 7
+song-id = "saay/overzone-extended"
+duration = "3:24"
+
+[[tracks]]
+position = 8
+song-id = "saay/time-energy-love-interlude"
+duration = "0:52"
+
+[[tracks]]
+position = 9
+song-id = "saay/sweaty-feat-crush"
+duration = "3:38"
+
+[[tracks]]
+position = 10
+song-id = "saay/fallin"
+duration = "3:01"
+
+[[tracks]]
+position = 11
+song-id = "saay/jaam"
+duration = "3:07"
+
+[[tracks]]
+position = 12
+song-id = "saay/rainbow-car-feat-punchnello"
+duration = "3:58"
+
+[[tracks]]
+position = 13
+song-id = "saay/vodka-lemon-shot-2018-nu-mix"
+duration = "3:07"
+
+[[tracks]]
+position = 14
+song-id = "saay/born-in-1993-interlude"
+duration = "0:34"
+
+[[tracks]]
+position = 15
+song-id = "saay/ol-me-myself"
+duration = "3:32"
+
+[[tracks]]
+position = 16
+song-id = "saay/cold-view"
+duration = "3:50"
+
+[[tracks]]
+position = 17
+song-id = "saay/stay"
+duration = "4:23"
+
+[[tracks]]
+position = 18
+song-id = "saay/to-the-horizon"
+duration = "0:30"

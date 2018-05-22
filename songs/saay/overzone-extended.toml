@@ -1,0 +1,3 @@
+names = [
+  { name = "OVERZONE (Extended)", locale = "ko", original = true, default = true },
+]
