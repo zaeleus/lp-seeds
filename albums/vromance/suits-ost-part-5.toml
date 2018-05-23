@@ -1,0 +1,14 @@
+artist-id = "vromance"
+kind = "single"
+
+names = [
+  { name = "Suits OST Part.5", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-05-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10169609" },
+]
