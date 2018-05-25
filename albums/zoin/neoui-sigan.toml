@@ -1,0 +1,15 @@
+artist-id = "zoin"
+kind = "single"
+
+names = [
+  { name = "너의 시간", locale = "ko", original = true },
+  { name = "Neoui Sigan", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-05-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10170092" },
+]
