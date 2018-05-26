@@ -1,0 +1,33 @@
+medium-ids = [
+  "cross-gene/zero/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cross-gene/dystopia"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "cross-gene/dallangmallang"
+duration = "3:32"
+
+[[tracks]]
+position = 3
+song-id = "cross-gene/believe-me"
+duration = "3:23"
+
+[[tracks]]
+position = 4
+song-id = "cross-gene/bisang"
+duration = "3:16"
+
+[[tracks]]
+position = 5
+song-id = "cross-gene/dallangmallang-inst"
+duration = "3:32"
+
+[[tracks]]
+position = 6
+song-id = "cross-gene/bisang-inst"
+duration = "3:16"
