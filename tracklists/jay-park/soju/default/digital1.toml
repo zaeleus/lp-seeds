@@ -1,0 +1,8 @@
+medium-ids = [
+  "jay-park/soju/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jay-park/soju-feat-2-chainz"
+duration = "3:50"

@@ -1,0 +1,3 @@
+names = [
+  { name = "SOJU (Feat. 2 Chainz)", locale = "ko", original = true, default = true },
+]
