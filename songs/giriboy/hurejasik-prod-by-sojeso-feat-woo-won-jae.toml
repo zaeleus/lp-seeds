@@ -1,0 +1,4 @@
+names = [
+  { name = "후레자식 (Prod. by Sojeso) (Feat. 우원재)", locale = "ko", original = true },
+  { name = "Hurejasik (Prod. by Sojeso) (Feat. Woo Won Jae)", locale = "ko-Latn", default = true },
+]

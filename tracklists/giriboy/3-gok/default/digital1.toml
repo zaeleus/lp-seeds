@@ -1,0 +1,18 @@
+medium-ids = [
+  "giriboy/3-gok/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giriboy/binjip-prod-by-dnss-feat-thama"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "giriboy/hurejasik-prod-by-sojeso-feat-woo-won-jae"
+duration = "4:24"
+
+[[tracks]]
+position = 3
+song-id = "giriboy/aengmusae-prod-by-beautiful-disco"
+duration = "4:12"
