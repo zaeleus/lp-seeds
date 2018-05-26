@@ -1,0 +1,13 @@
+medium-ids = [
+  "lovelyz/kim-ji-yeon/rich-man-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lovelyz/kim-ji-yeon/let-s-pray"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "lovelyz/kim-ji-yeon/let-s-pray-inst"
+duration = "3:55"
