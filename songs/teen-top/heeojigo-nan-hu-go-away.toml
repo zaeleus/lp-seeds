@@ -1,0 +1,5 @@
+names = [
+  { name = "헤어지고 난 후 (Go away)", locale = "ko", original = true },
+  { name = "Heeojigo Nan Hu (Go away)", locale = "ko-Latn", default = true },
+  { name = "Go away", locale = "en" },
+]

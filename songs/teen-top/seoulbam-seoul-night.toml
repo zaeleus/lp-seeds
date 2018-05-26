@@ -1,0 +1,5 @@
+names = [
+  { name = "서울밤 (SEOUL NIGHT)", locale = "ko", original = true },
+  { name = "Seoulbam (SEOUL NIGHT)", locale = "ko-Latn", default = true },
+  { name = "SEOUL NIGHT", locale = "en" },
+]

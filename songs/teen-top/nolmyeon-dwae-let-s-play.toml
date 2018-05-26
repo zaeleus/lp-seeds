@@ -1,0 +1,5 @@
+names = [
+  { name = "놀면 돼 (Let's play!)", locale = "ko", original = true },
+  { name = "Nolmyeon Dwae (Let's play!)", locale = "ko-Latn", default = true },
+  { name = "Let's play!", locale = "en" },
+]

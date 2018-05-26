@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2010"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "틴탑", locale = "ko", original = true },
+  { name = "TEEN TOP", locale = "en", default = true },
+]

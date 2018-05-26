@@ -1,0 +1,14 @@
+artist-id = "teen-top"
+kind = "ep"
+
+names = [
+  { name = "SEOUL NIGHT", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-05-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10164836" },
+]

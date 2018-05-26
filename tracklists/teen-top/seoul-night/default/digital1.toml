@@ -1,0 +1,33 @@
+medium-ids = [
+  "teen-top/seoul-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "teen-top/night"
+duration = "0:52"
+
+[[tracks]]
+position = 2
+song-id = "teen-top/seoulbam-seoul-night"
+duration = "3:15"
+
+[[tracks]]
+position = 3
+song-id = "teen-top/nolmyeon-dwae-let-s-play"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "teen-top/keullanne-s-o-s"
+duration = "3:34"
+
+[[tracks]]
+position = 5
+song-id = "teen-top/niga-eopseumyeon-without-you"
+duration = "3:36"
+
+[[tracks]]
+position = 6
+song-id = "teen-top/heeojigo-nan-hu-go-away"
+duration = "3:14"
