@@ -1,0 +1,33 @@
+medium-ids = [
+  "24k/bonnie-n-clyde/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "24k/intro-luv-it"
+duration = "1:18"
+
+[[tracks]]
+position = 2
+song-id = "24k/bonnie-n-clyde"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "24k/blue"
+duration = "3:17"
+
+[[tracks]]
+position = 4
+song-id = "24k/overflow"
+duration = "3:01"
+
+[[tracks]]
+position = 5
+song-id = "24k/to-for-you"
+duration = "3:51"
+
+[[tracks]]
+position = 6
+song-id = "24k/bonnie-n-clyde-inst"
+duration = "3:26"
