@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1996-09-17"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "영재", locale = "ko", kind = "stage", original = true },
+  { name = "Youngjae", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "최영재", locale = "ko", kind = "real" },
+  { name = "Choi Young Jae", locale = "ko-Latn", kind = "real" },
+]

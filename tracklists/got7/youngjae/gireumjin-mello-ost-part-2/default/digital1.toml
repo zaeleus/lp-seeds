@@ -1,0 +1,13 @@
+medium-ids = [
+  "got7/youngjae/gireumjin-mello-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "got7/youngjae/geu-sigane"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "got7/youngjae/geu-sigane-inst"
+duration = "3:28"
