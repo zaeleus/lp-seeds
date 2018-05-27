@@ -1,0 +1,13 @@
+medium-ids = [
+  "yel/jagangmong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yel/lucid-dream-feat-horim"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "yel/josee-feat-sondia"
+duration = "4:21"
