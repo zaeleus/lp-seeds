@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1986-03-22"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "나비", locale = "ko", kind = "stage", original = true },
+  { name = "Navi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "안지호", locale = "ko", kind = "real" },
+  { name = "Ahn Ji Ho", locale = "ko-Latn", kind = "real" },
+]

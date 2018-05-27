@@ -1,0 +1,4 @@
+names = [
+  { name = "#럽스타 (Feat. Yellopumpy)", locale = "ko", original = true },
+  { name = "#LoveStar (Feat. Yellopumpy)", locale = "en", default = true },
+]

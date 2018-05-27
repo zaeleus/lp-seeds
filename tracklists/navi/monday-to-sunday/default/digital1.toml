@@ -1,0 +1,28 @@
+medium-ids = [
+  "navi/monday-to-sunday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "navi/lovestar-feat-yellopumpy"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "navi/monday-to-sunday-feat-double-k"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "navi/moonlight"
+duration = "2:56"
+
+[[tracks]]
+position = 4
+song-id = "navi/pine"
+duration = "3:39"
+
+[[tracks]]
+position = 5
+song-id = "navi/bloom"
+duration = "3:34"
