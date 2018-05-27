@@ -1,0 +1,8 @@
+medium-ids = [
+  "boyfriend/yeoubi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boyfriend/yeoubi"
+duration = "4:23"

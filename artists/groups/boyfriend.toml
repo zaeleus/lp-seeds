@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2011"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "보이프렌드", locale = "ko", original = true },
+  { name = "BOYFRIEND", locale = "en", default = true },
+]
