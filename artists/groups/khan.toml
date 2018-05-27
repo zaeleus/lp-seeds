@@ -1,0 +1,25 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "칸", locale = "ko", original = true },
+  { name = "KHAN", locale = "ko-Latn", default = true },
+]
+
+[[members]]
+[[members.artist-credits]]
+artist-id = "the-ark/yuna-kim"
+names = [
+  { name = "유나킴", locale = "ko", original = true },
+  { name = "Euna Kim", locale = "ko-Latn", default = true },
+]
+
+[[members]]
+[[members.artist-credits]]
+artist-id = "the-ark/minju"
+names = [
+  { name = "전민주", locale = "ko", original = true },
+  { name = "Jeon Minju", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "khan/i-m-your-girl/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "khan/i-m-your-girl"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "khan/i-m-your-girl-inst"
+duration = "3:03"
