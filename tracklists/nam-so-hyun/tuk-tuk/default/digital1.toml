@@ -1,0 +1,8 @@
+medium-ids = [
+  "nam-so-hyun/tuk-tuk/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nam-so-hyun/tuk-tuk"
+duration = "3:30"

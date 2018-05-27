@@ -1,0 +1,15 @@
+artist-id = "nam-so-hyun"
+kind = "single"
+
+names = [
+  { name = "툭툭", locale = "ko", original = true },
+  { name = "Tuk Tuk", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-05-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10167626" },
+]
