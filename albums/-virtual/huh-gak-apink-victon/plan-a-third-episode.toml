@@ -1,4 +1,4 @@
-artist-id = "-virtual/huh-gak-apink-viction"
+artist-id = "-virtual/huh-gak-apink-victon"
 kind = "single"
 
 names = [
@@ -8,7 +8,7 @@ names = [
 artist-credits = [
   { artist-id = "huh-gak", separator = ", " },
   { artist-id = "apink", separator = ", " },
-  { artist-id = "viction" },
+  { artist-id = "victon" },
 ]
 
 [[releases]]
