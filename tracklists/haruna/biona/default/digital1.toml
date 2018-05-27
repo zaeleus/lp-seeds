@@ -1,0 +1,8 @@
+medium-ids = [
+  "haruna/biona/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "haruna/biona"
+duration = "3:12"

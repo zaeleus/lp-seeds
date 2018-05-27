@@ -1,0 +1,9 @@
+names = [
+  { name = "비오나", locale = "ko", original = true },
+  { name = "Biona", locale = "ko-Latn", default = true },
+  { name = "Rainy Day", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=nWZroNsjys8", name = "Music Video" },
+]

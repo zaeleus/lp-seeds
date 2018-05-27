@@ -1,0 +1,16 @@
+artist-id = "haruna"
+kind = "single"
+
+names = [
+  { name = "비오나", locale = "ko", original = true },
+  { name = "Biona", locale = "ko-Latn", default = true },
+  { name = "Rainy Day", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-05-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10168500" },
+]
