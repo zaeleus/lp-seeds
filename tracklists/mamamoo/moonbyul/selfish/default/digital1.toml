@@ -1,0 +1,18 @@
+medium-ids = [
+  "mamamoo/moonbyul/selfish/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/moonbyul/in-my-room"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/moonbyul/selfish-feat-seulgi-of-red-velvet"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "mamamoo/moonbyul/guchahae-acoustic-ver"
+duration = "3:05"
