@@ -1,0 +1,13 @@
+medium-ids = [
+  "victon/oworae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "victon/oworae"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "victon/oworae-inst"
+duration = "3:48"

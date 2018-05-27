@@ -1,0 +1,5 @@
+names = [
+  { name = "오월애 (俉月哀)", locale = "ko", original = true },
+  { name = "Oworae", locale = "ko-Latn", default = true },
+  { name = "Time of Sorrow", locale = "en" },
+]
