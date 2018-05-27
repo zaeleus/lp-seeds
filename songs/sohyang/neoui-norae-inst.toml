@@ -1,0 +1,5 @@
+names = [
+  { name = "너의 노래 (Inst.)", locale = "ko", original = true },
+  { name = "Neoui Norae (Inst.)", locale = "ko-Latn", default = true },
+  { name = "The Song Begins (Inst.)", locale = "en" },
+]

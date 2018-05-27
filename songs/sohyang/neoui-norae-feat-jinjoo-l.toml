@@ -1,0 +1,9 @@
+names = [
+  { name = "너의 노래 (Feat. Jinjoo.L)", locale = "ko", original = true },
+  { name = "Neoui Norae (Feat. Jinjoo.L)", locale = "ko-Latn", default = true },
+  { name = "The Song Begins (Feat. Jinjoo.L)", locale = "en" },
+]
+
+urls = [
+  { url = "https://www.youtube.com/watch?v=SaCiGNU9lso", name = "Music Video" },
+]

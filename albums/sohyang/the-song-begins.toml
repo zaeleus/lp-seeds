@@ -1,0 +1,14 @@
+artist-id = "sohyang"
+kind = "single"
+
+names = [
+  { name = "The Song Begins", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-05-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10169352" },
+]

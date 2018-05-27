@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1978-04-05"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "소향", locale = "ko", kind = "stage", original = true },
+  { name = "Sohyang", locale = "ko-Latn", kind = "stage", default = true },
+]
