@@ -1,0 +1,33 @@
+medium-ids = [
+  "-virtual/esbee-assbrass/naeseongjeogin-ep-vol-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/esbee-assbrass/boy-forever"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/esbee-assbrass/arcade-love"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/esbee-assbrass/microwave"
+duration = "2:31"
+
+[[tracks]]
+position = 4
+song-id = "-virtual/esbee-assbrass/parallel-world"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song-id = "-virtual/esbee-assbrass/badminton"
+duration = "2:24"
+
+[[tracks]]
+position = 6
+song-id = "-virtual/esbee-assbrass/good"
+duration = "2:54"
