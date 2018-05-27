@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/jessi-double-k-microdot/gasi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/jessi-double-k-microdot/gasi"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/jessi-double-k-microdot/gasi-inst"
+duration = "3:41"

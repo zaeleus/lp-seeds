@@ -1,0 +1,10 @@
+names = [
+  { name = "가시 (Inst.)", locale = "ko", original = true },
+  { name = "Gasi (Inst.)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "lucky-j/jessi", separator = ", " },
+  { artist-id = "double-k", separator = ", " },
+  { artist-id = "microdot" },
+]
