@@ -1,0 +1,33 @@
+medium-ids = [
+  "bolbbalgan4/red-diary-page-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bolbbalgan4/baramsaram"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "bolbbalgan4/yeohaeng"
+duration = "3:41"
+
+[[tracks]]
+position = 3
+song-id = "bolbbalgan4/yagyeong"
+duration = "3:29"
+
+[[tracks]]
+position = 4
+song-id = "bolbbalgan4/annyeong-gominhyeong"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song-id = "bolbbalgan4/clip"
+duration = "3:54"
+
+[[tracks]]
+position = 6
+song-id = "bolbbalgan4/lonely"
+duration = "3:37"

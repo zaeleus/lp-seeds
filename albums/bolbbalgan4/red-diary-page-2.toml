@@ -1,0 +1,14 @@
+artist-id = "bolbbalgan4"
+kind = "ep"
+
+names = [
+  { name = "Red Diary Page.2", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-05-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10170069" },
+]
