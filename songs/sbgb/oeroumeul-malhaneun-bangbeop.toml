@@ -1,0 +1,5 @@
+names = [
+  { name = "외로움을 말하는 방법", locale = "ko", original = true },
+  { name = "Oeroumeul Malhaneun Bangbeop", locale = "ko-Latn", default = true },
+  { name = "Lonely Talk", locale = "en" },
+]
