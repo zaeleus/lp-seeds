@@ -1,0 +1,9 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "문빛", locale = "ko", kind = "stage", original = true },
+  { name = "Moonbit", locale = "ko-Latn", kind = "stage", default = true },
+]
