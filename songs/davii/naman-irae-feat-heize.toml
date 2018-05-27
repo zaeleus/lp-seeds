@@ -1,0 +1,5 @@
+names = [
+  { name = "나만 이래 (Feat. 헤이즈)", locale = "ko", original = true },
+  { name = "Naman Irae (Feat. Heize)", locale = "ko-Latn", default = true },
+  { name = "Only Me (Feat. Heize)", locale = "" },
+]
