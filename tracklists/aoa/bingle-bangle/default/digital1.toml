@@ -1,0 +1,33 @@
+medium-ids = [
+  "aoa/bingle-bangle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aoa/bingle-bangle"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "aoa/super-duper"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "aoa/heat"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "aoa/ladi-dadi"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song-id = "aoa/parfait"
+duration = "3:33"
+
+[[tracks]]
+position = 6
+song-id = "aoa/ttu-ttu-ttu"
+duration = "3:16"
