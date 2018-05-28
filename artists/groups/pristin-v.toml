@@ -1,0 +1,14 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "PRISTIN V", locale = "ko", original = true, default = true },
+]
+
+# TODO add members
+members = [
+  { artist-id = "pristin/kyulkyung" },
+  { artist-id = "pristin/nayoung" },
+]
