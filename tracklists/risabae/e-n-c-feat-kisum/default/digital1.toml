@@ -1,0 +1,13 @@
+medium-ids = [
+  "risabae/e-n-c-feat-kisum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "risabae/e-n-c-feat-kisum"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "risabae/e-n-c-feat-kisum-inst"
+duration = "3:10"

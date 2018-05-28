@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1988-09-13"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "이사배", locale = "ko", kind = "stage", original = true },
+  { name = "Risabae", locale = "ko-Latn", kind = "stage", default = true },
+]
