@@ -1,0 +1,15 @@
+artist-id = "rocoberry"
+kind = "single"
+
+names = [
+  { name = "오랜 습관", locale = "ko", original = true },
+  { name = "Oraen Seupgwan", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-05-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10171066" },
+]
