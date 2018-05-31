@@ -1,0 +1,13 @@
+medium-ids = [
+  "punch/i-bamui-kkeut/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "punch/end-of-the-night"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "punch/i-bamui-kkeut-inst"
+duration = "3:21"

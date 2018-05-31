@@ -1,0 +1,16 @@
+artist-id = "punch"
+kind = "single"
+
+names = [
+  { name = "이 밤의 끝", locale = "ko", original = true },
+  { name = "I Bamui Kkeut", locale = "ko-Latn", default = true },
+  { name = "End of the Night", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-05-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10172395" },
+]
