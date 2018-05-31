@@ -1,0 +1,28 @@
+medium-ids = [
+  "yyxy/beauty-thebeat/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yyxy/dal-segno"
+duration = "1:06"
+
+[[tracks]]
+position = 2
+song-id = "yyxy/love4eva-feat-grimes"
+duration = "3:40"
+
+[[tracks]]
+position = 3
+song-id = "yyxy/frozen"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "yyxy/one-way"
+duration = "3:47"
+
+[[tracks]]
+position = 5
+song-id = "yyxy/rendezvous-18-6y"
+duration = "3:25"

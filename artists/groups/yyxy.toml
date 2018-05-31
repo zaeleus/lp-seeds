@@ -1,0 +1,16 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "이달의 소녀 yyxy", locale = "ko", original = true },
+  { name = "yyxy", locale = "en", default = true },
+]
+
+members = [
+  { artist-id = "loona/yves" },
+  { artist-id = "loona/chuu" },
+  { artist-id = "loona/go-won" },
+  { artist-id = "loona/olivia-hye" },
+]
