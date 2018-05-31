@@ -1,0 +1,13 @@
+medium-ids = [
+  "crucial-star/think-18/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "crucial-star/saenggakhae-think"
+duration = "2:25"
+
+[[tracks]]
+position = 2
+song-id = "crucial-star/studio-life-feat-jaeku-beaver"
+duration = "2:37"
