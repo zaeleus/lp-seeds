@@ -1,0 +1,17 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "우주미키", locale = "ko", original = true },
+  { name = "Uju Meki", locale = "ko-Latn" },
+  { name = "WJMK", locale = "en", default = true },
+]
+
+members = [
+  { artist-id = "cosmic-girls/luda" },
+  { artist-id = "cosmic-girls/seol-a" },
+  { artist-id = "i-o-i/kim-do-yeon" },
+  { artist-id = "i-o-i/choi-yoo-jung" },
+]

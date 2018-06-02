@@ -1,0 +1,5 @@
+names = [
+  { name = "짜릿하게 (STRONG) (PROD.키겐)", locale = "ko", original = true },
+  { name = "Jjarithage (STRONG) (PROD. Kiggen)", locale = "ko-Latn", default = true },
+  { name = "STRONG (PROD. Kiggen)", locale = "en" },
+]

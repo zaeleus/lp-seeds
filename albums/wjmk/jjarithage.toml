@@ -1,0 +1,16 @@
+artist-id = "wjmk"
+kind = "single"
+
+names = [
+  { name = "짜릿하게", locale = "ko", original = true },
+  { name = "Jjarithage", locale = "ko-Latn", default = true },
+  { name = "STRONG", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-06-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10172935" },
+]
