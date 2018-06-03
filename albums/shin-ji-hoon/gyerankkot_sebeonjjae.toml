@@ -1,0 +1,15 @@
+artist-id = "shin-ji-hoon"
+kind = "single"
+
+names = [
+  { name = "계란꽃_세번째", locale = "ko", original = true },
+  { name = "Gyerankkot_Sebeonjjae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-05-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10172392" },
+]
