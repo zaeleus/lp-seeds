@@ -1,0 +1,13 @@
+medium-ids = [
+  "jang-hee-won/pyeonji/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jang-hee-won/pyeonji"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "jang-hee-won/saebyeokhwaldong"
+duration = "2:32"
