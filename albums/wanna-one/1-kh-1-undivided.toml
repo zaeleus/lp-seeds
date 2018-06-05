@@ -1,0 +1,14 @@
+artist-id = "wanna-one"
+kind = "ep"
+
+names = [
+  { name = "1÷χ=1 (UNDIVIDED)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-06-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10173365" },
+]

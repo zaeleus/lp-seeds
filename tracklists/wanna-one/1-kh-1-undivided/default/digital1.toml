@@ -1,0 +1,28 @@
+medium-ids = [
+  "wanna-one/1-kh-1-undivided/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wanna-one/kyeojwo-light"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "wanna-one/kangaroo-prod-zico"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song-id = "wanna-one/yeongwon-1-prod-nell"
+duration = "4:28"
+
+[[tracks]]
+position = 4
+song-id = "wanna-one/moraesigye-prod-heize"
+duration = "3:48"
+
+[[tracks]]
+position = 5
+song-id = "wanna-one/11-prod-dynamic-duo"
+duration = "3:29"

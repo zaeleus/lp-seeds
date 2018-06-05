@@ -1,0 +1,4 @@
+names = [
+  { name = "캥거루 (Kangaroo) (Prod. ZICO)", locale = "ko", original = true },
+  { name = "Kangaroo (Prod. ZICO)", locale = "en", default = true },
+]
