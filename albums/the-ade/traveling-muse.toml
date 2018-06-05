@@ -1,0 +1,15 @@
+artist-id = "the-ade"
+kind = "single"
+
+names = [
+  { name = "트래블링 뮤즈 (TRAVELING MUSE)", locale = "ko", original = true },
+  { name = "TRAVELING MUSE", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-06-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10173088" },
+]

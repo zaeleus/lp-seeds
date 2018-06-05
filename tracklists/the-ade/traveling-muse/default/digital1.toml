@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-ade/traveling-muse/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-ade/gakkeumssigeun-nae-saenggakhani"
+duration = "4:16"
+
+[[tracks]]
+position = 2
+song-id = "the-ade/gakkeumssigeun-nae-saenggakhani-inst"
+duration = "4:15"
