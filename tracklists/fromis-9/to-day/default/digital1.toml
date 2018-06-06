@@ -1,0 +1,33 @@
+medium-ids = [
+  "fromis-9/to-day/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fromis-9/dagagago-sipeo"
+duration = "2:05"
+
+[[tracks]]
+position = 2
+song-id = "fromis-9/neoreul-ttara-neoege"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "fromis-9/dugeun-dugeun-dkdk"
+duration = "3:03"
+
+[[tracks]]
+position = 4
+song-id = "fromis-9/22-segi-sonyeo"
+duration = "3:35"
+
+[[tracks]]
+position = 5
+song-id = "fromis-9/clover"
+duration = "3:21"
+
+[[tracks]]
+position = 6
+song-id = "fromis-9/first-love"
+duration = "2:59"
