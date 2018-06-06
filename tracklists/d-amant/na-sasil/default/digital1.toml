@@ -1,0 +1,13 @@
+medium-ids = [
+  "d-amant/na-sasil/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "d-amant/na-sasil"
+duration = "4:22"
+
+[[tracks]]
+position = 2
+song-id = "d-amant/na-sasil-inst"
+duration = "4:22"
