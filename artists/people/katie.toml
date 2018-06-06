@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1993-12-10"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "KATIE", locale = "ko", kind = "stage", original = true },
+  { name = "김서현", locale = "ko", kind = "real" },
+  { name = "Kim Seo Hyun", locale = "ko-Latn", kind = "real" },
+  { name = "Katie Kim", locale = "en", kind = "real" },
+]

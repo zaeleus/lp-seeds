@@ -1,0 +1,8 @@
+medium-ids = [
+  "katie/remember/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "katie/remember"
+duration = "3:06"
