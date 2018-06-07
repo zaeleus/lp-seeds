@@ -1,0 +1,14 @@
+artist-id = "onf"
+kind = "ep"
+
+names = [
+  { name = "YOU COMPLETE ME", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-06-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10174205" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "Complete (널 만난 순간)", locale = "ko", original = true },
+  { name = "Complete (Neol Mannan Sungan)", locale = "ko-Latn", default = true },
+  { name = "Complete", locale = "en" },
+]

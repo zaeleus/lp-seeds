@@ -1,0 +1,5 @@
+names = [
+  { name = "아침 (Good Morning)", locale = "ko", original = true },
+  { name = "Achim (Good Morning)", locale = "ko-Latn", default = true },
+  { name = "Good Morning", locale = "en" },
+]

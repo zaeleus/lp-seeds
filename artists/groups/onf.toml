@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "온앤오프", locale = "ko", original = true },
+  { name = "ONF", locale = "ko-Latn", default = true },
+]
