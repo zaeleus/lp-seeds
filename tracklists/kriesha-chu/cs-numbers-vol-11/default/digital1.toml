@@ -1,0 +1,13 @@
+medium-ids = [
+  "kriesha-chu/cs-numbers-vol-11/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kriesha-chu/heukbaeksajin"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "kriesha-chu/heukbaeksajin-inst"
+duration = "3:49"

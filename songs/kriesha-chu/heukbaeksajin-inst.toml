@@ -1,0 +1,4 @@
+names = [
+  { name = "흑백사진 (Inst.)", locale = "ko", original = true },
+  { name = "Heukbaeksajin (Inst.)", locale = "ko-Latn", default = true },
+]
