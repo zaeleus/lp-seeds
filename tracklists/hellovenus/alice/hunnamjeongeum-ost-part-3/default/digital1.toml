@@ -1,0 +1,13 @@
+medium-ids = [
+  "hellovenus/alice/hunnamjeongeum-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hellovenus/alice/dugeuni-piryohae"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "hellovenus/alice/dugeuni-piryohae-inst"
+duration = "3:16"
