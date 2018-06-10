@@ -1,0 +1,5 @@
+names = [
+  { name = "숙녀 (淑女)", locale = "ko", original = true },
+  { name = "Sungnyeo", locale = "ko-Latn", default = true },
+  { name = "Lady", locale = "en" },
+]

@@ -1,0 +1,16 @@
+artist-id = "wonder-girls/yubin"
+kind = "single"
+
+names = [
+  { name = "都市女子", locale = "ko", original = true },
+  { name = "Dosiyeoja", locale = "ko-Latn", default = true },
+  { name = "City Woman", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-06-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10173711" },
+]
