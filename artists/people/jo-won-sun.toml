@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1972-07-03"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "조원선", locale = "ko", kind = "real", original = true },
+  { name = "Jo Won Sun", locale = "ko-Latn", kind = "real", default = true },
+]
