@@ -1,0 +1,13 @@
+medium-ids = [
+  "kassy/gireumjin-mello-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/sarangi-sijakdoel-ttae"
+duration = "4:06"
+
+[[tracks]]
+position = 2
+song-id = "kassy/sarangi-sijakdoel-ttae-inst"
+duration = "4:06"

@@ -1,0 +1,16 @@
+artist-id = "kassy"
+kind = "single"
+
+names = [
+  { name = "기름진 멜로 OST Part.5", locale = "ko", original = true },
+  { name = "Gireumjin Mello OST Part.5", locale = "ko-Latn", default = true },
+  { name = "Wok of Love OST Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-06-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10175130" },
+]
