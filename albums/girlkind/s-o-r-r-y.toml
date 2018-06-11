@@ -1,0 +1,14 @@
+artist-id = "girlkind"
+kind = "single"
+
+names = [
+  { name = "S.O.R.R.Y", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-06-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10174781" },
+]
