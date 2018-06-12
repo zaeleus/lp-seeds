@@ -1,0 +1,23 @@
+medium-ids = [
+  "busters/podopodohae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "busters/podopodohae-grapes"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "busters/chaegimjyeo"
+duration = "3:01"
+
+[[tracks]]
+position = 3
+song-id = "busters/podopodohae-grapes-inst"
+duration = "3:10"
+
+[[tracks]]
+position = 4
+song-id = "busters/chaegimjyeo-inst"
+duration = "3:01"

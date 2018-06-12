@@ -1,0 +1,5 @@
+names = [
+  { name = "포도포도해 (Grapes)", locale = "ko", original = true },
+  { name = "Podopodohae (Grapes)", locale = "ko-Latn", default = true },
+  { name = "Grapes", locale = "en" },
+]

@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "버스터즈", locale = "ko", original = true },
+  { name = "Busters", locale = "ko-Latn", default = true },
+]
