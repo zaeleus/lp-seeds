@@ -1,0 +1,14 @@
+artist-id = "dpr-live"
+kind = "single"
+
+names = [
+  { name = "Playlist", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-06-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10175549" },
+]

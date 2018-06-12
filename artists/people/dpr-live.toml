@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1993-01-01"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "DPR LIVE", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "홍다빈", locale = "ko", kind = "real" },
+  { name = "Hong Da Bin", locale = "ko-Latn", kind = "real" },
+]

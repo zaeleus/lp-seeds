@@ -1,0 +1,8 @@
+medium-ids = [
+  "dpr-live/playlist/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dpr-live/playlist"
+duration = "2:52"
