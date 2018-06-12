@@ -1,0 +1,4 @@
+names = [
+  { name = "듣고 자요 (Piano Ver.)", locale = "ko", original = true },
+  { name = "Deutgo Jayo (Piano Ver.)", locale = "ko-Latn", default = true },
+]

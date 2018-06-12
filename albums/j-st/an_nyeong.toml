@@ -1,0 +1,15 @@
+artist-id = "j-st"
+kind = "ep"
+
+names = [
+  { name = "안_녕?", locale = "ko", original = true },
+  { name = "An_nyeong?", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-06-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10175112" },
+]

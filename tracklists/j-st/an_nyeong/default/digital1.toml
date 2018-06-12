@@ -1,0 +1,23 @@
+medium-ids = [
+  "j-st/an_nyeong/default/digital1",
+]
+
+[[tracks]]
+position = 2
+song-id = "j-st/begaega-doego-sipeoyo"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song-id = "j-st/ppo-ppo-ppo"
+duration = "3:31"
+
+[[tracks]]
+position = 4
+song-id = "j-st/neoraneun-yeohaeng"
+duration = "3:46"
+
+[[tracks]]
+position = 5
+song-id = "j-st/deutgo-jayo-piano-ver"
+duration = "4:33"
