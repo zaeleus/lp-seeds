@@ -3,5 +3,5 @@ kind = "person"
 country = "KR"
 
 names = [
-  { name = "Blacc Hole", locale = "ko", kind = "real", original = true, default = true },
+  { name = "Blacc Hole", locale = "ko", kind = "stage", original = true, default = true },
 ]
