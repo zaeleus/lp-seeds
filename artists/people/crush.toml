@@ -3,5 +3,5 @@ started-on = "1992-05-03"
 country = "KR"
 
 names = [
-  { name = "Crush", locale = "ko", kind = "real", original = true, default = true },
+  { name = "Crush", locale = "ko", kind = "stage", original = true, default = true },
 ]
