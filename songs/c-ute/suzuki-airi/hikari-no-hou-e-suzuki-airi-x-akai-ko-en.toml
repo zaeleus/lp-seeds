@@ -1,0 +1,4 @@
+names = [
+  { name = "光の方へ(鈴木愛理×赤い公園)", locale = "ja", original = true },
+  { name = "Hikari no Hou e (Suzuki Airi x Akai Ko-en)", locale = "ja-Latn", default = true },
+]

@@ -1,0 +1,16 @@
+artist-id = "c-ute/suzuki-airi"
+kind = "lp"
+
+names = [
+  { name = "Do me a favor", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-06-06"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1386618383" },
+  { url = "http://mora.jp/package/43000030/EPCE-7408-HR/" },
+  { url = "http://mora.jp/package/43000030/EPCE-7408/" },
+]

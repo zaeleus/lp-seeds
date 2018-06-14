@@ -1,0 +1,78 @@
+medium-ids = [
+  "c-ute/suzuki-airi/do-me-a-favor/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "c-ute/suzuki-airi/distance"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "c-ute/suzuki-airi/mikansei-girl"
+duration = "4:05"
+
+[[tracks]]
+position = 3
+song-id = "c-ute/suzuki-airi/good-night"
+duration = "3:45"
+
+[[tracks]]
+position = 4
+song-id = "c-ute/suzuki-airi/hikari-no-hou-e-suzuki-airi-x-akai-ko-en"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "c-ute/suzuki-airi/be-your-love"
+duration = "4:31"
+
+[[tracks]]
+position = 6
+song-id = "c-ute/suzuki-airi/story-suzuki-airi-x-scandal"
+duration = "3:41"
+
+[[tracks]]
+position = 7
+song-id = "c-ute/suzuki-airi/moment"
+duration = "3:26"
+
+[[tracks]]
+position = 8
+song-id = "c-ute/suzuki-airi/kimi-no-suki-na-hito"
+duration = "5:15"
+
+[[tracks]]
+position = 9
+song-id = "c-ute/suzuki-airi/tabun-ne"
+duration = "5:01"
+
+[[tracks]]
+position = 10
+song-id = "c-ute/suzuki-airi/iin-ja-nai"
+duration = "4:19"
+
+[[tracks]]
+position = 11
+song-id = "c-ute/suzuki-airi/perfect-timing"
+duration = "4:10"
+
+[[tracks]]
+position = 12
+song-id = "c-ute/suzuki-airi/candy-box"
+duration = "3:35"
+
+[[tracks]]
+position = 13
+song-id = "c-ute/suzuki-airi/watashi-no-soba-de"
+duration = "4:39"
+
+[[tracks]]
+position = 14
+song-id = "c-ute/suzuki-airi/dmaf-suzuki-airi-x-spicy-chocolate"
+duration = "4:40"
+
+[[tracks]]
+position = 15
+song-id = "c-ute/suzuki-airi/start-again"
+duration = "4:00"
