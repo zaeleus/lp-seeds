@@ -1,0 +1,15 @@
+artist-id = "junoflo"
+kind = "single"
+
+names = [
+  { name = "식구 (LA FAMILIA)", locale = "ko", original = true },
+  { name = "Sikgu (LA FAMILIA)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-06-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10175595" },
+]
