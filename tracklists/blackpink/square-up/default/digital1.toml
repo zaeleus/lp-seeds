@@ -1,0 +1,23 @@
+medium-ids = [
+  "blackpink/square-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "blackpink/ddu-du-ddu-du"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "blackpink/forever-young"
+duration = "3:57"
+
+[[tracks]]
+position = 3
+song-id = "blackpink/really"
+duration = "3:17"
+
+[[tracks]]
+position = 4
+song-id = "blackpink/see-u-later"
+duration = "3:18"
