@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-a-reum/sunset/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-a-reum/sunset"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "kim-a-reum/sunset-inst"
+duration = "3:36"
