@@ -1,0 +1,5 @@
+names = [
+  { name = "저녁의 이유 (All Night Long) (Feat. LUCAS of NCT)", locale = "ko", original = true },
+  { name = "Jeonyeogui Iyu (All Night Long) (Feat. LUCAS of NCT)", locale = "ko-Latn", default = true },
+  { name = "All Night Long (Feat. LUCAS of NCT)", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "너의 생일 (One Day)", locale = "ko", original = true },
+  { name = "Neoui Saengil (One Day)", locale = "ko-Latn", default = true },
+  { name = "One Day", locale = "en" },
+]
