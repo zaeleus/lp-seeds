@@ -1,0 +1,8 @@
+medium-ids = [
+  "ramda/stay-beautiful/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ramda/stay-beautiful"
+duration = "4:06"
