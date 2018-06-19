@@ -1,0 +1,3 @@
+names = [
+  { name = "Keep It Hardcore (Feat. IGNITO)", locale = "ko", original = true, default = true },
+]
