@@ -1,0 +1,8 @@
+names = [
+  { name = "Lazy Love", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "eden", separator = " & " },
+  { artist-id = "younha" },
+]
