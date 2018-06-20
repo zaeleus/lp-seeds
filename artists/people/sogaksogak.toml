@@ -1,0 +1,11 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "소각소각", locale = "ko", kind = "stage", original = true },
+  { name = "Sogaksogak", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김민선", locale = "ko", kind = "real" },
+  { name = "Kim Min Sun", locale = "ko-Latn", kind = "real" },
+]

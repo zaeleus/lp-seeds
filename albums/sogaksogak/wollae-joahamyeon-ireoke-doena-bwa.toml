@@ -1,0 +1,15 @@
+artist-id = "sogaksogak"
+kind = "single"
+
+names = [
+  { name = "원래 좋아하면 이렇게 되나 봐", locale = "ko", original = true },
+  { name = "Wollae Joahamyeon Ireoke Doena Bwa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-06-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10176940" },
+]
