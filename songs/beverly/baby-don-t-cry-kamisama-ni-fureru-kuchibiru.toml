@@ -1,0 +1,4 @@
+names = [
+  { name = "Baby don't cry ～神様に触れる唇～", locale = "ja", original = true },
+  { name = "Baby don't cry ~Kamisama ni Fureru Kuchibiru~", locale = "ja-Latn", default = true },
+]

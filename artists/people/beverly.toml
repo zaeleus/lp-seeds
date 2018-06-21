@@ -1,0 +1,8 @@
+kind = "person"
+#started-on = ""
+country = "JP"
+gender = "female"
+
+names = [
+  { name = "Beverly", locale = "ja", kind = "stage", original = true, default = true },
+]

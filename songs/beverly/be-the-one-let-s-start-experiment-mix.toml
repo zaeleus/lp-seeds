@@ -1,0 +1,8 @@
+names = [
+  { name = "Be The One \"Let's start experiment!!\" MIX", locale = "ja", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "pandora", separator = " feat. " },
+  { artist-id = "beverly" },
+]

@@ -1,0 +1,68 @@
+medium-ids = [
+  "beverly/24/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "beverly/power-of-love"
+duration = "4:31"
+
+[[tracks]]
+position = 2
+song-id = "beverly/all-i-want"
+duration = "4:40"
+
+[[tracks]]
+position = 3
+song-id = "beverly/love-therapy"
+duration = "3:47"
+
+[[tracks]]
+position = 4
+song-id = "beverly/baby-don-t-cry-kamisama-ni-fureru-kuchibiru"
+duration = "4:42"
+
+[[tracks]]
+position = 5
+song-id = "beverly/jump"
+duration = "4:11"
+
+[[tracks]]
+position = 6
+song-id = "beverly/fly-in-the-sky-produced-by-sick-individuals"
+duration = "3:13"
+
+[[tracks]]
+position = 7
+song-id = "beverly/hurting-me"
+duration = "3:15"
+
+[[tracks]]
+position = 8
+song-id = "beverly/future"
+duration = "4:36"
+
+[[tracks]]
+position = 9
+song-id = "beverly/my-boy"
+duration = "4:00"
+
+[[tracks]]
+position = 10
+song-id = "beverly/i-m-ready"
+duration = "3:39"
+
+[[tracks]]
+position = 11
+song-id = "beverly/a-new-day"
+duration = "4:40"
+
+[[tracks]]
+position = 12
+song-id = "beverly/tomorrow"
+duration = "5:04"
+
+[[tracks]]
+position = 13
+song-id = "beverly/be-the-one-let-s-start-experiment-mix"
+duration = "7:28"
