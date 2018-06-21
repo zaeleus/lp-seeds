@@ -1,0 +1,23 @@
+artist-id = "morning-musume"
+kind = "single"
+
+names = [
+  { name = "Are you Happy?/A gonna", locale = "ja", original = true },
+  { name = "Are you Happy? / A gonna", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '18", locale = "ja", original = true },
+  { name = "Morning Musume '18", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-06-13"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1389721084" },
+  { url = "http://mora.jp/package/43000030/EPCE-7404/" },
+]

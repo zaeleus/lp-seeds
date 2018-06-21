@@ -1,0 +1,10 @@
+names = [
+  { name = "A gonna", locale = "ja", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '18", locale = "ja", original = true },
+  { name = "Morning Musume '18", locale = "ja-Latn", default = true },
+]
