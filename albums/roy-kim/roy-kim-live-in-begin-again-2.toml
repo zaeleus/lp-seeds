@@ -1,0 +1,15 @@
+artist-id = "roy-kim"
+kind = "ep"
+
+names = [
+  { name = "로이킴 라이브 in 비긴어게인2", locale = "ko", original = true },
+  { name = "Roy Kim Live in Begin Again 2", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-06-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10178111" },
+]

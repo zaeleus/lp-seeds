@@ -1,0 +1,38 @@
+medium-ids = [
+  "roy-kim/roy-kim-live-in-begin-again-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "roy-kim/yellow"
+duration = "4:27"
+
+[[tracks]]
+position = 2
+song-id = "roy-kim/love-yourself"
+duration = "3:44"
+
+[[tracks]]
+position = 3
+song-id = "roy-kim/hallelujah"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "roy-kim/stay-with-me"
+duration = "2:55"
+
+[[tracks]]
+position = 5
+song-id = "roy-kim/fix-you"
+duration = "4:45"
+
+[[tracks]]
+position = 6
+song-id = "roy-kim/sangsanghaebwanni"
+duration = "3:33"
+
+[[tracks]]
+position = 7
+song-id = "roy-kim/geunaldeul"
+duration = "4:15"
