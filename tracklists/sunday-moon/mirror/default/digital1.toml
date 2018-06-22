@@ -1,0 +1,8 @@
+medium-ids = [
+  "sunday-moon/mirror/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sunday-moon/mirror"
+duration = "3:35"
