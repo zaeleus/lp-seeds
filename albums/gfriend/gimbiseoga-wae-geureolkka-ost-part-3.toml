@@ -1,0 +1,16 @@
+artist-id = "gfriend"
+kind = "single"
+
+names = [
+  { name = "김비서가 왜 그럴까 OST Part.3", locale = "ko", original = true },
+  { name = "Gimbiseoga Wae Geureolkka OST Part.3", locale = "ko-Latn", default = true },
+  { name = "What's Wrong with Secretary Kim OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-06-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10178090" },
+]

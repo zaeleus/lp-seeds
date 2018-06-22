@@ -1,0 +1,13 @@
+medium-ids = [
+  "gfriend/gimbiseoga-wae-geureolkka-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gfriend/wanna-be"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "gfriend/wanna-be-inst"
+duration = "3:09"
