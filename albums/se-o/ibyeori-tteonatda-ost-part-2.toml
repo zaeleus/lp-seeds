@@ -1,0 +1,16 @@
+artist-id = "se-o"
+kind = "single"
+
+names = [
+  { name = "이별이 떠났다 OST Part.2", locale = "ko", original = true },
+  { name = "Ibyeori Tteonatda OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Goodbye to Goodbye OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-06-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10178464" },
+]
