@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-yeon-ji/mubeop-byeonhosa-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-yeon-ji/nuni-majuchil-ttae"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "kim-yeon-ji/nuni-majuchil-ttae-inst"
+duration = "3:18"

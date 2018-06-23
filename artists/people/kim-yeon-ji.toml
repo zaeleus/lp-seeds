@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1986-10-30"
+country = "KR"
+
+names = [
+  { name = "김연지", locale = "ko", kind = "real", original = true },
+  { name = "Kim Yeon Ji", locale = "ko-Latn", kind = "real", default = true },
+]

@@ -1,0 +1,16 @@
+artist-id = "kim-yeon-ji"
+kind = "single"
+
+names = [
+  { name = "무법 변호사 OST Part.3", locale = "ko", original = true },
+  { name = "Mubeop Byeonhosa OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Lawless Lawyer OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-06-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10178465" },
+]
