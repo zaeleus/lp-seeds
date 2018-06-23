@@ -1,0 +1,18 @@
+medium-ids = [
+  "killagramz/hue/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "killagramz/icebox-feat-kisum-don-mills"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "killagramz/drive-feat-maddox"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "killagramz/pado-feat-woodz"
+duration = "3:42"

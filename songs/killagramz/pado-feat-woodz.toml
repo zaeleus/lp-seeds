@@ -1,0 +1,4 @@
+names = [
+  { name = "파도 (Feat. WOODZ)", locale = "ko", original = true },
+  { name = "Pado (Feat. WOODZ)", locale = "ko-Latn", default = true },
+]
