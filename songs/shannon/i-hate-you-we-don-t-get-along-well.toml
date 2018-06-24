@@ -1,0 +1,5 @@
+names = [
+  { name = "미워해 널 잘 지내지는 마", locale = "ko", original = true },
+  { name = "Miwohae Neol Jal Jinaejineun Ma", locale = "ko-Latn" },
+  { name = "I Hate You, We Don't Get Along Well", locale = "en", default = true },
+]

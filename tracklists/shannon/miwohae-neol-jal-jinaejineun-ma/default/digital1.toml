@@ -1,0 +1,13 @@
+medium-ids = [
+  "shannon/miwohae-neol-jal-jinaejineun-ma/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shannon/i-hate-you-we-don-t-get-along-well"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "shannon/miwohae-neol-jal-jinaejineun-ma-inst"
+duration = "3:54"

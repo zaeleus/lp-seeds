@@ -1,0 +1,16 @@
+artist-id = "shannon"
+kind = "single"
+
+names = [
+  { name = "미워해 널 잘 지내지는 마", locale = "ko", original = true },
+  { name = "Miwohae Neol Jal Jinaejineun Ma", locale = "ko-Latn", default = true },
+  { name = "I Hate You, We Don't Get Along Well", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-06-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10178545" },
+]
