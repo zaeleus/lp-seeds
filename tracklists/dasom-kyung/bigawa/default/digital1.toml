@@ -1,0 +1,13 @@
+medium-ids = [
+  "dasom-kyung/bigawa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dasom-kyung/bigawa"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "dasom-kyung/bigawa-inst"
+duration = "3:44"
