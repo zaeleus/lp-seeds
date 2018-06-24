@@ -1,0 +1,14 @@
+artist-id = "block-b/park-kyung"
+kind = "single"
+
+names = [
+  { name = "INSTANT", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-06-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10178233" },
+]
