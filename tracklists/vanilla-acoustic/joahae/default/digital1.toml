@@ -1,0 +1,8 @@
+medium-ids = [
+  "vanilla-acoustic/joahae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vanilla-acoustic/joahae"
+duration = "3:33"
