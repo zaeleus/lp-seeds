@@ -1,0 +1,5 @@
+names = [
+  { name = "중력달 (Gravity&Moon)", locale = "ko", original = true },
+  { name = "Jungnyeokdal (Gravity&Moon)", locale = "ko-Latn", default = true },
+  { name = "Gravity&Moon", locale = "en" },
+]
