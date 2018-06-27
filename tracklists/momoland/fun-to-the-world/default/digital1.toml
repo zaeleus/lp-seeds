@@ -1,0 +1,28 @@
+medium-ids = [
+  "momoland/fun-to-the-world/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "momoland/baam"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "momoland/very-very"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "momoland/binggogeim"
+duration = "3:22"
+
+[[tracks]]
+position = 4
+song-id = "momoland/only-one-you"
+duration = "3:54"
+
+[[tracks]]
+position = 5
+song-id = "momoland/baam-inst"
+duration = "3:28"

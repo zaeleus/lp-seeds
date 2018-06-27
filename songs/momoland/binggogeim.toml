@@ -1,0 +1,4 @@
+names = [
+  { name = "빙고게임", locale = "ko", original = true },
+  { name = "Binggogeim", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,14 @@
+artist-id = "momoland"
+kind = "ep"
+
+names = [
+  { name = "Fun to The World", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-06-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10179169" },
+]
