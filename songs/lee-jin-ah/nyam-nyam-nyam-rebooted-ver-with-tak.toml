@@ -1,0 +1,4 @@
+names = [
+  { name = "냠냠냠 (Rebooted Ver. with TAK)", locale = "ko", original = true },
+  { name = "Nyam Nyam Nyam (Rebooted Ver. with TAK)", locale = "ko-Latn", default = true },
+]
