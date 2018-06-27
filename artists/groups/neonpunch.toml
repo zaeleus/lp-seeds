@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "네온펀치", locale = "ko", original = true },
+  { name = "NeonPunch", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,18 @@
+medium-ids = [
+  "neonpunch/moonlight/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "neonpunch/moonlight"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "neonpunch/moonlight-chn-ver"
+duration = "3:13"
+
+[[tracks]]
+position = 3
+song-id = "neonpunch/moonlight-inst"
+duration = "3:13"
