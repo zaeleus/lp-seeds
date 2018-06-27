@@ -1,0 +1,15 @@
+artist-id = "it-s"
+kind = "single"
+
+names = [
+  { name = "잠들래", locale = "ko", original = true },
+  { name = "Jamdeullae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-06-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10178921" },
+]

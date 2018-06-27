@@ -1,0 +1,13 @@
+medium-ids = [
+  "it-s/jamdeullae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "it-s/jamdeullae"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "it-s/jamdeullae-inst"
+duration = "3:28"
