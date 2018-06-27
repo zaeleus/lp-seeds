@@ -1,0 +1,13 @@
+medium-ids = [
+  "zoin/neon-eottae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zoin/neon-eottae"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "zoin/neon-eottae-inst"
+duration = "3:21"
