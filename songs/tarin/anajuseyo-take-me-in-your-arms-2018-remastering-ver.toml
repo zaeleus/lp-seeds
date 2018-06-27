@@ -1,0 +1,4 @@
+names = [
+  { name = "안아주세요 (Take me in your arms) (2018 Remastering Ver.)", locale = "ko", original = true },
+  { name = "Anajuseyo (Take Me in Your Arms) (2018 Remastering Ver.)", locale = "ko-Latn", default = true },
+]

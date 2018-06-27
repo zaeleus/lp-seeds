@@ -1,0 +1,4 @@
+names = [
+  { name = "멍하니 (2018 Remastering Ver.)", locale = "ko", original = true },
+  { name = "Meonghani (2018 Remastering Ver.)", locale = "ko-Latn", default = true },
+]
