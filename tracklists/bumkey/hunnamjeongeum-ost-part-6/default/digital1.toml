@@ -1,0 +1,13 @@
+medium-ids = [
+  "bumkey/hunnamjeongeum-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bumkey/doragado-dwae"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "bumkey/doragado-dwae-inst"
+duration = "3:39"
