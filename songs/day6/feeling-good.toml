@@ -1,0 +1,3 @@
+names = [
+  { name = "Feeling Good", locale = "ko", original = true, default = true },
+]
