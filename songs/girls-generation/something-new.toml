@@ -1,3 +1,0 @@
-names = [
-  { name = "Something New", locale = "ko", original = true, default = true },
-]

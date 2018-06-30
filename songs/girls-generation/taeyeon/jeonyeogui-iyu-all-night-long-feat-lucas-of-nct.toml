@@ -3,3 +3,10 @@ names = [
   { name = "Jeonyeogui Iyu (All Night Long) (Feat. LUCAS of NCT)", locale = "ko-Latn", default = true },
   { name = "All Night Long (Feat. LUCAS of NCT)", locale = "en" },
 ]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", default = true },
+]

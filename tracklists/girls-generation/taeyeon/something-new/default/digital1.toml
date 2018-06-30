@@ -1,0 +1,33 @@
+medium-ids = [
+  "girls-generation/taeyeon/something-new/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/taeyeon/something-new"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/taeyeon/jeonyeogui-iyu-all-night-long-feat-lucas-of-nct"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "girls-generation/taeyeon/baram-x-3"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "girls-generation/taeyeon/neoui-saengil-one-day"
+duration = "3:30"
+
+[[tracks]]
+position = 5
+song-id = "girls-generation/taeyeon/circus"
+duration = "3:54"
+
+[[tracks]]
+position = 6
+song-id = "girls-generation/taeyeon/something-new-inst"
+duration = "2:59"

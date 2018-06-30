@@ -1,0 +1,11 @@
+names = [
+  { name = "바람 바람 바람 (Baram X 3)", locale = "ko", original = true },
+  { name = "Baram X 3", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", default = true },
+]
