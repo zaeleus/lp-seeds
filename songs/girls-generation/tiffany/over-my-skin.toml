@@ -1,0 +1,9 @@
+names = [
+  { name = "Over My Skin", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/tiffany"
+names = [
+  { name = "Tiffany Young", locale = "en", original = true, default = true },
+]
