@@ -1,0 +1,14 @@
+artist-id = "gfriend/yuju"
+kind = "single"
+
+names = [
+  { name = "Love Rain", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-06-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10180566" },
+]

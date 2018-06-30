@@ -1,0 +1,4 @@
+names = [
+  { name = "Love Rain (Feat. 수란)", locale = "ko", original = true },
+  { name = "Love Rain (Feat. Suran)", locale = "ko-Latn", default = true },
+]
