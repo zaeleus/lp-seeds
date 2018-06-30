@@ -1,0 +1,13 @@
+medium-ids = [
+  "melodyday/jameun-an-ogo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melodyday/jameun-an-ogo"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "melodyday/todak-todak"
+duration = "3:48"
