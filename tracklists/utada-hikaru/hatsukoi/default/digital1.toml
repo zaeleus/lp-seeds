@@ -1,0 +1,63 @@
+medium-ids = [
+  "utada-hikaru/hatsukoi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "utada-hikaru/play-a-love-song"
+duration = "4:12"
+
+[[tracks]]
+position = 2
+song-id = "utada-hikaru/anata"
+duration = "4:37"
+
+[[tracks]]
+position = 3
+song-id = "utada-hikaru/hatsukoi"
+duration = "4:40"
+
+[[tracks]]
+position = 4
+song-id = "utada-hikaru/chikai"
+duration = "4:33"
+
+[[tracks]]
+position = 5
+song-id = "utada-hikaru/forevermore"
+duration = "4:54"
+
+[[tracks]]
+position = 6
+song-id = "utada-hikaru/too-proud-featuring-jevon"
+duration = "4:41"
+
+[[tracks]]
+position = 7
+song-id = "utada-hikaru/good-night"
+duration = "4:22"
+
+[[tracks]]
+position = 8
+song-id = "utada-hikaru/pakuchii-no-uta"
+duration = "3:43"
+
+[[tracks]]
+position = 9
+song-id = "utada-hikaru/nokoriga"
+duration = "3:38"
+
+[[tracks]]
+position = 10
+song-id = "utada-hikaru/oozora-de-dakishimete"
+duration = "4:34"
+
+[[tracks]]
+position = 11
+song-id = "utada-hikaru/yuunagi"
+duration = "4:44"
+
+[[tracks]]
+position = 12
+song-id = "utada-hikaru/shittosarerubeki-jinsei"
+duration = "4:46"

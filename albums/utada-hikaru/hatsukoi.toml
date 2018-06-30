@@ -1,0 +1,17 @@
+artist-id = "utada-hikaru"
+kind = "lp"
+
+names = [
+  { name = "初恋", locale = "ja", original = true },
+  { name = "Hatsukoi", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-06-27"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1386707378" },
+  { url = "http://mora.jp/package/43000001/4547366363012/" },
+  { url = "http://mora.jp/package/43000001/4547366363043/" },
+]

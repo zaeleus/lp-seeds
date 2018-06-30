@@ -1,0 +1,4 @@
+names = [
+  { name = "パクチーの唄", locale = "ja", original = true },
+  { name = "Pakuchii no Uta", locale = "ja-Latn", default = true },
+]
