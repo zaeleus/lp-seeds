@@ -1,0 +1,16 @@
+artist-id = "lovelyz"
+kind = "single"
+
+names = [
+  { name = "여름 한 조각", locale = "ko", original = true },
+  { name = "Yeoreum Han Jogak", locale = "ko-Latn", default = true },
+  { name = "Wag-zak", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-07-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10180637" },
+]
