@@ -1,0 +1,16 @@
+artist-id = "mamamoo"
+kind = "single"
+
+names = [
+  { name = "장마", locale = "ko", original = true },
+  { name = "Jangma", locale = "ko-Latn", default = true },
+  { name = "Rainy Season", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-07-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10180730" },
+]
