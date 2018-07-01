@@ -1,0 +1,16 @@
+artist-id = "woo-eun-mi"
+kind = "single"
+
+names = [
+  { name = "내일도 맑음 OST Part.8", locale = "ko", original = true },
+  { name = "Naeildo Malgeum OST Part.8", locale = "ko-Latn", default = true },
+  { name = "Sunny Again Tomorrow OST Part.8", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-07-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10180570" },
+]

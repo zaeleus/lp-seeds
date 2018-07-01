@@ -1,0 +1,13 @@
+medium-ids = [
+  "woo-eun-mi/naeildo-malgeum-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-eun-mi/neowaui-gieok"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "woo-eun-mi/neowaui-gieok-inst"
+duration = "3:46"
