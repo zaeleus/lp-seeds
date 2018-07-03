@@ -1,0 +1,4 @@
+names = [
+  { name = "베이비로션 (BabyLotion) (Ori Ver.)", locale = "ko", original = true },
+  { name = "BabyLotion (Ori Ver.)", locale = "en", default = true },
+]

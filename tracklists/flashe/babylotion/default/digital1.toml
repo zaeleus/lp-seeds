@@ -1,0 +1,13 @@
+medium-ids = [
+  "flashe/babylotion/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "flashe/babylotion-rap-ver"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "flashe/babylotion-ori-ver"
+duration = "3:13"
