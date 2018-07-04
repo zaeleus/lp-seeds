@@ -1,0 +1,14 @@
+artist-id = "teen-top"
+kind = "lp"
+
+names = [
+  { name = "TEEN TOP STORY: 8PISODE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-07-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10181443" },
+]
