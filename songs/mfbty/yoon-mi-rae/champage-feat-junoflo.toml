@@ -1,0 +1,4 @@
+names = [
+  { name = "샴페인 (Champagne) (Feat. 주노플로)", locale = "ko", original = true },
+  { name = "Champage (Feat. Junoflo)", locale = "en", default = true },
+]

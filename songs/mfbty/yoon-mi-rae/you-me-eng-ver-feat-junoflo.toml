@@ -1,0 +1,4 @@
+names = [
+  { name = "You & Me (Eng Ver.) (Feat. 주노플로)", locale = "ko", original = true },
+  { name = "You & Me (Eng Ver.) (Feat. Junoflo)", locale = "ko-Latn", default = true },
+]
