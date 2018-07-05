@@ -1,0 +1,13 @@
+medium-ids = [
+  "ailee/dunia-cheoeum-mannan-segye-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ailee/paran-bom"
+duration = "4:11"
+
+[[tracks]]
+position = 2
+song-id = "ailee/paran-bom-inst"
+duration = "4:11"
