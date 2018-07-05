@@ -1,0 +1,3 @@
+names = [
+  { name = "Papercut (Eng.)", locale = "ko", original = true, default = true },
+]
