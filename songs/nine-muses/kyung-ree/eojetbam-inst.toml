@@ -1,0 +1,12 @@
+names = [
+  { name = "어젯밤 (Inst.)", locale = "ko", original = true },
+  { name = "Eojetbam (Inst.)", locale = "ko-Latn", default = true },
+  { name = "BLUE MOON (Inst.)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "nine-muses/kyung-ree"
+names = [
+  { name = "경리", locale = "ko", original = true },
+  { name = "Kyungri", locale = "ko-Latn", default = true },
+]

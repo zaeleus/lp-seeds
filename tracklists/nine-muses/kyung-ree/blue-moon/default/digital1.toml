@@ -1,0 +1,13 @@
+medium-ids = [
+  "nine-muses/kyung-ree/blue-moon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/kyung-ree/eojetbam"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "nine-muses/kyung-ree/eojetbam-inst"
+duration = "3:15"
