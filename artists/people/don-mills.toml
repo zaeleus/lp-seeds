@@ -4,7 +4,7 @@ country = "KR"
 gender = "male"
 
 names = [
-  { name = "Don Milss", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "Don Mills", locale = "ko", kind = "stage", original = true, default = true },
   { name = "황동현", locale = "ko", kind = "real" },
   { name = "Hwang Dong Hyun", locale = "ko-Latn", kind = "real" },
 ]
