@@ -1,0 +1,4 @@
+names = [
+  { name = "장마 (Feat. Basick)", locale = "ko", original = true },
+  { name = "Jangma (Feat. Basick)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "yoon-lip/jangma/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yoon-lip/jangma-feat-basick"
+duration = "3:34"
