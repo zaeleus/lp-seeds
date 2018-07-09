@@ -1,0 +1,16 @@
+artist-id = "rothy"
+kind = "single"
+
+names = [
+  { name = "리플리 Vol.2", locale = "ko", original = true },
+  { name = "Ripeulli Vol.2", locale = "ko-Latn" },
+  { name = "Ripley Vol.2", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-07-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10182762" },
+]
