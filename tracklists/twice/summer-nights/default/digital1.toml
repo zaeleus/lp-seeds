@@ -1,0 +1,43 @@
+medium-ids = [
+  "twice/summer-nights/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twice/dance-the-night-away"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "twice/chillax"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "twice/shot-thru-the-heart"
+duration = "3:25"
+
+[[tracks]]
+position = 5
+song-id = "twice/sweet-talker"
+duration = "3:27"
+
+[[tracks]]
+position = 6
+song-id = "twice/ho"
+duration = "3:09"
+
+[[tracks]]
+position = 7
+song-id = "twice/dejavu"
+duration = "3:16"
+
+[[tracks]]
+position = 8
+song-id = "twice/say-yes"
+duration = "3:03"
+
+[[tracks]]
+position = 9
+song-id = "twice/stuck"
+duration = "3:35"
