@@ -1,0 +1,8 @@
+medium-ids = [
+  "se-o/king/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "se-o/king"
+duration = "3:00"
