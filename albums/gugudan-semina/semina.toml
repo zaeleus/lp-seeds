@@ -1,0 +1,14 @@
+artist-id = "gugudan-semina"
+kind = "single"
+
+names = [
+  { name = "SEMINA", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-07-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10183599" },
+]

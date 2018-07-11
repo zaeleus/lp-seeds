@@ -1,0 +1,15 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "구구단 세미나", locale = "ko", original = true },
+  { name = "gugudan SEMINA", locale = "ko-Latn", default = true },
+]
+
+members = [
+  { artist-id = "gugudan/mina" },
+  { artist-id = "gugudan/nayoung" },
+  { artist-id = "gugudan/sejeong" },
+]
