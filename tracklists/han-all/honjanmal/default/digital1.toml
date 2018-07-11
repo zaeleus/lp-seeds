@@ -1,0 +1,8 @@
+medium-ids = [
+  "han-all/honjanmal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "han-all/honjanmal"
+duration = "3:52"
