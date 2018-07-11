@@ -1,0 +1,13 @@
+medium-ids = [
+  "cosmic-girls/soobin/hunnamjeongeum-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cosmic-girls/soobin/slowly"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "cosmic-girls/soobin/slowly-inst"
+duration = "3:11"
