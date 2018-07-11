@@ -1,0 +1,10 @@
+names = [
+  { name = "Bus", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/ji-yoon"
+names = [
+  { name = "전지윤", locale = "ko", original = true },
+  { name = "Jeon Ji Yoon", locale = "ko-Latn", default = true },
+]
