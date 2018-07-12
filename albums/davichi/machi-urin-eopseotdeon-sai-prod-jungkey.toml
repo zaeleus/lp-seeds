@@ -1,0 +1,16 @@
+artist-id = "davichi"
+kind = "single"
+
+names = [
+  { name = "마치 우린 없었던 사이 (Prod. 정키)", locale = "ko", original = true },
+  { name = "Machi Urin Eopseotdeon Sai (Prod. Jungkey)", locale = "ko-Latn", default = true },
+  { name = "Nostalgia (Prod. Jungkey)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-07-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10184110" },
+]
