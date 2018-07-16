@@ -1,0 +1,3 @@
+names = [
+  { name = "What Is A Yogic Flying?", locale = "ko", original = true, default = true },
+]
