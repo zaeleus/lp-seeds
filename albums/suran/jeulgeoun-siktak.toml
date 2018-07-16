@@ -1,0 +1,16 @@
+artist-id = "suran"
+kind = "single"
+
+names = [
+  { name = "즐거운 식탁", locale = "ko", original = true },
+  { name = "Jeulgeoun Siktak", locale = "ko-Latn", default = true },
+  { name = "A Pleasant Meal", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-07-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10184948" },
+]
