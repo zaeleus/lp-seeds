@@ -1,0 +1,16 @@
+artist-id = "rocoberry"
+kind = "single"
+
+names = [
+  { name = "전화", locale = "ko", original = true },
+  { name = "Jeonhwa", locale = "ko-Latn", default = true },
+  { name = "Telephone", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-07-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10184947" },
+]

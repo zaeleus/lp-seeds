@@ -1,0 +1,5 @@
+names = [
+  { name = "전화 (Feat. 펀치) (Inst.)", locale = "ko", original = true },
+  { name = "Jeonhwa (Feat. Punch) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Telephone (Feat. Punch) (Inst.)", locale = "en" },
+]
