@@ -1,0 +1,13 @@
+medium-ids = [
+  "wable/geudae-oneulharudo-ending-song/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wable/geudae-oneulharudo-ending-song"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "wable/geudae-oneulharudo-ending-song-inst"
+duration = "3:12"

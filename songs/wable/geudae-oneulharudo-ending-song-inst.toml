@@ -1,0 +1,5 @@
+names = [
+  { name = "그대 오늘하루도 (Ending Song) (Inst.)", locale = "ko", original = true },
+  { name = "Geudae Oneulharudo (Ending Song) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Ending Song (Inst.)", locale = "en" },
+]
