@@ -1,0 +1,3 @@
+names = [
+  { name = "Chill (Feat. Sik-K)", locale = "ko", original = true, default = true },
+]

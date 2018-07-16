@@ -1,0 +1,5 @@
+names = [
+  { name = "뭐가 보여 (Close Your Eyes) (Feat. Hoody)", locale = "ko", original = true },
+  { name = "Mwoga Boyeo (Close Your Eyes) (Feat. Hoody)", locale = "ko-Latn", default = true },
+  { name = "Close Your Eyes (Feat. Hoody)", locale = "en" },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "crush/wonderlost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "crush/chill-feat-sik-k"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "crush/endorphin-feat-penomeco-punchnello"
+duration = "3:51"
+
+[[tracks]]
+position = 3
+song-id = "crush/cereal-feat-zico"
+duration = "3:39"
+
+[[tracks]]
+position = 4
+song-id = "crush/mwoga-boyeo-close-your-eyes-feat-hoody"
+duration = "4:12"
+
+[[tracks]]
+position = 5
+song-id = "crush/ryo-feat-cifika-byung-un-of-balming-tiger"
+duration = "3:49"

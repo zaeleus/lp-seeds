@@ -1,0 +1,3 @@
+names = [
+  { name = "Cereal (Feat. ZICO)", locale = "ko", original = true, default = true },
+]
