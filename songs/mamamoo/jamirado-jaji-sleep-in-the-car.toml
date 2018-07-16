@@ -1,0 +1,5 @@
+names = [
+  { name = "잠이라도 자지 (Sleep In The Car)", locale = "ko", original = true },
+  { name = "Jamirado Jaji (Sleep In The Car)", locale = "ko-Latn", default = true },
+  { name = "Sleep In The Car", locale = "en" },
+]

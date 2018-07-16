@@ -1,0 +1,4 @@
+names = [
+  { name = "SELFISH (Feat. 슬기 of Red Velvet)", locale = "ko", original = true },
+  { name = "SELFISH (Feat. Seulgi of Red Velvet)", locale = "ko-Latn", default = true },
+]

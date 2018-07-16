@@ -1,0 +1,5 @@
+names = [
+  { name = "하늘하늘 (청순) (Sky! Sky!)", locale = "ko", original = true },
+  { name = "Haneul Haneul (Cheongsun) (Sky! Sky!)", locale = "ko-Latn", default = true },
+  { name = "Sky! Sky!", locale = "en" },
+]
