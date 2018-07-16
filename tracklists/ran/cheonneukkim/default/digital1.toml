@@ -1,0 +1,33 @@
+medium-ids = [
+  "ran/cheonneukkim/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/cheonneukkim"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "ran/niga-joeun-yeoreo-gaji-iyu"
+duration = "3:01"
+
+[[tracks]]
+position = 3
+song-id = "ran/neo-eopsi-nan"
+duration = "3:46"
+
+[[tracks]]
+position = 4
+song-id = "ran/malhago-sipeosseo"
+duration = "3:31"
+
+[[tracks]]
+position = 5
+song-id = "ran/eojjeomyeon-uri-mannaya-hal-unmyeong"
+duration = "2:46"
+
+[[tracks]]
+position = 6
+song-id = "ran/cheonneukkim-inst"
+duration = "3:55"

@@ -1,0 +1,15 @@
+artist-id = "ran"
+kind = "ep"
+
+names = [
+  { name = "첫느낌", locale = "ko", original = true },
+  { name = "Cheonneukkim", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-07-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10184743" },
+]
