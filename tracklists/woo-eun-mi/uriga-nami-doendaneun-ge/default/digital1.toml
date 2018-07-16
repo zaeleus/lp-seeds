@@ -1,0 +1,18 @@
+medium-ids = [
+  "woo-eun-mi/uriga-nami-doendaneun-ge/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-eun-mi/uriga-nami-doendaneun-ge"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "woo-eun-mi/uri-geuttaero"
+duration = "4:07"
+
+[[tracks]]
+position = 3
+song-id = "woo-eun-mi/uriga-nami-doendaneun-ge-inst"
+duration = "3:36"

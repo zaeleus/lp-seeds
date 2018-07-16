@@ -1,0 +1,15 @@
+artist-id = "woo-eun-mi"
+kind = "single"
+
+names = [
+  { name = "우리가 남이 된다는 게", locale = "ko", original = true },
+  { name = "Uriga Nami Doendaneun Ge", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-07-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10184258" },
+]
