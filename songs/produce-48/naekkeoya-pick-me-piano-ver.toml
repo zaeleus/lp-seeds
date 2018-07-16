@@ -1,0 +1,5 @@
+names = [
+  { name = "내꺼야 (PICK ME) (Piano Ver.)", locale = "ko", original = true },
+  { name = "Naekkeoya (PICK ME) (Piano Ver.)", locale = "ko-Latn", default = true },
+  { name = "PICK ME (Piano Ver.)", locale = "en" },
+]

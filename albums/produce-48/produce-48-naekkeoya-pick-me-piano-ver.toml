@@ -1,0 +1,16 @@
+artist-id = "produce-48"
+kind = "single"
+
+names = [
+  { name = "PRODUCE 48 - 내꺼야 (PICK ME) (Piano Ver.)", locale = "ko", original = true },
+  { name = "PRODUCE 48 - Naekkeoya (PICK ME) (Piano Ver.)", locale = "ko-Latn", default = true },
+  { name = "PRODUCE 48 - PICK ME (Piano Ver.)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-07-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10184880" },
+]
