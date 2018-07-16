@@ -1,0 +1,13 @@
+medium-ids = [
+  "exid/re-flower-project-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exid/hanabodan-dul-2018-remastered-ver"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "exid/hanabodan-dul-2018-remastered-ver-inst"
+duration = "3:56"

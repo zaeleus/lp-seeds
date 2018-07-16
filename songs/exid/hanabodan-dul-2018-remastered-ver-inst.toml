@@ -1,0 +1,5 @@
+names = [
+  { name = "하나보단 둘 (2018 Remastered Ver.) (Inst.)", locale = "ko", original = true },
+  { name = "Hanabodan Dul (2018 Remastered Ver.) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Better Together (2018 Remastered Ver.) (Inst.)", locale = "en" },
+]
