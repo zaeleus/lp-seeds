@@ -1,0 +1,5 @@
+names = [
+  { name = "If I don't have you (너 밖엔 없어)", locale = "ko", original = true },
+  { name = "If I don't have you (Neo Bakken Eopseo)", locale = "ko-Latn", default = true },
+  { name = "If I don't have you", locale = "en" },
+]

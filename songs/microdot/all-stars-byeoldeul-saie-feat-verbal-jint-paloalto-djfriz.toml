@@ -1,0 +1,5 @@
+names = [
+  { name = "All Stars (별들 사이에) (Feat. Verbal Jint, Paloalto, djfriz)", locale = "ko", original = true },
+  { name = "All Stars (Byeoldeul Saie) (Feat. Verbal Jint, Paloalto, Djfriz)", locale = "ko-Latn", default = true },
+  { name = "All Stars", locale = "en" },
+]

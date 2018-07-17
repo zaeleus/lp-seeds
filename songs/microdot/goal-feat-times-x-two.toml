@@ -1,0 +1,3 @@
+names = [
+  { name = "Goal (Feat. Times x Two)", locale = "ko", original = true, default = true },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "돌아가고파 (Back In Time)", locale = "ko", original = true },
+  { name = "Doragagopa (Back In Time)", locale = "ko-Latn", default = true },
+  { name = "Back In Time", locale = "en" },
+]

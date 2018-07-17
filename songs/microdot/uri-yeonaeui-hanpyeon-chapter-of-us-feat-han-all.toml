@@ -1,0 +1,5 @@
+names = [
+  { name = "우리 연애의 한편 (Chapter of us) (Feat. 한올)", locale = "ko", original = true },
+  { name = "Uri Yeonaeui Hanpyeon (Chapter of us) (Feat. Han All)", locale = "ko-Latn", default = true },
+  { name = "Chapter of us (Feat. Han All)", locale = "en" },
+]

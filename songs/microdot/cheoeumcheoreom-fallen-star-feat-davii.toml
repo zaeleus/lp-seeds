@@ -1,0 +1,5 @@
+names = [
+  { name = "처음처럼 (Fallen Star) (Feat. DAVII)", locale = "ko", original = true },
+  { name = "Cheoeumcheoreom (Fallen Star) (Feat. DAVII)", locale = "ko-Latn", default = true },
+  { name = "Fallen Star (Feat. DAVII)", locale = "en" },
+]

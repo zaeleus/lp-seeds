@@ -1,0 +1,148 @@
+medium-ids = [
+  "microdot/prophet/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "microdot/prophet"
+duration = "4:07"
+
+[[tracks]]
+position = 2
+song-id = "microdot/hallelujah-feat-ydg"
+duration = "4:43"
+
+[[tracks]]
+position = 3
+song-id = "microdot/tropical-night-feat-beenzino"
+duration = "4:48"
+
+[[tracks]]
+position = 4
+song-id = "microdot/dining-table"
+duration = "3:32"
+
+[[tracks]]
+position = 5
+song-id = "microdot/time-to-shine-feat-chancellor"
+duration = "4:21"
+
+[[tracks]]
+position = 6
+song-id = "microdot/new-day-feat-sanchez"
+duration = "3:52"
+
+[[tracks]]
+position = 7
+song-id = "microdot/doragagopa-back-in-time"
+duration = "3:59"
+
+[[tracks]]
+position = 8
+song-id = "microdot/uri-yeonaeui-hanpyeon-chapter-of-us-feat-han-all"
+duration = "4:23"
+
+[[tracks]]
+position = 9
+song-id = "microdot/mannequin"
+duration = "4:19"
+
+[[tracks]]
+position = 10
+song-id = "microdot/all-black-feat-dok2"
+duration = "4:30"
+
+[[tracks]]
+position = 11
+song-id = "microdot/goal-feat-times-x-two"
+duration = "3:17"
+
+[[tracks]]
+position = 12
+song-id = "microdot/no-stoppin"
+duration = "3:29"
+
+[[tracks]]
+position = 13
+song-id = "microdot/way-up-feat-boi-b"
+duration = "3:54"
+
+[[tracks]]
+position = 14
+song-id = "microdot/get-don-feat-don-mills"
+duration = "3:53"
+
+[[tracks]]
+position = 15
+song-id = "microdot/blah-blah-feat-ravi-of-vixx"
+duration = "4:13"
+
+[[tracks]]
+position = 16
+song-id = "microdot/dtmn-feat-donell-lewis"
+duration = "2:40"
+
+[[tracks]]
+position = 17
+song-id = "microdot/pinnerdown-feat-donell-lewis"
+duration = "2:59"
+
+[[tracks]]
+position = 18
+song-id = "microdot/6482-feat-superbee"
+duration = "3:13"
+
+[[tracks]]
+position = 19
+song-id = "microdot/ya-ya-feat-sul"
+duration = "3:14"
+
+[[tracks]]
+position = 20
+song-id = "microdot/up"
+duration = "3:02"
+
+[[tracks]]
+position = 21
+song-id = "microdot/you-need-love-feat-donell-lewis"
+duration = "4:03"
+
+[[tracks]]
+position = 22
+song-id = "microdot/all-stars-byeoldeul-saie-feat-verbal-jint-paloalto-djfriz"
+duration = "4:03"
+
+[[tracks]]
+position = 23
+song-id = "microdot/freedom"
+duration = "3:18"
+
+[[tracks]]
+position = 24
+song-id = "microdot/if-i-don-t-have-you-neo-bakken-eopseo"
+duration = "3:46"
+
+[[tracks]]
+position = 25
+song-id = "microdot/cheoeumcheoreom-fallen-star-feat-davii"
+duration = "3:36"
+
+[[tracks]]
+position = 26
+song-id = "microdot/artist"
+duration = "4:21"
+
+[[tracks]]
+position = 27
+song-id = "microdot/time-to-shine-inst"
+duration = "4:21"
+
+[[tracks]]
+position = 28
+song-id = "microdot/tropical-night-inst"
+duration = "4:48"
+
+[[tracks]]
+position = 29
+song-id = "microdot/mannequin-maneking-inst"
+duration = "4:19"
