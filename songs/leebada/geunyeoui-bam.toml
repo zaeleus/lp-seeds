@@ -1,0 +1,5 @@
+names = [
+  { name = "그녀의 밤", locale = "ko", original = true },
+  { name = "Geunyeoui Bam", locale = "ko-Latn", default = true },
+  { name = "Her Night", locale = "en" },
+]

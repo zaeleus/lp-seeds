@@ -1,0 +1,13 @@
+medium-ids = [
+  "leebada/geunyeoui-bam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leebada/geunyeoui-bam"
+duration = "4:20"
+
+[[tracks]]
+position = 2
+song-id = "leebada/geunyeoui-bam-demo-ver"
+duration = "3:02"
