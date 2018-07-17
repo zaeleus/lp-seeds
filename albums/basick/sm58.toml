@@ -1,0 +1,14 @@
+artist-id = "basick"
+kind = "single"
+
+names = [
+  { name = "SM58", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-01-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10126658" },
+]

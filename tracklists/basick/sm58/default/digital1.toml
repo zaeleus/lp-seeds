@@ -1,0 +1,8 @@
+medium-ids = [
+  "basick/sm58/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "basick/sm58-feat-justhis"
+duration = "3:35"
