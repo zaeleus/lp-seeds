@@ -1,0 +1,8 @@
+medium-ids = [
+  "brandnew-music/respect-the-name/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brandnew-music/respect-the-name"
+duration = "8:33"

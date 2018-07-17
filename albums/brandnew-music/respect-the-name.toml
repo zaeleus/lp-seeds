@@ -1,0 +1,14 @@
+artist-id = "brandnew-music"
+kind = "single"
+
+names = [
+  { name = "RESPECT THE NAME", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-07-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2699570" },
+]
