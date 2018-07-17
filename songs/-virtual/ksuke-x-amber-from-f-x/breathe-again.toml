@@ -1,0 +1,13 @@
+names = [
+  { name = "BREATHE AGAIN", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "ksuke"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "f-x/amber"
+names = [
+  { name = "AMBER from f(x)", locale = "ko", original = true, default = true },
+]

@@ -1,0 +1,24 @@
+artist-id = "-virtual/ksuke-x-amber-from-f-x"
+kind = "single"
+
+names = [
+  { name = "BREATHE AGAIN", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "ksuke"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "f-x/amber"
+names = [
+  { name = "AMBER from f(x)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-09-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2710312" },
+]
