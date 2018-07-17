@@ -1,0 +1,13 @@
+medium-ids = [
+  "ladies-code/ashley/here-we-are/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ladies-code/ashley/here-we-are"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "ladies-code/ashley/answer"
+duration = "3:32"
