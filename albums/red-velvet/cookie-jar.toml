@@ -1,0 +1,15 @@
+artist-id = "red-velvet"
+kind = "ep"
+
+names = [
+  { name = "#Cookie Jar", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-07-04"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/jp/album/1400640685" },
+  { url = "http://mora.jp/package/43000002/AVCK-79478/" },
+]

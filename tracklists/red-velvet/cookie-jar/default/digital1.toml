@@ -1,0 +1,33 @@
+medium-ids = [
+  "red-velvet/cookie-jar/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/cookie-jar"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/aitai-tai"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "red-velvet/cause-it-s-you"
+duration = "2:59"
+
+[[tracks]]
+position = 4
+song-id = "red-velvet/dumb-dumb--jp"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song-id = "red-velvet/russian-roulette--jp"
+duration = "3:31"
+
+[[tracks]]
+position = 6
+song-id = "red-velvet/red-flavor"
+duration = "3:11"
