@@ -1,0 +1,23 @@
+medium-ids = [
+  "momoland/bboom-bboom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "momoland/bboom-bboom-japanese-ver"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "momoland/welcome-to-momoland-japanese-ver"
+duration = "3:27"
+
+[[tracks]]
+position = 3
+song-id = "momoland/bboom-bboom-japanese-ver-instrumental"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "momoland/welcome-to-momoland-japanese-ver-instrumental"
+duration = "3:27"
