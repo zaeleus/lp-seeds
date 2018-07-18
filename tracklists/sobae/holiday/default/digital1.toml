@@ -1,0 +1,13 @@
+medium-ids = [
+  "sobae/holiday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sobae/holiday-feat-san-e"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "sobae/holiday-feat-san-e-inst"
+duration = "3:10"
