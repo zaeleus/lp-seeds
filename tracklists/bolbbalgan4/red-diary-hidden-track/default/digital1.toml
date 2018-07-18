@@ -1,0 +1,13 @@
+medium-ids = [
+  "bolbbalgan4/red-diary-hidden-track/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bolbbalgan4/dejavu"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "bolbbalgan4/6-o-clock"
+duration = "2:46"
