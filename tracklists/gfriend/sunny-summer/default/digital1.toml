@@ -1,0 +1,28 @@
+medium-ids = [
+  "gfriend/sunny-summer/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gfriend/yeoreum-yeoreumhae-sunny-summer"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "gfriend/vacation"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "gfriend/sweety"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "gfriend/baram-baram-baram-windy-windy"
+duration = "3:17"
+
+[[tracks]]
+position = 5
+song-id = "gfriend/love-in-the-air"
+duration = "3:41"
