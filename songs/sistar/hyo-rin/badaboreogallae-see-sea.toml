@@ -1,0 +1,12 @@
+names = [
+  { name = "바다보러갈래 (SEE SEA)", locale = "ko", original = true },
+  { name = "Badaboreogallae (SEE SEA)", locale = "ko-Latn", default = true },
+  { name = "SEE SEA", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "sistar/hyo-rin"
+names = [
+  { name = "효린", locale = "ko", original = true },
+  { name = "Hyolyn", locale = "ko-Latn", default = true },
+]
