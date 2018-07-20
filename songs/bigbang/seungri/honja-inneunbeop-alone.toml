@@ -1,0 +1,5 @@
+names = [
+  { name = "혼자 있는법 (ALONE)", locale = "ko", original = true },
+  { name = "Honja Inneunbeop (ALONE)", locale = "ko-Latn", default = true },
+  { name = "ALONE", locale = "en" },
+]

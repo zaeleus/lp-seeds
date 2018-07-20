@@ -1,0 +1,4 @@
+names = [
+  { name = "몰라도 (MOLLADO) (Feat. B.I)", locale = "ko", original = true },
+  { name = "MOLLADO (Feat. B.I)", locale = "en", default = true },
+]
