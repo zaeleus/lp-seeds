@@ -1,0 +1,13 @@
+medium-ids = [
+  "zoin/jalhan-geojyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zoin/jalhan-geojyo"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "zoin/jalhan-geojyo-inst"
+duration = "3:33"
