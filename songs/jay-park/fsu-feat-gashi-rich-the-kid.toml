@@ -1,0 +1,3 @@
+names = [
+  { name = "FSU (Feat. GASHI, Rich The Kid)", locale = "ko", original = true, default = true },
+]

@@ -1,0 +1,38 @@
+medium-ids = [
+  "jay-park/ask-bout-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jay-park/fsu-feat-gashi-rich-the-kid"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "jay-park/chosen1"
+duration = "2:59"
+
+[[tracks]]
+position = 3
+song-id = "jay-park/sexy-4-eva"
+duration = "3:42"
+
+[[tracks]]
+position = 4
+song-id = "jay-park/million"
+duration = "4:29"
+
+[[tracks]]
+position = 5
+song-id = "jay-park/yacht-feat-vic-mensa"
+duration = "3:20"
+
+[[tracks]]
+position = 6
+song-id = "jay-park/ask-bout-me"
+duration = "3:25"
+
+[[tracks]]
+position = 7
+song-id = "jay-park/soju-feat-2-chainz"
+duration = "3:49"
