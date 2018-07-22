@@ -1,0 +1,4 @@
+names = [
+  { name = "우주심해 (Prod. By Minit) (Feat. 김승민)", locale = "ko", original = true },
+  { name = "Ujusimhae (Prod. By Minit) (Feat. Kim Seung Min)", locale = "ko-Latn", default = true },
+]

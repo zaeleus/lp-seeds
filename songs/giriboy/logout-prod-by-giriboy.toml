@@ -1,0 +1,4 @@
+names = [
+  { name = "logout (Prod. By 기리보이)", locale = "ko", original = true },
+  { name = "logout (Prod. By Giriboy)", locale = "ko-Latn", default = true },
+]
