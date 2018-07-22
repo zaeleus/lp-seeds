@@ -1,0 +1,15 @@
+artist-id = "standing-egg"
+kind = "single"
+
+names = [
+  { name = "오 잠깐", locale = "ko", original = true },
+  { name = "O Jamkkan", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-07-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10187242" },
+]
