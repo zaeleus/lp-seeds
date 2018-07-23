@@ -1,0 +1,14 @@
+artist-id = "kisum"
+kind = "single"
+
+names = [
+  { name = "100%", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-07-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10187457" },
+]

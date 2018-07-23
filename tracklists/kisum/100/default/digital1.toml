@@ -1,0 +1,13 @@
+medium-ids = [
+  "kisum/100/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kisum/100"
+duration = "2:54"
+
+[[tracks]]
+position = 2
+song-id = "kisum/100-inst"
+duration = "2:54"
