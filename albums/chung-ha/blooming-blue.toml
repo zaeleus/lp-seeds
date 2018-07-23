@@ -1,0 +1,14 @@
+artist-id = "chung-ha"
+kind = "ep"
+
+names = [
+  { name = "Blooming Blue", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-07-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10186254" },
+]
