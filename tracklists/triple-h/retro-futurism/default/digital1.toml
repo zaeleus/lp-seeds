@@ -1,0 +1,23 @@
+medium-ids = [
+  "triple-h/retro-futurism/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "triple-h/neukkim"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "triple-h/retro-future"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "triple-h/show-me"
+duration = "3:55"
+
+[[tracks]]
+position = 4
+song-id = "triple-h/retro-future-inst"
+duration = "3:16"
