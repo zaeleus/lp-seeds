@@ -1,0 +1,5 @@
+names = [
+  { name = "외친다 (Call Out)", locale = "ko", original = true },
+  { name = "Oechinda (Call Out)", locale = "ko-Latn", default = true },
+  { name = "Call Out", locale = "en" },
+]

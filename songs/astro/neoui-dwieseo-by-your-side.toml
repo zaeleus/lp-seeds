@@ -1,0 +1,5 @@
+names = [
+  { name = "너의 뒤에서 (By Your Side)", locale = "ko", original = true },
+  { name = "Neoui Dwieseo (By Your Side)", locale = "ko-Latn", default = true },
+  { name = "By Your Side", locale = "en" },
+]

@@ -1,0 +1,14 @@
+artist-id = "astro"
+kind = "ep"
+
+names = [
+  { name = "Rise Up", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-07-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10187814" },
+]
