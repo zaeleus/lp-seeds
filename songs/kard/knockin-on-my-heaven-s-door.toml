@@ -1,0 +1,3 @@
+names = [
+  { name = "Knockin' on my heaven's door", locale = "ko", original = true, default = true },
+]
