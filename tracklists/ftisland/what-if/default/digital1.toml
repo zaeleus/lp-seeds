@@ -1,0 +1,33 @@
+medium-ids = [
+  "ftisland/what-if/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ftisland/yeoreumbamui-kkum"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "ftisland/dance-with-u"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "ftisland/nowhere"
+duration = "3:38"
+
+[[tracks]]
+position = 4
+song-id = "ftisland/fade-out-feat-yuna-of-aoa"
+duration = "3:05"
+
+[[tracks]]
+position = 5
+song-id = "ftisland/who-i-am"
+duration = "3:49"
+
+[[tracks]]
+position = 6
+song-id = "ftisland/paradise-korean-ver"
+duration = "4:11"

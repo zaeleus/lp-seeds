@@ -1,0 +1,5 @@
+names = [
+  { name = "여름밤의 꿈", locale = "ko", original = true },
+  { name = "Yeoreumbamui Kkum", locale = "ko-Latn", default = true },
+  { name = "Summer Night's Dream", locale = "en" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "Fade Out (Feat. 유나 of AOA)", locale = "ko", original = true },
+  { name = "Fade Out (Feat. Yuna of AOA)", locale = "ko-Latn", default = true },
+]
