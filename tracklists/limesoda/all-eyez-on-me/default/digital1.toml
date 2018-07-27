@@ -1,0 +1,13 @@
+medium-ids = [
+  "limesoda/all-eyez-on-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "limesoda/all-eyez-on-me"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "limesoda/all-eyez-on-me-inst"
+duration = "3:40"
