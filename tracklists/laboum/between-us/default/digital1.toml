@@ -1,0 +1,18 @@
+medium-ids = [
+  "laboum/between-us/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "laboum/cheon-between-us"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "laboum/love-game"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "laboum/cheon-between-us-inst"
+duration = "3:44"

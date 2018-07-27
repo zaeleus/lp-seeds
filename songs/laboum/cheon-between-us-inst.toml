@@ -1,0 +1,5 @@
+names = [
+  { name = "체온 (Between Us) (inst.)", locale = "ko", original = true },
+  { name = "Cheon (Between Us) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Between Us (Inst.)", locale = "en" },
+]
