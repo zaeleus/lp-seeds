@@ -1,0 +1,5 @@
+names = [
+  { name = "그늘 (Shelter) (Feat. ZENE THE ZILLA, Sway D, SUPERBEE)", locale = "ko", original = true },
+  { name = "Geuneul (Shelter) (Feat. ZENE THE ZILLA, Sway D, SUPERBEE)", locale = "ko-Latn", default = true },
+  { name = "Shelter (Feat. ZENE THE ZILLA, Sway D, SUPERBEE)", locale = "en" },
+]
