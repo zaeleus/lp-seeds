@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1990-01-12"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "숀", locale = "ko", kind = "stage", original = true },
+  { name = "SHAUN", locale = "ko-Latn", kind = "stage", default = true },
+]
