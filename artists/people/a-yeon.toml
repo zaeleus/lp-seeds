@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1990-06-04"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "A-YEON", locale = "ko", kind = "stage", original = true, default = true },
+]
