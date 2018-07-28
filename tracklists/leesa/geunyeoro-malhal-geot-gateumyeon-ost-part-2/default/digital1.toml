@@ -1,0 +1,13 @@
+medium-ids = [
+  "leesa/geunyeoro-malhal-geot-gateumyeon-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leesa/save-me"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "leesa/save-me-inst"
+duration = "3:48"
