@@ -1,0 +1,4 @@
+names = [
+  { name = "우린 나란히 앉아 (With 정소안, 변흥수)", locale = "ko", original = true },
+  { name = "Urin Naranhi Anja (With Jung So An, Byeon Heung Soo)", locale = "ko-Latn", default = true },
+]
