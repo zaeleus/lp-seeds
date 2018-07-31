@@ -1,0 +1,5 @@
+names = [
+  { name = "빠지고 싶어 (Thinking About You) (Feat. 챈슬러, Jiselle (지젤))", locale = "ko", original = true },
+  { name = "Ppajigo Sipeo (Thinking About You) (Feat. Chancellor, Jiselle)", locale = "ko-Latn", default = true },
+  { name = "Thinking About You (Feat. Chancellor, Jiselle)", locale = "en" },
+]

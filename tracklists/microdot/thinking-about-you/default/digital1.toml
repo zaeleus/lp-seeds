@@ -1,0 +1,23 @@
+medium-ids = [
+  "microdot/thinking-about-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "microdot/kkaji-till-then"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "microdot/ppajigo-sipeo-thinking-about-you-feat-chancellor-jiselle"
+duration = "3:46"
+
+[[tracks]]
+position = 3
+song-id = "microdot/these-days-yojeumen-feat-djfriz"
+duration = "2:44"
+
+[[tracks]]
+position = 4
+song-id = "microdot/ppajigo-sipeo-thinking-about-you-inst"
+duration = "3:46"

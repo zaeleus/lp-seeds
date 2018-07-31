@@ -1,0 +1,5 @@
+names = [
+  { name = "빠지고 싶어 (Thinking About You) (Inst.)", locale = "ko", original = true },
+  { name = "Ppajigo Sipeo (Thinking About You) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Thinking About You (Inst.)", locale = "en" },
+]

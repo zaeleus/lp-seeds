@@ -1,0 +1,5 @@
+names = [
+  { name = "These Days (요즘엔) (Feat. djfriz)", locale = "ko", original = true },
+  { name = "These Days (Yojeumen) (Feat. djfriz)", locale = "ko-Latn", default = true },
+  { name = "These Days (Feat. djfriz)", locale = "en" },
+]
