@@ -1,0 +1,15 @@
+artist-id = "stella-jang"
+kind = "single"
+
+names = [
+  { name = "아이고 (I Go)", locale = "ko", original = true },
+  { name = "I Go", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-08-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10190853" },
+]
