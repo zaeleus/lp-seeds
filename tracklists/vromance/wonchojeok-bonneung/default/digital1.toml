@@ -1,0 +1,13 @@
+medium-ids = [
+  "vromance/wonchojeok-bonneung/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vromance/wonchojeok-bonneung"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "vromance/wonchojeok-bonneung-inst"
+duration = "3:41"
