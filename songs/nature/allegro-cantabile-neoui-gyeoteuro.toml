@@ -1,0 +1,5 @@
+names = [
+  { name = "Allegro Cantabile (너의 곁으로)", locale = "ko", original = true },
+  { name = "Allegro Cantabile (Neoui Gyeoteuro)", locale = "ko-Latn", default = true },
+  { name = "Allegro Cantabile", locale = "en" },
+]

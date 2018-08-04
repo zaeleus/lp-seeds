@@ -1,0 +1,16 @@
+artist-id = "nature"
+kind = "single"
+
+names = [
+  { name = "기분 좋아", locale = "ko", original = true },
+  { name = "Gibun Joa", locale = "ko-Latn", default = true },
+  { name = "Girls and Flowers", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-08-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10191227" },
+]

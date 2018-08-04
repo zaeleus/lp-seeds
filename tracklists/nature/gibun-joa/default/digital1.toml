@@ -1,0 +1,23 @@
+medium-ids = [
+  "nature/gibun-joa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nature/allegro-cantabile-neoui-gyeoteuro"
+duration = "4:16"
+
+[[tracks]]
+position = 2
+song-id = "nature/gibun-joa-girls-and-flowers"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "nature/allegro-cantabile-neoui-gyeoteuro-inst"
+duration = "4:16"
+
+[[tracks]]
+position = 4
+song-id = "nature/gibun-joa-girls-and-flowers-inst"
+duration = "3:10"

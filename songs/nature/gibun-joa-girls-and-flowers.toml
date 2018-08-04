@@ -1,0 +1,5 @@
+names = [
+  { name = "기분 좋아 (Girls and Flowers)", locale = "ko", original = true },
+  { name = "Gibun Joa (Girls and Flowers)", locale = "ko-Latn", default = true },
+  { name = "Girls and Flowers", locale = "en" },
+]
