@@ -1,0 +1,13 @@
+medium-ids = [
+  "live-high/cheotsarang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "live-high/cheotsarang"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "live-high/cheotsarang-inst"
+duration = "3:30"
