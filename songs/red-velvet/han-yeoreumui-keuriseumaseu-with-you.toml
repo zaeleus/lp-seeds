@@ -1,0 +1,5 @@
+names = [
+  { name = "한 여름의 크리스마스 (With You)", locale = "ko", original = true },
+  { name = "Han Yeoreumui Keuriseumaseu (With You)", locale = "ko-Latn", default = true },
+  { name = "With You", locale = "en" },
+]

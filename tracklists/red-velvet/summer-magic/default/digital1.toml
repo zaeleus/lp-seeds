@@ -1,0 +1,38 @@
+medium-ids = [
+  "red-velvet/summer-magic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/power-up"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/han-yeoreumui-keuriseumaseu-with-you"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "red-velvet/mr-e"
+duration = "3:39"
+
+[[tracks]]
+position = 4
+song-id = "red-velvet/mosquito"
+duration = "3:12"
+
+[[tracks]]
+position = 5
+song-id = "red-velvet/hit-that-drum"
+duration = "3:13"
+
+[[tracks]]
+position = 6
+song-id = "red-velvet/blue-lemonade"
+duration = "3:17"
+
+[[tracks]]
+position = 7
+song-id = "red-velvet/bonus-track-bad-boy-english-ver"
+duration = "3:29"
