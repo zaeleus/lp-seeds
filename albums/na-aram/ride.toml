@@ -1,0 +1,14 @@
+artist-id = "na-aram"
+kind = "single"
+
+names = [
+  { name = "Ride", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-08-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10191610" },
+]
