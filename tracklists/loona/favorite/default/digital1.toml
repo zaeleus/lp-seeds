@@ -1,0 +1,8 @@
+medium-ids = [
+  "loona/favorite/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/favorite"
+duration = "3:15"
