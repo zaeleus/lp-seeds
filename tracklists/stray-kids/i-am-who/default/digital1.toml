@@ -1,0 +1,38 @@
+medium-ids = [
+  "stray-kids/i-am-who/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stray-kids/who"
+duration = "1:46"
+
+[[tracks]]
+position = 2
+song-id = "stray-kids/my-pace"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "stray-kids/voices"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "stray-kids/question"
+duration = "3:03"
+
+[[tracks]]
+position = 5
+song-id = "stray-kids/bulmyeonjeung"
+duration = "3:27"
+
+[[tracks]]
+position = 6
+song-id = "stray-kids/m-i-a"
+duration = "3:31"
+
+[[tracks]]
+position = 7
+song-id = "stray-kids/gapjagi-bunwigi-ssahaejil-piryo-eopjanayo"
+duration = "3:14"
