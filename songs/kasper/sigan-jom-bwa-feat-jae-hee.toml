@@ -1,0 +1,4 @@
+names = [
+  { name = "시간 좀 봐 (Feat. 재희)", locale = "ko", original = true },
+  { name = "Sigan Jom Bwa (Feat. Jae Hee)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "뚜뚜루 (Clouds)", locale = "ko", original = true },
+  { name = "Ttutturu (Clouds)", locale = "ko-Latn", default = true },
+  { name = "Clouds", locale = "en" },
+]
