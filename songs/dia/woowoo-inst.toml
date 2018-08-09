@@ -1,0 +1,4 @@
+names = [
+  { name = "우우 (WooWoo) (Inst.)", locale = "ko", original = true },
+  { name = "WooWoo (Inst.)", locale = "en", default = true },
+]

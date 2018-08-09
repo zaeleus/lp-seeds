@@ -1,0 +1,5 @@
+names = [
+  { name = "데리러 와 (TAKE ME)", locale = "ko", original = true },
+  { name = "Derireo Wa (TAKE ME)", locale = "ko-Latn", default = true },
+  { name = "TAKE ME", locale = "en" },
+]
