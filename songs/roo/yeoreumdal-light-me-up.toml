@@ -1,0 +1,5 @@
+names = [
+  { name = "여름달 (Light me up)", locale = "ko", original = true },
+  { name = "Yeoreumdal (Light me up)", locale = "ko-Latn", default = true },
+  { name = "Light me up", locale = "en" },
+]

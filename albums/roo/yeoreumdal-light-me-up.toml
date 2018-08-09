@@ -1,0 +1,16 @@
+artist-id = "roo"
+kind = "single"
+
+names = [
+  { name = "여름달 (Light me up)", locale = "ko", original = true },
+  { name = "Yeoreumdal (Light me up)", locale = "ko-Latn", default = true },
+  { name = "Light me up", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-08-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10192744" },
+]

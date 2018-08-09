@@ -1,0 +1,13 @@
+medium-ids = [
+  "roo/yeoreumdal-light-me-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "roo/yeoreumdal-light-me-up"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "roo/yeoreumdal-light-me-up-inst"
+duration = "3:36"
