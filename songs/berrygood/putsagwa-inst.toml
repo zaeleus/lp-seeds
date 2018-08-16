@@ -1,0 +1,5 @@
+names = [
+  { name = "풋사과 (Inst.)", locale = "ko", original = true },
+  { name = "Putsagwa (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Green Apple (Inst.)", locale = "en" },
+]

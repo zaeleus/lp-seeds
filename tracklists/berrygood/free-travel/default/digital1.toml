@@ -1,0 +1,58 @@
+medium-ids = [
+  "berrygood/free-travel/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "berrygood/putsagwa"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "berrygood/mellow-mellow"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "berrygood/ppaljunochopanambo"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "berrygood/give-it-away"
+duration = "2:59"
+
+[[tracks]]
+position = 5
+song-id = "berrygood/mianhae-eonni"
+duration = "3:49"
+
+[[tracks]]
+position = 6
+song-id = "berrygood/nawanauinal"
+duration = "3:54"
+
+[[tracks]]
+position = 7
+song-id = "berrygood/fly-kiwisaenalda"
+duration = "3:46"
+
+[[tracks]]
+position = 8
+song-id = "berrygood/dasi-kkumkkul-su-isseulkka"
+duration = "3:22"
+
+[[tracks]]
+position = 9
+song-id = "berrygood/geunomui-sarang"
+duration = "3:47"
+
+[[tracks]]
+position = 10
+song-id = "berrygood/putsagwa-inst"
+duration = "3:21"
+
+[[tracks]]
+position = 11
+song-id = "berrygood/mellow-mellow-inst"
+duration = "3:20"
