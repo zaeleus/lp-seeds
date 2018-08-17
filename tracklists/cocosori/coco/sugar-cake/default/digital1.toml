@@ -1,0 +1,8 @@
+medium-ids = [
+  "cocosori/coco/sugar-cake/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cocosori/coco/sugar-cake-feat-microdot"
+duration = "3:34"
