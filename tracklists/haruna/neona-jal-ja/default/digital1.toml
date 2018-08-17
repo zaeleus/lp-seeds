@@ -1,0 +1,13 @@
+medium-ids = [
+  "haruna/neona-jal-ja/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "haruna/neona-jal-ja"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "haruna/neona-jal-ja-inst"
+duration = "3:09"
