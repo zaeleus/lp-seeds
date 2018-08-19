@@ -1,0 +1,13 @@
+medium-ids = [
+  "bbahn/an-gwaenchana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bbahn/an-gwaenchana-feat-solee"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "bbahn/an-gwaenchana-inst"
+duration = "3:32"

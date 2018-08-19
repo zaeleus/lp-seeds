@@ -1,0 +1,15 @@
+artist-id = "bbahn"
+kind = "single"
+
+names = [
+  { name = "안 괜찮아", locale = "ko", original = true },
+  { name = "An Gwaenchana", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-08-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10195241" },
+]

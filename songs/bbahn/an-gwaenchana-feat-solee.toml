@@ -1,0 +1,4 @@
+names = [
+  { name = "안 괜찮아 (Feat. 소리(SOLEE))", locale = "ko", original = true },
+  { name = "An Gwaenchana (Feat. SOLEE)", locale = "ko-Latn", default = true },
+]
