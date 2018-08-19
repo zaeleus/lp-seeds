@@ -1,0 +1,10 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "러브포션", locale = "ko", original = true },
+  { name = "Reobeu Posyeon", locale = "ko-Latn" },
+  { name = "Love Potion", locale = "en", default = true },
+]

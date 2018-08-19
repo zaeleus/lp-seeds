@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "새벽 한 시", locale = "ko", original = true },
+  { name = "Saebyeok Han Si", locale = "ko-Latn", default = true },
+]

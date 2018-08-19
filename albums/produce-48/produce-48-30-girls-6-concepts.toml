@@ -1,0 +1,14 @@
+artist-id = "produce-48"
+kind = "ep"
+
+names = [
+  { name = "PRODUCE 48 - 30 Girls 6 Concepts", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-08-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10195296" },
+]

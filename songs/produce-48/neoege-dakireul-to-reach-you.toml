@@ -1,0 +1,9 @@
+names = [
+  { name = "너에게 닿기를 (To reach you)", locale = "ko", original = true },
+  { name = "Neoege Dakireul (To reach you)", locale = "ko-Latn", default = true },
+  { name = "To reach you", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "gieok-jojakdan" },
+]

@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "기억 조작단", locale = "ko", original = true },
+  { name = "Gieok Jojakdan", locale = "ko-Latn", default = true },
+]

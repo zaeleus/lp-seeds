@@ -1,0 +1,9 @@
+names = [
+  { name = "다시 만나 (See you again)", locale = "ko", original = true },
+  { name = "Dasi Manna (See you again)", locale = "ko-Latn", default = true },
+  { name = "See you again", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "yaksok" },
+]

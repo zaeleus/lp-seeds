@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "국.슈 (국프의 핫이슈)", locale = "ko", original = true },
+  { name = "Guk.Syu (Gukpeuui Hot Issue)", locale = "ko-Latn", default = true },
+]
