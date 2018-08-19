@@ -1,0 +1,8 @@
+medium-ids = [
+  "sbgb/sarangin-jul-arasseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sbgb/sarangin-jul-arasseo"
+duration = "3:51"
