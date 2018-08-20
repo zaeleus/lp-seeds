@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/esbee-assbrass/vr/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/esbee-assbrass/vr"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/esbee-assbrass/vr-inst"
+duration = "3:08"
