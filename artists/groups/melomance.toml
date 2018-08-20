@@ -1,0 +1,9 @@
+kind = "group"
+#started-on = ""
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "멜로망스", locale = "ko", original = true },
+  { name = "MeloMance", locale = "ko-Latn", default = true },
+]

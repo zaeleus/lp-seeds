@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/taeyeon-x-melomance/page-0/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/taeyeon-x-melomance/page-0"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/taeyeon-x-melomance/page-0-inst"
+duration = "3:06"

@@ -1,0 +1,25 @@
+artist-id = "-virtual/taeyeon-x-melomance"
+kind = "single"
+
+names = [
+  { name = "Page 0", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "melomance"
+
+[[releases]]
+released-on = "2018-08-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10193505" },
+]
