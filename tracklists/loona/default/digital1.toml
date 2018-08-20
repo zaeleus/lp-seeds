@@ -1,0 +1,33 @@
+medium-ids = [
+  "loona//default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/"
+duration = "0:59"
+
+[[tracks]]
+position = 2
+song-id = "loona/hi-high"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "loona/favorite"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "loona/yeolgi"
+duration = "3:31"
+
+[[tracks]]
+position = 5
+song-id = "loona/perfect-love"
+duration = "3:43"
+
+[[tracks]]
+position = 6
+song-id = "loona/stylish"
+duration = "3:30"
