@@ -1,0 +1,15 @@
+artist-id = "oh-so-yeon"
+kind = "ep"
+
+names = [
+  { name = "나쁜아이", locale = "ko", original = true },
+  { name = "Nappeunai", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-08-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10195314" },
+]
