@@ -1,0 +1,15 @@
+artist-id = "perfume"
+kind = "lp"
+
+names = [
+  { name = "Future Pop", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-08-15"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://itunes.apple.com/us/album/1413101969" },
+  { url = "http://mora.jp/package/43000029/0602567914945/" },
+]
