@@ -1,0 +1,15 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "두근거리죠", locale = "ko", original = true },
+  { name = "Dugeungeorijyo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-08-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10195308" },
+]
