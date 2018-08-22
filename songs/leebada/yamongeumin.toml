@@ -1,0 +1,5 @@
+names = [
+  { name = "야몽음인 (夜夢陰人)", locale = "ko", original = true },
+  { name = "Yamongeumin", locale = "ko-Latn", default = true },
+  { name = "Night Dream", locale = "en" },
+]

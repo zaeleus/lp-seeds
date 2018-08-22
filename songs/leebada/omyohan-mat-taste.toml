@@ -1,0 +1,5 @@
+names = [
+  { name = "오묘한 맛 (Taste)", locale = "ko", original = true },
+  { name = "Omyohan Mat (Taste)", locale = "ko-Latn", default = true },
+  { name = "Taste", locale = "en" },
+]
