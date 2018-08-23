@@ -1,0 +1,14 @@
+artist-id = "10cm"
+kind = "single"
+
+names = [
+  { name = "4.1", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-08-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10196980" },
+]

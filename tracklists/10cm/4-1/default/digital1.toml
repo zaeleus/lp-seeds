@@ -1,0 +1,13 @@
+medium-ids = [
+  "10cm/4-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "10cm/mattress"
+duration = "2:51"
+
+[[tracks]]
+position = 2
+song-id = "10cm/mattress-inst"
+duration = "2:51"
