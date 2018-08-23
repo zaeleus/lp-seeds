@@ -1,0 +1,13 @@
+medium-ids = [
+  "lydia/nan-ajikdo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lydia/nan-ajikdo-feat-yeopjib-oppa"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "lydia/nan-ajikdo-inst"
+duration = "3:40"
