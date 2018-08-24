@@ -1,0 +1,5 @@
+names = [
+  { name = "시집가는 날 (Feat. 수진 of paxchild) (Inst.)", locale = "ko", original = true },
+  { name = "Sijipganeun Nal (Feat. Soo Jin of paxchild) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Day of Marriage (Feat. Soo Jin of paxchild) (Inst.)", locale = "en" },
+]

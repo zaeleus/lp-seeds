@@ -1,0 +1,16 @@
+artist-id = "hwang-in-sun"
+kind = "single"
+
+names = [
+  { name = "시집가는 날", locale = "ko", original = true },
+  { name = "Sijipganeun Nal", locale = "ko-Latn", default = true },
+  { name = "Day of Marriage", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-08-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10197344" },
+]

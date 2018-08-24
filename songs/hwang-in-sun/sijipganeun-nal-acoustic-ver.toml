@@ -1,0 +1,5 @@
+names = [
+  { name = "시집가는 날 (Acoustic Ver.)", locale = "ko", original = true },
+  { name = "Sijipganeun Nal (Acoustic Ver.)", locale = "ko-Latn", default = true },
+  { name = "Day of Marriage (Acoustic Ver.)", locale = "en" },
+]

@@ -1,0 +1,23 @@
+medium-ids = [
+  "hwang-in-sun/sijipganeun-nal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hwang-in-sun/sijipganeun-nal-feat-soo-jin-of-paxchild"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "hwang-in-sun/sijipganeun-nal-feat-soo-jin-of-paxchild-inst"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "hwang-in-sun/sijipganeun-nal-acoustic-ver"
+duration = "3:37"
+
+[[tracks]]
+position = 4
+song-id = "hwang-in-sun/sijipganeun-nal-acoustic-ver-inst"
+duration = "3:37"
