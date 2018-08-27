@@ -1,0 +1,5 @@
+names = [
+  { name = "작아지는 중", locale = "ko", original = true },
+  { name = "Jagajineun Jung", locale = "ko-Latn", default = true },
+  { name = "It's Okay", locale = "en" },
+]
