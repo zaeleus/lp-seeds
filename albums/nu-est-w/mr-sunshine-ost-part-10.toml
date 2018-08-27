@@ -1,0 +1,15 @@
+artist-id = "nu-est-w"
+kind = "single"
+
+names = [
+  { name = "미스터 션샤인 OST Part.10", locale = "ko", original = true },
+  { name = "Mr. Sunshine OST Part.10", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-08-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10197500" },
+]
