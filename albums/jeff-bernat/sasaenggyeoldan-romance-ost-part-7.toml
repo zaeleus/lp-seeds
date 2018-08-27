@@ -1,0 +1,16 @@
+artist-id = "jeff-bernat"
+kind = "single"
+
+names = [
+  { name = "사생결단로맨스 OST Part.7", locale = "ko", original = true },
+  { name = "Sasaenggyeoldan Romance OST Part.7", locale = "ko-Latn", default = true },
+  { name = "Risky Romance OST Part.7", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-08-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10197968" },
+]
