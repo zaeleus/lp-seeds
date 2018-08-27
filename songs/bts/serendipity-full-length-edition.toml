@@ -1,0 +1,3 @@
+names = [
+  { name = "Serendipity (Full Length Edition)", locale = "ko", original = true, default = true },
+]

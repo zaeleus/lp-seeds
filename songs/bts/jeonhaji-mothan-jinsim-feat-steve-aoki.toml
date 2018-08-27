@@ -1,4 +1,5 @@
 names = [
   { name = "전하지 못한 진심 (Feat. Steve Aoki)", locale = "ko", original = true },
   { name = "Jeonhaji Mothan Jinsim (Feat. Steve Aoki)", locale = "ko-Latn", default = true },
+  { name = "The Trush Untold (Feat. Steve Aoki)", locale = "en" },
 ]

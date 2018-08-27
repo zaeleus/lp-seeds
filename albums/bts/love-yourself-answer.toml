@@ -1,0 +1,15 @@
+artist-id = "bts"
+kind = "lp"
+
+names = [
+  { name = "LOVE YOURSELF 結 'Answer'", locale = "ko", original = true },
+  { name = "LOVE YOURSELF: Answer", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-08-24"
+country = "KR"
+media = [{ kind = "digital" }, { kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10197480" },
+]
