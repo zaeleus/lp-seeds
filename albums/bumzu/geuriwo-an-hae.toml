@@ -1,0 +1,16 @@
+artist-id = "bumzu"
+kind = "single"
+
+names = [
+  { name = "그리워 안 해", locale = "ko", original = true },
+  { name = "Geuriwo An Hae", locale = "ko-Latn", default = true },
+  { name = "I Don't Miss You", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-08-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10198133" },
+]

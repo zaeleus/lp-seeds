@@ -1,0 +1,8 @@
+medium-ids = [
+  "bumzu/geuriwo-an-hae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bumzu/geuriwo-an-hae"
+duration = "3:43"
