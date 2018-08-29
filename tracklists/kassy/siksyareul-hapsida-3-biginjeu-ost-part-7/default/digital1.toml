@@ -1,0 +1,13 @@
+medium-ids = [
+  "kassy/siksyareul-hapsida-3-biginjeu-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/gateun-gieok"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "kassy/gateun-gieok-inst"
+duration = "3:20"
