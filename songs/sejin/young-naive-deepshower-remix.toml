@@ -1,0 +1,3 @@
+names = [
+  { name = "Young & Naive (Deepshower Remix)", locale = "ko", original = true, default = true },
+]

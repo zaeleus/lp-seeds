@@ -1,0 +1,14 @@
+artist-id = "sejin"
+kind = "single"
+
+names = [
+  { name = "Young & Naive", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-08-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10198915" },
+]

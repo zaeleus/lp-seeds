@@ -1,0 +1,13 @@
+medium-ids = [
+  "sejin/young-naive/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sejin/young-naive"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "sejin/young-naive-deepshower-remix"
+duration = "3:01"
