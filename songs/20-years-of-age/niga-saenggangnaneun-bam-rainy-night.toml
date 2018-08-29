@@ -1,0 +1,5 @@
+names = [
+  { name = "니가 생각나는 밤 (Rainy Night)", locale = "ko", original = true },
+  { name = "Niga Saenggangnaneun Bam (Rainy Night)", locale = "ko-Latn", default = true },
+  { name = "Rainy Night", locale = "en" },
+]
