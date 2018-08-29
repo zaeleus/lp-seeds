@@ -1,0 +1,16 @@
+artist-id = "biya"
+kind = "single"
+
+names = [
+  { name = "시티 오브 드림", locale = "ko", original = true },
+  { name = "Siti Obeu Deurim", locale = "ko-Latn" },
+  { name = "City of Dream", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-08-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10199032" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "시애틀 (Inst.)", locale = "ko", original = true },
+  { name = "Siaeteul (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Seattle (Inst.)", locale = "en" },
+]

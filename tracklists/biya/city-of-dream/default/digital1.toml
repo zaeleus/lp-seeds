@@ -1,0 +1,13 @@
+medium-ids = [
+  "biya/city-of-dream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "biya/seattle-feat-g2"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "biya/siaeteul-inst"
+duration = "3:48"
