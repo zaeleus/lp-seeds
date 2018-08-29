@@ -1,0 +1,8 @@
+medium-ids = [
+  "samuel-seo/jazz-in-my/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "samuel-seo/jazz-in-my"
+duration = "3:29"
