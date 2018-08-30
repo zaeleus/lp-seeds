@@ -1,0 +1,33 @@
+medium-ids = [
+  "rothy/shape-of-rothy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rothy/burning"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "rothy/ireobeorin-siganeul-chajaseo"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song-id = "rothy/stars"
+duration = "4:21"
+
+[[tracks]]
+position = 4
+song-id = "rothy/sullae"
+duration = "3:29"
+
+[[tracks]]
+position = 5
+song-id = "rothy/ireobeorin-siganeul-chajaseo-inst"
+duration = "3:50"
+
+[[tracks]]
+position = 6
+song-id = "rothy/burning-inst"
+duration = "3:21"
