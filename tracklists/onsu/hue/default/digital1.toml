@@ -1,0 +1,8 @@
+medium-ids = [
+  "onsu/hue/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "onsu/hue"
+duration = "4:09"
