@@ -1,0 +1,3 @@
+names = [
+  { name = "We Go (Prod by House Rulez)", locale = "ko", original = true, default = true },
+]

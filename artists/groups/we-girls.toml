@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "위걸스", locale = "ko", original = true },
+  { name = "We Girls", locale = "en", default = true },
+]

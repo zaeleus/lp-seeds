@@ -1,0 +1,3 @@
+names = [
+  { name = "SelfieGram (Prod by House Rulez)", locale = "ko", original = true, default = true },
+]

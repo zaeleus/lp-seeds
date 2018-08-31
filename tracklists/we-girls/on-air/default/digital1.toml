@@ -1,0 +1,18 @@
+medium-ids = [
+  "we-girls/on-air/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "we-girls/we-go-prod-by-house-rulez"
+duration = "0:35"
+
+[[tracks]]
+position = 2
+song-id = "we-girls/on-air-prod-by-house-rulez"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "we-girls/selfiegram-prod-by-house-rulez"
+duration = "0:53"
