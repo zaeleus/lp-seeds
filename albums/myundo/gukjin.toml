@@ -1,0 +1,15 @@
+artist-id = "myundo"
+kind = "single"
+
+names = [
+  { name = "金국진", locale = "ko", original = true },
+  { name = "Gukjin", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-08-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10199687" },
+]
