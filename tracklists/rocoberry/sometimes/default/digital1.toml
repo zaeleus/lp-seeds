@@ -1,0 +1,13 @@
+medium-ids = [
+  "rocoberry/sometimes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rocoberry/sometimes"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "rocoberry/sometimes-inst"
+duration = "3:07"
