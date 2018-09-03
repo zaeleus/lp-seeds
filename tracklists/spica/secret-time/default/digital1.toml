@@ -1,0 +1,18 @@
+medium-ids = [
+  "spica/secret-time/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "spica/secret-time"
+duration = "2:59"
+
+[[tracks]]
+position = 2
+song-id = "spica/one-way"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "spica/secret-time-inst"
+duration = "2:59"
