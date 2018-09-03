@@ -1,0 +1,5 @@
+names = [
+  { name = "앞으로 잘 부탁해 (We Together)", locale = "ko", original = true },
+  { name = "Apeuro Jal Butakhae (We Together)", locale = "ko-Latn", default = true },
+  { name = "We Together", locale = "en" },
+]
