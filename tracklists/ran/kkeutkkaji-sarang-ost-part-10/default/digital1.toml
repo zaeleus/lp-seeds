@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/kkeutkkaji-sarang-ost-part-10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/neoman-chajaseo-geurae"
+duration = "4:23"
+
+[[tracks]]
+position = 2
+song-id = "ran/neoman-chajaseo-geurae-inst"
+duration = "4:23"
