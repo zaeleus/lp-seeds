@@ -1,0 +1,13 @@
+medium-ids = [
+  "brown-eyed-girls/miryo/true/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brown-eyed-girls/miryo/yellow"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "brown-eyed-girls/miryo/geuran-kanaria-feat-k-jun"
+duration = "3:24"
