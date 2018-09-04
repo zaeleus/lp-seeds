@@ -1,0 +1,16 @@
+artist-id = "urban-zakapa/jo-hyun-ah"
+kind = "single"
+
+names = [
+  { name = "고백", locale = "ko", original = true },
+  { name = "Gobaek", locale = "ko-Latn", default = true },
+  { name = "Confession", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-08-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10197471" },
+]
