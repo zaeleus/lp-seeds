@@ -1,0 +1,4 @@
+names = [
+  { name = "오빠가 (Remastered)", locale = "ko", original = true },
+  { name = "Oppaga (Remastered)", locale = "ko-Latn", default = true },
+]

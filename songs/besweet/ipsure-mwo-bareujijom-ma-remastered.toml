@@ -1,0 +1,4 @@
+names = [
+  { name = "입술에 뭐 바르지좀 마 (Remastered)", locale = "ko", original = true },
+  { name = "Ipsure Mwo Bareujijom Ma (Remastered)", locale = "ko-Latn", default = true },
+]

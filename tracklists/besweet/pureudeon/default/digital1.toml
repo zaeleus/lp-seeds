@@ -1,0 +1,28 @@
+medium-ids = [
+  "besweet/pureudeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "besweet/pureudeon"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "besweet/ipsure-mwo-bareujijom-ma-remastered"
+duration = "3:40"
+
+[[tracks]]
+position = 3
+song-id = "besweet/oppaga-remastered"
+duration = "3:56"
+
+[[tracks]]
+position = 4
+song-id = "besweet/gaeulbam-remastered"
+duration = "3:08"
+
+[[tracks]]
+position = 5
+song-id = "besweet/seulpeudaneunmal-2012-remastered"
+duration = "4:31"

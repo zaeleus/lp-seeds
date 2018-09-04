@@ -1,0 +1,15 @@
+artist-id = "besweet"
+kind = "ep"
+
+names = [
+  { name = "푸르던", locale = "ko", original = true },
+  { name = "Pureudeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-09-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10200372" },
+]
