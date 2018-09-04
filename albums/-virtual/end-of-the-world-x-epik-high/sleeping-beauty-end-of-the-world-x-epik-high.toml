@@ -1,0 +1,24 @@
+artist-id = "-virtual/end-of-the-world-x-epik-high"
+kind = "single"
+
+names = [
+  { name = "Sleeping Beauty (End of the World x EPIK HIGH)", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "sekai-no-owari"
+names = [
+  { name = "End of the World", locale = "en", original = true, default = true },
+]
+separator = " x "
+
+[[artist-credits]]
+artist-id = "epik-high"
+
+[[releases]]
+released-on = "2018-06-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10179790" },
+]

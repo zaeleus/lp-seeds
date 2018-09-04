@@ -1,0 +1,8 @@
+kind = "group"
+#started-on = ""
+country = "JP"
+
+names = [
+  { name = "SEKAI NO OWARI", locale = "ja", original = true, default = true },
+  { name = "End of the World", locale = "en" },
+]
