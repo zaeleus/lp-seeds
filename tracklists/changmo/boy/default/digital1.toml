@@ -1,0 +1,13 @@
+medium-ids = [
+  "changmo/boy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "changmo/boy"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "changmo/areumdawo-live-071318"
+duration = "4:05"

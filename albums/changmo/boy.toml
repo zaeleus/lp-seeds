@@ -1,0 +1,14 @@
+artist-id = "changmo"
+kind = "single"
+
+names = [
+  { name = "BOY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-09-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10200691" },
+]
