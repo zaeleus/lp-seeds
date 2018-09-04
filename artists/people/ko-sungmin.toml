@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1988-04-21"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "고성민", locale = "ko", kind = "real", original = true },
+  { name = "Ko Sungmin", locale = "ko-Latn", kind = "real", default = true },
+]

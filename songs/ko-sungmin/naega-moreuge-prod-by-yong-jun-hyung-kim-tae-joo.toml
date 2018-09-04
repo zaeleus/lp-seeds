@@ -1,0 +1,5 @@
+names = [
+  { name = "내가 모르게 (Prod. by 용준형, 김태주)", locale = "ko", original = true },
+  { name = "Naega Moreuge (Prod. by Yong Jun Hyung, Kim Tae Joo)", locale = "ko-Latn", default = true },
+  { name = "Don't Let Me Know (Prod. by Yong Jun Hyung, Kim Tae Joo)", locale = "en" },
+]
