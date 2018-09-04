@@ -1,0 +1,13 @@
+medium-ids = [
+  "bumkey/lovely-horribly-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bumkey/love-one"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "bumkey/love-one-inst"
+duration = "3:59"
