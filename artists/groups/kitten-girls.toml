@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "키튼걸스", locale = "ko", original = true },
+  { name = "Kitten Girls", locale = "en", default = true },
+]
