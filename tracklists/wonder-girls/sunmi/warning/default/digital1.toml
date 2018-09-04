@@ -1,0 +1,28 @@
+medium-ids = [
+  "wonder-girls/sunmi/warning/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wonder-girls/sunmi/addict"
+duration = "1:53"
+
+[[tracks]]
+position = 2
+song-id = "wonder-girls/sunmi/siren"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "wonder-girls/sunmi/gokseon"
+duration = "3:38"
+
+[[tracks]]
+position = 4
+song-id = "wonder-girls/sunmi/black-pearl"
+duration = "3:20"
+
+[[tracks]]
+position = 7
+song-id = "wonder-girls/sunmi/bimil-tape"
+duration = "1:33"

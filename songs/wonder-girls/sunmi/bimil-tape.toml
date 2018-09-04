@@ -1,0 +1,5 @@
+names = [
+  { name = "비밀테이프", locale = "ko", original = true },
+  { name = "Bimil Tape", locale = "ko-Latn", default = true },
+  { name = "Secret Tape", locale = "en" },
+]
