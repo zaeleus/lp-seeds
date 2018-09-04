@@ -1,0 +1,3 @@
+names = [
+  { name = "Touch (Feat. BASICK)", locale = "ko", original = true, default = true },
+]

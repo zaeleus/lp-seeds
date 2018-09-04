@@ -1,0 +1,13 @@
+medium-ids = [
+  "cocosori/sori/touch/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cocosori/sori/touch-feat-basick"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "cocosori/sori/touch-inst"
+duration = "3:02"
