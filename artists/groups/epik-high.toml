@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "에픽 하이", locale = "ko", original = true },
-  { name = "Epik High", locale = "ko-Latn", default = true },
+  { name = "EPIK HIGH", locale = "ko-Latn", default = true },
 ]
 
 members = [
