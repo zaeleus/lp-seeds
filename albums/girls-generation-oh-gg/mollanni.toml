@@ -1,0 +1,16 @@
+artist-id = "girls-generation-oh-gg"
+kind = "single"
+
+names = [
+  { name = "몰랐니", locale = "ko", original = true },
+  { name = "Mollanni", locale = "ko-Latn", default = true },
+  { name = "Lil' Touch", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-09-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10201272" },
+]

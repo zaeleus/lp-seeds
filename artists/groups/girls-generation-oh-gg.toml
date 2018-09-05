@@ -1,0 +1,17 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "소녀시대-Oh!GG", locale = "ko", original = true },
+  { name = "Girls' Generation-Oh!GG", locale = "en", default = true },
+]
+
+members = [
+  { artist-id = "girls-generation/hyoyeon" },
+  { artist-id = "girls-generation/sunny" },
+  { artist-id = "girls-generation/taeyeon" },
+  { artist-id = "girls-generation/yoona" },
+  { artist-id = "girls-generation/yuri" },
+]

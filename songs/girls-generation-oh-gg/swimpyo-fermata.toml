@@ -1,0 +1,4 @@
+names = [
+  { name = "쉼표 (Fermata)", locale = "ko", original = true },
+  { name = "Swimpyo (Fermata)", locale = "ko-Latn", default = true },
+]

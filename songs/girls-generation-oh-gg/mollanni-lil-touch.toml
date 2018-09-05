@@ -1,0 +1,5 @@
+names = [
+  { name = "몰랐니 (Lil' Touch)", locale = "ko", original = true },
+  { name = "Mollanni (Lil' Touch)", locale = "ko-Latn", default = true },
+  { name = "Lil' Touch", locale = "en" },
+]
