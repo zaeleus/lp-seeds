@@ -1,0 +1,13 @@
+medium-ids = [
+  "after-school/raina/chinaehaneun-pansanimkke-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "after-school/raina/home"
+duration = "4:40"
+
+[[tracks]]
+position = 2
+song-id = "after-school/raina/home-inst"
+duration = "4:40"
