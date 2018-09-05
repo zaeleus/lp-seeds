@@ -1,0 +1,15 @@
+artist-id = "gwsn"
+kind = "ep"
+
+names = [
+  { name = "밤의 공원 (THE PARK IN THE NIGHT) Part one", locale = "ko", original = true },
+  { name = "Bamui Gongwon (THE PARK IN THE NIGHT) Part one", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-09-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10201273" },
+]

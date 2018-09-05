@@ -1,0 +1,5 @@
+names = [
+  { name = "볼터치 (Shy Shy)", locale = "ko", original = true },
+  { name = "Bolteochi (Shy Shy)", locale = "ko-Latn", default = true },
+  { name = "Shy Shy", locale = "en" },
+]

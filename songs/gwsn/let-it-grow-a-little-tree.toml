@@ -1,0 +1,3 @@
+names = [
+  { name = "Let It Grow ~ a little tree", locale = "ko", original = true, default = true },
+]

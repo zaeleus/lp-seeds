@@ -1,0 +1,11 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "공원소녀", locale = "ko", original = true },
+  { name = "Gongwon Sonyeo", locale = "ko-Latn" },
+  { name = "WJSN", locale = "en", default = true },
+  { name = "Girls in the Park", locale = "en" },
+]
