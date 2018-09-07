@@ -1,0 +1,3 @@
+names = [
+  { name = "money can't (Feat. Paul Blanco)", locale = "ko", original = true, default = true },
+]

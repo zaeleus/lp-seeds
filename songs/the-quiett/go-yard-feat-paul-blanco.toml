@@ -1,0 +1,3 @@
+names = [
+  { name = "go yard (Feat. Paul Blanco)", locale = "ko", original = true, default = true },
+]

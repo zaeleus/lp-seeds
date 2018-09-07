@@ -1,0 +1,4 @@
+names = [
+  { name = "한강 gang (Feat. Byung Un & CHANGMO)", locale = "ko", original = true },
+  { name = "Hangang gang (Feat. Byung Un & CHANGMO)", locale = "ko-Latn", default = true },
+]
