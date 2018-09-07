@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/recode/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/sarange-apabon-jeok-innayo"
+duration = "4:09"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/sarange-apabon-jeok-innayo-inst"
+duration = "4:10"

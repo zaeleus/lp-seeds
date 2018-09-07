@@ -1,0 +1,16 @@
+artist-id = "standing-egg"
+kind = "single"
+
+names = [
+  { name = "리코드", locale = "ko", original = true },
+  { name = "Rikodeu", locale = "ko-Latn" },
+  { name = "Recode", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-09-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10202185" },
+]
