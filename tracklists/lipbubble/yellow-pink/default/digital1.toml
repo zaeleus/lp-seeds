@@ -1,0 +1,13 @@
+medium-ids = [
+  "lipbubble/yellow-pink/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lipbubble/yellow-pink"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "lipbubble/yellow-pink-inst"
+duration = "3:14"

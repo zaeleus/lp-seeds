@@ -1,0 +1,14 @@
+artist-id = "lipbubble"
+kind = "single"
+
+names = [
+  { name = "Yellow Pink", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-09-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10201562" },
+]
