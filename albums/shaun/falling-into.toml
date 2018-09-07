@@ -1,0 +1,14 @@
+artist-id = "shaun"
+kind = "single"
+
+names = [
+  { name = "Falling Into", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2016-08-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2551870" },
+]
