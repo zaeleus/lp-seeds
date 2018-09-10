@@ -1,0 +1,13 @@
+medium-ids = [
+  "13th-month/geudaeyeoseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "13th-month/geudaeyeoseo"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "13th-month/geudaeyeoseo-inst"
+duration = "3:52"
