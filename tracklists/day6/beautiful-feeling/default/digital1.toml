@@ -1,0 +1,8 @@
+medium-ids = [
+  "day6/beautiful-feeling/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "day6/beautiful-feeling"
+duration = "3:29"
