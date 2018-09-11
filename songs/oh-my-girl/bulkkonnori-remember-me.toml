@@ -1,0 +1,5 @@
+names = [
+  { name = "불꽃놀이 (Remember Me)", locale = "ko", original = true },
+  { name = "Bulkkonnori (Remember Me)", locale = "ko-Latn", default = true },
+  { name = "Remember Me", locale = "en" },
+]

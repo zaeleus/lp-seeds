@@ -1,0 +1,28 @@
+medium-ids = [
+  "oh-my-girl/remember-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-my-girl/bulkkonnori-remember-me"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "oh-my-girl/meari"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "oh-my-girl/twilight"
+duration = "3:33"
+
+[[tracks]]
+position = 4
+song-id = "oh-my-girl/illusion"
+duration = "3:44"
+
+[[tracks]]
+position = 5
+song-id = "oh-my-girl/uri-iyagi"
+duration = "3:57"
