@@ -1,0 +1,14 @@
+artist-id = "pentagon"
+kind = "ep"
+
+names = [
+  { name = "Thumbs Up!", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-09-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10202667" },
+]

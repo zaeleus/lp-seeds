@@ -1,0 +1,28 @@
+medium-ids = [
+  "pentagon/thumbs-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pentagon/cheonggaeguri"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "pentagon/jeoduyo-just-do-it-yo"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "pentagon/skateboard"
+duration = "3:05"
+
+[[tracks]]
+position = 4
+song-id = "pentagon/bame-biga-naerimyeon"
+duration = "4:06"
+
+[[tracks]]
+position = 5
+song-id = "pentagon/thumbs-up"
+duration = "3:47"
