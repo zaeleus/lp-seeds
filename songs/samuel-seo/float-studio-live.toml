@@ -1,0 +1,3 @@
+names = [
+  { name = "Float (Studio Live)", locale = "ko", original = true, default = true },
+]

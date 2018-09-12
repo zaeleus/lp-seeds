@@ -1,0 +1,3 @@
+names = [
+  { name = "BOEING", locale = "ko", original = true, default = true },
+]
