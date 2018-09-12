@@ -1,0 +1,4 @@
+names = [
+  { name = "싫어 (With 이연호)", locale = "ko", original = true },
+  { name = "Sireo (With Lee Yeon Ho)", locale = "ko-Latn", default = true },
+]

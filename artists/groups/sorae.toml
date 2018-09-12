@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2015"
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "소래", locale = "ko", original = true },
+  { name = "Sorae", locale = "ko-Latn", default = true },
+]

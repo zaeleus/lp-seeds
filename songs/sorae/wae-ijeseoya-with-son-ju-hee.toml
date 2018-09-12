@@ -1,0 +1,4 @@
+names = [
+  { name = "왜 이제서야 (With 손주희)", locale = "ko", original = true },
+  { name = "Wae Ijeseoya (With Son Ju Hee)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,15 @@
+artist-id = "sorae"
+kind = "ep"
+
+names = [
+  { name = "왜 이제서야", locale = "ko", original = true },
+  { name = "Wae Ijeseoya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-09-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10200566" },
+]
