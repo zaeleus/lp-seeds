@@ -1,0 +1,8 @@
+medium-ids = [
+  "fla4free/zolla/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fla4free/zolla-feat-basick"
+duration = "3:22"
