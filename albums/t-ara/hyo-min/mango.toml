@@ -1,0 +1,14 @@
+artist-id = "t-ara/hyo-min"
+kind = "single"
+
+names = [
+  { name = "MANGO", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-09-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10203489" },
+]

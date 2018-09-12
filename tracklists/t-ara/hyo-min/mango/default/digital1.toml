@@ -1,0 +1,18 @@
+medium-ids = [
+  "t-ara/hyo-min/mango/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/hyo-min/mango"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/hyo-min/mango-chinese-ver"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "t-ara/hyo-min/mango-inst"
+duration = "3:10"
