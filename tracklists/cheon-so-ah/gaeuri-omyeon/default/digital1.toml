@@ -1,0 +1,18 @@
+medium-ids = [
+  "cheon-so-ah/gaeuri-omyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheon-so-ah/gaeuri-omyeon"
+duration = "2:46"
+
+[[tracks]]
+position = 2
+song-id = "cheon-so-ah/saenggangna"
+duration = "2:56"
+
+[[tracks]]
+position = 3
+song-id = "cheon-so-ah/gaeuri-omyeon-inst"
+duration = "2:46"

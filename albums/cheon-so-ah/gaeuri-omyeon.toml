@@ -1,0 +1,15 @@
+artist-id = "cheon-so-ah"
+kind = "single"
+
+names = [
+  { name = "가을이 오면", locale = "ko", original = true },
+  { name = "Gaeuri Omyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-09-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10203106" },
+]
