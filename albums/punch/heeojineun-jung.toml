@@ -1,0 +1,16 @@
+artist-id = "punch"
+kind = "single"
+
+names = [
+  { name = "헤어지는 중", locale = "ko", original = true },
+  { name = "Heeojineun Jung", locale = "ko-Latn", default = true },
+  { name = "Good Bye", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-09-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10203500" },
+]
