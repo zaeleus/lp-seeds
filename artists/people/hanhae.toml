@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1990-04-07"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "한해", locale = "ko", kind = "stage", original = true },
+  { name = "Hanhae", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정한해", locale = "ko", kind = "real" },
+  { name = "Jun Han Hae", locale = "ko-Latn", kind = "real" },
+]

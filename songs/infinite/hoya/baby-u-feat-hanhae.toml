@@ -1,0 +1,18 @@
+names = [
+  { name = "BABY U (Feat. 한해)", locale = "ko", original = true },
+  { name = "BABY U (Feat. Hanhae)", locale = "ko-Latn", default = true },
+]
+
+urls = [
+  { url ="https://www.youtube.com/watch?v=BBET7W86n54", name = "Music Video" },
+]
+
+contributions = [
+  { artist-id = "infinite/hoya", kind = "performer" },
+  { artist-id = "hanhae", kind = "performer" },
+  { artist-id = "infinite/hoya", kind = "lyricist" },
+  { artist-id = "niihwa", kind = "lyricist" },
+  { artist-id = "hanhae", kind = "lyricist" },
+  { artist-id = "niihwa", kind = "composer" },
+  { artist-id = "niihwa", kind = "arranger" },
+]
