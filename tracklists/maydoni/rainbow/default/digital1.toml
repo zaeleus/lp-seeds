@@ -1,0 +1,13 @@
+medium-ids = [
+  "maydoni/rainbow/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "maydoni/rainbow"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "maydoni/rainbow-inst"
+duration = "3:21"
