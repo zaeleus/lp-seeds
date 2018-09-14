@@ -1,0 +1,13 @@
+medium-ids = [
+  "jooyoung/n-a/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jooyoung/inn"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "jooyoung/n-a"
+duration = "3:27"
