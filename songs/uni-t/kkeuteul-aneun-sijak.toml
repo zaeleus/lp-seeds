@@ -1,0 +1,5 @@
+names = [
+  { name = "끝을 아는 시작", locale = "ko", original = true },
+  { name = "Kkeuteul Aneun Sijak", locale = "ko-Latn", default = true },
+  { name = "Begin with the End", locale = "en" },
+]

@@ -1,0 +1,16 @@
+artist-id = "uni-t"
+kind = "single"
+
+names = [
+  { name = "끝을 아는 시작", locale = "ko", original = true },
+  { name = "Kkeuteul Aneun Sijak", locale = "ko-Latn", default = true },
+  { name = "Begin with the End", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-09-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10204718" },
+]
