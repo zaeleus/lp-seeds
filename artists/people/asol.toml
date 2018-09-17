@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1997-07-31"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "에이솔", locale = "ko", kind = "stage", original = true },
+  { name = "Asol", locale = "ko-Latn", kind = "stage", default = true },
+]

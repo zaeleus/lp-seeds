@@ -1,0 +1,14 @@
+artist-id = "asol"
+kind = "single"
+
+names = [
+  { name = "Bucket list", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-09-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10205010" },
+]
