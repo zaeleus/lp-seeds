@@ -1,0 +1,5 @@
+names = [
+  { name = "우리 그만하자 (Inst.)", locale = "ko", original = true },
+  { name = "Uri Geumanhaja (Inst.)", locale = "ko-Latn", default = true },
+  { name = "The Hardest Part (Inst.)", locale = "en" },
+]

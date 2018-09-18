@@ -1,0 +1,16 @@
+artist-id = "roy-kim"
+kind = "single"
+
+names = [
+  { name = "우리 그만하자", locale = "ko", original = true },
+  { name = "Uri Geumanhaja", locale = "ko-Latn", default = true },
+  { name = "The Hardest Part", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-09-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10205438" },
+]
