@@ -1,0 +1,13 @@
+medium-ids = [
+  "kassy/weptun-yeonnom-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/soneul-jabajwo"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "kassy/soneul-jabajwo-inst"
+duration = "3:42"
