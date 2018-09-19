@@ -1,0 +1,33 @@
+medium-ids = [
+  "cosmic-girls/wj-please/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cosmic-girls/butakhae"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "cosmic-girls/neo-neo-neo"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song-id = "cosmic-girls/aiya"
+duration = "3:48"
+
+[[tracks]]
+position = 4
+song-id = "cosmic-girls/gamyeonmudohoe"
+duration = "4:14"
+
+[[tracks]]
+position = 5
+song-id = "cosmic-girls/hurry-up"
+duration = "3:02"
+
+[[tracks]]
+position = 6
+song-id = "cosmic-girls/2-worui-bom"
+duration = "3:42"
