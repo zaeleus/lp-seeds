@@ -1,0 +1,14 @@
+artist-id = "dreamcatcher"
+kind = "ep"
+
+names = [
+  { name = "Alone In The City", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-09-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10206543" },
+]
