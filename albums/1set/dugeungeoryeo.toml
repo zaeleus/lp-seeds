@@ -1,0 +1,15 @@
+artist-id = "1set"
+kind = "single"
+
+names = [
+  { name = "두근거려", locale = "ko", original = true },
+  { name = "Dugeungeoryeo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-09-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10205802" },
+]
