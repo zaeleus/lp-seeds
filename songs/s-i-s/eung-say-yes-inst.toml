@@ -1,0 +1,5 @@
+names = [
+  { name = "응(SAY YES) (Inst.)", locale = "ko", original = true },
+  { name = "Eung (SAY YES) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "SAY YES (Inst.)", locale = "en" },
+]

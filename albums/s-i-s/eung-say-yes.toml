@@ -1,0 +1,16 @@
+artist-id = "s-i-s"
+kind = "single"
+
+names = [
+  { name = "응(SAY YES)", locale = "ko", original = true },
+  { name = "Eung (SAY YES)", locale = "ko-Latn", default = true },
+  { name = "SAY YES", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-09-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10206610" },
+]

@@ -1,0 +1,23 @@
+medium-ids = [
+  "s-i-s/eung-say-yes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "s-i-s/eung-say-yes"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "s-i-s/jjaksarang"
+duration = "3:27"
+
+[[tracks]]
+position = 3
+song-id = "s-i-s/bunhongkkot"
+duration = "4:13"
+
+[[tracks]]
+position = 4
+song-id = "s-i-s/eung-say-yes-inst"
+duration = "3:32"
