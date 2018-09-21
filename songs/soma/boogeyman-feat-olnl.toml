@@ -1,0 +1,3 @@
+names = [
+  { name = "Boogeyman (Feat. OLNL)", locale = "ko", original = true, default = true },
+]

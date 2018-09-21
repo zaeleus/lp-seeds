@@ -1,0 +1,18 @@
+medium-ids = [
+  "soma/kid-s-dream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "soma/8"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "soma/skit-the-tape"
+duration = "1:18"
+
+[[tracks]]
+position = 3
+song-id = "soma/boogeyman-feat-olnl"
+duration = "3:08"
