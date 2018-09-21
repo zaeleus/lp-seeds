@@ -1,0 +1,10 @@
+names = [
+  { name = "Lost At Sea", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "f-x/amber"
+names = [
+  { name = "엠버", locale = "ko", original = true },
+  { name = "AMBER", locale = "ko-Latn", default = true },
+]

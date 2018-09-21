@@ -1,0 +1,13 @@
+medium-ids = [
+  "f-x/amber/white-noise-lost-at-sea/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/amber/white-noise"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "f-x/amber/lost-at-sea"
+duration = "3:48"
