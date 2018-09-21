@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/ajikdo-naneun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/ajikdo-naneun"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "ran/ajikdo-naneun-inst"
+duration = "4:01"

@@ -1,0 +1,15 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "아직도 나는", locale = "ko", original = true },
+  { name = "Ajikdo Naneun", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-09-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10206442" },
+]
