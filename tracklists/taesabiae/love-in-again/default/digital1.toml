@@ -1,0 +1,13 @@
+medium-ids = [
+  "taesabiae/love-in-again/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "taesabiae/love-in-again"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "taesabiae/love-in-again-inst"
+duration = "2:58"
