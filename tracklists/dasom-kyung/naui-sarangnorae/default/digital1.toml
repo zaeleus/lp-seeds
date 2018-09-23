@@ -1,0 +1,13 @@
+medium-ids = [
+  "dasom-kyung/naui-sarangnorae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dasom-kyung/naui-sarangnorae"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "dasom-kyung/naui-sarangnorae-inst"
+duration = "3:21"

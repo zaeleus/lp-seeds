@@ -1,0 +1,15 @@
+artist-id = "dasom-kyung"
+kind = "single"
+
+names = [
+  { name = "나의 사랑노래", locale = "ko", original = true },
+  { name = "Naui Sarangnorae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-09-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10207128" },
+]
