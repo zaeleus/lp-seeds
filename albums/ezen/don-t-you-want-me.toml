@@ -1,0 +1,16 @@
+artist-id = "ezen"
+kind = "single"
+
+names = [
+  { name = "돈츄원미", locale = "ko", original = true },
+  { name = "Don Chyu Won Mi", locale = "ko-Latn" },
+  { name = "Don't You Want Me", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-09-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10206647" },
+]

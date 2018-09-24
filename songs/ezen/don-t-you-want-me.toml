@@ -1,0 +1,5 @@
+names = [
+  { name = "돈츄원미", locale = "ko", original = true },
+  { name = "Don Chyu Won Mi", locale = "ko-Latn" },
+  { name = "Don't You Want Me", locale = "en", default = true },
+]

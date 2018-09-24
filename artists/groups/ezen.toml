@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2014"
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "EZEN", locale = "ko", original = true, default = true },
+]
