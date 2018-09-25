@@ -1,0 +1,16 @@
+artist-id = "b1a4/jinyoung"
+kind = "single"
+
+names = [
+  { name = "백일의 낭군님 OST Part 2", locale = "ko", original = true },
+  { name = "Baegirui Nanggunnim OST Part 2", locale = "ko-Latn", default = true },
+  { name = "100 Days My Prince OST Part 2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-09-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10205925" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "b1a4/jinyoung/baegirui-nanggunnim-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "b1a4/jinyoung/i-sarangeul"
+duration = "4:19"
+
+[[tracks]]
+position = 2
+song-id = "b1a4/jinyoung/i-sarangeul-inst"
+duration = "4:19"
