@@ -1,0 +1,13 @@
+medium-ids = [
+  "ra-kyeong-jin/be-hidden/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ra-kyeong-jin/jal-jinaeji"
+duration = "4:09"
+
+[[tracks]]
+position = 2
+song-id = "ra-kyeong-jin/jongijeopgi"
+duration = "3:59"

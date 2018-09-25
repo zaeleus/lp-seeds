@@ -1,0 +1,14 @@
+artist-id = "ra-kyeong-jin"
+kind = "single"
+
+names = [
+  { name = "#Be hidden", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-09-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10206768" },
+]
