@@ -1,0 +1,13 @@
+medium-ids = [
+  "eun-ga-eun/lovely-horribly-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eun-ga-eun/my-all"
+duration = "4:28"
+
+[[tracks]]
+position = 2
+song-id = "eun-ga-eun/my-all-inst"
+duration = "4:28"
