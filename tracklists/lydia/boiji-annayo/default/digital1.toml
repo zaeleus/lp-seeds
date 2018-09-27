@@ -1,0 +1,13 @@
+medium-ids = [
+  "lydia/boiji-annayo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lydia/boiji-annayo"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "lydia/boiji-annayo-inst"
+duration = "3:03"
