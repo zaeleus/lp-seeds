@@ -1,0 +1,14 @@
+artist-id = "myundo"
+kind = "single"
+
+names = [
+  { name = "Emo Hip ho;P", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-09-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10207693" },
+]
