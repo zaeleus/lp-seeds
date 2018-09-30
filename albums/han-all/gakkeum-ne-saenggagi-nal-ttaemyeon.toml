@@ -1,0 +1,15 @@
+artist-id = "han-all"
+kind = "single"
+
+names = [
+  { name = "가끔 네 생각이 날 때면", locale = "ko", original = true },
+  { name = "Gakkeum Ne Saenggagi Nal Ttaemyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-09-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10207743" },
+]
