@@ -1,0 +1,28 @@
+medium-ids = [
+  "badkiz/monika/luvidu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "badkiz/monika/intro"
+duration = "0:26"
+
+[[tracks]]
+position = 2
+song-id = "badkiz/monika/luvidu-feat-luda"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "badkiz/monika/joajilkka"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "badkiz/monika/good-bye-feat-moos-of-madtown"
+duration = "3:39"
+
+[[tracks]]
+position = 5
+song-id = "badkiz/monika/luvidu-inst"
+duration = "3:45"
