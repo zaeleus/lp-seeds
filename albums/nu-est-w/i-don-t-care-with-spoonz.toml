@@ -1,0 +1,15 @@
+artist-id = "nu-est-w"
+kind = "single"
+
+names = [
+  { name = "I Don't Care (with 스푼즈)", locale = "ko", original = true },
+  { name = "I Don't Care (with Spoonz)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10208359" },
+]
