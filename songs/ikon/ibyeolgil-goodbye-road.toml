@@ -1,0 +1,5 @@
+names = [
+  { name = "이별길 (GOODBYE ROAD)", locale = "ko", original = true },
+  { name = "Ibyeolgil (GOODBYE ROAD)", locale = "ko-Latn", default = true },
+  { name = "GOODBYE ROAD", locale = "en" },
+]

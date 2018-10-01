@@ -1,0 +1,23 @@
+medium-ids = [
+  "ikon/new-kids-the-final/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ikon/ibyeolgil-goodbye-road"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "ikon/naega-moreuge-don-t-let-me-know"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "ikon/joahaeyo-adore-you"
+duration = "3:31"
+
+[[tracks]]
+position = 4
+song-id = "ikon/kkoljota-perfect"
+duration = "3:34"

@@ -1,0 +1,14 @@
+artist-id = "ikon"
+kind = "ep"
+
+names = [
+  { name = "NEW KIDS: THE FINAL", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-10-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10208358" },
+]

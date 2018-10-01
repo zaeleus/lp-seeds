@@ -1,0 +1,5 @@
+names = [
+  { name = "내가 모르게 (DON'T LET ME KNOW)", locale = "ko", original = true },
+  { name = "Naega Moreuge (DON'T LET ME KNOW)", locale = "ko-Latn", default = true },
+  { name = "DON'T LET ME KNOW", locale = "en" },
+]
