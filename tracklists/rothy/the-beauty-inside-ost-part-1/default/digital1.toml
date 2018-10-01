@@ -1,0 +1,13 @@
+medium-ids = [
+  "rothy/the-beauty-inside-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rothy/gureum"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "rothy/gureum-inst"
+duration = "3:04"
