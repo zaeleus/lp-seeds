@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/sarangeun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/sarangeun-with-yeseul"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/sarangeun-inst"
+duration = "4:05"
