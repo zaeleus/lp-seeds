@@ -1,0 +1,16 @@
+artist-id = "dok2"
+kind = "single"
+
+names = [
+  { name = "그곳에서", locale = "ko", original = true },
+  { name = "Geugoseseo", locale = "ko-Latn", default = true },
+  { name = "On My Way 3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-10-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10208835" },
+]

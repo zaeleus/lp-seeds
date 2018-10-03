@@ -1,0 +1,5 @@
+names = [
+  { name = "그곳에서 (On My Way 3) (Feat. 김범수(BSK))", locale = "ko", original = true },
+  { name = "Geugoseseo (On My Way 3) (Feat. Kim Beom Su (BSK))", locale = "ko-Latn", default = true },
+  { name = "On My Way 3 (Feat. Kim Beom Su (BSK))", locale = "en" },
+]
