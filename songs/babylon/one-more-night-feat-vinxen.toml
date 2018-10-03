@@ -1,0 +1,4 @@
+names = [
+  { name = "One More Night (Feat. 빈첸(VINXEN))", locale = "ko", original = true },
+  { name = "One More Night (Feat. VINXEN)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,68 @@
+medium-ids = [
+  "babylon/caelo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "babylon/heaven"
+duration = "1:02"
+
+[[tracks]]
+position = 2
+song-id = "babylon/one-more-night-feat-vinxen"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "babylon/karma-feat-beobeoljinteu-the-quiett-takeone-neogsal-bewhy"
+duration = "4:28"
+
+[[tracks]]
+position = 4
+song-id = "babylon/rough-rider-feat-superbee-jeebanoff"
+duration = "3:33"
+
+[[tracks]]
+position = 5
+song-id = "babylon/rose"
+duration = "3:27"
+
+[[tracks]]
+position = 6
+song-id = "babylon/sincerity-feat-sophiya"
+duration = "3:06"
+
+[[tracks]]
+position = 7
+song-id = "babylon/geuriwonna-bwa-miss-you"
+duration = "3:33"
+
+[[tracks]]
+position = 8
+song-id = "babylon/neoui-heunjeoge-you-re-not"
+duration = "3:25"
+
+[[tracks]]
+position = 9
+song-id = "babylon/kkum-dream"
+duration = "3:50"
+
+[[tracks]]
+position = 10
+song-id = "babylon/drive"
+duration = "3:10"
+
+[[tracks]]
+position = 11
+song-id = "babylon/karma-feat-the-quiett-deluxe-ver"
+duration = "3:23"
+
+[[tracks]]
+position = 12
+song-id = "babylon/one-more-night-english-ver"
+duration = "3:32"
+
+[[tracks]]
+position = 13
+song-id = "babylon/babo-feat-nafla-acoustic-ver"
+duration = "3:49"

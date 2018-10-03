@@ -1,0 +1,5 @@
+names = [
+  { name = "그리웠나 봐 (Miss You)", locale = "ko", original = true },
+  { name = "Geuriwonna Bwa (Miss You)", locale = "ko-Latn", default = true },
+  { name = "Miss You", locale = "en" },
+]

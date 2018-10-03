@@ -1,0 +1,4 @@
+names = [
+  { name = "Karma (Feat. 버벌진트, The Quiett, TakeOne, 넉살, BewhY)", locale = "ko", original = true, default = true },
+  { name = "Karma (Feat. Verbal Jint, The Quiett, TakeOne, Nucksal, BewhY)", locale = "" },
+]

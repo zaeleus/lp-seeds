@@ -1,0 +1,5 @@
+names = [
+  { name = "너의 흔적에 (You're Not)", locale = "ko", original = true },
+  { name = "Neoui Heunjeoge (You're Not)", locale = "ko-Latn", default = true },
+  { name = "You're Not", locale = "en" },
+]
