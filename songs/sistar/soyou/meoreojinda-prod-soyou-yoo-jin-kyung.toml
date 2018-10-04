@@ -1,0 +1,4 @@
+names = [
+  { name = "멀어진다 (PROD. 소유, 유진경)", locale = "ko", original = true },
+  { name = "Meoreojinda (Prod. Soyou, Yoo Jin Kyung)", locale = "ko-Latn", default = true },
+]

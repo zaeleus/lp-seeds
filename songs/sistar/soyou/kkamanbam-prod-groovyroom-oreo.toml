@@ -1,0 +1,5 @@
+names = [
+  { name = "까만밤 (PROD. GroovyRoom, OREO)", locale = "ko", original = true },
+  { name = "Kkamanbam (PROD. GroovyRoom, OREO)", locale = "ko-Latn", default = true },
+  { name = "All Night (PROD. GroovyRoom, OREO)", locale = "en" },
+]

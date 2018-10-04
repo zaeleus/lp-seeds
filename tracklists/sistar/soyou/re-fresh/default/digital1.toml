@@ -1,0 +1,33 @@
+medium-ids = [
+  "sistar/soyou/re-fresh/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sistar/soyou/kkamanbam-prod-groovyroom-oreo"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "sistar/soyou/mudeomdeom-prod-armadillo"
+duration = "3:59"
+
+[[tracks]]
+position = 3
+song-id = "sistar/soyou/neowa-hamkke-prod-davii"
+duration = "3:35"
+
+[[tracks]]
+position = 4
+song-id = "sistar/soyou/funny-prod-e-one-seion"
+duration = "3:10"
+
+[[tracks]]
+position = 5
+song-id = "sistar/soyou/meoreojinda-prod-soyou-yoo-jin-kyung"
+duration = "3:57"
+
+[[tracks]]
+position = 6
+song-id = "sistar/soyou/jandatum-prod-yoon-hyun-sang"
+duration = "3:40"
