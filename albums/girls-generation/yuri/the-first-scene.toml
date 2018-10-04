@@ -1,0 +1,21 @@
+artist-id = "girls-generation/yuri"
+kind = "ep"
+
+names = [
+  { name = "The First Scene", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/yuri"
+names = [
+  { name = "유리", locale = "ko", kind = "stage", original = true },
+  { name = "YURI", locale = "ko-Latn", kind = "stage", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10209162" },
+]

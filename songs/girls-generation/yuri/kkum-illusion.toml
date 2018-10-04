@@ -1,0 +1,12 @@
+names = [
+  { name = "꿈 (Illusion)", locale = "ko", original = true },
+  { name = "Kkum (Illusion)", locale = "ko-Latn", default = true },
+  { name = "Illusion", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/yuri"
+names = [
+  { name = "유리", locale = "ko", kind = "stage", original = true },
+  { name = "YURI", locale = "ko-Latn", kind = "stage", default = true },
+]

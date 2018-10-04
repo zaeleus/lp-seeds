@@ -1,0 +1,12 @@
+names = [
+  { name = "빠져가 (Into You)", locale = "ko", original = true },
+  { name = "Ppajyeoga (Into You)", locale = "ko-Latn", default = true },
+  { name = "Into You", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/yuri"
+names = [
+  { name = "유리", locale = "ko", kind = "stage", original = true },
+  { name = "YURI", locale = "ko-Latn", kind = "stage", default = true },
+]

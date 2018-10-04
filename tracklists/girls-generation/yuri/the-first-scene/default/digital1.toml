@@ -1,0 +1,33 @@
+medium-ids = [
+  "girls-generation/yuri/the-first-scene/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/yuri/ppajyeoga-into-you"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/yuri/kkum-illusion"
+duration = "3:48"
+
+[[tracks]]
+position = 3
+song-id = "girls-generation/yuri/c-est-la-vie-that-s-life"
+duration = "3:58"
+
+[[tracks]]
+position = 4
+song-id = "girls-generation/yuri/butterfly"
+duration = "2:50"
+
+[[tracks]]
+position = 5
+song-id = "girls-generation/yuri/chapter-2"
+duration = "3:47"
+
+[[tracks]]
+position = 6
+song-id = "girls-generation/yuri/ending-credit-to-be-continued"
+duration = "3:18"

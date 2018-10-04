@@ -1,0 +1,10 @@
+names = [
+  { name = "Butterfly", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/yuri"
+names = [
+  { name = "유리", locale = "ko", kind = "stage", original = true },
+  { name = "YURI", locale = "ko-Latn", kind = "stage", default = true },
+]
