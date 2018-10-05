@@ -1,0 +1,4 @@
+names = [
+  { name = "핑퐁 (pingpong) (Feat. 브라더수)", locale = "ko", original = true },
+  { name = "pingpong (Feat. Brother Su)", locale = "en", default = true },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "ra-d/pingpong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ra-d/pingpong-feat-brother-su"
+duration = "3:24"
