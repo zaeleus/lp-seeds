@@ -1,0 +1,13 @@
+medium-ids = [
+  "dok2/player-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dok2/player-feat-jinsil-of-mad-soul-child"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "dok2/player-inst"
+duration = "3:03"

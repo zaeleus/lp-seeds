@@ -1,0 +1,4 @@
+names = [
+  { name = "플레이어 (Player) (Feat. 진실 of Mad Soul Child)", locale = "ko", original = true },
+  { name = "Player (Feat. Jinsil of Mad Soul Child)", locale = "en", default = true },
+]

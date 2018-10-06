@@ -1,0 +1,15 @@
+artist-id = "dok2"
+kind = "single"
+
+names = [
+  { name = "플레이어 OST Part.1", locale = "ko", original = true },
+  { name = "Player OST Part.1", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10209676" },
+]
