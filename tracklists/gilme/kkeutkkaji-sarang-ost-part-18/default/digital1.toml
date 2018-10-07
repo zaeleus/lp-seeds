@@ -1,0 +1,13 @@
+medium-ids = [
+  "gilme/kkeutkkaji-sarang-ost-part-18/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gilme/hangeoreum"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "gilme/hangeoreum-inst"
+duration = "4:05"
