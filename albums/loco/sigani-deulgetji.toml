@@ -1,0 +1,16 @@
+artist-id = "loco"
+kind = "single"
+
+names = [
+  { name = "시간이 들겠지", locale = "ko", original = true },
+  { name = "Sigani Deulgetji", locale = "ko-Latn", default = true },
+  { name = "It Takes Time", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-10-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10210198" },
+]

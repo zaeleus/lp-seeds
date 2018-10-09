@@ -1,0 +1,5 @@
+names = [
+  { name = "시간이 들겠지 (Feat. Colde)", locale = "ko", original = true },
+  { name = "Sigani Deulgetji (Feat. Colde)", locale = "ko-Latn", default = true },
+  { name = "It Takes Time (Feat. Colde)", locale = "en" },
+]
