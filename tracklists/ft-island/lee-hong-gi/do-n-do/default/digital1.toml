@@ -1,0 +1,8 @@
+medium-ids = [
+  "ft-island/lee-hong-gi/do-n-do/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ft-island/lee-hong-gi/i-am-with-cheetah"
+duration = "3:53"

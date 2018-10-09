@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1990-03-02"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "이홍기", locale = "ko", kind = "real", original = true },
+  { name = "Lee Hong Gi", locale = "ko-Latn", kind = "real", default = true },
+]
