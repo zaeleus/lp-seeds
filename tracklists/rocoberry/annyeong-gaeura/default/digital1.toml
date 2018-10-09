@@ -1,0 +1,13 @@
+medium-ids = [
+  "rocoberry/annyeong-gaeura/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rocoberry/annyeong-gaeura"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "rocoberry/annyeong-gaeura-inst"
+duration = "3:42"

@@ -1,0 +1,15 @@
+artist-id = "rocoberry"
+kind = "single"
+
+names = [
+  { name = "안녕, 가을아", locale = "ko", original = true },
+  { name = "Annyeong, Gaeura", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10210241" },
+]
