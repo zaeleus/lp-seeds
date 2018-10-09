@@ -1,0 +1,8 @@
+medium-ids = [
+  "we-girls/girls-wings-fly/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "we-girls/on-air-wings-ver"
+duration = "3:06"
