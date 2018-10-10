@@ -1,0 +1,18 @@
+medium-ids = [
+  "fromis-9/from-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fromis-9/love-bomb"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "fromis-9/dancing-queen"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "fromis-9/muldeureo"
+duration = "3:37"

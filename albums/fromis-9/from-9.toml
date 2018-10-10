@@ -1,0 +1,14 @@
+artist-id = "fromis-9"
+kind = "single"
+
+names = [
+  { name = "From.9", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-10-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10210361" },
+]
