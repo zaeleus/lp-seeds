@@ -1,0 +1,16 @@
+artist-id = "suran"
+kind = "single"
+
+names = [
+  { name = "내 뒤에 테리우스 OST Part.2", locale = "ko", original = true },
+  { name = "Nae Dwie Terrius OST Part.2", locale = "ko-Latn", default = true },
+  { name = "My Secret Terrius OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-10-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10210365" },
+]

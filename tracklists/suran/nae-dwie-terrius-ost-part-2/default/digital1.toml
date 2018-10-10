@@ -1,0 +1,13 @@
+medium-ids = [
+  "suran/nae-dwie-terrius-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "suran/nunbusyeo"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "suran/nunbusyeo-inst"
+duration = "3:38"
