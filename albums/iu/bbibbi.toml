@@ -1,0 +1,16 @@
+artist-id = "iu"
+kind = "single"
+
+names = [
+  { name = "삐삐", locale = "ko", original = true },
+  { name = "Ppippi", locale = "ko-Latn" },
+  { name = "BBIBBI", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10210535" },
+]
