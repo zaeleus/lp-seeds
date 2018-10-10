@@ -1,0 +1,14 @@
+artist-id = "san-e"
+kind = "single"
+
+names = [
+  { name = "#mentalhealth&socialissues", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-10-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10210533" },
+]

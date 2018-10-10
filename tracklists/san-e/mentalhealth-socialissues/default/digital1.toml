@@ -1,0 +1,18 @@
+medium-ids = [
+  "san-e/mentalhealth-socialissues/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "san-e/wannabe-rapper"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "san-e/wannabe-rapper-inst"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "san-e/wannabe-rapper-acca"
+duration = "3:02"
