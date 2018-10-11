@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1982-02-05"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "휘성", locale = "ko", kind = "stage", original = true },
+  { name = "Realslow", locale = "ko-Latn", kind = "stage", default = true },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "realslow/ujusogeseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "realslow/ujusogeseo"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "realslow/breaking-down"
+duration = "3:54"
+
+[[tracks]]
+position = 3
+song-id = "realslow/rainy-day-feat-chung-ha-taeil-of-block-b"
+duration = "3:39"
+
+[[tracks]]
+position = 4
+song-id = "realslow/gijeogi-ireonasseumyeon-jokesseo"
+duration = "3:28"
+
+[[tracks]]
+position = 5
+song-id = "realslow/present"
+duration = "4:00"
