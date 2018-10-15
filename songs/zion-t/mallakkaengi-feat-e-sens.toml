@@ -1,0 +1,4 @@
+names = [
+  { name = "말라깽이 (Feat. E SENS)", locale = "ko", original = true },
+  { name = "Mallakkaengi (Feat. E SENS)", locale = "ko-Latn", default = true },
+]

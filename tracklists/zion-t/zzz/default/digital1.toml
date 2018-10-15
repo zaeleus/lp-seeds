@@ -1,0 +1,38 @@
+medium-ids = [
+  "zion-t/zzz/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zion-t/aidol"
+duration = "2:00"
+
+[[tracks]]
+position = 2
+song-id = "zion-t/meotjige-insahaneun-beop-feat-seulgi-of-red-velvet"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "zion-t/my-luv"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "zion-t/mallakkaengi-feat-e-sens"
+duration = "3:04"
+
+[[tracks]]
+position = 5
+song-id = "zion-t/eoheo"
+duration = "1:53"
+
+[[tracks]]
+position = 6
+song-id = "zion-t/jamkkodae-feat-oh-hyuk"
+duration = "2:41"
+
+[[tracks]]
+position = 7
+song-id = "zion-t/amudo-moreuneun-iyagi"
+duration = "3:29"

@@ -1,0 +1,5 @@
+names = [
+  { name = "멋지게 인사하는 법 (Feat. 슬기 of Red Velvet)", locale = "ko", original = true },
+  { name = "Meotjige Insahaneun Beop (Feat. SEULGI of Red Velvet)", locale = "ko-Latn", default = true },
+  { name = "Hello Tutorial (Feat. SEULGI of Red Velvet)", locale = "en" },
+]
