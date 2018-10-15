@@ -1,0 +1,15 @@
+artist-id = "banhana"
+kind = "single"
+
+names = [
+  { name = "그 날의 온도", locale = "ko", original = true },
+  { name = "Geu Narui Ondo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10212204" },
+]
