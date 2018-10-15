@@ -1,0 +1,15 @@
+artist-id = "seo-ja-yeong"
+kind = "single"
+
+names = [
+  { name = "함께", locale = "ko", original = true },
+  { name = "Hamkke", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10211918" },
+]
