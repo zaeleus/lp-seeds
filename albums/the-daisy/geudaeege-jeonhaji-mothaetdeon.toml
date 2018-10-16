@@ -1,0 +1,15 @@
+artist-id = "the-daisy"
+kind = "single"
+
+names = [
+  { name = "그대에게 전하지 못했던", locale = "ko", original = true },
+  { name = "Geudaeege Jeonhaji Mothaetdeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10212179" },
+]
