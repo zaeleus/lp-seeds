@@ -1,0 +1,8 @@
+medium-ids = [
+  "crucial-star/singer-songwriter/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "crucial-star/singer-songwriter-feat-kim-e-z"
+duration = "4:01"

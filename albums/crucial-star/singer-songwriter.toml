@@ -1,0 +1,14 @@
+artist-id = "crucial-star"
+kind = "single"
+
+names = [
+  { name = "Singer Songwriter", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-10-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10212741" },
+]
