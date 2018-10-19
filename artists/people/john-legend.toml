@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1978-12-28"
+country = "US"
+gender = "male"
+
+names = [
+  { name = "John Legend", locale = "en", kind = "real", original = true, default = true },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/john-legend-x-wendy/written-in-the-stars/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/john-legend-x-wendy/written-in-the-stars"
+duration = "3:52"

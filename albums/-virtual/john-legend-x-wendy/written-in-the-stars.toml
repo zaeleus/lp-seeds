@@ -1,0 +1,25 @@
+artist-id = "-virtual/john-legend-x-wendy"
+kind = "single"
+
+names = [
+  { name = "Written In The Stars", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "john-legend"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "red-velvet/wendy"
+names = [
+  { name = "웬디", locale = "ko", original = true },
+  { name = "WENDY", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10214287" },
+]
