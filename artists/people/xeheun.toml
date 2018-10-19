@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1999-07-11"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "이세흔", locale = "ko", kind = "real", original = true },
+  { name = "Lee Se Heun", locale = "ko-Latn", kind = "real" },
+  { name = "Xeheun", locale = "ko-Latn", kind = "stage", default = true },
+]
