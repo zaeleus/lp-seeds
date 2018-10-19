@@ -1,0 +1,23 @@
+medium-ids = [
+  "anoc/dalmeunnal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "anoc/dalmeunnal"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "anoc/sea-u-string-ver"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "anoc/iyuneunneo-it-s-you-string-ver"
+duration = "3:16"
+
+[[tracks]]
+position = 4
+song-id = "anoc/dalmeunnal-inst"
+duration = "3:11"
