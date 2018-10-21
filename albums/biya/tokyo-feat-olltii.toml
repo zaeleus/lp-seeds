@@ -1,0 +1,16 @@
+artist-id = "biya"
+kind = "single"
+
+names = [
+  { name = "도쿄 (Feat. 올티)", locale = "ko", original = true },
+  { name = "Dokyo (Feat. Olltii)", locale = "ko-Latn" },
+  { name = "Tokyo (Feat. Olltii)", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10214352" },
+]

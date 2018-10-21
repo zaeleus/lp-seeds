@@ -1,0 +1,18 @@
+medium-ids = [
+  "biya/tokyo-feat-olltii/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "biya/tokyo-feat-olltii"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "biya/tokyo-band-ver"
+duration = "4:14"
+
+[[tracks]]
+position = 3
+song-id = "biya/tokyo-feat-olltii-inst"
+duration = "3:57"

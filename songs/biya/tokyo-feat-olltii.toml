@@ -1,0 +1,5 @@
+names = [
+  { name = "도쿄 (Feat. 올티)", locale = "ko", original = true },
+  { name = "Dokyo (Feat. Olltii)", locale = "ko-Latn" },
+  { name = "Tokyo (Feat. Olltii)", locale = "en", default = true },
+]
