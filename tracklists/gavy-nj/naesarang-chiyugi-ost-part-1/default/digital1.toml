@@ -1,0 +1,13 @@
+medium-ids = [
+  "gavy-nj/naesarang-chiyugi-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gavy-nj/negeman-hagopeun-mal"
+duration = "4:46"
+
+[[tracks]]
+position = 2
+song-id = "gavy-nj/negeman-hagopeun-mal-inst"
+duration = "4:46"
