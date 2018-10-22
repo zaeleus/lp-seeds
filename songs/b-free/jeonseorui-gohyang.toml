@@ -1,0 +1,4 @@
+names = [
+  { name = "전설의 고향", locale = "ko", original = true },
+  { name = "Jeonseorui Gohyang", locale = "ko-Latn", default = true },
+]

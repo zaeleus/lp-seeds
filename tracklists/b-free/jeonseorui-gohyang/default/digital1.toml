@@ -1,0 +1,8 @@
+medium-ids = [
+  "b-free/jeonseorui-gohyang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "b-free/jeonseorui-gohyang"
+duration = "2:59"
