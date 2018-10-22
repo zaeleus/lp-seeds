@@ -1,0 +1,5 @@
+names = [
+  { name = "너 (You) (Feat. 정준영)", locale = "ko", original = true },
+  { name = "Neo (You) (Feat. Jung Joon Young)", locale = "ko-Latn", default = true },
+  { name = "You (Feat. Jung Joon Young)", locale = "en" },
+]

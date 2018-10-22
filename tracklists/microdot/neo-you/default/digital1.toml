@@ -1,0 +1,13 @@
+medium-ids = [
+  "microdot/neo-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "microdot/neo-you-feat-jung-joon-young"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "microdot/neo-you-inst"
+duration = "3:56"
