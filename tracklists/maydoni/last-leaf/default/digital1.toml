@@ -1,0 +1,13 @@
+medium-ids = [
+  "maydoni/last-leaf/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "maydoni/last-leaf"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "maydoni/last-leaf-inst"
+duration = "3:27"
