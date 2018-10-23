@@ -1,0 +1,3 @@
+names = [
+  { name = "FIRE (Prod. GroovyRoom)", locale = "ko", original = true, default = true },
+]
