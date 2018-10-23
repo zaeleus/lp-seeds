@@ -1,0 +1,13 @@
+medium-ids = [
+  "koh-na-young/bujokhae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "koh-na-young/bujokhae"
+duration = "2:21"
+
+[[tracks]]
+position = 2
+song-id = "koh-na-young/bujokhae-inst"
+duration = "2:21"
