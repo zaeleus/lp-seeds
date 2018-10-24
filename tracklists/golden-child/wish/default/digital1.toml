@@ -1,0 +1,38 @@
+medium-ids = [
+  "golden-child/wish/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "golden-child/wish"
+duration = "1:15"
+
+[[tracks]]
+position = 2
+song-id = "golden-child/genie"
+duration = "3:44"
+
+[[tracks]]
+position = 3
+song-id = "golden-child/neo"
+duration = "3:06"
+
+[[tracks]]
+position = 4
+song-id = "golden-child/neoman-boinda"
+duration = "3:05"
+
+[[tracks]]
+position = 5
+song-id = "golden-child/deureobwa-jullae"
+duration = "3:08"
+
+[[tracks]]
+position = 6
+song-id = "golden-child/neon-moreul-geoya"
+duration = "3:13"
+
+[[tracks]]
+position = 7
+song-id = "golden-child/would-u-be-my"
+duration = "3:04"

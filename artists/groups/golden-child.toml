@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "골든차일드", locale = "ko", original = true },
+  { name = "Golden Child", locale = "ko-Latn", default = true },
+]
