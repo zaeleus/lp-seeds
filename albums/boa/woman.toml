@@ -1,0 +1,14 @@
+artist-id = "boa"
+kind = "lp"
+
+names = [
+  { name = "WOMAN", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-10-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10215631" },
+]

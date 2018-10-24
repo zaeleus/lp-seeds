@@ -1,0 +1,5 @@
+names = [
+  { name = "홧김에 (Irreversible)", locale = "ko", original = true },
+  { name = "Hwatgime (Irreversible)", locale = "ko-Latn", default = true },
+  { name = "Irreversible", locale = "en" },
+]
