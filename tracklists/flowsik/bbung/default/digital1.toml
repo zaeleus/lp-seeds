@@ -1,0 +1,8 @@
+medium-ids = [
+  "flowsik/bbung/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "flowsik/bbung"
+duration = "2:52"
