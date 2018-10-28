@@ -1,0 +1,16 @@
+artist-id = "weki-meki/elly"
+kind = "single"
+
+names = [
+  { name = "하나뿐인 내편 OST Part.7", locale = "ko", original = true },
+  { name = "Hanappunin Naepyeon OST Part.7", locale = "ko-Latn", default = true },
+  { name = "My Only One OST Part.7", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-10-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10216743" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "weki-meki/elly/hanappunin-naepyeon-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weki-meki/elly/jangmiui-miso"
+duration = "2:47"
+
+[[tracks]]
+position = 2
+song-id = "weki-meki/elly/jangmiui-miso-inst"
+duration = "2:47"
