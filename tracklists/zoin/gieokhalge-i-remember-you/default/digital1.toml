@@ -1,0 +1,13 @@
+medium-ids = [
+  "zoin/gieokhalge-i-remember-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zoin/gieokhalge-i-remember-you"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "zoin/gieokhalge-i-remember-you-inst"
+duration = "3:58"
