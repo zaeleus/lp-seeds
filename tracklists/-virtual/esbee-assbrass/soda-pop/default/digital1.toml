@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/esbee-assbrass/soda-pop/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/esbee-assbrass/soda-pop"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/esbee-assbrass/soda-pop-inst"
+duration = "3:33"
