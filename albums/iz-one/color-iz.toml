@@ -1,0 +1,14 @@
+artist-id = "iz-one"
+kind = "ep"
+
+names = [
+  { name = "COLOR*IZ", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-10-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10217163" },
+]

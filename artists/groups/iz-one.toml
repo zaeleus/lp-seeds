@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "아이즈원", locale = "ko", original = true },
+  { name = "IZ*ONE", locale = "en", default = true },
+]

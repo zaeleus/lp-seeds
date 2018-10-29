@@ -1,0 +1,4 @@
+names = [
+  { name = "꿈을 꾸는 동안 (夢を見ている間) (IZ*ONE ver.)", locale = "ko", original = true },
+  { name = "Kkumeul Kkuneun Dongan (Yume wo Miteiru Aida) (IZ*ONE ver.)", locale = "ko-Latn", default = true },
+]

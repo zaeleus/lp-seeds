@@ -1,0 +1,38 @@
+medium-ids = [
+  "iz-one/color-iz/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "iz-one/areumdaun-saek"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "iz-one/o-my"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "iz-one/la-vie-en-rose"
+duration = "3:40"
+
+[[tracks]]
+position = 4
+song-id = "iz-one/bimirui-sigan"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "iz-one/apeuro-jal-butakhae-iz-one-ver"
+duration = "3:47"
+
+[[tracks]]
+position = 6
+song-id = "iz-one/banhaebeorijana-suki-ni-nacchau-darou-iz-one-ver"
+duration = "4:09"
+
+[[tracks]]
+position = 7
+song-id = "iz-one/kkumeul-kkuneun-dongan-yume-wo-miteiru-aida-iz-one-ver"
+duration = "3:29"
