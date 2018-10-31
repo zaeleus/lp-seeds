@@ -1,0 +1,5 @@
+names = [
+  { name = "절망의 늪", locale = "ko", original = true },
+  { name = "Jeolmangui Neup", locale = "ko-Latn", default = true },
+  { name = "Swamp of Despair", locale = "en" },
+]

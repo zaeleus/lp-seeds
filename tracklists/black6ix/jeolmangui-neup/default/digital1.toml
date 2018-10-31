@@ -1,0 +1,33 @@
+medium-ids = [
+  "black6ix/jeolmangui-neup/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "black6ix/intro"
+duration = "1:17"
+
+[[tracks]]
+position = 2
+song-id = "black6ix/kkeullineun-daero"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "black6ix/jeolmangui-neup"
+duration = "3:12"
+
+[[tracks]]
+position = 4
+song-id = "black6ix/caffeine"
+duration = "4:17"
+
+[[tracks]]
+position = 5
+song-id = "black6ix/dreamer"
+duration = "3:06"
+
+[[tracks]]
+position = 6
+song-id = "black6ix/eoneu-byeol"
+duration = "3:17"
