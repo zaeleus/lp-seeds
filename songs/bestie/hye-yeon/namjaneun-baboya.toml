@@ -1,0 +1,11 @@
+names = [
+  { name = "남자는 바보야", locale = "ko", original = true },
+  { name = "Namjaneun Baboya", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "bestie/hye-yeon"
+names = [
+  { name = "강혜연", locale = "ko", original = true },
+  { name = "Kang Hye Yeon", locale = "ko-Latn", default = true },
+]

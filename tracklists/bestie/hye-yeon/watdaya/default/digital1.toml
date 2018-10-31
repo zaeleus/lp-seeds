@@ -1,0 +1,23 @@
+medium-ids = [
+  "bestie/hye-yeon/watdaya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bestie/hye-yeon/watdaya"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "bestie/hye-yeon/namjaneun-baboya"
+duration = "3:36"
+
+[[tracks]]
+position = 3
+song-id = "bestie/hye-yeon/watdaya-inst"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "bestie/hye-yeon/namjaneun-baboya-inst"
+duration = "3:34"

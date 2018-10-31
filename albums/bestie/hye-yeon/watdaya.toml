@@ -1,0 +1,23 @@
+artist-id = "bestie/hye-yeon"
+kind = "ep"
+
+names = [
+  { name = "왔다야", locale = "ko", original = true },
+  { name = "Watdaya", locale = "ko-Latn", default = true },
+  { name = "Great", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "bestie/hye-yeon"
+names = [
+  { name = "강혜연", locale = "ko", original = true },
+  { name = "Kang Hye Yeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10217896" },
+]

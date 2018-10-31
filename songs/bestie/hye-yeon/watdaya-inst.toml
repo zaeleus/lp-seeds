@@ -1,0 +1,12 @@
+names = [
+  { name = "왔다야 (Inst.)", locale = "ko", original = true },
+  { name = "Watdaya (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Great (Inst.)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "bestie/hye-yeon"
+names = [
+  { name = "강혜연", locale = "ko", original = true },
+  { name = "Kang Hye Yeon", locale = "ko-Latn", default = true },
+]
