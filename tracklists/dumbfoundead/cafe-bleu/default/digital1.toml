@@ -1,0 +1,33 @@
+medium-ids = [
+  "dumbfoundead/cafe-bleu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dumbfoundead/cafe-bleu-theme-prod-by-sweater-beats-donye-a-g"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "dumbfoundead/weird-prod-by-sweater-beats-donye-a-g"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "dumbfoundead/washed-prod-by-shawn-wasabi"
+duration = "3:09"
+
+[[tracks]]
+position = 4
+song-id = "dumbfoundead/chill-foo-prod-by-donye-a-g-jose-rios-sweater-beats"
+duration = "3:01"
+
+[[tracks]]
+position = 5
+song-id = "dumbfoundead/almost-there-ft-paloalto-year-of-the-ox-prod-by-hippie-sabotage"
+duration = "4:04"
+
+[[tracks]]
+position = 6
+song-id = "dumbfoundead/pink-bleu-dawn-prod-by-hippie-sabotage"
+duration = "2:53"
