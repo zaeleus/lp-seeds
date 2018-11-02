@@ -1,0 +1,11 @@
+names = [
+  { name = "샤워 (Shower) (Inst.)", locale = "ko", original = true },
+  { name = "Shower (Inst.)", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/ji-yoon"
+names = [
+  { name = "전지윤", locale = "ko", original = true },
+  { name = "Jeon Ji Yoon", locale = "ko-Latn", default = true },
+]

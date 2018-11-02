@@ -1,0 +1,22 @@
+artist-id = "4minute/ji-yoon"
+kind = "single"
+
+names = [
+  { name = "샤워 (Shower)", locale = "ko", original = true },
+  { name = "Shower", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/ji-yoon"
+names = [
+  { name = "전지윤", locale = "ko", original = true },
+  { name = "Jeon Ji Yoon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10217468" },
+]

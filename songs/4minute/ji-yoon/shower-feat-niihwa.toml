@@ -1,0 +1,11 @@
+names = [
+  { name = "샤워 (Shower) (Feat. 니화 (NiiHWA))", locale = "ko", original = true },
+  { name = "Shower (Feat. NiiHWA)", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/ji-yoon"
+names = [
+  { name = "전지윤", locale = "ko", original = true },
+  { name = "Jeon Ji Yoon", locale = "ko-Latn", default = true },
+]

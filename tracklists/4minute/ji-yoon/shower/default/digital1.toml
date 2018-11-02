@@ -1,0 +1,13 @@
+medium-ids = [
+  "4minute/ji-yoon/shower/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "4minute/ji-yoon/shower-feat-niihwa"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "4minute/ji-yoon/shower-inst"
+duration = "3:28"
