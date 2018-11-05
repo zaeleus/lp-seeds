@@ -1,0 +1,5 @@
+names = [
+  { name = "짜증이 나 (Feat. Zelo)", locale = "ko", original = true },
+  { name = "Jjajeungi Na (Feat. Zelo)", locale = "ko-Latn", default = true },
+  { name = "Annoying (Feat. Zelo)", locale = "en" },
+]
