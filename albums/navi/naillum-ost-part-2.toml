@@ -1,0 +1,16 @@
+artist-id = "navi"
+kind = "single"
+
+names = [
+  { name = "나인룸 OST Part 2", locale = "ko", original = true },
+  { name = "Naillum OST Part 2", locale = "ko-Latn", default = true },
+  { name = "Room No. 9 OST Part 2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-11-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10218812" },
+]

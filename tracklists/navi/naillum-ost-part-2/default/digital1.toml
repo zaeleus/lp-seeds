@@ -1,0 +1,13 @@
+medium-ids = [
+  "navi/naillum-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "navi/rewind"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "navi/rewind-inst"
+duration = "3:26"
