@@ -1,0 +1,16 @@
+artist-id = "apink-bnn"
+kind = "single"
+
+names = [
+  { name = "최고의 이혼 OST Part.5", locale = "ko", original = true },
+  { name = "Choegoui Ihon OST Part.5", locale = "ko-Latn", default = true },
+  { name = "The Best Divorce OST Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-11-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10218826" },
+]
