@@ -1,0 +1,4 @@
+names = [
+  { name = "Forever Yours (Feat. 소유)", locale = "ko", original = true },
+  { name = "Forever Yours (Feat. Soyou)", locale = "ko-Latn", default = true },
+]
