@@ -1,0 +1,13 @@
+medium-ids = [
+  "red-velvet/wendy/the-beauty-inside-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/wendy/goodbye"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/wendy/goodbye-inst"
+duration = "3:15"
