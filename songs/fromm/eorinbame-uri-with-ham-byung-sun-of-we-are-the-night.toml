@@ -1,0 +1,4 @@
+names = [
+  { name = "어린밤에 우리 (with 함병선 of We Are The Night)", locale = "ko", original = true },
+  { name = "Eorinbame Uri (with Ham Byung Sun of We Are The Night)", locale = "ko-Latn", default = true },
+]
