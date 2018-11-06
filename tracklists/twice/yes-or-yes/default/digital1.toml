@@ -1,0 +1,38 @@
+medium-ids = [
+  "twice/yes-or-yes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twice/yes-or-yes"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "twice/say-you-love-me"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "twice/lalala"
+duration = "3:07"
+
+[[tracks]]
+position = 4
+song-id = "twice/young-wild"
+duration = "3:02"
+
+[[tracks]]
+position = 5
+song-id = "twice/sunset"
+duration = "3:43"
+
+[[tracks]]
+position = 6
+song-id = "twice/after-moon"
+duration = "3:24"
+
+[[tracks]]
+position = 7
+song-id = "twice/bdz-korean-ver"
+duration = "3:17"

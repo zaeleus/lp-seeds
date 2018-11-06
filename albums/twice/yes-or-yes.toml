@@ -1,0 +1,14 @@
+artist-id = "twice"
+kind = "ep"
+
+names = [
+  { name = "YES or YES", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-11-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10219298" },
+]
