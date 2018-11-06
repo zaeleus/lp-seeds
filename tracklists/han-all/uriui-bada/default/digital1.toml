@@ -1,0 +1,28 @@
+medium-ids = [
+  "han-all/uriui-bada/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "han-all/gakkeum-ne-saenggagi-nal-ttaemyeon-acoustic-ver"
+duration = "4:32"
+
+[[tracks]]
+position = 2
+song-id = "han-all/cheongchun"
+duration = "4:41"
+
+[[tracks]]
+position = 3
+song-id = "han-all/uriui-bada"
+duration = "3:04"
+
+[[tracks]]
+position = 4
+song-id = "han-all/honjanmal"
+duration = "3:53"
+
+[[tracks]]
+position = 5
+song-id = "han-all/gakkeum-ne-saenggagi-nal-ttaemyeon"
+duration = "4:23"

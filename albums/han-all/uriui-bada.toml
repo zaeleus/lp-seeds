@@ -1,0 +1,15 @@
+artist-id = "han-all"
+kind = "ep"
+
+names = [
+  { name = "우리의 바다", locale = "ko", original = true },
+  { name = "Uriui Bada", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-11-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10219349" },
+]
