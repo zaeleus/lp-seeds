@@ -1,0 +1,13 @@
+medium-ids = [
+  "sonamoo/minjae/naneun-gireseo-yeonyeineul-juwotda-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sonamoo/minjae/le-petit-prince"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "sonamoo/minjae/le-petit-prince-inst"
+duration = "3:21"

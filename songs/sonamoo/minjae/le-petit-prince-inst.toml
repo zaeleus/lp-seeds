@@ -1,0 +1,3 @@
+names = [
+  { name = "Le Petit Prince (Inst.)", locale = "ko", original = true, default = true },
+]

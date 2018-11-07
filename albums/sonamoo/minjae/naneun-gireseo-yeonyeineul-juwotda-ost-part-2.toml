@@ -1,0 +1,15 @@
+artist-id = "sonamoo/minjae"
+kind = "single"
+
+names = [
+  { name = "나는 길에서 연예인을 주웠다 OST Part.2", locale = "ko", original = true },
+  { name = "Naneun Gireseo Yeonyeineul Juwotda OST Part.2", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-11-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10218986" },
+]
