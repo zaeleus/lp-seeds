@@ -1,0 +1,15 @@
+artist-id = "heath"
+kind = "single"
+
+names = [
+  { name = "우리가 내일을 말할 수 있을까", locale = "ko", original = true },
+  { name = "Uriga Naeireul Malhal Su Isseulkka", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10217560" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "heath/uriga-naeireul-malhal-su-isseulkka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heath/intro"
+duration = "1:13"
+
+[[tracks]]
+position = 2
+song-id = "heath/uriga-naeireul-malhal-su-isseulkka"
+duration = "3:42"
