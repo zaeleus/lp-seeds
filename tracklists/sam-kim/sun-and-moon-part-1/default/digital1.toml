@@ -1,0 +1,18 @@
+medium-ids = [
+  "sam-kim/sun-and-moon-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sam-kim/sun-and-moon"
+duration = "5:02"
+
+[[tracks]]
+position = 2
+song-id = "sam-kim/make-up-feat-crush"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "sam-kim/geu-yeoreumbam"
+duration = "4:10"
