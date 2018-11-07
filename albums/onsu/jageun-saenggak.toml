@@ -1,0 +1,15 @@
+artist-id = "onsu"
+kind = "ep"
+
+names = [
+  { name = "작은 생각", locale = "ko", original = true },
+  { name = "Jageun Saenggak", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-11-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10220061" },
+]

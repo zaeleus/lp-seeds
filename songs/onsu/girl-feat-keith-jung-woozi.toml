@@ -1,0 +1,4 @@
+names = [
+  { name = "Girl (Feat. Keith Jung, 우지)", locale = "ko", original = true },
+  { name = "Girl (Feat. Keith Jung, Woozi)", locale = "ko-Latn", default = true },
+]
