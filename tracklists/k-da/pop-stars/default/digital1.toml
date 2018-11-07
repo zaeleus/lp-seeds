@@ -1,0 +1,8 @@
+medium-ids = [
+  "k-da/pop-stars/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "k-da/pop-stars"
+duration = "3:12"
