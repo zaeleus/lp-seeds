@@ -1,0 +1,38 @@
+medium-ids = [
+  "truedy/rued/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "truedy/cash-out-mommy-feat-avec-plaisir-and-sebibadboy"
+duration = "2:18"
+
+[[tracks]]
+position = 2
+song-id = "truedy/very-rare-feat-avec-plaisir"
+duration = "3:04"
+
+[[tracks]]
+position = 3
+song-id = "truedy/it-s-not-fair"
+duration = "2:55"
+
+[[tracks]]
+position = 4
+song-id = "truedy/wonder-night-feat-dj-friz-and-kaya"
+duration = "3:59"
+
+[[tracks]]
+position = 5
+song-id = "truedy/neon-nal-molla-feat-kaya"
+duration = "3:20"
+
+[[tracks]]
+position = 6
+song-id = "truedy/cash-out-mommy-feat-avec-plaisir-and-sebibadboy-clean-ver"
+duration = "2:18"
+
+[[tracks]]
+position = 7
+song-id = "truedy/very-rare-feat-avec-plaisir-clean-ver"
+duration = "3:04"

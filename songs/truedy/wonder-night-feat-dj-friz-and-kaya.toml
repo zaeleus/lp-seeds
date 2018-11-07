@@ -1,0 +1,3 @@
+names = [
+  { name = "Wonder Night (Feat. DJ Friz and kaya)", locale = "ko", original = true, default = true },
+]
