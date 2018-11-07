@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/seulgi-x-sinb-gfriend-x-chung-ha-soyeon-g-i-dle/wow-thing/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/seulgi-x-sinb-gfriend-x-chung-ha-soyeon-g-i-dle/wow-thing"
+duration = "2:53"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/seulgi-x-sinb-gfriend-x-chung-ha-soyeon-g-i-dle/wow-thing-inst"
+duration = "2:53"

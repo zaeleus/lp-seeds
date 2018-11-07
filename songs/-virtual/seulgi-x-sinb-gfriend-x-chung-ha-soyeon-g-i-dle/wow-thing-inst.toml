@@ -1,0 +1,26 @@
+names = [
+  { name = "Wow Thing (Inst.)", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "red-velvet/seulgi"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "gfriend/sinb"
+names = [
+  { name = "신비 (여자친구)", locale = "ko", original = true },
+  { name = "SinB (GFRIEND)", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "chung-ha"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "jeon-so-yeon"
+names = [
+  { name = "소연", locale = "ko", original = true },
+  { name = "Soyeon (G)I-DLE", locale = "ko-Latn", default = true },
+]
