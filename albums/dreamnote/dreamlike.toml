@@ -1,0 +1,14 @@
+artist-id = "dreamnote"
+kind = "single"
+
+names = [
+  { name = "Dreamlike", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-11-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10220124" },
+]

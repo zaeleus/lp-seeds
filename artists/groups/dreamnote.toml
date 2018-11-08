@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "드림노트", locale = "ko", original = true },
+  { name = "DreamNote", locale = "en", default = true },
+]
