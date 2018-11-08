@@ -1,0 +1,15 @@
+artist-id = "berrygood/go-woon"
+kind = "single"
+
+names = [
+  { name = "설렘주의보 OST Part.2", locale = "ko", original = true },
+  { name = "Seollemjuuibo OST Part.2", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-11-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10220611" },
+]

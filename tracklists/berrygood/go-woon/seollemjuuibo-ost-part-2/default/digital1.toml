@@ -1,0 +1,13 @@
+medium-ids = [
+  "berrygood/go-woon/seollemjuuibo-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "berrygood/go-woon/neoege-dagagal-geoya"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "berrygood/go-woon/neoege-dagagal-geoya-inst"
+duration = "3:03"
