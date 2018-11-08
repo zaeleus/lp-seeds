@@ -1,0 +1,13 @@
+medium-ids = [
+  "day6/haji-mallamyeon-deo-hago-19-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "day6/chocolate"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "day6/chocolate-inst"
+duration = "3:17"

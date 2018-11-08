@@ -1,0 +1,15 @@
+artist-id = "day6"
+kind = "single"
+
+names = [
+  { name = "하지 말라면 더 하고 19 Part.1", locale = "ko", original = true },
+  { name = "Haji Mallamyeon Deo Hago 19 Part.1", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-11-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10220610" },
+]
