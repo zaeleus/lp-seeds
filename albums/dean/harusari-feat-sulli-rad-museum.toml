@@ -1,0 +1,16 @@
+artist-id = "dean"
+kind = "single"
+
+names = [
+  { name = "하루살이 (feat. 설리, Rad Museum)", locale = "ko", original = true },
+  { name = "Harusari (Feat. Sulli, Rad Museum)", locale = "ko-Latn", default = true },
+  { name = "dayfly (Feat. Sulli, Rad Museum)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-11-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10220257" },
+]

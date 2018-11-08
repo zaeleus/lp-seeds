@@ -1,0 +1,5 @@
+names = [
+  { name = "하루살이 (feat. 설리, Rad Museum)", locale = "ko", original = true },
+  { name = "Harusari (Feat. Sulli, Rad Museum)", locale = "ko-Latn", default = true },
+  { name = "dayfly (Feat. Sulli, Rad Museum)", locale = "en" },
+]
