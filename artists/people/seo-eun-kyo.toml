@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1995-03-21"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "서은교", locale = "ko", kind = "real", original = true },
+  { name = "Seo Eun Kyo", locale = "ko-Latn", kind = "real", default = true },
+]
