@@ -1,0 +1,18 @@
+medium-ids = [
+  "s-afla/shafla-no-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "s-afla/ddu-ru-ddu-ppa-ra-ppa"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "s-afla/bioneun-bam"
+duration = "3:07"
+
+[[tracks]]
+position = 3
+song-id = "s-afla/tturuttu-pparappa-inst"
+duration = "3:03"
