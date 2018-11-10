@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1995-03-21"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "Ann One", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "정안훈", locale = "ko", kind = "real" },
+  { name = "Jung An Hun", locale = "ko-Latn", kind = "real" },
+]

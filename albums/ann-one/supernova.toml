@@ -1,0 +1,14 @@
+artist-id = "ann-one"
+kind = "ep"
+
+names = [
+  { name = "SUPERNOVA", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-11-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10220984" },
+]
