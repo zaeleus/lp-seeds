@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-seong-yeon/peach/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-seong-yeon/boksunga-dance-ver"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "park-seong-yeon/boksunga-original-ver"
+duration = "3:00"

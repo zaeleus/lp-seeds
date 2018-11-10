@@ -1,0 +1,8 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "박성연", locale = "ko", kind = "real", original = true },
+  { name = "Park Seong Yeon", locale = "ko-Latn", kind = "real", default = true },
+]
