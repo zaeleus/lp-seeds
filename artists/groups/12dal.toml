@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "열두달", locale = "ko", original = true },
+  { name = "12DAL", locale = "en", default = true },
+]

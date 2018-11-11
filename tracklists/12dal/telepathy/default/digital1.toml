@@ -1,0 +1,13 @@
+medium-ids = [
+  "12dal/telepathy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "12dal/telepathy"
+duration = "4:23"
+
+[[tracks]]
+position = 2
+song-id = "12dal/yejeoncheoreom"
+duration = "4:09"
