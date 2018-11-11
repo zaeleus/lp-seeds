@@ -1,0 +1,15 @@
+artist-id = "12dal"
+kind = "single"
+
+names = [
+  { name = "쉬는 날", locale = "ko", original = true },
+  { name = "Swineun Nal", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-09-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10201910" },
+]
