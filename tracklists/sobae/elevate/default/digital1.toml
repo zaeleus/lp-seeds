@@ -1,0 +1,13 @@
+medium-ids = [
+  "sobae/elevate/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sobae/elevate"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "sobae/elevate-inst"
+duration = "3:31"
