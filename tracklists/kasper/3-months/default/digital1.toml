@@ -1,0 +1,8 @@
+medium-ids = [
+  "kasper/3-months/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kasper/3-months"
+duration = "3:03"
