@@ -1,0 +1,3 @@
+names = [
+  { name = "Split (Feat. Sungwoo of No Brain)", locale = "ko", original = true, default = true },
+]

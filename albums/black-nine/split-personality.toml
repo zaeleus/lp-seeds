@@ -1,0 +1,14 @@
+artist-id = "black-nine"
+kind = "ep"
+
+names = [
+  { name = "Split Personality", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-11-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10221031" },
+]

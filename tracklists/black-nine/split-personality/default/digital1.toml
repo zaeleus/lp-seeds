@@ -1,0 +1,28 @@
+medium-ids = [
+  "black-nine/split-personality/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "black-nine/bird-s-eye-view"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "black-nine/konnorae"
+duration = "3:49"
+
+[[tracks]]
+position = 3
+song-id = "black-nine/split-feat-sungwoo-of-no-brain"
+duration = "3:49"
+
+[[tracks]]
+position = 4
+song-id = "black-nine/primus"
+duration = "3:35"
+
+[[tracks]]
+position = 5
+song-id = "black-nine/bring-the-base-back-feat-ignito-hunger-noma"
+duration = "3:26"

@@ -1,0 +1,3 @@
+names = [
+  { name = "Bird's Eye View", locale = "ko", original = true, default = true },
+]
