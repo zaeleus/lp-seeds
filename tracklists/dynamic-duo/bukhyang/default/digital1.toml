@@ -1,0 +1,8 @@
+medium-ids = [
+  "dynamic-duo/bukhyang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dynamic-duo/bukhyang-feat-oh-hyuk"
+duration = "3:47"

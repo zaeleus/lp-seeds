@@ -1,0 +1,15 @@
+artist-id = "dynamic-duo"
+kind = "single"
+
+names = [
+  { name = "북향", locale = "ko", original = true },
+  { name = "Bukhyang", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-11-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10221426" },
+]

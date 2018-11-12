@@ -1,0 +1,9 @@
+kind = "group"
+#started-on = ""
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "다이나믹 듀오", locale = "ko", original = true },
+  { name = "Dynamic Duo", locale = "en", default = true },
+]
