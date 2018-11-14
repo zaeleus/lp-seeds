@@ -1,0 +1,3 @@
+names = [
+  { name = "Pink is the New Black (Feat. SALU)", locale = "ko", original = true, default = true },
+]

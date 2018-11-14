@@ -1,0 +1,8 @@
+medium-ids = [
+  "ja-mezz/pink-is-the-new-black/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ja-mezz/pink-is-the-new-black-feat-salu"
+duration = "3:44"
