@@ -1,0 +1,15 @@
+artist-id = "nell"
+kind = "ep"
+
+names = [
+  { name = "행복했으면 좋겠어", locale = "ko", original = true },
+  { name = "Haengbokhaesseumyeon Jokesseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-11-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10222292" },
+]
