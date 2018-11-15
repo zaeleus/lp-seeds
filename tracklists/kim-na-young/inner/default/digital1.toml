@@ -1,0 +1,38 @@
+medium-ids = [
+  "kim-na-young/inner/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-na-young/neol-tteoollineun-bam"
+duration = "4:25"
+
+[[tracks]]
+position = 2
+song-id = "kim-na-young/geu-hanmadi"
+duration = "4:14"
+
+[[tracks]]
+position = 3
+song-id = "kim-na-young/i-want-you"
+duration = "3:36"
+
+[[tracks]]
+position = 5
+song-id = "kim-na-young/ije-geuman"
+duration = "3:49"
+
+[[tracks]]
+position = 6
+song-id = "kim-na-young/geureoke"
+duration = "3:47"
+
+[[tracks]]
+position = 8
+song-id = "kim-na-young/geureoljido-molla"
+duration = "3:41"
+
+[[tracks]]
+position = 12
+song-id = "kim-na-young/geu-hanmadi-inst"
+duration = "4:14"
