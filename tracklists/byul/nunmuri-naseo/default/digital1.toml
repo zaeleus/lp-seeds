@@ -1,0 +1,8 @@
+medium-ids = [
+  "byul/nunmuri-naseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "byul/nunmuri-naseo"
+duration = "4:31"

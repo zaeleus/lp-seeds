@@ -1,0 +1,5 @@
+names = [
+  { name = "눈물이 나서", locale = "ko", original = true },
+  { name = "Nunmuri Naseo", locale = "ko-Latn", default = true },
+  { name = "Distance", locale = "en" },
+]

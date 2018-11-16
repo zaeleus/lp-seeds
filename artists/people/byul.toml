@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1983-10-22"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "별", locale = "ko", kind = "stage", original = true },
+  { name = "Byul", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김고은", locale = "ko", kind = "real" },
+  { name = "Kim Go Eun", locale = "ko-Latn", kind = "real" },
+]
