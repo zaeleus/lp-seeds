@@ -1,0 +1,15 @@
+artist-id = "it-s"
+kind = "single"
+
+names = [
+  { name = "All about you (Feat. 지훈 of 굿나잇스탠드)", locale = "ko", original = true },
+  { name = "All about you (Feat. Ji Hun of Goodnight Stand)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-11-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10222922" },
+]
