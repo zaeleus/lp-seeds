@@ -1,0 +1,8 @@
+medium-ids = [
+  "lucy/swing/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucy/swing-feat-park-kyung"
+duration = "3:34"
