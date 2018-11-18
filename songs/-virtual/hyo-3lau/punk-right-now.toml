@@ -1,0 +1,16 @@
+names = [
+  { name = "Punk Right Now", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/hyoyeon"
+names = [
+  { name = "HYO", locale = "ko", original = true, default = true },
+]
+separator = " & "
+
+[[artist-credits]]
+artist-id = "3lau"
+names = [
+  { name = "3LAU", locale = "ko", original = true, default = true },
+]

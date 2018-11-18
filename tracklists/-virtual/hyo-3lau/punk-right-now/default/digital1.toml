@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/hyo-3lau/punk-right-now/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/hyo-3lau/punk-right-now"
+duration = "2:59"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/hyo-3lau/punk-right-now-english-ver"
+duration = "2:59"
