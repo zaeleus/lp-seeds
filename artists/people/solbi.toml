@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1984-09-30"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "솔비", locale = "ko", kind = "stage", original = true },
+  { name = "Solbi", locale = "ko-Latn", kind = "stage", default = true },
+]

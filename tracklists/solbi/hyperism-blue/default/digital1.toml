@@ -1,0 +1,23 @@
+medium-ids = [
+  "solbi/hyperism-blue/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "solbi/class-up-feat-maniac"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "solbi/oerowo-goerowo"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "solbi/class-up-inst"
+duration = "3:40"
+
+[[tracks]]
+position = 4
+song-id = "solbi/oerowo-goerowo-inst"
+duration = "3:18"

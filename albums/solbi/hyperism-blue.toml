@@ -1,0 +1,14 @@
+artist-id = "solbi"
+kind = "single"
+
+names = [
+  { name = "HYPERISM BLUE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-10-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10208758" },
+]
