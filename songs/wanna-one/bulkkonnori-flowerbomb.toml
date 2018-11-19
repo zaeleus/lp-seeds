@@ -1,0 +1,5 @@
+names = [
+  { name = "불꽃놀이 (Flowerbomb)", locale = "ko", original = true },
+  { name = "Bulkkonnori (Flowerbomb)", locale = "ko-Latn", default = true },
+  { name = "Flowerbomb", locale = "en" },
+]
