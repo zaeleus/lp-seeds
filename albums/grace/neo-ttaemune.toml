@@ -1,0 +1,16 @@
+artist-id = "grace"
+kind = "single"
+
+names = [
+  { name = "너 때문에", locale = "ko", original = true },
+  { name = "Neo Ttaemune", locale = "ko-Latn", default = true },
+  { name = "Because of You", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-06-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10174659" },
+]

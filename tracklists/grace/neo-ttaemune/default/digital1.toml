@@ -1,0 +1,13 @@
+medium-ids = [
+  "grace/neo-ttaemune/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "grace/neo-ttaemune"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "grace/neo-ttaemune-inst"
+duration = "3:22"
