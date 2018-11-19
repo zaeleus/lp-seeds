@@ -1,0 +1,8 @@
+medium-ids = [
+  "moon/million-feat-dok2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "moon/million-feat-dok2"
+duration = "3:34"
