@@ -1,0 +1,15 @@
+artist-id = "jace"
+kind = "single"
+
+names = [
+  { name = "해시태그", locale = "ko", original = true },
+  { name = "Hashtag", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2015-05-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2318806" },
+]

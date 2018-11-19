@@ -1,0 +1,13 @@
+medium-ids = [
+  "jace/hashtag/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jace/hashtag-feat-yang-da-il-minos"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "jace/hashtag-inst"
+duration = "3:02"

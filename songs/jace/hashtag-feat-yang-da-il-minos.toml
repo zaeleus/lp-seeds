@@ -1,0 +1,4 @@
+names = [
+  { name = "해시태그 (Feat. 양다일, Minos)", locale = "ko", original = true },
+  { name = "Hashtag (Feat. Yang Da Il, Minos)", locale = "en", default = true },
+]
