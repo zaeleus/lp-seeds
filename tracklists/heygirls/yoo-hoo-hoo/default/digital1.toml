@@ -1,0 +1,8 @@
+medium-ids = [
+  "heygirls/yoo-hoo-hoo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heygirls/yoo-hoo-hoo"
+duration = "2:58"
