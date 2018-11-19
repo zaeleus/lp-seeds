@@ -1,0 +1,14 @@
+artist-id = "honey-be"
+kind = "single"
+
+names = [
+  { name = "Be Be Be", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-09-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10205119" },
+]
