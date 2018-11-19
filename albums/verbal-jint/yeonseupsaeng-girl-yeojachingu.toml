@@ -1,0 +1,15 @@
+artist-id = "verbal-jint"
+kind = "single"
+
+names = [
+  { name = "연습생girl / 여자친구", locale = "ko", original = true },
+  { name = "Yeonseupsaeng-girl / Yeojachingu", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10214358" },
+]

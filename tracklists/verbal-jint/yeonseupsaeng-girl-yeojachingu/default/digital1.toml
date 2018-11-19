@@ -1,0 +1,18 @@
+medium-ids = [
+  "verbal-jint/yeonseupsaeng-girl-yeojachingu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "verbal-jint/yeonseupsaeng-girl-feat-mxm"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "verbal-jint/yeojachingu-feat-sik-k"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "verbal-jint/yeonseupsaeng-girl-inst"
+duration = "3:33"

@@ -1,0 +1,4 @@
+names = [
+  { name = "여자친구 (feat. 식케이)", locale = "ko", original = true },
+  { name = "Yeojachingu (feat. Sik-K)", locale = "ko-Latn", default = true },
+]
