@@ -1,0 +1,8 @@
+medium-ids = [
+  "celeb-five/shutter/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "celeb-five/shutter-feat-lee-deok-hwa"
+duration = "2:31"

@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "셀럽파이브", locale = "ko", original = true },
+  { name = "Celeb Five", locale = "en", default = true },
+]

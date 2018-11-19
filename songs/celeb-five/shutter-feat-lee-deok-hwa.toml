@@ -1,0 +1,4 @@
+names = [
+  { name = "셔터 (Shutter) (Feat. 이덕화)", locale = "ko", original = true },
+  { name = "Shutter (Feat. Lee Deok Hwa)", locale = "ko-Latn", default = true },
+]

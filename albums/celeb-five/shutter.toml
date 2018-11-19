@@ -1,0 +1,15 @@
+artist-id = "celeb-five"
+kind = "single"
+
+names = [
+  { name = "셔터 (Shutter)", locale = "ko", original = true },
+  { name = "Shutter", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-11-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10223772" },
+]
