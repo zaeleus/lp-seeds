@@ -1,0 +1,28 @@
+medium-ids = [
+  "leebada/blue-ocean/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leebada/parankkot"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "leebada/mulgam"
+duration = "0:52"
+
+[[tracks]]
+position = 3
+song-id = "leebada/suchaehwa"
+duration = "3:54"
+
+[[tracks]]
+position = 4
+song-id = "leebada/mitgo-sipeun-daero-mideoyo"
+duration = "4:14"
+
+[[tracks]]
+position = 5
+song-id = "leebada/mitgo-sipeun-daero-mideoyo-demo-ver"
+duration = "3:56"
