@@ -1,0 +1,4 @@
+names = [
+  { name = "잊어보려 해 (Feat. Double4Nine)", locale = "ko", original = true },
+  { name = "Ijeoboryeo Hae (Feat. Double4Nine)", locale = "ko-Latn", default = true },
+]
