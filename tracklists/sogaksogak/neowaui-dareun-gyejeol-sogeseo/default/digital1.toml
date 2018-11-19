@@ -1,0 +1,13 @@
+medium-ids = [
+  "sogaksogak/neowaui-dareun-gyejeol-sogeseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sogaksogak/neowaui-dareun-gyejeol-sogeseo"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "sogaksogak/neowaui-dareun-gyejeol-sogeseo-inst"
+duration = "3:02"
