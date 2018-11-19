@@ -1,0 +1,16 @@
+artist-id = "hush"
+kind = "single"
+
+names = [
+  { name = "어려워", locale = "ko", original = true },
+  { name = "Eoryeowo", locale = "ko-Latn", default = true },
+  { name = "Problem", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-08-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10190329" },
+]

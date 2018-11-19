@@ -1,0 +1,8 @@
+medium-ids = [
+  "hush/eoryeowo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hush/eoryeowo"
+duration = "3:15"
