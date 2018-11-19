@@ -1,0 +1,14 @@
+artist-id = "exid"
+kind = "single"
+
+names = [
+  { name = "HOLLA", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2012-02-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2081127" },
+]

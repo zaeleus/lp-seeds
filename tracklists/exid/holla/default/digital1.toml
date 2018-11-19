@@ -1,0 +1,13 @@
+medium-ids = [
+  "exid/holla/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exid/i-do"
+duration = "1:47"
+
+[[tracks]]
+position = 2
+song-id = "exid/whoz-that-girl"
+duration = "3:31"
