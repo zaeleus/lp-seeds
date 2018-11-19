@@ -1,0 +1,5 @@
+names = [
+  { name = "그리워해 (MISS U) (Feat. 최엘비)", locale = "ko", original = true },
+  { name = "Geuriwohae (MISS U) (Feat. Choi LB)", locale = "ko-Latn", default = true },
+  { name = "MISS U (Feat. Choi LB)", locale = "" },
+]
