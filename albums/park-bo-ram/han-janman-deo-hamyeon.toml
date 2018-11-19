@@ -4,6 +4,7 @@ kind = "single"
 names = [
   { name = "한 잔만 더 하면", locale = "ko", original = true },
   { name = "Han Janman Deo Hamyeon", locale = "ko-Latn", default = true },
+  { name = "One More Shot", locale = "en" },
 ]
 
 [[releases]]
