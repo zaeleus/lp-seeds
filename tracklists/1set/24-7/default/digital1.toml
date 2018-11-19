@@ -1,0 +1,23 @@
+medium-ids = [
+  "1set/24-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "1set/dugeungeoryeo"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "1set/i-wonder"
+duration = "3:49"
+
+[[tracks]]
+position = 3
+song-id = "1set/itjana"
+duration = "2:47"
+
+[[tracks]]
+position = 4
+song-id = "1set/jal-jinaeyo"
+duration = "4:49"
