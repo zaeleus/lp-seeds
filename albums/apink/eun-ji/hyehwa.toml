@@ -1,0 +1,15 @@
+artist-id = "apink/eun-ji"
+kind = "ep"
+
+names = [
+  { name = "혜화 (暳花)", locale = "ko", original = true },
+  { name = "Hyehwa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10213175" },
+]
