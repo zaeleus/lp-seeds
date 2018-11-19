@@ -1,0 +1,13 @@
+medium-ids = [
+  "jace/seonge-ancha/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jace/seonge-ancha-feat-kisum"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "jace/seonge-ancha-inst"
+duration = "3:32"

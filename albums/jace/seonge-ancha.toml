@@ -1,0 +1,16 @@
+artist-id = "jace"
+kind = "single"
+
+names = [
+  { name = "성에 안차", locale = "ko", original = true },
+  { name = "Seonge Ancha", locale = "ko-Latn", default = true },
+  { name = "Not Enough", locale = "en" },
+]
+
+[[releases]]
+released-on = "2015-08-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2335416" },
+]

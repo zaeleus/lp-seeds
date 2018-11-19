@@ -1,0 +1,5 @@
+names = [
+  { name = "성에 안차 (Feat. 키썸)", locale = "ko", original = true },
+  { name = "Seonge Ancha (Feat. Kisum)", locale = "ko-Latn", default = true },
+  { name = "Not Enough (Feat. Kisum)", locale = "en" },
+]
