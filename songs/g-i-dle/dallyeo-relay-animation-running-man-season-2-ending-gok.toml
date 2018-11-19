@@ -1,0 +1,4 @@
+names = [
+  { name = "달려! (Relay) (애니메이션 '런닝맨 시즌2' 엔딩곡)", locale = "ko", original = true },
+  { name = "Dallyeo! (Relay) (Animation 'Running Man Season 2' Ending-gok)", locale = "ko-Latn", default = true },
+]

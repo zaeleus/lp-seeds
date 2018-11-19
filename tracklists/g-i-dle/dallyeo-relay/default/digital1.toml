@@ -1,0 +1,13 @@
+medium-ids = [
+  "g-i-dle/dallyeo-relay/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-i-dle/dallyeo-relay-animation-running-man-season-2-ending-gok"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "g-i-dle/dallyeo-relay-inst"
+duration = "3:44"

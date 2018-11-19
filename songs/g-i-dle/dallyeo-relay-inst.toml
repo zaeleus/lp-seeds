@@ -1,0 +1,4 @@
+names = [
+  { name = "달려! (Relay) (Inst.)", locale = "ko", original = true },
+  { name = "Dallyeo! (Relay) (Inst.)", locale = "ko-Latn", default = true },
+]
