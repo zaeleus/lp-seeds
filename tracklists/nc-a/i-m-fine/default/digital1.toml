@@ -1,0 +1,13 @@
+medium-ids = [
+  "nc-a/i-m-fine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nc-a/i-m-fine"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "nc-a/i-m-fine-inst"
+duration = "3:34"
