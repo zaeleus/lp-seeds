@@ -1,0 +1,16 @@
+artist-id = "park-bo-ram"
+kind = "single"
+
+names = [
+  { name = "나를 사랑하지 않는 나에게", locale = "ko", original = true },
+  { name = "Nareul Saranghaji Anneun Naege", locale = "ko-Latn", default = true },
+  { name = "To My Unloving Self", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-11-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10224186" },
+]

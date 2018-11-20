@@ -1,0 +1,5 @@
+names = [
+  { name = "나를 사랑하지 않는 나에게 (Inst.)", locale = "ko", original = true },
+  { name = "Nareul Saranghaji Anneun Naege (Inst.)", locale = "ko-Latn", default = true },
+  { name = "To My Unloving Self (Inst.)", locale = "en" },
+]
