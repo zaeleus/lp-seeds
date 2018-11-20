@@ -1,0 +1,13 @@
+medium-ids = [
+  "stella-jang/on-stage-digging-club-seoul-part-03/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stella-jang/areumdawo-digging-club-seoul-ver"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "stella-jang/areumdawo-digging-club-seoul-ver-inst"
+duration = "3:55"
