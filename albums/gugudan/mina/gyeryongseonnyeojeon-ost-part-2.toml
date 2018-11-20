@@ -1,0 +1,16 @@
+artist-id = "gugudan/mina"
+kind = "single"
+
+names = [
+  { name = "계룡선녀전 OST Part 2", locale = "ko", original = true },
+  { name = "Gyeryongseonnyeojeon OST Part 2", locale = "ko-Latn", default = true },
+  { name = "Tale of Fairy OST Part 2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-11-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10223897" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan/mina/gyeryongseonnyeojeon-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/mina/peach-paradise"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/mina/peach-paradise-inst"
+duration = "3:31"
