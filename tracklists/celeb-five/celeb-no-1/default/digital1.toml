@@ -1,0 +1,8 @@
+medium-ids = [
+  "celeb-five/celeb-no-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "celeb-five/celeb-five-celeb-i-doego-sipeo"
+duration = "2:29"
