@@ -1,0 +1,15 @@
+artist-id = "boramiyu"
+kind = "single"
+
+names = [
+  { name = "널 싫어하고 싶어", locale = "ko", original = true },
+  { name = "Neol Sireohago Sipeo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-11-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10224686" },
+]
