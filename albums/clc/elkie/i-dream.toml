@@ -1,0 +1,14 @@
+artist-id = "clc/elkie"
+kind = "single"
+
+names = [
+  { name = "I dream", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-11-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10225720" },
+]
