@@ -1,0 +1,15 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "녹아내려", locale = "ko", original = true },
+  { name = "Noganaeryeo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-11-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10225122" },
+]
