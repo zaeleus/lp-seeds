@@ -1,0 +1,14 @@
+artist-id = "winner/mino"
+kind = "lp"
+
+names = [
+  { name = "XX", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-11-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10226163" },
+]

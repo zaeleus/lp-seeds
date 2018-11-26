@@ -1,0 +1,4 @@
+names = [
+  { name = "불구경 (Feat. YDG)", locale = "ko", original = true },
+  { name = "Bulgugyeong (Feat. YDG)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "흠 (Feat. Blue.D)", locale = "ko", original = true },
+  { name = "Heum (Feat. Blue.D)", locale = "ko-Latn" },
+  { name = "Hmm (Feat. Blue.D)", locale = "en", default = true },
+]

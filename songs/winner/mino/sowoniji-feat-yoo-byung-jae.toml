@@ -1,0 +1,4 @@
+names = [
+  { name = "소원이지 (Feat. 유병재)", locale = "ko", original = true },
+  { name = "Sowoniji (Feat. Yoo Byung Jae)", locale = "ko-Latn", default = true },
+]
