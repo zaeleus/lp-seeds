@@ -1,0 +1,13 @@
+medium-ids = [
+  "wable/i-m-a-fool/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wable/i-m-a-fool"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "wable/i-m-a-fool-inst"
+duration = "3:24"
