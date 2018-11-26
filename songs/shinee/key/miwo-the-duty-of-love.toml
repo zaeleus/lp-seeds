@@ -1,0 +1,5 @@
+names = [
+  { name = "미워 (The Duty of Love)", locale = "ko", original = true },
+  { name = "Miwo (The Duty of Love)", locale = "ko-Latn", default = true },
+  { name = "The Duty of Love", locale = "en" },
+]

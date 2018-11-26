@@ -1,0 +1,5 @@
+names = [
+  { name = "센 척 안 해 (One of Those Nights) (Feat. Crush)", locale = "ko", original = true },
+  { name = "Sen Cheok An Hae (One of Those Nights) (Feat. Crush)", locale = "ko-Latn", default = true },
+  { name = "One of Those Nights (Feat. Crush)", locale = "en" },
+]

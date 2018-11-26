@@ -1,0 +1,4 @@
+names = [
+  { name = "I Will Fight (Feat. 빈첸 (VINXEN))", locale = "ko", original = true },
+  { name = "I Will Fight (Feat. VINXEN)", locale = "ko-Latn", default = true },
+]
