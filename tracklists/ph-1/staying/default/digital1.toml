@@ -1,0 +1,13 @@
+medium-ids = [
+  "ph-1/staying/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ph-1/muriya"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "ph-1/homebody"
+duration = "3:43"
