@@ -1,0 +1,13 @@
+medium-ids = [
+  "se7en/scared/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "se7en/scared"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "se7en/scared-inst"
+duration = "3:42"

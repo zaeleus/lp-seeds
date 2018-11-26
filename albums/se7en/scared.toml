@@ -1,0 +1,14 @@
+artist-id = "se7en"
+kind = "single"
+
+names = [
+  { name = "SCARED", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-11-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10225841" },
+]
