@@ -1,0 +1,18 @@
+medium-ids = [
+  "wonder-girls/yubin/tusm/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wonder-girls/yubin/bonaejulge"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "wonder-girls/yubin/thank-u-soooo-much"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "wonder-girls/yubin/game-over"
+duration = "3:40"
