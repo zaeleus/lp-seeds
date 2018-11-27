@@ -1,0 +1,13 @@
+medium-ids = [
+  "sohyang/sauichanmi-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sohyang/gaseumman-aljyo"
+duration = "5:03"
+
+[[tracks]]
+position = 2
+song-id = "sohyang/gaseumman-aljyo-inst"
+duration = "5:03"

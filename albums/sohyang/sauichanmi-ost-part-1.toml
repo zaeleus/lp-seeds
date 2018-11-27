@@ -1,0 +1,15 @@
+artist-id = "sohyang"
+kind = "single"
+
+names = [
+  { name = "사의찬미 OST Part.1", locale = "ko", original = true },
+  { name = "Sauichanmi OST Part.1", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-11-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10226296" },
+]
