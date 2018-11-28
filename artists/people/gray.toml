@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1986-12-08"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "그레이", locale = "ko", kind = "stage", original = true },
+  { name = "GRAY", locale = "ko-Latn", kind = "stage", default = true },
+]

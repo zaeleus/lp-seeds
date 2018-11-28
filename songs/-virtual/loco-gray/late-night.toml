@@ -1,0 +1,8 @@
+names = [
+  { name = "Late Night", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "loco", separator = ", " },
+  { artist-id = "gray" },
+]
