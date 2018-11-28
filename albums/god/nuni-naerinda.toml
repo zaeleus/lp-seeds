@@ -1,0 +1,16 @@
+artist-id = "god"
+kind = "single"
+
+names = [
+  { name = "눈이 내린다", locale = "ko", original = true },
+  { name = "Nuni Naerinda", locale = "ko-Latn", default = true },
+  { name = "Snowfall", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-11-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10226576" },
+]

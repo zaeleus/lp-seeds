@@ -1,0 +1,13 @@
+medium-ids = [
+  "god/nuni-naerinda/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "god/nuni-naerinda"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "god/nuni-naerinda-inst"
+duration = "3:56"
