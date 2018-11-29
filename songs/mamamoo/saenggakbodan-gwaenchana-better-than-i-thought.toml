@@ -1,0 +1,5 @@
+names = [
+  { name = "생각보단 괜찮아 (Better than I thought)", locale = "ko", original = true },
+  { name = "Saenggakbodan Gwaenchana (Better than I thought)", locale = "ko-Latn", default = true },
+  { name = "Better than I thought", locale = "en" },
+]
