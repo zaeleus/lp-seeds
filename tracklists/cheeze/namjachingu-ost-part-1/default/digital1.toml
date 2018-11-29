@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheeze/namjachingu-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheeze/yeonghwa-gatdeon-nal"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "cheeze/yeonghwa-gatdeon-nal-inst"
+duration = "3:55"
