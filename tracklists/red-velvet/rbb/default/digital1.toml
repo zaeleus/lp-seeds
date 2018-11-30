@@ -1,0 +1,33 @@
+medium-ids = [
+  "red-velvet/rbb/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/rbb-really-bad-boy"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/butterflies"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "red-velvet/so-good"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "red-velvet/meositge-sassy-me"
+duration = "3:07"
+
+[[tracks]]
+position = 5
+song-id = "red-velvet/taste"
+duration = "3:05"
+
+[[tracks]]
+position = 6
+song-id = "red-velvet/rbb-really-bad-boy-english-ver"
+duration = "3:09"
