@@ -1,0 +1,13 @@
+medium-ids = [
+  "f-x/amber/countdown-beautiful/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/amber/countdown-feat-ldn-noise"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "f-x/amber/beautiful-english-ver"
+duration = "2:59"
