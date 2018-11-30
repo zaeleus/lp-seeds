@@ -1,0 +1,15 @@
+artist-id = "boni"
+kind = "lp"
+
+names = [
+  { name = "신보경", locale = "ko", original = true },
+  { name = "Sinbogyeong", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-11-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10227985" },
+]

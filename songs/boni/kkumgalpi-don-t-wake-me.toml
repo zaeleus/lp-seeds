@@ -1,0 +1,5 @@
+names = [
+  { name = "꿈갈피 (Don't Wake Me)", locale = "ko", original = true },
+  { name = "Kkumgalpi (Don't Wake Me)", locale = "ko-Latn", default = true },
+  { name = "Don't Wake Me", locale = "en" },
+]

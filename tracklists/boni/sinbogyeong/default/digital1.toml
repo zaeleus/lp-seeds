@@ -1,0 +1,53 @@
+medium-ids = [
+  "boni/sinbogyeong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boni/me-myself-and-i-am-the-ocean"
+duration = "4:04"
+
+[[tracks]]
+position = 2
+song-id = "boni/sunset-romance-feat-damye"
+duration = "4:25"
+
+[[tracks]]
+position = 3
+song-id = "boni/kite-and-line-feat-blueny-of-ouioui"
+duration = "3:51"
+
+[[tracks]]
+position = 4
+song-id = "boni/4cm-feat-wilcox"
+duration = "3:38"
+
+[[tracks]]
+position = 5
+song-id = "boni/deryeogajwo"
+duration = "3:20"
+
+[[tracks]]
+position = 6
+song-id = "boni/purr"
+duration = "2:23"
+
+[[tracks]]
+position = 7
+song-id = "boni/kkumgalpi-don-t-wake-me"
+duration = "3:32"
+
+[[tracks]]
+position = 8
+song-id = "boni/bam-bam-bam-2-30-am"
+duration = "3:12"
+
+[[tracks]]
+position = 9
+song-id = "boni/12-danji"
+duration = "3:35"
+
+[[tracks]]
+position = 10
+song-id = "boni/everything"
+duration = "3:53"
