@@ -1,0 +1,4 @@
+names = [
+  { name = "SNS 중독 고치는 Love (Prod. By sAewoo)", locale = "ko", original = true },
+  { name = "SNS Jungdok Gochineun Love (Prod. By sAewoo)", locale = "ko-Latn", default = true },
+]

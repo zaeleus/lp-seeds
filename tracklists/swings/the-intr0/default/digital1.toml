@@ -1,0 +1,23 @@
+medium-ids = [
+  "swings/the-intr0/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "swings/jigeusi-feat-yunhway-prod-by-saewoo"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "swings/eyes-on-me-prod-by-saewoo"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "swings/sns-jungdok-gochineun-love-prod-by-saewoo"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "swings/i-like-that-prod-by-saewoo"
+duration = "3:11"
