@@ -1,0 +1,8 @@
+medium-ids = [
+  "dok2/mal-jo-sim/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dok2/mal-jo-sim"
+duration = "4:03"

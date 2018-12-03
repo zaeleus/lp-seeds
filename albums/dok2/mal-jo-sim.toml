@@ -1,0 +1,15 @@
+artist-id = "dok2"
+kind = "single"
+
+names = [
+  { name = "말 조 심", locale = "ko", original = true },
+  { name = "Mal Jo Sim", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-12-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10228518" },
+]
