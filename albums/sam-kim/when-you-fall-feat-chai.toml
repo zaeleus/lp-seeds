@@ -1,0 +1,14 @@
+artist-id = "sam-kim"
+kind = "single"
+
+names = [
+  { name = "When You Fall (Feat. Chai)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-12-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10228519" },
+]
