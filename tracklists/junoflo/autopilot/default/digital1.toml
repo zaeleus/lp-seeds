@@ -1,0 +1,8 @@
+medium-ids = [
+  "junoflo/autopilot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "junoflo/autopilot-feat-boa"
+duration = "3:21"
