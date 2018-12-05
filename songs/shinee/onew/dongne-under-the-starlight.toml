@@ -1,0 +1,5 @@
+names = [
+  { name = "동네 (Under The Starlight)", locale = "ko", original = true },
+  { name = "Dongne (Under The Starlight)", locale = "ko-Latn", default = true },
+  { name = "Under The Starlight", locale = "en" },
+]

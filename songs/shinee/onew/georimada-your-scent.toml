@@ -1,0 +1,5 @@
+names = [
+  { name = "거리마다 (Your Scent)", locale = "ko", original = true },
+  { name = "Georimada (Your Scent)", locale = "ko-Latn", default = true },
+  { name = "Your Scent", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "또각또각 (Timepiece)", locale = "ko", original = true },
+  { name = "Ttogak Ttogak (Timepiece)", locale = "ko-Latn", default = true },
+  { name = "Timepiece", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "온유하게 해요 (Shine On You)", locale = "ko", original = true },
+  { name = "Onyuhage Haeyo (Shine On You)", locale = "ko-Latn", default = true },
+  { name = "Shine On You", locale = "en" },
+]
