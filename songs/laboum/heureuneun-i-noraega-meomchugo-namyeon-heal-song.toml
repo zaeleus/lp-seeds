@@ -1,0 +1,5 @@
+names = [
+  { name = "흐르는 이 노래가 멈추고 나면 (Heal Song)", locale = "ko", original = true },
+  { name = "Heureuneun I Noraega Meomchugo Namyeon (Heal Song)", locale = "ko-Latn", default = true },
+  { name = "Heal Song", locale = "en" },
+]

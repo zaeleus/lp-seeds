@@ -1,0 +1,18 @@
+medium-ids = [
+  "laboum/i-m-yours/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "laboum/bureul-kyeo-turn-it-on"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "laboum/heureuneun-i-noraega-meomchugo-namyeon-heal-song"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "laboum/cheon-original-ver"
+duration = "3:44"
