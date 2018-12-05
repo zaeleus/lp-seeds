@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-bo-ram/hayan-christmas/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-bo-ram/hayan-christmas"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "lee-bo-ram/hayan-christmas-inst"
+duration = "3:14"

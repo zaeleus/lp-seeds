@@ -1,0 +1,5 @@
+names = [
+  { name = "하얀 크리스마스 (Inst.)", locale = "ko", original = true },
+  { name = "Hayan Christmas (Inst.)", locale = "ko-Latn", default = true },
+  { name = "White Christmas (Inst.)", locale = "en" },
+]
