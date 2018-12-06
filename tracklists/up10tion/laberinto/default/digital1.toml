@@ -1,0 +1,38 @@
+medium-ids = [
+  "up10tion/laberinto/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "up10tion/laberinto"
+duration = "0:55"
+
+[[tracks]]
+position = 2
+song-id = "up10tion/blue-rose"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "up10tion/burning"
+duration = "3:24"
+
+[[tracks]]
+position = 4
+song-id = "up10tion/turn-up-the-night"
+duration = "3:25"
+
+[[tracks]]
+position = 5
+song-id = "up10tion/midnight"
+duration = "3:31"
+
+[[tracks]]
+position = 6
+song-id = "up10tion/happy-birthday"
+duration = "3:09"
+
+[[tracks]]
+position = 7
+song-id = "up10tion/with-you"
+duration = "3:30"
