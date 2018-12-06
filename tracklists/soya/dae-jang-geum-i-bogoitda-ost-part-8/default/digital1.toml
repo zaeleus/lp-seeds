@@ -1,0 +1,13 @@
+medium-ids = [
+  "soya/dae-jang-geum-i-bogoitda-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "soya/neoro-jam-motdeuneun-i-bam"
+duration = "4:31"
+
+[[tracks]]
+position = 2
+song-id = "soya/neoro-jam-motdeuneun-i-bam-inst"
+duration = "4:31"
