@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1991-06-07"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "릴보이", locale = "ko", kind = "stage", original = true },
+  { name = "Lil Boi", locale = "ko-Latn", kind = "stage", default = true },
+]

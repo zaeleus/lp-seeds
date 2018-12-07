@@ -1,0 +1,13 @@
+medium-ids = [
+  "lil-boi/david/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lil-boi/go"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "lil-boi/david"
+duration = "4:20"
