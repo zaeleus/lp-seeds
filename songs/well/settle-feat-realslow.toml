@@ -1,0 +1,4 @@
+names = [
+  { name = "Settle (feat. 휘성 (Realslow))", locale = "ko", original = true },
+  { name = "Settle (feat. Realslow)", locale = "ko-Latn", default = true },
+]
