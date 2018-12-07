@@ -1,0 +1,5 @@
+names = [
+  { name = "180도 (Inst.)", locale = "ko", original = true },
+  { name = "180-do (Inst.)", locale = "ko-Latn", default = true },
+  { name = "180˚ (Inst.)", locale = "en" },
+]
