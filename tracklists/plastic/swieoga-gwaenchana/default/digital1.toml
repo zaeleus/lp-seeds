@@ -1,0 +1,13 @@
+medium-ids = [
+  "plastic/swieoga-gwaenchana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "plastic/swieoga-gwaenchana"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "plastic/swieoga-gwaenchana-inst"
+duration = "3:33"
