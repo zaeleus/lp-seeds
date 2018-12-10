@@ -1,0 +1,5 @@
+names = [
+  { name = "행복했던 날들이었다", locale = "ko", original = true },
+  { name = "Haengbokhaetdeon Naldeurieotda", locale = "ko-Latn", default = true },
+  { name = "days gone by", locale = "en" },
+]
