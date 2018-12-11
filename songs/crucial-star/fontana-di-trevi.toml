@@ -1,0 +1,3 @@
+names = [
+  { name = "Fontana di Trevi", locale = "ko", original = true, default = true },
+]

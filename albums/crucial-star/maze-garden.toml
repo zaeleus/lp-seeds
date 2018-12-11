@@ -1,0 +1,14 @@
+artist-id = "crucial-star"
+kind = "lp"
+
+names = [
+  { name = "Maze Garden", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-12-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10231584" },
+]

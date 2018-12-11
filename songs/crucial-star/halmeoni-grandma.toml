@@ -1,0 +1,5 @@
+names = [
+  { name = "할머니 (Grandma)", locale = "ko", original = true },
+  { name = "Halmeoni (Grandma)", locale = "ko-Latn", default = true },
+  { name = "Grandma", locale = "en" },
+]

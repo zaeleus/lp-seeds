@@ -1,0 +1,5 @@
+names = [
+  { name = "세레머니 (CELEBRATION) (feat. Rick Bridges)", locale = "ko", original = true },
+  { name = "Seremeoni (CELEBRATION) (feat. Rick Bridges)", locale = "ko-Latn" },
+  { name = "Ceremony (CELEBRATION) (feat. Rick Bridges)", locale = "en", default = true },
+]
