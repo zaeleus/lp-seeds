@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1987-09-08"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "진실", locale = "ko", kind = "stage", original = true },
+  { name = "Jinsil", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박진실", locale = "ko", kind = "real" },
+  { name = "Park Jin Sil", locale = "ko-Latn", kind = "real" },
+]
