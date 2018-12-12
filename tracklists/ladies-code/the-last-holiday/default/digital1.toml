@@ -1,0 +1,13 @@
+medium-ids = [
+  "ladies-code/the-last-holiday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ladies-code/the-last-holiday"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "ladies-code/the-last-holiday-inst"
+duration = "3:08"
