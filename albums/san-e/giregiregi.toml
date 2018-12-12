@@ -1,0 +1,16 @@
+artist-id = "san-e"
+kind = "single"
+
+names = [
+  { name = "기레기레기", locale = "ko", original = true },
+  { name = "Giregiregi", locale = "ko-Latn", default = true },
+  { name = "Trash Journalist", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-12-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10231014" },
+]

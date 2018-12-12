@@ -1,0 +1,5 @@
+names = [
+  { name = "기레기레기 (Inst.)", locale = "ko", original = true },
+  { name = "Giregiregi (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Trash Journalist (Inst.)", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "기레기레기 (Acappella)", locale = "ko", original = true },
+  { name = "Giregiregi (Acappella)", locale = "ko-Latn", default = true },
+  { name = "Trash Journalist (Acappella)", locale = "en" },
+]

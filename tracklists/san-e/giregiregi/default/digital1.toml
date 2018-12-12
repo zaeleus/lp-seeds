@@ -1,0 +1,18 @@
+medium-ids = [
+  "san-e/giregiregi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "san-e/giregiregi"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "san-e/giregiregi-inst"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "san-e/giregiregi-acappella"
+duration = "3:26"
