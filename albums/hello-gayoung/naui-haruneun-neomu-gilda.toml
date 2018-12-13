@@ -1,0 +1,15 @@
+artist-id = "hello-gayoung"
+kind = "single"
+
+names = [
+  { name = "나의 하루는 너무 길다", locale = "ko", original = true },
+  { name = "Naui Haruneun Neomu Gilda", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-12-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10232841" },
+]
