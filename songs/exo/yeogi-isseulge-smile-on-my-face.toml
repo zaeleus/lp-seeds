@@ -1,0 +1,5 @@
+names = [
+  { name = "여기 있을게 (Smile On My Face)", locale = "ko", original = true },
+  { name = "Yeogi Isseulge (Smile On My Face)", locale = "ko-Latn", default = true },
+  { name = "Smile On My Face", locale = "en" },
+]

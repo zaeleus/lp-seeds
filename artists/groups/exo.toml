@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2012"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "EXO", locale = "ko", original = true, default = true },
+]

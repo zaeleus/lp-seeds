@@ -1,0 +1,5 @@
+names = [
+  { name = "후폭풍 (Bad Dream)", locale = "ko", original = true },
+  { name = "Hupokpung (Bad Dream)", locale = "ko-Latn", default = true },
+  { name = "Bad Dream", locale = "en" },
+]

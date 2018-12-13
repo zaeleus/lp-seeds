@@ -1,0 +1,5 @@
+names = [
+  { name = "닿은 순간 (Ooh La La La)", locale = "ko", original = true },
+  { name = "Daeun Sungan (Ooh La La La)", locale = "ko-Latn", default = true },
+  { name = "Ooh La La La", locale = "en" },
+]
