@@ -1,0 +1,16 @@
+artist-id = "younha"
+kind = "single"
+
+names = [
+  { name = "느린 우체통", locale = "ko", original = true },
+  { name = "Neurin Uchetong", locale = "ko-Latn", default = true },
+  { name = "Snail Mail", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-12-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10233263" },
+]

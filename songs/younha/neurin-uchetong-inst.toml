@@ -1,0 +1,5 @@
+names = [
+  { name = "느린 우체통 (Inst.)", locale = "ko", original = true },
+  { name = "Neurin Uchetong (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Snail Mail (Inst.)", locale = "en" },
+]

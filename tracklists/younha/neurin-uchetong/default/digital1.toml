@@ -1,0 +1,13 @@
+medium-ids = [
+  "younha/neurin-uchetong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "younha/neurin-uchetong"
+duration = "4:12"
+
+[[tracks]]
+position = 2
+song-id = "younha/neurin-uchetong-inst"
+duration = "4:12"
