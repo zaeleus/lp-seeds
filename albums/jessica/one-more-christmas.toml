@@ -1,0 +1,14 @@
+artist-id = "jessica"
+kind = "single"
+
+names = [
+  { name = "One More Christmas", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-12-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10232992" },
+]
