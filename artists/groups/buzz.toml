@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2003"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "버즈", locale = "ko", original = true },
+  { name = "Buzz", locale = "en", default = true },
+]

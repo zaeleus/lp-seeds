@@ -1,0 +1,14 @@
+artist-id = "buzz"
+kind = "ep"
+
+names = [
+  { name = "15", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-12-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10233047" },
+]
