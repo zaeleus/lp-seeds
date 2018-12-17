@@ -1,0 +1,18 @@
+medium-ids = [
+  "saturday/to-sunday-christmas/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saturday/all-i-want-for-christmas-is-you"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "saturday/in-your-eyes"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song-id = "saturday/kiss-me"
+duration = "2:52"

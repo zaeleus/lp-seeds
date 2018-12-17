@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "세러데이", locale = "ko", original = true },
+  { name = "SATURDAY", locale = "en", default = true },
+]
