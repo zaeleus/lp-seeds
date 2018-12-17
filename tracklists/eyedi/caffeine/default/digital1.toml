@@ -1,0 +1,18 @@
+medium-ids = [
+  "eyedi/caffeine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eyedi/caffeine"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "eyedi/caffeine-odd-icon-remix"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "eyedi/caffeine-inst"
+duration = "3:17"
