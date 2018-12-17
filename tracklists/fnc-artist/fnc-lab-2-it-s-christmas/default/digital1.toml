@@ -1,0 +1,13 @@
+medium-ids = [
+  "fnc-artist/fnc-lab-2-it-s-christmas/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fnc-artist/it-s-christmas"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "fnc-artist/it-s-christmas-inst"
+duration = "3:51"
