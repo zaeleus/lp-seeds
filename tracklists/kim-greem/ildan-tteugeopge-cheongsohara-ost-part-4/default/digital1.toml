@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-greem/ildan-tteugeopge-cheongsohara-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-greem/jom-deo-jallaeyo"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "kim-greem/jom-deo-jallaeyo-inst"
+duration = "3:57"
