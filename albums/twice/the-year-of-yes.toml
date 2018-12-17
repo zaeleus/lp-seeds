@@ -2,7 +2,7 @@ artist-id = "twice"
 kind = "ep"
 
 names = [
-  { name = "The year of "YES"", locale = "ko", original = true, default = true },
+  { name = 'The year of "YES"', locale = "ko", original = true, default = true },
 ]
 
 [[releases]]
