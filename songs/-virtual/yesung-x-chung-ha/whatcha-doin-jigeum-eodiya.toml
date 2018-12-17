@@ -1,0 +1,16 @@
+names = [
+  { name = "Whatcha Doin' (지금 어디야?)", locale = "ko", original = true },
+  { name = "Whatcha Doin' (Jigeum Eodiya?)", locale = "ko-Latn", default = true },
+  { name = "Whatcha Doin'", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "super-junior/yesung"
+names = [
+  { name = "예성", locale = "ko", original = true },
+  { name = "YESUNG", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "chung-ha"
