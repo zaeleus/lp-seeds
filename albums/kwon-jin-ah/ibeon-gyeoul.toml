@@ -1,0 +1,16 @@
+artist-id = "kwon-jin-ah"
+kind = "single"
+
+names = [
+  { name = "이번 겨울", locale = "ko", original = true },
+  { name = "Ibeon Gyeoul", locale = "ko-Latn", default = true },
+  { name = "This Winter", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-12-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10233782" },
+]
