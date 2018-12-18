@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/yeri-x-nct/dreamworks-trolls-x-sm-station/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/yeri-x-nct/hair-in-the-air-sung-by-yeri-renjun-jeno-jaemin"
+duration = "2:48"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/yeri-x-nct/best-day-ever-sung-by-haechan-chenle-jisung"
+duration = "2:29"

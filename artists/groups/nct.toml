@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2016"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "NCT", locale = "ko", original = true, default = true },
+]

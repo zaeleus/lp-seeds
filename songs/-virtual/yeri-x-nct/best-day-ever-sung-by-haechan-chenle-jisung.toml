@@ -1,0 +1,16 @@
+names = [
+  { name = "Best Day Ever (Sung By 해찬, 천러, 지성)", locale = "ko", original = true },
+  { name = "Best Day Ever (Sung By HAECHAN, CHENLE, JISUNG)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "red-velvet/yeri"
+names = [
+  { name = "예리", locale = "ko", original = true },
+  { name = "YERI", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "nct"
+

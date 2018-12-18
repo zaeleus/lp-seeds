@@ -1,0 +1,27 @@
+artist-id = "-virtual/yeri-x-nct"
+kind = "single"
+
+names = [
+  { name = "드림웍스 트롤 X SM STATION", locale = "ko", original = true },
+  { name = "Deurimwokseu Teurol X SM STATION", locale = "ko-Latn" },
+  { name = "DreamWorks Trolls X SM STATION", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "red-velvet/yeri"
+names = [
+  { name = "예리", locale = "ko", original = true },
+  { name = "YERI", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "nct"
+
+[[releases]]
+released-on = "2018-12-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10232842" },
+]
