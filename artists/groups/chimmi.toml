@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2008"
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "취미", locale = "ko", original = true },
+  { name = "CHIMMI", locale = "ko-Latn", default = true },
+]
