@@ -1,0 +1,28 @@
+medium-ids = [
+  "mia/movie-screen/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mia/loveless"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "mia/blind"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song-id = "mia/jal-jinae"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "mia/oh-ah-feat-ammy"
+duration = "3:33"
+
+[[tracks]]
+position = 5
+song-id = "mia/bihaenggi"
+duration = "3:59"
