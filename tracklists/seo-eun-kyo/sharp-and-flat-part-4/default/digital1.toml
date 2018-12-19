@@ -1,0 +1,13 @@
+medium-ids = [
+  "seo-eun-kyo/sharp-and-flat-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seo-eun-kyo/love"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "seo-eun-kyo/love-inst"
+duration = "3:40"
