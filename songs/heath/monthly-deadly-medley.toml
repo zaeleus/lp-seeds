@@ -1,0 +1,4 @@
+names = [
+  { name = "月月 (Monthly Deadly Medley)", locale = "ko", original = true },
+  { name = "Monthly Deadly Medley", locale = "en", default = true },
+]

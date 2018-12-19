@@ -1,0 +1,15 @@
+artist-id = "heath"
+kind = "single"
+
+names = [
+  { name = "月月 (Monthly Deadly Medley)", locale = "ko", original = true },
+  { name = "Monthly Deadly Medley", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2018-12-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10234422" },
+]
