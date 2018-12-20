@@ -1,0 +1,5 @@
+names = [
+  { name = "쌓여 (Snow) (Inst.)", locale = "ko", original = true },
+  { name = "Ssayeo (Snow) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Snow (Inst.)", locale = "en" },
+]
