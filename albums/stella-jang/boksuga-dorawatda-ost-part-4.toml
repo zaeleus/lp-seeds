@@ -1,0 +1,16 @@
+artist-id = "stella-jang"
+kind = "single"
+
+names = [
+  { name = "복수가 돌아왔다 OST Part.4", locale = "ko", original = true },
+  { name = "Boksuga Dorawatda OST Part.4", locale = "ko-Latn", default = true },
+  { name = "My Strange Hero OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-12-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10234951" },
+]

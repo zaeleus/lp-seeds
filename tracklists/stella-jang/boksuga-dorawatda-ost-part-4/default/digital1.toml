@@ -1,0 +1,13 @@
+medium-ids = [
+  "stella-jang/boksuga-dorawatda-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stella-jang/love-story"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "stella-jang/love-story-inst"
+duration = "3:20"
