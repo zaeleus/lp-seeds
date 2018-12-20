@@ -1,0 +1,4 @@
+names = [
+  { name = "O.F.F (Feat. 개코, ELO)", locale = "ko", original = true },
+  { name = "O.F.F (Feat. Gaeko, ELO)", locale = "ko-Latn", default = true },
+]

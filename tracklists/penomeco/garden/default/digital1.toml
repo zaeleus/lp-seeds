@@ -1,0 +1,33 @@
+medium-ids = [
+  "penomeco/garden/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "penomeco/cool-feat-tobi-lou"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "penomeco/ohaema-feat-the-quiett"
+duration = "3:53"
+
+[[tracks]]
+position = 3
+song-id = "penomeco/no-5-feat-crush"
+duration = "3:10"
+
+[[tracks]]
+position = 4
+song-id = "penomeco/o-f-f-feat-gaeko-elo"
+duration = "4:02"
+
+[[tracks]]
+position = 5
+song-id = "penomeco/okay"
+duration = "3:30"
+
+[[tracks]]
+position = 6
+song-id = "penomeco/till-i-die"
+duration = "1:43"
