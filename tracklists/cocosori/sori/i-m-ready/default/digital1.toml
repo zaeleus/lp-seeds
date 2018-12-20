@@ -1,0 +1,13 @@
+medium-ids = [
+  "cocosori/sori/i-m-ready/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cocosori/sori/i-m-ready-ft-jaehyun"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "cocosori/sori/i-m-ready-instrumental"
+duration = "3:10"
