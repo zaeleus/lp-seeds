@@ -1,0 +1,16 @@
+artist-id = "eric-nam"
+kind = "single"
+
+names = [
+  { name = "남자친구 OST Part 4", locale = "ko", original = true },
+  { name = "Namjachingu OST Part 4", locale = "ko-Latn", default = true },
+  { name = "Encounter OST Part 4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-12-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10235437" },
+]

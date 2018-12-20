@@ -1,0 +1,13 @@
+medium-ids = [
+  "eric-nam/namjachingu-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eric-nam/geu-bam"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "eric-nam/geu-bam-inst"
+duration = "3:43"
