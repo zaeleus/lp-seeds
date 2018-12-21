@@ -1,0 +1,13 @@
+medium-ids = [
+  "zoin/i-gyeoul-geudaewa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zoin/i-gyeoul-geudaewa"
+duration = "4:22"
+
+[[tracks]]
+position = 2
+song-id = "zoin/i-gyeoul-geudaewa-inst"
+duration = "4:22"
