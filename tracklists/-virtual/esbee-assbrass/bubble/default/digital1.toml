@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/esbee-assbrass/bubble/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/esbee-assbrass/bubble"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/esbee-assbrass/bubble-inst"
+duration = "3:33"
