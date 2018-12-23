@@ -1,0 +1,9 @@
+names = [
+  { name = "유기농 (Feat. Reddy, NO:EL) (JVillian mix)", locale = "ko", original = true },
+  { name = "Yuginong (Feat. Reddy, NO:EL) (JVillian mix)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "bumkey", separator = ", " },
+  { artist-id = "hanhae" },
+]

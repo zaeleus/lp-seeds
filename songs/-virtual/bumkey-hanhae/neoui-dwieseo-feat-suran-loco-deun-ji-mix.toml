@@ -1,0 +1,9 @@
+names = [
+  { name = "너의 뒤에서 (Feat. 수란, 로꼬) (Deun Ji mix)", locale = "ko", original = true },
+  { name = "Neoui Dwieseo (Feat. Suran, Loco) (Deun Ji mix)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "bumkey", separator = ", " },
+  { artist-id = "hanhae" },
+]

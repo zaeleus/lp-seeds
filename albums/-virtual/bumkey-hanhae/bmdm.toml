@@ -1,0 +1,19 @@
+artist-id = "-virtual/bumkey-hanhae"
+kind = "ep"
+
+names = [
+  { name = "BMDM", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "bumkey", separator = ", " },
+  { artist-id = "hanhae" },
+]
+
+[[releases]]
+released-on = "2018-12-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10235869" },
+]

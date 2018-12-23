@@ -1,0 +1,9 @@
+names = [
+  { name = "너의 뒤에서 (Feat. 수란, 로꼬) (Dashorn mix)", locale = "ko", original = true },
+  { name = "Neoui Dwieseo (Feat. Suran, Loco) (Dashorn mix)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "bumkey", separator = ", " },
+  { artist-id = "hanhae" },
+]
