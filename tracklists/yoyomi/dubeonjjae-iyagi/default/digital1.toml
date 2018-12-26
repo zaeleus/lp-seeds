@@ -1,0 +1,13 @@
+medium-ids = [
+  "yoyomi/dubeonjjae-iyagi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yoyomi/sarangui-allam"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "yoyomi/sarangui-allam-inst"
+duration = "3:19"
