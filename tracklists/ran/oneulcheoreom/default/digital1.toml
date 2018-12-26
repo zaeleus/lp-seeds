@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/oneulcheoreom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/oneulcheoreom"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "ran/oneulcheoreom-inst"
+duration = "3:37"
