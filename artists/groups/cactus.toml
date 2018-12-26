@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2013"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "선인장", locale = "ko", original = true },
+  { name = "Cactus", locale = "en", default = true },
+]
