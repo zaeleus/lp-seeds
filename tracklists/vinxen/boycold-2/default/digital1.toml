@@ -1,0 +1,28 @@
+medium-ids = [
+  "vinxen/boycold-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vinxen/dp-prod-boycold"
+duration = "2:27"
+
+[[tracks]]
+position = 2
+song-id = "vinxen/gaori-feat-sik-k-prod-boycold"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "vinxen/36-pills-prod-boycold"
+duration = "3:01"
+
+[[tracks]]
+position = 4
+song-id = "vinxen/seonuiui-geojinmal-prod-boycold"
+duration = "3:42"
+
+[[tracks]]
+position = 5
+song-id = "vinxen/yeongi-feat-jung-in-prod-boycold"
+duration = "4:16"

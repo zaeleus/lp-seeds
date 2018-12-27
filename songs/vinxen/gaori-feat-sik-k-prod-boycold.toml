@@ -1,0 +1,4 @@
+names = [
+  { name = "가오리 (feat. 식케이 (SIK-K) (Prod. BOYCOLD))", locale = "ko", original = true },
+  { name = "Gaori (feat. SIK-K (Prod. BOYCOLD))", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,14 @@
+artist-id = "vinxen"
+kind = "ep"
+
+names = [
+  { name = "BOYCOLD 2", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-12-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10237257" },
+]
