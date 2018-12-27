@@ -1,0 +1,8 @@
+medium-ids = [
+  "ash-b/up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ash-b/up"
+duration = "3:51"
