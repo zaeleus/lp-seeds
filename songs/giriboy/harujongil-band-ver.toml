@@ -1,0 +1,4 @@
+names = [
+  { name = "하루종일 (Band Ver.)", locale = "ko", original = true },
+  { name = "Harujongil (Band Ver.)", locale = "ko-Latn", default = true },
+]

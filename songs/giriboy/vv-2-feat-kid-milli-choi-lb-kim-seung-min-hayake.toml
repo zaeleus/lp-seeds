@@ -1,0 +1,4 @@
+names = [
+  { name = "vv 2 (Feat. Kid Milli, 최엘비, 김승민, Hayake)", locale = "ko", original = true },
+  { name = "vv 2 (Feat. Kid Milli, Choi LB, Kim Seung Min, Hayake)", locale = "ko-Latn", default = true },
+]

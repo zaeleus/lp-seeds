@@ -1,0 +1,28 @@
+medium-ids = [
+  "giriboy/ttaengkyu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giriboy/mian-feat-olnl"
+duration = "4:23"
+
+[[tracks]]
+position = 2
+song-id = "giriboy/harujongil-band-ver"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "giriboy/2000-90-band-ver"
+duration = "3:46"
+
+[[tracks]]
+position = 4
+song-id = "giriboy/suljari-jiwoo-cover"
+duration = "3:41"
+
+[[tracks]]
+position = 5
+song-id = "giriboy/vv-2-feat-kid-milli-choi-lb-kim-seung-min-hayake"
+duration = "5:15"

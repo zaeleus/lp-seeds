@@ -1,0 +1,15 @@
+artist-id = "giriboy"
+kind = "ep"
+
+names = [
+  { name = "땡큐", locale = "ko", original = true },
+  { name = "Ttaengkyu", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-12-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10236963" },
+]
