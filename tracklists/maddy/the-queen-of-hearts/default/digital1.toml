@@ -1,0 +1,8 @@
+medium-ids = [
+  "maddy/the-queen-of-hearts/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "maddy/the-queen-of-hearts"
+duration = "3:39"

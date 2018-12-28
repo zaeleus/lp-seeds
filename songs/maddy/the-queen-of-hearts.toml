@@ -1,0 +1,3 @@
+names = [
+  { name = "The queen of hearts", locale = "ko", original = true, default = true },
+]
