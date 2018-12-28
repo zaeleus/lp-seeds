@@ -1,0 +1,13 @@
+medium-ids = [
+  "lovelyz/kim-ji-yeon/hwanghuui-pumgyeok-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lovelyz/kim-ji-yeon/maeumeul-jeonhamyeon"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "lovelyz/kim-ji-yeon/maeumeul-jeonhamyeon-inst"
+duration = "4:15"
