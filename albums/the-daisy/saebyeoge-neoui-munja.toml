@@ -1,0 +1,15 @@
+artist-id = "the-daisy"
+kind = "single"
+
+names = [
+  { name = "새벽에 너의 문자", locale = "ko", original = true },
+  { name = "Saebyeoge Neoui Munja", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-12-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10237802" },
+]

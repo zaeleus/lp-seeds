@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-daisy/saebyeoge-neoui-munja/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-daisy/saebyeoge-neoui-munja"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "the-daisy/saebyeoge-neoui-munja-inst"
+duration = "3:34"
