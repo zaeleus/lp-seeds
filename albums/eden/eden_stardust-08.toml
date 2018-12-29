@@ -1,0 +1,14 @@
+artist-id = "eden"
+kind = "single"
+
+names = [
+  { name = "EDEN_STARDUST.08", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-12-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10237530" },
+]
