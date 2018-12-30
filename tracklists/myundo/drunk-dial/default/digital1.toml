@@ -1,0 +1,8 @@
+medium-ids = [
+  "myundo/drunk-dial/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "myundo/drunk-dial"
+duration = "3:24"
