@@ -1,0 +1,11 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "락커스빈", locale = "ko", kind = "stage", original = true },
+  { name = "Lockers Been", locale = "en", kind = "stage", default = true },
+  { name = "최정빈", locale = "ko", kind = "real" },
+  { name = "Choi Jung Bin", locale = "ko-Latn", kind = "real" },
+]

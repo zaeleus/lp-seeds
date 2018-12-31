@@ -1,0 +1,13 @@
+medium-ids = [
+  "lockers-been/traffic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lockers-been/traffic-feat-diana"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "lockers-been/traffic-inst"
+duration = "3:20"
