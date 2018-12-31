@@ -1,0 +1,13 @@
+medium-ids = [
+  "kassy/geuttaega-joasseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/geuttaega-joasseo"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "kassy/geuttaega-joasseo-inst"
+duration = "3:56"
