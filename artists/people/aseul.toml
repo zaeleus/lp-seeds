@@ -7,5 +7,5 @@ names = [
   { name = "아슬", locale = "ko", kind = "stage", original = true },
   { name = "Aseul", locale = "ko-Latn", kind = "stage", default = true },
   { name = "이수정", locale = "ko", kind = "real" },
-  { name = "Lee Su Jeong", locale = "ko", kind = "real" },
+  { name = "Lee Su Jeong", locale = "ko-Latn", kind = "real" },
 ]
