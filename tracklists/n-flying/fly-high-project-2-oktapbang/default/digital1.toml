@@ -1,0 +1,13 @@
+medium-ids = [
+  "n-flying/fly-high-project-2-oktapbang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "n-flying/oktapbang"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "n-flying/winter-winter"
+duration = "3:12"
