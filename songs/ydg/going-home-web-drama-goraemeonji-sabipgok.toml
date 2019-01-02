@@ -1,0 +1,5 @@
+names = [
+  { name = "Going Home (웹드라마 '고래먼지' 삽입곡)", locale = "ko", original = true },
+  { name = "Going Home (Web Drama 'Goraemeonji' Sabipgok)", locale = "ko-Latn", default = true },
+  { name = "Going Home (Web Drama 'Ambergris' Soundtrack)", locale = "en" },
+]
