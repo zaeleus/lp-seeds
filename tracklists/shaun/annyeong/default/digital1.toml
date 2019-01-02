@@ -1,0 +1,18 @@
+medium-ids = [
+  "shaun/annyeong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shaun/traveler"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "shaun/seupgwan-bad-habits"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "shaun/terminal"
+duration = "3:07"

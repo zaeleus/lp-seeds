@@ -1,0 +1,5 @@
+names = [
+  { name = "습관 (Bad Habits)", locale = "ko", original = true },
+  { name = "Seupgwan (Bad Habits)", locale = "ko-Latn", default = true },
+  { name = "Bad Habits", locale = "en" },
+]
