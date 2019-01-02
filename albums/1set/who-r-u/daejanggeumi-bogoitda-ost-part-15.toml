@@ -1,0 +1,16 @@
+artist-id = "1set/who-r-u"
+kind = "single"
+
+names = [
+  { name = "대장금이 보고있다 OST Part.15", locale = "ko", original = true },
+  { name = "Daejanggeumi Bogoitda OST Part.15", locale = "ko-Latn", default = true },
+  { name = "Dae Jang Geum Is Watching OST Part.15", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-01-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10238434" },
+]

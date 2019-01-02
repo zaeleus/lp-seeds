@@ -1,0 +1,13 @@
+medium-ids = [
+  "1set/who-r-u/daejanggeumi-bogoitda-ost-part-15/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "1set/who-r-u/be-alright"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "1set/who-r-u/be-alright-inst"
+duration = "3:03"
