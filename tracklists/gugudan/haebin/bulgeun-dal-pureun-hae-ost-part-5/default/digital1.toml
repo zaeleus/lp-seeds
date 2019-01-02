@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan/haebin/bulgeun-dal-pureun-hae-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/haebin/geuttaebuteo"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/haebin/geuttaebuteo-inst"
+duration = "3:50"

@@ -1,0 +1,16 @@
+artist-id = "gugudan/haebin"
+kind = "single"
+
+names = [
+  { name = "붉은 달 푸른 해 OST Part.5", locale = "ko", original = true },
+  { name = "Bulgeun Dal Pureun Hae OST Part.5", locale = "ko-Latn", default = true },
+  { name = "Children of Nobody OST Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-01-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10238586" },
+]
