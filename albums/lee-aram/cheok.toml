@@ -1,0 +1,16 @@
+artist-id = "lee-aram"
+kind = "single"
+
+names = [
+  { name = "척", locale = "ko", original = true },
+  { name = "Cheok", locale = "ko-Latn", default = true },
+  { name = "Pretend", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-01-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10238795" },
+]

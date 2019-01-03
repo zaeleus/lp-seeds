@@ -1,0 +1,8 @@
+medium-ids = [
+  "lee-aram/cheok/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-aram/cheok"
+duration = "3:36"
