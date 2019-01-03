@@ -1,0 +1,8 @@
+medium-ids = [
+  "grizzly/bench/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "grizzly/bench"
+duration = "3:19"
