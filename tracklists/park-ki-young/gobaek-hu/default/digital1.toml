@@ -1,0 +1,8 @@
+medium-ids = [
+  "park-ki-young/gobaek-hu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-ki-young/gobaek-hu"
+duration = "3:51"
