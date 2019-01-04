@@ -1,0 +1,14 @@
+artist-id = "black-nine"
+kind = "single"
+
+names = [
+  { name = "It's gonna be alright", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-01-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10239482" },
+]
