@@ -1,0 +1,8 @@
+medium-ids = [
+  "ydg/sarangui-taekbae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ydg/sarangui-taekbae"
+duration = "4:19"
