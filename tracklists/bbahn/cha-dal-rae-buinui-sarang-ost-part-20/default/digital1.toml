@@ -1,0 +1,13 @@
+medium-ids = [
+  "bbahn/cha-dal-rae-buinui-sarang-ost-part-20/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bbahn/geudaereul-damayo"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "bbahn/geudaereul-damayo-inst"
+duration = "3:47"
