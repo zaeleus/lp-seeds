@@ -1,0 +1,18 @@
+medium-ids = [
+  "f-x/luna/undago-even-so/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/luna/undago-even-so"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "f-x/luna/do-you-love-me-feat-george"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "f-x/luna/annyeong-idaero-annyeong-bye-bye"
+duration = "3:48"

@@ -1,0 +1,23 @@
+artist-id = "f-x/luna"
+kind = "single"
+
+names = [
+  { name = "운다고 (Even So)", locale = "ko", original = true },
+  { name = "Undago (Even So)", locale = "ko-Latn", default = true },
+  { name = "Even So", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "f-x/luna"
+names = [
+  { name = "루나", locale = "ko", original = true },
+  { name = "LUNA", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-01-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10239284" },
+]

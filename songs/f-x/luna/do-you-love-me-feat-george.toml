@@ -1,0 +1,11 @@
+names = [
+  { name = "Do You Love Me (Feat. 죠지)", locale = "ko", original = true },
+  { name = "Do You Love Me (Feat. George)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "f-x/luna"
+names = [
+  { name = "루나", locale = "ko", original = true },
+  { name = "LUNA", locale = "ko-Latn", default = true },
+]

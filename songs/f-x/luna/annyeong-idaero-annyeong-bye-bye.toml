@@ -1,0 +1,12 @@
+names = [
+  { name = "안녕 이대로 안녕 (BYE BYE)", locale = "ko", original = true },
+  { name = "Annyeong Idaero Annyeong (BYE BYE)", locale = "ko-Latn", default = true },
+  { name = "BYE BYE", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "f-x/luna"
+names = [
+  { name = "루나", locale = "ko", original = true },
+  { name = "LUNA", locale = "ko-Latn", default = true },
+]
