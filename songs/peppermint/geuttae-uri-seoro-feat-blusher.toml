@@ -1,0 +1,4 @@
+names = [
+  { name = "그때 우리 서로 (feat. 블러셔 (Blusher))", locale = "ko", original = true },
+  { name = "Geuttae Uri Seoro (feat. Blusher)", locale = "ko-Latn", default = true },
+]

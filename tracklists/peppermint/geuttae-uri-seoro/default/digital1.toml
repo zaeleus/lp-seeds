@@ -1,0 +1,13 @@
+medium-ids = [
+  "peppermint/geuttae-uri-seoro/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "peppermint/geuttae-uri-seoro-feat-blusher"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "peppermint/geuttae-uri-seoro-inst"
+duration = "3:30"
