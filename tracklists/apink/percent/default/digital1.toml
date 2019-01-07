@@ -1,0 +1,33 @@
+medium-ids = [
+  "apink/percent/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink/eung-eung"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "apink/anajwoyo"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "apink/neukkimjeogin-neukkim"
+duration = "3:40"
+
+[[tracks]]
+position = 4
+song-id = "apink/juldarigi"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "apink/enough"
+duration = "3:28"
+
+[[tracks]]
+position = 6
+song-id = "apink/gieok-deohagi"
+duration = "4:07"
