@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1997-04-07"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "제이나", locale = "ko", kind = "stage", original = true },
+  { name = "J;NA", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "장선영", locale = "ko", kind = "real" },
+  { name = "Jang Sun Young", locale = "ko-Latn", kind = "real" },
+]
