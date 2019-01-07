@@ -1,0 +1,4 @@
+names = [
+  { name = "행복 (Feat. Poy Museum)", locale = "ko", original = true },
+  { name = "Haengbok (Feat. Poy Museum)", locale = "ko-Latn", default = true },
+]
