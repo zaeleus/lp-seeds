@@ -1,0 +1,13 @@
+medium-ids = [
+  "sistar/hyo-rin/dongnebyeonhosa-jodeulho-2-joewa-beol-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sistar/hyo-rin/stay"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "sistar/hyo-rin/stay-inst"
+duration = "3:48"
