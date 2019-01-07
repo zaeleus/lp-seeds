@@ -1,0 +1,13 @@
+medium-ids = [
+  "eun-ga-eun/heeojijaneun-mare-iyureul-chajasseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eun-ga-eun/heeojijaneun-mare-iyureul-chajasseo"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "eun-ga-eun/heeojijaneun-mare-iyureul-chajasseo-inst"
+duration = "4:03"
