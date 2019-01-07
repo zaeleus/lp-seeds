@@ -1,0 +1,28 @@
+medium-ids = [
+  "se-a/purple-ep/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "se-a/little-love"
+duration = "2:50"
+
+[[tracks]]
+position = 2
+song-id = "se-a/over-feat-crucial-star"
+duration = "3:59"
+
+[[tracks]]
+position = 3
+song-id = "se-a/purple"
+duration = "3:07"
+
+[[tracks]]
+position = 4
+song-id = "se-a/wya-feat-verbal-jint"
+duration = "3:30"
+
+[[tracks]]
+position = 5
+song-id = "se-a/trouble"
+duration = "3:09"

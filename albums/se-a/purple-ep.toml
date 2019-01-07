@@ -1,0 +1,14 @@
+artist-id = "se-a"
+kind = "ep"
+
+names = [
+  { name = "Purple: EP", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-05-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10163123" },
+]
