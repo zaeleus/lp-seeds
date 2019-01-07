@@ -1,0 +1,14 @@
+artist-id = "se-a"
+kind = "single"
+
+names = [
+  { name = "Liar", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2014-03-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2236960" },
+]
