@@ -1,0 +1,14 @@
+artist-id = "moonsound"
+kind = "single"
+
+names = [
+  { name = "Cosmic Walk", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-01-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10239721" },
+]

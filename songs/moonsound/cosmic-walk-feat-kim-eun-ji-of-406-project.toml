@@ -1,0 +1,4 @@
+names = [
+  { name = "Cosmic Walk (Feat. 김은지 of 406호 프로젝트)", locale = "ko", original = true },
+  { name = "Cosmic Walk (Feat. Kim Eun Ji of 406 Project)", locale = "ko-Latn", default = true },
+]
