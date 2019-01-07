@@ -1,0 +1,13 @@
+medium-ids = [
+  "motte/boksuga-dorawatda-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "motte/baeung"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "motte/baeung-inst"
+duration = "3:26"
