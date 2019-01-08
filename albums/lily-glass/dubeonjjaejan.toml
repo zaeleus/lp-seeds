@@ -1,0 +1,15 @@
+artist-id = "lily-glass"
+kind = "ep"
+
+names = [
+  { name = "두번째잔", locale = "ko", original = true },
+  { name = "Dubeonjjaejan", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-01-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10239921" },
+]

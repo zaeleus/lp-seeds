@@ -1,0 +1,10 @@
+kind = "group"
+started-on = "2011"
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "백합유리잔", locale = "ko", original = true },
+  { name = "Baekhabyurijan", locale = "ko-Latn" },
+  { name = "Lily Glass", locale = "en", default = true },
+]
