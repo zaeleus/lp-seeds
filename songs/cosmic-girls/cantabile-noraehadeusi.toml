@@ -1,0 +1,4 @@
+names = [
+  { name = "칸타빌레 (노래하듯이)", locale = "ko", original = true },
+  { name = "Cantabile (Noraehadeusi)", locale = "ko-Latn", default = true },
+]

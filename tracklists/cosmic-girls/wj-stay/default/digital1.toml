@@ -1,0 +1,38 @@
+medium-ids = [
+  "cosmic-girls/wj-stay/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cosmic-girls/la-la-love"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "cosmic-girls/you-got"
+duration = "3:35"
+
+[[tracks]]
+position = 3
+song-id = "cosmic-girls/1-eokgaeui-byeol"
+duration = "4:16"
+
+[[tracks]]
+position = 4
+song-id = "cosmic-girls/geuttae-uri"
+duration = "3:10"
+
+[[tracks]]
+position = 5
+song-id = "cosmic-girls/cantabile-noraehadeusi"
+duration = "3:26"
+
+[[tracks]]
+position = 6
+song-id = "cosmic-girls/12-o-clock"
+duration = "3:36"
+
+[[tracks]]
+position = 7
+song-id = "cosmic-girls/ujujeonggeojang"
+duration = "3:07"
