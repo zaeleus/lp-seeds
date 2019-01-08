@@ -1,0 +1,4 @@
+names = [
+  { name = "Twilight (Feat. 주호 of SF9)", locale = "ko", original = true },
+  { name = "Twilight (Feat. Zuho of SF9)", locale = "ko-Latn", default = true },
+]
