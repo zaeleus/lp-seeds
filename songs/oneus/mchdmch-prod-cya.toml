@@ -1,0 +1,5 @@
+names = [
+  { name = "ㅁㅊㄷㅁㅊㅇ (Prod. CyA)", locale = "ko", original = true },
+  { name = "MCHDMCH (Prod. CyA)", locale = "ko-Latn", default = true },
+  { name = "Crazy & Crazy (Prod. CyA)", locale = "en" },
+]

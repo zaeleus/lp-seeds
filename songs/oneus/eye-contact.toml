@@ -1,0 +1,3 @@
+names = [
+  { name = "EYE CONTACT", locale = "ko", original = true, default = true },
+]

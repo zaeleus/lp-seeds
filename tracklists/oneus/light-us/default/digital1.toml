@@ -1,0 +1,38 @@
+medium-ids = [
+  "oneus/light-us/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oneus/intro-light-us"
+duration = "1:03"
+
+[[tracks]]
+position = 2
+song-id = "oneus/ppittul-ppaettul"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "oneus/valkyrie"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "oneus/bulgeun-sil-red-thread"
+duration = "3:55"
+
+[[tracks]]
+position = 5
+song-id = "oneus/eye-contact"
+duration = "3:14"
+
+[[tracks]]
+position = 6
+song-id = "oneus/hero"
+duration = "3:14"
+
+[[tracks]]
+position = 7
+song-id = "oneus/mchdmch-prod-cya"
+duration = "3:41"

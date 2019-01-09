@@ -1,0 +1,5 @@
+names = [
+  { name = "붉은 실 (Red Thread)", locale = "ko", original = true },
+  { name = "Bulgeun Sil (Red Thread)", locale = "ko-Latn", default = true },
+  { name = "Red Thread", locale = "en" },
+]
