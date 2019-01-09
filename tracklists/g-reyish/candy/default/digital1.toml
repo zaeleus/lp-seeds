@@ -1,0 +1,13 @@
+medium-ids = [
+  "g-reyish/candy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-reyish/candy"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "g-reyish/candy-inst"
+duration = "2:56"

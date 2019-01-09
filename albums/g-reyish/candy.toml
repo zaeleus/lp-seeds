@@ -1,0 +1,16 @@
+artist-id = "g-reyish"
+kind = "single"
+
+names = [
+  { name = "캔디", locale = "ko", original = true },
+  { name = "Kaendi", locale = "ko-Latn" },
+  { name = "Candy", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-01-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10240238" },
+]

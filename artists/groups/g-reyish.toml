@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "G-reyish", locale = "ko", original = true, default = true },
+]
