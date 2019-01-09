@@ -1,0 +1,11 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "로니 추", locale = "ko", kind = "stage", original = true },
+  { name = "Ronny Chu", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "추은지", locale = "ko", kind = "real" },
+  { name = "Chu Eun Ji", locale = "ko-Latn", kind = "real" },
+]
