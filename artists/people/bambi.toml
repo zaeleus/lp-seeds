@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1997-08-02"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "밤비", locale = "ko", kind = "stage", original = true },
+  { name = "Bambi", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김수지", locale = "ko", kind = "real" },
+  { name = "Kim Soo Ji", locale = "ko-Latn", kind = "real" },
+]
