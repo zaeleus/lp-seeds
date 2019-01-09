@@ -1,0 +1,16 @@
+artist-id = "sohee"
+kind = "single"
+
+names = [
+  { name = "최고의 치킨 OST Part.2", locale = "ko", original = true },
+  { name = "Choegoui Chicken OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Best Chicken OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-01-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10240689" },
+]

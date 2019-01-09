@@ -1,0 +1,13 @@
+medium-ids = [
+  "sohee/choegoui-chicken-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sohee/dr-dream"
+duration = "4:06"
+
+[[tracks]]
+position = 2
+song-id = "sohee/dr-dream-inst"
+duration = "4:06"
