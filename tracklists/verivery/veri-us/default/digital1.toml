@@ -1,0 +1,28 @@
+medium-ids = [
+  "verivery/veri-us/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "verivery/bulleojwo-ring-ring-ring"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "verivery/flower"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "verivery/f-i-l"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "verivery/alright"
+duration = "3:08"
+
+[[tracks]]
+position = 5
+song-id = "verivery/super-special-acoustic-ver"
+duration = "2:59"

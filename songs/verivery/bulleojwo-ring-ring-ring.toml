@@ -1,0 +1,5 @@
+names = [
+  { name = "불러줘 (Ring Ring Ring)", locale = "ko", original = true },
+  { name = "Bulleojwo (Ring Ring Ring)", locale = "ko-Latn", default = true },
+  { name = "Ring Ring Ring", locale = "en" },
+]

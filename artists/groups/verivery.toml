@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "VERIVERY", locale = "ko", original = true, default = true },
+]
