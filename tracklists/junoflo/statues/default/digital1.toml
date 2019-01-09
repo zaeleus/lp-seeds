@@ -1,0 +1,63 @@
+medium-ids = [
+  "junoflo/statues/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "junoflo/icarus"
+duration = "2:34"
+
+[[tracks]]
+position = 2
+song-id = "junoflo/statues"
+duration = "2:54"
+
+[[tracks]]
+position = 3
+song-id = "junoflo/sportage-07"
+duration = "3:33"
+
+[[tracks]]
+position = 4
+song-id = "junoflo/autopilot-feat-boa"
+duration = "3:21"
+
+[[tracks]]
+position = 5
+song-id = "junoflo/monday-blues-feat-g2"
+duration = "3:19"
+
+[[tracks]]
+position = 6
+song-id = "junoflo/yung-luchini-bibi-interlude"
+duration = "4:51"
+
+[[tracks]]
+position = 7
+song-id = "junoflo/ausgang-exit-feat-dj-zo"
+duration = "2:05"
+
+[[tracks]]
+position = 8
+song-id = "junoflo/palm-trees"
+duration = "3:08"
+
+[[tracks]]
+position = 9
+song-id = "junoflo/cliche"
+duration = "3:28"
+
+[[tracks]]
+position = 10
+song-id = "junoflo/fools-gold"
+duration = "2:34"
+
+[[tracks]]
+position = 11
+song-id = "junoflo/sikgu-la-familia"
+duration = "3:07"
+
+[[tracks]]
+position = 12
+song-id = "junoflo/curtain-call-outro"
+duration = "3:49"

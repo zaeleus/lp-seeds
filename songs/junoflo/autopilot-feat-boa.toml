@@ -1,3 +1,3 @@
 names = [
-  { name = "Autopilot (Feat. BoA)", locale = "ko", original = true, default = true },
+  { name = "Autopilot (feat. BoA)", locale = "ko", original = true, default = true },
 ]
