@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/yesung-x-bumkey/carpet/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/yesung-x-bumkey/carpet"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/yesung-x-bumkey/carpet-inst"
+duration = "3:43"

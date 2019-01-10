@@ -1,0 +1,25 @@
+artist-id = "-virtual/yesung-x-bumkey"
+kind = "single"
+
+names = [
+  { name = "Carpet", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "super-junior/yesung"
+names = [
+  { name = "예성", locale = "ko", original = true },
+  { name = "YESUNG", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "bumkey"
+
+[[releases]]
+released-on = "2019-01-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10241325" },
+]
