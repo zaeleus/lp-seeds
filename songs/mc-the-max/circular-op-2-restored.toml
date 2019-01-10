@@ -1,0 +1,3 @@
+names = [
+  { name = "Circular OP.2 (Restored)", locale = "ko", original = true, default = true },
+]

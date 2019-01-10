@@ -1,0 +1,3 @@
+names = [
+  { name = "Circular OP.1 (Crevasse)", locale = "ko", original = true, default = true },
+]

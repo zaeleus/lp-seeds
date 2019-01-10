@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2002"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "엠씨더맥스", locale = "ko", original = true },
+  { name = "MC the MAX", locale = "en", default = true },
+]
