@@ -1,0 +1,4 @@
+names = [
+  { name = "니가 다시 돌아올 수 있도록 (Prod. 윤계상)", locale = "ko", original = true },
+  { name = "Niga Dasi Doraol Su Itdorok (Prod. Yoon Gye Sang)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "나는 알아 (Prod. 박준형)", locale = "ko", original = true },
+  { name = "Naneun Ara (Prod. Park Jun Hyung)", locale = "ko-Latn", default = true },
+]

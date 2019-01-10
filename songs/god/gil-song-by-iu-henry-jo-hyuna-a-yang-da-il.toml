@@ -1,0 +1,5 @@
+names = [
+  { name = "길 (Song by 아이유, 헨리, 조현아, 양다일)", locale = "ko", original = true },
+  { name = "Gil (Song by IU, Henry, Jo Hyuna A, Yang Da Il)", locale = "ko-Latn", default = true },
+  { name = "Road (Song by IU, Henry, Jo Hyuna A, Yang Da Il)", locale = "en" },
+]

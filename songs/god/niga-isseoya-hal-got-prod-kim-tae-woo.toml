@@ -1,0 +1,4 @@
+names = [
+  { name = "니가 있어야 할 곳 (Prod. 김태우)", locale = "ko", original = true },
+  { name = "Niga Isseoya Hal Got (Prod. Kim Tae Woo)", locale = "ko-Latn", default = true },
+]
