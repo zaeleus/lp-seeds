@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "모자루트", locale = "ko", original = true },
+  { name = "Mozaroot", locale = "en", default = true },
+]

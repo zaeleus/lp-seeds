@@ -1,0 +1,13 @@
+medium-ids = [
+  "mozaroot/byeol-gyae-da-geurimne/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mozaroot/byeol-gyae-da-geurimne"
+duration = "4:10"
+
+[[tracks]]
+position = 2
+song-id = "mozaroot/byeol-gyae-da-geurimne-inst"
+duration = "4:10"

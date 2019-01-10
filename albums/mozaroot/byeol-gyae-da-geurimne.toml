@@ -1,0 +1,15 @@
+artist-id = "mozaroot"
+kind = "single"
+
+names = [
+  { name = "별, 걔 다 그립네", locale = "ko", original = true },
+  { name = "Byeol, Gyae Da Geurimne", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-01-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10240341" },
+]
