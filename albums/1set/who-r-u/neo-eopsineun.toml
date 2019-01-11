@@ -1,0 +1,15 @@
+artist-id = "1set/who-r-u"
+kind = "single"
+
+names = [
+  { name = "너 없이는", locale = "ko", original = true },
+  { name = "Neo Eopsineun", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-01-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10241269" },
+]
