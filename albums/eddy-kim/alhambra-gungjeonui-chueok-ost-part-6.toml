@@ -1,0 +1,16 @@
+artist-id = "eddy-kim"
+kind = "single"
+
+names = [
+  { name = "알함브라 궁전의 추억 OST Part 6", locale = "ko", original = true },
+  { name = "Alhambra Gungjeonui Chueok OST Part 6", locale = "ko-Latn", default = true },
+  { name = "Memories of the Alhambra OST Part 6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-01-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10241310" },
+]

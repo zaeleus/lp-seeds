@@ -1,0 +1,13 @@
+medium-ids = [
+  "eddy-kim/alhambra-gungjeonui-chueok-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eddy-kim/urin-eojjeomyeon"
+duration = "4:54"
+
+[[tracks]]
+position = 2
+song-id = "eddy-kim/urin-eojjeomyeon-inst"
+duration = "4:54"
