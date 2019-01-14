@@ -1,0 +1,5 @@
+names = [
+  { name = "해야 (Sunrise)", locale = "ko", original = true },
+  { name = "Haeya (Sunrise)", locale = "ko-Latn", default = true },
+  { name = "Sunrise", locale = "en" },
+]

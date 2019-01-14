@@ -1,0 +1,5 @@
+names = [
+  { name = "GLOW (만화경)", locale = "ko", original = true },
+  { name = "GLOW (Manhwagyeong)", locale = "ko-Latn", default = true },
+  { name = "GLOW", locale = "en" },
+]

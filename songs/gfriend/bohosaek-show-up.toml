@@ -1,0 +1,5 @@
+names = [
+  { name = "보호색 (Show Up)", locale = "ko", original = true },
+  { name = "Bohosaek (Show Up)", locale = "ko-Latn", default = true },
+  { name = "Show Up", locale = "en" },
+]

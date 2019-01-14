@@ -1,0 +1,5 @@
+names = [
+  { name = "기적을 넘어 (L.U.V.)", locale = "ko", original = true },
+  { name = "Gijeogeul Neomeo (L.U.V.)", locale = "ko-Latn", default = true },
+  { name = "L.U.V.", locale = "en" },
+]
