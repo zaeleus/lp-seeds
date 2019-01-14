@@ -1,0 +1,13 @@
+medium-ids = [
+  "huh-gak/ildan-tteugeopge-cheongsohara-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "huh-gak/cosmos"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "huh-gak/cosmos-inst"
+duration = "4:14"
