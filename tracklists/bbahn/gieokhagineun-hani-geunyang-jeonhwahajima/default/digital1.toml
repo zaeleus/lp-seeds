@@ -1,0 +1,28 @@
+medium-ids = [
+  "bbahn/gieokhagineun-hani-geunyang-jeonhwahajima/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bbahn/gieokhagineun-hani-geunyang-jeonhwahajima"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "bbahn/gapjagi-neomu-bogo-sipeojyeoseo"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "bbahn/apado-sarangin-geol-arayo"
+duration = "3:44"
+
+[[tracks]]
+position = 4
+song-id = "bbahn/chagapge-barami-bureo"
+duration = "2:48"
+
+[[tracks]]
+position = 5
+song-id = "bbahn/gieokhagineun-hani-geunyang-jeonhwahajima-inst"
+duration = "3:29"

@@ -1,0 +1,15 @@
+artist-id = "bbahn"
+kind = "single"
+
+names = [
+  { name = "기억하기는 하니 그냥 전화하지마", locale = "ko", original = true },
+  { name = "Gieokhagineun Hani Geunyang Jeonhwahajima", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-01-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10241790" },
+]
