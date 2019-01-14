@@ -1,0 +1,8 @@
+medium-ids = [
+  "s2ren/sadream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "s2ren/sadream"
+duration = "3:54"
