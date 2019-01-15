@@ -1,0 +1,16 @@
+artist-id = "april"
+kind = "single"
+
+names = [
+  { name = "복수가 돌아왔다 OST Part.9", locale = "ko", original = true },
+  { name = "Boksuga Dorawatda OST Part.9", locale = "ko-Latn", default = true },
+  { name = "My Strange Hero OST Part.9", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-01-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10242194" },
+]
