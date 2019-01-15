@@ -1,0 +1,28 @@
+medium-ids = [
+  "favorite/loca/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "favorite/loca"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "favorite/fancy"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "favorite/hush"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "favorite/duriseo-two-of-us"
+duration = "3:27"
+
+[[tracks]]
+position = 5
+song-id = "favorite/loca-inst"
+duration = "3:25"
