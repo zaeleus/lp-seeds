@@ -1,0 +1,5 @@
+names = [
+  { name = "피어나 (Bloom)", locale = "ko", original = true },
+  { name = "Pieona (Bloom)", locale = "ko-Latn", default = true },
+  { name = "Bloom", locale = "en" },
+]
