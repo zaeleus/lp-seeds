@@ -1,0 +1,13 @@
+medium-ids = [
+  "dreamcatcher/haneureul-neomeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dreamcatcher/haneureul-neomeo"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "dreamcatcher/haneureul-neomeo-inst"
+duration = "3:18"

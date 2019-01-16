@@ -1,0 +1,5 @@
+names = [
+  { name = "하늘을 넘어 (Inst.)", locale = "ko", original = true },
+  { name = "Haneureul Neomeo (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Over the Sky (Inst.)", locale = "en" },
+]
