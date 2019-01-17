@@ -1,0 +1,16 @@
+artist-id = "ra-d"
+kind = "single"
+
+names = [
+  { name = "남자친구 OST Part 8", locale = "ko", original = true },
+  { name = "Namjachingu OST Part 8", locale = "ko-Latn", default = true },
+  { name = "Encounter OST Part 8", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-01-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10243361" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "ra-d/namjachingu-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ra-d/donghwa"
+duration = "5:06"
+
+[[tracks]]
+position = 2
+song-id = "ra-d/donghwa-inst"
+duration = "5:06"
