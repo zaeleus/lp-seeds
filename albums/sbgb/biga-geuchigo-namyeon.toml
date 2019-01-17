@@ -1,0 +1,15 @@
+artist-id = "sbgb"
+kind = "single"
+
+names = [
+  { name = "비가 그치고 나면", locale = "ko", original = true },
+  { name = "Biga Geuchigo Namyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-01-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10242842" },
+]
