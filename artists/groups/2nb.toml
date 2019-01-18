@@ -6,3 +6,8 @@ names = [
   { name = "투앤비", locale = "ko", original = true },
   { name = "2NB", locale = "ko-Latn", default = true },
 ]
+
+members = [
+  { artist-id = "2nb/kim-hyo-jin" },
+  # ...
+]

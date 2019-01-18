@@ -1,0 +1,9 @@
+kind = "person"
+# started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "김효진", locale = "ko", kind = "real", original = true },
+  { name = "Kim Hyo Jin", locale = "ko-Latn", kind = "real", default = true },
+]

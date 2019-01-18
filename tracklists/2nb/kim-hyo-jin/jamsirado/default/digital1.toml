@@ -1,0 +1,13 @@
+medium-ids = [
+  "2nb/kim-hyo-jin/jamsirado/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2nb/kim-hyo-jin/jamsirado"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "2nb/kim-hyo-jin/jamsirado-inst"
+duration = "3:52"
