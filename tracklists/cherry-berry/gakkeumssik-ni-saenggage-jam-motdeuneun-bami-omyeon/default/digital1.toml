@@ -1,0 +1,13 @@
+medium-ids = [
+  "cherry-berry/gakkeumssik-ni-saenggage-jam-motdeuneun-bami-omyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cherry-berry/gakkeumssik-ni-saenggage-jam-motdeuneun-bami-omyeon"
+duration = "4:26"
+
+[[tracks]]
+position = 2
+song-id = "cherry-berry/gakkeumssik-ni-saenggage-jam-motdeuneun-bami-omyeon-inst"
+duration = "4:26"
