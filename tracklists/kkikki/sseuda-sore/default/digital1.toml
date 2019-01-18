@@ -1,0 +1,8 @@
+medium-ids = [
+  "kkikki/sseuda-sore/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kkikki/sseuda-sore"
+duration = "3:54"

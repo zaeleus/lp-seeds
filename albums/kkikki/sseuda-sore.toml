@@ -1,0 +1,16 @@
+artist-id = "kkikki"
+kind = "single"
+
+names = [
+  { name = "쓰다 (Sore)", locale = "ko", original = true },
+  { name = "Sseuda (Sore)", locale = "ko-Latn", default = true },
+  { name = "Sore", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-01-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10243396" },
+]
