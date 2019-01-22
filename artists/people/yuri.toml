@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1984-12-06"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "유리", locale = "ko", kind = "stage", original = true },
+  { name = "Yuri", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "정유리", locale = "ko", kind = "real" },
+  { name = "Jung Yu Ri", locale = "ko-Latn", kind = "real" },
+]

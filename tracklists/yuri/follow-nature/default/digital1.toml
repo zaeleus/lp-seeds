@@ -1,0 +1,23 @@
+medium-ids = [
+  "yuri/follow-nature/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yuri/follow-nature"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "yuri/follow-nature-winter"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "yuri/follow-nature-inst"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song-id = "yuri/follow-nature-winter-inst"
+duration = "3:21"
