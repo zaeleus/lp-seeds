@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "체리블렛", locale = "ko", original = true },
+  { name = "Cherry Bullet", locale = "en", default = true },
+]
