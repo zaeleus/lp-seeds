@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-bo-ram/neoui-kiseureul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-bo-ram/neoui-kiseureul"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "lee-bo-ram/neoui-kiseureul-inst"
+duration = "3:15"
