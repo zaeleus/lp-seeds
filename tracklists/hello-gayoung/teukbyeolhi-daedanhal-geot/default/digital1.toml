@@ -1,0 +1,58 @@
+medium-ids = [
+  "hello-gayoung/teukbyeolhi-daedanhal-geot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hello-gayoung/kkum-sok-feat-mind-u"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "hello-gayoung/i-byeolmaneun-moreuji-anke"
+duration = "3:53"
+
+[[tracks]]
+position = 3
+song-id = "hello-gayoung/eojeboda-1-do-nopayo"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "hello-gayoung/naui-haruneun-neomu-gilda"
+duration = "2:59"
+
+[[tracks]]
+position = 5
+song-id = "hello-gayoung/immasui-byeonhwa"
+duration = "4:05"
+
+[[tracks]]
+position = 6
+song-id = "hello-gayoung/teukbyeolhi-daedanhal-geot"
+duration = "3:45"
+
+[[tracks]]
+position = 7
+song-id = "hello-gayoung/sonnim"
+duration = "4:29"
+
+[[tracks]]
+position = 8
+song-id = "hello-gayoung/2-hoseon"
+duration = "3:38"
+
+[[tracks]]
+position = 9
+song-id = "hello-gayoung/hangangeseo"
+duration = "3:35"
+
+[[tracks]]
+position = 10
+song-id = "hello-gayoung/bamhaneurui-byeoldeureun"
+duration = "4:02"
+
+[[tracks]]
+position = 11
+song-id = "hello-gayoung/yuilhage-geureoji-anado-doeneun-neo"
+duration = "3:12"

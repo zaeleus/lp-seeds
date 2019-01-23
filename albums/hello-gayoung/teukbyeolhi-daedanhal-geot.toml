@@ -1,0 +1,15 @@
+artist-id = "hello-gayoung"
+kind = "lp"
+
+names = [
+  { name = "특별히 대단할 것", locale = "ko", original = true },
+  { name = "Teukbyeolhi Daedanhal Geot", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-01-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10245313" },
+]
