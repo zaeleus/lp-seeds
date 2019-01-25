@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-greem/still-with-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-greem/still-with-you"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "kim-greem/still-with-you-inst"
+duration = "2:58"
