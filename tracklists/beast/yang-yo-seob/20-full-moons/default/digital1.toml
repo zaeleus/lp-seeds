@@ -1,0 +1,13 @@
+medium-ids = [
+  "beast/yang-yo-seob/20-full-moons/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "beast/yang-yo-seob/with-you"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "beast/yang-yo-seob/moonlight"
+duration = "3:54"
