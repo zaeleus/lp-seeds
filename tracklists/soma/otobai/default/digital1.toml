@@ -1,0 +1,8 @@
+medium-ids = [
+  "soma/otobai/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "soma/otobai"
+duration = "3:16"
