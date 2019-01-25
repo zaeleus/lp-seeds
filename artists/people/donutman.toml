@@ -1,0 +1,11 @@
+kind = "person"
+# started-on = ""
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "도넛맨", locale = "ko", kind = "stage", original = true },
+  { name = "Donutman", locale = "en", kind = "stage", default = true },
+  { name = "송양원", locale = "ko", kind = "real" },
+  { name = "Song Yang Won", locale = "ko-Latn", kind = "real" },
+]

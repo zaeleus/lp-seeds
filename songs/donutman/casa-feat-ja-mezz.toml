@@ -1,0 +1,3 @@
+names = [
+  { name = "CASA (feat. Ja Mezz)", locale = "ko", original = true, default = true },
+]
