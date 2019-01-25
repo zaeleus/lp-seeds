@@ -1,6 +1,6 @@
 kind = "person"
 #started-on = ""
-country = "KR"
+country = "US"
 
 names = [
   { name = "3LAU", locale = "ko", kind = "stage", original = true },
