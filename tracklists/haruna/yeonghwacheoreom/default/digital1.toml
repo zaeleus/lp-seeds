@@ -1,0 +1,13 @@
+medium-ids = [
+  "haruna/yeonghwacheoreom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "haruna/yeonghwacheoreom"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "haruna/yeonghwacheoreom-inst"
+duration = "3:32"
