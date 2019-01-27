@@ -1,0 +1,11 @@
+kind = "person"
+# started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "맨디", locale = "ko", kind = "stage", original = true },
+  { name = "Mandy", locale = "en", kind = "stage", default = true },
+  { name = "김승아", locale = "ko", kind = "real" },
+  { name = "Kim Seung Ah", locale = "ko-Latn", kind = "real" },
+]
