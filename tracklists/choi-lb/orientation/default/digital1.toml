@@ -1,0 +1,53 @@
+medium-ids = [
+  "choi-lb/orientation/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "choi-lb/sinipsaenghwanyeonghoe"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "choi-lb/302-hoganguisil"
+duration = "1:47"
+
+[[tracks]]
+position = 3
+song-id = "choi-lb/pyeonuijeom-kid-feat-giriboy"
+duration = "2:21"
+
+[[tracks]]
+position = 4
+song-id = "choi-lb/gaemi-feat-jclef"
+duration = "3:44"
+
+[[tracks]]
+position = 5
+song-id = "choi-lb/sarang-silsu-jeungo"
+duration = "3:39"
+
+[[tracks]]
+position = 6
+song-id = "choi-lb/dambae-time"
+duration = "1:58"
+
+[[tracks]]
+position = 7
+song-id = "choi-lb/bul-feat-bewhy"
+duration = "2:52"
+
+[[tracks]]
+position = 8
+song-id = "choi-lb/unjeonmyeonheo-skit"
+duration = "0:58"
+
+[[tracks]]
+position = 9
+song-id = "choi-lb/dream-car-feat-olnl"
+duration = "2:55"
+
+[[tracks]]
+position = 10
+song-id = "choi-lb/iryuk-26"
+duration = "2:04"

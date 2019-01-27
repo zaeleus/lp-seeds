@@ -1,0 +1,4 @@
+names = [
+  { name = "운전면허Skit", locale = "ko", original = true },
+  { name = "Unjeonmyeonheo Skit", locale = "ko-Latn", default = true },
+]

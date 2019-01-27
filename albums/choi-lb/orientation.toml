@@ -1,0 +1,15 @@
+artist-id = "choi-lb"
+kind = "lp"
+
+names = [
+  { name = "오리엔테이션", locale = "ko", original = true },
+  { name = "Orientation", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-01-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10245777" },
+]

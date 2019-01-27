@@ -1,0 +1,4 @@
+names = [
+  { name = "편의점KID (Feat. 기리보이)", locale = "ko", original = true },
+  { name = "Pyeonuijeom KID (Feat. Giriboy)", locale = "ko-Latn", default = true },
+]

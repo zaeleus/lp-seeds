@@ -1,0 +1,4 @@
+names = [
+  { name = "드림카 (Feat. OLNL)", locale = "ko", original = true },
+  { name = "Dream Car (Feat. OLNL)", locale = "en", default = true },
+]
