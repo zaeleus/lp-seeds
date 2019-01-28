@@ -1,0 +1,38 @@
+medium-ids = [
+  "punchnello/ordinary/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "punchnello/blue-hawaii-feat-crush-penomeco-prod-by-0channel"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "punchnello/winter-blossom-feat-saay-prod-by-0channel"
+duration = "3:38"
+
+[[tracks]]
+position = 3
+song-id = "punchnello/swerve-prod-by-0channel"
+duration = "2:43"
+
+[[tracks]]
+position = 4
+song-id = "punchnello/boiling-point-feat-simon-dominic-tabber-prod-by-0channel"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "punchnello/absinthe-prod-by-0channel-2xxx"
+duration = "3:54"
+
+[[tracks]]
+position = 6
+song-id = "punchnello/faded-skit-prod-by-0channel"
+duration = "0:31"
+
+[[tracks]]
+position = 7
+song-id = "punchnello/homesickness-feat-sogumm-prod-by-0channel"
+duration = "4:13"

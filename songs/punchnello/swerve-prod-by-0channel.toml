@@ -1,0 +1,3 @@
+names = [
+  { name = "SWERVE (Prod. by 0channel)", locale = "ko", original = true, default = true },
+]

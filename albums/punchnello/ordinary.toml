@@ -1,0 +1,14 @@
+artist-id = "punchnello"
+kind = "ep"
+
+names = [
+  { name = "ordinary.", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-01-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10244488" },
+]
