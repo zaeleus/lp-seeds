@@ -1,0 +1,16 @@
+artist-id = "joohee"
+kind = "single"
+
+names = [
+  { name = "일단 뜨겁게 청소하라 OST Part. 10", locale = "ko", original = true },
+  { name = "Ildan Tteugeopge Cheongsohara OST Part. 10", locale = "ko-Latn", default = true },
+  { name = "Clean with Passion for Now OST Part. 10", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-01-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10246367" },
+]

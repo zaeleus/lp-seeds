@@ -1,0 +1,13 @@
+medium-ids = [
+  "joohee/ildan-tteugeopge-cheongsohara-ost-part-10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "joohee/you-are-everything-to-me"
+duration = "4:04"
+
+[[tracks]]
+position = 2
+song-id = "joohee/you-are-everything-to-me-inst"
+duration = "4:05"
