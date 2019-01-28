@@ -1,0 +1,16 @@
+artist-id = "woody"
+kind = "single"
+
+names = [
+  { name = "이 노래가 클럽에서 나온다면", locale = "ko", original = true },
+  { name = "I Noraega Keulleobeseo Naondamyeon", locale = "ko-Latn", default = true },
+  { name = "Fire Up", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-01-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10245121" },
+]

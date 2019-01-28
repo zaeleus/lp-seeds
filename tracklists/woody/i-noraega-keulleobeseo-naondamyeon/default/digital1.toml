@@ -1,0 +1,13 @@
+medium-ids = [
+  "woody/i-noraega-keulleobeseo-naondamyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woody/i-noraega-keulleobeseo-naondamyeon"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "woody/i-noraega-keulleobeseo-naondamyeon-inst"
+duration = "3:40"

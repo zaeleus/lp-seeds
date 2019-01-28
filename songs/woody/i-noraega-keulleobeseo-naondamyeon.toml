@@ -1,0 +1,5 @@
+names = [
+  { name = "이 노래가 클럽에서 나온다면", locale = "ko", original = true },
+  { name = "I Noraega Keulleobeseo Naondamyeon", locale = "ko-Latn", default = true },
+  { name = "Fire Up", locale = "en" },
+]
