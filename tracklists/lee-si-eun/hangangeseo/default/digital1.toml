@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-si-eun/hangangeseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-si-eun/hangangeseo"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "lee-si-eun/hangangeseo-inst"
+duration = "3:45"
