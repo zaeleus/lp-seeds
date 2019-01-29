@@ -1,0 +1,14 @@
+artist-id = "groovyroom"
+kind = "single"
+
+names = [
+  { name = "THIS NIGHT", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-01-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10246951" },
+]

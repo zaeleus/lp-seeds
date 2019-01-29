@@ -1,0 +1,5 @@
+names = [
+  { name = "행성 (This Night) (Feat. Blue.D, Jhnovr)", locale = "ko", original = true },
+  { name = "Haengseong (This Night) (Feat. Blue.D, Jhnovr)", locale = "ko-Latn", default = true },
+  { name = "This Night (Feat. Blue.D, Jhnovr)", locale = "en" },
+]

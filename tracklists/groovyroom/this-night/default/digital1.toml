@@ -1,0 +1,13 @@
+medium-ids = [
+  "groovyroom/this-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "groovyroom/haengseong-this-night-feat-blue-d-jhnovr"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "groovyroom/love-like-this-feat-jeremy-quest-goosebumps"
+duration = "3:29"
