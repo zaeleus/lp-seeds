@@ -1,0 +1,28 @@
+medium-ids = [
+  "minseo/2cm-feat-paul-kim/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minseo/2cm-feat-paul-kim"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "minseo/is-who"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "minseo/aljido-mothamyeonseo"
+duration = "3:08"
+
+[[tracks]]
+position = 4
+song-id = "minseo/meotjin-kkum"
+duration = "4:28"
+
+[[tracks]]
+position = 5
+song-id = "minseo/meotjin-kkum-acoustic-ver"
+duration = "4:15"
