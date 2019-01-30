@@ -1,0 +1,13 @@
+medium-ids = [
+  "rothy/da-pin-kkot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rothy/da-pin-kkot"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "rothy/da-pin-kkot-inst"
+duration = "3:49"

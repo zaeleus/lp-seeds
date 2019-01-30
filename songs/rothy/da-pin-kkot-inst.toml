@@ -1,0 +1,4 @@
+names = [
+  { name = "다 핀 꽃 (Inst.)", locale = "ko", original = true },
+  { name = "Da Pin Kkot (Inst.)", locale = "ko-Latn", default = true },
+]
