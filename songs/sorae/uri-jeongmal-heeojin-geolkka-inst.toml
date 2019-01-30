@@ -1,0 +1,4 @@
+names = [
+  { name = "우리 정말 헤어진 걸까 (Inst.)", locale = "ko", original = true },
+  { name = "Uri Jeongmal Heeojin Geolkka (Inst.)", locale = "ko-Latn", default = true },
+]

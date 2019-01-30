@@ -1,0 +1,13 @@
+medium-ids = [
+  "sorae/uri-jeongmal-heeojin-geolkka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sorae/uri-jeongmal-heeojin-geolkka-with-monk"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "sorae/uri-jeongmal-heeojin-geolkka-inst"
+duration = "4:00"

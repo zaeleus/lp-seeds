@@ -1,0 +1,15 @@
+artist-id = "sorae"
+kind = "single"
+
+names = [
+  { name = "우리 정말 헤어진 걸까", locale = "ko", original = true },
+  { name = "Uri Jeongmal Heeojin Geolkka", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-01-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10247073" },
+]
