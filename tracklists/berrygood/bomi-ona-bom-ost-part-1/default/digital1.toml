@@ -1,0 +1,13 @@
+medium-ids = [
+  "berrygood/bomi-ona-bom-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "berrygood/well-come-to-the-bom"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "berrygood/well-come-to-the-bom-inst"
+duration = "3:12"

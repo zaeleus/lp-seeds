@@ -1,0 +1,16 @@
+artist-id = "berrygood"
+kind = "single"
+
+names = [
+  { name = "봄이 오나 봄 OST Part.1", locale = "ko", original = true },
+  { name = "Bomi Ona Bom OST Part.1", locale = "ko-Latn", default = true },
+  { name = "Spring Turns to Spring Part.1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-01-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10247087" },
+]
