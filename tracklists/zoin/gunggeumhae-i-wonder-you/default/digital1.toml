@@ -1,0 +1,13 @@
+medium-ids = [
+  "zoin/gunggeumhae-i-wonder-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zoin/gunggeumhae-i-wonder-you"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "zoin/gunggeumhae-i-wonder-you-inst"
+duration = "3:40"

@@ -1,0 +1,16 @@
+artist-id = "zoin"
+kind = "single"
+
+names = [
+  { name = "궁금해 (I WONDER YOU)", locale = "ko", original = true },
+  { name = "Gunggeumhae (I WONDER YOU)", locale = "ko-Latn", default = true },
+  { name = "I WONDER YOU", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-01-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10246953" },
+]

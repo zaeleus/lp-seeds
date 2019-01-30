@@ -1,0 +1,5 @@
+names = [
+  { name = "궁금해 (I WONDER YOU)", locale = "ko", original = true },
+  { name = "Gunggeumhae (I WONDER YOU)", locale = "ko-Latn", default = true },
+  { name = "I WONDER YOU", locale = "en" },
+]
