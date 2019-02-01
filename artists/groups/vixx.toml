@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2012"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "빅스", locale = "ko", original = true },
+  { name = "VIXX", locale = "en", default = true },
+]
