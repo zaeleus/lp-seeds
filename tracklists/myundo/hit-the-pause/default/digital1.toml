@@ -1,0 +1,8 @@
+medium-ids = [
+  "myundo/hit-the-pause/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "myundo/hit-the-pause"
+duration = "2:36"
