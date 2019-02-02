@@ -1,0 +1,16 @@
+artist-id = "melodyday/yeoeun"
+kind = "single"
+
+names = [
+  { name = "신과의 약속 OST Part.7", locale = "ko", original = true },
+  { name = "Singwaui Yaksok OST Part.7", locale = "ko-Latn", default = true },
+  { name = "A Pledge to God OST Part.7", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-02-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10248262" },
+]

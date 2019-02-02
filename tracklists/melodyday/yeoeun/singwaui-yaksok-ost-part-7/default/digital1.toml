@@ -1,0 +1,13 @@
+medium-ids = [
+  "melodyday/yeoeun/singwaui-yaksok-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melodyday/yeoeun/haruman-dollyeojwoyo"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "melodyday/yeoeun/haruman-dollyeojwoyo-inst"
+duration = "3:59"
