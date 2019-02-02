@@ -1,0 +1,16 @@
+artist-id = "jiselle"
+kind = "single"
+
+names = [
+  { name = "받지마 (Feat. 챈슬러)", locale = "ko", original = true },
+  { name = "Batjima (Feat. Chancellor)", locale = "ko-Latn", default = true },
+  { name = "Missed Call (Feat. Chancellor)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-02-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10248261" },
+]

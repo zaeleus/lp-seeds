@@ -1,0 +1,5 @@
+names = [
+  { name = "받지마 (Feat. 챈슬러)", locale = "ko", original = true },
+  { name = "Batjima (Feat. Chancellor)", locale = "ko-Latn", default = true },
+  { name = "Missed Call (Feat. Chancellor)", locale = "en" },
+]
