@@ -1,0 +1,13 @@
+medium-ids = [
+  "miyu/the-moon-song/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miyu/the-moon-song"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "miyu/utgo-marasseo"
+duration = "3:28"
