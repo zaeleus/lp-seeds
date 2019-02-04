@@ -1,0 +1,8 @@
+medium-ids = [
+  "kayla/gifted-seonmul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kayla/gifted-seonmul"
+duration = "3:43"

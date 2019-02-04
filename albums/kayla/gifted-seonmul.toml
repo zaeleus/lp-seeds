@@ -1,0 +1,16 @@
+artist-id = "kayla"
+kind = "single"
+
+names = [
+  { name = "GIFTED 선물", locale = "ko", original = true },
+  { name = "GIFTED Seonmul", locale = "ko-Latn", default = true },
+  { name = "GIFTED", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-02-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10248338" },
+]

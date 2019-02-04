@@ -1,0 +1,5 @@
+names = [
+  { name = "GIFTED 선물", locale = "ko", original = true },
+  { name = "GIFTED Seonmul", locale = "ko-Latn", default = true },
+  { name = "GIFTED", locale = "en" },
+]
