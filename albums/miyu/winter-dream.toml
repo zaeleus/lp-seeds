@@ -1,0 +1,14 @@
+artist-id = "miyu"
+kind = "lp"
+
+names = [
+  { name = "WINTER DREAM", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-11-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10227076" },
+]

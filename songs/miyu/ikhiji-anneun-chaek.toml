@@ -1,0 +1,4 @@
+names = [
+  { name = "읽히지 않는 책", locale = "ko", original = true },
+  { name = "Ikhiji Anneun Chaek", locale = "ko-Latn", default = true },
+]
