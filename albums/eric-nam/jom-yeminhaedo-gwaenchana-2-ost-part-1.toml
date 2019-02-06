@@ -1,0 +1,15 @@
+artist-id = "eric-nam"
+kind = "single"
+
+names = [
+  { name = "좀 예민해도 괜찮아2 OST Part.1", locale = "ko", original = true },
+  { name = "Jom Yeminhaedo Gwaenchana 2 OST Part.1", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-02-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10248416" },
+]

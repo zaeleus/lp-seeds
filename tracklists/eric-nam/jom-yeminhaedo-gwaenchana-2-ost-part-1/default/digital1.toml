@@ -1,0 +1,18 @@
+medium-ids = [
+  "eric-nam/jom-yeminhaedo-gwaenchana-2-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eric-nam/love-yourself"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "eric-nam/love-yourself-inst"
+duration = "2:57"
+
+[[tracks]]
+position = 3
+song-id = "eric-nam/love-yourself-piano-ver"
+duration = "2:08"
