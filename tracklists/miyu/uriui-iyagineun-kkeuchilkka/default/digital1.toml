@@ -1,0 +1,8 @@
+medium-ids = [
+  "miyu/uriui-iyagineun-kkeuchilkka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miyu/uriui-iyagineun-kkeuchilkka"
+duration = "4:51"
