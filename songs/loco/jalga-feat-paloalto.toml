@@ -1,0 +1,4 @@
+names = [
+  { name = "잘가 (Feat. Paloalto)", locale = "ko", original = true },
+  { name = "Jalga (Feat. Paloalto)", locale = "ko-Latn", default = true },
+]

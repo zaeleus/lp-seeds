@@ -1,0 +1,5 @@
+names = [
+  { name = "오랜만이야 (Feat. Zion.T)", locale = "ko", original = true },
+  { name = "Oraenmaniya (Feat. Zion.T)", locale = "ko-Latn", default = true },
+  { name = "It's Been a While (Feat. Zion.T)", locale = "en" },
+]

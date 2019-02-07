@@ -1,0 +1,4 @@
+names = [
+  { name = "Some Beatmaker (Feat. 이상 (yeesang) & 우원재)", locale = "ko", original = true },
+  { name = "Some Beatmaker (Feat. Yeesang & Woo Won Jae)", locale = "ko-Latn", default = true },
+]
