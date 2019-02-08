@@ -1,0 +1,16 @@
+artist-id = "d-amant"
+kind = "single"
+
+names = [
+  { name = "막돼먹은 영애씨 시즌 17 OST Part.1", locale = "ko", original = true },
+  { name = "Makdwaemeogeun Yeong Ae-ssi Season 17 OST Part.1", locale = "ko-Latn", default = true },
+  { name = "Rude Miss Young Ae Season 17 OST Part.1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-02-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10249210" },
+]

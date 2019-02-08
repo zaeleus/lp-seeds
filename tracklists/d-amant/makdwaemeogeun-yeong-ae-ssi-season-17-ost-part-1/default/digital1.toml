@@ -1,0 +1,13 @@
+medium-ids = [
+  "d-amant/makdwaemeogeun-yeong-ae-ssi-season-17-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "d-amant/ppajyeo-beoryeosseo"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "d-amant/ppajyeo-beoryeosseo-inst"
+duration = "3:26"
