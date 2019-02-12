@@ -1,0 +1,13 @@
+medium-ids = [
+  "red-velvet/seulgi/wangi-doen-namja-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/seulgi/always"
+duration = "4:35"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/seulgi/always-inst"
+duration = "4:35"

@@ -1,0 +1,10 @@
+names = [
+  { name = "Always (Inst.)", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "red-velvet/seulgi"
+names = [
+  { name = "슬기", locale = "ko", original = true },
+  { name = "SEULGI", locale = "ko-Latn", default = true },
+]

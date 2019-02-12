@@ -1,0 +1,23 @@
+artist-id = "red-velvet/seulgi"
+kind = "single"
+
+names = [
+  { name = "왕이 된 남자 OST Part.5", locale = "ko", original = true },
+  { name = "Wangi Doen Namja OST Part.5", locale = "ko-Latn", default = true },
+  { name = "The Crowned Clown OST Part.5", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "red-velvet/seulgi"
+names = [
+  { name = "슬기", locale = "ko", original = true },
+  { name = "SEULGI", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-02-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10249964" },
+]
