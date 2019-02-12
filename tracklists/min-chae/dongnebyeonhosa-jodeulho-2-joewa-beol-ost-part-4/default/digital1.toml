@@ -1,0 +1,13 @@
+medium-ids = [
+  "min-chae/dongnebyeonhosa-jodeulho-2-joewa-beol-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "min-chae/neowa"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "min-chae/neowa-inst"
+duration = "3:48"
