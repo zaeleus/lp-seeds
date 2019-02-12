@@ -1,0 +1,13 @@
+medium-ids = [
+  "itzy/it-z-different/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "itzy/dalla-dalla"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "itzy/want-it"
+duration = "3:21"
