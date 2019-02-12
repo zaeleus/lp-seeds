@@ -1,0 +1,13 @@
+medium-ids = [
+  "se7en/cold/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "se7en/cold"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "se7en/cold-inst"
+duration = "3:17"
