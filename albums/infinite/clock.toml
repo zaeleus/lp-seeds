@@ -1,0 +1,14 @@
+artist-id = "infinite"
+kind = "single"
+
+names = [
+  { name = "CLOCK", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-02-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10250872" },
+]
