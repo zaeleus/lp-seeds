@@ -1,0 +1,18 @@
+medium-ids = [
+  "saturday/follow-saturday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saturday/wifi"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "saturday/super-bad"
+duration = "3:15"
+
+[[tracks]]
+position = 3
+song-id = "saturday/wifi-inst"
+duration = "3:37"

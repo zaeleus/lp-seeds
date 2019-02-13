@@ -1,0 +1,4 @@
+names = [
+  { name = "와이파이 (WiFi)", locale = "ko", original = true },
+  { name = "WiFi", locale = "en", default = true },
+]
