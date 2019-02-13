@@ -1,0 +1,13 @@
+medium-ids = [
+  "mamamoo/hwasa/meongcheongi-twit/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/hwasa/meongcheongi-twit"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/hwasa/meongcheongi-twit-inst"
+duration = "3:11"

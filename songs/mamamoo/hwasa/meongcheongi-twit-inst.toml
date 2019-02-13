@@ -1,0 +1,5 @@
+names = [
+  { name = "멍청이 (twit) (Inst.)", locale = "ko", original = true },
+  { name = "Meongcheongi (twit) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "twit (Inst.)", locale = "en" },
+]
