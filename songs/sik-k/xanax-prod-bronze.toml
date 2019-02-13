@@ -1,0 +1,3 @@
+names = [
+  { name = "xanax (Prod. Bronze)", locale = "ko", original = true, default = true },
+]

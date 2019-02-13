@@ -1,0 +1,13 @@
+medium-ids = [
+  "sik-k/addict/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sik-k/addict-prod-girlnexxtdoor"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "sik-k/xanax-prod-bronze"
+duration = "3:59"
