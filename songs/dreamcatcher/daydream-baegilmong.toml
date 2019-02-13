@@ -1,0 +1,5 @@
+names = [
+  { name = "Daydream (백일몽)", locale = "ko", original = true },
+  { name = "Daydream (Baegilmong)", locale = "ko-Latn", default = true },
+  { name = "Daydream", locale = "en" },
+]

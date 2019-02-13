@@ -1,0 +1,14 @@
+artist-id = "dreamcatcher"
+kind = "ep"
+
+names = [
+  { name = "The End of Nightmare", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-02-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10250805" },
+]
