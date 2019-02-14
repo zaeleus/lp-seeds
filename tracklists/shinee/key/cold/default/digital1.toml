@@ -1,0 +1,13 @@
+medium-ids = [
+  "shinee/key/cold/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shinee/key/cold-feat-hanhae"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "shinee/key/cold-feat-hanhae-inst"
+duration = "3:53"
