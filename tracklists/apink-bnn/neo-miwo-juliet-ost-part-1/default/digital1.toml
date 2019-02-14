@@ -1,0 +1,13 @@
+medium-ids = [
+  "apink-bnn/neo-miwo-juliet-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink-bnn/isanghae"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "apink-bnn/isanghae-inst"
+duration = "3:20"

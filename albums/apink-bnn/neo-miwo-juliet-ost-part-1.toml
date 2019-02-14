@@ -1,0 +1,16 @@
+artist-id = "apink-bnn"
+kind = "single"
+
+names = [
+  { name = "너 미워! 줄리엣 OST Part.1", locale = "ko", original = true },
+  { name = "Neo Miwo! Juliet OST Part.1", locale = "ko-Latn", default = true },
+  { name = "I Hate You! Juliet OST Part.1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-02-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10250838" },
+]
