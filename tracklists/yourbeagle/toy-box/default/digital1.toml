@@ -1,0 +1,18 @@
+medium-ids = [
+  "yourbeagle/toy-box/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/on-your-side-feat-leellamarz"
+duration = "2:51"
+
+[[tracks]]
+position = 2
+song-id = "yourbeagle/wow-feat-bradystreet"
+duration = "2:30"
+
+[[tracks]]
+position = 3
+song-id = "yourbeagle/bonus-track-sagwaneun-ppalgan-mat"
+duration = "1:55"
