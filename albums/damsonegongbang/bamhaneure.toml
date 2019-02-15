@@ -1,0 +1,16 @@
+artist-id = "damsonegongbang"
+kind = "single"
+
+names = [
+  { name = "밤하늘에", locale = "ko", original = true },
+  { name = "Bamhaneure", locale = "ko-Latn", default = true },
+  { name = "In the Night Sky", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-02-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10251419" },
+]
