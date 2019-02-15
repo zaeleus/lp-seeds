@@ -1,0 +1,8 @@
+medium-ids = [
+  "babylon/deotchil/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "babylon/deotchil"
+duration = "3:42"

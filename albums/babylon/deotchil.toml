@@ -1,0 +1,15 @@
+artist-id = "babylon"
+kind = "single"
+
+names = [
+  { name = "덧칠", locale = "ko", original = true },
+  { name = "Deotchil", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-02-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10251401" },
+]
