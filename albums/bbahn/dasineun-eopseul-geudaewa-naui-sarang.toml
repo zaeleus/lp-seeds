@@ -1,0 +1,15 @@
+artist-id = "bbahn"
+kind = "single"
+
+names = [
+  { name = "다시는 없을 그대와 나의 사랑", locale = "ko", original = true },
+  { name = "Dasineun Eopseul Geudaewa Naui Sarang", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-02-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10251891" },
+]
