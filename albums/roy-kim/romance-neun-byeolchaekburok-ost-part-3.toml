@@ -1,0 +1,16 @@
+artist-id = "roy-kim"
+kind = "single"
+
+names = [
+  { name = "로맨스는 별책부록 OST Part.3", locale = "ko", original = true },
+  { name = "Romance-neun Byeolchaekburok OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Romance Is a Bonus Book OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-02-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10251952" },
+]
