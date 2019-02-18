@@ -1,0 +1,4 @@
+names = [
+  { name = "Gloomy Day (Feat. 안수민)", locale = "ko", original = true },
+  { name = "Gloomy Day (Feat. Ahn Su Min)", locale = "ko-Latn", default = true },
+]
