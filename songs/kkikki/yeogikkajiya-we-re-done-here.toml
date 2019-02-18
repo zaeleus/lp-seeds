@@ -1,0 +1,5 @@
+names = [
+  { name = "여기까지야 (We're done here)", locale = "ko", original = true },
+  { name = "Yeogikkajiya (We're done here)", locale = "ko-Latn", default = true },
+  { name = "We're done here", locale = "en" },
+]

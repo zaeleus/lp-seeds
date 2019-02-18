@@ -1,0 +1,16 @@
+artist-id = "kkikki"
+kind = "single"
+
+names = [
+  { name = "여기까지야 (We're done here)", locale = "ko", original = true },
+  { name = "Yeogikkajiya (We're done here)", locale = "ko-Latn", default = true },
+  { name = "We're done here", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-02-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10251958" },
+]
