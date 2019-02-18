@@ -1,0 +1,5 @@
+names = [
+  { name = "난기류 (Turbulence)", locale = "ko", original = true },
+  { name = "Nangiryu (Turbulence)", locale = "ko-Latn", default = true },
+  { name = "Turbulence", locale = "en" },
+]
