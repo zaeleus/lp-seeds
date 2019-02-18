@@ -1,0 +1,15 @@
+artist-id = "girls-girls/miso"
+kind = "single"
+
+names = [
+  { name = "ON N ON (온앤온)", locale = "ko", original = true },
+  { name = "ON N ON", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-02-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10251869" },
+]
