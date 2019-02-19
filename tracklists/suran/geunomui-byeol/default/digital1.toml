@@ -1,0 +1,8 @@
+medium-ids = [
+  "suran/geunomui-byeol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "suran/geunomui-byeol-with-cho-jung-chi"
+duration = "1:29"

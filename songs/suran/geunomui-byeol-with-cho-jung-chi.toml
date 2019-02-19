@@ -1,0 +1,4 @@
+names = [
+  { name = "그놈의 별 (With 조정치)", locale = "ko", original = true },
+  { name = "Geunomui Byeol (With Cho Jung Chi)", locale = "ko-Latn", default = true },
+]
