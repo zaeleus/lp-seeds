@@ -1,0 +1,4 @@
+names = [
+  { name = "지긋지긋 (Feat. 한해)", locale = "ko", original = true },
+  { name = "Jigeut Jigeut (Feat. Hanhae)", locale = "ko-Latn", default = true },
+]

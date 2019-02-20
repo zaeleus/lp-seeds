@@ -1,0 +1,18 @@
+medium-ids = [
+  "esna/have-a-drink/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "esna/jokesseo-prod-by-primary"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "esna/jigeut-jigeut-feat-hanhae"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "esna/spoon"
+duration = "2:44"
