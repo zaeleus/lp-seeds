@@ -1,0 +1,5 @@
+names = [
+  { name = "입꼬리 (Chinese Ver.)", locale = "ko", original = true },
+  { name = "Ipkkori (Chinese Ver.)", locale = "ko-Latn", default = true },
+  { name = "Allure (Chinese Ver.)", locale = "en" },
+]

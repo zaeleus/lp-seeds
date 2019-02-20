@@ -1,0 +1,5 @@
+names = [
+  { name = "입꼬리 (Jazz Ver.)", locale = "ko", original = true },
+  { name = "Ipkkori (Jazz Ver.)", locale = "ko-Latn", default = true },
+  { name = "Allure (Jazz Ver.)", locale = "en" },
+]

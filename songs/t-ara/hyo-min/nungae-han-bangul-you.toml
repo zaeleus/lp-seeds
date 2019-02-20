@@ -1,0 +1,5 @@
+names = [
+  { name = "눈가에 한 방울 (YOU)", locale = "ko", original = true },
+  { name = "Nungae Han Bangul (YOU)", locale = "ko-Latn", default = true },
+  { name = "YOU", locale = "en" },
+]

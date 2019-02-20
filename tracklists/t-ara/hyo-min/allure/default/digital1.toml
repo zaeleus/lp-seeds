@@ -1,0 +1,43 @@
+medium-ids = [
+  "t-ara/hyo-min/allure/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/hyo-min/ipkkori-jazz-ver"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/hyo-min/ipkkori"
+duration = "2:54"
+
+[[tracks]]
+position = 3
+song-id = "t-ara/hyo-min/eueumeueum-u-um-u-um"
+duration = "2:57"
+
+[[tracks]]
+position = 4
+song-id = "t-ara/hyo-min/mango"
+duration = "3:10"
+
+[[tracks]]
+position = 5
+song-id = "t-ara/hyo-min/nungae-han-bangul-you"
+duration = "3:38"
+
+[[tracks]]
+position = 6
+song-id = "t-ara/hyo-min/ipkkori-chinese-ver"
+duration = "2:54"
+
+[[tracks]]
+position = 7
+song-id = "t-ara/hyo-min/eueumeueum-u-um-u-um-chinese-ver"
+duration = "2:57"
+
+[[tracks]]
+position = 8
+song-id = "t-ara/hyo-min/mango-chinese-ver"
+duration = "3:10"

@@ -1,0 +1,14 @@
+artist-id = "t-ara/hyo-min"
+kind = "ep"
+
+names = [
+  { name = "Allure", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-02-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10253155" },
+]
