@@ -1,0 +1,18 @@
+medium-ids = [
+  "minseo/jom-yeminhaedo-gwaenchana-2-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minseo/teobeok-teobeok"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "minseo/teobeok-teobeok-inst"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "minseo/teobeok-teobeok-piano-ver"
+duration = "2:21"
