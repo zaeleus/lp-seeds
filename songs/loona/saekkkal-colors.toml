@@ -1,0 +1,5 @@
+names = [
+  { name = "색깔 (Colors)", locale = "ko", original = true },
+  { name = "Saekkkal (Colors)", locale = "ko-Latn", default = true },
+  { name = "Colors", locale = "en" },
+]

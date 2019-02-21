@@ -1,0 +1,5 @@
+names = [
+  { name = "위성 (Satellite)", locale = "ko", original = true },
+  { name = "Wiseong (Satellite)", locale = "ko-Latn", default = true },
+  { name = "Satellite", locale = "en" },
+]
