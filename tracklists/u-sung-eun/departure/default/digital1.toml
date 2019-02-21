@@ -1,0 +1,13 @@
+medium-ids = [
+  "u-sung-eun/departure/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "u-sung-eun/deep"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "u-sung-eun/deep-inst"
+duration = "3:27"
