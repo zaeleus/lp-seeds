@@ -1,0 +1,9 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "주예인", locale = "ko", kind = "real", original = true },
+  { name = "Joo Ye In", locale = "ko-Latn", kind = "real", default = true },
+]
