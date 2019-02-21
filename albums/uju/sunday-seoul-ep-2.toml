@@ -1,0 +1,16 @@
+artist-id = "uju"
+kind = "ep"
+
+names = [
+  { name = "선데이서울 Ep.2", locale = "ko", original = true },
+  { name = "Seondeiseoul Ep.2", locale = "ko-Latn" },
+  { name = "Sunday Seoul Ep.2", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-02-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10252723" },
+]

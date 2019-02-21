@@ -1,0 +1,4 @@
+names = [
+  { name = "우리는 사진 속에 갇혀 있지만", locale = "ko", original = true },
+  { name = "Urineun Sajin Soge Gathyeo Itjiman", locale = "ko-Latn", default = true },
+]

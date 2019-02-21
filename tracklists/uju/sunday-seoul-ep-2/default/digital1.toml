@@ -1,0 +1,28 @@
+medium-ids = [
+  "uju/sunday-seoul-ep-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "uju/any-call-call-me-any-time"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "uju/daeuryeo-hae-prod-cabinett"
+duration = "3:32"
+
+[[tracks]]
+position = 3
+song-id = "uju/seourui-bam-night-in-seoul"
+duration = "3:55"
+
+[[tracks]]
+position = 4
+song-id = "uju/moon-crystal-love"
+duration = "3:54"
+
+[[tracks]]
+position = 5
+song-id = "uju/urineun-sajin-soge-gathyeo-itjiman"
+duration = "3:29"
