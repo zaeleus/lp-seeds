@@ -1,0 +1,3 @@
+names = [
+  { name = "Spoiler (Feat. Babylon)", locale = "ko", original = true, default = true },
+]
