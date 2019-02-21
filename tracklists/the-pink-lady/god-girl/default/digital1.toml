@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-pink-lady/god-girl/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-pink-lady/god-girl"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "the-pink-lady/god-girl-inst"
+duration = "3:20"
