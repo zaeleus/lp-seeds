@@ -1,0 +1,13 @@
+medium-ids = [
+  "elris/neo-miwo-juliet-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "elris/somsatang"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "elris/somsatang-inst"
+duration = "3:35"
