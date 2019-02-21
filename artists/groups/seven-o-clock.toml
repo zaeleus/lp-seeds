@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "세븐어클락", locale = "ko", original = true },
+  { name = "Seven O'Clock", locale = "ko-Latn", default = true },
+]
