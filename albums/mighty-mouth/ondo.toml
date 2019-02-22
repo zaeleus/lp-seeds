@@ -1,0 +1,16 @@
+artist-id = "mighty-mouth"
+kind = "single"
+
+names = [
+  { name = "온도", locale = "ko", original = true },
+  { name = "Ondo", locale = "ko-Latn", default = true },
+  { name = "Temperature", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-02-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10253635" },
+]

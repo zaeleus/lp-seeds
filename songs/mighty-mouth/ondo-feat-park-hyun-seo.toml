@@ -1,0 +1,5 @@
+names = [
+  { name = "온도 (Feat. 박현서)", locale = "ko", original = true },
+  { name = "Ondo (Feat. Park Hyun Seo)", locale = "ko-Latn", default = true },
+  { name = "Temperature (Feat. Park Hyun Seo)", locale = "en" },
+]

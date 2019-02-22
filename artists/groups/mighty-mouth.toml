@@ -1,0 +1,10 @@
+kind = "group"
+started-on = "2008"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "마이티 마우스", locale = "ko", original = true },
+  { name = "Maiti Mauseu", locale = "ko-Latn", default = true },
+  { name = "Mighty Mouth", locale = "en", default = true },
+]
