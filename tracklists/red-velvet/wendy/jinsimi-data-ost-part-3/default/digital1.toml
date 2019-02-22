@@ -1,0 +1,13 @@
+medium-ids = [
+  "red-velvet/wendy/jinsimi-data-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/wendy/what-if-love"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/wendy/what-if-love-inst"
+duration = "3:40"
