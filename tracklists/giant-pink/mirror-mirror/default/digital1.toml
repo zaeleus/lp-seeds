@@ -1,0 +1,8 @@
+medium-ids = [
+  "giant-pink/mirror-mirror/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giant-pink/mirror-mirror"
+duration = "2:40"
