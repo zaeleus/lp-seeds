@@ -1,0 +1,18 @@
+medium-ids = [
+  "-virtual/hyo-3lau/punk-right-now-remixes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/hyo-3lau/punk-right-now-raiden-remix"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/hyo-3lau/punk-right-now-madeaux-remix"
+duration = "3:15"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/hyo-3lau/punk-right-now-kuuro-remix"
+duration = "3:44"

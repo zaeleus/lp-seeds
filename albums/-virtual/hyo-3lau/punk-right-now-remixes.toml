@@ -1,0 +1,28 @@
+artist-id = "-virtual/hyo-3lau"
+kind = "single"
+subkind = "remix"
+
+names = [
+  { name = "Punk Right Now (Remixes)", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/hyoyeon"
+names = [
+  { name = "HYO", locale = "ko", original = true, default = true },
+]
+separator = " & "
+
+[[artist-credits]]
+artist-id = "3lau"
+names = [
+  { name = "3LAU", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-02-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10254198" },
+]
