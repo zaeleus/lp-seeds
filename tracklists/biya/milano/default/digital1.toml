@@ -1,0 +1,13 @@
+medium-ids = [
+  "biya/milano/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "biya/milano"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "biya/milano-inst"
+duration = "3:19"

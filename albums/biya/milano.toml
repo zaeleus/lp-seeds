@@ -1,0 +1,15 @@
+artist-id = "biya"
+kind = "single"
+
+names = [
+  { name = "밀라노", locale = "ko", original = true },
+  { name = "Milano", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-02-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10254370" },
+]
