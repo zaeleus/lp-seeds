@@ -1,0 +1,15 @@
+artist-id = "jung-in"
+kind = "single"
+
+names = [
+  { name = "해치 OST Part.1", locale = "ko", original = true },
+  { name = "Haechi OST Part.1", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-02-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10254762" },
+]
