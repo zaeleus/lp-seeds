@@ -1,0 +1,5 @@
+names = [
+  { name = "X발 (XIBAL) (Prod. GroovyRoom)", locale = "ko", original = true },
+  { name = "X-bal (XIBAL) (Prod. GroovyRoom)", locale = "ko-Latn", default = true },
+  { name = "XIBAL (Prod. GroovyRoom)", locale = "en" },
+]

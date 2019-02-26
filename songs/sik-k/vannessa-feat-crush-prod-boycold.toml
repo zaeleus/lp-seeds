@@ -1,0 +1,4 @@
+names = [
+  { name = "VANNESSA (Feat. 크러쉬) (Prod. BOYCOLD)", locale = "ko", original = true },
+  { name = "VANNESSA (Feat. Crush) (Prod. BOYCOLD)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "꽃 까 (FXCK.THAT.FLOWER) (Prod. Way Ched)", locale = "ko", original = true },
+  { name = "Kkot Kka (FXCK.THAT.FLOWER) (Prod. Way Ched)", locale = "ko-Latn", default = true },
+  { name = "FXCK.THAT.FLOWER (Prod. Way Ched)", locale = "en" },
+]

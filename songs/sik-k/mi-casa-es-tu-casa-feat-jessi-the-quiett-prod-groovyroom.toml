@@ -1,0 +1,4 @@
+names = [
+  { name = "MI CASA ES TU CASA (Feat. 제시, The Quiett) (Prod. GroovyRoom)", locale = "ko", original = true },
+  { name = "MI CASA ES TU CASA (Feat. Jessi, The Quiett) (Prod. GroovyRoom)", locale = "ko-Latn", default = true },
+]

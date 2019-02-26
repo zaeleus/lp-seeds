@@ -1,0 +1,4 @@
+names = [
+  { name = "19 카이엔 프리스타일 (19 CAYENNE FREESTYLE) (Prod. Girlnexxtdoor)", locale = "ko", original = true },
+  { name = "19 CAYENNE FREESTYLE (Prod. Girlnexxtdoor)", locale = "en", default = true },
+]

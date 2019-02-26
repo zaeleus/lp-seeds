@@ -1,0 +1,3 @@
+names = [
+  { name = "FLIP: FL1P (Prod. Girlnexxtdoor)", locale = "ko", original = true, default = true },
+]

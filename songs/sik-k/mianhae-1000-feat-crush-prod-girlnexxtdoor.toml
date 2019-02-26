@@ -1,0 +1,5 @@
+names = [
+  { name = "미안해 (1000) (Feat. 크러쉬) (Prod. Girlnexxtdoor)", locale = "ko", original = true },
+  { name = "Mianhae (1000) (Feat. Crush) (Prod. Girlnexxtdoor)", locale = "ko-Latn", default = true },
+  { name = "1000 (Feat. Crush) (Prod. Girlnexxtdoor)", locale = "en" },
+]
