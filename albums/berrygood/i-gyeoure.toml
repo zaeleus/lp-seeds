@@ -1,0 +1,16 @@
+artist-id = "berrygood"
+kind = "single"
+
+names = [
+  { name = "이 겨울에", locale = "ko", original = true },
+  { name = "I Gyeoure", locale = "ko-Latn", default = true },
+  { name = "This Winter", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-12-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10233347" },
+]

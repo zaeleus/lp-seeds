@@ -1,0 +1,13 @@
+medium-ids = [
+  "berrygood/i-gyeoure/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "berrygood/i-gyeoure"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "berrygood/i-gyeoure-inst"
+duration = "3:35"
