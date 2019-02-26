@@ -1,0 +1,13 @@
+medium-ids = [
+  "juniel/ppittulppaettul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "juniel/ppittulppaettul-feat-sang-jae"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "juniel/ppittulppaettul-acoustic-ver-feat-sang-jae"
+duration = "3:10"
