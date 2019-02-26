@@ -1,0 +1,13 @@
+medium-ids = [
+  "se-o/wangi-doen-namja-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "se-o/aju-meon-hunnal"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "se-o/aju-meon-hunnal-inst"
+duration = "3:13"
