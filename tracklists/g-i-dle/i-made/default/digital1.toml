@@ -1,0 +1,28 @@
+medium-ids = [
+  "g-i-dle/i-made/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-i-dle/senorita"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "g-i-dle/what-s-your-name"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "g-i-dle/siltago-malhae"
+duration = "3:57"
+
+[[tracks]]
+position = 4
+song-id = "g-i-dle/juseyo"
+duration = "3:42"
+
+[[tracks]]
+position = 5
+song-id = "g-i-dle/blow-your-mind"
+duration = "2:50"
