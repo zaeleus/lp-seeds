@@ -1,0 +1,15 @@
+artist-id = "tart"
+kind = "single"
+
+names = [
+  { name = "이렇게 좋은걸", locale = "ko", original = true },
+  { name = "Ireoke Joeungeol", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-02-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10254939" },
+]

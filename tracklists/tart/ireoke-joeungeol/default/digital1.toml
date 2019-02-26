@@ -1,0 +1,13 @@
+medium-ids = [
+  "tart/ireoke-joeungeol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "tart/ireoke-joeungeol"
+duration = "2:27"
+
+[[tracks]]
+position = 2
+song-id = "tart/ireoke-joeungeol-inst"
+duration = "2:27"
