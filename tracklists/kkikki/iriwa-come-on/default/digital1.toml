@@ -1,0 +1,8 @@
+medium-ids = [
+  "kkikki/iriwa-come-on/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kkikki/iriwa-come-on"
+duration = "3:13"
