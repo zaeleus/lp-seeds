@@ -1,0 +1,15 @@
+artist-id = "basick"
+kind = "single"
+
+names = [
+  { name = "만보기 (feat. Mckdaddy)", locale = "ko", original = true },
+  { name = "Manbogi (feat. Mckdaddy)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-02-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10255538" },
+]

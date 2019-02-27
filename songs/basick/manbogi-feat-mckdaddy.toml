@@ -1,0 +1,4 @@
+names = [
+  { name = "만보기 (feat. Mckdaddy)", locale = "ko", original = true },
+  { name = "Manbogi (feat. Mckdaddy)", locale = "ko-Latn", default = true },
+]
