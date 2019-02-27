@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1990-08-03"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "강민경", locale = "ko", kind = "real", original = true },
+  { name = "Kang Min Kyung", locale = "ko-Latn", kind = "real", default = true },
+]

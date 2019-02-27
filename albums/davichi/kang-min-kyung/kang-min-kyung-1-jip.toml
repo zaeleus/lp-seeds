@@ -1,0 +1,15 @@
+artist-id = "davichi/kang-min-kyung"
+kind = "ep"
+
+names = [
+  { name = "강민경 1집", locale = "ko", original = true },
+  { name = "Kang Min Kyung 1-jip", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-02-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10255481" },
+]
