@@ -1,0 +1,4 @@
+names = [
+  { name = "반딧불이 (inst.)", locale = "ko", original = true },
+  { name = "Banditburi (inst.)", locale = "ko-Latn", default = true },
+]

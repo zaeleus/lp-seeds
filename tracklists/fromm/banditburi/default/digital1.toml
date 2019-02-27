@@ -1,0 +1,23 @@
+medium-ids = [
+  "fromm/banditburi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fromm/banditburi"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "fromm/geunarui-byeol"
+duration = "3:41"
+
+[[tracks]]
+position = 3
+song-id = "fromm/banditburi-inst"
+duration = "3:58"
+
+[[tracks]]
+position = 4
+song-id = "fromm/geunarui-byeol-inst"
+duration = "3:41"
