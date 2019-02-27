@@ -1,0 +1,8 @@
+medium-ids = [
+  "bewhy/naui-ttang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bewhy/naui-ttang"
+duration = "3:01"
