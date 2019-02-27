@@ -1,0 +1,16 @@
+artist-id = "t-ara/hyo-min"
+kind = "single"
+
+names = [
+  { name = "으음으음 (U Um U Um)", locale = "ko", original = true },
+  { name = "Eueumeueum (U Um U Um)", locale = "ko-Latn", default = true },
+  { name = "U Um U Um", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-01-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10244157" },
+]

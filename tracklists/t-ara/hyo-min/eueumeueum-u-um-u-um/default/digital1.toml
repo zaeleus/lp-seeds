@@ -1,0 +1,18 @@
+medium-ids = [
+  "t-ara/hyo-min/eueumeueum-u-um-u-um/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/hyo-min/eueumeueum-u-um-u-um"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/hyo-min/eueumeueum-u-um-u-um-chinese-ver"
+duration = "2:57"
+
+[[tracks]]
+position = 3
+song-id = "t-ara/hyo-min/eueumeueum-u-um-u-um-inst"
+duration = "2:57"
