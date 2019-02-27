@@ -1,0 +1,13 @@
+medium-ids = [
+  "boin/milky-way/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boin/milky-way"
+duration = "2:47"
+
+[[tracks]]
+position = 2
+song-id = "boin/you"
+duration = "2:29"
