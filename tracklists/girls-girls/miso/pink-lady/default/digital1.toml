@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-girls/miso/pink-lady/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-girls/miso/pink-lady"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "girls-girls/miso/pink-lady-inst"
+duration = "3:37"

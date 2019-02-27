@@ -1,0 +1,4 @@
+names = [
+  { name = "Pink Lady (핑크레이디) (Inst.)", locale = "ko", original = true },
+  { name = "Pink Lady (Inst.)", locale = "en", default = true },
+]
