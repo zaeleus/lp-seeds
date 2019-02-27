@@ -1,0 +1,11 @@
+names = [
+  { name = "겨울숨 (Original Ver.)", locale = "ko", original = true },
+  { name = "Gyeoulsum (Original Ver.)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/sooyoung"
+names = [
+  { name = "수영", locale = "ko", original = true },
+  { name = "SOOYOUNG", locale = "ko-Latn", default = true },
+]

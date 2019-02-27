@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-generation/sooyoung/gyeoulsum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/sooyoung/gyeoulsum-original-ver"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/sooyoung/gyeoulsum-acoustic-ver"
+duration = "3:18"
