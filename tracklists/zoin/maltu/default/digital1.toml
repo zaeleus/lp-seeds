@@ -1,0 +1,13 @@
+medium-ids = [
+  "zoin/maltu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zoin/maltu"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "zoin/maltu-inst"
+duration = "3:48"
