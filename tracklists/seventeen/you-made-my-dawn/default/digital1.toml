@@ -1,0 +1,33 @@
+medium-ids = [
+  "seventeen/you-made-my-dawn/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seventeen/good-to-me"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "seventeen/home"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "seventeen/poong"
+duration = "2:40"
+
+[[tracks]]
+position = 4
+song-id = "seventeen/chilli"
+duration = "3:04"
+
+[[tracks]]
+position = 5
+song-id = "seventeen/shhh"
+duration = "3:08"
+
+[[tracks]]
+position = 6
+song-id = "seventeen/sumi-cha"
+duration = "3:04"

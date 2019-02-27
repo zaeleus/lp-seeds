@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2015"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "세븐틴", locale = "ko", original = true },
+  { name = "SEVENTEEN", locale = "en", default = true },
+]
