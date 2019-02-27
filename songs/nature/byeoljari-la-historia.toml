@@ -1,0 +1,5 @@
+names = [
+  { name = "별자리 (La Historia)", locale = "ko", original = true },
+  { name = "Byeoljari (La Historia)", locale = "ko-Latn", default = true },
+  { name = "La Historia", locale = "en" },
+]

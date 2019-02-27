@@ -1,0 +1,18 @@
+medium-ids = [
+  "nature/some-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nature/some-you-ll-be-mine"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "nature/kkumkkwosseo-dream-about-u"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "nature/byeoljari-la-historia"
+duration = "3:29"
