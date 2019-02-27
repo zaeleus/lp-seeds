@@ -1,0 +1,5 @@
+names = [
+  { name = "혼잣말 (Monologue)", locale = "ko", original = true },
+  { name = "Honjanmal (Monologue)", locale = "ko-Latn", default = true },
+  { name = "Monologue", locale = "en" },
+]

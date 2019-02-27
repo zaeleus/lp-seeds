@@ -1,0 +1,38 @@
+medium-ids = [
+  "shinee/taemin/want/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shinee/taemin/want"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "shinee/taemin/artistic-groove"
+duration = "3:39"
+
+[[tracks]]
+position = 3
+song-id = "shinee/taemin/shadow"
+duration = "3:10"
+
+[[tracks]]
+position = 4
+song-id = "shinee/taemin/truth"
+duration = "3:20"
+
+[[tracks]]
+position = 5
+song-id = "shinee/taemin/never-forever"
+duration = "2:49"
+
+[[tracks]]
+position = 6
+song-id = "shinee/taemin/honjanmal-monologue"
+duration = "3:21"
+
+[[tracks]]
+position = 7
+song-id = "shinee/taemin/want-outro"
+duration = "1:01"
