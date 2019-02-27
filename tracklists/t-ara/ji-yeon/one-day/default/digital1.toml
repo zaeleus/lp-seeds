@@ -1,0 +1,18 @@
+medium-ids = [
+  "t-ara/ji-yeon/one-day/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/ji-yeon/one-day"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/ji-yeon/one-day-chinese-ver"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "t-ara/ji-yeon/one-day-inst"
+duration = "3:28"
