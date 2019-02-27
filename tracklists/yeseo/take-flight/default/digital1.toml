@@ -1,0 +1,13 @@
+medium-ids = [
+  "yeseo/take-flight/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yeseo/take-flight"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "yeseo/take-flight-inst"
+duration = "3:42"
