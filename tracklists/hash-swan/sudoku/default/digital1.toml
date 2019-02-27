@@ -1,0 +1,8 @@
+medium-ids = [
+  "hash-swan/sudoku/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hash-swan/sudoku"
+duration = "3:41"
