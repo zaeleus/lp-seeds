@@ -1,0 +1,4 @@
+names = [
+  { name = "도미노 (Feat. Rudals)", locale = "ko", original = true },
+  { name = "Domino (Feat. Rudals)", locale = "ko-Latn", default = true },
+]
