@@ -1,0 +1,13 @@
+medium-ids = [
+  "t-ara/eun-jung/neo-miwo-juliet-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/eun-jung/geudae-na-byeol"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/eun-jung/geudae-na-byeol-inst"
+duration = "4:01"
