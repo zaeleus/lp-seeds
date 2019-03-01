@@ -1,0 +1,13 @@
+medium-ids = [
+  "vromance/gateun-bam-dareun-neukkim/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vromance/gateun-bam-dareun-neukkim"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "vromance/gateun-bam-dareun-neukkim-inst"
+duration = "3:22"
