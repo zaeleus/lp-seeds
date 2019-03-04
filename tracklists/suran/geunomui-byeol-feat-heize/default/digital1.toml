@@ -1,0 +1,13 @@
+medium-ids = [
+  "suran/geunomui-byeol-feat-heize/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "suran/geunomui-byeol-feat-heize"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "suran/geunomui-byeol-inst"
+duration = "2:58"
