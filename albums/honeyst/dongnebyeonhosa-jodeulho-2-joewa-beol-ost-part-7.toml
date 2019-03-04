@@ -1,0 +1,16 @@
+artist-id = "honeyst"
+kind = "single"
+
+names = [
+  { name = "동네변호사 조들호2 : 죄와 벌 OST Part.7", locale = "ko", original = true },
+  { name = "Dongnebyeonhosa Jodeulho 2: Joewa Beol OST Part.7", locale = "ko-Latn", default = true },
+  { name = "My Lawyer, Mr. Jo 2 OST Part.7", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-03-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10256145" },
+]

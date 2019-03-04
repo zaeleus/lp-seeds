@@ -1,0 +1,13 @@
+medium-ids = [
+  "honeyst/dongnebyeonhosa-jodeulho-2-joewa-beol-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "honeyst/thank-u"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "honeyst/thank-u-inst"
+duration = "3:30"
