@@ -1,0 +1,15 @@
+artist-id = "wonder-girls/sunmi"
+kind = "single"
+
+names = [
+  { name = "누아르 (Noir)", locale = "ko", original = true },
+  { name = "Noir", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-03-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10256841" },
+]
