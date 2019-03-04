@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/neoraneun-sesang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/neoraneun-sesang"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/neoraneun-sesang-inst"
+duration = "3:34"
