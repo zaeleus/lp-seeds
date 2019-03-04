@@ -1,0 +1,4 @@
+names = [
+  { name = "I Wanna Be (Feat. 소연 of (여자)아이들)", locale = "ko", original = true },
+  { name = "I Wanna Be (Feat. Soyeon of (G)I-DLE)", locale = "ko-Latn", default = true },
+]
