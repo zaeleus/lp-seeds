@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "저스투", locale = "ko", original = true },
+  { name = "Jus2", locale = "en", default = true },
+]
