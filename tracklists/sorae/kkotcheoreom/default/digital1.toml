@@ -1,0 +1,18 @@
+medium-ids = [
+  "sorae/kkotcheoreom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sorae/kkotcheoreom"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "sorae/kkotcheoreom-piano-ver"
+duration = "3:56"
+
+[[tracks]]
+position = 3
+song-id = "sorae/kkotcheoreom-inst"
+duration = "3:56"
