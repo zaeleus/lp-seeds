@@ -1,0 +1,43 @@
+medium-ids = [
+  "vixx/ravi/r-ook-book/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vixx/ravi/r-ook-book"
+duration = "1:46"
+
+[[tracks]]
+position = 2
+song-id = "vixx/ravi/tuxedo"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "vixx/ravi/l-a-y-e-r-e-d-feat-saay"
+duration = "3:37"
+
+[[tracks]]
+position = 4
+song-id = "vixx/ravi/nongneunjeom-see-through-feat-cold-bay"
+duration = "3:11"
+
+[[tracks]]
+position = 5
+song-id = "vixx/ravi/runway"
+duration = "3:15"
+
+[[tracks]]
+position = 6
+song-id = "vixx/ravi/u-niverse-cosmocorps-feat-rick-bridges"
+duration = "3:33"
+
+[[tracks]]
+position = 7
+song-id = "vixx/ravi/hoodie-feat-xydo-raf-sandou"
+duration = "3:07"
+
+[[tracks]]
+position = 8
+song-id = "vixx/ravi/bonus-track-live-feat-chungha"
+duration = "3:23"

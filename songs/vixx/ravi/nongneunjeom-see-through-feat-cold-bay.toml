@@ -1,0 +1,5 @@
+names = [
+  { name = "녹는점 (See-Through) (Feat. Cold Bay)", locale = "ko", original = true },
+  { name = "Nongneunjeom (See-Through) (Feat. Cold Bay)", locale = "ko-Latn", default = true },
+  { name = "See-Through (Feat. Cold Bay)", locale = "en" },
+]
