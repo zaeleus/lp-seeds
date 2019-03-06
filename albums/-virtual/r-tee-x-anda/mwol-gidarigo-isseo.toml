@@ -1,0 +1,21 @@
+artist-id = "-virtual/r-tee-x-anda"
+kind = "single"
+
+names = [
+  { name = "뭘 기다리고 있어", locale = "ko", original = true },
+  { name = "Mwol Gidarigo Isseo", locale = "ko-Latn", default = true },
+  { name = "What You Waiting For", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "r-tee", separator = " x " },
+  { artist-id = "anda" },
+]
+
+[[releases]]
+released-on = "2019-03-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10257647" },
+]
