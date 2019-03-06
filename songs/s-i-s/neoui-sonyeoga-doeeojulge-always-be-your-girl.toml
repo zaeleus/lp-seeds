@@ -1,0 +1,5 @@
+names = [
+  { name = "너의 소녀가 되어줄게 (Always Be Your Girl)", locale = "ko", original = true },
+  { name = "Neoui Sonyeoga Doeeojulge (Always Be Your Girl)", locale = "ko-Latn", default = true },
+  { name = "Always Be Your Girl", locale = "en" },
+]

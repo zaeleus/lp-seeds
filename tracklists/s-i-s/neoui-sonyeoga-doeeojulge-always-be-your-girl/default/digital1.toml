@@ -1,0 +1,13 @@
+medium-ids = [
+  "s-i-s/neoui-sonyeoga-doeeojulge-always-be-your-girl/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "s-i-s/neoui-sonyeoga-doeeojulge-always-be-your-girl"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "s-i-s/neoui-sonyeoga-doeeojulge-always-be-your-girl-inst"
+duration = "3:12"

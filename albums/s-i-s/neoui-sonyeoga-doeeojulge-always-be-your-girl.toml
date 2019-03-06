@@ -1,0 +1,16 @@
+artist-id = "s-i-s"
+kind = "single"
+
+names = [
+  { name = "너의 소녀가 되어줄게 (Always Be Your Girl)", locale = "ko", original = true },
+  { name = "Neoui Sonyeoga Doeeojulge (Always Be Your Girl)", locale = "ko-Latn", default = true },
+  { name = "Always Be Your Girl", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-03-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10257258" },
+]
