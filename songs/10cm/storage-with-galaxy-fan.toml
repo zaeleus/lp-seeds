@@ -1,0 +1,3 @@
+names = [
+  { name = "Storage (with Galaxy Fan)", locale = "ko", original = true, default = true },
+]
