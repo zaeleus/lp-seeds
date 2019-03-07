@@ -1,0 +1,16 @@
+artist-id = "ladies-code/so-jung"
+kind = "single"
+
+names = [
+  { name = "빙의 OST Part.1", locale = "ko", original = true },
+  { name = "Bingui OST Part.1", locale = "ko-Latn", default = true },
+  { name = "Possessed OST Part.1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-03-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10258393" },
+]
