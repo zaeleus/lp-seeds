@@ -1,0 +1,9 @@
+names = [
+  { name = "헤어지지 말아요, 우리", locale = "ko", original = true },
+  { name = "Heeojiji Marayo, Uri", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "rocoberry", separator = ", " },
+  { artist-id = "nct/doyoung" },
+]

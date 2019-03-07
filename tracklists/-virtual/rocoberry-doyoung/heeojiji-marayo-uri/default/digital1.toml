@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/rocoberry-doyoung/heeojiji-marayo-uri/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/rocoberry-doyoung/heeojiji-marayo-uri"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/rocoberry-doyoung/heeojiji-marayo-uri-inst"
+duration = "3:07"
