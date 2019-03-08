@@ -1,0 +1,16 @@
+artist-id = "s-i-s"
+kind = "single"
+
+names = [
+  { name = "리갈하이 OST Part.4", locale = "ko", original = true },
+  { name = "Rigalhai OST Part.4", locale = "ko-Latn" },
+  { name = "Legal High OST Part.4", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-03-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10258372" },
+]

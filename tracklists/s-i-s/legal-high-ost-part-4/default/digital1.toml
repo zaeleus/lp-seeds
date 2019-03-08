@@ -1,0 +1,13 @@
+medium-ids = [
+  "s-i-s/legal-high-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "s-i-s/shalala"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "s-i-s/shalala-inst"
+duration = "3:17"
