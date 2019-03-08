@@ -1,0 +1,68 @@
+medium-ids = [
+  "hong-jin-young/lots-of-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hong-jin-young/oneul-bame"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "hong-jin-young/seumyeodeuna-bom"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "hong-jin-young/nunmulbi"
+duration = "3:52"
+
+[[tracks]]
+position = 4
+song-id = "hong-jin-young/sarangeun-da-ireoni"
+duration = "3:08"
+
+[[tracks]]
+position = 5
+song-id = "hong-jin-young/eomji-cheok"
+duration = "3:33"
+
+[[tracks]]
+position = 6
+song-id = "hong-jin-young/seoul-saram-feat-bray"
+duration = "3:26"
+
+[[tracks]]
+position = 7
+song-id = "hong-jin-young/jalgara"
+duration = "3:17"
+
+[[tracks]]
+position = 8
+song-id = "hong-jin-young/boogie-man"
+duration = "3:12"
+
+[[tracks]]
+position = 9
+song-id = "hong-jin-young/ttareureung-jakgokga-ver"
+duration = "3:18"
+
+[[tracks]]
+position = 10
+song-id = "hong-jin-young/sarangui-baeteori"
+duration = "3:29"
+
+[[tracks]]
+position = 11
+song-id = "hong-jin-young/sandaneun-geon"
+duration = "3:27"
+
+[[tracks]]
+position = 12
+song-id = "hong-jin-young/sarangi-joa"
+duration = "3:26"
+
+[[tracks]]
+position = 13
+song-id = "hong-jin-young/oneul-bame-inst"
+duration = "3:01"

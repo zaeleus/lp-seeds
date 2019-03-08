@@ -1,0 +1,5 @@
+names = [
+  { name = "서울사람 (Feat. 브레이)", locale = "ko", original = true },
+  { name = "Seoul-saram (Feat. Bray)", locale = "ko-Latn", default = true },
+  { name = "Seoul (Feat. Bray)", locale = "en" },
+]

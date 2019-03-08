@@ -1,0 +1,5 @@
+names = [
+  { name = "따르릉 (작곡가 Ver.)", locale = "ko", original = true },
+  { name = "Ttareureung (Jakgokga Ver.)", locale = "ko-Latn", default = true },
+  { name = "Ring Ring (Composer Ver.)", locale = "en" },
+]

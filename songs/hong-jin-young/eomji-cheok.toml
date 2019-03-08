@@ -1,0 +1,5 @@
+names = [
+  { name = "엄지 척", locale = "ko", original = true },
+  { name = "Eomji Cheok", locale = "ko-Latn", default = true },
+  { name = "Thumb Up", locale = "en" },
+]

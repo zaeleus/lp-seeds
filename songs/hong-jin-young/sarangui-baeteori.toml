@@ -1,0 +1,5 @@
+names = [
+  { name = "사랑의 배터리", locale = "ko", original = true },
+  { name = "Sarangui Baeteori", locale = "ko-Latn", default = true },
+  { name = "Battery of Love", locale = "en" },
+]
