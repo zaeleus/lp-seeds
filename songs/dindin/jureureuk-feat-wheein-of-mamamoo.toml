@@ -1,0 +1,4 @@
+names = [
+  { name = "주르륵 (feat. 휘인 of 마마무)", locale = "ko", original = true },
+  { name = "Jureureuk (feat. Wheein of MAMAMOO)", locale = "ko-Latn", default = true },
+]
