@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-na-young/romance-neun-byeolchaekburok-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-na-young/neoui-modeun-gieoksoge"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "kim-na-young/neoui-modeun-gieoksoge-inst"
+duration = "3:26"
