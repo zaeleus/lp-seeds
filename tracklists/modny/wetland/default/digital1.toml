@@ -1,0 +1,18 @@
+medium-ids = [
+  "modny/wetland/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "modny/neul-eodupge-bichulge"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "modny/in-a-rain"
+duration = "4:16"
+
+[[tracks]]
+position = 3
+song-id = "modny/with-your-light"
+duration = "4:17"
