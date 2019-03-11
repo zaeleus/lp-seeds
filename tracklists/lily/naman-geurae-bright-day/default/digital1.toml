@@ -1,0 +1,13 @@
+medium-ids = [
+  "lily/naman-geurae-bright-day/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lily/naman-geurae-bright-day"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "lily/naman-geurae-bright-day-inst"
+duration = "3:35"

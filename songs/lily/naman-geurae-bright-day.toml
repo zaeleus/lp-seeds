@@ -1,0 +1,5 @@
+names = [
+  { name = "나만 그래 (Bright day)", locale = "ko", original = true },
+  { name = "Naman Geurae (Bright day)", locale = "ko-Latn", default = true },
+  { name = "Bright day", locale = "en" },
+]
