@@ -1,0 +1,38 @@
+medium-ids = [
+  "epik-high/sleepless-in-__________/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "epik-high/sleepless"
+duration = "1:05"
+
+[[tracks]]
+position = 2
+song-id = "epik-high/in-seoul-feat-sunwoo-jung-a"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song-id = "epik-high/suri-dalda-feat-crush"
+duration = "4:11"
+
+[[tracks]]
+position = 4
+song-id = "epik-high/saebyeoge"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "epik-high/no-different-feat-yuna"
+duration = "3:21"
+
+[[tracks]]
+position = 6
+song-id = "epik-high/biga-ondae-naeildo"
+duration = "3:00"
+
+[[tracks]]
+position = 7
+song-id = "epik-high/lullaby-for-a-cat"
+duration = "2:12"

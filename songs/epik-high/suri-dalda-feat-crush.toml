@@ -1,0 +1,5 @@
+names = [
+  { name = "술이 달다 (Feat. 크러쉬)", locale = "ko", original = true },
+  { name = "Suri Dalda (Feat. Crush)", locale = "ko-Latn", default = true },
+  { name = "LOVEDRUNK (Feat. Crush)", locale = "en" },
+]
