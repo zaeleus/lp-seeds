@@ -1,0 +1,4 @@
+names = [
+  { name = "하쿠나 마타타 (Inst.)", locale = "ko", original = true },
+  { name = "Hakuna Matata (Inst.)", locale = "ko-Latn", default = true },
+]

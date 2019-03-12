@@ -1,0 +1,28 @@
+medium-ids = [
+  "dreamnote/dream-us/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dreamnote/bienvenido-welcome-back"
+duration = "1:33"
+
+[[tracks]]
+position = 2
+song-id = "dreamnote/hakuna-matata"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "dreamnote/chwimineun-neo"
+duration = "3:17"
+
+[[tracks]]
+position = 4
+song-id = "dreamnote/cong-cong-uhh-ohh"
+duration = "3:15"
+
+[[tracks]]
+position = 5
+song-id = "dreamnote/hakuna-matata-inst"
+duration = "3:24"
