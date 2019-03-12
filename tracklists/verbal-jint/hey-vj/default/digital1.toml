@@ -1,0 +1,13 @@
+medium-ids = [
+  "verbal-jint/hey-vj/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "verbal-jint/hey-vj"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "verbal-jint/hey-vj-inst"
+duration = "3:04"

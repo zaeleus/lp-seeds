@@ -1,0 +1,14 @@
+artist-id = "verbal-jint"
+kind = "single"
+
+names = [
+  { name = "Hey VJ", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-03-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10259608" },
+]
