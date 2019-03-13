@@ -1,0 +1,16 @@
+artist-id = "park-bo-ram"
+kind = "single"
+
+names = [
+  { name = "진심이 닿다 OST Part.6", locale = "ko", original = true },
+  { name = "Jinsimi Data OST Part.6", locale = "ko-Latn", default = true },
+  { name = "Touch Your Heart OST Part.6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-03-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10260908" },
+]
