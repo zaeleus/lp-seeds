@@ -1,0 +1,13 @@
+medium-ids = [
+  "dia/yebin/bomi-ona-bom-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dia/yebin/say-my-name"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "dia/yebin/say-my-name-inst"
+duration = "3:41"
