@@ -1,0 +1,18 @@
+medium-ids = [
+  "2ne1/bom/spring/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2ne1/bom/bom-feat-sandara-park"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "2ne1/bom/naeyeonin"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "2ne1/bom/changpihae"
+duration = "3:34"
