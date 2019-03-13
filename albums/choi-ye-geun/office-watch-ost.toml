@@ -1,0 +1,15 @@
+artist-id = "choi-ye-geun"
+kind = "single"
+
+names = [
+  { name = "오피스워치 OST", locale = "ko", original = true },
+  { name = "Office Watch OST", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-03-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10260093" },
+]

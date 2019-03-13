@@ -1,0 +1,5 @@
+names = [
+  { name = "파렴치 (Shameless) (Inst.)", locale = "ko", original = true },
+  { name = "Paryeomchi (Shameless) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Shameless (Inst.)", locale = "en" },
+]

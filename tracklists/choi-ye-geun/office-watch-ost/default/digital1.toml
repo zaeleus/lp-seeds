@@ -1,0 +1,13 @@
+medium-ids = [
+  "choi-ye-geun/office-watch-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "choi-ye-geun/paryeomchi-shameless"
+duration = "2:36"
+
+[[tracks]]
+position = 2
+song-id = "choi-ye-geun/paryeomchi-shameless-inst"
+duration = "2:36"
