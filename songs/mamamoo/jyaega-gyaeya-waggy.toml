@@ -1,0 +1,5 @@
+names = [
+  { name = "쟤가 걔야 (Waggy)", locale = "ko", original = true },
+  { name = "Jyaega Gyaeya (Waggy)", locale = "ko-Latn", default = true },
+  { name = "Waggy", locale = "en" },
+]
