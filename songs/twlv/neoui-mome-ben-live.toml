@@ -1,0 +1,4 @@
+names = [
+  { name = "너의 몸에 벤 (Live)", locale = "ko", original = true },
+  { name = "Neoui Mome Ben (Live)", locale = "ko-Latn", default = true },
+]

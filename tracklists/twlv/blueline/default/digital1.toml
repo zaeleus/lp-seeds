@@ -1,0 +1,28 @@
+medium-ids = [
+  "twlv/blueline/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twlv/blueline"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "twlv/eleven-feat-bibi"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "twlv/in-the-room"
+duration = "3:27"
+
+[[tracks]]
+position = 4
+song-id = "twlv/you-live"
+duration = "2:39"
+
+[[tracks]]
+position = 5
+song-id = "twlv/neoui-mome-ben-live"
+duration = "3:47"
