@@ -1,0 +1,13 @@
+medium-ids = [
+  "red-velvet/yeri/seumurege-dear-diary/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/yeri/seumurege-dear-diary"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/yeri/seumurege-dear-diary-inst"
+duration = "3:39"

@@ -1,0 +1,23 @@
+artist-id = "red-velvet/yeri"
+kind = "single"
+
+names = [
+  { name = "스물에게 (Dear Diary)", locale = "ko", original = true },
+  { name = "Seumurege (Dear Diary)", locale = "ko-Latn", default = true },
+  { name = "Dear Diary", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "red-velvet/yeri"
+names = [
+  { name = "예리", locale = "ko", original = true },
+  { name = "YERI", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-03-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10261326" },
+]
