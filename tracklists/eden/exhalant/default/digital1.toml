@@ -1,0 +1,23 @@
+medium-ids = [
+  "eden/exhalant/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eden/neomu-saranghaeseo-saranghal-su-eopseo"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "eden/killing-me-slowly"
+duration = "4:33"
+
+[[tracks]]
+position = 3
+song-id = "eden/3-things-feat-maddox"
+duration = "3:25"
+
+[[tracks]]
+position = 4
+song-id = "eden/i-m-yours"
+duration = "3:44"
