@@ -1,0 +1,15 @@
+artist-id = "lydia"
+kind = "single"
+
+names = [
+  { name = "끝난거니 우리 이제 못 보니", locale = "ko", original = true },
+  { name = "Kkeunnangeoni Uri Ije Mot Boni", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-03-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10261974" },
+]

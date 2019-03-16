@@ -1,0 +1,13 @@
+medium-ids = [
+  "lydia/kkeunnangeoni-uri-ije-mot-boni/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lydia/kkeunnangeoni-uri-ije-mot-boni"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "lydia/kkeunnangeoni-uri-ije-mot-boni-inst"
+duration = "3:53"
