@@ -1,0 +1,14 @@
+artist-id = "ourr"
+kind = "single"
+
+names = [
+  { name = "Swing", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-03-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10261807" },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "ourr/swing/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ourr/swing"
+duration = "3:29"
