@@ -1,0 +1,21 @@
+artist-id = "15and/yerin"
+kind = "ep"
+
+names = [
+  { name = "Our love is great", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "15and/yerin"
+names = [
+  { name = "백예린", locale = "ko", original = true },
+  { name = "Yerin Baek", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-03-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10262378" },
+]

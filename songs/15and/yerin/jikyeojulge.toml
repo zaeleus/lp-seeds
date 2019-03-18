@@ -1,0 +1,11 @@
+names = [
+  { name = "지켜줄게", locale = "ko", original = true },
+  { name = "Jikyeojulge", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "15and/yerin"
+names = [
+  { name = "백예린", locale = "ko", original = true },
+  { name = "Yerin Baek", locale = "en", default = true },
+]

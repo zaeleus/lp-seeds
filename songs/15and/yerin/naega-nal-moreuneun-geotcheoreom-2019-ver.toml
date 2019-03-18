@@ -1,0 +1,11 @@
+names = [
+  { name = "내가 날 모르는 것처럼 (2019 ver.)", locale = "ko", original = true },
+  { name = "Naega Nal Moreuneun Geotcheoreom (2019 Ver.)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "15and/yerin"
+names = [
+  { name = "백예린", locale = "ko", original = true },
+  { name = "Yerin Baek", locale = "en", default = true },
+]

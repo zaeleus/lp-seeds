@@ -1,0 +1,12 @@
+names = [
+  { name = "그건 아마 우리의 잘못은 아닐 거야", locale = "ko", original = true },
+  { name = "Geugeon Ama Uriui Jalmoseun Anil Geoya", locale = "ko-Latn", default = true },
+  { name = "Maybe It's Not Our Fault", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "15and/yerin"
+names = [
+  { name = "백예린", locale = "ko", original = true },
+  { name = "Yerin Baek", locale = "en", default = true },
+]
