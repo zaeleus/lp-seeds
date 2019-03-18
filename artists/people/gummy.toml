@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1981-04-08"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "거미", locale = "ko", kind = "stage", original = true },
+  { name = "Gummy", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박지연", locale = "ko", kind = "real" },
+  { name = "Park Ji Yeon", locale = "ko-Latn", kind = "real" },
+]
