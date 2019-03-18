@@ -1,0 +1,16 @@
+artist-id = "kim-yeon-ji"
+kind = "single"
+
+names = [
+  { name = "눈이 부시게 OST Part.6", locale = "ko", original = true },
+  { name = "Nuni Busige OST Part.6", locale = "ko-Latn", default = true },
+  { name = "The Light in Your Eyes OST Part.6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-03-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10261904" },
+]

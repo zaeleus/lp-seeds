@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-yeon-ji/nuni-busige-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-yeon-ji/mulgam"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "kim-yeon-ji/mulgam-inst"
+duration = "3:29"
