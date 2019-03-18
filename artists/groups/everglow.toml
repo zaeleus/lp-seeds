@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "에버글로우", locale = "ko", original = true },
+  { name = "EVERGLOW", locale = "ko-Latn", default = true },
+]

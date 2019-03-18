@@ -1,0 +1,18 @@
+medium-ids = [
+  "everglow/arrival-of-everglow/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "everglow/dara-moon"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "everglow/bon-bon-chocolat"
+duration = "3:49"
+
+[[tracks]]
+position = 3
+song-id = "everglow/d-1"
+duration = "4:37"

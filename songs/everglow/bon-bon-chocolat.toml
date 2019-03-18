@@ -1,0 +1,4 @@
+names = [
+  { name = "봉봉쇼콜라 (Bon Bon Chocolat)", locale = "ko", original = true },
+  { name = "Bon Bon Chocolat", locale = "en", default = true },
+]

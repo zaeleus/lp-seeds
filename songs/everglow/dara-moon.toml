@@ -1,0 +1,5 @@
+names = [
+  { name = "달아 (Moon)", locale = "ko", original = true },
+  { name = "Dara (Moon)", locale = "ko-Latn", default = true },
+  { name = "Moon", locale = "en" },
+]
