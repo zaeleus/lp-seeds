@@ -1,0 +1,28 @@
+medium-ids = [
+  "vav/thrilla-killa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vav/thrilla-killa"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "vav/i-m-sorry"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "vav/touch-you"
+duration = "3:41"
+
+[[tracks]]
+position = 4
+song-id = "vav/senorita"
+duration = "3:32"
+
+[[tracks]]
+position = 5
+song-id = "vav/thrilla-killa-inst"
+duration = "3:51"
