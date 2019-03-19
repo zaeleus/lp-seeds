@@ -1,0 +1,28 @@
+medium-ids = [
+  "dia/newtro/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dia/woowa"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "dia/anhallae"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "dia/5-bunman"
+duration = "3:29"
+
+[[tracks]]
+position = 4
+song-id = "dia/sontopdal-crescendo"
+duration = "3:43"
+
+[[tracks]]
+position = 5
+song-id = "dia/woowa-inst"
+duration = "3:31"

@@ -1,0 +1,5 @@
+names = [
+  { name = "손톱달 (Crescendo)", locale = "ko", original = true },
+  { name = "Sontopdal (Crescendo)", locale = "ko-Latn", default = true },
+  { name = "Crescendo", locale = "en" },
+]
