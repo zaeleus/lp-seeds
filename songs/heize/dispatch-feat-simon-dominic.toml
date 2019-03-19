@@ -1,0 +1,3 @@
+names = [
+  { name = "Dispatch (Feat. Simon Dominic)", locale = "ko", original = true, default = true },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "너의 나무 (Feat. 주영)", locale = "ko", original = true },
+  { name = "Neoui Namu (Feat. Jooyoung)", locale = "ko-Latn", default = true },
+]

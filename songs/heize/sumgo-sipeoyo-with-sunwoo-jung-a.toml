@@ -1,0 +1,4 @@
+names = [
+  { name = "숨고 싶어요 (With. 선우정아)", locale = "ko", original = true },
+  { name = "Sumgo Sipeoyo (With. Sunwoo Jung A)", locale = "ko-Latn", default = true },
+]

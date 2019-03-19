@@ -1,0 +1,4 @@
+names = [
+  { name = "숨겨둔 편지 (empty ver.)", locale = "ko", original = true },
+  { name = "Sumgyeodun Pyeonji (empty ver.)", locale = "ko-Latn", default = true },
+]
