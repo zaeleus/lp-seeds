@@ -1,0 +1,15 @@
+artist-id = "gfriend"
+kind = "single"
+
+names = [
+  { name = "한입만2", locale = "ko", original = true },
+  { name = "Hanimman 2", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-03-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10263631" },
+]
