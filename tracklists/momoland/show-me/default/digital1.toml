@@ -1,0 +1,33 @@
+medium-ids = [
+  "momoland/show-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "momoland/i-m-so-hot"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "momoland/falling-u"
+duration = "2:54"
+
+[[tracks]]
+position = 3
+song-id = "momoland/binna"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "momoland/holiday"
+duration = "3:31"
+
+[[tracks]]
+position = 5
+song-id = "momoland/what-you-want"
+duration = "3:26"
+
+[[tracks]]
+position = 6
+song-id = "momoland/i-m-so-hot-inst"
+duration = "3:21"
