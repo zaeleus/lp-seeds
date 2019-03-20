@@ -1,0 +1,13 @@
+medium-ids = [
+  "zia/nado-namjayeotdamyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zia/nado-namjayeotdamyeon"
+duration = "4:11"
+
+[[tracks]]
+position = 2
+song-id = "zia/nado-namjayeotdamyeon-inst"
+duration = "4:11"

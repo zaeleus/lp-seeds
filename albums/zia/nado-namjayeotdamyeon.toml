@@ -1,0 +1,15 @@
+artist-id = "zia"
+kind = "single"
+
+names = [
+  { name = "나도 남자였다면", locale = "ko", original = true },
+  { name = "Nado Namjayeotdamyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-03-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10263678" },
+]

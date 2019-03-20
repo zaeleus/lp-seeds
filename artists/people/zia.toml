@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1986-07-21"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "지아", locale = "ko", kind = "stage", original = true },
+  { name = "Zia", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박지혜", locale = "ko", kind = "real" },
+  { name = "Park Ji Hye", locale = "ko-Latn", kind = "real" },
+]
