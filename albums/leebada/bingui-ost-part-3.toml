@@ -1,0 +1,16 @@
+artist-id = "leebada"
+kind = "single"
+
+names = [
+  { name = "빙의 OST Part.3", locale = "ko", original = true },
+  { name = "Bingui OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Possessed OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-03-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10264372" },
+]
