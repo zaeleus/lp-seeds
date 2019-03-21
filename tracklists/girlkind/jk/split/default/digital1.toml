@@ -1,0 +1,13 @@
+medium-ids = [
+  "girlkind/jk/split/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girlkind/jk/split-feat-tommy-strate"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "girlkind/jk/i-land"
+duration = "3:55"

@@ -1,0 +1,3 @@
+names = [
+  { name = "SPLIT (feat. Tommy Strate)", locale = "ko", original = true, default = true },
+]
