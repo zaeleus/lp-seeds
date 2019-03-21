@@ -1,0 +1,13 @@
+medium-ids = [
+  "ahn-hyeon-jeong/neo-miwo-juliet-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ahn-hyeon-jeong/i-wish"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "ahn-hyeon-jeong/i-wish-inst"
+duration = "3:29"
