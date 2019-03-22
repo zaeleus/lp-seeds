@@ -1,0 +1,8 @@
+medium-ids = [
+  "produce-x-101/_jima-x1-ma/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "produce-x-101/_jima-x1-ma"
+duration = "4:15"
