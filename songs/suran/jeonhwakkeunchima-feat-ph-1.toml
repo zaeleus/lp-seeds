@@ -1,0 +1,4 @@
+names = [
+  { name = "전화끊지마 (Feat. pH-1)", locale = "ko", original = true },
+  { name = "Jeonhwakkeunchima (Feat. pH-1)", locale = "ko-Latn", default = true },
+]

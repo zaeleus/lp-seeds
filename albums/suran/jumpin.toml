@@ -1,0 +1,14 @@
+artist-id = "suran"
+kind = "ep"
+
+names = [
+  { name = "Jumpin'", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-03-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10264898" },
+]

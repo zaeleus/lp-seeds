@@ -1,0 +1,4 @@
+names = [
+  { name = "의식의 흐름 (Feat. 윤미래)", locale = "ko", original = true },
+  { name = "Uisigui Heureum (Feat. Yoon Mi Rae)", locale = "ko-Latn", default = true },
+]
