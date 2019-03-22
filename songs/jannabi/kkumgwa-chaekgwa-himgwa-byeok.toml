@@ -1,0 +1,4 @@
+names = [
+  { name = "꿈과 책과 힘과 벽", locale = "ko", original = true },
+  { name = "Kkumgwa Chaekgwa Himgwa Byeok", locale = "ko-Latn", default = true },
+]

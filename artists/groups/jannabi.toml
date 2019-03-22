@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2014"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "잔나비", locale = "ko", original = true },
+  { name = "JANNABI", locale = "ko-Latn", default = true },
+]
