@@ -1,0 +1,9 @@
+names = [
+  { name = "퇴근", locale = "ko", original = true },
+  { name = "Toegeun", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "ovan", separator = ", " },
+  { artist-id = "eden" },
+]
