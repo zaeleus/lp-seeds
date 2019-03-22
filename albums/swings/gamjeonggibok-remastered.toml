@@ -1,0 +1,15 @@
+artist-id = "swings"
+kind = "ep"
+
+names = [
+  { name = "감정기복 (Remastered)", locale = "ko", original = true },
+  { name = "Gamjeonggibok (Remastered)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-03-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10262459" },
+]
