@@ -1,0 +1,9 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "김윤희", locale = "ko", kind = "real", original = true },
+  { name = "Kim Yoon Hee", locale = "ko-Latn", kind = "real", default = true },
+]

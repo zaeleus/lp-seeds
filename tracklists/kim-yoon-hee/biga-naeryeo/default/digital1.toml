@@ -1,0 +1,23 @@
+medium-ids = [
+  "kim-yoon-hee/biga-naeryeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-yoon-hee/biga-naeryeo"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "kim-yoon-hee/cheoeumijanayo"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "kim-yoon-hee/biga-naeryeo-inst"
+duration = "3:59"
+
+[[tracks]]
+position = 4
+song-id = "kim-yoon-hee/cheoeumijanayo-inst"
+duration = "3:45"
