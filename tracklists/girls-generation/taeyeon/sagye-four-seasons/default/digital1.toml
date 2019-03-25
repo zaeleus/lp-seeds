@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-generation/taeyeon/sagye-four-seasons/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/taeyeon/blue"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/taeyeon/sagye-four-seasons"
+duration = "3:09"

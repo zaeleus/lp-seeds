@@ -1,0 +1,23 @@
+artist-id = "girls-generation/taeyeon"
+kind = "single"
+
+names = [
+  { name = "사계 (Four Seasons)", locale = "ko", original = true },
+  { name = "Sagye (Four Seasons)", locale = "ko-Latn", default = true },
+  { name = "Four Seasons", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-03-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10265079" },
+]
