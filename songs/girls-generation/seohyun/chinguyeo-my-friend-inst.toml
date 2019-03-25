@@ -1,0 +1,12 @@
+names = [
+  { name = "친구여 (My Friend) (Inst.)", locale = "ko", original = true },
+  { name = "Chinguyeo (My Friend) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "My Friend (Inst.)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/seohyun"
+names = [
+  { name = "서현", locale = "ko", original = true },
+  { name = "SEOHYUN", locale = "ko-Latn", default = true },
+]

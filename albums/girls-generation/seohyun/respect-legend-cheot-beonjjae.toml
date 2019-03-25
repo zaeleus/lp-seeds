@@ -1,0 +1,23 @@
+artist-id = "girls-generation/seohyun"
+kind = "single"
+
+names = [
+  { name = "리스펙트 레전드 (첫 번째)", locale = "ko", original = true },
+  { name = "Respect Legend (Cheot Beonjjae)", locale = "ko-Latn", default = true },
+  { name = "Respect Legend", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/seohyun"
+names = [
+  { name = "서현", locale = "ko", original = true },
+  { name = "SEOHYUN", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-03-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10264803" },
+]
