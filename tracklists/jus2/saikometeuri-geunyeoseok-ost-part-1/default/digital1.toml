@@ -1,0 +1,13 @@
+medium-ids = [
+  "jus2/saikometeuri-geunyeoseok-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jus2/take"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "jus2/take-inst"
+duration = "3:13"
