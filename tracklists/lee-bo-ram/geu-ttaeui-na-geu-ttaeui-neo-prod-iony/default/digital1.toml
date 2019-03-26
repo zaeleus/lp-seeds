@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-bo-ram/geu-ttaeui-na-geu-ttaeui-neo-prod-iony/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-bo-ram/geu-ttaeui-na-geu-ttaeui-neo-prod-iony"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "lee-bo-ram/geu-ttaeui-na-geu-ttaeui-neo-inst"
+duration = "3:15"
