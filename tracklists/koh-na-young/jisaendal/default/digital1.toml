@@ -1,0 +1,13 @@
+medium-ids = [
+  "koh-na-young/jisaendal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "koh-na-young/jisaendal"
+duration = "2:45"
+
+[[tracks]]
+position = 2
+song-id = "koh-na-young/jisaendal-inst"
+duration = "2:45"
