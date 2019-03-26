@@ -1,0 +1,14 @@
+artist-id = "perc-nt"
+kind = "single"
+
+names = [
+  { name = "Superhero", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-03-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10266174" },
+]
