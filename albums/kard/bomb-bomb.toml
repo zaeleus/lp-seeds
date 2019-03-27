@@ -1,0 +1,15 @@
+artist-id = "kard"
+kind = "single"
+
+names = [
+  { name = "밤밤 (Bomb Bomb)", locale = "ko", original = true },
+  { name = "Bomb Bomb", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-03-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10266745" },
+]
