@@ -1,0 +1,4 @@
+names = [
+  { name = "Til I Die (Feat. 박재범) (Prod. Mokyo)", locale = "ko", original = true },
+  { name = "Til I Die (Feat. Jay Park) (Prod. Mokyo)", locale = "ko-Latn", default = true },
+]

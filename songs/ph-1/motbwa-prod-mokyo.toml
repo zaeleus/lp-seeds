@@ -1,0 +1,4 @@
+names = [
+  { name = "못봐 (Prod. Mokyo)", locale = "ko", original = true },
+  { name = "Motbwa (Prod. Mokyo)", locale = "ko-Latn", default = true },
+]

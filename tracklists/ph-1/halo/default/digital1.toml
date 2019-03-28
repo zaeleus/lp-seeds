@@ -1,0 +1,63 @@
+medium-ids = [
+  "ph-1/halo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ph-1/alright-prod-mokyo"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "ph-1/neomusireo-prod-mokyo"
+duration = "3:37"
+
+[[tracks]]
+position = 3
+song-id = "ph-1/malibu-feat-the-quiett-mokyo-prod-mokyo"
+duration = "4:11"
+
+[[tracks]]
+position = 4
+song-id = "ph-1/lights-out-feat-jang-suk-hoon-prod-mokyo"
+duration = "2:56"
+
+[[tracks]]
+position = 5
+song-id = "ph-1/push-me-feat-owen-ovadoz-paloalto-prod-mokyo"
+duration = "3:40"
+
+[[tracks]]
+position = 6
+song-id = "ph-1/like-me-prod-mokyo"
+duration = "3:53"
+
+[[tracks]]
+position = 7
+song-id = "ph-1/motbwa-prod-mokyo"
+duration = "3:38"
+
+[[tracks]]
+position = 8
+song-id = "ph-1/rain-man-feat-ted-park-prod-mokyo"
+duration = "3:43"
+
+[[tracks]]
+position = 9
+song-id = "ph-1/olaf-feat-coogie-prod-mokyo"
+duration = "3:29"
+
+[[tracks]]
+position = 10
+song-id = "ph-1/dirty-nikes-prod-mokyo"
+duration = "3:40"
+
+[[tracks]]
+position = 11
+song-id = "ph-1/til-i-die-feat-jay-park-prod-mokyo"
+duration = "3:54"
+
+[[tracks]]
+position = 12
+song-id = "ph-1/making-film-feat-mokyo-prod-mokyo"
+duration = "3:17"

@@ -1,0 +1,4 @@
+names = [
+  { name = "Lights Out (Feat. 장석훈) (Prod. Mokyo)", locale = "ko", original = true },
+  { name = "Lights Out (Feat. Jang Suk Hoon) (Prod. Mokyo)", locale = "ko-Latn", default = true },
+]
