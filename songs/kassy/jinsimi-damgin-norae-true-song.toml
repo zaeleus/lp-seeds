@@ -1,0 +1,5 @@
+names = [
+  { name = "진심이 담긴 노래 (True Song)", locale = "ko", original = true },
+  { name = "Jinsimi Damgin Norae (True Song)", locale = "ko-Latn", default = true },
+  { name = "True Song", locale = "en" },
+]

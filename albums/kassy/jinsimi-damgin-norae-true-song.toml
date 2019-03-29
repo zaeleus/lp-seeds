@@ -1,0 +1,16 @@
+artist-id = "kassy"
+kind = "single"
+
+names = [
+  { name = "진심이 담긴 노래 (True Song)", locale = "ko", original = true },
+  { name = "Jinsimi Damgin Norae (True Song)", locale = "ko-Latn", default = true },
+  { name = "True Song", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-03-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10267222" },
+]

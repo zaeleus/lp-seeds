@@ -1,0 +1,13 @@
+medium-ids = [
+  "kassy/jinsimi-damgin-norae-true-song/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/jinsimi-damgin-norae-true-song"
+duration = "4:31"
+
+[[tracks]]
+position = 2
+song-id = "kassy/jinsimi-damgin-norae-true-song-inst"
+duration = "4:18"
