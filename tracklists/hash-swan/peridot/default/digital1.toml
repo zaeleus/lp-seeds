@@ -1,0 +1,23 @@
+medium-ids = [
+  "hash-swan/peridot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hash-swan/arrow-feat-skinny-brown"
+duration = "2:48"
+
+[[tracks]]
+position = 2
+song-id = "hash-swan/airplane-mode-feat-leellamarz"
+duration = "3:15"
+
+[[tracks]]
+position = 3
+song-id = "hash-swan/dante"
+duration = "3:27"
+
+[[tracks]]
+position = 4
+song-id = "hash-swan/high-beam-feat-swervy"
+duration = "4:09"

@@ -1,0 +1,3 @@
+names = [
+  { name = "Arrow (Feat. Skinny Brown)", locale = "ko", original = true, default = true },
+]
