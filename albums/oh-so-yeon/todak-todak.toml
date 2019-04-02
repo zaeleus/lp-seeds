@@ -1,0 +1,15 @@
+artist-id = "oh-so-yeon"
+kind = "single"
+
+names = [
+  { name = "토닥토닥", locale = "ko", original = true },
+  { name = "Todak Todak", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10268607" },
+]

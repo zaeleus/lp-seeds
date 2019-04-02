@@ -1,0 +1,13 @@
+medium-ids = [
+  "oh-so-yeon/todak-todak/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-so-yeon/todak-todak"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "oh-so-yeon/todak-todak-inst"
+duration = "3:58"
