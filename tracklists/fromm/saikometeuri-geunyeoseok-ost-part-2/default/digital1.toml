@@ -1,0 +1,13 @@
+medium-ids = [
+  "fromm/saikometeuri-geunyeoseok-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fromm/with-you"
+duration = "4:23"
+
+[[tracks]]
+position = 2
+song-id = "fromm/with-you-inst"
+duration = "4:23"
