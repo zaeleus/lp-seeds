@@ -1,0 +1,14 @@
+artist-id = "park-ki-young"
+kind = "single"
+
+names = [
+  { name = "Sorry to", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-04-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10268091" },
+]

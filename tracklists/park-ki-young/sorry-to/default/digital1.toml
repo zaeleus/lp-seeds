@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-ki-young/sorry-to/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-ki-young/sorry-to"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "park-ki-young/sorry-to-inst"
+duration = "3:49"
