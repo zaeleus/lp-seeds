@@ -1,0 +1,8 @@
+medium-ids = [
+  "song-hee-ran/yeogikkaji-hae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "song-hee-ran/yeogikkaji-hae"
+duration = "3:04"
