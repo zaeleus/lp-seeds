@@ -1,0 +1,13 @@
+medium-ids = [
+  "hoody/doctor-prisoner-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hoody/eyes"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "hoody/eyes-inst"
+duration = "3:26"
