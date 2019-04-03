@@ -1,0 +1,13 @@
+medium-ids = [
+  "shin-ji-hoon/beotkkot-parade/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shin-ji-hoon/beotkkot-parade"
+duration = "2:54"
+
+[[tracks]]
+position = 2
+song-id = "shin-ji-hoon/beotkkot-parade-inst"
+duration = "2:54"

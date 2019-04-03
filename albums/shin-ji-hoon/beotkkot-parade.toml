@@ -1,0 +1,15 @@
+artist-id = "shin-ji-hoon"
+kind = "single"
+
+names = [
+  { name = "벚꽃 퍼레이드", locale = "ko", original = true },
+  { name = "Beotkkot Parade", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10268886" },
+]
