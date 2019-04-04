@@ -1,0 +1,3 @@
+names = [
+  { name = "Billage (feat. Kichawoo)", locale = "ko", original = true, default = true },
+]
