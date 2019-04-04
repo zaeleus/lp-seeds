@@ -1,0 +1,14 @@
+artist-id = "bumkey"
+kind = "single"
+
+names = [
+  { name = "DANCING ON GLASS", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-04-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10270289" },
+]
