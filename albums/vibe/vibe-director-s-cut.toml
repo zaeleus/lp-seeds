@@ -1,0 +1,14 @@
+artist-id = "vibe"
+kind = "ep"
+
+names = [
+  { name = "VIBE DIRECTOR'S CUT", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-03-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10267847" },
+]

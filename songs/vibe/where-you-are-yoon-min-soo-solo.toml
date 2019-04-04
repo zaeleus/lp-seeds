@@ -1,0 +1,4 @@
+names = [
+  { name = "Where you are (윤민수 solo.)", locale = "ko", original = true },
+  { name = "Where you are (Yoon Min Soo solo.)", locale = "ko-Latn", default = true },
+]

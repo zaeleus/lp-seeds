@@ -1,0 +1,28 @@
+medium-ids = [
+  "vibe/vibe-director-s-cut/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vibe/seulpeungayo"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "vibe/swigo-sipda-acoustic-ver"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song-id = "vibe/where-you-are-yoon-min-soo-solo"
+duration = "4:01"
+
+[[tracks]]
+position = 4
+song-id = "vibe/day-of-the-light-english-ver"
+duration = "4:08"
+
+[[tracks]]
+position = 5
+song-id = "vibe/seulpeungayo-inst"
+duration = "3:48"
