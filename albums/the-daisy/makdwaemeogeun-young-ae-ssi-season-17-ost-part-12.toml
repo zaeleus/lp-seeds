@@ -1,0 +1,16 @@
+artist-id = "the-daisy"
+kind = "single"
+
+names = [
+  { name = "막돼먹은 영애씨 시즌 17 OST Part.12", locale = "ko", original = true },
+  { name = "Makdwaemeogeun Young Ae-ssi Season 17 OST Part.12", locale = "ko-Latn", default = true },
+  { name = "Rude Miss Young-ae Season 17 OST Part.12", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-03-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10267555" },
+]

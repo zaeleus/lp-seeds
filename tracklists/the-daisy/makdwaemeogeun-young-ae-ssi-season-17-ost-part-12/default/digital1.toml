@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-daisy/makdwaemeogeun-young-ae-ssi-season-17-ost-part-12/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-daisy/sesangsari"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "the-daisy/sesangsari-inst"
+duration = "3:25"
