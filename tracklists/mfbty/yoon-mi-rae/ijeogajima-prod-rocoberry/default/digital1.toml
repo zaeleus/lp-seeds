@@ -1,0 +1,13 @@
+medium-ids = [
+  "mfbty/yoon-mi-rae/ijeogajima-prod-rocoberry/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mfbty/yoon-mi-rae/ijeogajima-prod-rocoberry"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "mfbty/yoon-mi-rae/ijeogajima-prod-rocoberry-inst"
+duration = "3:14"

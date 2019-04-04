@@ -1,0 +1,16 @@
+artist-id = "mfbty/yoon-mi-rae"
+kind = "single"
+
+names = [
+  { name = "잊어가지마 (Prod. 로코베리)", locale = "ko", original = true },
+  { name = "Ijeogajima (Prod. Rocoberry)", locale = "ko-Latn", default = true },
+  { name = "Don't Forget Me (Prod. Rocoberry)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-03-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10267766" },
+]

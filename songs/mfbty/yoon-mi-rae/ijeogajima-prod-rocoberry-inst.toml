@@ -1,0 +1,5 @@
+names = [
+  { name = "잊어가지마 (Prod. 로코베리) (Inst.)", locale = "ko", original = true },
+  { name = "Ijeogajima (Prod. Rocoberry) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Don't Forget Me (Prod. Rocoberry) (Inst.)", locale = "en" },
+]
