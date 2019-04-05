@@ -1,0 +1,38 @@
+medium-ids = [
+  "basick/whatiwant/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "basick/rocks"
+duration = "2:10"
+
+[[tracks]]
+position = 2
+song-id = "basick/me-feat-ek"
+duration = "3:36"
+
+[[tracks]]
+position = 3
+song-id = "basick/braindead-feat-lannistar"
+duration = "3:02"
+
+[[tracks]]
+position = 4
+song-id = "basick/ijustwannadance"
+duration = "3:19"
+
+[[tracks]]
+position = 5
+song-id = "basick/oohooh-feat-canhaz"
+duration = "3:54"
+
+[[tracks]]
+position = 6
+song-id = "basick/manbogi-feat-mckdaddy"
+duration = "3:07"
+
+[[tracks]]
+position = 7
+song-id = "basick/whatyouwant-feat-the-quiett"
+duration = "3:11"
