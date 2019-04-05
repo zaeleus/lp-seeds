@@ -1,0 +1,4 @@
+names = [
+  { name = "뚜두뚜두 (DDU-DU DDU-DU) (Remix)", locale = "ko", original = true },
+  { name = "DDU-DU DDU-DU (Remix)", locale = "en", default = true },
+]

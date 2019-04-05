@@ -1,0 +1,5 @@
+names = [
+  { name = "아니길 (Hope Not)", locale = "ko", original = true },
+  { name = "Anigil (Hope Not)", locale = "ko-Latn", default = true },
+  { name = "Hope Not", locale = "en" },
+]
