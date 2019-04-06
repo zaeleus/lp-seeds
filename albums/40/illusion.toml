@@ -1,0 +1,14 @@
+artist-id = "40"
+kind = "ep"
+
+names = [
+  { name = "Illusion", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-04-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10270808" },
+]
