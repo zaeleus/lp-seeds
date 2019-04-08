@@ -1,0 +1,4 @@
+names = [
+  { name = "미안해 (Song by 서은광, 이민혁, 이창섭)", locale = "ko", original = true },
+  { name = "Mianhae (Song by Seo Eun Kwang, Lee Min Hyuk, Lee Chang Sub)", locale = "ko-Latn", default = true },
+]
