@@ -1,0 +1,15 @@
+artist-id = "oohyo"
+kind = "lp"
+
+names = [
+  { name = "성난 도시로부터 멀리", locale = "ko", original = true },
+  { name = "Seongnan Dosirobuteo Meolli", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10271407" },
+]

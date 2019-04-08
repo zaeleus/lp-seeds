@@ -1,8 +1,3 @@
 names = [
   { name = "PIZZA", locale = "ko", original = true, default = true },
 ]
-
-urls = [
-  { url = "https://www.youtube.com/watch?v=oOG5GENzkMI", name = "Teaser" },
-  { url = "https://www.youtube.com/watch?v=tvUMCOWrTgA", name = "Music Video" },
-]
