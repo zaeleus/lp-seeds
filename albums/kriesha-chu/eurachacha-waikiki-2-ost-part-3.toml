@@ -1,0 +1,16 @@
+artist-id = "kriesha-chu"
+kind = "single"
+
+names = [
+  { name = "으라차차 와이키키 2 OST Part.3", locale = "ko", original = true },
+  { name = "Eurachacha Waikiki 2 OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Welcome to Waikiki 2 OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-04-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10271004" },
+]
