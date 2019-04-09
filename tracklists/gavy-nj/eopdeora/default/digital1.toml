@@ -1,0 +1,13 @@
+medium-ids = [
+  "gavy-nj/eopdeora/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gavy-nj/eopdeora"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "gavy-nj/eopdeora-inst"
+duration = "3:40"
