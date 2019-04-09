@@ -1,0 +1,8 @@
+medium-ids = [
+  "junggigo/malhajamyeon-iwst/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "junggigo/malhajamyeon-feat-hoody-prod-primary"
+duration = "4:09"
