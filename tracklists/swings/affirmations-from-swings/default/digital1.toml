@@ -1,0 +1,18 @@
+medium-ids = [
+  "swings/affirmations-from-swings/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "swings/bu-jagi-amsi"
+duration = "15:17"
+
+[[tracks]]
+position = 2
+song-id = "swings/gamsa-jagi-amsi"
+duration = "16:15"
+
+[[tracks]]
+position = 3
+song-id = "swings/naneun-jagi-amsi"
+duration = "17:34"
