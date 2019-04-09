@@ -1,0 +1,13 @@
+medium-ids = [
+  "oh-my-girl/seung-hee/saikometeuri-geunyeoseok-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-my-girl/seung-hee/sunny-day"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "oh-my-girl/seung-hee/sunny-day-inst"
+duration = "3:20"
