@@ -1,0 +1,14 @@
+artist-id = "bvndit"
+kind = "single"
+
+names = [
+  { name = "BVNDIT, BE AMBITIOUS!", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-04-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10272482" },
+]

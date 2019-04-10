@@ -1,0 +1,18 @@
+medium-ids = [
+  "bvndit/bvndit-be-ambitious/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bvndit/be-ambitious"
+duration = "1:09"
+
+[[tracks]]
+position = 2
+song-id = "bvndit/hocus-pocus"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "bvndit/yeonaeui-ondo"
+duration = "3:34"
