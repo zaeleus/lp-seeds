@@ -1,0 +1,33 @@
+medium-ids = [
+  "yourbeagle/urin-seoro-dareun-gireul-gachi-georeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/wake-up"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "yourbeagle/kongttak-kongttak"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "yourbeagle/yeohaeng"
+duration = "2:54"
+
+[[tracks]]
+position = 4
+song-id = "yourbeagle/always-prod-lazier"
+duration = "2:47"
+
+[[tracks]]
+position = 5
+song-id = "yourbeagle/you-are-my-space"
+duration = "2:45"
+
+[[tracks]]
+position = 6
+song-id = "yourbeagle/n-o-s-t-a-l-g-i-a"
+duration = "1:44"

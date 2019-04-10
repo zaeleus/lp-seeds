@@ -1,0 +1,15 @@
+artist-id = "yourbeagle"
+kind = "ep"
+
+names = [
+  { name = "우린 서로 다른 길을 같이 걸어", locale = "ko", original = true },
+  { name = "Urin Seoro Dareun Gireul Gachi Georeo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10271881" },
+]
