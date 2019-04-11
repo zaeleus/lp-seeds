@@ -1,0 +1,4 @@
+names = [
+  { name = "SS (Feat. 사이먼 도미닉 & 후디) (Prod. By KHYO)", locale = "ko", original = true },
+  { name = "SS (Feat. Simon Dominic & Hoody) (Prod. By KHYO)", locale = "ko-Latn", default = true },
+]
