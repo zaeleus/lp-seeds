@@ -1,0 +1,13 @@
+medium-ids = [
+  "g-i-dle/geunyeoui-sasaenghwal-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-i-dle/help-me"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "g-i-dle/help-me-inst"
+duration = "3:59"

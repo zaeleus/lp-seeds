@@ -1,0 +1,16 @@
+artist-id = "g-i-dle"
+kind = "single"
+
+names = [
+  { name = "그녀의 사생활 OST Part 1", locale = "ko", original = true },
+  { name = "Geunyeoui Sasaenghwal OST Part 1", locale = "ko-Latn", default = true },
+  { name = "Her Private Life OST Part 1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-04-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10272961" },
+]
