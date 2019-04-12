@@ -1,0 +1,13 @@
+medium-ids = [
+  "map6/follow-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "map6/follow-me"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "map6/vroom-vroom"
+duration = "3:22"
