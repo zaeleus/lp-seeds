@@ -1,0 +1,5 @@
+names = [
+  { name = "작은 것들을 위한 시 (Boy With Luv) feat. Halsey", locale = "ko", original = true },
+  { name = "Jageun Geotdeureul Wihan Si (Boy With Luv) feat. Halsey", locale = "ko-Latn", default = true },
+  { name = "Boy With Luv feat. Halsey", locale = "en" },
+]

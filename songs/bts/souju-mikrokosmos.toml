@@ -1,0 +1,5 @@
+names = [
+  { name = "소우주 (Mikrokosmos)", locale = "ko", original = true },
+  { name = "Souju (Mikrokosmos)", locale = "ko-Latn", default = true },
+  { name = "Mikrokosmos", locale = "en" },
+]
