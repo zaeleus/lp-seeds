@@ -1,0 +1,4 @@
+names = [
+  { name = "봄이 싫은 이유 (inst.)", locale = "ko", original = true },
+  { name = "Bomi Sireun Iyu (inst.)", locale = "ko-Latn", default = true },
+]

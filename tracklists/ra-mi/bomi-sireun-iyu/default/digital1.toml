@@ -1,0 +1,13 @@
+medium-ids = [
+  "ra-mi/bomi-sireun-iyu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ra-mi/bomi-sireun-iyu"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "ra-mi/bomi-sireun-iyu-inst"
+duration = "3:41"
