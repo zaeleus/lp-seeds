@@ -1,0 +1,8 @@
+medium-ids = [
+  "motte/roomie/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "motte/roomie"
+duration = "3:53"
