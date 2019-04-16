@@ -1,0 +1,28 @@
+medium-ids = [
+  "hashtag/aeji-passion/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hashtag/intro"
+duration = "0:37"
+
+[[tracks]]
+position = 2
+song-id = "hashtag/freesm"
+duration = "3:04"
+
+[[tracks]]
+position = 3
+song-id = "hashtag/love-game"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "hashtag/annyeong-ibam"
+duration = "3:40"
+
+[[tracks]]
+position = 5
+song-id = "hashtag/freesm-inst"
+duration = "3:04"
