@@ -1,0 +1,8 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "카더가든", locale = "ko", kind = "stage", original = true },
+  { name = "Car, the garden", locale = "ko-Latn", kind = "stage", default = true },
+]

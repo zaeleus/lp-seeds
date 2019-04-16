@@ -1,0 +1,15 @@
+artist-id = "car-the-garden"
+kind = "single"
+
+names = [
+  { name = "나무", locale = "ko", original = true },
+  { name = "Namu", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10274611" },
+]
