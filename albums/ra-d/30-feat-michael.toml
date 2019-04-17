@@ -1,0 +1,14 @@
+artist-id = "ra-d"
+kind = "single"
+
+names = [
+  { name = "30 (Feat. Michael)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-04-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10274762" },
+]
