@@ -1,0 +1,15 @@
+artist-id = "nanya"
+kind = "single"
+
+names = [
+  { name = "우리 다시 만나면", locale = "ko", original = true },
+  { name = "Uri Dasi Mannamyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10274964" },
+]
