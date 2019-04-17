@@ -1,0 +1,28 @@
+medium-ids = [
+  "boran/treasure-island/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boran/chwihangime"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "boran/superhero"
+duration = "3:01"
+
+[[tracks]]
+position = 3
+song-id = "boran/miracle"
+duration = "3:42"
+
+[[tracks]]
+position = 4
+song-id = "boran/dust"
+duration = "2:33"
+
+[[tracks]]
+position = 5
+song-id = "boran/jipsuni"
+duration = "3:17"
