@@ -1,0 +1,11 @@
+names = [
+  { name = "파라다이스 (Paradise)", locale = "ko", original = true },
+  { name = "Paradise", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "boran"
+names = [
+  { name = "양송이", locale = "ko" },
+  { name = "Yang Song E", locale = "ko-Latn" },
+]
