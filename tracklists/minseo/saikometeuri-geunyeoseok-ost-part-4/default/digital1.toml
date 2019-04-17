@@ -1,0 +1,13 @@
+medium-ids = [
+  "minseo/saikometeuri-geunyeoseok-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minseo/the-first-love"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "minseo/the-first-love-inst"
+duration = "3:36"

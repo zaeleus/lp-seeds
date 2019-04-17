@@ -1,0 +1,16 @@
+artist-id = "minseo"
+kind = "single"
+
+names = [
+  { name = "사이코메트리 그녀석 OST Part 4", locale = "ko", original = true },
+  { name = "Saikometeuri Geunyeoseok OST Part 4", locale = "ko-Latn", default = true },
+  { name = "He Is Psychometric OST Part 4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-04-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10274752" },
+]
