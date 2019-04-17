@@ -1,0 +1,22 @@
+artist-id = "boran"
+kind = "single"
+
+names = [
+  { name = "웃으며 안녕", locale = "ko", original = true },
+  { name = "Useumyeo Annyeong", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "boran"
+names = [
+  { name = "양송이", locale = "ko" },
+  { name = "Yang Song E", locale = "ko-Latn" },
+]
+
+[[releases]]
+released-on = "2014-10-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=2284230" },
+]

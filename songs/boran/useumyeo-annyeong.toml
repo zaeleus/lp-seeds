@@ -1,0 +1,11 @@
+names = [
+  { name = "웃으며 안녕", locale = "ko", original = true },
+  { name = "Useumyeo Annyeong", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "boran"
+names = [
+  { name = "양송이", locale = "ko" },
+  { name = "Yang Song E", locale = "ko-Latn" },
+]
