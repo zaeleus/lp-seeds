@@ -1,0 +1,8 @@
+medium-ids = [
+  "boran/seongeunneungeoya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boran/seongeunneungeoya"
+duration = "3:59"
