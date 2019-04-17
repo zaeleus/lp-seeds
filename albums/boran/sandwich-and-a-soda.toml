@@ -1,0 +1,14 @@
+artist-id = "boran"
+kind = "single"
+
+names = [
+  { name = "Sandwich and a soda", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-07-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10185572" },
+]
