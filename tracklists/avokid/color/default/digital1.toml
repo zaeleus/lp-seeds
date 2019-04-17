@@ -1,0 +1,8 @@
+medium-ids = [
+  "avokid/color/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "avokid/color"
+duration = "3:14"
