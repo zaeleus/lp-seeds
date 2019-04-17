@@ -1,0 +1,8 @@
+medium-ids = [
+  "boran/donghwa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boran/donghwa"
+duration = "3:40"
