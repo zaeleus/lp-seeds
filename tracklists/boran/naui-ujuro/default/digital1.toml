@@ -1,0 +1,13 @@
+medium-ids = [
+  "boran/naui-ujuro/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boran/i-wonder-why"
+duration = "2:14"
+
+[[tracks]]
+position = 2
+song-id = "boran/naui-ujuro"
+duration = "3:16"
