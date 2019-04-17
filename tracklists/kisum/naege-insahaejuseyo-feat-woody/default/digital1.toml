@@ -1,0 +1,13 @@
+medium-ids = [
+  "kisum/naege-insahaejuseyo-feat-woody/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kisum/naege-insahaejuseyo-feat-woody"
+duration = "2:51"
+
+[[tracks]]
+position = 2
+song-id = "kisum/naege-insahaejuseyo-inst"
+duration = "2:51"
