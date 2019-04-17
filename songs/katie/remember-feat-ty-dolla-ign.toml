@@ -1,0 +1,3 @@
+names = [
+  { name = "Remember (feat. Ty Dolla $ign)", locale = "ko", original = true, default = true },
+]
