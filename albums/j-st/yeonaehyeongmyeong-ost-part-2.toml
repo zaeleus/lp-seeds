@@ -1,0 +1,15 @@
+artist-id = "j-st"
+kind = "single"
+
+names = [
+  { name = "연애혁명 OST Part.2", locale = "ko", original = true },
+  { name = "Yeonaehyeongmyeong OST Part.2", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10275168" },
+]
