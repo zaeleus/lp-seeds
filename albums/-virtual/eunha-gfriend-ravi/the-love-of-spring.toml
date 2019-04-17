@@ -1,0 +1,25 @@
+artist-id = "-virtual/eunha-gfriend-ravi"
+kind = "single"
+
+names = [
+  { name = "THE LOVE OF SPRING", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "gfriend/eunha"
+names = [
+  { name = "은하 (여자친구)", locale = "ko", original = true },
+  { name = "Eunha (GFRIEND)", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "vixx/ravi"
+
+[[releases]]
+released-on = "2019-04-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10273069" },
+]

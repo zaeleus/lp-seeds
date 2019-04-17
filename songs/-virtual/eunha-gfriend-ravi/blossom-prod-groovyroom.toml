@@ -1,0 +1,14 @@
+names = [
+  { name = "BLOSSOM (Prod. Groovyroom)", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "gfriend/eunha"
+names = [
+  { name = "은하 (여자친구)", locale = "ko", original = true },
+  { name = "Eunha (GFRIEND)", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "vixx/ravi"
