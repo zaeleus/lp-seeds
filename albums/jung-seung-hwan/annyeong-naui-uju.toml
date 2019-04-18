@@ -1,0 +1,15 @@
+artist-id = "jung-seung-hwan"
+kind = "ep"
+
+names = [
+  { name = "안녕, 나의 우주", locale = "ko", original = true },
+  { name = "Annyeong, Naui Uju", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10275725" },
+]
