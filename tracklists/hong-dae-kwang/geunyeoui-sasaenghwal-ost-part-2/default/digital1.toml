@@ -1,0 +1,13 @@
+medium-ids = [
+  "hong-dae-kwang/geunyeoui-sasaenghwal-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hong-dae-kwang/dung-dung"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "hong-dae-kwang/dung-dung-inst"
+duration = "3:23"

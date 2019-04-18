@@ -1,0 +1,16 @@
+artist-id = "hong-dae-kwang"
+kind = "single"
+
+names = [
+  { name = "그녀의 사생활 OST Part 2", locale = "ko", original = true },
+  { name = "Geunyeoui Sasaenghwal OST Part 2", locale = "ko-Latn", default = true },
+  { name = "Her Private Life OST Part 2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-04-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10275762" },
+]
