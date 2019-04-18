@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1987-10-16"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "스테파니", locale = "ko", kind = "stage", original = true },
+  { name = "STEPHANIE", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김보경", locale = "ko", kind = "real" },
+  { name = "Kim Bo Kyung", locale = "ko-Latn", kind = "real" },
+]

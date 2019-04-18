@@ -1,0 +1,23 @@
+medium-ids = [
+  "the-grace/stephanie/man-on-the-dance-floor/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-grace/stephanie/man-on-the-dance-floor-dance-ver"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "the-grace/stephanie/man-on-the-dance-floor-piano-ver"
+duration = "3:55"
+
+[[tracks]]
+position = 3
+song-id = "the-grace/stephanie/man-on-the-dance-floor-dance-ver-inst"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "the-grace/stephanie/man-on-the-dance-floor-piano-ver-inst"
+duration = "3:55"

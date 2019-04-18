@@ -1,0 +1,14 @@
+artist-id = "the-grace/stephanie"
+kind = "single"
+
+names = [
+  { name = "Man On The Dance Floor", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-04-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10275288" },
+]
