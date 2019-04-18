@@ -1,0 +1,13 @@
+medium-ids = [
+  "beast/lee-ki-kwang/useumyeo-insahae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "beast/lee-ki-kwang/useumyeo-insahae-feat-son-dong-woon-of-highlight"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "beast/lee-ki-kwang/nothing"
+duration = "3:15"
