@@ -1,0 +1,13 @@
+medium-ids = [
+  "eb/ppp/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eb/ppp"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "eb/ppp-with-jo-jung-chi"
+duration = "3:48"
