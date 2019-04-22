@@ -1,0 +1,33 @@
+medium-ids = [
+  "twice/fancy-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twice/fancy"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "twice/stuck-in-my-head"
+duration = "2:57"
+
+[[tracks]]
+position = 3
+song-id = "twice/girls-like-us"
+duration = "2:39"
+
+[[tracks]]
+position = 4
+song-id = "twice/hot"
+duration = "2:58"
+
+[[tracks]]
+position = 5
+song-id = "twice/turn-it-up"
+duration = "3:08"
+
+[[tracks]]
+position = 6
+song-id = "twice/strawberry"
+duration = "3:30"
