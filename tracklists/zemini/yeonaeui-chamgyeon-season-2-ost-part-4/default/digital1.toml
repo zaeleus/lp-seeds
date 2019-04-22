@@ -1,0 +1,13 @@
+medium-ids = [
+  "zemini/yeonaeui-chamgyeon-season-2-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zemini/jebal"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "zemini/jebal-inst"
+duration = "3:56"
