@@ -1,0 +1,8 @@
+medium-ids = [
+  "girl-crush/memories/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girl-crush/memories"
+duration = "3:02"

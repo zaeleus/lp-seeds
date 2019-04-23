@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "걸크러쉬", locale = "ko", original = true },
+  { name = "GIRL CRUSH", locale = "ko-Latn", default = true },
+]

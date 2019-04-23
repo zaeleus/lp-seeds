@@ -1,0 +1,15 @@
+artist-id = "girl-crush"
+kind = "single"
+
+names = [
+  { name = "Memories (메모리즈)", locale = "ko", original = true },
+  { name = "Memories", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10270839" },
+]
