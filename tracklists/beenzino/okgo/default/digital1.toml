@@ -1,0 +1,8 @@
+medium-ids = [
+  "beenzino/okgo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "beenzino/okgo-feat-e-sens"
+duration = "3:32"
