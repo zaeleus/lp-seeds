@@ -1,0 +1,15 @@
+artist-id = "lee-bo-ram"
+kind = "single"
+
+names = [
+  { name = "이렇게 좋은날", locale = "ko", original = true },
+  { name = "Ireoke Joeunnal", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10276917" },
+]
