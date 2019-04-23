@@ -1,0 +1,23 @@
+medium-ids = [
+  "hot-place/hot-place/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hot-place/tmi"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "hot-place/tmi-ruff-icy-maka-remix"
+duration = "2:25"
+
+[[tracks]]
+position = 3
+song-id = "hot-place/bad-box"
+duration = "3:10"
+
+[[tracks]]
+position = 4
+song-id = "hot-place/kill-you"
+duration = "2:56"

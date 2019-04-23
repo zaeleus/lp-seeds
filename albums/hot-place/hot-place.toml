@@ -1,0 +1,14 @@
+artist-id = "hot-place"
+kind = "single"
+
+names = [
+  { name = "HOT PLACE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-03-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10267587" },
+]

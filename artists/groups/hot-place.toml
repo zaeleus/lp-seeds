@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "핫플레이스", locale = "ko", original = true },
+  { name = "HOT PLACE", locale = "ko-Latn", default = true },
+]
