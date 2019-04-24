@@ -1,0 +1,5 @@
+names = [
+  { name = "놔 (Leave It)", locale = "ko", original = true },
+  { name = "Nwa (Leave It)", locale = "ko-Latn", default = true },
+  { name = "Leave It", locale = "en" },
+]

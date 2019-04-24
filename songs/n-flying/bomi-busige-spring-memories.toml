@@ -1,0 +1,5 @@
+names = [
+  { name = "봄이 부시게 (Spring Memories)", locale = "ko", original = true },
+  { name = "Bomi Busige (Spring Memories)", locale = "ko-Latn", default = true },
+  { name = "Spring Memories", locale = "en" },
+]

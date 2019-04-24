@@ -1,5 +1,5 @@
 names = [
-  { name = "꽃 (LIKE A FLOWER)", locale = "ko", original = true },
-  { name = "Kkot (LIKE A FLOWER)", locale = "ko-Latn", default = true },
-  { name = "LIKE A FLOWER", locale = "en" },
+  { name = "꽃 (Like a Flower)", locale = "ko", original = true },
+  { name = "Kkot (Like a Flower)", locale = "ko-Latn", default = true },
+  { name = "Like a Flower", locale = "en" },
 ]
