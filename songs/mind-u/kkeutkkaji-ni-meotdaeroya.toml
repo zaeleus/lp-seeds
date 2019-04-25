@@ -1,0 +1,5 @@
+names = [
+  { name = "끝까지 니 멋대로야", locale = "ko", original = true },
+  { name = "Kkeutkkaji Ni Meotdaeroya", locale = "ko-Latn", default = true },
+  { name = "Selfish", locale = "en" },
+]
