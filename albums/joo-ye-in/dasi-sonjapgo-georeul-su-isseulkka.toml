@@ -1,0 +1,15 @@
+artist-id = "joo-ye-in"
+kind = "single"
+
+names = [
+  { name = "다시 손잡고 걸을 수 있을까", locale = "ko", original = true },
+  { name = "Dasi Sonjapgo Georeul Su Isseulkka", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10277921" },
+]
