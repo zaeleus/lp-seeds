@@ -1,0 +1,5 @@
+names = [
+  { name = "옛날 사람 (Old Movie)", locale = "ko", original = true },
+  { name = "Yennal Saram (Old Movie)", locale = "ko-Latn", default = true },
+  { name = "Old Movie", locale = "en" },
+]
