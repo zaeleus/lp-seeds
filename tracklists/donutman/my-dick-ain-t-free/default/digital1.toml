@@ -1,0 +1,13 @@
+medium-ids = [
+  "donutman/my-dick-ain-t-free/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "donutman/my-dick-ain-t-free"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "donutman/parangsae"
+duration = "2:32"
