@@ -1,0 +1,13 @@
+medium-ids = [
+  "eyedi/new/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eyedi/new"
+duration = "4:09"
+
+[[tracks]]
+position = 2
+song-id = "eyedi/new-inst"
+duration = "4:09"
