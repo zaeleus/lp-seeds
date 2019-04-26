@@ -1,0 +1,15 @@
+artist-id = "joypark"
+kind = "single"
+
+names = [
+  { name = "속눈썹", locale = "ko", original = true },
+  { name = "Songnunsseop", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10277640" },
+]

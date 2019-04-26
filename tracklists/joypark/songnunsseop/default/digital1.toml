@@ -1,0 +1,8 @@
+medium-ids = [
+  "joypark/songnunsseop/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "joypark/songnunsseop"
+duration = "3:26"
