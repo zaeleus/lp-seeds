@@ -1,0 +1,13 @@
+medium-ids = [
+  "tarin/geu-bamui-music/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "tarin/geu-bamui-music"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "tarin/geu-bamui-music-inst"
+duration = "3:57"
