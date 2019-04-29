@@ -1,0 +1,15 @@
+artist-id = "saevom"
+kind = "single"
+
+names = [
+  { name = "4' 어제 말야", locale = "ko", original = true },
+  { name = "4' Eoje Marya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10278967" },
+]

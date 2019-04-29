@@ -1,0 +1,4 @@
+names = [
+  { name = "어제 말야 (With 유종권)", locale = "ko", original = true },
+  { name = "Eoje Marya (with Yoo Jong Kwon)", locale = "ko-Latn", default = true },
+]
