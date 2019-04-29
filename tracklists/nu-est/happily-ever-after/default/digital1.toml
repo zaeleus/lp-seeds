@@ -1,0 +1,33 @@
+medium-ids = [
+  "nu-est/happily-ever-after/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nu-est/segno"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "nu-est/bet-bet"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "nu-est/bass"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song-id = "nu-est/talk-about-love"
+duration = "3:11"
+
+[[tracks]]
+position = 5
+song-id = "nu-est/different"
+duration = "3:09"
+
+[[tracks]]
+position = 6
+song-id = "nu-est/fine"
+duration = "3:32"
