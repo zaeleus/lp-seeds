@@ -1,0 +1,13 @@
+medium-ids = [
+  "zoin/danbi-sweet-rain/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zoin/danbi-sweet-rain"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "zoin/danbi-sweet-rain-inst"
+duration = "3:41"

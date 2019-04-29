@@ -1,0 +1,5 @@
+names = [
+  { name = "단비 (Sweet Rain) (Inst.)", locale = "ko", original = true },
+  { name = "Danbi (Sweet Rain) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Sweet Rain (Inst.)", locale = "en" },
+]
