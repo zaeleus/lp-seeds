@@ -1,0 +1,15 @@
+artist-id = "the-ade"
+kind = "single"
+
+names = [
+  { name = "그대를 사랑하는 10가지 이유", locale = "ko", original = true },
+  { name = "Geudaereul Saranghaneun 10-gaji Iyu", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10279373" },
+]

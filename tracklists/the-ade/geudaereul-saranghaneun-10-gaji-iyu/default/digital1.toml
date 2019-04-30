@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-ade/geudaereul-saranghaneun-10-gaji-iyu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-ade/geudaereul-saranghaneun-10-gaji-iyu"
+duration = "4:47"
+
+[[tracks]]
+position = 2
+song-id = "the-ade/geudaereul-saranghaneun-10-gaji-iyu-inst"
+duration = "4:47"
