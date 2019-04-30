@@ -1,0 +1,4 @@
+names = [
+  { name = "아무때나 돼 (Feat. BUMZU)", locale = "ko", original = true },
+  { name = "Amuttaena Dwae (Feat. BUMZU)", locale = "ko-Latn", default = true },
+]

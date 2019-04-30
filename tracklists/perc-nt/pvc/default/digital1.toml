@@ -1,0 +1,38 @@
+medium-ids = [
+  "perc-nt/pvc/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "perc-nt/pvc"
+duration = "1:12"
+
+[[tracks]]
+position = 2
+song-id = "perc-nt/canvas-girl-feat-choiza-of-dynamic-duo"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "perc-nt/rabbit-hole-feat-sumin"
+duration = "3:38"
+
+[[tracks]]
+position = 4
+song-id = "perc-nt/music-god"
+duration = "3:45"
+
+[[tracks]]
+position = 5
+song-id = "perc-nt/downtown"
+duration = "3:19"
+
+[[tracks]]
+position = 6
+song-id = "perc-nt/flower-scent-feat-dwayne"
+duration = "3:07"
+
+[[tracks]]
+position = 7
+song-id = "perc-nt/amuttaena-dwae-feat-bumzu"
+duration = "3:42"

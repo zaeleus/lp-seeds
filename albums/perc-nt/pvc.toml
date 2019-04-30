@@ -1,0 +1,14 @@
+artist-id = "perc-nt"
+kind = "ep"
+
+names = [
+  { name = "PVC", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-04-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10278388" },
+]
