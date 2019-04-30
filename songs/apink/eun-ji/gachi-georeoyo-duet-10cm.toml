@@ -1,0 +1,12 @@
+names = [
+  { name = "같이 걸어요 (Duet. 10cm)", locale = "ko", original = true },
+  { name = "Gachi Georeoyo (Duet. 10cm)", locale = "ko-Latn", default = true },
+  { name = "Be With Me (Duet. 10cm)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
