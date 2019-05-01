@@ -1,0 +1,4 @@
+names = [
+  { name = "Angel (Feat. 태연)", locale = "ko", original = true },
+  { name = "Angel (Feat. Taeyeon)", locale = "ko-Latn", default = true },
+]
