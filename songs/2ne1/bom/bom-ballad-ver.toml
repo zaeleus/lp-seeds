@@ -1,0 +1,11 @@
+names = [
+  { name = "봄 (Ballad ver.)", locale = "ko", original = true },
+  { name = "Bom (Ballad Ver.)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "2ne1/bom"
+names = [
+  { name = "박봄", locale = "ko", original = true},
+  { name = "Park Bom", locale = "ko-Latn", default = true },
+]

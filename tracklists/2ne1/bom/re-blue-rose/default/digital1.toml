@@ -1,0 +1,28 @@
+medium-ids = [
+  "2ne1/bom/re-blue-rose/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2ne1/bom/4-si-44-bun-feat-wheein-of-mamamoo"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "2ne1/bom/bom-reggae-ver-feat-sandara-park"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "2ne1/bom/naeyeonin"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "2ne1/bom/changpihae"
+duration = "3:34"
+
+[[tracks]]
+position = 5
+song-id = "2ne1/bom/bom-ballad-ver"
+duration = "4:36"

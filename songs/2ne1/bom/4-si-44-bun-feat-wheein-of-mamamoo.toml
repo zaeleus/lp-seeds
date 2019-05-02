@@ -1,0 +1,12 @@
+names = [
+  { name = "4시 44분 (feat. 휘인 of 마마무)", locale = "ko", original = true },
+  { name = "4-si 44-bun (Feat. Wheein of MAMAMOO)", locale = "ko-Latn", default = true },
+  { name = "4:44 (Feat. Wheein of MAMAMOO)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "2ne1/bom"
+names = [
+  { name = "박봄", locale = "ko", original = true},
+  { name = "Park Bom", locale = "ko-Latn", default = true },
+]
