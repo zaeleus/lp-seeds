@@ -1,0 +1,28 @@
+medium-ids = [
+  "jang-hee-won/irul-su-inneun-kkum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jang-hee-won/wae-geureogin-feat-grizzly"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "jang-hee-won/mundeuk-haengbok"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "jang-hee-won/badaro-ganeun-kkumeul-kkwo-sujokgwan-ver"
+duration = "2:56"
+
+[[tracks]]
+position = 4
+song-id = "jang-hee-won/badaro-ganeun-kkumeul-kkwo-bada-ver"
+duration = "3:27"
+
+[[tracks]]
+position = 5
+song-id = "jang-hee-won/3-cho"
+duration = "3:00"

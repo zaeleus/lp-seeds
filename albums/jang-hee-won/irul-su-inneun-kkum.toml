@@ -1,0 +1,15 @@
+artist-id = "jang-hee-won"
+kind = "ep"
+
+names = [
+  { name = "이룰 수 있는 꿈", locale = "ko", original = true },
+  { name = "Irul Su Inneun Kkum", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10280584" },
+]
