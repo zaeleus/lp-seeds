@@ -1,0 +1,13 @@
+medium-ids = [
+  "davichi/lee-hae-ri/geunyeoui-sasaenghwal-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/lee-hae-ri/maybe"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "davichi/lee-hae-ri/maybe-inst"
+duration = "3:49"
