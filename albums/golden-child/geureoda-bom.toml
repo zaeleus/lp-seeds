@@ -1,0 +1,16 @@
+artist-id = "golden-child"
+kind = "single"
+
+names = [
+  { name = "그러다 봄", locale = "ko", original = true },
+  { name = "Geureoda Bom", locale = "ko-Latn", default = true },
+  { name = "Spring Again", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-05-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10280598" },
+]
