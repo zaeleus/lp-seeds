@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheetah/bihaeng/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheetah/bihaeng-feat-chaboom"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "cheetah/bihaeng-feat-chaboom-inst"
+duration = "3:52"
