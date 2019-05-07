@@ -1,0 +1,18 @@
+medium-ids = [
+  "chimmi/rendezvous/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "chimmi/butter"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "chimmi/rendezvous"
+duration = "4:01"
+
+[[tracks]]
+position = 3
+song-id = "chimmi/eosaekhae-awkward"
+duration = "3:49"
