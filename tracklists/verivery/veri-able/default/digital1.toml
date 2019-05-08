@@ -1,0 +1,28 @@
+medium-ids = [
+  "verivery/veri-able/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "verivery/ttak-jallaseo-malhae-from-now"
+duration = "2:50"
+
+[[tracks]]
+position = 2
+song-id = "verivery/love-line"
+duration = "3:07"
+
+[[tracks]]
+position = 3
+song-id = "verivery/na-jibe-gaji-aneullae"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "verivery/get-ready"
+duration = "3:03"
+
+[[tracks]]
+position = 5
+song-id = "verivery/bakhyeojwo"
+duration = "3:32"
