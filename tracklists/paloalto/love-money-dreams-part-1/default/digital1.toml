@@ -1,0 +1,13 @@
+medium-ids = [
+  "paloalto/love-money-dreams-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "paloalto/get-it"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "paloalto/dead-feat-kid-milli"
+duration = "4:09"
