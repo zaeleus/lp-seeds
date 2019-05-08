@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "가을로 가는 기차", locale = "ko", original = true },
+  { name = "A Train to Autumn", locale = "en", default = true },
+]

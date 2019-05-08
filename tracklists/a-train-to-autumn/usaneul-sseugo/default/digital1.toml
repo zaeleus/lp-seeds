@@ -1,0 +1,8 @@
+medium-ids = [
+  "a-train-to-autumn/usaneul-sseugo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "a-train-to-autumn/usaneul-sseugo"
+duration = "4:09"

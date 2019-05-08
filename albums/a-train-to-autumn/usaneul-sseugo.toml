@@ -1,0 +1,15 @@
+artist-id = "a-train-to-autumn"
+kind = "single"
+
+names = [
+  { name = "우산을 쓰고", locale = "ko", original = true },
+  { name = "Usaneul Sseugo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-04-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10279481" },
+]
