@@ -1,0 +1,5 @@
+names = [
+  { name = "차올라 (Holy night)", locale = "ko", original = true },
+  { name = "Chaolla (Holy night)", locale = "ko-Latn", default = true },
+  { name = "Holy night", locale = "en" },
+]
