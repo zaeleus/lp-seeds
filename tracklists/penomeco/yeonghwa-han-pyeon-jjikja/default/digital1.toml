@@ -1,0 +1,8 @@
+medium-ids = [
+  "penomeco/yeonghwa-han-pyeon-jjikja/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "penomeco/yeonghwa-han-pyeon-jjikja"
+duration = "3:31"
