@@ -1,0 +1,4 @@
+names = [
+  { name = "3월의 업무보고", locale = "ko", original = true },
+  { name = "3-worui Eommubogo", locale = "ko-Latn", default = true },
+]

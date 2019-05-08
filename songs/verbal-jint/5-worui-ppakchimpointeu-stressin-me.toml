@@ -1,0 +1,4 @@
+names = [
+  { name = "5월의 빡침포인트 (Stressin Me)", locale = "ko", original = true },
+  { name = "5-worui Ppakchimpointeu (Stressin Me)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "verbal-jint/igeoseun-eumaginga-eommubogoseoinga/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "verbal-jint/1-worui-eommubogo"
+duration = "1:29"
+
+[[tracks]]
+position = 2
+song-id = "verbal-jint/2-worui-eommubogo"
+duration = "1:21"
+
+[[tracks]]
+position = 3
+song-id = "verbal-jint/3-worui-eommubogo"
+duration = "1:22"
+
+[[tracks]]
+position = 4
+song-id = "verbal-jint/4-worui-simkungpointeu-april-blessings"
+duration = "1:55"
+
+[[tracks]]
+position = 5
+song-id = "verbal-jint/5-worui-ppakchimpointeu-stressin-me"
+duration = "2:06"
