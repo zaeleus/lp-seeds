@@ -7,6 +7,13 @@ names = [
   { name = "Old Movie", locale = "en" },
 ]
 
+[[artist-credits]]
+artist-id = "super-junior/heechul"
+names = [
+  { name = "김희철", locale = "ko", original = true },
+  { name = "KIM HEECHUL", locale = "ko-Latn", default = true },
+]
+
 [[releases]]
 released-on = "2019-04-24"
 country = "KR"

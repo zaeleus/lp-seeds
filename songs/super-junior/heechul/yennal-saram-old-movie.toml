@@ -3,3 +3,10 @@ names = [
   { name = "Yennal Saram (Old Movie)", locale = "ko-Latn", default = true },
   { name = "Old Movie", locale = "en" },
 ]
+
+[[artist-credits]]
+artist-id = "super-junior/heechul"
+names = [
+  { name = "김희철", locale = "ko", original = true },
+  { name = "KIM HEECHUL", locale = "ko-Latn", default = true },
+]
