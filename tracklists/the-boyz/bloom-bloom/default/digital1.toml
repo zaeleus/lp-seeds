@@ -1,0 +1,18 @@
+medium-ids = [
+  "the-boyz/bloom-bloom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-boyz/bloom-bloom"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "the-boyz/butterfly-mongjung"
+duration = "4:02"
+
+[[tracks]]
+position = 3
+song-id = "the-boyz/clover"
+duration = "3:08"

@@ -1,0 +1,5 @@
+names = [
+  { name = "Butterfly (몽중)", locale = "ko", original = true },
+  { name = "Butterfly (Mongjung)", locale = "ko-Latn", default = true },
+  { name = "Butterfly", locale = "en" },
+]
