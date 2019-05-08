@@ -1,0 +1,5 @@
+names = [
+  { name = "Baby You're Mine (베유마)", locale = "ko", original = true },
+  { name = "Baby You're Mine (Beyuma)", locale = "ko-Latn", default = true },
+  { name = "Baby You're Mine", locale = "en" },
+]

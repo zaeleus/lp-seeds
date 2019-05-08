@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "여고생", locale = "ko", original = true },
+  { name = "High School", locale = "en", default = true },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "high-school/baby-you-re-mine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "high-school/baby-you-re-mine-beyuma"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "high-school/high-class"
+duration = "3:16"
