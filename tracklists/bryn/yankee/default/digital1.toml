@@ -1,0 +1,8 @@
+medium-ids = [
+  "bryn/yankee/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bryn/yankee-feat-tommy-strate-prod-by-santa-paine"
+duration = "3:35"
