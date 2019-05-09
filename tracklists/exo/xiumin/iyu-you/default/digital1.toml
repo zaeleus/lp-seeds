@@ -1,0 +1,13 @@
+medium-ids = [
+  "exo/xiumin/iyu-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/xiumin/iyu-you"
+duration = "5:07"
+
+[[tracks]]
+position = 2
+song-id = "exo/xiumin/iyu-you-inst"
+duration = "5:07"

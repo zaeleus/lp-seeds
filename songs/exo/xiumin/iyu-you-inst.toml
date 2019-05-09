@@ -1,0 +1,12 @@
+names = [
+  { name = "이유 (You) (Inst.)", locale = "ko", original = true },
+  { name = "Iyu (You) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "You (Inst.)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "exo/xiumin"
+names = [
+  { name = "시우민", locale = "ko", original = true },
+  { name = "XIUMIN", locale = "ko-Latn", default = true },
+]
