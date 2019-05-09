@@ -1,0 +1,12 @@
+names = [
+  { name = "스며들기 좋은 오늘 (Inst.)", locale = "ko", original = true },
+  { name = "Seumyeodeulgi Joeun Oneul (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Lean on Me (Inst.)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "15and/yerin"
+names = [
+  { name = "백예린", locale = "ko", original = true },
+  { name = "Yerin Baek", locale = "en", default = true },
+]

@@ -1,0 +1,21 @@
+artist-id = "15and/yerin"
+kind = "single"
+
+names = [
+  { name = "A-TEEN2 Part.1", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "15and/yerin"
+names = [
+  { name = "백예린", locale = "ko", original = true },
+  { name = "Yerin Baek", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10282644" },
+]
