@@ -1,0 +1,5 @@
+names = [
+  { name = "습관 (Bye Bye)", locale = "ko", original = true },
+  { name = "Seupgwan (Bye Bye)", locale = "ko-Latn", default = true },
+  { name = "Bye Bye", locale = "en" },
+]

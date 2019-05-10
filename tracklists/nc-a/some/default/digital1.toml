@@ -1,0 +1,23 @@
+medium-ids = [
+  "nc-a/some/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nc-a/seupgwan-bye-bye"
+duration = "4:06"
+
+[[tracks]]
+position = 2
+song-id = "nc-a/bambaram"
+duration = "3:51"
+
+[[tracks]]
+position = 4
+song-id = "nc-a/i-m-fine"
+duration = "3:34"
+
+[[tracks]]
+position = 6
+song-id = "nc-a/bambaram-inst"
+duration = "3:51"
