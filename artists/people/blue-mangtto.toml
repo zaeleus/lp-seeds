@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1994-09-23"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "파랑망또", locale = "ko", kind = "stage", original = true },
+  { name = "Blue Mangtto", locale = "ko-Latn", kind = "stage", default = true },
+]

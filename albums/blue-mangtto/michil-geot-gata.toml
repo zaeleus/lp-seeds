@@ -1,0 +1,15 @@
+artist-id = "blue-mangtto"
+kind = "single"
+
+names = [
+  { name = "미칠 것 같아", locale = "ko", original = true },
+  { name = "Michil Geot Gata", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10282744" },
+]
