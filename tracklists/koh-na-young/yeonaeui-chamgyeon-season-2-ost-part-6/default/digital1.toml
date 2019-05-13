@@ -1,0 +1,13 @@
+medium-ids = [
+  "koh-na-young/yeonaeui-chamgyeon-season-2-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "koh-na-young/ireoke-joado-doeni"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "koh-na-young/ireoke-joado-doeni-inst"
+duration = "2:56"
