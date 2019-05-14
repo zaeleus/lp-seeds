@@ -1,0 +1,14 @@
+artist-id = "oh-my-girl"
+kind = "lp"
+
+names = [
+  { name = "THE FIFTH SEASON", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-05-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10282459" },
+]

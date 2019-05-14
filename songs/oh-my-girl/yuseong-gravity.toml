@@ -1,0 +1,5 @@
+names = [
+  { name = "유성 (Gravity)", locale = "ko", original = true },
+  { name = "Yuseong (Gravity)", locale = "ko-Latn", default = true },
+  { name = "Gravity", locale = "en" },
+]

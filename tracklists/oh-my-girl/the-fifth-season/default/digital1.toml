@@ -1,0 +1,53 @@
+medium-ids = [
+  "oh-my-girl/the-fifth-season/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-my-girl/daseot-beonjjae-gyejeol-ssfwl"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "oh-my-girl/sonagi"
+duration = "3:48"
+
+[[tracks]]
+position = 3
+song-id = "oh-my-girl/mije-case-no-l5ve"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "oh-my-girl/tic-toc"
+duration = "3:16"
+
+[[tracks]]
+position = 5
+song-id = "oh-my-girl/yuseong-gravity"
+duration = "3:11"
+
+[[tracks]]
+position = 6
+song-id = "oh-my-girl/crime-scene"
+duration = "3:28"
+
+[[tracks]]
+position = 7
+song-id = "oh-my-girl/simhae-maeumiraneun-bada"
+duration = "3:31"
+
+[[tracks]]
+position = 8
+song-id = "oh-my-girl/vogue"
+duration = "3:18"
+
+[[tracks]]
+position = 9
+song-id = "oh-my-girl/checkmate"
+duration = "3:16"
+
+[[tracks]]
+position = 10
+song-id = "oh-my-girl/daseot-beonjjae-gyejeol-ssfwl-inst"
+duration = "4:01"

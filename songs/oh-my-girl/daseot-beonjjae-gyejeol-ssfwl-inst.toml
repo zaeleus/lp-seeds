@@ -1,0 +1,5 @@
+names = [
+  { name = "다섯 번째 계절 (SSFWL) (Inst.)", locale = "ko", original = true },
+  { name = "Daseot Beonjjae Gyejeol (SSFWL) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "The Fifth Season (SSFWL) (Inst.)", locale = "en" },
+]
