@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/jam-mot-deuneun-geudaeege/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/jam-mot-deuneun-geudaeege"
+duration = "5:10"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/jam-mot-deuneun-geudaeege-inst"
+duration = "5:10"

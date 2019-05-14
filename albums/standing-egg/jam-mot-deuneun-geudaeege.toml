@@ -1,0 +1,15 @@
+artist-id = "standing-egg"
+kind = "single"
+
+names = [
+  { name = "잠 못 드는 그대에게", locale = "ko", original = true },
+  { name = "Jam Mot Deuneun Geudaeege", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10285145" },
+]
