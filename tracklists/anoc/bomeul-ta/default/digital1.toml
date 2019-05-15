@@ -1,0 +1,13 @@
+medium-ids = [
+  "anoc/bomeul-ta/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "anoc/bomeul-ta"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "anoc/bomeul-ta-inst"
+duration = "3:19"
