@@ -1,0 +1,33 @@
+medium-ids = [
+  "winner/we/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "winner/ah-yeah"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "winner/dongmurui-wangguk"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "winner/mollado-neomu-molla"
+duration = "3:55"
+
+[[tracks]]
+position = 4
+song-id = "winner/boom"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "winner/everyday-remix"
+duration = "3:22"
+
+[[tracks]]
+position = 6
+song-id = "winner/cheotsarang-2019"
+duration = "3:35"
