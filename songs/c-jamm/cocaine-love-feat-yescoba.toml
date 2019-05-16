@@ -1,0 +1,4 @@
+names = [
+  { name = "코케인 러브♥ (Feat. Yescoba)", locale = "ko", original = true },
+  { name = "Cocaine Love♥ (Feat. Yescoba)", locale = "en", default = true },
+]

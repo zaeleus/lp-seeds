@@ -1,0 +1,58 @@
+medium-ids = [
+  "c-jamm/keung/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "c-jamm/gakkeum-nan-nal-an-mideo"
+duration = "2:33"
+
+[[tracks]]
+position = 2
+song-id = "c-jamm/wollae-nan-iraenna"
+duration = "2:53"
+
+[[tracks]]
+position = 3
+song-id = "c-jamm/slay"
+duration = "2:40"
+
+[[tracks]]
+position = 4
+song-id = "c-jamm/hwik"
+duration = "2:51"
+
+[[tracks]]
+position = 5
+song-id = "c-jamm/kkik-feat-yescoba"
+duration = "2:46"
+
+[[tracks]]
+position = 6
+song-id = "c-jamm/jieut"
+duration = "2:13"
+
+[[tracks]]
+position = 7
+song-id = "c-jamm/syangsong"
+duration = "2:46"
+
+[[tracks]]
+position = 8
+song-id = "c-jamm/cocaine-love-feat-yescoba"
+duration = "3:03"
+
+[[tracks]]
+position = 9
+song-id = "c-jamm/yakppal"
+duration = "3:53"
+
+[[tracks]]
+position = 11
+song-id = "c-jamm/poker-face"
+duration = "3:34"
+
+[[tracks]]
+position = 12
+song-id = "c-jamm/wal"
+duration = "3:12"

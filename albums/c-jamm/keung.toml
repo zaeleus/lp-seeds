@@ -1,0 +1,15 @@
+artist-id = "c-jamm"
+kind = "lp"
+
+names = [
+  { name = "킁", locale = "ko", original = true },
+  { name = "Keung", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10286304" },
+]
