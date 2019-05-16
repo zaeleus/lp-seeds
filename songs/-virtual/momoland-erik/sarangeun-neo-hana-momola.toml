@@ -1,0 +1,9 @@
+names = [
+  { name = "사랑은 너 하나 (MOMOLA)", locale = "ko", original = true },
+  { name = "Sarangeun Neo Hana (MOMOLA)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "momoland", separator = ", " },
+  { artist-id = "erik" },
+]

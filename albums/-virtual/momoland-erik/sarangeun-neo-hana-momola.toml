@@ -1,0 +1,20 @@
+artist-id = "-virtual/momoland-erik"
+kind = "single"
+
+names = [
+  { name = "사랑은 너 하나 (MOMOLA)", locale = "ko", original = true },
+  { name = "Sarangeun Neo Hana (MOMOLA)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "momoland", separator = ", " },
+  { artist-id = "erik" },
+]
+
+[[releases]]
+released-on = "2019-05-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10281778" },
+]
