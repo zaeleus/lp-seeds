@@ -1,0 +1,5 @@
+names = [
+  { name = "FEEDBACK (너의 대답은) (inst.)", locale = "ko", original = true },
+  { name = "FEEDBACK (Neoui Daedabeun) (inst.)", locale = "ko-Latn", default = true },
+  { name = "FEEDBACK (inst.)", locale = "en" },
+]
