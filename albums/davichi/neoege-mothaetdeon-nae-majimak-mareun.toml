@@ -1,0 +1,15 @@
+artist-id = "davichi"
+kind = "single"
+
+names = [
+  { name = "너에게 못했던 내 마지막 말은", locale = "ko", original = true },
+  { name = "Neoege Mothaetdeon Nae Majimak Mareun", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10286309" },
+]
