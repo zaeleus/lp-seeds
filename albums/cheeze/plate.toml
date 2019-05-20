@@ -1,0 +1,14 @@
+artist-id = "cheeze"
+kind = "ep"
+
+names = [
+  { name = "Plate", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-05-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10286982" },
+]
