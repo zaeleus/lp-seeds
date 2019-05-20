@@ -1,0 +1,13 @@
+medium-ids = [
+  "bbahn/andoejyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bbahn/andoejyo"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "bbahn/andoejyo-inst"
+duration = "3:18"
