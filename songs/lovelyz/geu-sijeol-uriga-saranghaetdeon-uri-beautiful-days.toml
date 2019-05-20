@@ -1,0 +1,5 @@
+names = [
+  { name = "그 시절 우리가 사랑했던 우리 (Beautiful Days)", locale = "ko", original = true },
+  { name = "Geu Sijeol Uriga Saranghaetdeon Uri (Beautiful Days)", locale = "ko-Latn", default = true },
+  { name = "Beautiful Days", locale = "en" },
+]
