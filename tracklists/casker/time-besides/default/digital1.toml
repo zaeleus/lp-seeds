@@ -1,0 +1,13 @@
+medium-ids = [
+  "casker/time-besides/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "casker/nareul-ppaego-siganeun"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "casker/youth"
+duration = "4:06"
