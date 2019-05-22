@@ -1,0 +1,13 @@
+medium-ids = [
+  "3ye/dmt/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "3ye/dmt-do-ma-thang"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "3ye/dmt-do-ma-thang-inst"
+duration = "2:56"

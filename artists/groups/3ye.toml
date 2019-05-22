@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "써드아이", locale = "ko", original = true },
+  { name = "3YE", locale = "en", default = true },
+]
