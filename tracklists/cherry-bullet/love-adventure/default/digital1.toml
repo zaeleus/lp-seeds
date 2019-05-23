@@ -1,0 +1,18 @@
+medium-ids = [
+  "cherry-bullet/love-adventure/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cherry-bullet/nega-cham-joa-really-really"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "cherry-bullet/takgugong-ping-pong"
+duration = "3:44"
+
+[[tracks]]
+position = 3
+song-id = "cherry-bullet/balgeure-ruddy"
+duration = "3:13"

@@ -1,0 +1,5 @@
+names = [
+  { name = "탁구공 (Ping Pong)", locale = "ko", original = true },
+  { name = "Takgugong (Ping Pong)", locale = "ko-Latn", default = true },
+  { name = "Ping Pong", locale = "en" },
+]
