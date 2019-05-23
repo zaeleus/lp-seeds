@@ -1,0 +1,8 @@
+medium-ids = [
+  "giriboy/gyotongjeongni/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giriboy/gyotongjeongni-feat-heize"
+duration = "3:19"

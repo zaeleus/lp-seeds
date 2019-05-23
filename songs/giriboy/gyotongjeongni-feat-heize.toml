@@ -1,0 +1,4 @@
+names = [
+  { name = "교통정리 (Feat. 헤이즈)", locale = "ko", original = true },
+  { name = "Gyotongjeongni (Feat. Heize)", locale = "ko-Latn", default = true },
+]

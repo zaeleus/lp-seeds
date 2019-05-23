@@ -1,0 +1,15 @@
+artist-id = "giriboy"
+kind = "single"
+
+names = [
+  { name = "교통정리", locale = "ko", original = true },
+  { name = "Gyotongjeongni", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10288336" },
+]
