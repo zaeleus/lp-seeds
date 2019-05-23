@@ -1,0 +1,13 @@
+medium-ids = [
+  "zoin/naeil-mwohaeyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zoin/naeil-mwohaeyo"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "zoin/naeil-mwohaeyo-inst"
+duration = "3:39"
