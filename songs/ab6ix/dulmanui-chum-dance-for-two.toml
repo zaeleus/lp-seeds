@@ -1,0 +1,5 @@
+names = [
+  { name = "둘만의 춤 (DANCE FOR TWO)", locale = "ko", original = true },
+  { name = "Dulmanui Chum (DANCE FOR TWO)", locale = "ko-Latn", default = true },
+  { name = "DANCE FOR TWO", locale = "en" },
+]

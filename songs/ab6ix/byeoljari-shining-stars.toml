@@ -1,0 +1,5 @@
+names = [
+  { name = "별자리 (SHINING STARS)", locale = "ko", original = true },
+  { name = "Byeoljari (SHINING STARS)", locale = "ko-Latn", default = true },
+  { name = "SHINING STARS", locale = "en" },
+]
