@@ -1,0 +1,33 @@
+medium-ids = [
+  "katie/log/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "katie/no-instructions"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "katie/future-love"
+duration = "4:02"
+
+[[tracks]]
+position = 3
+song-id = "katie/thinkin-bout-you"
+duration = "4:24"
+
+[[tracks]]
+position = 4
+song-id = "katie/remember-feat-ty-dolla-ign"
+duration = "3:06"
+
+[[tracks]]
+position = 5
+song-id = "katie/love-kills"
+duration = "4:38"
+
+[[tracks]]
+position = 6
+song-id = "katie/better-off"
+duration = "2:40"
