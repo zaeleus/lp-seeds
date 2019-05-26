@@ -1,0 +1,5 @@
+names = [
+  { name = "캘린더 (Feat. 기니비니)", locale = "ko", original = true },
+  { name = "Kaellindeo (Feat. Ginibini)", locale = "ko-Latn" },
+  { name = "Calendar (Feat. Ginibini)", locale = "en", default = true },
+]

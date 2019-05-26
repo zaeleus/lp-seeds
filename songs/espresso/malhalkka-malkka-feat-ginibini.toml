@@ -1,0 +1,4 @@
+names = [
+  { name = "말할까 말까 (Feat. 기니비니)", locale = "ko", original = true },
+  { name = "Malhalkka Malkka (Feat. Ginibini)", locale = "ko-Latn", default = true },
+]

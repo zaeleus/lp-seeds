@@ -1,0 +1,4 @@
+names = [
+  { name = "Keep In Touch (Feat. 제이미)", locale = "ko", original = true },
+  { name = "Keep in Touch (Feat. J.mee)", locale = "ko-Latn", default = true },
+]

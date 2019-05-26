@@ -1,0 +1,14 @@
+artist-id = "espresso"
+kind = "lp"
+
+names = [
+  { name = "Keep In Touch", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-03-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10264927" },
+]
