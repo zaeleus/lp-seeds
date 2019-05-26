@@ -1,0 +1,15 @@
+artist-id = "bibi"
+kind = "single"
+
+names = [
+  { name = "비누", locale = "ko", original = true },
+  { name = "Binu", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10285682" },
+]
