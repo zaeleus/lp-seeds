@@ -1,0 +1,33 @@
+medium-ids = [
+  "got7/spinning-top-between-security-insecurity/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "got7/1deg"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "got7/eclipse"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "got7/kkeut"
+duration = "4:04"
+
+[[tracks]]
+position = 4
+song-id = "got7/time-out"
+duration = "3:02"
+
+[[tracks]]
+position = 5
+song-id = "got7/mideojullae"
+duration = "3:06"
+
+[[tracks]]
+position = 6
+song-id = "got7/page"
+duration = "3:45"
