@@ -1,0 +1,19 @@
+artist-id = "-virtual/eden-x-sophiya"
+kind = "single"
+
+names = [
+  { name = "EDEN_STARDUST.11", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "eden", separator = " x " },
+  { artist-id = "sophiya" },
+]
+
+[[releases]]
+released-on = "2019-04-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10279596" },
+]
