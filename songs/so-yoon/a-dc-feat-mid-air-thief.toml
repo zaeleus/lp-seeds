@@ -1,0 +1,4 @@
+names = [
+  { name = "A/DC= (feat. 공중도둑)", locale = "ko", original = true },
+  { name = "A/DC= (Feat. Mid-Air Thief)", locale = "ko-Latn", default = true },
+]

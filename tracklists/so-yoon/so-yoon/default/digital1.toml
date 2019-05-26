@@ -1,0 +1,53 @@
+medium-ids = [
+  "so-yoon/so-yoon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "so-yoon/so-yoon"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "so-yoon/zz-city"
+duration = "4:11"
+
+[[tracks]]
+position = 3
+song-id = "so-yoon/noonwalk-feat-sumin"
+duration = "3:49"
+
+[[tracks]]
+position = 4
+song-id = "so-yoon/holiday"
+duration = "3:59"
+
+[[tracks]]
+position = 5
+song-id = "so-yoon/mi-rae"
+duration = "1:29"
+
+[[tracks]]
+position = 6
+song-id = "so-yoon/fntsy-feat-jvcki-wai"
+duration = "3:24"
+
+[[tracks]]
+position = 7
+song-id = "so-yoon/a-dc-feat-mid-air-thief"
+duration = "2:50"
+
+[[tracks]]
+position = 8
+song-id = "so-yoon/forever-dumb-feat-sam-kim"
+duration = "3:53"
+
+[[tracks]]
+position = 9
+song-id = "so-yoon/athena-feat-se-so-neon"
+duration = "5:06"
+
+[[tracks]]
+position = 10
+song-id = "so-yoon/zz-city-byul-org-remix"
+duration = "3:19"

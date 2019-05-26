@@ -1,0 +1,3 @@
+names = [
+  { name = "FNTSY (feat. Jvcki Wai)", locale = "ko", original = true, default = true },
+]
