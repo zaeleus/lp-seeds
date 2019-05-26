@@ -1,0 +1,15 @@
+artist-id = "saevom"
+kind = "single"
+
+names = [
+  { name = "5' 사랑으로부터", locale = "ko", original = true },
+  { name = "5' Sarangeurobuteo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10290044" },
+]

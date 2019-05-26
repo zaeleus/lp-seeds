@@ -1,0 +1,4 @@
+names = [
+  { name = "사랑으로부터 (with 윤한솔)", locale = "ko", original = true },
+  { name = "Sarangeurobuteo (with Yoon Han Sol)", locale = "ko-Latn", default = true },
+]

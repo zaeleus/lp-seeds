@@ -1,0 +1,23 @@
+medium-ids = [
+  "saevom/5-sarangeurobuteo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saevom/sarangeurobuteo-with-jung-so-an"
+duration = "4:28"
+
+[[tracks]]
+position = 2
+song-id = "saevom/sarangeurobuteo-with-yoon-han-sol"
+duration = "3:51"
+
+[[tracks]]
+position = 3
+song-id = "saevom/sarangeurobuteo-inst"
+duration = "4:28"
+
+[[tracks]]
+position = 4
+song-id = "saevom/sarangeurobuteo-guitar-ver-inst"
+duration = "3:51"
