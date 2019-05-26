@@ -1,0 +1,8 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+
+names = [
+  { name = "에스프레소", locale = "ko", kind = "stage", original = true },
+  { name = "Espresso", locale = "ko-Latn", kind = "stage", default = true },
+]

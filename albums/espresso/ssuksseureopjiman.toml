@@ -1,0 +1,15 @@
+artist-id = "espresso"
+kind = "single"
+
+names = [
+  { name = "쑥쓰럽지만", locale = "ko", original = true },
+  { name = "Ssuksseureopjiman", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10286784" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "espresso/ssuksseureopjiman/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "espresso/ssuksseureopjiman-feat-park-ji-eun"
+duration = "2:38"
+
+[[tracks]]
+position = 2
+song-id = "espresso/ssuksseureopjiman-inst"
+duration = "2:38"
