@@ -1,0 +1,5 @@
+names = [
+  { name = "시차 (Jet Lag)", locale = "ko", original = true },
+  { name = "Sicha (Jet Lag)", locale = "ko-Latn", default = true },
+  { name = "Jet Lag", locale = "en" },
+]

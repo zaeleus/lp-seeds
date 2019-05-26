@@ -6,3 +6,28 @@ medium-ids = [
 position = 1
 song-id = "nct-127/highway-to-heaven"
 duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "nct-127/superhuman"
+duration = "3:58"
+
+[[tracks]]
+position = 3
+song-id = "nct-127/a-kkamjjagiya-fool"
+duration = "2:42"
+
+[[tracks]]
+position = 4
+song-id = "nct-127/sicha-jet-lag"
+duration = "3:17"
+
+[[tracks]]
+position = 5
+song-id = "nct-127/jongibihaenggi-paper-plane"
+duration = "3:45"
+
+[[tracks]]
+position = 6
+song-id = "nct-127/outro-we-are-127"
+duration = "1:28"

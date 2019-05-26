@@ -1,0 +1,5 @@
+names = [
+  { name = "종이비행기 (Paper Plane)", locale = "ko", original = true },
+  { name = "Jongibihaenggi (Paper Plane)", locale = "ko-Latn", default = true },
+  { name = "Paper Plane", locale = "en" },
+]
