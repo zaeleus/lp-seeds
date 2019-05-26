@@ -1,0 +1,28 @@
+medium-ids = [
+  "berrygood/fantastic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "berrygood/oh-oh"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "berrygood/one-step-closer"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "berrygood/dalbicharae-chumeul"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "berrygood/kidari-ajeossi"
+duration = "3:45"
+
+[[tracks]]
+position = 5
+song-id = "berrygood/i-gyeoure"
+duration = "3:35"
