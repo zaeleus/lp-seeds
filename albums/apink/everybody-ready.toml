@@ -1,0 +1,14 @@
+artist-id = "apink"
+kind = "single"
+
+names = [
+  { name = "Everybody Ready?", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-04-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10276312" },
+]
