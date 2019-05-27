@@ -1,0 +1,4 @@
+names = [
+  { name = "처음과 끝의 계절 (Inst.)", locale = "ko", original = true },
+  { name = "Cheoeumgwa Kkeutui Gyejeol (Inst.)", locale = "ko-Latn", default = true },
+]

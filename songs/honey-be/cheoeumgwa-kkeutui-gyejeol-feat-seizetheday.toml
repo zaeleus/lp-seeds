@@ -1,0 +1,4 @@
+names = [
+  { name = "처음과 끝의 계절 (Feat. seizetheday)", locale = "ko", original = true },
+  { name = "Cheoeumgwa Kkeutui Gyejeol (Feat. seizetheday)", locale = "ko-Latn", default = true },
+]

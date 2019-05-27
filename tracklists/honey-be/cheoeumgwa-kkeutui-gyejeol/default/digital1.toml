@@ -1,0 +1,13 @@
+medium-ids = [
+  "honey-be/cheoeumgwa-kkeutui-gyejeol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "honey-be/cheoeumgwa-kkeutui-gyejeol-feat-seizetheday"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "honey-be/cheoeumgwa-kkeutui-gyejeol-inst"
+duration = "3:34"
