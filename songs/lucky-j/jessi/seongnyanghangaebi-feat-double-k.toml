@@ -1,0 +1,4 @@
+names = [
+  { name = "성냥한개비 (Feat. 더블케이)", locale = "ko", original = true },
+  { name = "Seongnyanghangaebi (Feat. Double K)", locale = "ko-Latn", default = true },
+]

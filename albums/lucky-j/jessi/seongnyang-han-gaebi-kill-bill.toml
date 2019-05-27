@@ -1,0 +1,15 @@
+artist-id = "lucky-j/jessi"
+kind = "single"
+
+names = [
+  { name = "성냥 한 개비 (킬빌)", locale = "ko", original = true },
+  { name = "Seongnyang Han Gaebi (Kill Bill)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-03-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10267746" },
+]
