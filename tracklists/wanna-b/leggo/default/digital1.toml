@@ -1,0 +1,13 @@
+medium-ids = [
+  "wanna-b/leggo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wanna-b/leggo"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "wanna-b/leggo-inst"
+duration = "3:30"
