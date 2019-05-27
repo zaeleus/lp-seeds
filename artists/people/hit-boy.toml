@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1987-05-21"
+country = "US"
+gender = "male"
+
+names = [
+  { name = "Hit-Boy", locale = "en", kind = "stage", original = true, default = true },
+  { name = "Chauncey Hollis", locale = "en", kind = "real" },
+]

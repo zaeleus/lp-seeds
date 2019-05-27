@@ -1,0 +1,19 @@
+artist-id = "-virtual/jay-park-hit-boy"
+kind = "single"
+
+names = [
+  { name = "K-TOWN", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "jay-park", separator = ", " },
+  { artist-id = "hit-boy" },
+]
+
+[[releases]]
+released-on = "2019-05-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10286311" },
+]
