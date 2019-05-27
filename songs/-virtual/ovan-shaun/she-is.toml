@@ -4,5 +4,5 @@ names = [
 
 artist-credits = [
   { artist-id = "ovan", separator = ", " },
-  { artist-id = "eden" },
+  { artist-id = "shaun" },
 ]
