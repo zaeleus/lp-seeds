@@ -1,0 +1,12 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "투모로우바이투게더", locale = "ko", original = true },
+  { name = "Tumorou Bai Tugedeo", locale = "ko-Latn" },
+  { name = "TXT", locale = "en", default = true },
+  { name = "Tomorrow X Together", locale = "en" },
+  { name = "Tomorrow by Together", locale = "en" },
+]

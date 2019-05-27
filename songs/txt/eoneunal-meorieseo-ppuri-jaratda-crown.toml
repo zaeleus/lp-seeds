@@ -1,0 +1,5 @@
+names = [
+  { name = "어느날 머리에서 뿔이 자랐다 (CROWN)", locale = "ko", original = true },
+  { name = "Eoneunal Meorieseo Ppuri Jaratda (CROWN)", locale = "ko-Latn", default = true },
+  { name = "CROWN", locale = "en" },
+]
