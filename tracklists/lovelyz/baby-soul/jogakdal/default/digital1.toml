@@ -1,0 +1,8 @@
+medium-ids = [
+  "lovelyz/baby-soul/jogakdal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lovelyz/baby-soul/jogakdal"
+duration = "4:19"
