@@ -1,0 +1,11 @@
+names = [
+  { name = "니가 더 잘 알잖아 (youknowbetter)", locale = "ko", original = true },
+  { name = "Niga Deo Jal Aljana (youknowbetter)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "sistar/hyo-rin"
+names = [
+  { name = "효린", locale = "ko", original = true },
+  { name = "Hyolyn", locale = "ko-Latn", default = true },
+]
