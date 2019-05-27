@@ -1,0 +1,5 @@
+names = [
+  { name = "사랑해줄래 (Treat You Right)", locale = "ko", original = true },
+  { name = "Saranghaejullae (Treat You Right)", locale = "ko-Latn", default = true },
+  { name = "Treat You Right", locale = "en" },
+]

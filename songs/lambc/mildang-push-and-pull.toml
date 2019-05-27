@@ -1,0 +1,5 @@
+names = [
+  { name = "밀당 (Push and Pull)", locale = "ko", original = true },
+  { name = "Mildang (Push and Pull)", locale = "ko-Latn", default = true },
+  { name = "Push and Pull", locale = "en" },
+]

@@ -1,0 +1,33 @@
+medium-ids = [
+  "lambc/green-is-the-new-black/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lambc/childish"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "lambc/fallin"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "lambc/saranghaejullae-treat-you-right"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "lambc/four-seasons"
+duration = "3:11"
+
+[[tracks]]
+position = 5
+song-id = "lambc/mildang-push-and-pull"
+duration = "3:40"
+
+[[tracks]]
+position = 6
+song-id = "lambc/boston"
+duration = "3:25"
