@@ -1,0 +1,16 @@
+artist-id = "1415"
+kind = "single"
+
+names = [
+  { name = "초면에 사랑합니다 OST Part.7", locale = "ko", original = true },
+  { name = "Chomyeone Saranghamnida OST Part.7", locale = "ko-Latn", default = true },
+  { name = "The Secret Life of My Secretary OST Part.7", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-05-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10290127" },
+]

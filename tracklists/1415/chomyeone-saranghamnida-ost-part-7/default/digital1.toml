@@ -1,0 +1,13 @@
+medium-ids = [
+  "1415/chomyeone-saranghamnida-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "1415/isanghae-jeongmal"
+duration = "4:44"
+
+[[tracks]]
+position = 2
+song-id = "1415/isanghae-jeongmal-inst"
+duration = "4:44"
