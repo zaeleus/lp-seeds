@@ -1,0 +1,28 @@
+medium-ids = [
+  "rothy/color-of-rothy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rothy/bee"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "rothy/eojeboda-jarasseo"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "rothy/ondo"
+duration = "3:17"
+
+[[tracks]]
+position = 4
+song-id = "rothy/da-pin-kkot"
+duration = "3:49"
+
+[[tracks]]
+position = 5
+song-id = "rothy/bee-inst"
+duration = "3:17"
