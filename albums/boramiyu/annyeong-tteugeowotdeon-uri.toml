@@ -1,0 +1,15 @@
+artist-id = "boramiyu"
+kind = "ep"
+
+names = [
+  { name = "안녕, 뜨거웠던 우리", locale = "ko", original = true },
+  { name = "Annyeong, Tteugeowotdeon Uri", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10291250" },
+]
