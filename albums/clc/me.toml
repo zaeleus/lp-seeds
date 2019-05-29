@@ -1,0 +1,15 @@
+artist-id = "clc"
+kind = "single"
+
+names = [
+  { name = "ME(美)", locale = "ko", original = true },
+  { name = "ME", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10291695" },
+]
