@@ -7,6 +7,13 @@ names = [
   { name = "Deoksugung Stonewall Walkway (Feat. 10cm)", locale = "en" },
 ]
 
+[[artist-credits]]
+artist-id = "girls-generation/yoona"
+names = [
+  { name = "윤아", locale = "ko", original = true },
+  { name = "YOONA", locale = "ko-Latn", default = true },
+]
+
 [[releases]]
 released-on = "2016-03-11"
 country = "KR"

@@ -3,3 +3,10 @@ names = [
   { name = "Deoksugung Doldamgirui Bom (Feat. 10cm) (Inst.)", locale = "ko-Latn", default = true  },
   { name = "Deoksugung Stonewall Walkway (Feat. 10cm) (Inst.)", locale = "en" },
 ]
+
+[[artist-credits]]
+artist-id = "girls-generation/yoona"
+names = [
+  { name = "윤아", locale = "ko", original = true },
+  { name = "YOONA", locale = "ko-Latn", default = true },
+]
