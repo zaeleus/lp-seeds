@@ -1,0 +1,5 @@
+names = [
+  { name = "개와 늑대의 시간 (BingBing)", locale = "ko", original = true },
+  { name = "Gaewa Neukdaeui Sigan (BingBing)", locale = "ko-Latn", default = true },
+  { name = "BingBing", locale = "en" },
+]

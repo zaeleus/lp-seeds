@@ -1,0 +1,5 @@
+names = [
+  { name = "태양이 떨어진다 (Twilight)", locale = "ko", original = true },
+  { name = "Taeyangi Tteoreojinda (Twilight)", locale = "ko-Latn", default = true },
+  { name = "Twilight", locale = "en" },
+]
