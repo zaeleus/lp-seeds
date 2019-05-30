@@ -1,0 +1,12 @@
+names = [
+  { name = "너에게 (To You)", locale = "ko", original = true },
+  { name = "Neoege (To You)", locale = "ko-Latn", default = true },
+  { name = "To You", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/yoona"
+names = [
+  { name = "윤아", locale = "ko", original = true },
+  { name = "YOONA", locale = "ko-Latn", default = true },
+]

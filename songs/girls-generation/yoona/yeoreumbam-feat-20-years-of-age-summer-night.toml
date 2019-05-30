@@ -1,0 +1,12 @@
+names = [
+  { name = "여름밤 (Feat. 스무살) (Summer Night)", locale = "ko", original = true },
+  { name = "Yeoreumbam (Feat. 20 Years of Age) (Summer Night)", locale = "ko-Latn", default = true },
+  { name = "Summer Night (Feat. 20 Years of Age)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/yoona"
+names = [
+  { name = "윤아", locale = "ko", original = true },
+  { name = "YOONA", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,21 @@
+artist-id = "girls-generation/yoona"
+kind = "ep"
+
+names = [
+  { name = "A Walk to Remember", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/yoona"
+names = [
+  { name = "윤아", locale = "ko", original = true },
+  { name = "YOONA", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10292269" },
+]
