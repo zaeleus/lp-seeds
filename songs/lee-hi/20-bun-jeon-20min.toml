@@ -1,0 +1,5 @@
+names = [
+  { name = "20분 전 (20MIN)", locale = "ko", original = true },
+  { name = "20-bun Jeon (20MIN)", locale = "ko-Latn", default = true },
+  { name = "20MIN", locale = "en" },
+]

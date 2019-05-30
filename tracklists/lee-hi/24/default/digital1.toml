@@ -1,0 +1,28 @@
+medium-ids = [
+  "lee-hi/24/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-hi/nugu-eopso-no-one-feat-b-i-of-ikon"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "lee-hi/no-way-feat-g-soul"
+duration = "4:17"
+
+[[tracks]]
+position = 3
+song-id = "lee-hi/love-is-over"
+duration = "3:38"
+
+[[tracks]]
+position = 4
+song-id = "lee-hi/handu-beon-1-2-feat-choi-hyun-suk-of-treasure"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "lee-hi/20-bun-jeon-20min"
+duration = "2:57"

@@ -1,0 +1,5 @@
+names = [
+  { name = "누구 없소 (NO ONE) (Feat. B.I of iKON)", locale = "ko", original = true },
+  { name = "Nugu Eopso (NO ONE) (Feat. B.I of iKON)", locale = "ko-Latn", default = true },
+  { name = "NO ONE (Feat. B.I of iKON)", locale = "en" },
+]

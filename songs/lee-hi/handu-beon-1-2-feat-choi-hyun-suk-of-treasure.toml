@@ -1,0 +1,5 @@
+names = [
+  { name = "한두 번 (1, 2) (Feat. CHOI HYUN SUK of TREASURE)", locale = "ko", original = true },
+  { name = "Handu Beon (1, 2) (Feat. CHOI HYUN SUK of TREASURE)", locale = "ko-Latn", default = true },
+  { name = "1, 2 (Feat. CHOI HYUN SUK of TREASURE)", locale = "en" },
+]
