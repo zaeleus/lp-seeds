@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/eden-x-blah/eden_stardust-12/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/eden-x-blah/painful"
+duration = "3:14"

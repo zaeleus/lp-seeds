@@ -1,0 +1,19 @@
+artist-id = "-virtual/eden-x-blah"
+kind = "single"
+
+names = [
+  { name = "EDEN_STARDUST.12", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "eden", separator = " x " },
+  { artist-id = "blah" },
+]
+
+[[releases]]
+released-on = "2019-05-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10292354" },
+]
