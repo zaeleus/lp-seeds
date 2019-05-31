@@ -1,0 +1,7 @@
+kind = "person"
+started-on = "1994-12-04"
+country = "KR"
+
+names = [
+  { name = "Ted Park", locale = "ko", kind = "real", original = true, default = true },
+]
