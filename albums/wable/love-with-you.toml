@@ -1,0 +1,14 @@
+artist-id = "wable"
+kind = "single"
+
+names = [
+  { name = "Love with you", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-06-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10292788" },
+]
