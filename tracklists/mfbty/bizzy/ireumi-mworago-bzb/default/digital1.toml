@@ -1,0 +1,8 @@
+medium-ids = [
+  "mfbty/bizzy/ireumi-mworago-bzb/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mfbty/bizzy/ireumi-mworago-bzb"
+duration = "3:01"
