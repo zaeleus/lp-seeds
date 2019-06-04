@@ -1,0 +1,5 @@
+names = [
+  { name = "비 그친 밤 (That Night)", locale = "ko", original = true },
+  { name = "Bi Geuchin Bam (That Night)", locale = "ko-Latn", default = true },
+  { name = "That Night", locale = "en" },
+]
