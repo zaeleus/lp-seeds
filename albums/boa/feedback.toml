@@ -1,0 +1,14 @@
+artist-id = "boa"
+kind = "single"
+
+names = [
+  { name = "Feedback", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-06-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10293668" },
+]
