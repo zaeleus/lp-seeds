@@ -1,0 +1,18 @@
+medium-ids = [
+  "fromis-9/fun-factory/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fromis-9/fun"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "fromis-9/love-rumpumpum"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "fromis-9/fly-high"
+duration = "3:40"
