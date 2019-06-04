@@ -1,0 +1,14 @@
+artist-id = "cosmic-girls"
+kind = "ep"
+
+names = [
+  { name = "For the Summer", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-06-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10293846" },
+]
