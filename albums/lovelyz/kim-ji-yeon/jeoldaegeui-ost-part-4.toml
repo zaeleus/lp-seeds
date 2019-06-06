@@ -1,0 +1,16 @@
+artist-id = "lovelyz/kim-ji-yeon"
+kind = "single"
+
+names = [
+  { name = "절대그이 OST Part.4", locale = "ko", original = true },
+  { name = "Jeoldaegeui OST Part.4", locale = "ko-Latn", default = true },
+  { name = "My Absolute Boyfriend OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-06-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10294236" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "lovelyz/kim-ji-yeon/jeoldaegeui-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lovelyz/kim-ji-yeon/choneungnyeok-naui-geudae"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "lovelyz/kim-ji-yeon/choneungnyeok-naui-geudae-inst"
+duration = "3:23"

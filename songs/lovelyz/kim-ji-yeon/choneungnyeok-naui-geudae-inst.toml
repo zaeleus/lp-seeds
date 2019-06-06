@@ -1,0 +1,4 @@
+names = [
+  { name = "초능력 나의 그대 (Inst.)", locale = "ko", original = true },
+  { name = "Choneungnyeok Naui Geudae (Inst.)", locale = "ko-Latn", default = true },
+]
