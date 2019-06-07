@@ -1,0 +1,5 @@
+names = [
+  { name = "굳은살 (feat. 라이프 오브 하지)", locale = "ko", original = true },
+  { name = "Gudeunsal (feat. Life of Hojj)", locale = "ko-Latn", default = true },
+  { name = "Calluses on My Hands (feat. Life of Hojj)", locale = "" },
+]

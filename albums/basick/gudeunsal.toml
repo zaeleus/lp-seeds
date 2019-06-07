@@ -1,0 +1,16 @@
+artist-id = "basick"
+kind = "single"
+
+names = [
+  { name = "굳은살", locale = "ko", original = true },
+  { name = "Gudeunsal", locale = "ko-Latn", default = true },
+  { name = "Calluses on My Hands", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-06-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10294024" },
+]
