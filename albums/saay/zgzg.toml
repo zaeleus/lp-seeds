@@ -1,0 +1,14 @@
+artist-id = "saay"
+kind = "single"
+
+names = [
+  { name = "ZGZG", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-06-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10293563" },
+]
