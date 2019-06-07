@@ -1,0 +1,14 @@
+artist-id = "jay-park"
+kind = "lp"
+
+names = [
+  { name = "The Road Less Traveled", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-06-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10293993" },
+]

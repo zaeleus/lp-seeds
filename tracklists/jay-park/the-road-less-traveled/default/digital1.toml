@@ -1,0 +1,88 @@
+medium-ids = [
+  "jay-park/the-road-less-traveled/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jay-park/what-up-feat-don-flamingo-prod-by-gray"
+duration = "4:16"
+
+[[tracks]]
+position = 2
+song-id = "jay-park/get-it-all-feat-cha-cha-malone-prod-by-cha-cha-malone"
+duration = "3:19"
+
+[[tracks]]
+position = 3
+song-id = "jay-park/twilight-feat-woo-jarv-dee-prod-by-cha-cha-malone"
+duration = "3:58"
+
+[[tracks]]
+position = 4
+song-id = "jay-park/twisted-dreams-feat-jay-electronica-joe-flizzow-dj-wegun-prod-by-gray"
+duration = "3:42"
+
+[[tracks]]
+position = 5
+song-id = "jay-park/wdfa-feat-masiwei-dzknow-of-higher-brothers-avatar-darko-prod-by-groovyroom"
+duration = "4:43"
+
+[[tracks]]
+position = 6
+song-id = "jay-park/doin-me-feat-avatar-darko-dolce-drako-prod-by-boycold"
+duration = "3:08"
+
+[[tracks]]
+position = 7
+song-id = "jay-park/plottin-feat-ill-chris-prod-by-boycold"
+duration = "3:00"
+
+[[tracks]]
+position = 8
+song-id = "jay-park/stutter-feat-ted-park-prod-by-groovyroom"
+duration = "3:09"
+
+[[tracks]]
+position = 9
+song-id = "jay-park/feng-shui-prod-by-cha-cha-malone"
+duration = "3:14"
+
+[[tracks]]
+position = 10
+song-id = "jay-park/ben-baller-feat-uneducated-kid-ghoulavelii-bradystreet-prod-by-boycold"
+duration = "3:31"
+
+[[tracks]]
+position = 11
+song-id = "jay-park/step-son-feat-nacho-picasso-prod-by-juniorchef-groovyroom"
+duration = "2:36"
+
+[[tracks]]
+position = 12
+song-id = "jay-park/monster-feat-raz-simone-prod-by-charlie-heat"
+duration = "3:46"
+
+[[tracks]]
+position = 13
+song-id = "jay-park/sun-comes-up-feat-fatal-lucciauno-malitia-malimob-prod-by-gray"
+duration = "3:49"
+
+[[tracks]]
+position = 14
+song-id = "jay-park/grayground-cypher-feat-king-leez-anthony-danza-keem-hyo-eun-ph-1-geo-of-blue-scholars-chaboom-dj-wegun-prod-by-gray"
+duration = "7:13"
+
+[[tracks]]
+position = 15
+song-id = "jay-park/legacy-feat-gifted-gab-shelby-prod-by-gray"
+duration = "3:32"
+
+[[tracks]]
+position = 16
+song-id = "jay-park/for-ourselves-feat-chloe-devita-prod-by-mokyo"
+duration = "3:42"
+
+[[tracks]]
+position = 17
+song-id = "jay-park/undefeated-feat-the-flavr-blue-prod-by-gray"
+duration = "3:38"
