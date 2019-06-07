@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1992-08-02"
+country = "GB"
+
+names = [
+  { name = "Charli XCX", locale = "en", kind = "stage", original = true, default = true },
+  { name = "Charlotte Emma Aitchison", locale = "en", kind = "real" },
+]
