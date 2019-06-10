@@ -1,0 +1,14 @@
+artist-id = "ateez"
+kind = "ep"
+
+names = [
+  { name = "TREASURE EP.3: One To All", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-06-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10295279" },
+]

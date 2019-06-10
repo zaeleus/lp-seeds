@@ -1,0 +1,33 @@
+medium-ids = [
+  "ateez/treasure-ep-3-one-to-all/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ateez/utopia"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "ateez/illusion"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "ateez/crescent"
+duration = "0:47"
+
+[[tracks]]
+position = 4
+song-id = "ateez/wave"
+duration = "3:24"
+
+[[tracks]]
+position = 5
+song-id = "ateez/aurora"
+duration = "3:25"
+
+[[tracks]]
+position = 6
+song-id = "ateez/dancing-like-butterfly-wings"
+duration = "3:03"
