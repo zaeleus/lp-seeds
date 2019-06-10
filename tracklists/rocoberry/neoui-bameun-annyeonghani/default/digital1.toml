@@ -1,0 +1,38 @@
+medium-ids = [
+  "rocoberry/neoui-bameun-annyeonghani/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rocoberry/eolguri-ppalgaejyeosseo"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "rocoberry/neoui-bameun-annyeonghani"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "rocoberry/geukkat-jajonsim"
+duration = "2:57"
+
+[[tracks]]
+position = 4
+song-id = "rocoberry/ijen-jeongmal-annyeong"
+duration = "2:54"
+
+[[tracks]]
+position = 5
+song-id = "rocoberry/so-far-away"
+duration = "2:41"
+
+[[tracks]]
+position = 6
+song-id = "rocoberry/geureoda-kkulbam-manneun-suga-isseo-bonus-track"
+duration = "2:20"
+
+[[tracks]]
+position = 7
+song-id = "rocoberry/neoui-bameun-annyeonghani-inst"
+duration = "3:22"

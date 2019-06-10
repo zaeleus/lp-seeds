@@ -1,0 +1,4 @@
+names = [
+  { name = "그러다 꿀밤 맞는 수가 있어 (bonus track)", locale = "ko", original = true },
+  { name = "Geureoda Kkulbam Manneun Suga Isseo (bonus track)", locale = "ko-Latn", default = true },
+]
