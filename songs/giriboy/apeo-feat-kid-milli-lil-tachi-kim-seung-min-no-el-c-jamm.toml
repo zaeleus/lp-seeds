@@ -1,0 +1,4 @@
+names = [
+  { name = "아퍼 (Feat. Kid Milli, Lil tachi, 김승민, NO:EL, C JAMM)", locale = "ko", original = true },
+  { name = "Apeo (Feat. Kid Milli, Lil tachi, Kim Seung Min, NO:EL, C JAMM)", locale = "ko-Latn", default = true },
+]
