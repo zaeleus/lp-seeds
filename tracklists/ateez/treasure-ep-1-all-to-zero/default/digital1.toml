@@ -1,0 +1,33 @@
+medium-ids = [
+  "ateez/treasure-ep-1-all-to-zero/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ateez/intro-long-journey"
+duration = "1:37"
+
+[[tracks]]
+position = 2
+song-id = "ateez/haejeogwang"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "ateez/treasure"
+duration = "3:41"
+
+[[tracks]]
+position = 4
+song-id = "ateez/twilight"
+duration = "3:45"
+
+[[tracks]]
+position = 5
+song-id = "ateez/stay"
+duration = "3:20"
+
+[[tracks]]
+position = 6
+song-id = "ateez/my-way"
+duration = "3:49"
