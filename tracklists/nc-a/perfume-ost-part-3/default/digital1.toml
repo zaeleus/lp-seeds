@@ -1,0 +1,13 @@
+medium-ids = [
+  "nc-a/perfume-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nc-a/kiss-me"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "nc-a/kiss-me-inst"
+duration = "3:38"
