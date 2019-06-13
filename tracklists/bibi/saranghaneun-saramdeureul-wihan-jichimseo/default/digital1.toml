@@ -1,0 +1,23 @@
+medium-ids = [
+  "bibi/saranghaneun-saramdeureul-wihan-jichimseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bibi/nabi"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "bibi/give-more-care-less"
+duration = "3:07"
+
+[[tracks]]
+position = 3
+song-id = "bibi/pretty-ting-feat-kim-seung-min"
+duration = "2:56"
+
+[[tracks]]
+position = 4
+song-id = "bibi/fedexx-girl-feat-changmo"
+duration = "3:30"
