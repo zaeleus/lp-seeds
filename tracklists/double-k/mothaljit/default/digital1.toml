@@ -1,0 +1,8 @@
+medium-ids = [
+  "double-k/mothaljit/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "double-k/mothaljit"
+duration = "3:04"
