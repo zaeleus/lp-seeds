@@ -1,0 +1,13 @@
+medium-ids = [
+  "huh-gak/dan-hanaui-sarang-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "huh-gak/because-of-you"
+duration = "4:17"
+
+[[tracks]]
+position = 2
+song-id = "huh-gak/because-of-you-inst"
+duration = "4:17"

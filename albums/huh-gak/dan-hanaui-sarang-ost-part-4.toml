@@ -1,0 +1,16 @@
+artist-id = "huh-gak"
+kind = "single"
+
+names = [
+  { name = "단, 하나의 사랑 OST Part.4", locale = "ko", original = true },
+  { name = "Dan, Hanaui Sarang OST Part.4", locale = "ko-Latn", default = true },
+  { name = "Angel's Last Mission: Love OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-06-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10296258" },
+]
