@@ -1,0 +1,13 @@
+medium-ids = [
+  "jiselle/better-this-way/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jiselle/better-this-way"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "jiselle/i-can-t-lie"
+duration = "2:31"
