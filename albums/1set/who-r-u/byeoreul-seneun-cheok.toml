@@ -1,0 +1,15 @@
+artist-id = "1set/who-r-u"
+kind = "single"
+
+names = [
+  { name = "별을 세는 척", locale = "ko", original = true },
+  { name = "Byeoreul Seneun Cheok", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-06-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10296590" },
+]
