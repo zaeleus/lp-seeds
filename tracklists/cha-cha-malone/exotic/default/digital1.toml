@@ -1,0 +1,8 @@
+medium-ids = [
+  "cha-cha-malone/exotic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cha-cha-malone/exotic"
+duration = "3:19"

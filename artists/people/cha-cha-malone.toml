@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1987-05-25"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "Cha Cha Malone", locale = "ko", kind = "stage", original = true },
+]
