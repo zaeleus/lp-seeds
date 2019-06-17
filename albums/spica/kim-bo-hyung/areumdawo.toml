@@ -1,0 +1,15 @@
+artist-id = "spica/kim-bo-hyung"
+kind = "single"
+
+names = [
+  { name = "아름다워", locale = "ko", original = true },
+  { name = "Areumdawo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-06-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10296899" },
+]
