@@ -1,0 +1,5 @@
+names = [
+  { name = "돌고 돌아 (Round And Round)", locale = "ko", original = true },
+  { name = "Dolgo Dora (Round And Round)", locale = "ko-Latn", default = true },
+  { name = "Round And Round", locale = "en" },
+]
