@@ -1,0 +1,28 @@
+medium-ids = [
+  "the-daisy/apeugiman-hajyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-daisy/apeugiman-hajyo"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "the-daisy/wae-geuttae-nareul"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "the-daisy/yaksokhaeyo"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "the-daisy/sarangi-jinago-nani-algesseo"
+duration = "3:21"
+
+[[tracks]]
+position = 5
+song-id = "the-daisy/apeugiman-hajyo-inst"
+duration = "3:44"
