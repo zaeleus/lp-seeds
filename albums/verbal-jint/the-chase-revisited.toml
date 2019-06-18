@@ -1,0 +1,14 @@
+artist-id = "verbal-jint"
+kind = "single"
+
+names = [
+  { name = "The Chase Revisited", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-06-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10297061" },
+]
