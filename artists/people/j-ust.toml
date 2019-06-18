@@ -5,7 +5,7 @@ gender = "male"
 
 names = [
   { name = "그_냥", locale = "ko", kind = "stage", original = true },
-  { name = "J_st", locale = "en", kind = "stage", default = true },
+  { name = "J_ust", locale = "en", kind = "stage", default = true },
   { name = "서석우", locale = "ko", kind = "real" },
   { name = "Seo Suk Woo", locale = "ko-Latn", kind = "real" },
 ]
