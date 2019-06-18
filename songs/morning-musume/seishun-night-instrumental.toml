@@ -1,0 +1,11 @@
+names = [
+  { name = "青春Night(Instrumental)", locale = "ja", original = true },
+  { name = "Seishun Night (Instrumental)", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '19", locale = "ja", original = true },
+  { name = "Morning Musume '19", locale = "ja-Latn", default = true },
+]

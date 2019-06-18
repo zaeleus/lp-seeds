@@ -1,0 +1,24 @@
+artist-id = "morning-musume"
+kind = "single"
+
+names = [
+  { name = "人生Blues/青春Night", locale = "ja", original = true },
+  { name = "Jinsei Blues / Seishun Night", locale = "ja-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "morning-musume"
+names = [
+  { name = "モーニング娘。 '19", locale = "ja", original = true },
+  { name = "Morning Musume '19", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-06-12"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000030/EPCE-7499-HR/" },
+  { url = "http://mora.jp/package/43000030/EPCE-7499/" },
+  { url = "https://music.apple.com/us/album/1464118659" },
+]
