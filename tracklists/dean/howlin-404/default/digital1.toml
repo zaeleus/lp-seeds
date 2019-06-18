@@ -1,0 +1,8 @@
+medium-ids = [
+  "dean/howlin-404/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dean/howlin-404"
+duration = "3:50"
