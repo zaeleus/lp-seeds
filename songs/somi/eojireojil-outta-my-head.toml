@@ -1,0 +1,5 @@
+names = [
+  { name = "어질어질 (Outta My Head)", locale = "ko", original = true },
+  { name = "Eojireojil (Outta My Head)", locale = "ko-Latn", default = true },
+  { name = "Outta My Head", locale = "en" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "somi/birthday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "somi/eojireojil-outta-my-head"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "somi/birthday"
+duration = "3:06"
