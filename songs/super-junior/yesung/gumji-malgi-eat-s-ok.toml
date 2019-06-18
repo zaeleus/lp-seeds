@@ -1,0 +1,5 @@
+names = [
+  { name = "굶지 말기 (Eat's OK)", locale = "ko", original = true },
+  { name = "Gumji Malgi (Eat's OK)", locale = "ko-Latn", default = true },
+  { name = "Eat's OK", locale = "en" },
+]

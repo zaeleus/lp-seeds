@@ -1,0 +1,5 @@
+names = [
+  { name = "우연을 모아 (Wish)", locale = "ko", original = true },
+  { name = "Uyeoneul Moa (Wish)", locale = "ko-Latn", default = true },
+  { name = "Wish", locale = "en" },
+]

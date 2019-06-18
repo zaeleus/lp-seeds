@@ -1,0 +1,5 @@
+names = [
+  { name = "평행선 (Parallel Lines)", locale = "ko", original = true },
+  { name = "Pyeonghaengseon (Parallel Lines)", locale = "ko-Latn", default = true },
+  { name = "Parallel Lines", locale = "en" },
+]

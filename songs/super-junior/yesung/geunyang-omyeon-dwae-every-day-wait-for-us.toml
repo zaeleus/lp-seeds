@@ -1,0 +1,5 @@
+names = [
+  { name = "그냥 오면 돼 (Every day, Wait for us)", locale = "ko", original = true },
+  { name = "Geunyang Omyeon Dwae (Every day, Wait for us)", locale = "ko-Latn", default = true },
+  { name = "Every day, Wait for us", locale = "en" },
+]

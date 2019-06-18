@@ -1,0 +1,33 @@
+medium-ids = [
+  "super-junior/yesung/pink-magic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "super-junior/yesung/pink-magic"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "super-junior/yesung/gumji-malgi-eat-s-ok"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "super-junior/yesung/geunyang-omyeon-dwae-every-day-wait-for-us"
+duration = "3:51"
+
+[[tracks]]
+position = 4
+song-id = "super-junior/yesung/pyeonghaengseon-parallel-lines"
+duration = "4:04"
+
+[[tracks]]
+position = 5
+song-id = "super-junior/yesung/oewodulge-i-ll-remember"
+duration = "3:45"
+
+[[tracks]]
+position = 6
+song-id = "super-junior/yesung/uyeoneul-moa-wish"
+duration = "4:07"
