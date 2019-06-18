@@ -4,5 +4,5 @@ country = "KR"
 gender = "male"
 
 names = [
-  { name = "Cha Cha Malone", locale = "ko", kind = "stage", original = true },
+  { name = "Cha Cha Malone", locale = "ko", kind = "stage", original = true, default = true },
 ]
