@@ -13,7 +13,7 @@ artist-id = "eric-nam"
 separator = " X "
 
 [[artist-credits]]
-artist-id = "i-o-i/jeon-so-mi"
+artist-id = "somi"
 names = [
   { name = "소미", locale = "ko", original = true },
   { name = "Somi", locale = "ko-Latn", default = true },

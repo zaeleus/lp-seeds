@@ -19,7 +19,12 @@ urls = [
 artist-id = "i-o-i/choi-yoo-jung"
 
 [[members]]
-artist-id = "i-o-i/jeon-so-mi"
+[[members.artist-credits]]
+artist-id = "somi"
+names = [
+  { name = "전소미", locale = "ko", original = true },
+  { name = "Jeon So Mi", locale = "ko-Latn", default = true },
+]
 
 [[members]]
 [[members.artist-credits]]

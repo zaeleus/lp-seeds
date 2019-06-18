@@ -1,0 +1,17 @@
+kind = "person"
+started-on = "2001-03-09"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "소미", locale = "ko", kind = "stage", original = true },
+  { name = "SOMI", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "전소미", locale = "ko", kind = "real" },
+  { name = "Jeon So Mi", locale = "ko-Latn", kind = "real" },
+  { name = "Ennik Somi Douma", locale = "en", kind = "real" },
+]
+
+[metadata]
+blood-type = "O"
+height = 168
+weight = 48

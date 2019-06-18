@@ -19,7 +19,11 @@ names = [
 separator = " X "
 
 [[artist-credits]]
-artist-id = "i-o-i/jeon-so-mi"
+artist-id = "somi"
+names = [
+  { name = "전소미", locale = "ko", original = true },
+  { name = "Jeon So Mi", locale = "ko-Latn", default = true },
+]
 separator = " X "
 
 [[artist-credits]]

@@ -8,12 +8,28 @@ names = [
   { name = "Girls Next Door", locale = "en", default = true },
 ]
 
-members = [
-  { artist-id = "red-velvet/seulgi" },
-  { artist-id = "mamamoo/moonbyul" },
-  { artist-id = "oh-my-girl/seung-hee" },
-  { artist-id = "lovelyz/ryu-su-jeong" },
-  { artist-id = "sonamoo/d-ana" },
-  { artist-id = "i-o-i/jeon-so-mi" },
-  { artist-id = "i-b-i/kim-so-hee" },
+[[members]]
+artist-id = "red-velvet/seulgi"
+
+[[members]]
+artist-id = "mamamoo/moonbyul"
+
+[[members]]
+artist-id = "oh-my-girl/seung-hee"
+
+[[members]]
+artist-id = "lovelyz/ryu-su-jeong"
+
+[[members]]
+artist-id = "sonamoo/d-ana"
+
+[[members]]
+[[members.artist-credits]]
+artist-id = "somi"
+names = [
+  { name = "전소미", locale = "ko", original = true },
+  { name = "Jeon So Mi", locale = "ko-Latn", default = true },
 ]
+
+[[members]]
+artist-id = "i-b-i/kim-so-hee"
