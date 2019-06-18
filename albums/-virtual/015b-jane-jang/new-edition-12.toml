@@ -1,0 +1,19 @@
+artist-id = "-virtual/015b-jane-jang"
+kind = "single"
+
+names = [
+  { name = "New Edition 12", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "015b", separator = ", " },
+  { artist-id = "jane-jang" },
+]
+
+[[releases]]
+released-on = "2019-06-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10297605" },
+]

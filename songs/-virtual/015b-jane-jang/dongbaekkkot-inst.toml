@@ -1,0 +1,9 @@
+names = [
+  { name = "동백꽃 (Inst.)", locale = "ko", original = true },
+  { name = "Dongbaekkkot (Inst.)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "015b", separator = ", " },
+  { artist-id = "jane-jang" },
+]

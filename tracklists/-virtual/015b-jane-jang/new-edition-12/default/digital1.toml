@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/015b-jane-jang/new-edition-12/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/015b-jane-jang/dongbaekkkot"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/015b-jane-jang/dongbaekkkot-inst"
+duration = "3:34"
