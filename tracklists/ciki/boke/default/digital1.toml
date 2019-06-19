@@ -1,0 +1,8 @@
+medium-ids = [
+  "ciki/boke/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ciki/boke"
+duration = "3:05"
