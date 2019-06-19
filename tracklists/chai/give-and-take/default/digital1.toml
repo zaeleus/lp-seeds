@@ -1,0 +1,18 @@
+medium-ids = [
+  "chai/give-and-take/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "chai/alright"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "chai/give-and-take-feat-ph-1"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song-id = "chai/color-you-feat-sam-kim"
+duration = "3:51"
