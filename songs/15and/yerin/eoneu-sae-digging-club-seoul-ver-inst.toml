@@ -1,0 +1,11 @@
+names = [
+  { name = "어느 새 (디깅클럽서울 Ver.) (Inst.)", locale = "ko", original = true },
+  { name = "Eoneu Sae (Digging Club Seoul Ver.) (Inst.)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "15and/yerin"
+names = [
+  { name = "백예린", locale = "ko", original = true },
+  { name = "Yerin Baek", locale = "en", default = true },
+]

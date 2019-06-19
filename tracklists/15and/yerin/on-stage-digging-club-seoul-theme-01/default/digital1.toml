@@ -1,0 +1,18 @@
+medium-ids = [
+  "15and/yerin/on-stage-digging-club-seoul-theme-01/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "15and/yerin/eoneu-sae-digging-club-seoul-ver"
+duration = "4:13"
+
+[[tracks]]
+position = 2
+song-id = "15and/yerin/eoneu-sae-digging-club-seoul-ver-inst"
+duration = "4:13"
+
+[[tracks]]
+position = 3
+song-id = "15and/yerin/eoneu-sae-original-ver"
+duration = "4:52"
