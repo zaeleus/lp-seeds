@@ -1,0 +1,5 @@
+names = [
+  { name = "친구가 아냐 (Bing Bing)", locale = "ko", original = true },
+  { name = "Chinguga Anya (Bing Bing)", locale = "ko-Latn", default = true },
+  { name = "Bing Bing", locale = "en" },
+]

@@ -1,0 +1,33 @@
+medium-ids = [
+  "red-velvet/the-reve-festival-day-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/zimzalabim"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/sunny-side-up"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "red-velvet/milkshake"
+duration = "3:31"
+
+[[tracks]]
+position = 4
+song-id = "red-velvet/chinguga-anya-bing-bing"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "red-velvet/annyeong-yeoreum-parade"
+duration = "3:14"
+
+[[tracks]]
+position = 6
+song-id = "red-velvet/lp"
+duration = "3:28"

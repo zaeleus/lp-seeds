@@ -1,0 +1,5 @@
+names = [
+  { name = "짐살라빔 (Zimzalabim)", locale = "ko", original = true },
+  { name = "Jimsallabim (Zimzalabim)", locale = "ko-Latn" },
+  { name = "Zimzalabim", locale = "en", default = true },
+]
