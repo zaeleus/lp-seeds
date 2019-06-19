@@ -1,0 +1,3 @@
+names = [
+  { name = "Mixtape#2", locale = "ko", original = true, default = true },
+]

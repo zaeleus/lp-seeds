@@ -1,0 +1,4 @@
+names = [
+  { name = "밟힌 적 없는 길", locale = "ko", original = true },
+  { name = "Baphin Jeok Eomneun Gil", locale = "ko-Latn", default = true },
+]

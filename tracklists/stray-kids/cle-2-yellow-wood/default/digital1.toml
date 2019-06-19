@@ -1,0 +1,38 @@
+medium-ids = [
+  "stray-kids/cle-2-yellow-wood/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stray-kids/baphin-jeok-eomneun-gil"
+duration = "1:36"
+
+[[tracks]]
+position = 2
+song-id = "stray-kids/bujagyong"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "stray-kids/byeolsaenggak"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "stray-kids/mixtape-1"
+duration = "4:14"
+
+[[tracks]]
+position = 5
+song-id = "stray-kids/mixtape-2"
+duration = "4:52"
+
+[[tracks]]
+position = 6
+song-id = "stray-kids/mixtape-3"
+duration = "4:18"
+
+[[tracks]]
+position = 7
+song-id = "stray-kids/mixtape-4"
+duration = "3:52"
