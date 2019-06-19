@@ -1,0 +1,5 @@
+names = [
+  { name = "프라푸치노 (Inst.)", locale = "ko", original = true },
+  { name = "Peurapuchino (Inst.)", locale = "ko-Latn" },
+  { name = "Frappuccino (Inst.)", locale = "en", default = true },
+]

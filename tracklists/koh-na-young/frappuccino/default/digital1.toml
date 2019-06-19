@@ -1,0 +1,13 @@
+medium-ids = [
+  "koh-na-young/frappuccino/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "koh-na-young/frappuccino"
+duration = "2:15"
+
+[[tracks]]
+position = 2
+song-id = "koh-na-young/frappuccino-inst"
+duration = "2:15"

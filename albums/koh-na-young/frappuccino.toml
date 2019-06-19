@@ -1,0 +1,16 @@
+artist-id = "koh-na-young"
+kind = "single"
+
+names = [
+  { name = "프라푸치노", locale = "ko", original = true },
+  { name = "Peurapuchino", locale = "ko-Latn" },
+  { name = "Frappuccino", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-06-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10297892" },
+]
