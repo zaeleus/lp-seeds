@@ -1,0 +1,18 @@
+medium-ids = [
+  "brown-eyed-girls/jea/newself/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brown-eyed-girls/jea/dear-rude-feat-cheetah"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "brown-eyed-girls/jea/newself-with-jinbo"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "brown-eyed-girls/jea/my-world"
+duration = "3:41"
