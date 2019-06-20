@@ -1,0 +1,16 @@
+artist-id = "biya"
+kind = "single"
+
+names = [
+  { name = "절대그이 OST Part.6", locale = "ko", original = true },
+  { name = "Jeoldaegeui OST Part.6", locale = "ko-Latn", default = true },
+  { name = "My Absolute Boyfriend OST Part.6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-06-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10298261" },
+]
