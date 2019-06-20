@@ -1,0 +1,5 @@
+names = [
+  { name = "코발트 블루", locale = "ko", original = true },
+  { name = "Kobalteu Beullu", locale = "ko-Latn" },
+  { name = "Cobalt Blue", locale = "en", default = true },
+]
