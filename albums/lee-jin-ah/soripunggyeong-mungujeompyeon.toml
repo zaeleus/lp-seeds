@@ -1,0 +1,15 @@
+artist-id = "lee-jin-ah"
+kind = "single"
+
+names = [
+  { name = "소리풍경 - 문구점편", locale = "ko", original = true },
+  { name = "Soripunggyeong - Mungujeompyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-06-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10297981" },
+]
