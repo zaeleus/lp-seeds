@@ -1,0 +1,13 @@
+medium-ids = [
+  "608/angae-feat-ha-hyun-woo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "608/angae-feat-ha-hyun-woo"
+duration = "4:09"
+
+[[tracks]]
+position = 2
+song-id = "608/angae-inst"
+duration = "4:09"
