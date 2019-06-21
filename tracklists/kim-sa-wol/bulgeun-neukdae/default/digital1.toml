@@ -1,0 +1,8 @@
+medium-ids = [
+  "kim-sa-wol/bulgeun-neukdae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-sa-wol/bulgeun-neukdae"
+duration = "3:21"
