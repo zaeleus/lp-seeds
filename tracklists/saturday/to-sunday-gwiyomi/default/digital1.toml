@@ -1,0 +1,13 @@
+medium-ids = [
+  "saturday/to-sunday-gwiyomi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saturday/gwiyomisong"
+duration = "2:50"
+
+[[tracks]]
+position = 2
+song-id = "saturday/gwiyomisong-inst"
+duration = "2:50"
