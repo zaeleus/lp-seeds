@@ -1,0 +1,23 @@
+medium-ids = [
+  "min-chae/amureochido-anteon-nal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "min-chae/areumdaunikkayo"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "min-chae/amureochido-anteon-nal"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "min-chae/in-your-arms"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "min-chae/jinjja-maeum"
+duration = "3:24"

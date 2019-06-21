@@ -1,0 +1,15 @@
+artist-id = "min-chae"
+kind = "ep"
+
+names = [
+  { name = "아무렇지도 않던 날", locale = "ko", original = true },
+  { name = "Amureochido Anteon Nal", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-06-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10298219" },
+]
