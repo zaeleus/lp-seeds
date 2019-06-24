@@ -1,0 +1,13 @@
+medium-ids = [
+  "daybreak/uri-annyeongi-jayeonseureowoseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "daybreak/uri-annyeongi-jayeonseureowoseo"
+duration = "4:43"
+
+[[tracks]]
+position = 2
+song-id = "daybreak/uri-annyeongi-jayeonseureowoseo-inst"
+duration = "4:43"
