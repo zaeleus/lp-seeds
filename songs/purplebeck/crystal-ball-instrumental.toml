@@ -1,0 +1,3 @@
+names = [
+  { name = "Crystal Ball (Instrumental)", locale = "ko", original = true, default = true },
+]

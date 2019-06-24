@@ -1,0 +1,33 @@
+medium-ids = [
+  "purplebeck/crystal-ball/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "purplebeck/intro"
+duration = "1:07"
+
+[[tracks]]
+position = 2
+song-id = "purplebeck/crystal-ball"
+duration = "3:15"
+
+[[tracks]]
+position = 3
+song-id = "purplebeck/noneun-nal"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "purplebeck/outro"
+duration = "1:39"
+
+[[tracks]]
+position = 5
+song-id = "purplebeck/crystal-ball-instrumental"
+duration = "3:15"
+
+[[tracks]]
+position = 6
+song-id = "purplebeck/noneun-nal-instrumental"
+duration = "3:13"
