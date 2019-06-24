@@ -1,0 +1,18 @@
+medium-ids = [
+  "yoyomi/eolmana-deo-ureoya-hani/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yoyomi/eolmana-deo-ureoya-hani"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "yoyomi/eolmana-deo-ureoya-hani-mr"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "yoyomi/eolmana-deo-ureoya-hani-inst"
+duration = "3:12"
