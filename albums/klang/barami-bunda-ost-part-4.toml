@@ -1,0 +1,16 @@
+artist-id = "klang"
+kind = "single"
+
+names = [
+  { name = "바람이 분다 OST Part.4", locale = "ko", original = true },
+  { name = "Barami Bunda OST Part.4", locale = "ko-Latn", default = true },
+  { name = "The Wind Blows OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-06-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10299092" },
+]
