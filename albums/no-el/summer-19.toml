@@ -1,0 +1,14 @@
+artist-id = "no-el"
+kind = "single"
+
+names = [
+  { name = "SUMMER 19'", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-06-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10299198" },
+]
