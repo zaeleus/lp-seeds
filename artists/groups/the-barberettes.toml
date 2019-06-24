@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2014"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "바버렛츠", locale = "ko", original = true },
+  { name = "The Barberettes", locale = "en", default = true },
+]
