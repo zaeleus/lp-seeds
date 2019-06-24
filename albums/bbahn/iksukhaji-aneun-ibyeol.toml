@@ -1,0 +1,15 @@
+artist-id = "bbahn"
+kind = "ep"
+
+names = [
+  { name = "익숙하지 않은 이별", locale = "ko", original = true },
+  { name = "Iksukhaji Aneun Ibyeol", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-06-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10298965" },
+]
