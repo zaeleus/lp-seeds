@@ -1,0 +1,5 @@
+names = [
+  { name = "불러 (Hit Me Up) (Feat. 기리보이)", locale = "ko", original = true },
+  { name = "Bulleo (Hit Me Up) (Feat. Giriboy)", locale = "ko-Latn", default = true },
+  { name = "Hit Me Up (Feat. Giriboy)", locale = "en" },
+]
