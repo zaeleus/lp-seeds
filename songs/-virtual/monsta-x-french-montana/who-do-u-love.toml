@@ -1,0 +1,8 @@
+names = [
+  { name = "WHO DO U LOVE?", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "monsta-x", separator = ", " },
+  { artist-id = "french-montana" },
+]

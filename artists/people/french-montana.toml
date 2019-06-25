@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1984-11-09"
+country = "US"
+gender = "male"
+
+names = [
+  { name = "French Montana", locale = "en", kind = "stage", original = true },
+  { name = "Karim Kharbouch", locale = "en", kind = "real", default = true },
+]

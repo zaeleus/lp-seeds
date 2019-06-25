@@ -1,0 +1,19 @@
+artist-id = "-virtual/monsta-x-french-montana"
+kind = "single"
+
+names = [
+  { name = "WHO DO U LOVE?", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "monsta-x", separator = ", " },
+  { artist-id = "french-montana" },
+]
+
+[[releases]]
+released-on = "2019-06-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10296582" },
+]
