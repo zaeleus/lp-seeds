@@ -1,0 +1,14 @@
+artist-id = "g-i-dle"
+kind = "single"
+
+names = [
+  { name = "Uh-Oh", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-06-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10300342" },
+]
