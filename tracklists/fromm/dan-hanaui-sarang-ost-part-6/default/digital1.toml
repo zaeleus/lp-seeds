@@ -1,0 +1,13 @@
+medium-ids = [
+  "fromm/dan-hanaui-sarang-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fromm/neoran-bicheuro"
+duration = "4:08"
+
+[[tracks]]
+position = 2
+song-id = "fromm/neoran-bicheuro-inst"
+duration = "4:08"
