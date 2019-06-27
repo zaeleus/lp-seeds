@@ -1,0 +1,15 @@
+artist-id = "joy-o-clock"
+kind = "single"
+
+names = [
+  { name = "숨이 멎어버릴 것 같아", locale = "ko", original = true },
+  { name = "Sumi Meojeobeoril Geot Gata", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-06-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10300295" },
+]

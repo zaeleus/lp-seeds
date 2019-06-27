@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2013"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "조이어클락", locale = "ko", original = true },
+  { name = "Joy o'clock", locale = "en", default = true },
+]
