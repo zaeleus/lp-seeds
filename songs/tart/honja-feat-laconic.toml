@@ -1,0 +1,4 @@
+names = [
+  { name = "혼자 (feat. LACONIC)", locale = "ko", original = true },
+  { name = "Honja (feat. LACONIC)", locale = "ko-Latn", default = true },
+]
