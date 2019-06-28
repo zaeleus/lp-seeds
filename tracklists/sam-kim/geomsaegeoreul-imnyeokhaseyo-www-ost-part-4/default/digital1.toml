@@ -1,0 +1,13 @@
+medium-ids = [
+  "sam-kim/geomsaegeoreul-imnyeokhaseyo-www-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sam-kim/hyanggi"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "sam-kim/hyanggi-inst"
+duration = "3:59"
