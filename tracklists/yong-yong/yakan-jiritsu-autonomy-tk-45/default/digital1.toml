@@ -1,0 +1,13 @@
+medium-ids = [
+  "yong-yong/yakan-jiritsu-autonomy-tk-45/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yong-yong/yaja"
+duration = "2:42"
+
+[[tracks]]
+position = 2
+song-id = "yong-yong/se-kai-no"
+duration = "1:23"

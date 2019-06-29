@@ -1,0 +1,15 @@
+artist-id = "yong-yong"
+kind = "single"
+
+names = [
+  { name = "夜間自律 『autonomy』 TK-45", locale = "ko", original = true },
+  { name = "Yakan Jiritsu "autonomy" TK-45", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-06-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10300324" },
+]

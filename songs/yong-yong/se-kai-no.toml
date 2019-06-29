@@ -1,0 +1,4 @@
+names = [
+  { name = "世界の世界 (Se-kai-no)", locale = "ko", original = true },
+  { name = "Se-kai-no", locale = "en", default = true },
+]
