@@ -1,0 +1,22 @@
+artist-id = "f-x/sulli"
+kind = "single"
+
+names = [
+  { name = "고블린 (Goblin)", locale = "ko", original = true },
+  { name = "Goblin", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "f-x/sulli"
+names = [
+  { name = "설리", locale = "ko", original = true },
+  { name = "SULLI", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-06-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10301153" },
+]

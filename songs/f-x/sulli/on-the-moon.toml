@@ -1,0 +1,11 @@
+names = [
+  { name = "온더문 (On The Moon)", locale = "ko", original = true },
+  { name = "On The Moon", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "f-x/sulli"
+names = [
+  { name = "설리", locale = "ko", original = true },
+  { name = "SULLI", locale = "ko-Latn", default = true },
+]

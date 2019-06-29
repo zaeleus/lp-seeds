@@ -1,0 +1,11 @@
+names = [
+  { name = "도로시 (Dorothy)", locale = "ko", original = true },
+  { name = "Dorothy", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "f-x/sulli"
+names = [
+  { name = "설리", locale = "ko", original = true },
+  { name = "SULLI", locale = "ko-Latn", default = true },
+]

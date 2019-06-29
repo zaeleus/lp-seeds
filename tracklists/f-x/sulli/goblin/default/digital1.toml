@@ -1,0 +1,18 @@
+medium-ids = [
+  "f-x/sulli/goblin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/sulli/goblin"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "f-x/sulli/on-the-moon"
+duration = "4:17"
+
+[[tracks]]
+position = 3
+song-id = "f-x/sulli/dorothy"
+duration = "4:01"
