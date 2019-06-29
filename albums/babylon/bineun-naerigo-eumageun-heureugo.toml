@@ -1,0 +1,15 @@
+artist-id = "babylon"
+kind = "single"
+
+names = [
+  { name = "비는 내리고 음악은 흐르고", locale = "ko", original = true },
+  { name = "Bineun Naerigo Eumageun Heureugo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-06-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10301170" },
+]

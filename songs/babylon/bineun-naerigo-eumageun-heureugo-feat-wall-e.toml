@@ -1,0 +1,4 @@
+names = [
+  { name = "비는 내리고 음악은 흐르고 (Feat. Wall E)", locale = "ko", original = true },
+  { name = "Bineun Naerigo Eumageun Heureugo (Feat. Wall E)", locale = "ko-Latn", default = true },
+]
