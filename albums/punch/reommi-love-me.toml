@@ -1,0 +1,16 @@
+artist-id = "punch"
+kind = "single"
+
+names = [
+  { name = "럽미 (Love Me)", locale = "ko", original = true },
+  { name = "Reommi (Love Me)", locale = "ko-Latn", default = true },
+  { name = "Love Me", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-06-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10301302" },
+]

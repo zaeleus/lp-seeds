@@ -1,0 +1,13 @@
+medium-ids = [
+  "punch/reommi-love-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "punch/reommi-love-me"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "punch/reommi-love-me-inst"
+duration = "3:01"
