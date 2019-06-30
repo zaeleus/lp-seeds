@@ -1,0 +1,18 @@
+medium-ids = [
+  "jooyoung/areum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jooyoung/wipe-it-up"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "jooyoung/areum-feat-george"
+duration = "2:54"
+
+[[tracks]]
+position = 3
+song-id = "jooyoung/samcheong-view-feat-ph-1"
+duration = "3:51"

@@ -1,0 +1,15 @@
+artist-id = "jooyoung"
+kind = "single"
+
+names = [
+  { name = "아름", locale = "ko", original = true },
+  { name = "Areum", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-06-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10301287" },
+]
