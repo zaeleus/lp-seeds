@@ -1,0 +1,5 @@
+names = [
+  { name = "열대야 (Fever)", locale = "ko", original = true },
+  { name = "Yeoldaeya (Fever)", locale = "ko-Latn", default = true },
+  { name = "Fever", locale = "en" },
+]

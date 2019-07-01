@@ -1,0 +1,5 @@
+names = [
+  { name = "바라 (Wish)", locale = "ko", original = true },
+  { name = "Bara (Wish)", locale = "ko-Latn", default = true },
+  { name = "Wish", locale = "en" },
+]
