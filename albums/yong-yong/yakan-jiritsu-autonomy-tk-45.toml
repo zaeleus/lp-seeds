@@ -3,7 +3,7 @@ kind = "single"
 
 names = [
   { name = "夜間自律 『autonomy』 TK-45", locale = "ko", original = true },
-  { name = "Yakan Jiritsu "autonomy" TK-45", locale = "ja-Latn", default = true },
+  { name = 'Yakan Jiritsu "autonomy" TK-45', locale = "ja-Latn", default = true },
 ]
 
 [[releases]]
