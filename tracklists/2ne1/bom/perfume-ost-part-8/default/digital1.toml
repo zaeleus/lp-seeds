@@ -1,0 +1,13 @@
+medium-ids = [
+  "2ne1/bom/perfume-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2ne1/bom/i-do-i-do"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "2ne1/bom/i-do-i-do-inst"
+duration = "3:57"

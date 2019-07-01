@@ -1,0 +1,22 @@
+artist-id = "2ne1/bom"
+kind = "single"
+
+names = [
+  { name = "퍼퓸 OST Part.8", locale = "ko", original = true },
+  { name = "Perfume OST Part.8", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "2ne1/bom"
+names = [
+  { name = "박봄", locale = "ko", original = true},
+  { name = "Park Bom", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10301344" },
+]
