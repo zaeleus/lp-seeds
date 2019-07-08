@@ -1,0 +1,13 @@
+medium-ids = [
+  "banhana/barami-bunda-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "banhana/naega-neol-gieokhaneungeol"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "banhana/naega-neol-gieokhaneungeol-inst"
+duration = "3:46"
