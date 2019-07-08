@@ -1,0 +1,16 @@
+artist-id = "ailee"
+kind = "single"
+
+names = [
+  { name = "아스달 연대기 OST Part 1", locale = "ko", original = true },
+  { name = "Aseudal Yeondaegi OST Part 1", locale = "ko-Latn", default = true },
+  { name = "Arthdal Chronicles OST Part 1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-07-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10303967" },
+]
