@@ -1,0 +1,14 @@
+artist-id = "heize"
+kind = "single"
+
+names = [
+  { name = "We don't talk together", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-07-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10303989" },
+]
