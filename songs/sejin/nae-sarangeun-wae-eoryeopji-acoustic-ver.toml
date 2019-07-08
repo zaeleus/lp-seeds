@@ -1,0 +1,4 @@
+names = [
+  { name = "내 사랑은 왜 어렵지 (Acoustic Ver.)", locale = "ko", original = true },
+  { name = "Nae Sarangeun Wae Eoryeopji (Acoustic Ver.)", locale = "ko-Latn", default = true },
+]

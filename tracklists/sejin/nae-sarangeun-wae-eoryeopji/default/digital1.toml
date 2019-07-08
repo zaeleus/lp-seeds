@@ -1,0 +1,13 @@
+medium-ids = [
+  "sejin/nae-sarangeun-wae-eoryeopji/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sejin/nae-sarangeun-wae-eoryeopji"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "sejin/nae-sarangeun-wae-eoryeopji-acoustic-ver"
+duration = "4:40"

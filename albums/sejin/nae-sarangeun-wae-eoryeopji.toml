@@ -1,0 +1,15 @@
+artist-id = "sejin"
+kind = "single"
+
+names = [
+  { name = "내 사랑은 왜 어렵지", locale = "ko", original = true },
+  { name = "Nae Sarangeun Wae Eoryeopji", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10304047" },
+]
