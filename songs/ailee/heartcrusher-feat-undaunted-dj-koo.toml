@@ -1,0 +1,3 @@
+names = [
+  { name = "Heartcrusher (Feat. Undaunted, DJ Koo)", locale = "ko", original = true, default = true },
+]
