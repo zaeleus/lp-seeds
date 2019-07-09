@@ -1,0 +1,18 @@
+medium-ids = [
+  "melomance/insa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melomance/insa"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "melomance/ongi"
+duration = "1:01"
+
+[[tracks]]
+position = 3
+song-id = "melomance/dasi-na-geudaereul"
+duration = "4:13"

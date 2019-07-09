@@ -1,0 +1,15 @@
+artist-id = "melomance"
+kind = "single"
+
+names = [
+  { name = "인사", locale = "ko", original = true },
+  { name = "Insa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10305070" },
+]
