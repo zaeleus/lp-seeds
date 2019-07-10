@@ -1,0 +1,19 @@
+artist-id = "-virtual/sori-x-folded-dragons"
+kind = "single"
+
+names = [
+  { name = "I Am Not Alone", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "cocosori/sori", separator = " x " },
+  { artist-id = "folded-dragons" },
+]
+
+[[releases]]
+released-on = "2019-07-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10305127" },
+]

@@ -1,0 +1,8 @@
+names = [
+  { name = "I Am Not Alone", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "cocosori/sori", separator = " x " },
+  { artist-id = "folded-dragons" },
+]

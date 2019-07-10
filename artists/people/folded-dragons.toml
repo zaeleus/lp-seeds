@@ -1,0 +1,8 @@
+kind = "person"
+#started-on = ""
+country = "US"
+
+names = [
+  { name = "Folded Dragons", locale = "en", kind = "stage", original = true, default = true },
+  { name = "Albert Pan", locale = "en", kind = "real" },
+]
