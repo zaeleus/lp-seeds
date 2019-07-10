@@ -1,0 +1,28 @@
+medium-ids = [
+  "nature/i-m-so-pretty/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nature/naega-jom-yeppeo-i-m-so-pretty"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "nature/shut-up"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "nature/dalligi-race"
+duration = "3:06"
+
+[[tracks]]
+position = 4
+song-id = "nature/haenguneul-bireoyo-i-wish"
+duration = "3:32"
+
+[[tracks]]
+position = 5
+song-id = "nature/a-little-star"
+duration = "4:05"

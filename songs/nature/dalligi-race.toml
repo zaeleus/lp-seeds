@@ -1,0 +1,5 @@
+names = [
+  { name = "달리기 (Race)", locale = "ko", original = true },
+  { name = "Dalligi (Race)", locale = "ko-Latn", default = true },
+  { name = "Race", locale = "en" },
+]

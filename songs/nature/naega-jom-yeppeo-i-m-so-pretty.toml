@@ -1,0 +1,5 @@
+names = [
+  { name = "내가 좀 예뻐 (I'm So Pretty)", locale = "ko", original = true },
+  { name = "Naega Jom Yeppeo (I'm So Pretty)", locale = "ko-Latn", default = true },
+  { name = "I'm So Pretty", locale = "en" },
+]
