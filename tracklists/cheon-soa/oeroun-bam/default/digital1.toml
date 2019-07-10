@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheon-soa/oeroun-bam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheon-soa/oeroun-bam"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "cheon-soa/oeroun-bam-inst"
+duration = "4:15"
