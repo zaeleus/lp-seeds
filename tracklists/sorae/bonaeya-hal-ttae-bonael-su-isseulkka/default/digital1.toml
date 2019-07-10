@@ -1,0 +1,18 @@
+medium-ids = [
+  "sorae/bonaeya-hal-ttae-bonael-su-isseulkka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sorae/bonaeya-hal-ttae-bonael-su-isseulkka-vocal-park-han-sol"
+duration = "4:44"
+
+[[tracks]]
+position = 2
+song-id = "sorae/bonaeya-hal-ttae-bonael-su-isseulkka-piano-ver-vocal-park-han-sol"
+duration = "4:44"
+
+[[tracks]]
+position = 3
+song-id = "sorae/bonaeya-hal-ttae-bonael-su-isseulkka-inst"
+duration = "4:44"
