@@ -1,0 +1,15 @@
+artist-id = "san-e"
+kind = "single"
+
+names = [
+  { name = "85년생 정산", locale = "ko", original = true },
+  { name = "85-nyeonsaeng Jeongsan", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10306645" },
+]
