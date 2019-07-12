@@ -1,0 +1,14 @@
+artist-id = "1team"
+kind = "ep"
+
+names = [
+  { name = "JUST", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-07-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://www.melon.com/album/detail.htm?albumId=10306319" },
+]

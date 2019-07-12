@@ -1,0 +1,18 @@
+medium-ids = [
+  "1team/just/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "1team/rolling-rolling"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "1team/tak"
+duration = "3:15"
+
+[[tracks]]
+position = 3
+song-id = "1team/ice-in-the-cup"
+duration = "2:53"

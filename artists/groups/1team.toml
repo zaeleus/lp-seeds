@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "1TEAM", locale = "ko", original = true, default = true },
+]
