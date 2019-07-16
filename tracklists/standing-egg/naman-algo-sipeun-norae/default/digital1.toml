@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/naman-algo-sipeun-norae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/naman-algo-sipeun-norae"
+duration = "4:24"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/naman-algo-sipeun-norae-inst"
+duration = "4:24"

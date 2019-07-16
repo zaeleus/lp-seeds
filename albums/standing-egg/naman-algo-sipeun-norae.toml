@@ -1,0 +1,15 @@
+artist-id = "standing-egg"
+kind = "single"
+
+names = [
+  { name = "나만 알고 싶은 노래", locale = "ko", original = true },
+  { name = "Naman Algo Sipeun Norae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10307277" },
+]
