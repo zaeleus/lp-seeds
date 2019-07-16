@@ -1,0 +1,8 @@
+medium-ids = [
+  "junoflo/acid-freestyle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "junoflo/acid-freestyle"
+duration = "2:54"
