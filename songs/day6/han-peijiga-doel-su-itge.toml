@@ -1,0 +1,5 @@
+names = [
+  { name = "한 페이지가 될 수 있게", locale = "ko", original = true },
+  { name = "Han Peijiga Doel Su Itge", locale = "ko-Latn", default = true },
+  { name = "Time of Our Life", locale = "en" },
+]
