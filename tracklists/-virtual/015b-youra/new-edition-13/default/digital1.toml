@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/015b-youra/new-edition-13/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/015b-youra/l"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/015b-youra/l-inst"
+duration = "3:36"

@@ -1,0 +1,8 @@
+names = [
+  { name = "L", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "015b", separator = ", " },
+  { artist-id = "youra" },
+]
