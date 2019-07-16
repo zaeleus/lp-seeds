@@ -1,0 +1,13 @@
+medium-ids = [
+  "dasom-kyung/ppikkeut-ppikkeut/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dasom-kyung/ppikkeut-ppikkeut"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "dasom-kyung/ppikkeut-ppikkeut-inst"
+duration = "3:37"

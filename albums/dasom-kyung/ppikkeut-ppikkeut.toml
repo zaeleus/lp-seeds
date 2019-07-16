@@ -1,0 +1,15 @@
+artist-id = "dasom-kyung"
+kind = "single"
+
+names = [
+  { name = "삐끗삐끗", locale = "ko", original = true },
+  { name = "Ppikkeut Ppikkeut", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10307281" },
+]
