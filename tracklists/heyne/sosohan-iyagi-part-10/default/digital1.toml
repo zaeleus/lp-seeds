@@ -1,0 +1,13 @@
+medium-ids = [
+  "heyne/sosohan-iyagi-part-10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heyne/masinneun-masinneun-manmat"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "heyne/masinneun-masinneun-manmat-inst"
+duration = "3:06"
