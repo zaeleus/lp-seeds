@@ -1,0 +1,15 @@
+artist-id = "flashe"
+kind = "ep"
+
+names = [
+  { name = "톡 (TALK)", locale = "ko", original = true },
+  { name = "TALK", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10307575" },
+]
