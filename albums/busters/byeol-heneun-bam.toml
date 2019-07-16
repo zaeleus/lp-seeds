@@ -1,0 +1,16 @@
+artist-id = "busters"
+kind = "single"
+
+names = [
+  { name = "별 헤는 밤", locale = "ko", original = true },
+  { name = "Byeol Heneun Bam", locale = "ko-Latn", default = true },
+  { name = "Starlight", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-07-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10305634" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "별 헤는 밤 (Starlight)", locale = "ko", original = true },
+  { name = "Byeol Heneun Bam (Starlight)", locale = "ko-Latn", default = true },
+  { name = "Starlight", locale = "en" },
+]
