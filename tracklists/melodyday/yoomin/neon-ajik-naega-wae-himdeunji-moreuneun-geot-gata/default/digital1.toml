@@ -1,0 +1,13 @@
+medium-ids = [
+  "melodyday/yoomin/neon-ajik-naega-wae-himdeunji-moreuneun-geot-gata/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melodyday/yoomin/neon-ajik-naega-wae-himdeunji-moreuneun-geot-gata"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "melodyday/yoomin/neon-ajik-naega-wae-himdeunji-moreuneun-geot-gata-inst"
+duration = "2:56"
