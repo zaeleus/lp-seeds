@@ -1,0 +1,4 @@
+names = [
+  { name = "그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 (feat. jeebanoff)", locale = "ko", original = true },
+  { name = "Geunyeoreul Saranghaneun Geotgwa Haengbokhage Haejuneun Geoseun Byeolgaeya (feat. jeebanoff)", locale = "ko-Latn", default = true },
+]

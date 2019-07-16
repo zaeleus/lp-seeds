@@ -1,0 +1,15 @@
+artist-id = "crucial-star"
+kind = "single"
+
+names = [
+  { name = "그녀를 사랑하는 것과 행복하게 해주는 것은 별개야", locale = "ko", original = true },
+  { name = "Geunyeoreul Saranghaneun Geotgwa Haengbokhage Haejuneun Geoseun Byeolgaeya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10306020" },
+]
