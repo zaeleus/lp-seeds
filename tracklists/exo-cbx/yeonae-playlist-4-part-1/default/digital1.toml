@@ -1,0 +1,13 @@
+medium-ids = [
+  "exo-cbx/yeonae-playlist-4-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo-cbx/nuga-bwado-urin-be-my-love"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "exo-cbx/nuga-bwado-urin-be-my-love-inst"
+duration = "3:36"

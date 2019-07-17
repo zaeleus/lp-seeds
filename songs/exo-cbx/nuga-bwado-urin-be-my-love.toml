@@ -1,0 +1,5 @@
+names = [
+  { name = "누가 봐도 우린 (Be My Love)", locale = "ko", original = true },
+  { name = "Nuga Bwado Urin (Be My Love)", locale = "ko-Latn", default = true },
+  { name = "Be My Love", locale = "en" },
+]

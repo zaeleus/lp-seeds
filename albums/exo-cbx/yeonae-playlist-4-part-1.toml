@@ -1,0 +1,15 @@
+artist-id = "exo-cbx"
+kind = "single"
+
+names = [
+  { name = "연애플레이리스트4 Part.1", locale = "ko", original = true },
+  { name = "Yeonae Playlist 4 Part.1", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10308166" },
+]
