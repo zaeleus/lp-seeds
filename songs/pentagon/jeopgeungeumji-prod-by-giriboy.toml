@@ -1,0 +1,5 @@
+names = [
+  { name = "접근금지 (Prod. By 기리보이)", locale = "ko", original = true },
+  { name = "Jeopgeungeumji (Prod. By Giriboy)", locale = "ko-Latn", default = true },
+  { name = "Humph! (Prod. By Giriboy)", locale = "en" },
+]

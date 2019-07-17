@@ -1,0 +1,14 @@
+artist-id = "pentagon"
+kind = "ep"
+
+names = [
+  { name = "SUM(ME:R)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-07-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10308186" },
+]

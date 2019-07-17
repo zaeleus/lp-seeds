@@ -1,0 +1,3 @@
+names = [
+  { name = "Round 2 (Bonus Track)", locale = "ko", original = true, default = true },
+]
