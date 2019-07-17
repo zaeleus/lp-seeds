@@ -1,0 +1,3 @@
+names = [
+  { name = "Smoky Mocha Coffee", locale = "ko", original = true, default = true },
+]
