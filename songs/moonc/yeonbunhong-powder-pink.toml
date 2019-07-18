@@ -1,0 +1,5 @@
+names = [
+  { name = "연분홍 (powder pink)", locale = "ko", original = true },
+  { name = "Yeonbunhong (powder pink)", locale = "ko-Latn", default = true },
+  { name = "powder pink", locale = "en" },
+]
