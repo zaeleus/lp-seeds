@@ -1,0 +1,3 @@
+names = [
+  { name = "Stay Up (Feat. Beenzino)", locale = "ko", original = true, default = true },
+]

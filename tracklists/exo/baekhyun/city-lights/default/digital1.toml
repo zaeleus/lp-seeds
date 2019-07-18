@@ -1,0 +1,33 @@
+medium-ids = [
+  "exo/baekhyun/city-lights/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/baekhyun/un-village"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "exo/baekhyun/stay-up-feat-beenzino"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "exo/baekhyun/betcha"
+duration = "3:22"
+
+[[tracks]]
+position = 4
+song-id = "exo/baekhyun/ice-queen"
+duration = "3:36"
+
+[[tracks]]
+position = 5
+song-id = "exo/baekhyun/diamond"
+duration = "3:58"
+
+[[tracks]]
+position = 6
+song-id = "exo/baekhyun/psycho-bonus-track"
+duration = "3:27"
