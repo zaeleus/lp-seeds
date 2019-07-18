@@ -1,0 +1,16 @@
+artist-id = "kim-na-young"
+kind = "single"
+
+names = [
+  { name = "검색어를 입력하세요 WWW OST Part 7", locale = "ko", original = true },
+  { name = "Geomsaegeoreul Imnyeokhaseyo WWW OST Part 7", locale = "ko-Latn", default = true },
+  { name = "Search: WWW OST Part 7", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-07-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10308638" },
+]
