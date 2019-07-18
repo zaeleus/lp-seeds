@@ -1,10 +1,11 @@
 kind = "person"
 started-on = "1992-05-06"
 country = "KR"
+gender = "male"
 
 names = [
   { name = "백현", locale = "ko", kind = "stage", original = true },
-  { name = "Baekhyun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "BAEKHYUN", locale = "ko-Latn", kind = "stage", default = true },
   { name = "변백현", locale = "ko", kind = "real" },
   { name = "Byun Baek Hyun", locale = "ko-Latn", kind = "real" },
 ]
