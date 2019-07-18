@@ -1,0 +1,8 @@
+medium-ids = [
+  "junoflo/wide-awake/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "junoflo/wide-awake"
+duration = "2:46"
