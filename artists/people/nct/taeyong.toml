@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1995-07-01"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "태용", locale = "ko", kind = "stage", original = true },
+  { name = "TAEYONG", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이태용", locale = "ko", kind = "real" },
+  { name = "Lee Tae Yong", locale = "ko-Latn", kind = "real" },
+]

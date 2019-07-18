@@ -1,0 +1,14 @@
+artist-id = "nct/taeyong"
+kind = "single"
+
+names = [
+  { name = "Long Flight", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-07-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10308664" },
+]

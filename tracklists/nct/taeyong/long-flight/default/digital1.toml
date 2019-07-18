@@ -1,0 +1,13 @@
+medium-ids = [
+  "nct/taeyong/long-flight/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nct/taeyong/long-flight"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "nct/taeyong/long-flight-inst"
+duration = "3:19"
