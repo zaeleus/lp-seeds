@@ -1,0 +1,13 @@
+medium-ids = [
+  "yukika/joahago-isseoyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yukika/joahago-isseoyo"
+duration = "4:06"
+
+[[tracks]]
+position = 2
+song-id = "yukika/joahago-isseoyo-acoustic-ver"
+duration = "4:02"

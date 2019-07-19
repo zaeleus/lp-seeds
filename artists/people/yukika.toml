@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1993-02-16"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "유키카", locale = "ko", kind = "stage", original = true },
+  { name = "YUKIKA", locale = "ko-Latn", kind = "stage", default = true },
+]
