@@ -1,0 +1,16 @@
+artist-id = "suran"
+kind = "single"
+
+names = [
+  { name = "서핑해 (Surfin')", locale = "ko", original = true },
+  { name = "Seopinghae (Surfin')", locale = "ko-Latn" },
+  { name = "Surfin'", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10309095" },
+]

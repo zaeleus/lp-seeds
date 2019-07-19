@@ -1,0 +1,5 @@
+names = [
+  { name = "서핑해 (Surfin')", locale = "ko", original = true },
+  { name = "Seopinghae (Surfin')", locale = "ko-Latn", default = true },
+  { name = "Surfin'", locale = "en" },
+]
