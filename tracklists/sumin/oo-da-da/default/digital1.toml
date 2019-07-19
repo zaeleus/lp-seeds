@@ -1,0 +1,33 @@
+medium-ids = [
+  "sumin/oo-da-da/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sumin/shaker"
+duration = "2:35"
+
+[[tracks]]
+position = 2
+song-id = "sumin/meow"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "sumin/love-dance"
+duration = "3:29"
+
+[[tracks]]
+position = 4
+song-id = "sumin/bee"
+duration = "2:34"
+
+[[tracks]]
+position = 5
+song-id = "sumin/pocket-feat-omega-sapien"
+duration = "3:17"
+
+[[tracks]]
+position = 6
+song-id = "sumin/stardust"
+duration = "3:05"
