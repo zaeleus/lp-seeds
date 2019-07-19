@@ -1,0 +1,11 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "유학소녀", locale = "ko", original = true },
+  { name = "Yuhak Sonyeo", locale = "ko-Latn" },
+  { name = "UHSN", locale = "en", default = true },
+  { name = "Study Abroad Girl", locale = "en" },
+]

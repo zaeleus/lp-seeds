@@ -1,0 +1,13 @@
+medium-ids = [
+  "uhsn/yuhak-sonyeo-uhsn/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "uhsn/popsicle"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "uhsn/popsicle-inst"
+duration = "3:26"
