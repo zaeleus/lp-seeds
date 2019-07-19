@@ -1,0 +1,8 @@
+medium-ids = [
+  "junoflo/made-men/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "junoflo/made-men"
+duration = "2:32"
