@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1976-03-23"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "박정현", locale = "ko", kind = "real", original = true },
+  { name = "Park Jung Hyun", locale = "ko-Latn", kind = "real" },
+  { name = "Lena Park", locale = "en", kind = "real", default = true },
+]

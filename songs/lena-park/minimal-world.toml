@@ -1,0 +1,4 @@
+names = [
+  { name = "Minimal World (미니멀 월드)", locale = "ko", original = true },
+  { name = "Minimal World", locale = "en", default = true },
+]
