@@ -1,0 +1,15 @@
+artist-id = "yukika"
+kind = "single"
+
+names = [
+  { name = "네온 (NEON)", locale = "ko", original = true },
+  { name = "NEON", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-02-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10254252" },
+]
