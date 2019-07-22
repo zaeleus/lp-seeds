@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-bo-ram/heuteojineun-jung/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-bo-ram/heuteojineun-jung"
+duration = "4:16"
+
+[[tracks]]
+position = 2
+song-id = "lee-bo-ram/heuteojineun-jung-inst"
+duration = "4:16"
