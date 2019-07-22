@@ -1,0 +1,4 @@
+names = [
+  { name = "오늘은 어땠나요 (feat. 블러셔 (Blusher))", locale = "ko", original = true },
+  { name = "Oneureun Eottaennayo (feat. Blusher)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "peppermint/oneureun-eottaennayo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "peppermint/oneureun-eottaennayo-feat-blusher"
+duration = "4:22"
+
+[[tracks]]
+position = 2
+song-id = "peppermint/oneureun-eottaennayo-inst"
+duration = "4:22"
