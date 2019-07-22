@@ -1,0 +1,4 @@
+names = [
+  { name = "자유시간 (Face Down) (Feat. Paul Blanco, UNEDUCATED KID)", locale = "ko", original = true },
+  { name = "Jayusigan (Face Down) (Feat. Paul Blanco, UNEDUCATED KID)", locale = "ko-Latn", default = true },
+]
