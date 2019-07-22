@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-generation/taeyeon/hotel-del-luna-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/taeyeon/geudaeraneun-si"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/taeyeon/geudaeraneun-si-inst"
+duration = "3:30"
