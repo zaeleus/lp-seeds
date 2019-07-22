@@ -1,0 +1,8 @@
+medium-ids = [
+  "beenzino/fashion-hoarder/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "beenzino/fashion-hoarder-feat-zene-the-zilla"
+duration = "3:08"
