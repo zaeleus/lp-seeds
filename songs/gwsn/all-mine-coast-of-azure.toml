@@ -1,0 +1,3 @@
+names = [
+  { name = "All Mine (Coast of Azure)", locale = "ko", original = true, default = true },
+]

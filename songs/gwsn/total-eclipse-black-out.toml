@@ -1,0 +1,3 @@
+names = [
+  { name = "Total Eclipse (Black Out)", locale = "ko", original = true, default = true },
+]
