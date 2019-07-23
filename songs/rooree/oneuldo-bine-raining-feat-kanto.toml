@@ -1,0 +1,5 @@
+names = [
+  { name = "오늘도 비네 (Raining) (Feat. 칸토)", locale = "ko", original = true },
+  { name = "Oneuldo Bine (Raining) (Feat. Kanto)", locale = "ko-Latn", default = true },
+  { name = "Raining (Feat. Kanto)", locale = "en" },
+]

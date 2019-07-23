@@ -1,0 +1,16 @@
+artist-id = "rooree"
+kind = "single"
+
+names = [
+  { name = "오늘도 비네 (Raining)", locale = "ko", original = true },
+  { name = "Oneuldo Bine (Raining)", locale = "ko-Latn", default = true },
+  { name = "Raining", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-07-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10310074" },
+]

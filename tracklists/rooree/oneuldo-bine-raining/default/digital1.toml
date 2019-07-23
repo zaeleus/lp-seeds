@@ -1,0 +1,13 @@
+medium-ids = [
+  "rooree/oneuldo-bine-raining/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rooree/oneuldo-bine-raining-feat-kanto"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "rooree/oneuldo-bine-raining-inst"
+duration = "3:58"
