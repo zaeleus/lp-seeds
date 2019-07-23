@@ -1,0 +1,3 @@
+names = [
+  { name = "Give me more (Feat. De La Ghetto & Play-N-Skillz)", locale = "ko", original = true, default = true },
+]

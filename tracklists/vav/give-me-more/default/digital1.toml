@@ -1,0 +1,23 @@
+medium-ids = [
+  "vav/give-me-more/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vav/give-me-more-feat-de-la-ghetto-play-n-skillz"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "vav/give-me-more-un-poco-mas-feat-de-la-ghetto-play-n-skillz"
+duration = "3:55"
+
+[[tracks]]
+position = 3
+song-id = "vav/give-me-more-un-poco-mas-play-n-skillz-remix-version"
+duration = "3:53"
+
+[[tracks]]
+position = 4
+song-id = "vav/give-me-more-inst"
+duration = "3:55"
