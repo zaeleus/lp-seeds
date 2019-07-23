@@ -1,0 +1,14 @@
+artist-id = "cix"
+kind = "ep"
+
+names = [
+  { name = "'HELLO' Chapter 1. Hello, Stranger", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-07-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10310109" },
+]
