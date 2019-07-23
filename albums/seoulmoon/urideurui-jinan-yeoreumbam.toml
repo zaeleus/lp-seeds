@@ -1,0 +1,15 @@
+artist-id = "seoulmoon"
+kind = "single"
+
+names = [
+  { name = "우리들의 지난 여름밤", locale = "ko", original = true },
+  { name = "Urideurui Jinan Yeoreumbam", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10309467" },
+]
