@@ -1,0 +1,3 @@
+names = [
+  { name = "BOOL (Feat. Beenzino) (Prod. Mokyo)", locale = "ko", original = true, default = true },
+]

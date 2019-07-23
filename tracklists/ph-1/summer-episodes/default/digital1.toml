@@ -1,0 +1,18 @@
+medium-ids = [
+  "ph-1/summer-episodes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ph-1/you-don-t-know-my-name-prod-mokyo"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "ph-1/bool-feat-beenzino-prod-mokyo"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "ph-1/different-summer-prod-mokyo"
+duration = "3:35"
