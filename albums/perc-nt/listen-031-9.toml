@@ -1,0 +1,14 @@
+artist-id = "perc-nt"
+kind = "single"
+
+names = [
+  { name = "LISTEN 031 9", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-07-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10311075" },
+]
