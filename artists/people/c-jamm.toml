@@ -4,5 +4,5 @@ country = "KR"
 
 names = [
   { name = "씨잼", locale = "ko", kind = "stage", original = true },
-  { name = "C Jamm", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "C JAMM", locale = "ko-Latn", kind = "stage", default = true },
 ]
