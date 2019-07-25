@@ -1,0 +1,14 @@
+artist-id = "bewhy"
+kind = "lp"
+
+names = [
+  { name = "The Movie Star", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-07-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10267223" },
+]

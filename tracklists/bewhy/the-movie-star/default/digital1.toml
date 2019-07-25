@@ -1,0 +1,63 @@
+medium-ids = [
+  "bewhy/the-movie-star/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bewhy/jeogeung"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "bewhy/won"
+duration = "2:35"
+
+[[tracks]]
+position = 3
+song-id = "bewhy/adeuri-feat-crush"
+duration = "3:05"
+
+[[tracks]]
+position = 4
+song-id = "bewhy/bonto-feat-simba-zawadi"
+duration = "5:01"
+
+[[tracks]]
+position = 5
+song-id = "bewhy/geojang-feat-verbal-jint"
+duration = "2:28"
+
+[[tracks]]
+position = 6
+song-id = "bewhy/juyeon"
+duration = "1:34"
+
+[[tracks]]
+position = 7
+song-id = "bewhy/jangmineunareumdapjimangasigaitda-feat-sumin"
+duration = "2:59"
+
+[[tracks]]
+position = 8
+song-id = "bewhy/challan"
+duration = "3:27"
+
+[[tracks]]
+position = 9
+song-id = "bewhy/chowol-feat-c-jamm"
+duration = "3:41"
+
+[[tracks]]
+position = 10
+song-id = "bewhy/daeumgeot-feat-khundi-panda"
+duration = "3:13"
+
+[[tracks]]
+position = 11
+song-id = "bewhy/garasadae"
+duration = "2:14"
+
+[[tracks]]
+position = 12
+song-id = "bewhy/juingong"
+duration = "4:48"
