@@ -1,0 +1,15 @@
+artist-id = "sogaksogak"
+kind = "single"
+
+names = [
+  { name = "한 여름밤의 이야기", locale = "ko", original = true },
+  { name = "Han Yeoreumbamui Iyagi", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10310652" },
+]
