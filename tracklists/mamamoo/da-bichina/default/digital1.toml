@@ -1,0 +1,13 @@
+medium-ids = [
+  "mamamoo/da-bichina/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/da-bichina-gleam"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/da-bichina-gleam-inst"
+duration = "3:05"

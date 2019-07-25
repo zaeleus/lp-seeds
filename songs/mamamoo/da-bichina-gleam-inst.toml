@@ -1,0 +1,5 @@
+names = [
+  { name = "다 빛이나 (Gleam) (Inst.)", locale = "ko", original = true },
+  { name = "Da Bichina (Gleam) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Gleam (Inst.)", locale = "en" },
+]
