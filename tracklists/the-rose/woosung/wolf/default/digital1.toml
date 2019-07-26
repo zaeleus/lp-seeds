@@ -1,0 +1,28 @@
+medium-ids = [
+  "the-rose/woosung/wolf/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-rose/woosung/wolf"
+duration = "1:40"
+
+[[tracks]]
+position = 2
+song-id = "the-rose/woosung/moon"
+duration = "3:35"
+
+[[tracks]]
+position = 3
+song-id = "the-rose/woosung/face"
+duration = "3:27"
+
+[[tracks]]
+position = 4
+song-id = "the-rose/woosung/oerowo"
+duration = "3:12"
+
+[[tracks]]
+position = 5
+song-id = "the-rose/woosung/face-inst"
+duration = "3:27"
