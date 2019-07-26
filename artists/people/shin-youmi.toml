@@ -5,5 +5,5 @@ gender = "female"
 
 names = [
   { name = "신유미", locale = "ko", kind = "real", original = true },
-  { name = "Shin Yu Mi", locale = "ko-Latn", kind = "real", default = true },
+  { name = "Shin Youmi", locale = "ko-Latn", kind = "real", default = true },
 ]
