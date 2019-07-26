@@ -1,0 +1,33 @@
+medium-ids = [
+  "nct-dream/we-boom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nct-dream/boom"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "nct-dream/stronger"
+duration = "3:27"
+
+[[tracks]]
+position = 3
+song-id = "nct-dream/119"
+duration = "4:00"
+
+[[tracks]]
+position = 4
+song-id = "nct-dream/sarangi-jom-eoryeowo-bye-my-first"
+duration = "3:28"
+
+[[tracks]]
+position = 5
+song-id = "nct-dream/best-friend"
+duration = "3:25"
+
+[[tracks]]
+position = 6
+song-id = "nct-dream/dream-run"
+duration = "3:45"
