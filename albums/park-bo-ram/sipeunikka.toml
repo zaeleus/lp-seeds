@@ -1,0 +1,16 @@
+artist-id = "park-bo-ram"
+kind = "single"
+
+names = [
+  { name = "싶으니까", locale = "ko", original = true },
+  { name = "Sipeunikka", locale = "ko-Latn", default = true },
+  { name = "Do As I Like", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-07-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10311623" },
+]

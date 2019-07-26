@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-bo-ram/sipeunikka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-bo-ram/sipeunikka"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "park-bo-ram/sipeunikka-inst"
+duration = "3:17"
