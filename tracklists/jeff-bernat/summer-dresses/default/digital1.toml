@@ -1,0 +1,8 @@
+medium-ids = [
+  "jeff-bernat/summer-dresses/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jeff-bernat/summer-dresses"
+duration = "3:25"
