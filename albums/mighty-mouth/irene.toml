@@ -1,0 +1,14 @@
+artist-id = "mighty-mouth"
+kind = "single"
+
+names = [
+  { name = "IRENE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-07-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10311805" },
+]
