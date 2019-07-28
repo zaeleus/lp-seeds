@@ -1,0 +1,13 @@
+medium-ids = [
+  "heize/hotel-del-luna-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heize/nae-mameul-bolsu-innayo"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "heize/nae-mameul-bolsu-innayo-inst"
+duration = "3:47"
