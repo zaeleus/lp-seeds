@@ -1,0 +1,8 @@
+medium-ids = [
+  "penomeco/tempo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "penomeco/tempo-feat-sik-k"
+duration = "3:31"
