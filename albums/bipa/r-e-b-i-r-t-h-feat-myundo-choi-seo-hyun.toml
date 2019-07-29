@@ -1,0 +1,15 @@
+artist-id = "bipa"
+kind = "single"
+
+names = [
+  { name = "R.E.B.I.R.T.H (Feat. myunDo, 최서현)", locale = "ko", original = true },
+  { name = "R.E.B.I.R.T.H (Feat. Myundo, Choi Seo Hyun)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10311803" },
+]

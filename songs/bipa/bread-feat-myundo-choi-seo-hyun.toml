@@ -1,0 +1,4 @@
+names = [
+  { name = "Bread (Feat. myunDo, 최서현)", locale = "ko", original = true },
+  { name = "Bread (Feat. Myundo, Choi Seo Hyun)", locale = "ko-Latn", default = true },
+]

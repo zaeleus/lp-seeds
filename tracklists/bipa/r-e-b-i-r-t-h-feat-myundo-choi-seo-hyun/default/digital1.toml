@@ -1,0 +1,13 @@
+medium-ids = [
+  "bipa/r-e-b-i-r-t-h-feat-myundo-choi-seo-hyun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bipa/bread-feat-myundo-choi-seo-hyun"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "bipa/bread-inst"
+duration = "3:42"
