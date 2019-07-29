@@ -1,0 +1,33 @@
+medium-ids = [
+  "z-stars/z-pop-dream-singing-for-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "z-stars/holla-holla"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "z-stars/streets-of-gold"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "z-stars/fire-flame"
+duration = "2:44"
+
+[[tracks]]
+position = 4
+song-id = "z-stars/holla-holla-inst"
+duration = "3:30"
+
+[[tracks]]
+position = 5
+song-id = "z-stars/streets-of-gold-inst"
+duration = "3:10"
+
+[[tracks]]
+position = 6
+song-id = "z-stars/fire-flame-inst"
+duration = "2:44"

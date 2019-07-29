@@ -1,0 +1,8 @@
+kind = "group"
+# started-on = ""
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "Z-Stars", locale = "ko", original = true, default = true },
+]
