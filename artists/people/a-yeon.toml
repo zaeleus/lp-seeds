@@ -1,9 +1,8 @@
 kind = "person"
-# started-on = ""
+started-on = "1990-06-04"
 country = "KR"
 gender = "female"
 
 names = [
-  { name = "애런", locale = "ko", kind = "stage", original = true },
-  { name = "ARRAN", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "A-YEON", locale = "ko", kind = "stage", original = true, default = true },
 ]
