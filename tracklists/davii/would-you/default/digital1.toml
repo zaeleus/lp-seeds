@@ -1,0 +1,13 @@
+medium-ids = [
+  "davii/would-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davii/saranghaesseotdago"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "davii/hago-sipdeon-mal"
+duration = "3:33"
