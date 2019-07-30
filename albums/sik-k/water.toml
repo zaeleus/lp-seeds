@@ -1,0 +1,14 @@
+artist-id = "sik-k"
+kind = "single"
+
+names = [
+  { name = "WATER", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-07-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10312425" },
+]

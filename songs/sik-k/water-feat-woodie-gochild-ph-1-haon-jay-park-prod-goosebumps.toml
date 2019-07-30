@@ -1,0 +1,4 @@
+names = [
+  { name = "WATER (Feat. Woodie Gochild, pH-1, 김하온 (HAON), Jay Park) (Prod. GooseBumps)", locale = "ko", original = true },
+  { name = "WATER (Feat. Woodie Gochild, pH-1, HAON, Jay Park) (Prod. GooseBumps)", locale = "en", default = true },
+]
