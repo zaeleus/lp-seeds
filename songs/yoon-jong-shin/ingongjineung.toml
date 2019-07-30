@@ -1,0 +1,4 @@
+names = [
+  { name = "인공지능", locale = "ko", original = true },
+  { name = "Ingongjineung", locale = "ko-Latn", default = true },
+]
