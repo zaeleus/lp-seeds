@@ -1,0 +1,4 @@
+names = [
+  { name = "그대 떠난후 (디깅클럽서울 Ver.) (Inst.)", locale = "ko", original = true },
+  { name = "Geudae Tteonanhu (Digging Club Seoul Ver.) (Inst.)", locale = "ko-Latn", default = true },
+]

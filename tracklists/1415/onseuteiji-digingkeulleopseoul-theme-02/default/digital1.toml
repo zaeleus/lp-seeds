@@ -1,0 +1,18 @@
+medium-ids = [
+  "1415/onseuteiji-digingkeulleopseoul-theme-02/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "1415/geudae-tteonanhu-digging-club-seoul-ver"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "1415/geudae-tteonanhu-digging-club-seoul-ver-inst"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "1415/geudae-tteonanhu-original-ver"
+duration = "3:58"
