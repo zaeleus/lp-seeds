@@ -1,0 +1,8 @@
+medium-ids = [
+  "eden/heaven-feat-heize/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eden/heaven-feat-heize"
+duration = "3:12"
