@@ -1,0 +1,14 @@
+artist-id = "busters"
+kind = "ep"
+
+names = [
+  { name = "Pinky Promise", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-07-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10305634" },
+]
