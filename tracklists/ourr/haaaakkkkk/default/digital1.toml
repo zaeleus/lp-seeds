@@ -1,0 +1,13 @@
+medium-ids = [
+  "ourr/haaaakkkkk/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ourr/haaaakkkkk"
+duration = "2:53"
+
+[[tracks]]
+position = 2
+song-id = "ourr/naeildo-urin-ama-sseulsseulhal-geoya"
+duration = "2:49"
