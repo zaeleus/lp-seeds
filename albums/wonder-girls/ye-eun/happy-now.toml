@@ -1,0 +1,21 @@
+artist-id = "wonder-girls/ye-eun"
+kind = "single"
+
+names = [
+  { name = "Happy Now", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "wonder-girls/ye-eun"
+names = [
+  { name = "핫펠트", locale = "ko", original = true },
+  { name = "HA:TFELT", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10313646" },
+]

@@ -1,0 +1,11 @@
+names = [
+  { name = "Happy Now (Feat. 문별 of 마마무)", locale = "ko", original = true },
+  { name = "Happy Now (Feat. Moonbyul of MAMAMOO)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "wonder-girls/ye-eun"
+names = [
+  { name = "핫펠트", locale = "ko", original = true },
+  { name = "HA:TFELT", locale = "ko-Latn", default = true },
+]
