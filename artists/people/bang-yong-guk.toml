@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1990-03-31"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "방용국", locale = "ko", kind = "real", original = true },
+  { name = "Bang Yong Guk", locale = "ko-Latn", kind = "real", default = true },
+]
