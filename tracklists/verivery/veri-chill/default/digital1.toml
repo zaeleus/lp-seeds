@@ -1,0 +1,13 @@
+medium-ids = [
+  "verivery/veri-chill/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "verivery/tag-tag-tag"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "verivery/banhal-subakke"
+duration = "3:12"
