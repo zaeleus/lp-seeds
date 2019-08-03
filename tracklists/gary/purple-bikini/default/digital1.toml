@@ -1,0 +1,13 @@
+medium-ids = [
+  "gary/purple-bikini/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gary/purple-bikini"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "gary/purple-bikini-inst"
+duration = "3:16"
