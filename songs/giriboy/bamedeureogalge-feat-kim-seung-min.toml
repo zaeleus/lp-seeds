@@ -1,0 +1,4 @@
+names = [
+  { name = "밤에들어갈게 (Feat. 김승민)", locale = "ko", original = true },
+  { name = "Bamedeureogalge (Feat. Kim Seung Min)", locale = "ko-Latn", default = true },
+]

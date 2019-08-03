@@ -1,0 +1,5 @@
+names = [
+  { name = "파티피플 (Feat. 염따, Uneducated Kid)", locale = "ko", original = true },
+  { name = "Patipipeul (Feat. YUMDDA, Uneducated Kid)", locale = "ko-Latn" },
+  { name = "Party People (Feat. YUMDDA, Uneducated Kid)", locale = "en", default = true },
+]
