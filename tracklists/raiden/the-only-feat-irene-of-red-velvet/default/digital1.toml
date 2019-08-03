@@ -1,0 +1,8 @@
+medium-ids = [
+  "raiden/the-only-feat-irene-of-red-velvet/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "raiden/the-only-feat-irene-of-red-velvet"
+duration = "3:08"

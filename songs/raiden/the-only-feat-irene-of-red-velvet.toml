@@ -1,0 +1,4 @@
+names = [
+  { name = "The Only (Feat. 아이린 of Red Velvet)", locale = "ko", original = true },
+  { name = "The Only (Feat. IRENE of Red Velvet)", locale = "ko-Latn", default = true },
+]

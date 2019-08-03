@@ -1,0 +1,15 @@
+artist-id = "raiden"
+kind = "single"
+
+names = [
+  { name = "The Only (Feat. 아이린 of Red Velvet)", locale = "ko", original = true },
+  { name = "The Only (Feat. IRENE of Red Velvet)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10313738" },
+]
