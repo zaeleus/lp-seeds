@@ -1,0 +1,15 @@
+artist-id = "choi-ye-geun"
+kind = "single"
+
+names = [
+  { name = "마침 스쳐 지나간 바람결이 날 들뜨게 했어", locale = "ko", original = true },
+  { name = "Machim Seuchyeo Jinagan Baramgyeori Nal Deultteuge Haesseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10314345" },
+]

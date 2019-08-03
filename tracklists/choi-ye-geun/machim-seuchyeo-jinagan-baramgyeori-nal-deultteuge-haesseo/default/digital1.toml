@@ -1,0 +1,13 @@
+medium-ids = [
+  "choi-ye-geun/machim-seuchyeo-jinagan-baramgyeori-nal-deultteuge-haesseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "choi-ye-geun/virtual-world"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "choi-ye-geun/gureum"
+duration = "2:48"
