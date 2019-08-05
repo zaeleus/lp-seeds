@@ -1,0 +1,13 @@
+medium-ids = [
+  "gummy/hotel-del-luna-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gummy/gieokhaejwoyo-nae-modeun-nalgwa-geuttaereul"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "gummy/gieokhaejwoyo-nae-modeun-nalgwa-geuttaereul-inst"
+duration = "3:48"
