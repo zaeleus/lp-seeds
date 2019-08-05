@@ -1,0 +1,23 @@
+medium-ids = [
+  "trcng/rising/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "trcng/paradise"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "trcng/missing"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "trcng/island"
+duration = "3:22"
+
+[[tracks]]
+position = 4
+song-id = "trcng/paradise-inst"
+duration = "3:27"

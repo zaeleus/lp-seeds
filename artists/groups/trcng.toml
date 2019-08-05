@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "TRCNG", locale = "ko", original = true, default = true },
+]
