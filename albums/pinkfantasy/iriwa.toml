@@ -1,0 +1,15 @@
+artist-id = "pinkfantasy"
+kind = "single"
+
+names = [
+  { name = "이리와", locale = "ko", original = true },
+  { name = "Iriwa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-10-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10215479" },
+]

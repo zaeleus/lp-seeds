@@ -1,0 +1,13 @@
+medium-ids = [
+  "pinkfantasy/iriwa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pinkfantasy/iriwa"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "pinkfantasy/iriwa-inst"
+duration = "3:48"
