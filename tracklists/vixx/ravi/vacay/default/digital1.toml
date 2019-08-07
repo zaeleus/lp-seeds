@@ -1,0 +1,8 @@
+medium-ids = [
+  "vixx/ravi/vacay/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vixx/ravi/vacay"
+duration = "3:11"
