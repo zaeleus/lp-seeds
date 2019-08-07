@@ -1,0 +1,13 @@
+medium-ids = [
+  "10cm/bange-mogiga-isseo-4-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "10cm/bange-mogiga-isseo-do-you-think-of-me"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "10cm/bange-mogiga-isseo-inst"
+duration = "3:17"
