@@ -1,0 +1,9 @@
+kind = "group"
+# started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "파나틱스", locale = "ko", original = true },
+  { name = "FANATICS", locale = "en", default = true },
+]

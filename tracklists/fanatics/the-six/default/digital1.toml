@@ -1,0 +1,23 @@
+medium-ids = [
+  "fanatics/the-six/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fanatics/sunday"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "fanatics/jigeum-i-sunganeul"
+duration = "3:39"
+
+[[tracks]]
+position = 3
+song-id = "fanatics/follow-me"
+duration = "3:03"
+
+[[tracks]]
+position = 4
+song-id = "fanatics/milkshake-chinese-ver"
+duration = "3:25"
