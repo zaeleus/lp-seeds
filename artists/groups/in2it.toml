@@ -1,0 +1,9 @@
+kind = "group"
+# started-on = ""
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "인투잇", locale = "ko", original = true },
+  { name = "IN2IT", locale = "en", default = true },
+]

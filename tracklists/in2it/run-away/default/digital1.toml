@@ -1,0 +1,13 @@
+medium-ids = [
+  "in2it/run-away/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "in2it/run-away"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "in2it/run-away-inst"
+duration = "3:28"
