@@ -1,0 +1,14 @@
+artist-id = "rocket-punch"
+kind = "ep"
+
+names = [
+  { name = "PINK PUNCH", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-08-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10315618" },
+]

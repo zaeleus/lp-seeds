@@ -1,0 +1,5 @@
+names = [
+  { name = "선을 넘어 (Do something)", locale = "ko", original = true },
+  { name = "Seoneul Neomeo (Do something)", locale = "ko-Latn", default = true },
+  { name = "Do something", locale = "en" },
+]

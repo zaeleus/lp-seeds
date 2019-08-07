@@ -1,0 +1,5 @@
+names = [
+  { name = "Favorite (특이점)", locale = "ko", original = true },
+  { name = "Favorite (Teugijeom)", locale = "ko-Latn", default = true },
+  { name = "Favorite", locale = "en" },
+]

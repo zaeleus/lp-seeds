@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "로켓펀치", locale = "ko", original = true },
+  { name = "Rocket Punch", locale = "en", default = true },
+]
