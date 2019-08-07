@@ -1,0 +1,13 @@
+medium-ids = [
+  "j-ust/du_ul-du-beonjjae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "j-ust/nega-eomneun-sangsangeul-hae"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "j-ust/geudaeui-bada"
+duration = "3:17"
