@@ -1,0 +1,13 @@
+medium-ids = [
+  "minseo/uisa-yohan-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minseo/star"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "minseo/star-inst"
+duration = "3:54"
