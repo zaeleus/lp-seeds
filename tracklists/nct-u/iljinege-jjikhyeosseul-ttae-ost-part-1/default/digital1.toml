@@ -1,0 +1,13 @@
+medium-ids = [
+  "nct-u/iljinege-jjikhyeosseul-ttae-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nct-u/new-love-sung-by-doyoung-jaehyun"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "nct-u/new-love-inst"
+duration = "3:50"

@@ -1,0 +1,4 @@
+names = [
+  { name = "New Love (Sung by 도영, 재현)", locale = "ko", original = true },
+  { name = "New Love (Sung by DOYOUNG, JAEHYUN)", locale = "ko-Latn", default = true },
+]
