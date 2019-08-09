@@ -1,0 +1,23 @@
+medium-ids = [
+  "weki-meki/week-end-lol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weki-meki/tiki-taka-99"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "weki-meki/picky-picky"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "weki-meki/neo-hago-sipeun-geo-da-hae-neo-ha-da"
+duration = "3:58"
+
+[[tracks]]
+position = 4
+song-id = "weki-meki/joahanda-an-handa-kkochipjeom"
+duration = "3:39"
