@@ -1,0 +1,13 @@
+medium-ids = [
+  "espresso/yeonae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "espresso/yeonae-feat-park-ji-eun"
+duration = "2:52"
+
+[[tracks]]
+position = 2
+song-id = "espresso/yeonae-inst"
+duration = "2:52"
