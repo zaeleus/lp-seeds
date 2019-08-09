@@ -1,0 +1,14 @@
+artist-id = "chimmi"
+kind = "single"
+
+names = [
+  { name = "MOON", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-08-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10316173" },
+]

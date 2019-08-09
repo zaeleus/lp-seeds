@@ -1,0 +1,13 @@
+medium-ids = [
+  "chimmi/moon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "chimmi/moon"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "chimmi/take-me-tonight"
+duration = "3:30"
