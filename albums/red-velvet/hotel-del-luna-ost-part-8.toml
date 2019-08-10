@@ -1,0 +1,15 @@
+artist-id = "red-velvet"
+kind = "single"
+
+names = [
+  { name = "호텔 델루나 OST Part.8", locale = "ko", original = true },
+  { name = "Hotel Del Luna OST Part.8", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10316783" },
+]

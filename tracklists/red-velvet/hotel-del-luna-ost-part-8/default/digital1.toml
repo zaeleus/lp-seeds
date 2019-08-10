@@ -1,0 +1,13 @@
+medium-ids = [
+  "red-velvet/hotel-del-luna-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/eotteon-byeolboda"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/eotteon-byeolboda-inst"
+duration = "3:43"
