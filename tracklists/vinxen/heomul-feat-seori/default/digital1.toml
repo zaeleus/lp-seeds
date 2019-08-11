@@ -1,0 +1,13 @@
+medium-ids = [
+  "vinxen/heomul-feat-seori/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vinxen/heomul-feat-seori"
+duration = "4:07"
+
+[[tracks]]
+position = 2
+song-id = "vinxen/nakhasan"
+duration = "2:16"

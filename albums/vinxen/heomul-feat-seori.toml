@@ -1,0 +1,15 @@
+artist-id = "vinxen"
+kind = "single"
+
+names = [
+  { name = "허물 (feat. 서리 (Seori))", locale = "ko", original = true },
+  { name = "Heomul (feat. Seori)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10316826" },
+]

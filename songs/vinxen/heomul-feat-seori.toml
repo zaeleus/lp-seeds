@@ -1,0 +1,4 @@
+names = [
+  { name = "허물 (feat. 서리 (Seori))", locale = "ko", original = true },
+  { name = "Heomul (feat. Seori)", locale = "ko-Latn", default = true },
+]
