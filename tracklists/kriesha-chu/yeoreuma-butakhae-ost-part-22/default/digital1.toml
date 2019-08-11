@@ -1,0 +1,13 @@
+medium-ids = [
+  "kriesha-chu/yeoreuma-butakhae-ost-part-22/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kriesha-chu/cheonirui-sarang"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "kriesha-chu/cheonirui-sarang-inst"
+duration = "3:29"
