@@ -1,0 +1,13 @@
+medium-ids = [
+  "ben/hotel-del-luna-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/nae-moksori-deullini"
+duration = "4:32"
+
+[[tracks]]
+position = 2
+song-id = "ben/nae-moksori-deullini-inst"
+duration = "4:32"
