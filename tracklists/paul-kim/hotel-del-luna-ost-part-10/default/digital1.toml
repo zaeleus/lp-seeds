@@ -1,0 +1,13 @@
+medium-ids = [
+  "paul-kim/hotel-del-luna-ost-part-10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "paul-kim/annyeong"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "paul-kim/annyeong-inst"
+duration = "3:46"

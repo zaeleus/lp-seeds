@@ -1,0 +1,15 @@
+artist-id = "paul-kim"
+kind = "single"
+
+names = [
+  { name = "호텔 델루나 OST Part.10", locale = "ko", original = true },
+  { name = "Hotel Del Luna OST Part.10", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10317137" },
+]
