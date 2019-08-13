@@ -1,0 +1,18 @@
+medium-ids = [
+  "the-rose/red/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-rose/california"
+duration = "2:51"
+
+[[tracks]]
+position = 2
+song-id = "the-rose/red"
+duration = "2:57"
+
+[[tracks]]
+position = 3
+song-id = "the-rose/red-inst"
+duration = "2:57"
