@@ -1,0 +1,13 @@
+medium-ids = [
+  "sorae/i-hate-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sorae/i-hate-you"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "sorae/i-hate-you-inst"
+duration = "3:56"

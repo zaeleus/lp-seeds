@@ -1,0 +1,14 @@
+artist-id = "sorae"
+kind = "single"
+
+names = [
+  { name = "i hate you", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-08-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10317518" },
+]
