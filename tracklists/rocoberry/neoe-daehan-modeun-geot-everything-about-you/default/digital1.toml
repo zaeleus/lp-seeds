@@ -1,0 +1,13 @@
+medium-ids = [
+  "rocoberry/neoe-daehan-modeun-geot-everything-about-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rocoberry/neoe-daehan-modeun-geot"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "rocoberry/neoe-daehan-modeun-geot-inst"
+duration = "3:28"

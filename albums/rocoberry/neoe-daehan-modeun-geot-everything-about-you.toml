@@ -1,0 +1,16 @@
+artist-id = "rocoberry"
+kind = "single"
+
+names = [
+  { name = "너에 대한 모든 것 (EVERYTHING ABOUT YOU)", locale = "ko", original = true },
+  { name = "Neoe Daehan Modeun Geot (EVERYTHING ABOUT YOU)", locale = "ko-Latn", default = true },
+  { name = "EVERYTHING ABOUT YOU", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-08-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10317572" },
+]
