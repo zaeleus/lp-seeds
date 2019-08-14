@@ -1,0 +1,4 @@
+names = [
+  { name = "도파민 (Dopamine) (Inst.)", locale = "ko", original = true },
+  { name = "Dopamine (Inst.)", locale = "en", default = true },
+]
