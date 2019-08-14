@@ -1,0 +1,3 @@
+names = [
+  { name = "If you wonder (Feat. J.Yung)", locale = "ko", original = true, default = true },
+]
