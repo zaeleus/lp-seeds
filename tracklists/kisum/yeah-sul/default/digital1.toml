@@ -1,0 +1,33 @@
+medium-ids = [
+  "kisum/yeah-sul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kisum/yeah-yeah"
+duration = "2:47"
+
+[[tracks]]
+position = 2
+song-id = "kisum/suriya-sampling-by-suriya-of-vibe"
+duration = "2:44"
+
+[[tracks]]
+position = 3
+song-id = "kisum/ige-manneungeonga-sipeo"
+duration = "2:57"
+
+[[tracks]]
+position = 4
+song-id = "kisum/da-julkke"
+duration = "2:49"
+
+[[tracks]]
+position = 5
+song-id = "kisum/warning"
+duration = "2:49"
+
+[[tracks]]
+position = 6
+song-id = "kisum/naege-insahaejuseyo-feat-woody"
+duration = "2:51"
