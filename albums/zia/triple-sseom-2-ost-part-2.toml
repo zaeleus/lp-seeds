@@ -1,0 +1,15 @@
+artist-id = "zia"
+kind = "single"
+
+names = [
+  { name = "트리플 썸 2 OST Part.2", locale = "ko", original = true },
+  { name = "Triple Sseom 2 OST Part.2", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10319715" },
+]
