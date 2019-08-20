@@ -1,0 +1,5 @@
+names = [
+  { name = "음파음파 (Umpah Umpah)", locale = "ko", original = true },
+  { name = "Eumpa Eumpa (Umpah Umpah)", locale = "ko-Latn" },
+  { name = "Umpah Umpah", locale = "en", default = true },
+]
