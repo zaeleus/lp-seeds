@@ -1,0 +1,18 @@
+medium-ids = [
+  "everglow/hush/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "everglow/hush"
+duration = "2:45"
+
+[[tracks]]
+position = 2
+song-id = "everglow/adios"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "everglow/you-don-t-know-me"
+duration = "3:10"
