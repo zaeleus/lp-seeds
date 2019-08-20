@@ -1,0 +1,13 @@
+medium-ids = [
+  "punch/hotel-del-luna-ost-part-12/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "punch/done-for-me"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "punch/done-for-me-inst"
+duration = "3:52"

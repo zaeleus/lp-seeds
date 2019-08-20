@@ -1,0 +1,15 @@
+artist-id = "punch"
+kind = "single"
+
+names = [
+  { name = "호텔 델루나 OST Part.12", locale = "ko", original = true },
+  { name = "Hotel Del Luna OST Part.12", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10318623" },
+]
