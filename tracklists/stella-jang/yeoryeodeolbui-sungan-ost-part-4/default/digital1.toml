@@ -1,0 +1,13 @@
+medium-ids = [
+  "stella-jang/yeoryeodeolbui-sungan-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stella-jang/dear-my"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "stella-jang/dear-my-inst"
+duration = "3:32"
