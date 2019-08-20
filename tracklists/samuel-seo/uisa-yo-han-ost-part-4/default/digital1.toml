@@ -1,0 +1,13 @@
+medium-ids = [
+  "samuel-seo/uisa-yo-han-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "samuel-seo/pain-or-death"
+duration = "4:29"
+
+[[tracks]]
+position = 2
+song-id = "samuel-seo/pain-or-death-inst"
+duration = "4:29"

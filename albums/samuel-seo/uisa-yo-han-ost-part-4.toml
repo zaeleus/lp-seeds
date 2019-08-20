@@ -1,0 +1,16 @@
+artist-id = "samuel-seo"
+kind = "single"
+
+names = [
+  { name = "의사 요한 OST Part.4", locale = "ko", original = true },
+  { name = "Uisa Yo Han OST Part.4", locale = "ko-Latn", default = true },
+  { name = "Doctor John OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-08-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10317967" },
+]
