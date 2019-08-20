@@ -1,0 +1,15 @@
+artist-id = "saevom"
+kind = "single"
+
+names = [
+  { name = "8' 알고 싶어요 나는", locale = "ko", original = true },
+  { name = "8' Algo Sipeoyo Naneun", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10318424" },
+]
