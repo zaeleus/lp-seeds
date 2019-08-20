@@ -1,0 +1,14 @@
+artist-id = "lena-park"
+kind = "lp"
+
+names = [
+  { name = "The Wonder (Special Edition)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-08-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10318502" },
+]
