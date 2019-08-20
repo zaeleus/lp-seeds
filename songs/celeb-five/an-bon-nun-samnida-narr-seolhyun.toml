@@ -1,0 +1,5 @@
+names = [
+  { name = "안 본 눈 삽니다 (Narr. 설현)", locale = "ko", original = true },
+  { name = "An Bon Nun Samnida (Narr. Seolhyun)", locale = "ko-Latn", default = true },
+  { name = "I Wish I Could Unsee That (Narr. Seolhyun)", locale = "en" },
+]

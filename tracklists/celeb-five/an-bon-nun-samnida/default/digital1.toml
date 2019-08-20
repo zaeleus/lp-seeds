@@ -1,0 +1,8 @@
+medium-ids = [
+  "celeb-five/an-bon-nun-samnida/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "celeb-five/an-bon-nun-samnida-narr-seolhyun"
+duration = "2:30"
