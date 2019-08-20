@@ -1,0 +1,5 @@
+names = [
+  { name = "위로 (Going High)", locale = "ko", original = true },
+  { name = "Wiro (Going High)", locale = "ko-Latn", default = true },
+  { name = "Going High", locale = "en" },
+]

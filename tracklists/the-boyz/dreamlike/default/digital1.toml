@@ -1,0 +1,33 @@
+medium-ids = [
+  "the-boyz/dreamlike/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-boyz/water"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "the-boyz/d-d-d"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "the-boyz/complete-me"
+duration = "3:16"
+
+[[tracks]]
+position = 4
+song-id = "the-boyz/summer-time"
+duration = "3:18"
+
+[[tracks]]
+position = 5
+song-id = "the-boyz/wiro-going-high"
+duration = "3:29"
+
+[[tracks]]
+position = 6
+song-id = "the-boyz/daydream"
+duration = "3:04"

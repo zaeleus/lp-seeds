@@ -1,0 +1,14 @@
+artist-id = "the-boyz"
+kind = "ep"
+
+names = [
+  { name = "DREAMLIKE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-08-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10319189" },
+]
