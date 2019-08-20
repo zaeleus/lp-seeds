@@ -1,0 +1,18 @@
+medium-ids = [
+  "shaun/36-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shaun/dal"
+duration = "5:07"
+
+[[tracks]]
+position = 2
+song-id = "shaun/36-5"
+duration = "3:37"
+
+[[tracks]]
+position = 3
+song-id = "shaun/to-be-loved"
+duration = "3:53"
