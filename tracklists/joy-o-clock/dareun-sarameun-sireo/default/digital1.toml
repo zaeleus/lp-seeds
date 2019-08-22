@@ -1,0 +1,13 @@
+medium-ids = [
+  "joy-o-clock/dareun-sarameun-sireo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "joy-o-clock/dareun-sarameun-sireo-solo-yong-hyun"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "joy-o-clock/dareun-sarameun-sireo-inst"
+duration = "3:35"
