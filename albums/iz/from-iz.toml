@@ -1,0 +1,14 @@
+artist-id = "iz"
+kind = "single"
+
+names = [
+  { name = "FROM:IZ", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-08-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10320155" },
+]
