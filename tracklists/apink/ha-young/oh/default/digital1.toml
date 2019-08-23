@@ -1,0 +1,28 @@
+medium-ids = [
+  "apink/ha-young/oh/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink/ha-young/don-t-make-me-laugh"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "apink/ha-young/how-we-do-duet-babylon"
+duration = "3:01"
+
+[[tracks]]
+position = 3
+song-id = "apink/ha-young/nobody-feat-kanto"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "apink/ha-young/do-you-miss-me"
+duration = "3:43"
+
+[[tracks]]
+position = 5
+song-id = "apink/ha-young/worry-about-nothing"
+duration = "3:48"
