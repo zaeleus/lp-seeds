@@ -1,0 +1,8 @@
+medium-ids = [
+  "sam-kim/where-s-my-money/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sam-kim/where-s-my-money"
+duration = "3:09"
