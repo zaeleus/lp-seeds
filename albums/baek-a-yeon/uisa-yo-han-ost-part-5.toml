@@ -1,0 +1,16 @@
+artist-id = "baek-a-yeon"
+kind = "single"
+
+names = [
+  { name = "의사 요한 OST Part.5", locale = "ko", original = true },
+  { name = "Uisa Yo Han OST Part.5", locale = "ko-Latn", default = true },
+  { name = "Doctor John OST Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-08-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10321110" },
+]
