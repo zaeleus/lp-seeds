@@ -1,0 +1,14 @@
+artist-id = "up10tion"
+kind = "ep"
+
+names = [
+  { name = "The Moment of Illusion", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-08-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10320664" },
+]

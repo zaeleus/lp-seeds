@@ -1,0 +1,33 @@
+medium-ids = [
+  "up10tion/the-moment-of-illusion/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "up10tion/your-gravity"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "up10tion/sky-surfer"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "up10tion/look-at-me"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "up10tion/skyway"
+duration = "3:11"
+
+[[tracks]]
+position = 5
+song-id = "up10tion/restore"
+duration = "3:28"
+
+[[tracks]]
+position = 6
+song-id = "up10tion/lover"
+duration = "3:21"

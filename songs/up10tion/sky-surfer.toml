@@ -1,0 +1,3 @@
+names = [
+  { name = "Sky Surfer", locale = "ko", original = true, default = true },
+]
