@@ -1,0 +1,8 @@
+medium-ids = [
+  "basick/soljikhi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "basick/soljikhi-feat-sleepy"
+duration = "3:00"
