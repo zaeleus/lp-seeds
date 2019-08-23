@@ -1,0 +1,13 @@
+medium-ids = [
+  "choi-nakta/iljinege-jjikhyeosseul-ttae-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "choi-nakta/you-and-i"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "choi-nakta/you-and-i-inst"
+duration = "3:22"
