@@ -1,0 +1,8 @@
+names = [
+  { name = "RUN", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "grizzly", separator = ", " },
+  { artist-id = "chung-ha" },
+]
