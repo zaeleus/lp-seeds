@@ -1,0 +1,13 @@
+medium-ids = [
+  "target/s-the-p-buje-byeoruiiyagi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "target/baby-come-back-home"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "target/baby-come-back-home-inst"
+duration = "3:07"

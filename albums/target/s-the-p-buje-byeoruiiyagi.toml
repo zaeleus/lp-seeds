@@ -1,0 +1,15 @@
+artist-id = "target"
+kind = "single"
+
+names = [
+  { name = "S the P (부제: 별의이야기)", locale = "ko", original = true },
+  { name = "S the P (Buje: Byeoruiiyagi)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10319446" },
+]
