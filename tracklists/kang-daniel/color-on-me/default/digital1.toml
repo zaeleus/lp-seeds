@@ -1,0 +1,28 @@
+medium-ids = [
+  "kang-daniel/color-on-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kang-daniel/intro-through-the-night"
+duration = "1:20"
+
+[[tracks]]
+position = 2
+song-id = "kang-daniel/color"
+duration = "2:57"
+
+[[tracks]]
+position = 3
+song-id = "kang-daniel/mwohae-what-are-you-up-to"
+duration = "3:03"
+
+[[tracks]]
+position = 4
+song-id = "kang-daniel/horizon"
+duration = "2:37"
+
+[[tracks]]
+position = 5
+song-id = "kang-daniel/i-hope"
+duration = "3:08"
