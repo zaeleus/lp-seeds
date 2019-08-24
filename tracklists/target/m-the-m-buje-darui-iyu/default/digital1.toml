@@ -1,0 +1,13 @@
+medium-ids = [
+  "target/m-the-m-buje-darui-iyu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "target/areumdawo"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "target/areumdawo-inst"
+duration = "3:45"
