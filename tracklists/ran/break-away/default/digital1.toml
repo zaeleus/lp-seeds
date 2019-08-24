@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/break-away/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/break-away"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "ran/break-away-inst"
+duration = "3:34"

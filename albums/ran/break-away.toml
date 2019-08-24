@@ -1,0 +1,14 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "break away", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-04-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10270756" },
+]
