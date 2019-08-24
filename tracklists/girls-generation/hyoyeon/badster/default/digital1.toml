@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-generation/hyoyeon/badster/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/hyoyeon/badster"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/hyoyeon/badster-english-ver"
+duration = "3:14"
