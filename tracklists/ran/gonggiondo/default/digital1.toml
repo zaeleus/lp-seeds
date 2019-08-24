@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/gonggiondo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/gonggiondo"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "ran/gonggiondo-inst"
+duration = "3:39"
