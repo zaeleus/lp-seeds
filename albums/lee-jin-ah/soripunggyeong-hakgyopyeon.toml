@@ -1,0 +1,15 @@
+artist-id = "lee-jin-ah"
+kind = "single"
+
+names = [
+  { name = "소리풍경 - 학교편", locale = "ko", original = true },
+  { name = "Soripunggyeong - Hakgyopyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10281267" },
+]
