@@ -1,0 +1,13 @@
+medium-ids = [
+  "yeseo/hot-hand/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yeseo/hot-hand"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "yeseo/hot-hand-inst"
+duration = "3:24"
