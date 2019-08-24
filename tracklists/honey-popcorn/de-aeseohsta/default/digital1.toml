@@ -1,0 +1,18 @@
+medium-ids = [
+  "honey-popcorn/de-aeseohsta/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "honey-popcorn/de-aeseohsta"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "honey-popcorn/baboya"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "honey-popcorn/pieona-violet"
+duration = "3:23"
