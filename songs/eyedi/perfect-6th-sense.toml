@@ -1,0 +1,3 @@
+names = [
+  { name = "Perfect 6th Sense", locale = "ko", original = true, default = true },
+]
