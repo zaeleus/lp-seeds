@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/soyou-francis/bangkok/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/soyou-francis/bangkok-prod-by-francis"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/soyou-francis/bangkok-prod-by-francis-inst"
+duration = "3:09"

@@ -1,0 +1,9 @@
+names = [
+  { name = "방콕 (Bangkok) (Prod. By Francis) (Inst.)", locale = "ko", original = true },
+  { name = "Bangkok (Prod. by Francis) (Inst.)", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "sistar/soyou", separator = " X " },
+  { artist-id = "francis" },
+]
