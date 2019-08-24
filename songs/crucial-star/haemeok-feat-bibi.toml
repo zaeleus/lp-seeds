@@ -1,4 +1,0 @@
-names = [
-  { name = "해먹 (feat. BIBI)", locale = "ko", original = true },
-  { name = "Haemeok (feat. BIBI)", locale = "ko-Latn", default = true },
-]

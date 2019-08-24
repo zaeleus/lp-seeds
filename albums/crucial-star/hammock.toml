@@ -3,7 +3,8 @@ kind = "single"
 
 names = [
   { name = "해먹", locale = "ko", original = true },
-  { name = "Haemeok", locale = "ko-Latn", default = true },
+  { name = "Haemeok", locale = "ko-Latn" },
+  { name = "Hammock", locale = "en", default = true },
 ]
 
 [[releases]]
