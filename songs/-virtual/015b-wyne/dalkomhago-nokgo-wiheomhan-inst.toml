@@ -1,0 +1,9 @@
+names = [
+  { name = "달콤하고 녹고 위험한 (Inst.)", locale = "ko", original = true },
+  { name = "Dalkomhago Nokgo Wiheomhan (Inst.)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "015b", separator = ", " },
+  { artist-id = "wyne" },
+]

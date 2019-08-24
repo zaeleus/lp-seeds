@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/015b-wyne/new-edition-14/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/015b-wyne/dalkomhago-nokgo-wiheomhan"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/015b-wyne/dalkomhago-nokgo-wiheomhan-inst"
+duration = "3:46"
