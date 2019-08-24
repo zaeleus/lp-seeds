@@ -1,4 +1,0 @@
-names = [
-  { name = "솔직히 (Feat. 슬리피)", locale = "ko", original = true },
-  { name = "Soljikhi (Feat. Sleepy)", locale = "ko-Latn", default = true },
-]
