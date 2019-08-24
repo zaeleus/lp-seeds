@@ -3,7 +3,8 @@ kind = "ep"
 
 names = [
   { name = "갑분기", locale = "ko", original = true },
-  { name = "Gapbungi", locale = "ko-Latn", default = true },
+  { name = "Gapbungi", locale = "ko-Latn" },
+  { name = "GAB BOON GI", locale = "en", default = true },
 ]
 
 [[releases]]
