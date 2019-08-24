@@ -1,0 +1,16 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "여름아 부탁해 OST Part.16", locale = "ko", original = true },
+  { name = "Yeoreuma Butakhae OST Part.16", locale = "ko-Latn", default = true },
+  { name = "Home for Summer OST Part.16", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-07-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10304005" },
+]

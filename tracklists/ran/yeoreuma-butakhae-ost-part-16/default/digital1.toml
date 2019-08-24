@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/yeoreuma-butakhae-ost-part-16/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/saranghaeseo-apeun-geogetjyo"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "ran/saranghaeseo-apeun-geogetjyo-inst"
+duration = "3:48"
