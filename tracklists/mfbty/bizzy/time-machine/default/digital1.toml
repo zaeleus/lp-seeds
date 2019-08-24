@@ -1,0 +1,8 @@
+medium-ids = [
+  "mfbty/bizzy/time-machine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mfbty/bizzy/time-machine"
+duration = "3:29"
