@@ -1,0 +1,13 @@
+medium-ids = [
+  "ben/heeojyeojwoseo-gomawo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/heeojyeojwoseo-gomawo"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "ben/heeojyeojwoseo-gomawo-inst"
+duration = "4:15"
