@@ -1,0 +1,18 @@
+medium-ids = [
+  "ran/na-sarangi-jal-andwaeseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/na-sarangi-jal-andwaeseo"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "ran/haetsari-joayo"
+duration = "3:52"
+
+[[tracks]]
+position = 3
+song-id = "ran/na-sarangi-jal-andwaeseo-inst"
+duration = "3:54"
