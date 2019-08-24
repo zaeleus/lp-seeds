@@ -1,0 +1,4 @@
+names = [
+  { name = "좋아한다고 말해도 되나요 (inst.)", locale = "ko", original = true },
+  { name = "Joahandago Malhaedo Doenayo (inst.)", locale = "ko-Latn", default = true },
+]

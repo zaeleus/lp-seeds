@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/joahandago-malhaedo-doenayo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/joahandago-malhaedo-doenayo"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "ran/joahandago-malhaedo-doenayo-inst"
+duration = "3:29"

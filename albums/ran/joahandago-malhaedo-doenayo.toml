@@ -1,0 +1,15 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "좋아한다고 말해도 되나요", locale = "ko", original = true },
+  { name = "Joahandago Malhaedo Doenayo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10306326" },
+]
