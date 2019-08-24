@@ -1,0 +1,16 @@
+artist-id = "kwon-jin-ah"
+kind = "single"
+
+names = [
+  { name = "멜로가 체질 OST Part 1", locale = "ko", original = true },
+  { name = "Melloga Chejil OST Part 1", locale = "ko-Latn", default = true },
+  { name = "Melo Is My Nature OST Part 1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-08-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10316484" },
+]
