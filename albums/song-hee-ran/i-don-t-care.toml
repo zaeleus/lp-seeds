@@ -1,0 +1,14 @@
+artist-id = "song-hee-ran"
+kind = "single"
+
+names = [
+  { name = "I Don't Care", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-08-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10313880" },
+]

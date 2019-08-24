@@ -1,0 +1,13 @@
+medium-ids = [
+  "song-hee-ran/i-don-t-care/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "song-hee-ran/i-don-t-care"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "song-hee-ran/i-don-t-care-inst"
+duration = "3:15"
