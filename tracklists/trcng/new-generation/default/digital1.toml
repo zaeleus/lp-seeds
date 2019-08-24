@@ -1,0 +1,33 @@
+medium-ids = [
+  "trcng/new-generation/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "trcng/ray-of-light"
+duration = "1:27"
+
+[[tracks]]
+position = 2
+song-id = "trcng/spectrum"
+duration = "3:56"
+
+[[tracks]]
+position = 3
+song-id = "trcng/my-very-first-love"
+duration = "3:17"
+
+[[tracks]]
+position = 4
+song-id = "trcng/i-m-the-one"
+duration = "3:02"
+
+[[tracks]]
+position = 5
+song-id = "trcng/don-t-stop-the-dancing"
+duration = "3:08"
+
+[[tracks]]
+position = 6
+song-id = "trcng/0-young"
+duration = "3:44"
