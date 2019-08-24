@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/dasi-saranghal-suga-isseulkka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/dasi-saranghal-suga-isseulkka"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "ran/dasi-saranghal-suga-isseulkka-inst"
+duration = "3:31"

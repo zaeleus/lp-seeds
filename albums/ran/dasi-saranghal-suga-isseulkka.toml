@@ -1,0 +1,15 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "다시 사랑할 수가 있을까", locale = "ko", original = true },
+  { name = "Dasi Saranghal Suga Isseulkka", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-01-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10246504" },
+]
