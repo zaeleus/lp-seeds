@@ -1,0 +1,13 @@
+medium-ids = [
+  "mamamoo/geomsaegeoreul-imnyeokhaseyo-www-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/wow"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/wow-inst"
+duration = "3:22"
