@@ -1,0 +1,15 @@
+artist-id = "giant-pink"
+kind = "single"
+
+names = [
+  { name = "Forever Young (Feat. 릴러말즈)", locale = "ko", original = true },
+  { name = "Forever Young (Feat. Leellamarz)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10315071" },
+]
