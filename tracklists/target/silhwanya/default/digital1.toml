@@ -1,0 +1,13 @@
+medium-ids = [
+  "target/silhwanya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "target/silhwanya"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "target/silhwanya-inst"
+duration = "3:33"

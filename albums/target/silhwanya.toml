@@ -1,0 +1,15 @@
+artist-id = "target"
+kind = "single"
+
+names = [
+  { name = "실화냐", locale = "ko", original = true },
+  { name = "Silhwanya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2018-07-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10182751" },
+]
