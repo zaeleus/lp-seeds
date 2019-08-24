@@ -1,0 +1,18 @@
+medium-ids = [
+  "knk/knk-s-s-collection/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "knk/sunset"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "knk/we-are-the-one"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "knk/baraesseo"
+duration = "4:08"
