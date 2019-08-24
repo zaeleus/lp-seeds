@@ -1,4 +1,0 @@
-names = [
-  { name = "오후의 무엇 (Feat. 최낙타)", locale = "ko", original = true },
-  { name = "Ohuui Mueot (Feat. Choi Nakta)", locale = "ko-Latn", default = true },
-]
