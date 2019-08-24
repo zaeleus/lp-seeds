@@ -1,0 +1,13 @@
+medium-ids = [
+  "lana/take-the-wheel/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lana/take-the-wheel"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "lana/take-the-wheel_inst"
+duration = "3:06"
