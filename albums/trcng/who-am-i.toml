@@ -1,0 +1,14 @@
+artist-id = "trcng"
+kind = "single"
+
+names = [
+  { name = "WHO AM I", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-01-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10123967" },
+]
