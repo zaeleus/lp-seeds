@@ -1,0 +1,15 @@
+artist-id = "kebee"
+kind = "single"
+
+names = [
+  { name = "얼굴", locale = "ko", original = true },
+  { name = "Eolgul", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10321169" },
+]

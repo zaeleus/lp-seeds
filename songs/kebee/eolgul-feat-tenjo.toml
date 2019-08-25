@@ -1,0 +1,4 @@
+names = [
+  { name = "얼굴 (Feat. 텐조)", locale = "ko", original = true },
+  { name = "Eolgul (Feat. Tenjo)", locale = "ko-Latn", default = true },
+]

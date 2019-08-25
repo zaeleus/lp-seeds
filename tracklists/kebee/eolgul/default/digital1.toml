@@ -1,0 +1,8 @@
+medium-ids = [
+  "kebee/eolgul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kebee/eolgul-feat-tenjo"
+duration = "3:05"
