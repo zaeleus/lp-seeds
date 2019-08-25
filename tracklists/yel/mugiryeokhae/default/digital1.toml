@@ -1,0 +1,13 @@
+medium-ids = [
+  "yel/mugiryeokhae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yel/mugiryeokhae"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "yel/paradise-feat-plzy"
+duration = "2:59"

@@ -1,0 +1,4 @@
+names = [
+  { name = "Paradise (feat. 플리지)", locale = "ko", original = true },
+  { name = "Paradise (feat. PLZY)", locale = "ko-Latn", default = true },
+]
