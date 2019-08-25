@@ -1,0 +1,16 @@
+artist-id = "flowsik"
+kind = "single"
+
+names = [
+  { name = "일주일째 (1week) (Feat. 개리)", locale = "ko", original = true },
+  { name = "Iljuiljjae (1week) (Feat. Gary)", locale = "ko-Latn", default = true },
+  { name = "1week (Feat. Gary)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-08-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10321256" },
+]
