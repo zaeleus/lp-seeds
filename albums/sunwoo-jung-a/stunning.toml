@@ -1,0 +1,14 @@
+artist-id = "sunwoo-jung-a"
+kind = "ep"
+
+names = [
+  { name = "Stunning", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-08-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10321168" },
+]

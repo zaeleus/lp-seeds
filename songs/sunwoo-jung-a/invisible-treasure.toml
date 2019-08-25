@@ -1,0 +1,3 @@
+names = [
+  { name = "Invisible Treasure", locale = "ko", original = true, default = true },
+]
