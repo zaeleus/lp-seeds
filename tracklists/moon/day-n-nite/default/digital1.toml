@@ -1,0 +1,13 @@
+medium-ids = [
+  "moon/day-n-nite/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "moon/now"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "moon/day-n-nite-feat-sik-k"
+duration = "2:51"
