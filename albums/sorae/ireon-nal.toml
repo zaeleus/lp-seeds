@@ -1,0 +1,15 @@
+artist-id = "sorae"
+kind = "ep"
+
+names = [
+  { name = "이런 날", locale = "ko", original = true },
+  { name = "Ireon Nal", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-05-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10281197" },
+]
