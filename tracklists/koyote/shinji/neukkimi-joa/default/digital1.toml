@@ -1,0 +1,13 @@
+medium-ids = [
+  "koyote/shinji/neukkimi-joa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "koyote/shinji/neukkimi-joa"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "koyote/shinji/neukkimi-joa-inst"
+duration = "3:23"

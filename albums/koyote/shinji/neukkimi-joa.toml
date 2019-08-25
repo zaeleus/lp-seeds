@@ -1,0 +1,15 @@
+artist-id = "koyote/shinji"
+kind = "single"
+
+names = [
+  { name = "느낌이 좋아", locale = "ko", original = true },
+  { name = "Neukkimi Joa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10316098" },
+]
