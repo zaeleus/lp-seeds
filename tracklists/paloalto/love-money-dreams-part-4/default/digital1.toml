@@ -1,0 +1,13 @@
+medium-ids = [
+  "paloalto/love-money-dreams-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "paloalto/the-greatest-part-2-feat-los-changmo-owell-mood"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "paloalto/battle-scars-feat-g2-illinit"
+duration = "3:56"
