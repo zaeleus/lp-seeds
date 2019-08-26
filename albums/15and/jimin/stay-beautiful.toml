@@ -1,0 +1,21 @@
+artist-id = "15and/jimin"
+kind = "single"
+
+names = [
+  { name = "Stay Beautiful", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "15and/jimin"
+names = [
+  { name = "박지민", locale = "ko", original = true },
+  { name = "Jimin Park", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10321271" },
+]
