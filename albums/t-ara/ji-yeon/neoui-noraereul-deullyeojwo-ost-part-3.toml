@@ -1,0 +1,16 @@
+artist-id = "t-ara/ji-yeon"
+kind = "single"
+
+names = [
+  { name = "너의 노래를 들려줘 OST Part.3", locale = "ko", original = true },
+  { name = "Neoui Noraereul Deullyeojwo OST Part.3", locale = "ko-Latn", default = true },
+  { name = "I Wanna Hear Your Song OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-08-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10321427" },
+]

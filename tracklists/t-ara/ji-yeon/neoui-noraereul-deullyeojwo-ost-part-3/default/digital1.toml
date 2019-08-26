@@ -1,0 +1,13 @@
+medium-ids = [
+  "t-ara/ji-yeon/neoui-noraereul-deullyeojwo-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/ji-yeon/eoneu-paran-bam"
+duration = "4:47"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/ji-yeon/eoneu-paran-bam-inst"
+duration = "4:47"
