@@ -1,0 +1,20 @@
+artist-id = "-virtual/kim-jae-hwan-stella-jang"
+kind = "single"
+
+names = [
+  { name = "포켓리스트 8/12", locale = "ko", original = true },
+  { name = "Pocket List 8/12", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "kim-jae-hwan", separator = ", " },
+  { artist-id = "stella-jang" },
+]
+
+[[releases]]
+released-on = "2019-08-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10321660" },
+]

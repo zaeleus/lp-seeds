@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/kim-jae-hwan-stella-jang/pocket-list-8-12/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/kim-jae-hwan-stella-jang/9-worui-bakangseu"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/kim-jae-hwan-stella-jang/9-worui-bakangseu-inst"
+duration = "3:28"

@@ -1,0 +1,9 @@
+names = [
+  { name = "9월의 바캉스", locale = "ko", original = true },
+  { name = "9-worui Bakangseu", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "kim-jae-hwan", separator = ", " },
+  { artist-id = "stella-jang" },
+]
