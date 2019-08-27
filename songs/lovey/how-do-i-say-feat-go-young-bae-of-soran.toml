@@ -1,0 +1,4 @@
+names = [
+  { name = "How Do I Say (Feat. 고영배 of 소란)", locale = "ko", original = true },
+  { name = "How Do I Say (Feat. Go Young Bae of Soran)", locale = "ko-Latn", default = true },
+]
