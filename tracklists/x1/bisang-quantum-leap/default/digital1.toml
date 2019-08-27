@@ -1,0 +1,33 @@
+medium-ids = [
+  "x1/bisang-quantum-leap/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "x1/stand-up-intro"
+duration = "2:11"
+
+[[tracks]]
+position = 2
+song-id = "x1/flash"
+duration = "3:32"
+
+[[tracks]]
+position = 3
+song-id = "x1/useul-ttae-jeil-yeppeo"
+duration = "3:25"
+
+[[tracks]]
+position = 4
+song-id = "x1/gwaenchanayo"
+duration = "4:41"
+
+[[tracks]]
+position = 5
+song-id = "x1/u-got-it-x1-ver"
+duration = "3:11"
+
+[[tracks]]
+position = 6
+song-id = "x1/umjigyeo-move-prod-by-zico-x1-ver"
+duration = "3:06"

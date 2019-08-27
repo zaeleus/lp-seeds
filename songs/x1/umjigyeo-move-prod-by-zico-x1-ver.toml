@@ -1,0 +1,4 @@
+names = [
+  { name = "움직여 (MOVE) (Prod. by ZICO) (X1 Ver.)", locale = "ko", original = true },
+  { name = "Umjigyeo (MOVE) (Prod. by ZICO) (X1 Ver.)", locale = "ko-Latn", default = true },
+]
