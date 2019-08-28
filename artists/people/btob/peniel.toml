@@ -1,0 +1,13 @@
+kind = "person"
+started-on = "1993-03-10"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "프니엘", locale = "ko", kind = "stage", original = true },
+  { name = "Peniel", locale = "en", kind = "stage", default = true },
+  { name = "프니엘 신", locale = "ko", kind = "real" },
+  { name = "Peniel Shin", locale = "ko-Latn", kind = "real" },
+  { name = "신동근", locale = "ko", kind = "real" },
+  { name = "Shin Dong Geun", locale = "ko-Latn", kind = "real" },
+]
