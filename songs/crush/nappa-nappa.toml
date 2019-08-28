@@ -1,0 +1,5 @@
+names = [
+  { name = "나빠 (NAPPA)", locale = "ko", original = true },
+  { name = "Nappa (Nappa)", locale = "ko-Latn", default = true },
+  { name = "NAPPA", locale = "en" },
+]

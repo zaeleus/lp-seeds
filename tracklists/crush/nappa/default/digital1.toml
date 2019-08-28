@@ -1,0 +1,13 @@
+medium-ids = [
+  "crush/nappa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "crush/nappa-nappa"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "crush/lookin-4-feat-joyce-wrice-devin-morrison"
+duration = "4:44"
