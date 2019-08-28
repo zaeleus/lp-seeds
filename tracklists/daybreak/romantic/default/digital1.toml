@@ -1,0 +1,23 @@
+medium-ids = [
+  "daybreak/romantic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "daybreak/romantic"
+duration = "5:56"
+
+[[tracks]]
+position = 2
+song-id = "daybreak/r-e-d"
+duration = "4:51"
+
+[[tracks]]
+position = 3
+song-id = "daybreak/romantic-inst"
+duration = "5:56"
+
+[[tracks]]
+position = 4
+song-id = "daybreak/r-e-d-inst"
+duration = "4:51"

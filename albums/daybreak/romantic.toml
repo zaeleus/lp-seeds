@@ -1,0 +1,14 @@
+artist-id = "daybreak"
+kind = "single"
+
+names = [
+  { name = "ROMANTIC", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-08-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10322609" },
+]
