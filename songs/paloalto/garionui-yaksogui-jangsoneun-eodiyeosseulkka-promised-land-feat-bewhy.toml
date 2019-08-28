@@ -1,0 +1,5 @@
+names = [
+  { name = "가리온의 약속의 장소는 어디였을까 (Promised Land) (Feat. BewhY)", locale = "ko", original = true },
+  { name = "Garionui Yaksogui Jangsoneun Eodiyeosseulkka (Promised Land) (Feat. BewhY)", locale = "ko-Latn", default = true },
+  { name = "Promised Land", locale = "en" },
+]

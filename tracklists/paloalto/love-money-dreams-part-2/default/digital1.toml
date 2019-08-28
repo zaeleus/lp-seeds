@@ -1,0 +1,13 @@
+medium-ids = [
+  "paloalto/love-money-dreams-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "paloalto/sarangi-anya-it-ain-t-love"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "paloalto/garionui-yaksogui-jangsoneun-eodiyeosseulkka-promised-land-feat-bewhy"
+duration = "3:52"
