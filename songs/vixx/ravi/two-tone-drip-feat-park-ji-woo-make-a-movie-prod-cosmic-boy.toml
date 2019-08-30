@@ -1,0 +1,4 @@
+names = [
+  { name = "TWO TONE DRIP (Feat. 박지우, Make A Movie) (Prod. Cosmic Boy)", locale = "ko", original = true },
+  { name = "TWO TONE DRIP (Feat. Park Ji Woo, Make A Movie) (Prod. Cosmic Boy)", locale = "ko-Latn", default = true },
+]

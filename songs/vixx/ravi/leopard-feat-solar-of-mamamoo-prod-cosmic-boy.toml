@@ -1,0 +1,4 @@
+names = [
+  { name = "LEOPARD (Feat. 솔라 of 마마무) (Prod. Cosmic Boy)", locale = "ko", original = true },
+  { name = "LEOPARD (Feat. Solar of MAMAMOO) (Prod. Cosmic Boy)", locale = "ko-Latn", default = true },
+]
