@@ -1,0 +1,18 @@
+medium-ids = [
+  "sumin/on-stage-digging-club-seoul-theme-03/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sumin/sarangiran-myohangeoya-feat-qim-isle-digging-club-soul-ver"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "sumin/sarangiran-myohangeoya-digging-club-seoul-ver-inst"
+duration = "2:57"
+
+[[tracks]]
+position = 3
+song-id = "sumin/sarangiran-myohangeoya-original-ver"
+duration = "3:25"

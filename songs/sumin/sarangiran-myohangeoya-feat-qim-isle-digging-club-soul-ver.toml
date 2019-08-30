@@ -1,0 +1,4 @@
+names = [
+  { name = "사랑이란 묘한거야 (feat. 김아일) (디깅클럽서울 Ver.)", locale = "ko", original = true },
+  { name = "Sarangiran Myohangeoya (feat. Qim Isle) (Digging Club Soul Ver.)", locale = "ko-Latn", default = true },
+]
