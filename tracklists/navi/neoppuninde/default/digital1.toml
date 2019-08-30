@@ -1,0 +1,13 @@
+medium-ids = [
+  "navi/neoppuninde/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "navi/neoppuninde"
+duration = "4:57"
+
+[[tracks]]
+position = 2
+song-id = "navi/neoppuninde-inst"
+duration = "4:57"

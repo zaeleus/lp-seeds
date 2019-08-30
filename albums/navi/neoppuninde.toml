@@ -1,0 +1,15 @@
+artist-id = "navi"
+kind = "single"
+
+names = [
+  { name = "너뿐인데", locale = "ko", original = true },
+  { name = "Neoppuninde", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-08-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10322566" },
+]
