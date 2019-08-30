@@ -1,0 +1,3 @@
+names = [
+  { name = "Way Back (Acoustic Ver.)", locale = "ko", original = true, default = true },
+]

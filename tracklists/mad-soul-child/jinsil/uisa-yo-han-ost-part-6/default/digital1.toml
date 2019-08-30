@@ -1,0 +1,13 @@
+medium-ids = [
+  "mad-soul-child/jinsil/uisa-yo-han-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mad-soul-child/jinsil/way-back-acoustic-ver"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "mad-soul-child/jinsil/way-back-acoustic-ver-inst"
+duration = "3:40"
