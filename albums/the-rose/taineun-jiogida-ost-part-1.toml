@@ -1,0 +1,16 @@
+artist-id = "the-rose"
+kind = "single"
+
+names = [
+  { name = "타인은 지옥이다 OST Part.1", locale = "ko", original = true },
+  { name = "Taineun Jiogida OST Part.1", locale = "ko-Latn", default = true },
+  { name = "Hell Is Other People OST Part.1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-08-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10323040" },
+]

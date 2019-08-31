@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-rose/taineun-jiogida-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-rose/taineun-jiogida"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "the-rose/taineun-jiogida-inst"
+duration = "3:29"
