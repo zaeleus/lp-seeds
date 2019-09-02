@@ -1,0 +1,13 @@
+medium-ids = [
+  "violet/best-of-the-best/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "violet/pang-pang"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "violet/pang-pang-inst"
+duration = "3:35"
