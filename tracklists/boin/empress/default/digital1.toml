@@ -1,0 +1,38 @@
+medium-ids = [
+  "boin/empress/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boin/cuba"
+duration = "2:06"
+
+[[tracks]]
+position = 2
+song-id = "boin/u-f-o"
+duration = "2:03"
+
+[[tracks]]
+position = 3
+song-id = "boin/dorphin"
+duration = "2:02"
+
+[[tracks]]
+position = 4
+song-id = "boin/gang-x-cobra"
+duration = "1:55"
+
+[[tracks]]
+position = 5
+song-id = "boin/army"
+duration = "2:21"
+
+[[tracks]]
+position = 6
+song-id = "boin/drippin"
+duration = "1:57"
+
+[[tracks]]
+position = 7
+song-id = "boin/milky-way"
+duration = "2:47"
