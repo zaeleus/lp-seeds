@@ -1,0 +1,13 @@
+medium-ids = [
+  "song-ha-yea/hotel-del-luna-ost-part-11/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "song-ha-yea/say-goodbye"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "song-ha-yea/say-goodbye-inst"
+duration = "3:07"
