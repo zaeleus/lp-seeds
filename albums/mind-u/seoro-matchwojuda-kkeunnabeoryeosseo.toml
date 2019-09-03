@@ -1,0 +1,15 @@
+artist-id = "mind-u"
+kind = "single"
+
+names = [
+  { name = "서로 맞춰주다 끝나버렸어", locale = "ko", original = true },
+  { name = "Seoro Matchwojuda Kkeunnabeoryeosseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10324955" },
+]
