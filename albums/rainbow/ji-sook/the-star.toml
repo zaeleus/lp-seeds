@@ -1,0 +1,14 @@
+artist-id = "rainbow/ji-sook"
+kind = "ep"
+
+names = [
+  { name = "The Star", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-03-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10249683" },
+]

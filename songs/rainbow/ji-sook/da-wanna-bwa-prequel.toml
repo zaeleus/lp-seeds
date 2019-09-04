@@ -1,0 +1,5 @@
+names = [
+  { name = "다 왔나 봐 (Prequel)", locale = "ko", original = true },
+  { name = "Da Wanna Bwa (Prequel)", locale = "ko-Latn", default = true },
+  { name = "Prequel", locale = "en" },
+]
