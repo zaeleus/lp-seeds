@@ -1,0 +1,5 @@
+names = [
+  { name = "헤어지자 (Prod. 정키)", locale = "ko", original = true },
+  { name = "Heeojija (Prod. Jung Key)", locale = "ko-Latn", default = true },
+  { name = "Good Bye (Prod. Jung Key)", locale = "en" },
+]
