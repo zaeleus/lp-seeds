@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1984-03-09"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "사이먼 도미닉", locale = "ko", kind = "stage", original = true },
+  { name = "Simon Dominic", locale = "en", kind = "stage", default = true },
+  { name = "정기석", locale = "ko", kind = "real" },
+  { name = "Jung Ki Suck", locale = "ko-Latn", kind = "real" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "GOTT (Feat. MOON, 우원재 & Jvcki Wai)", locale = "ko", original = true },
+  { name = "GOTT (Feat. MOON, Woo Won Jae & Jvcki Wai)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "simon-dominic/hwagieomgeum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "simon-dominic/intro"
+duration = "1:31"
+
+[[tracks]]
+position = 3
+song-id = "simon-dominic/gott-feat-moon-woo-won-jae-jvcki-wai"
+duration = "2:50"
+
+[[tracks]]
+position = 5
+song-id = "simon-dominic/pose-feat-yumdda"
+duration = "2:45"
+
+[[tracks]]
+position = 6
+song-id = "simon-dominic/room-type"
+duration = "2:18"
+
+[[tracks]]
+position = 7
+song-id = "simon-dominic/ya-ain-t-gang-feat-jayallday-simo-of-y2k92"
+duration = "4:02"
