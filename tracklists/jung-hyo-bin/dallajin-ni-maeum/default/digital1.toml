@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-hyo-bin/dallajin-ni-maeum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-hyo-bin/dallajin-ni-maeum"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "jung-hyo-bin/dallajin-ni-maeum-inst"
+duration = "3:34"
