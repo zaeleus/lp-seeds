@@ -1,0 +1,4 @@
+names = [
+  { name = "우리 사랑이 저무는 이 밤 (Feat. 제이문 (Jay Moon))", locale = "ko", original = true },
+  { name = "Uri Sarangi Jeomuneun I Bam (Feat. Jay Moon)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "kassy/rewind/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/gaeulbam-tteonan-neo"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "kassy/uri-sarangi-jeomuneun-i-bam-feat-jay-moon"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "kassy/jichin-haru-kkeute-neowa-na"
+duration = "3:35"
+
+[[tracks]]
+position = 4
+song-id = "kassy/kkumman-gateun-iriya"
+duration = "3:18"
+
+[[tracks]]
+position = 5
+song-id = "kassy/gaeulbam-tteonan-neo-inst"
+duration = "4:15"
