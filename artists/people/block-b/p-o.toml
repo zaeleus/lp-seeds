@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1993-02-02"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "피오", locale = "ko", kind = "stage", original = true },
+  { name = "P.O", locale = "en", kind = "stage", default = true },
+  { name = "표지훈", locale = "ko", kind = "real" },
+  { name = "Pyo Ji Hun", locale = "ko-Latn", kind = "real" },
+]
