@@ -1,0 +1,14 @@
+artist-id = "we-girls"
+kind = "ep"
+
+names = [
+  { name = "Ride", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-09-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10326695" },
+]
