@@ -36,3 +36,8 @@ duration = "1:57"
 position = 7
 song-id = "boin/milky-way"
 duration = "2:47"
+[[tracks.artist-credits]]
+artist-id = "boin"
+names = [
+  { name = "BOIN76", locale = "ko", original = true, default = true },
+]
