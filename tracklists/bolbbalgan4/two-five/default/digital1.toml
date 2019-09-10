@@ -1,0 +1,33 @@
+medium-ids = [
+  "bolbbalgan4/two-five/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bolbbalgan4/workaholic"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "bolbbalgan4/25"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "bolbbalgan4/xx"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "bolbbalgan4/taste"
+duration = "3:06"
+
+[[tracks]]
+position = 5
+song-id = "bolbbalgan4/nat-day-off"
+duration = "3:13"
+
+[[tracks]]
+position = 6
+song-id = "bolbbalgan4/xx-acoustic-ver"
+duration = "1:36"

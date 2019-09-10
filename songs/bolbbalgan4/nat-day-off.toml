@@ -1,0 +1,5 @@
+names = [
+  { name = "낮 (Day off)", locale = "ko", original = true },
+  { name = "Nat (Day off)", locale = "ko-Latn", default = true },
+  { name = "Day off", locale = "en" },
+]

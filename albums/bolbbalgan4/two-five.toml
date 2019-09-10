@@ -1,0 +1,14 @@
+artist-id = "bolbbalgan4"
+kind = "ep"
+
+names = [
+  { name = "Two Five", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-09-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10327581" },
+]
