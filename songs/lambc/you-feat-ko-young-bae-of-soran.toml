@@ -1,0 +1,4 @@
+names = [
+  { name = "YOU (Feat. 고영배 of 소란)", locale = "ko", original = true },
+  { name = "YOU (Feat. Ko Young Bae of SORAN)", locale = "ko-Latn", default = true },
+]
