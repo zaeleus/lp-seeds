@@ -1,0 +1,4 @@
+names = [
+  { name = "못 고치나 봐 (Day By Day)", locale = "ko", original = true },
+  { name = "Mot Gochina Bwa (Day By Day)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "ftisland/zapping/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ftisland/gwandwo-quit"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "ftisland/dasi-barae-hope-again"
+duration = "3:54"
+
+[[tracks]]
+position = 3
+song-id = "ftisland/mot-gochina-bwa-day-by-day"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "ftisland/singiru-sarang-sarang-sarang-2-no-regret"
+duration = "3:31"
+
+[[tracks]]
+position = 5
+song-id = "ftisland/don-t-lose-yourself"
+duration = "3:34"

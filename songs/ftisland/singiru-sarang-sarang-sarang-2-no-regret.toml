@@ -1,0 +1,5 @@
+names = [
+  { name = "신기루 (사랑사랑사랑2) (No Regret)", locale = "ko", original = true },
+  { name = "Singiru (Sarang Sarang Sarang 2) (No Regret)", locale = "ko-Latn", default = true },
+  { name = "No Regret", locale = "en" },
+]

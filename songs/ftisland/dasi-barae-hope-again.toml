@@ -1,0 +1,5 @@
+names = [
+  { name = "다시 바래 (Hope Again)", locale = "ko", original = true },
+  { name = "Dasi Barae (Hope Again)", locale = "ko-Latn", default = true },
+  { name = "Hope Again", locale = "en" },
+]
