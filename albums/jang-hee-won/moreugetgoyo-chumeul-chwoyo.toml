@@ -1,0 +1,15 @@
+artist-id = "jang-hee-won"
+kind = "single"
+
+names = [
+  { name = "모르겠고요, 춤을 춰요", locale = "ko", original = true },
+  { name = "Moreugetgoyo, Chumeul Chwoyo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10327869" },
+]
