@@ -1,0 +1,13 @@
+medium-ids = [
+  "lydia/yeoreuma-butakhae-ost-part-26/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lydia/mianhaeyo-gomawoyo-saranghaeyo"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "lydia/mianhaeyo-gomawoyo-saranghaeyo-inst"
+duration = "3:41"
