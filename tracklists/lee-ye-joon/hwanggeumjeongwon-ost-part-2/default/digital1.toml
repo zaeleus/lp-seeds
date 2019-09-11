@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-ye-joon/hwanggeumjeongwon-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-ye-joon/away"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "lee-ye-joon/away-inst"
+duration = "4:02"

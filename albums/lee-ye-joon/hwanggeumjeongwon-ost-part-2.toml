@@ -1,0 +1,16 @@
+artist-id = "lee-ye-joon"
+kind = "single"
+
+names = [
+  { name = "황금정원 OST Part.2", locale = "ko", original = true },
+  { name = "Hwanggeumjeongwon OST Part.2", locale = "ko-Latn", default = true },
+  { name = "The Golden Garden OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-09-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10326393" },
+]
