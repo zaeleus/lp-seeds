@@ -1,0 +1,15 @@
+artist-id = "aisle"
+kind = "single"
+
+names = [
+  { name = "9월엔 더 사랑할게", locale = "ko", original = true },
+  { name = "9-woren Deo Saranghalge", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10327559" },
+]

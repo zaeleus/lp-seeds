@@ -1,0 +1,13 @@
+medium-ids = [
+  "aisle/9-woren-deo-saranghalge/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aisle/9-woren-deo-saranghalge"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "aisle/9-woren-deo-saranghalge-inst"
+duration = "3:50"
