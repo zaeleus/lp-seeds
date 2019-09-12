@@ -1,0 +1,13 @@
+medium-ids = [
+  "bbahn/yeoreuma-butakhae-ost-part-27/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bbahn/kkeunnaeya-hagetjyo"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "bbahn/kkeunnaeya-hagetjyo-inst"
+duration = "3:23"
