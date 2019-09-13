@@ -1,0 +1,15 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "태양의 계절 OST Part.10", locale = "ko", original = true },
+  { name = "Tae Yang-ui Gyejeol OST Part.10", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10327420" },
+]

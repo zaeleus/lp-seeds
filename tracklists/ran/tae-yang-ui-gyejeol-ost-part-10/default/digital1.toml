@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/tae-yang-ui-gyejeol-ost-part-10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/useupge-bwatdeon-ibyeol"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "ran/useupge-bwatdeon-ibyeol-inst"
+duration = "3:19"
