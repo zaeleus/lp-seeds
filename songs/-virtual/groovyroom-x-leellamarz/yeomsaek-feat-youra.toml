@@ -1,0 +1,9 @@
+names = [
+  { name = "염색 (Feat. 유라 (youra))", locale = "ko", original = true },
+  { name = "Yeomsaek (Feat. youra)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "groovyroom", separator = " X " },
+  { artist-id = "leellamarz" },
+]

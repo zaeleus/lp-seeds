@@ -1,0 +1,8 @@
+names = [
+  { name = "Facetime", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "groovyroom", separator = " X " },
+  { artist-id = "leellamarz" },
+]

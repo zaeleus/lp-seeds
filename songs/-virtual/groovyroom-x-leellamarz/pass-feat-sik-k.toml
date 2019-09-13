@@ -1,0 +1,9 @@
+names = [
+  { name = "Pass (Feat. 식케이)", locale = "ko", original = true },
+  { name = "Pass (Feat. Sik-K)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "groovyroom", separator = " X " },
+  { artist-id = "leellamarz" },
+]

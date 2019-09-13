@@ -1,0 +1,9 @@
+names = [
+  { name = "도시생활", locale = "ko", original = true },
+  { name = "Dosisaenghwal", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "groovyroom", separator = " X " },
+  { artist-id = "leellamarz" },
+]

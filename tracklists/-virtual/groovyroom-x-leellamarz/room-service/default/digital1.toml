@@ -1,0 +1,58 @@
+medium-ids = [
+  "-virtual/groovyroom-x-leellamarz/room-service/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/groovyroom-x-leellamarz/room-service"
+duration = "2:36"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/groovyroom-x-leellamarz/dosisaenghwal"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/groovyroom-x-leellamarz/in-my-room"
+duration = "2:27"
+
+[[tracks]]
+position = 4
+song-id = "-virtual/groovyroom-x-leellamarz/yeomsaek-feat-youra"
+duration = "2:40"
+
+[[tracks]]
+position = 5
+song-id = "-virtual/groovyroom-x-leellamarz/pass-feat-sik-k"
+duration = "3:47"
+
+[[tracks]]
+position = 6
+song-id = "-virtual/groovyroom-x-leellamarz/facetime"
+duration = "3:12"
+
+[[tracks]]
+position = 7
+song-id = "-virtual/groovyroom-x-leellamarz/pick-up-your-phone-feat-moon"
+duration = "3:06"
+
+[[tracks]]
+position = 8
+song-id = "-virtual/groovyroom-x-leellamarz/kick-that-feat-jay-park"
+duration = "2:48"
+
+[[tracks]]
+position = 9
+song-id = "-virtual/groovyroom-x-leellamarz/wild-wild"
+duration = "1:50"
+
+[[tracks]]
+position = 10
+song-id = "-virtual/groovyroom-x-leellamarz/violinist-freestyle"
+duration = "1:51"
+
+[[tracks]]
+position = 11
+song-id = "-virtual/groovyroom-x-leellamarz/counting-feat-kid-milli-the-quiett"
+duration = "3:17"

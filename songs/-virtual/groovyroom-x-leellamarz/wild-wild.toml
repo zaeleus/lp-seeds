@@ -1,0 +1,9 @@
+names = [
+  { name = "WILD WILD (왈왈)", locale = "ko", original = true },
+  { name = "WILD WILD", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "groovyroom", separator = " X " },
+  { artist-id = "leellamarz" },
+]

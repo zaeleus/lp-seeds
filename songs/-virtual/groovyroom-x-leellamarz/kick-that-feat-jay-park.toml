@@ -1,0 +1,9 @@
+names = [
+  { name = "Kick that (Feat. 박재범)", locale = "ko", original = true },
+  { name = "Kick that (Feat. Jay Park)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "groovyroom", separator = " X " },
+  { artist-id = "leellamarz" },
+]
