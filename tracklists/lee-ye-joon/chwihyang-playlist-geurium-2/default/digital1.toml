@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-ye-joon/chwihyang-playlist-geurium-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-ye-joon/kkok-hanbeon-mannago-sipda"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "lee-ye-joon/kkok-hanbeon-mannago-sipda-inst"
+duration = "3:50"
