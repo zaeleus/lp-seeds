@@ -1,0 +1,15 @@
+artist-id = "kim-greem"
+kind = "single"
+
+names = [
+  { name = "그게 다 너라서", locale = "ko", original = true },
+  { name = "Geuge Da Neoraseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10327688" },
+]
