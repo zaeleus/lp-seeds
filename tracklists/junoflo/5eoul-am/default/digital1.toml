@@ -1,0 +1,13 @@
+medium-ids = [
+  "junoflo/5eoul-am/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "junoflo/5eoul-am-ft-g2"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "junoflo/vices"
+duration = "3:28"
