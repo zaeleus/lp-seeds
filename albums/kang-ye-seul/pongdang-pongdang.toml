@@ -1,0 +1,15 @@
+artist-id = "kang-ye-seul"
+kind = "single"
+
+names = [
+  { name = "퐁당퐁당", locale = "ko", original = true },
+  { name = "Pongdang Pongdang", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10328546" },
+]
