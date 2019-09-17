@@ -1,0 +1,16 @@
+artist-id = "produce-101-japan"
+kind = "single"
+
+names = [
+  { name = "ツカメ〜It's Coming〜", locale = "ja", original = true },
+  { name = "Tsukame ~It's Coming~", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-03"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.apple.com/jp/album/1478607638" },
+  { url = "http://mora.jp/package/43000008/190295349752/" },
+]
