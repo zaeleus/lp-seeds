@@ -1,0 +1,15 @@
+artist-id = "koda-kumi"
+kind = "single"
+
+names = [
+  { name = "OMG", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-09-18"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.apple.com/jp/album/1478738129" },
+  { url = "http://mora.jp/package/43000002/ANTCD-A0000000143/" },
+]
