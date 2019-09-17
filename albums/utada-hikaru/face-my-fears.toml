@@ -1,0 +1,14 @@
+artist-id = "utada-hikaru"
+kind = "single"
+
+names = [
+  { name = "Face My Fears", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-01-18"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "http://mora.jp/package/43000001/4547366389838/" },
+]

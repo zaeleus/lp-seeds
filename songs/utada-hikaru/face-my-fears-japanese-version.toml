@@ -1,0 +1,3 @@
+names = [
+  { name = "Face My Fears (Japanese Version)", locale = "ja", original = true, default = true },
+]

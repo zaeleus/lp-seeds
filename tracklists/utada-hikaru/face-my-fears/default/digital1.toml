@@ -1,0 +1,23 @@
+medium-ids = [
+  "utada-hikaru/face-my-fears/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "utada-hikaru/face-my-fears-japanese-version"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "utada-hikaru/chikai"
+duration = "4:37"
+
+[[tracks]]
+position = 3
+song-id = "utada-hikaru/face-my-fears-english-version"
+duration = "3:42"
+
+[[tracks]]
+position = 4
+song-id = "utada-hikaru/don-t-think-twice"
+duration = "4:33"
