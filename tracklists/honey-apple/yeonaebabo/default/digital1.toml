@@ -1,0 +1,13 @@
+medium-ids = [
+  "honey-apple/yeonaebabo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "honey-apple/yeonaebabo"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "honey-apple/yeonaebabo-inst"
+duration = "3:47"

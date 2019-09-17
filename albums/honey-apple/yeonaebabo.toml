@@ -1,0 +1,15 @@
+artist-id = "honey-apple"
+kind = "single"
+
+names = [
+  { name = "연애바보", locale = "ko", original = true },
+  { name = "Yeonaebabo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-01-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10244657" },
+]
