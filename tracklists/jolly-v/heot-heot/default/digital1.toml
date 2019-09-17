@@ -1,0 +1,8 @@
+medium-ids = [
+  "jolly-v/heot-heot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jolly-v/heot-heot"
+duration = "2:49"
