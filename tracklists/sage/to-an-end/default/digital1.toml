@@ -1,0 +1,13 @@
+medium-ids = [
+  "sage/to-an-end/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sage/to-an-end"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "sage/to-an-end-inst"
+duration = "3:46"
