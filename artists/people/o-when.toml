@@ -1,0 +1,11 @@
+kind = "person"
+# started-on = ""
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "오왠", locale = "ko", kind = "stage", original = true },
+  { name = "O.WHEN", locale = "en", kind = "stage", default = true },
+  { name = "신진욱", locale = "ko", kind = "real" },
+  { name = "Shin Jin Wook", locale = "ko-Latn", kind = "real" },
+]

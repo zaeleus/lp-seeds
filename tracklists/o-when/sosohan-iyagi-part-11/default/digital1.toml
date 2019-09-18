@@ -1,0 +1,13 @@
+medium-ids = [
+  "o-when/sosohan-iyagi-part-11/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "o-when/gipeun-bameul-bonaejwoyo"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "o-when/gipeun-bameul-bonaejwoyo-inst"
+duration = "3:28"
