@@ -1,0 +1,10 @@
+names = [
+  { name = "시작할까, 나", locale = "ko", original = true },
+  { name = "Sijakhalkka, Na", locale = "ko-Latn", default = true },
+  { name = "Beginning", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "rain", separator = " X " },
+  { artist-id = "sistar/soyou" },
+]
