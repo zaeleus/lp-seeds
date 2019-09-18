@@ -1,0 +1,15 @@
+artist-id = "punch"
+kind = "single"
+
+names = [
+  { name = "가끔 이러다", locale = "ko", original = true },
+  { name = "Gakkeum Ireoda", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10329447" },
+]

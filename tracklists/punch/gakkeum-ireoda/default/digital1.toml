@@ -1,0 +1,13 @@
+medium-ids = [
+  "punch/gakkeum-ireoda/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "punch/gakkeum-ireoda"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "punch/gakkeum-ireoda-inst"
+duration = "3:41"
