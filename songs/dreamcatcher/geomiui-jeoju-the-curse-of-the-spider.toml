@@ -1,0 +1,5 @@
+names = [
+  { name = "거미의 저주 (The curse of the Spider)", locale = "ko", original = true },
+  { name = "Geomiui Jeoju (The curse of the Spider)", locale = "ko-Latn", default = true },
+  { name = "The curse of the Spider", locale = "en" },
+]

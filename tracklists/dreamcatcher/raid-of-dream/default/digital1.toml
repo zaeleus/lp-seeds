@@ -1,0 +1,28 @@
+medium-ids = [
+  "dreamcatcher/raid-of-dream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dreamcatcher/intro"
+duration = "1:32"
+
+[[tracks]]
+position = 2
+song-id = "dreamcatcher/deja-vu"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "dreamcatcher/geomiui-jeoju-the-curse-of-the-spider"
+duration = "3:12"
+
+[[tracks]]
+position = 4
+song-id = "dreamcatcher/silent-night"
+duration = "3:19"
+
+[[tracks]]
+position = 5
+song-id = "dreamcatcher/bukgeukseong-polaris"
+duration = "3:54"
