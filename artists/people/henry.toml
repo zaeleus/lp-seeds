@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1989-10-11"
+country = "KR"
+
+names = [
+  { name = "헨리", locale = "ko", kind = "stage", original = true },
+  { name = "HENRY", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Henry Lau", locale = "en", kind = "real" },
+]
