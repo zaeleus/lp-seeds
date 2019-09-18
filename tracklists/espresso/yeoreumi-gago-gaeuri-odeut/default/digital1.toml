@@ -1,0 +1,13 @@
+medium-ids = [
+  "espresso/yeoreumi-gago-gaeuri-odeut/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "espresso/yeoreumi-gago-gaeuri-odeut-feat-honey-apple"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "espresso/yeoreumi-gago-gaeuri-odeut-inst"
+duration = "3:37"
