@@ -1,0 +1,12 @@
+names = [
+  { name = "한(一) (Feat. 치타)", locale = "ko", original = true },
+  { name = "Han (Feat. Cheetah)", locale = "ko-Latn" },
+  { name = "HANN (Feat. Cheetah)", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "2ne1/bom"
+names = [
+  { name = "박봄", locale = "ko", original = true},
+  { name = "Park Bom", locale = "ko-Latn", default = true },
+]

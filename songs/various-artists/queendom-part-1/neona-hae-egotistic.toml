@@ -1,0 +1,9 @@
+names = [
+  { name = "너나 해 (Egotistic)", locale = "ko", original = true },
+  { name = "Neona Hae (Egotistic)", locale = "ko-Latn", default = true },
+  { name = "Egotistic", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "aoa" },
+]
