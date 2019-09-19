@@ -1,0 +1,5 @@
+names = [
+  { name = "평행우주 (PARALLEL)", locale = "ko", original = true },
+  { name = "Pyeonghaenguju (PARALLEL)", locale = "ko-Latn", default = true },
+  { name = "PARALLEL", locale = "en" },
+]
