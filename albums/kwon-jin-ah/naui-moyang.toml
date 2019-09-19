@@ -1,0 +1,15 @@
+artist-id = "kwon-jin-ah"
+kind = "lp"
+
+names = [
+  { name = "나의 모양", locale = "ko", original = true },
+  { name = "Naui Moyang", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10330074" },
+]
