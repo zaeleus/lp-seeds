@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1999-04-09"
+country = "US"
+gender = "male"
+
+names = [
+  { name = "Lil Nas X", locale = "en", kind = "stage", original = true, default = true },
+  { name = "Montero Lamar Hill", locale = "en", kind = "real" },
+]

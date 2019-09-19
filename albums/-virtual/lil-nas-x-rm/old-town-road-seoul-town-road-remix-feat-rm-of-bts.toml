@@ -1,0 +1,20 @@
+artist-id = "-virtual/lil-nas-x-rm"
+kind = "single"
+
+names = [
+  { name = "Old Town Road (Seoul Town Road Remix) feat. RM of BTS (방탄소년단)", locale = "ko", original = true },
+  { name = "Old Town Road (Seoul Town Road Remix) feat. RM of BTS", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "lil-nas-x", separator = ", " },
+  { artist-id = "bts/rm" },
+]
+
+[[releases]]
+released-on = "2019-07-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10311071" },
+]
