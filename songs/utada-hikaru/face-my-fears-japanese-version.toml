@@ -1,3 +1,8 @@
 names = [
   { name = "Face My Fears (Japanese Version)", locale = "ja", original = true, default = true },
 ]
+
+artist-credits = [
+  { artist-id = "utada-hikaru", separator = " & " },
+  { artist-id = "skrillex" },
+]
