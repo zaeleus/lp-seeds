@@ -1,0 +1,15 @@
+artist-id = "yourbeagle"
+kind = "single"
+
+names = [
+  { name = "Decalcomanie (데칼코마니)", locale = "ko", original = true },
+  { name = "Decalcomanie", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10330094" },
+]
