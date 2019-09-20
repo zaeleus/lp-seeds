@@ -1,0 +1,15 @@
+artist-id = "various-artists"
+kind = "ep"
+
+names = [
+  { name = "퀸덤 Part. 2", locale = "ko", original = true },
+  { name = "Queendom Part. 2", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10330392" },
+]
