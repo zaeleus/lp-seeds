@@ -1,0 +1,16 @@
+artist-id = "kim-sa-wol"
+kind = "single"
+
+names = [
+  { name = "사바스", locale = "ko", original = true },
+  { name = "Sabaseu", locale = "ko-Latn" },
+  { name = "Sabbath", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10330422" },
+]

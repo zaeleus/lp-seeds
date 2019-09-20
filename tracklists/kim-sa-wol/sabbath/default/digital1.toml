@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-sa-wol/sabbath/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-sa-wol/sabbath"
+duration = "5:12"
+
+[[tracks]]
+position = 2
+song-id = "kim-sa-wol/sabbath-inst"
+duration = "5:12"
