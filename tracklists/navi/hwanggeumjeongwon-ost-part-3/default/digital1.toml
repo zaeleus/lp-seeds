@@ -1,0 +1,13 @@
+medium-ids = [
+  "navi/hwanggeumjeongwon-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "navi/idaero-neul-geureoke"
+duration = "4:10"
+
+[[tracks]]
+position = 2
+song-id = "navi/idaero-neul-geureoke-inst"
+duration = "4:10"
