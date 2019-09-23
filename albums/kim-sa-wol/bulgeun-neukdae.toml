@@ -11,5 +11,5 @@ released-on = "2019-06-21"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
-  { url = "http://www.melon.com/album/detail.htm?albumId=10298238" },
+  { url = "https://www.melon.com/album/detail.htm?albumId=10298238" },
 ]
