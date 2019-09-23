@@ -1,0 +1,13 @@
+medium-ids = [
+  "davichi/lee-hae-ri/naman-apeun-il/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/lee-hae-ri/naman-apeun-il"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "davichi/lee-hae-ri/naman-apeun-il-inst"
+duration = "3:34"
