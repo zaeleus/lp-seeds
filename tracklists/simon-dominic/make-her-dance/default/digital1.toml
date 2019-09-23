@@ -1,0 +1,8 @@
+medium-ids = [
+  "simon-dominic/make-her-dance/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "simon-dominic/make-her-dance-feat-loopy-crush"
+duration = "2:51"
