@@ -1,0 +1,38 @@
+medium-ids = [
+  "twice/feel-special/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twice/feel-special"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "twice/rainbow"
+duration = "2:58"
+
+[[tracks]]
+position = 3
+song-id = "twice/get-loud"
+duration = "3:08"
+
+[[tracks]]
+position = 4
+song-id = "twice/trick-it"
+duration = "3:15"
+
+[[tracks]]
+position = 5
+song-id = "twice/love-foolish"
+duration = "3:12"
+
+[[tracks]]
+position = 6
+song-id = "twice/21-29"
+duration = "3:50"
+
+[[tracks]]
+position = 7
+song-id = "twice/breakthrough-korean-ver"
+duration = "3:38"
