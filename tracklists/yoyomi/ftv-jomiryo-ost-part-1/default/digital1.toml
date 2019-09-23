@@ -1,0 +1,13 @@
+medium-ids = [
+  "yoyomi/ftv-jomiryo-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yoyomi/salmannage"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "yoyomi/salmannage-inst"
+duration = "3:02"
