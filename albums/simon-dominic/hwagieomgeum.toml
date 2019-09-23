@@ -4,12 +4,28 @@ kind = "ep"
 names = [
   { name = "화기엄금", locale = "ko", original = true },
   { name = "Hwagieomgeum", locale = "ko-Latn", default = true },
+  { name = "No Open Flames", locale = "en" },
 ]
 
 [[releases]]
 released-on = "2019-09-03"
 country = "KR"
 media = [{ kind = "digital" }]
+disambiguation = "Digital (KR)"
 urls = [
+  { url = "https://music.bugs.co.kr/album/924532" },
   { url = "https://www.melon.com/album/detail.htm?albumId=10322786" },
+  { url = "http://www.mnet.com/album/3295545" },
+  { url = "https://music.naver.com/album/index.nhn?albumId=3164624" },
+]
+
+[[releases]]
+released-on = "2019-09-03"
+country = "US"
+media = [{ kind = "digital" }]
+disambiguation = "Digital (US)"
+urls = [
+  { url = "https://music.apple.com/us/album/1478706668" },
+  { url = "https://play.google.com/music/m/Bmc4h3sw6j752mz7zupo5adwcw4" },
+  { url = "https://open.spotify.com/album/1426VraRvdBSqtGRfkcKze" },
 ]
