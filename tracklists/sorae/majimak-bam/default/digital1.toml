@@ -1,0 +1,13 @@
+medium-ids = [
+  "sorae/majimak-bam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sorae/majimak-bam"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "sorae/majimak-bam-inst"
+duration = "3:13"
