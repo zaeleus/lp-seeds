@@ -1,0 +1,8 @@
+names = [
+  { name = "행복해지고 싶어 (Feat. 수지) (Prod. 아르마딜로)", locale = "ko", original = true },
+  { name = "Haengbokhaejigo Sipeo (Feat. Suzy) (Prod. Armadillo)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "babylon" },
+]

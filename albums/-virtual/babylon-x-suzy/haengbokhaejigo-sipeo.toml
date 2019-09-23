@@ -1,0 +1,20 @@
+artist-id = "-virtual/babylon-x-suzy"
+kind = "single"
+
+names = [
+  { name = "행복해지고 싶어", locale = "ko", original = true },
+  { name = "Haengbokhaejigo Sipeo", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "babylon", separator = " X " },
+  { artist-id = "miss-a/suzy" },
+]
+
+[[releases]]
+released-on = "2019-09-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10330231" },
+]
