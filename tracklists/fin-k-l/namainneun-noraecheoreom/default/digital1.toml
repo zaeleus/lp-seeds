@@ -1,0 +1,13 @@
+medium-ids = [
+  "fin-k-l/namainneun-noraecheoreom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fin-k-l/namainneun-noraecheoreom"
+duration = "4:38"
+
+[[tracks]]
+position = 2
+song-id = "fin-k-l/namainneun-noraecheoreom-inst"
+duration = "4:34"

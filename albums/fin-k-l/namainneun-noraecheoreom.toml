@@ -1,0 +1,15 @@
+artist-id = "fin-k-l"
+kind = "single"
+
+names = [
+  { name = "남아있는 노래처럼", locale = "ko", original = true },
+  { name = "Namainneun Noraecheoreom", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10330770" },
+]

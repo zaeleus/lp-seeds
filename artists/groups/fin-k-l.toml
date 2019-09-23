@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "1998"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "핑클", locale = "ko", original = true },
+  { name = "Fin.K.L", locale = "ko-Latn", default = true },
+]
