@@ -1,0 +1,9 @@
+names = [
+  { name = "Two Everything (Feat. 기리보이) (Prod. GXXD)", locale = "ko", original = true },
+  { name = "Two Everything (Feat. Giriboy) (Prod. GXXD)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "sik-k", separator = ", " },
+  { artist-id = "coogie" },
+]

@@ -1,0 +1,33 @@
+medium-ids = [
+  "-virtual/sik-k-coogie/s-o-s-sink-or-swim/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/sik-k-coogie/drowning-prod-gxxd"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/sik-k-coogie/two-everything-feat-giriboy-prod-gxxd"
+duration = "3:19"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/sik-k-coogie/chimdae-norae-wet-the-bed-prod-gxxd"
+duration = "3:01"
+
+[[tracks]]
+position = 4
+song-id = "-virtual/sik-k-coogie/goin-up-prod-gxxd"
+duration = "2:18"
+
+[[tracks]]
+position = 5
+song-id = "-virtual/sik-k-coogie/summer-snack-feat-the-quiett-prod-gxxd"
+duration = "2:27"
+
+[[tracks]]
+position = 6
+song-id = "-virtual/sik-k-coogie/bonus-h1ghratm-freestyle-prod-gxxd"
+duration = "2:43"

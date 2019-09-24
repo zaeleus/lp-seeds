@@ -1,0 +1,19 @@
+artist-id = "-virtual/sik-k-coogie"
+kind = "ep"
+
+names = [
+  { name = "S.O.S (Sink or Swim)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "sik-k", separator = ", " },
+  { artist-id = "coogie" },
+]
+
+[[releases]]
+released-on = "2019-09-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10331384" },
+]

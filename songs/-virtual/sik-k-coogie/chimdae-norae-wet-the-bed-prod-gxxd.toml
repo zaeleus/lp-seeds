@@ -1,0 +1,9 @@
+names = [
+  { name = "침대 노래 (Wet The Bed) (Prod. GXXD)", locale = "ko", original = true },
+  { name = "Chimdae Norae (Wet The Bed) (Prod. GXXD)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "sik-k", separator = ", " },
+  { artist-id = "coogie" },
+]

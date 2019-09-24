@@ -1,0 +1,8 @@
+names = [
+  { name = "Goin' Up (Prod. GXXD)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "sik-k", separator = ", " },
+  { artist-id = "coogie" },
+]
