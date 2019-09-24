@@ -1,0 +1,4 @@
+names = [
+  { name = "우리에게 쏟아지는 별들을 (Feat. 구원찬)", locale = "ko", original = true },
+  { name = "Uriege Ssodajineun Byeoldeureul (Feat. Ku One Chan)", locale = "ko-Latn", default = true },
+]
