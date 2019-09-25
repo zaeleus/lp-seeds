@@ -1,0 +1,16 @@
+artist-id = "akdong-musician"
+kind = "lp"
+
+names = [
+  { name = "항해", locale = "ko", original = true },
+  { name = "Hanghae", locale = "ko-Latn", default = true },
+  { name = "Sailing", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-09-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10331947" },
+]
