@@ -1,0 +1,17 @@
+artist-id = "scandal"
+kind = "single"
+
+names = [
+  { name = "Fuzzy", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-08-07"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.apple.com/jp/album/1473775601?" },
+  { url = "https://music.line.me/album/mb000000000194a64d" },
+  { url = "https://mora.jp/package/43000005/VE3WA-18452/" },
+  { url = "https://mora.jp/package/43000005/VE5HD-32079_F/" },
+]
