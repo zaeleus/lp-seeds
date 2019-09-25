@@ -1,0 +1,15 @@
+artist-id = "kara/nicole"
+kind = "single"
+
+names = [
+  { name = "Champions (feat. Tom&Jame)", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-09-25"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.apple.com/jp/album/1480112475?" },
+  { url = "http://mora.jp/package/43000074/TCJPR0000554691/" },
+]

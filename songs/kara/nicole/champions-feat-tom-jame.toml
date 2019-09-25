@@ -1,0 +1,3 @@
+names = [
+  { name = "Champions (feat. Tom&Jame)", locale = "ja", original = true, default = true },
+]
