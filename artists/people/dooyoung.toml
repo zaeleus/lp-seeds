@@ -1,0 +1,10 @@
+kind = "person"
+# started-on = ""
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "DooYoung", locale = "ko", kind = "stage", default = true },
+  { name = "최서현", locale = "ko", kind = "real", original = true },
+  { name = "Choi Seo Hyun", locale = "ko-Latn", kind = "real" },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "-virtual/myundo-dooyoung/house-party/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/myundo-dooyoung/invitation"
+duration = "1:08"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/myundo-dooyoung/house-party"
+duration = "2:55"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/myundo-dooyoung/jagangducheon"
+duration = "3:35"
+
+[[tracks]]
+position = 4
+song-id = "-virtual/myundo-dooyoung/over-n-over"
+duration = "2:43"
+
+[[tracks]]
+position = 5
+song-id = "-virtual/myundo-dooyoung/another-day"
+duration = "2:59"

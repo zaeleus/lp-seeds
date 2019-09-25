@@ -1,0 +1,19 @@
+artist-id = "-virtual/myundo-dooyoung"
+kind = "ep"
+
+names = [
+  { name = "HOUSE PARTY", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "myundo", separator = ", " },
+  { artist-id = "dooyoung" },
+]
+
+[[releases]]
+released-on = "2019-09-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10331912" },
+]

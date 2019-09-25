@@ -1,0 +1,9 @@
+names = [
+  { name = "자강두천", locale = "ko", original = true },
+  { name = "Jagangducheon", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "myundo", separator = ", " },
+  { artist-id = "dooyoung" },
+]
