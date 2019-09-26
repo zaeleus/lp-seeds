@@ -1,0 +1,14 @@
+artist-id = "hoody"
+kind = "single"
+
+names = [
+  { name = "MIRO", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-09-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10331827" },
+]
