@@ -1,0 +1,15 @@
+artist-id = "block-b/park-kyung"
+kind = "single"
+
+names = [
+  { name = "다시 만난 너 OST", locale = "ko", original = true },
+  { name = "Dasi Mannan Neo OST", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10332706" },
+]

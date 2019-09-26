@@ -1,0 +1,13 @@
+medium-ids = [
+  "block-b/park-kyung/dasi-mannan-neo-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "block-b/park-kyung/daman-neo"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "block-b/park-kyung/daman-neo-inst"
+duration = "3:06"
