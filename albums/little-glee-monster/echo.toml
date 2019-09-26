@@ -1,0 +1,16 @@
+artist-id = "little-glee-monster"
+kind = "single"
+
+names = [
+  { name = "ECHO", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-09-25"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.apple.com/jp/album/1478108424" },
+  { url = "https://mora.jp/package/43000001/4547366425949/" },
+  { url = "https://mora.jp/package/43000001/4547366425956/" },
+]

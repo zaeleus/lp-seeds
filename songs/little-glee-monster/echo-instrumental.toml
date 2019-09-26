@@ -1,0 +1,3 @@
+names = [
+  { name = "ECHO -instrumental-", locale = "ja", original = true, default = true },
+]
