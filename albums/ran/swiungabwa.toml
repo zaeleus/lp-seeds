@@ -1,0 +1,15 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "쉬운가봐", locale = "ko", original = true },
+  { name = "Swiungabwa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10331745" },
+]
