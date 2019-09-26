@@ -1,4 +1,5 @@
 names = [
   { name = "물 만난 물고기", locale = "ko", original = true },
   { name = "Mul Mannan Mulgogi", locale = "ko-Latn", default = true },
+  { name = "Fish in the water", locale = "en" },
 ]

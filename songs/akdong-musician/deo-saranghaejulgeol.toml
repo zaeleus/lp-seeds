@@ -1,4 +1,5 @@
 names = [
   { name = "더 사랑해줄걸", locale = "ko", original = true },
   { name = "Deo Saranghaejulgeol", locale = "ko-Latn", default = true },
+  { name = "Should've loved you more", locale = "en" },
 ]

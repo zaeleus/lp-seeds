@@ -1,4 +1,5 @@
 names = [
   { name = "뱃노래", locale = "ko", original = true },
   { name = "Baennorae", locale = "ko-Latn", default = true },
+  { name = "Chantey", locale = "en" },
 ]

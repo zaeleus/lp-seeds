@@ -12,5 +12,6 @@ released-on = "2019-09-25"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
+  { url = "https://play.google.com/music/m/Bgf4iyglcoiro5ojb3idun2qpkq" },
   { url = "https://www.melon.com/album/detail.htm?albumId=10331947" },
 ]
