@@ -1,0 +1,13 @@
+medium-ids = [
+  "jessica/jamdeulgi-jeon-jeonhwahae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jessica/jamdeulgi-jeon-jeonhwahae-feat-giriboy"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "jessica/jamdeulgi-jeon-jeonhwahae-inst"
+duration = "3:39"

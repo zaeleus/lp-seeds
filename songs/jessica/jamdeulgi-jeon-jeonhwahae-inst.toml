@@ -1,0 +1,5 @@
+names = [
+  { name = "잠들기 전 전화해 (Inst.)", locale = "ko", original = true },
+  { name = "Jamdeulgi Jeon Jeonhwahae (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Call Me Before You Sleep (Inst.)", locale = "en" },
+]

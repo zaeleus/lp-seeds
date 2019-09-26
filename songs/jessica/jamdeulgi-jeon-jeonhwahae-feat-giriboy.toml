@@ -1,0 +1,5 @@
+names = [
+  { name = "잠들기 전 전화해 (Feat. 기리보이)", locale = "ko", original = true },
+  { name = "Jamdeulgi Jeon Jeonhwahae (Feat. Giriboy)", locale = "ko-Latn", default = true },
+  { name = "Call Me Before You Sleep (Feat. Giriboy)", locale = "en" },
+]
