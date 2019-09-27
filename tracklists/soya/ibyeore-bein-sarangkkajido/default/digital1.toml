@@ -1,0 +1,13 @@
+medium-ids = [
+  "soya/ibyeore-bein-sarangkkajido/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "soya/ibyeore-bein-sarangkkajido"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "soya/ibyeore-bein-sarangkkajido-inst"
+duration = "3:55"
