@@ -1,0 +1,8 @@
+medium-ids = [
+  "sandy/dolmeng-ee/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sandy/dolmeng-ee"
+duration = "2:59"
