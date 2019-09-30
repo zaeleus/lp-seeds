@@ -1,0 +1,4 @@
+names = [
+  { name = "아르카디아 (Arcadia)", locale = "ko", original = true },
+  { name = "Arcadia", locale = "en", default = true },
+]

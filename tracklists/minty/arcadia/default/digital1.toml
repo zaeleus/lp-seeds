@@ -1,0 +1,18 @@
+medium-ids = [
+  "minty/arcadia/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minty/arcadia"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "minty/ocean"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "minty/areukadia-arcadia-home-demo"
+duration = "4:00"
