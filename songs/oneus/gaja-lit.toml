@@ -1,0 +1,5 @@
+names = [
+  { name = "가자 (LIT)", locale = "ko", original = true },
+  { name = "Gaja (LIT)", locale = "ko-Latn", default = true },
+  { name = "LIT", locale = "en" },
+]

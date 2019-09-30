@@ -1,0 +1,5 @@
+names = [
+  { name = "윙윙윙윙 (Plastic Flower)", locale = "ko", original = true },
+  { name = "Wing Wing Wing Wing (Plastic Flower)", locale = "ko-Latn", default = true },
+  { name = "Plastic Flower", locale = "en" },
+]
