@@ -1,0 +1,13 @@
+medium-ids = [
+  "gilme/wheel-of-fortune/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gilme/nappeun-nom-bad-guy"
+duration = "4:25"
+
+[[tracks]]
+position = 2
+song-id = "gilme/gbb-good-n-bad-boy"
+duration = "3:22"

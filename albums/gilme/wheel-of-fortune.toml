@@ -1,0 +1,14 @@
+artist-id = "gilme"
+kind = "single"
+
+names = [
+  { name = "WHEEL OF FORTUNE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-09-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10333325" },
+]
