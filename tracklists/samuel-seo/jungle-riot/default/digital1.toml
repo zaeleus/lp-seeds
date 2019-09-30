@@ -1,0 +1,8 @@
+medium-ids = [
+  "samuel-seo/jungle-riot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "samuel-seo/jungle-riot"
+duration = "3:17"
