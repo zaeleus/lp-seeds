@@ -1,0 +1,15 @@
+artist-id = "park-ji-yoon"
+kind = "single"
+
+names = [
+  { name = "잊어요", locale = "ko", original = true },
+  { name = "Ijeoyo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10333848" },
+]
