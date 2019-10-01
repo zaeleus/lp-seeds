@@ -1,0 +1,18 @@
+medium-ids = [
+  "purplebeck/dream-line/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "purplebeck/dream-line"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "purplebeck/dream-line-acoustic-ver"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "purplebeck/dream-line-instrumental"
+duration = "3:29"
