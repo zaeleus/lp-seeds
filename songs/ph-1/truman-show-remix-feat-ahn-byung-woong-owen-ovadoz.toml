@@ -1,0 +1,5 @@
+names = [
+  { name = "트루먼 쇼 Remix (Feat. 안병웅, Owen Ovadoz)", locale = "ko", original = true },
+  { name = "Teurumeon Syo Remix (Feat. Ahn Byung Woong, Owen Ovadoz)", locale = "ko-Latn" },
+  { name = "Truman Show Remix (Feat. Ahn Byung Woong, Owen Ovadoz)", locale = "en", default = true },
+]

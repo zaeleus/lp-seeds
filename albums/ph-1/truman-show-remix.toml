@@ -1,0 +1,16 @@
+artist-id = "ph-1"
+kind = "single"
+
+names = [
+  { name = "트루먼 쇼 Remix", locale = "ko", original = true },
+  { name = "Teurumeon Syo Remix", locale = "ko-Latn" },
+  { name = "Truman Show Remix", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10333605" },
+]
