@@ -1,0 +1,15 @@
+artist-id = "killagramz"
+kind = "single"
+
+names = [
+  { name = "춤출 무 (舞)", locale = "ko", original = true },
+  { name = "Chumchul Mu", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10333342" },
+]

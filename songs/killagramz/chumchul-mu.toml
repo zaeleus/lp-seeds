@@ -1,0 +1,4 @@
+names = [
+  { name = "춤출 무 (舞)", locale = "ko", original = true },
+  { name = "Chumchul Mu", locale = "ko-Latn", default = true },
+]
