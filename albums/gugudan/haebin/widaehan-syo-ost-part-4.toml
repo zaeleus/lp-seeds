@@ -1,0 +1,16 @@
+artist-id = "gugudan/haebin"
+kind = "single"
+
+names = [
+  { name = "위대한 쇼 OST Part 4", locale = "ko", original = true },
+  { name = "Widaehan Syo OST Part 4", locale = "ko-Latn", default = true },
+  { name = "The Great Show OST Part 4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-10-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10333873" },
+]

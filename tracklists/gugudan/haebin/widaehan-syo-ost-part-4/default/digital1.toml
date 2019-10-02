@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan/haebin/widaehan-syo-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/haebin/oji-anneun-neol"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/haebin/oji-anneun-neol-inst"
+duration = "3:45"
