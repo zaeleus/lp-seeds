@@ -1,0 +1,4 @@
+names = [
+  { name = "폭풍의 언덕", locale = "ko", original = true },
+  { name = "Pokpungui Eondeok", locale = "ko-Latn", default = true },
+]

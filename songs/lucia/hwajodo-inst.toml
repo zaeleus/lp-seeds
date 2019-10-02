@@ -1,0 +1,4 @@
+names = [
+  { name = "화조도 花鳥圖 (inst.)", locale = "ko", original = true },
+  { name = "Hwajodo (inst.)", locale = "ko-Latn", default = true },
+]

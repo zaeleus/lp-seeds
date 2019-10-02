@@ -1,0 +1,63 @@
+medium-ids = [
+  "lucia/hwansangsogokjip-op-2-aria/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucia/seogyangsanchaek"
+duration = "4:27"
+
+[[tracks]]
+position = 2
+song-id = "lucia/hwajodo"
+duration = "5:57"
+
+[[tracks]]
+position = 3
+song-id = "lucia/pokpungui-eondeok"
+duration = "4:33"
+
+[[tracks]]
+position = 4
+song-id = "lucia/badasaeui-norae"
+duration = "4:49"
+
+[[tracks]]
+position = 5
+song-id = "lucia/domino"
+duration = "5:05"
+
+[[tracks]]
+position = 6
+song-id = "lucia/eoritgwangdaereul-bonaejuo"
+duration = "6:07"
+
+[[tracks]]
+position = 7
+song-id = "lucia/seogyangsanchaek-inst"
+duration = "4:27"
+
+[[tracks]]
+position = 8
+song-id = "lucia/hwajodo-inst"
+duration = "5:57"
+
+[[tracks]]
+position = 9
+song-id = "lucia/pokpungui-eondeok-inst"
+duration = "4:33"
+
+[[tracks]]
+position = 10
+song-id = "lucia/badasaeui-norae-inst"
+duration = "4:24"
+
+[[tracks]]
+position = 11
+song-id = "lucia/domino-inst"
+duration = "5:05"
+
+[[tracks]]
+position = 12
+song-id = "lucia/eoritgwangdaereul-bonaejuo-inst"
+duration = "6:07"
