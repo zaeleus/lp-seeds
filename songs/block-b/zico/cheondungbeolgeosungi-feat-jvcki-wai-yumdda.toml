@@ -1,0 +1,5 @@
+names = [
+  { name = "천둥벌거숭이 (Feat. Jvcki Wai, 염따)", locale = "ko", original = true },
+  { name = "Cheondungbeolgeosungi (Feat. Jvcki Wai, YUMDDA)", locale = "ko-Latn", default = true },
+  { name = "Daredevil (Feat. Jvcki Wai, YUMDDA)", locale = "en" },
+]

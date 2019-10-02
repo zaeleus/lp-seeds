@@ -1,0 +1,28 @@
+medium-ids = [
+  "block-b/zico/thinking-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "block-b/zico/cheondungbeolgeosungi-feat-jvcki-wai-yumdda"
+duration = "4:13"
+
+[[tracks]]
+position = 2
+song-id = "block-b/zico/gyaen-aniya"
+duration = "3:38"
+
+[[tracks]]
+position = 3
+song-id = "block-b/zico/saram"
+duration = "3:58"
+
+[[tracks]]
+position = 4
+song-id = "block-b/zico/geuk"
+duration = "2:28"
+
+[[tracks]]
+position = 5
+song-id = "block-b/zico/one-man-show-feat-sik-k"
+duration = "4:05"
