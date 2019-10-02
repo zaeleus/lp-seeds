@@ -1,0 +1,13 @@
+medium-ids = [
+  "pony/divine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pony/divine"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "pony/divine-inst"
+duration = "3:14"
