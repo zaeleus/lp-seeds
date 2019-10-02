@@ -1,0 +1,13 @@
+medium-ids = [
+  "migyo/dallineun-josagwan-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "migyo/jebikkot"
+duration = "4:31"
+
+[[tracks]]
+position = 2
+song-id = "migyo/jebikkot-inst"
+duration = "4:31"
