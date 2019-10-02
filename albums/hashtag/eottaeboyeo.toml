@@ -1,0 +1,15 @@
+artist-id = "hashtag"
+kind = "single"
+
+names = [
+  { name = "어때보여", locale = "ko", original = true },
+  { name = "Eottaeboyeo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10334200" },
+]
