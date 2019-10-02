@@ -1,0 +1,13 @@
+medium-ids = [
+  "jinsil/jinsil-x-nau/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jinsil/saraganda"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "jinsil/saraganda-inst"
+duration = "3:22"
