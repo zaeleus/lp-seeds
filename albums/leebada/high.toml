@@ -1,0 +1,15 @@
+artist-id = "leebada"
+kind = "single"
+
+names = [
+  { name = "ㅎㅇ", locale = "ko", original = true },
+  { name = "High", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-09-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10333871" },
+]
