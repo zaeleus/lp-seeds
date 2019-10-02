@@ -1,0 +1,3 @@
+names = [
+  { name = "humidity (guitar by clementine green)", locale = "ko", original = true, default = true },
+]
