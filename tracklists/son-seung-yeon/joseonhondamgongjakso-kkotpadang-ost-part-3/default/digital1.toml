@@ -1,0 +1,13 @@
+medium-ids = [
+  "son-seung-yeon/joseonhondamgongjakso-kkotpadang-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "son-seung-yeon/gaegiilsik"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "son-seung-yeon/gaegiilsik-inst"
+duration = "3:23"

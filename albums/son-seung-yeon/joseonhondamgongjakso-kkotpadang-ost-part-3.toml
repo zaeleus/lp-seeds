@@ -1,0 +1,16 @@
+artist-id = "son-seung-yeon"
+kind = "single"
+
+names = [
+  { name = "조선혼담공작소 꽃파당 OST Part.3", locale = "ko", original = true },
+  { name = "Joseonhondamgongjakso Kkotpadang OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Flower Crew: Joseon Marriage Agency OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-10-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10334125" },
+]
