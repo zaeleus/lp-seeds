@@ -1,0 +1,13 @@
+medium-ids = [
+  "april/eojjeoda-balgyeonhan-haru-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "april/feeling"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "april/feeling-inst"
+duration = "3:08"
