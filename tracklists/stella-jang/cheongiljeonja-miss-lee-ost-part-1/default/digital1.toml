@@ -1,0 +1,13 @@
+medium-ids = [
+  "stella-jang/cheongiljeonja-miss-lee-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stella-jang/eohang"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "stella-jang/eohang-inst"
+duration = "3:22"

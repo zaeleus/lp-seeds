@@ -1,0 +1,16 @@
+artist-id = "stella-jang"
+kind = "single"
+
+names = [
+  { name = "청일전자 미쓰리 OST Part 1", locale = "ko", original = true },
+  { name = "Cheongiljeonja Miss Lee OST Part 1", locale = "ko-Latn", default = true },
+  { name = "Miss Lee OST Part 1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-10-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10334640" },
+]
