@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1987-10-16"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "스테파니", locale = "ko", kind = "stage", original = true },
+  { name = "STEPHANIE", locale = "en", kind = "stage", default = true },
+]

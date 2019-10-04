@@ -1,0 +1,13 @@
+medium-ids = [
+  "stephanie/say-it/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stephanie/say-it-feat-lina"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "stephanie/say-it-inst"
+duration = "3:50"

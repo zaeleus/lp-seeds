@@ -1,0 +1,4 @@
+names = [
+  { name = "Say It  (feat. 린아)", locale = "ko", original = true },
+  { name = "Say It  (feat. LINA)", locale = "ko-Latn", default = true },
+]
