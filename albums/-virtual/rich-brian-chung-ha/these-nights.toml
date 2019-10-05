@@ -1,0 +1,19 @@
+artist-id = "-virtual/rich-brian-chung-ha"
+kind = "single"
+
+names = [
+  { name = "These Nights", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "rich-brian", separator = " & " },
+  { artist-id = "chung-ha" },
+]
+
+[[releases]]
+released-on = "2019-10-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10334702" },
+]

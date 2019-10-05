@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1999-09-03"
+country = "ID"
+gender = "male"
+
+names = [
+  { name = "Rich Brian", locale = "id", kind = "stage", original = true, default = true },
+  { name = "Rich Chigga", locale = "id", kind = "stage" },
+  { name = "Brian Imanuel Soewarno", locale = "id", kind = "real" },
+]

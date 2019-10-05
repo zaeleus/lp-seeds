@@ -1,0 +1,8 @@
+names = [
+  { name = "These Nights", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "rich-brian", separator = " & " },
+  { artist-id = "chung-ha" },
+]
