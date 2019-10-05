@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1990-12-14"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "비범", locale = "ko", kind = "stage", original = true },
+  { name = "B-Bomb", locale = "en", kind = "stage", default = true },
+  { name = "이민혁", locale = "ko", kind = "real" },
+  { name = "Lee Min Hyuk", locale = "ko-Latn", kind = "real" },
+]
