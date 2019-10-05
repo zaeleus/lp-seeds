@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-ki-young/magic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-ki-young/magic"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "park-ki-young/magic-inst"
+duration = "3:49"
