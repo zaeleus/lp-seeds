@@ -1,0 +1,38 @@
+medium-ids = [
+  "superm/superm/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "superm/jopping"
+duration = "4:12"
+
+[[tracks]]
+position = 2
+song-id = "superm/i-can-t-stand-the-rain"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "superm/2-fast"
+duration = "3:01"
+
+[[tracks]]
+position = 4
+song-id = "superm/super-car"
+duration = "3:35"
+
+[[tracks]]
+position = 5
+song-id = "superm/no-manners"
+duration = "3:04"
+
+[[tracks]]
+position = 6
+song-id = "superm/jopping-inst"
+duration = "4:12"
+
+[[tracks]]
+position = 7
+song-id = "superm/i-can-t-stand-the-rain-inst"
+duration = "3:29"
