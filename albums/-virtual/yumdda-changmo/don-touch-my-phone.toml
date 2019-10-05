@@ -1,0 +1,21 @@
+artist-id = "-virtual/yumdda-changmo"
+kind = "ep"
+
+names = [
+  { name = "돈 Touch My Phone", locale = "ko", original = true },
+  { name = "Don Touch My Phone", locale = "ko-Latn", default = true },
+  { name = "Don't Touch My Phone", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "yumdda", separator = ", " },
+  { artist-id = "changmo" },
+]
+
+[[releases]]
+released-on = "2019-10-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10335429" },
+]

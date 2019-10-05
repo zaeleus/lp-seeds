@@ -1,0 +1,18 @@
+medium-ids = [
+  "-virtual/yumdda-changmo/don-touch-my-phone/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/yumdda-changmo/4-times"
+duration = "2:51"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/yumdda-changmo/don-t-touch-my-phone-feat-zoorumpug"
+duration = "3:53"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/yumdda-changmo/doraga"
+duration = "2:45"

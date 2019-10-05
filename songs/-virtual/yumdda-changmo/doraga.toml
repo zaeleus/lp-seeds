@@ -1,0 +1,9 @@
+names = [
+  { name = "돌아가", locale = "ko", original = true },
+  { name = "Doraga", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "yumdda", separator = ", " },
+  { artist-id = "changmo" },
+]

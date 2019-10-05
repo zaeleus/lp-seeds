@@ -1,0 +1,8 @@
+names = [
+  { name = "Don't Touch My Phone (Feat. Zoorumpug)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "yumdda", separator = ", " },
+  { artist-id = "changmo" },
+]
