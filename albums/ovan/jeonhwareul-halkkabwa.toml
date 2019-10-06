@@ -1,0 +1,15 @@
+artist-id = "ovan"
+kind = "single"
+
+names = [
+  { name = "전화를 할까봐", locale = "ko", original = true },
+  { name = "Jeonhwareul Halkkabwa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10335546" },
+]
