@@ -1,0 +1,28 @@
+medium-ids = [
+  "onf/go-live/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "onf/why"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "onf/sohaengseong-asteroid"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "onf/eok-x-eok-all-day"
+duration = "3:16"
+
+[[tracks]]
+position = 4
+song-id = "onf/moscow-moscow"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "onf/twinkle-twinkle"
+duration = "3:19"

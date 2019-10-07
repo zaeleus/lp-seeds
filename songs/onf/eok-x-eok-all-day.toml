@@ -1,0 +1,5 @@
+names = [
+  { name = "억x억 (All Day)", locale = "ko", original = true },
+  { name = "Eok x Eok (All Day)", locale = "ko-Latn", default = true },
+  { name = "All Day", locale = "en" },
+]
