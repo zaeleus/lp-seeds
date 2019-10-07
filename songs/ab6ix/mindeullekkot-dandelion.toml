@@ -1,0 +1,5 @@
+names = [
+  { name = "민들레꽃 (DANDELION)", locale = "ko", original = true },
+  { name = "Mindeullekkot (DANDELION)", locale = "ko-Latn", default = true },
+  { name = "DANDILION", locale = "en" },
+]

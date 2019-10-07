@@ -1,0 +1,5 @@
+names = [
+  { name = "기대 (BE THERE)", locale = "ko", original = true },
+  { name = "Gidae (BE THERE)", locale = "ko-Latn", default = true },
+  { name = "BE THERE", locale = "en" },
+]

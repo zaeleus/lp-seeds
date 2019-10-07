@@ -1,0 +1,5 @@
+names = [
+  { name = "이쁨이 지나치면 죄야 죄 (PRETTY)", locale = "ko", original = true },
+  { name = "Ippeumi Jinachimyeon Joeya Joe (PRETTY)", locale = "ko-Latn", default = true },
+  { name = "PRETTY", locale = "en" },
+]
