@@ -1,0 +1,15 @@
+artist-id = "paul-kim"
+kind = "ep"
+
+names = [
+  { name = "정규 2집 '마음, 하나'", locale = "ko", original = true },
+  { name = "Jeonggyu 2-jip 'Maeum, Hana'", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10335933" },
+]

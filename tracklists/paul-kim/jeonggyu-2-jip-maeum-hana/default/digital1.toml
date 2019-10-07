@@ -1,0 +1,28 @@
+medium-ids = [
+  "paul-kim/jeonggyu-2-jip-maeum-hana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "paul-kim/new-day"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "paul-kim/mannabollaeyo"
+duration = "3:27"
+
+[[tracks]]
+position = 3
+song-id = "paul-kim/heojeonhae"
+duration = "3:54"
+
+[[tracks]]
+position = 4
+song-id = "paul-kim/young-selfish"
+duration = "3:48"
+
+[[tracks]]
+position = 5
+song-id = "paul-kim/nareul-saranghaji-anneun-naege"
+duration = "4:41"
