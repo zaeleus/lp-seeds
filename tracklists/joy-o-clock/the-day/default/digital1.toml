@@ -1,0 +1,13 @@
+medium-ids = [
+  "joy-o-clock/the-day/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "joy-o-clock/the-day-solo-dason"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "joy-o-clock/the-day-inst"
+duration = "3:40"
