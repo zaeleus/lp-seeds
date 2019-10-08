@@ -1,0 +1,13 @@
+medium-ids = [
+  "maydoni/danimamdaerohae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "maydoni/danimamdaerohae"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "maydoni/danimamdaerohae-inst"
+duration = "3:16"
