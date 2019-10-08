@@ -1,0 +1,11 @@
+names = [
+  { name = "이 비 (雨)", locale = "ko", original = true },
+  { name = "I Bi", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "lovelyz/kim-ji-yeon"
+names = [
+  { name = "김지연", locale = "ko", original = true },
+  { name = "Kim Ji Yeon", locale = "ko-Latn", default = true },
+]

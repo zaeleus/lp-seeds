@@ -1,0 +1,10 @@
+names = [
+  { name = "Cry", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "lovelyz/kim-ji-yeon"
+names = [
+  { name = "김지연", locale = "ko", original = true },
+  { name = "Kim Ji Yeon", locale = "ko-Latn", default = true },
+]
