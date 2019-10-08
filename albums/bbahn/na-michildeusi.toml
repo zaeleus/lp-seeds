@@ -1,0 +1,15 @@
+artist-id = "bbahn"
+kind = "single"
+
+names = [
+  { name = "나 미칠듯이", locale = "ko", original = true },
+  { name = "Na Michildeusi", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10335798" },
+]

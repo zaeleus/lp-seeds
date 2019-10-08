@@ -1,0 +1,13 @@
+medium-ids = [
+  "bbahn/na-michildeusi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bbahn/na-michildeusi"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "bbahn/na-michildeusi-inst"
+duration = "3:17"
