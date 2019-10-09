@@ -1,0 +1,16 @@
+artist-id = "verivery"
+kind = "single"
+
+names = [
+  { name = "어쩌다 발견한 하루 OST Part.2", locale = "ko", original = true },
+  { name = "Eojjeoda Balgyeonhan Haru OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Extraordinary You OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-10-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10336254" },
+]

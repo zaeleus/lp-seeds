@@ -1,0 +1,13 @@
+medium-ids = [
+  "verivery/eojjeoda-balgyeonhan-haru-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "verivery/my-beauty"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "verivery/my-beauty-inst"
+duration = "3:52"
