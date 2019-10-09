@@ -7,3 +7,7 @@ names = [
   { name = "에이비식스", locale = "ko", original = true },
   { name = "AB6IX", locale = "en", default = true },
 ]
+
+urls = [
+  { url = "http://www.brandnewmusic.co.kr/portfolio-item/ab6ix/" },
+]
