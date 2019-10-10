@@ -1,0 +1,14 @@
+artist-id = "moonc"
+kind = "single"
+
+names = [
+  { name = "NOMEAN", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-10-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10336532" },
+]
