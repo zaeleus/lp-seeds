@@ -1,0 +1,13 @@
+medium-ids = [
+  "mad-soul-child/jinsil/jinsil-x-nau/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mad-soul-child/jinsil/saraganda"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "mad-soul-child/jinsil/saraganda-inst"
+duration = "3:22"
