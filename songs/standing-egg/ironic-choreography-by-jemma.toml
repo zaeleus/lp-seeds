@@ -1,0 +1,3 @@
+names = [
+  { name = "Ironic (choreography by JEMMA)", locale = "ko", original = true, default = true },
+]
