@@ -1,0 +1,8 @@
+medium-ids = [
+  "girls-generation/tiffany/run-for-your-life/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/tiffany/run-for-your-life"
+duration = "2:45"
