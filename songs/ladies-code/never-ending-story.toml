@@ -1,0 +1,3 @@
+names = [
+  { name = "NEVER ENDING STORY", locale = "ko", original = true, default = true },
+]
