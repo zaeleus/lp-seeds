@@ -1,0 +1,14 @@
+artist-id = "monsta-x"
+kind = "single"
+
+names = [
+  { name = "SOMEONE'S SOMEONE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-10-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10334950" },
+]

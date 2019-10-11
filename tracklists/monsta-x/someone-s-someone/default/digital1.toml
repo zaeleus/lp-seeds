@@ -1,0 +1,8 @@
+medium-ids = [
+  "monsta-x/someone-s-someone/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "monsta-x/someone-s-someone"
+duration = "2:22"
