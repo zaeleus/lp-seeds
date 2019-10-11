@@ -1,0 +1,13 @@
+medium-ids = [
+  "baek-a-yeon/vagabond-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "baek-a-yeon/hello-my-lover"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "baek-a-yeon/hello-my-lover-inst"
+duration = "3:15"

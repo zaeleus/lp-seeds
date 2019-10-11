@@ -1,0 +1,16 @@
+artist-id = "baek-a-yeon"
+kind = "single"
+
+names = [
+  { name = "배가본드 OST Part.4", locale = "ko", original = true },
+  { name = "Baegabondeu OST Part.4", locale = "ko-Latn" },
+  { name = "Vagabond OST Part.4", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10337387" },
+]
