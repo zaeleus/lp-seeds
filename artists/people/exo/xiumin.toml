@@ -5,7 +5,7 @@ gender = "male"
 
 names = [
   { name = "시우민", locale = "ko", kind = "stage", original = true },
-  { name = "Xiumin", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "XIUMIN", locale = "ko-Latn", kind = "stage", default = true },
   { name = "김민석", locale = "ko", kind = "real" },
   { name = "Kim Min Suk", locale = "ko-Latn", kind = "real" },
 ]

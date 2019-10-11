@@ -5,7 +5,7 @@ gender = "male"
 
 names = [
   { name = "수호", locale = "ko", kind = "stage", original = true },
-  { name = "Suho", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "SUHO", locale = "ko-Latn", kind = "stage", default = true },
   { name = "김준면", locale = "ko", kind = "real" },
   { name = "Kim Jun Myeon", locale = "ko-Latn", kind = "real" },
 ]

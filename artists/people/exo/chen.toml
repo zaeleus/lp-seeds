@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "첸", locale = "ko", kind = "stage", original = true },
-  { name = "Chen", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "CHEN", locale = "ko-Latn", kind = "stage", default = true },
   { name = "김종대", locale = "ko", kind = "real" },
   { name = "Kim Jong Dae", locale = "ko-Latn", kind = "real" },
 ]
