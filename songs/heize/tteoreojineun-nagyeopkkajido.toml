@@ -1,0 +1,5 @@
+names = [
+  { name = "떨어지는 낙엽까지도", locale = "ko", original = true },
+  { name = "Tteoreojineun Nagyeopkkajido", locale = "ko-Latn", default = true },
+  { name = "Falling Leaves are Beautiful", locale = "en" },
+]

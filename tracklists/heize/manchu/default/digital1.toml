@@ -1,0 +1,33 @@
+medium-ids = [
+  "heize/manchu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heize/tteoreojineun-nagyeopkkajido"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "heize/manchu-feat-crush"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "heize/ilgi"
+duration = "4:11"
+
+[[tracks]]
+position = 4
+song-id = "heize/daum-feat-colde"
+duration = "3:48"
+
+[[tracks]]
+position = 5
+song-id = "heize/eolgo-isseo"
+duration = "3:34"
+
+[[tracks]]
+position = 6
+song-id = "heize/missed-call"
+duration = "1:46"
