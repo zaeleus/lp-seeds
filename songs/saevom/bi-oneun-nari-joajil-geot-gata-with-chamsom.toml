@@ -1,0 +1,4 @@
+names = [
+  { name = "비 오는 날이 좋아질 것 같아 (With 참깨와 솜사탕)", locale = "ko", original = true },
+  { name = "Bi Oneun Nari Joajil Geot Gata (With Chamsom)", locale = "ko-Latn", default = true },
+]
