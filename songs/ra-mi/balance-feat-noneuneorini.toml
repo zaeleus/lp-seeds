@@ -1,0 +1,4 @@
+names = [
+  { name = "BALANCE (feat. 노는어린이)", locale = "ko", original = true },
+  { name = "BALANCE (feat. Noneuneorini)", locale = "ko-Latn", default = true },
+]

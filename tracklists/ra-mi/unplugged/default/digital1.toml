@@ -1,0 +1,28 @@
+medium-ids = [
+  "ra-mi/unplugged/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ra-mi/gloomy-day-unplugged-ver"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "ra-mi/too-see"
+duration = "2:54"
+
+[[tracks]]
+position = 3
+song-id = "ra-mi/balance-feat-noneuneorini"
+duration = "3:08"
+
+[[tracks]]
+position = 4
+song-id = "ra-mi/oneul-bameun-gajima-with-musigner"
+duration = "3:53"
+
+[[tracks]]
+position = 5
+song-id = "ra-mi/gireul-ireosseo-unplugged-ver"
+duration = "3:31"

@@ -1,0 +1,4 @@
+names = [
+  { name = "오늘 밤은 가지마 (With MUSIGNER)", locale = "ko", original = true },
+  { name = "Oneul Bameun Gajima (With MUSIGNER)", locale = "ko-Latn", default = true },
+]

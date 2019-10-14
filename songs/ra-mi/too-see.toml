@@ -1,0 +1,5 @@
+names = [
+  { name = "투시 (Too See)", locale = "ko", original = true },
+  { name = "Tusi (Too See)", locale = "ko-Latn" },
+  { name = "Too See", locale = "en", default = true },
+]
