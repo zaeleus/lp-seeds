@@ -1,0 +1,4 @@
+names = [
+  { name = "호랑이소굴 (Feat. Jvcki Wai)", locale = "ko", original = true },
+  { name = "Horangisogul (Feat. Jvcki Wai)", locale = "ko-Latn", default = true },
+]

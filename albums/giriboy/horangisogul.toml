@@ -1,0 +1,15 @@
+artist-id = "giriboy"
+kind = "single"
+
+names = [
+  { name = "호랑이소굴", locale = "ko", original = true },
+  { name = "Horangisogul", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10337675" },
+]
