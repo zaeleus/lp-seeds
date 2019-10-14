@@ -1,0 +1,13 @@
+medium-ids = [
+  "cosmic-girls/yeon-jung/nal-nogyeojuo-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cosmic-girls/yeon-jung/kkok-malhaejwo"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "cosmic-girls/yeon-jung/kkok-malhaejwo-inst"
+duration = "3:13"
