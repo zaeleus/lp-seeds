@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2005"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "슈퍼주니어", locale = "ko", original = true },
+  { name = "SUPER JUNIOR", locale = "ko-Latn", default = true },
+]
