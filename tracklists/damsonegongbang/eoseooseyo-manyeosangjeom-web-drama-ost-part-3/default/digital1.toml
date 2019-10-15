@@ -1,0 +1,13 @@
+medium-ids = [
+  "damsonegongbang/eoseooseyo-manyeosangjeom-web-drama-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "damsonegongbang/malhaejwo"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "damsonegongbang/malhaejwo-inst"
+duration = "3:22"
