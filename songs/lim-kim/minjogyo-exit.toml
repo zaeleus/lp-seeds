@@ -1,0 +1,5 @@
+names = [
+  { name = "민족요 (EXIT)", locale = "ko", original = true },
+  { name = "Minjogyo (EXIT)", locale = "ko-Latn", default = true },
+  { name = "EXIT", locale = "en" },
+]
