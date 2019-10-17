@@ -1,0 +1,28 @@
+medium-ids = [
+  "blackpink/kill-this-love-jp-ver/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "blackpink/kill-this-love-jp-ver"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "blackpink/don-t-know-what-to-do-jp-ver"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "blackpink/kick-it-jp-ver"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song-id = "blackpink/hope-not-jp-ver"
+duration = "3:11"
+
+[[tracks]]
+position = 5
+song-id = "blackpink/ddu-du-ddu-du-remix-jp-ver"
+duration = "3:21"

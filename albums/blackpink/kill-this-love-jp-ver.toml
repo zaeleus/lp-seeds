@@ -1,0 +1,15 @@
+artist-id = "blackpink"
+kind = "ep"
+
+names = [
+  { name = "KILL THIS LOVE -JP Ver.-", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-10-16"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.apple.com/jp/album/1482719359" },
+  { url = "https://mora.jp/package/43000006/00602508342585/" },
+]
