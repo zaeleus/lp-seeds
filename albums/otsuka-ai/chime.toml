@@ -1,0 +1,14 @@
+artist-id = "otsuka-ai"
+kind = "single"
+
+names = [
+  { name = "Chime", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-09-04"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://mora.jp/package/43000002/ANTCD-A0000000157_F/" },
+]

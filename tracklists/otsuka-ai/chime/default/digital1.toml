@@ -1,0 +1,23 @@
+medium-ids = [
+  "otsuka-ai/chime/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "otsuka-ai/chime"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "otsuka-ai/kit-palette"
+duration = "3:54"
+
+[[tracks]]
+position = 3
+song-id = "otsuka-ai/xox"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song-id = "otsuka-ai/damedameda"
+duration = "3:19"

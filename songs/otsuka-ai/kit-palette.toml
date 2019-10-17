@@ -1,0 +1,3 @@
+names = [
+  { name = "kit palette", locale = "ja", original = true, default = true },
+]
