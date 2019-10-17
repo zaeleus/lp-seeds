@@ -1,0 +1,8 @@
+medium-ids = [
+  "gray/gieokhae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gray/gieokhae"
+duration = "3:27"
