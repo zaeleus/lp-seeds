@@ -1,0 +1,10 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "원더나인", locale = "ko", original = true },
+  { name = "Wondeonain", locale = "ko-Latn" },
+  { name = "1THE9", locale = "en", default = true },
+]
