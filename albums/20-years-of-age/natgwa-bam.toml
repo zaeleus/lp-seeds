@@ -1,0 +1,15 @@
+artist-id = "20-years-of-age"
+kind = "ep"
+
+names = [
+  { name = "낮과 밤", locale = "ko", original = true },
+  { name = "Natgwa Bam", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10339566" },
+]
