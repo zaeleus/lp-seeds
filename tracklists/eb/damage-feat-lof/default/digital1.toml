@@ -1,0 +1,8 @@
+medium-ids = [
+  "eb/damage-feat-lof/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eb/damage-feat-lof"
+duration = "3:34"
