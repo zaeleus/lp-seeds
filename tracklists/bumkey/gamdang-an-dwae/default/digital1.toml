@@ -1,0 +1,13 @@
+medium-ids = [
+  "bumkey/gamdang-an-dwae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bumkey/gamdang-an-dwae"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "bumkey/gamdang-an-dwae-inst"
+duration = "3:15"
