@@ -1,0 +1,18 @@
+medium-ids = [
+  "jung-seung-hwan/naui-nara-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-seung-hwan/geugeon-neoinikka"
+duration = "4:16"
+
+[[tracks]]
+position = 2
+song-id = "jung-seung-hwan/wild-road"
+duration = "4:22"
+
+[[tracks]]
+position = 3
+song-id = "jung-seung-hwan/remember-feat-seoho"
+duration = "3:55"
