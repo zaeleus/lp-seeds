@@ -1,0 +1,15 @@
+artist-id = "migyo"
+kind = "single"
+
+names = [
+  { name = "단 하루라도 나로 살아보면", locale = "ko", original = true },
+  { name = "Dan Harurado Naro Sarabomyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10340511" },
+]
