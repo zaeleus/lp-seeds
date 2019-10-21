@@ -1,0 +1,15 @@
+artist-id = "joo-ye-in"
+kind = "single"
+
+names = [
+  { name = "널 마주친 밤", locale = "ko", original = true },
+  { name = "Neol Majuchin Bam", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10340986" },
+]
