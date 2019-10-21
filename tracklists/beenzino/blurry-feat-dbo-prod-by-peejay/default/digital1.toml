@@ -1,0 +1,13 @@
+medium-ids = [
+  "beenzino/blurry-feat-dbo-prod-by-peejay/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "beenzino/blurry-feat-dbo-prod-by-peejay"
+duration = "4:18"
+
+[[tracks]]
+position = 2
+song-id = "beenzino/blurry-feat-dbo-prod-by-peejay-inst"
+duration = "4:18"
