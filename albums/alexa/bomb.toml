@@ -1,0 +1,14 @@
+artist-id = "alexa"
+kind = "single"
+
+names = [
+  { name = "Bomb", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-10-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10340624" },
+]

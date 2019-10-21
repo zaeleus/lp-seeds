@@ -1,0 +1,18 @@
+medium-ids = [
+  "alexa/bomb/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "alexa/bomb-korean-ver"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "alexa/bomb-english-ver"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "alexa/bomb-instrument"
+duration = "3:24"
