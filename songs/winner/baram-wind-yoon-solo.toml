@@ -1,0 +1,5 @@
+names = [
+  { name = "바람 (WIND) (YOON SOLO)", locale = "ko", original = true },
+  { name = "Baram (WIND) (YOON SOLO)", locale = "ko-Latn", default = true },
+  { name = "WIND (YOON SOLO)", locale = "en" },
+]

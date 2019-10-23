@@ -1,0 +1,5 @@
+names = [
+  { name = "끄덕끄덕 (DON'T BE SHY)", locale = "ko", original = true },
+  { name = "Kkeudeok Kkeudeok (DON'T BE SHY)", locale = "ko-Latn", default = true },
+  { name = "DON'T BE SHY", locale = "en" },
+]

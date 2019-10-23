@@ -1,0 +1,5 @@
+names = [
+  { name = "빼입어 (DRESS UP)", locale = "ko", original = true },
+  { name = "Ppaeibeo (DRESS UP)", locale = "ko-Latn", default = true },
+  { name = "DRESS UP", locale = "en" },
+]
