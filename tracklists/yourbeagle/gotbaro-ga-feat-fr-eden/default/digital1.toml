@@ -1,0 +1,8 @@
+medium-ids = [
+  "yourbeagle/gotbaro-ga-feat-fr-eden/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/gotbaro-ga-feat-fr-eden"
+duration = "3:40"

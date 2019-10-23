@@ -1,0 +1,4 @@
+names = [
+  { name = "곧바로 가 (Feat. FR:EDEN)", locale = "ko", original = true },
+  { name = "Gotbaro Ga (Feat. FR:EDEN)", locale = "ko-Latn", default = true },
+]
