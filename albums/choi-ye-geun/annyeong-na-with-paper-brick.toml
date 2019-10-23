@@ -1,0 +1,15 @@
+artist-id = "choi-ye-geun"
+kind = "single"
+
+names = [
+  { name = "안녕, 나 (With Paper Brick)", locale = "ko", original = true },
+  { name = "Annyeong, Na (With Paper Brick)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10342116" },
+]
