@@ -1,0 +1,33 @@
+medium-ids = [
+  "nu-est/the-table/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nu-est/call-me-back"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "nu-est/love-me"
+duration = "3:04"
+
+[[tracks]]
+position = 3
+song-id = "nu-est/one-two-three"
+duration = "3:24"
+
+[[tracks]]
+position = 4
+song-id = "nu-est/trust-me"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song-id = "nu-est/bamsae"
+duration = "3:36"
+
+[[tracks]]
+position = 6
+song-id = "nu-est/uriga-saranghaetdamyeon"
+duration = "3:08"
