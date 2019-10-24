@@ -4,5 +4,7 @@ country = "KR"
 gender = "male"
 
 names = [
-  { name = "NU'EST", locale = "ko", original = true, default = true },
+  { name = "뉴이스트", locale = "ko", original = true },
+  { name = "NU'EST", locale = "en", default = true },
+  { name = "New Establish Style Tempo", locale = "en" },
 ]
