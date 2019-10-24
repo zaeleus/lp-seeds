@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "아리아즈", locale = "ko", original = true },
+  { name = "ARIAZ", locale = "en", default = true },
+]

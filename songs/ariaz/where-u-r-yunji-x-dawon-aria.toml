@@ -1,0 +1,4 @@
+names = [
+  { name = "Where U R (윤지X다원 Aria)", locale = "ko", original = true },
+  { name = "Where U R (Yunji X Dawon Aria)", locale = "ko-Latn", default = true },
+]

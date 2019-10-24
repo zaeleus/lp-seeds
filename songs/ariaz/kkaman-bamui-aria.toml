@@ -1,0 +1,5 @@
+names = [
+  { name = "까만 밤의 아리아", locale = "ko", original = true },
+  { name = "Kkaman Bamui Aria", locale = "ko-Latn", default = true },
+  { name = "Moonlight Aria", locale = "en" },
+]
