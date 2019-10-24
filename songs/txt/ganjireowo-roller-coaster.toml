@@ -1,0 +1,5 @@
+names = [
+  { name = "간지러워 (Roller Coaster)", locale = "ko", original = true },
+  { name = "Ganjireowo (Roller Coaster)", locale = "ko-Latn", default = true },
+  { name = "Roller Coaster", locale = "en" },
+]

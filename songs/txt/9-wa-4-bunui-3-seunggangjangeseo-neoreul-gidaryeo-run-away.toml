@@ -1,0 +1,5 @@
+names = [
+  { name = "9와 4분의 3 승강장에서 너를 기다려 (Run Away)", locale = "ko", original = true },
+  { name = "9-wa 4-bunui 3 Seunggangjangeseo Neoreul Gidaryeo (Run Away)", locale = "ko-Latn", default = true },
+  { name = "9 and Three Quarters (Run Away)", locale = "en" },
+]

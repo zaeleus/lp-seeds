@@ -1,0 +1,4 @@
+names = [
+  { name = "그냥 괴물을 살려두면 안 되는 걸까", locale = "ko", original = true },
+  { name = "Geunyang Goemureul Sallyeodumyeon an Doeneun Geolkka", locale = "ko-Latn", default = true },
+]
