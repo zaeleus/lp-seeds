@@ -1,0 +1,18 @@
+medium-ids = [
+  "produce-x-101/produce-x-101-final/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "produce-x-101/sonyeonmi"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "produce-x-101/to-my-world"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "produce-x-101/kkumeul-kkunda-dream-for-you"
+duration = "3:48"
