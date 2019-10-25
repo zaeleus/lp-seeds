@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheon-dan-bi/gwaenchanajineun-beop/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheon-dan-bi/gwaenchanajineun-beop"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "cheon-dan-bi/gwaenchanajineun-beop-inst"
+duration = "3:35"

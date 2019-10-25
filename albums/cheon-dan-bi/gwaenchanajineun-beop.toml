@@ -1,0 +1,15 @@
+artist-id = "cheon-dan-bi"
+kind = "single"
+
+names = [
+  { name = "괜찮아지는 법", locale = "ko", original = true },
+  { name = "Gwaenchanajineun Beop", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10343409" },
+]
