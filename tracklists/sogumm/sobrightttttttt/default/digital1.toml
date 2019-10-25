@@ -1,0 +1,63 @@
+medium-ids = [
+  "sogumm/sobrightttttttt/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sogumm/kill-me"
+duration = "2:43"
+
+[[tracks]]
+position = 2
+song-id = "sogumm/dance"
+duration = "1:52"
+
+[[tracks]]
+position = 3
+song-id = "sogumm/badbadbad"
+duration = "2:28"
+
+[[tracks]]
+position = 4
+song-id = "sogumm/delicious"
+duration = "2:10"
+
+[[tracks]]
+position = 5
+song-id = "sogumm/museun-barami-bureonna"
+duration = "2:34"
+
+[[tracks]]
+position = 6
+song-id = "sogumm/more-love"
+duration = "2:34"
+
+[[tracks]]
+position = 7
+song-id = "sogumm/stand-alone"
+duration = "0:58"
+
+[[tracks]]
+position = 8
+song-id = "sogumm/kimchisoup"
+duration = "2:01"
+
+[[tracks]]
+position = 9
+song-id = "sogumm/na-hollo-jibe"
+duration = "1:56"
+
+[[tracks]]
+position = 10
+song-id = "sogumm/take-a-waltz"
+duration = "3:39"
+
+[[tracks]]
+position = 11
+song-id = "sogumm/holdinon"
+duration = "2:19"
+
+[[tracks]]
+position = 12
+song-id = "sogumm/smile"
+duration = "1:49"
