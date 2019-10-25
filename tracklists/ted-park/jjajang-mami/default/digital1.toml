@@ -1,0 +1,8 @@
+medium-ids = [
+  "ted-park/jjajang-mami/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ted-park/jjajang-mami"
+duration = "2:55"
