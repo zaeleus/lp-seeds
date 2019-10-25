@@ -5,7 +5,7 @@ gender = "female"
 
 names = [
   { name = "알렉사", locale = "ko", kind = "stage", original = true },
-  { name = "AleXa", locale = "ko-Latn", kind = "stage", original = true },
+  { name = "AleXa", locale = "ko-Latn", kind = "stage", default = true },
   { name = "알렉스 크리스틴", locale = "ko", kind = "real" },
   { name = "Alex Christine", locale = "en", kind = "real" },
 ]
