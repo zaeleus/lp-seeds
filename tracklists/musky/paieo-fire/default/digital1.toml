@@ -1,0 +1,18 @@
+medium-ids = [
+  "musky/paieo-fire/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "musky/paieo-fire"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "musky/paieo-fire-english-ver"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "musky/paieo-fire-inst"
+duration = "3:31"

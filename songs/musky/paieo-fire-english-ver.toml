@@ -1,0 +1,5 @@
+names = [
+  { name = "파이어 (Fire) (English Ver.)", locale = "ko", original = true },
+  { name = "Paieo (Fire) (English Ver.)", locale = "ko-Latn", default = true },
+  { name = "Fire (English Ver.)", locale = "en" },
+]
