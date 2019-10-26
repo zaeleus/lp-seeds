@@ -1,0 +1,11 @@
+names = [
+  { name = "되돌릴 수 없는 돌아갈 수 없는 돌아갈 곳 없는", locale = "ko", original = true },
+  { name = "Doedollil Su Eomneun Doragal Su Eomneun Doragal Got Eomneun", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "2ne1/bom"
+names = [
+  { name = "박봄", locale = "ko", original = true},
+  { name = "Park Bom", locale = "ko-Latn", default = true },
+]

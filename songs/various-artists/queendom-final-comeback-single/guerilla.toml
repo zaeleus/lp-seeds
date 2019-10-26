@@ -1,0 +1,8 @@
+names = [
+  { name = "게릴라 (Guerilla)", locale = "ko", original = true },
+  { name = "Guerilla", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "oh-my-girl" },
+]
