@@ -1,0 +1,5 @@
+names = [
+  { name = "이젠 떠나겠어 (I'm Leaving You Now)", locale = "ko", original = true },
+  { name = "Ijen Tteonagesseo (I'm Leaving You Now)", locale = "ko-Latn", default = true },
+  { name = "I'm Leaving You Now", locale = "en" },
+]

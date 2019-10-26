@@ -1,0 +1,13 @@
+medium-ids = [
+  "musky/ijen-tteonagesseo-i-m-leaving-you-now/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "musky/ijen-tteonagesseo-i-m-leaving-you-now"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "musky/ijen-tteonagesseo-i-m-leaving-you-now-inst"
+duration = "3:39"

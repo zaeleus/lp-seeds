@@ -1,0 +1,16 @@
+artist-id = "musky"
+kind = "single"
+
+names = [
+  { name = "이젠 떠나겠어 (I'm Leaving You Now)", locale = "ko", original = true },
+  { name = "Ijen Tteonagesseo (I'm Leaving You Now)", locale = "ko-Latn", default = true },
+  { name = "I'm Leaving You Now", locale = "en" },
+]
+
+[[releases]]
+released-on = "2018-12-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10232185" },
+]
