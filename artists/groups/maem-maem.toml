@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "맴맴", locale = "ko", original = true },
+  { name = "Maem Maem", locale = "ko-Latn", default = true },
+]

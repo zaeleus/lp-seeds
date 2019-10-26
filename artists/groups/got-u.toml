@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "갓츄", locale = "ko", original = true },
+  { name = "GOT U", locale = "en", default = true },
+]

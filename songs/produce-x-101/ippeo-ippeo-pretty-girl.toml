@@ -1,0 +1,9 @@
+names = [
+  { name = "이뻐이뻐 (Pretty girl)", locale = "ko", original = true },
+  { name = "Ippeo Ippeo (Pretty girl)", locale = "ko-Latn", default = true },
+  { name = "Pretty girl", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "crayon-pastel" },
+]

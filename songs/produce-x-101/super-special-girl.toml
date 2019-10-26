@@ -1,0 +1,7 @@
+names = [
+  { name = "Super Special Girl", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "maem-maem" },
+]
