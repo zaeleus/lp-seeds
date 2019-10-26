@@ -1,0 +1,23 @@
+medium-ids = [
+  "g-i-dle/latata/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-i-dle/latata-japanese-ver"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "g-i-dle/light-my-fire"
+duration = "3:51"
+
+[[tracks]]
+position = 3
+song-id = "g-i-dle/maze-japanese-ver"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song-id = "g-i-dle/for-you"
+duration = "3:44"

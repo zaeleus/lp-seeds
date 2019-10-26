@@ -1,0 +1,15 @@
+artist-id = "g-i-dle"
+kind = "single"
+
+names = [
+  { name = "LATATA", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-07-29"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.apple.com/jp/album/1469322192" },
+  { url = "https://mora.jp/package/43000006/00602577967337/" },
+]
