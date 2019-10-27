@@ -1,0 +1,13 @@
+medium-ids = [
+  "bbahn/taeyangui-gyejeol-ost-part-19/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bbahn/geudael-bulleobomnida"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "bbahn/geudael-bulleobomnida-inst"
+duration = "3:17"

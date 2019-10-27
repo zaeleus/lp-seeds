@@ -1,0 +1,16 @@
+artist-id = "bbahn"
+kind = "single"
+
+names = [
+  { name = "태양의 계절 OST Part.19", locale = "ko", original = true },
+  { name = "Taeyangui Gyejeol OST Part.19", locale = "ko-Latn", default = true },
+  { name = "A Place in the Sun OST Part.19", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-10-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10343769" },
+]
