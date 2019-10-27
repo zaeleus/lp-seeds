@@ -1,0 +1,4 @@
+names = [
+  { name = "이게마지막노래일지도몰라", locale = "ko", original = true },
+  { name = "Ige Majimak Norae Iljido Molla", locale = "ko-Latn", default = true },
+]

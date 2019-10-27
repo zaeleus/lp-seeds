@@ -1,0 +1,15 @@
+artist-id = "jolly-v"
+kind = "ep"
+
+names = [
+  { name = "언랩UNWRAP", locale = "ko", original = true },
+  { name = "Un-rap? UNWRAP!", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10340032" },
+]

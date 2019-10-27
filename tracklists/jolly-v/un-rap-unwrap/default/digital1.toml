@@ -1,0 +1,28 @@
+medium-ids = [
+  "jolly-v/un-rap-unwrap/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jolly-v/jolly-v-ui-album-nawanne-skit"
+duration = "1:36"
+
+[[tracks]]
+position = 2
+song-id = "jolly-v/nan-tv-enawasseotji"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "jolly-v/ppuye"
+duration = "2:57"
+
+[[tracks]]
+position = 4
+song-id = "jolly-v/tymee-eonnirang-jeonyeogeul-meogeotda"
+duration = "3:25"
+
+[[tracks]]
+position = 5
+song-id = "jolly-v/ige-majimak-norae-iljido-molla"
+duration = "3:05"
