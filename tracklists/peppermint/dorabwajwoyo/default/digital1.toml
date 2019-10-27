@@ -1,0 +1,23 @@
+medium-ids = [
+  "peppermint/dorabwajwoyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "peppermint/dorabwajwoyo-feat-morning-coffee"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "peppermint/sarangi-tteonaganeyo-feat-the-bridge"
+duration = "3:49"
+
+[[tracks]]
+position = 3
+song-id = "peppermint/oneureun-eottaennayo-feat-blusher"
+duration = "4:22"
+
+[[tracks]]
+position = 4
+song-id = "peppermint/dorabwajwoyo-inst"
+duration = "3:27"

@@ -1,0 +1,4 @@
+names = [
+  { name = "돌아봐줘요 (feat. 모닝커피)", locale = "ko", original = true },
+  { name = "Dorabwajwoyo (feat. Morning Coffee)", locale = "ko-Latn", default = true },
+]

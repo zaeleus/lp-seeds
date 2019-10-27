@@ -1,0 +1,4 @@
+names = [
+  { name = "사랑이 떠나가네요 (feat. 더 브릿지 (The Bridge))", locale = "ko", original = true },
+  { name = "Sarangi Tteonaganeyo (feat. The Bridge)", locale = "ko-Latn", default = true },
+]
