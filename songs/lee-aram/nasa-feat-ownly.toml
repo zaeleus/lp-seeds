@@ -1,0 +1,3 @@
+names = [
+  { name = "NASA (Feat. Ownly)", locale = "ko", original = true, default = true },
+]

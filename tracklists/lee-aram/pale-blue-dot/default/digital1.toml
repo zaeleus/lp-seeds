@@ -1,0 +1,23 @@
+medium-ids = [
+  "lee-aram/pale-blue-dot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-aram/nasa-feat-ownly"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "lee-aram/cosmos-feat-jog-on-of-oyster"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "lee-aram/sangdaeseongiron"
+duration = "3:25"
+
+[[tracks]]
+position = 4
+song-id = "lee-aram/byeorui-jogak"
+duration = "2:47"
