@@ -1,0 +1,14 @@
+artist-id = "song-hee-ran"
+kind = "single"
+
+names = [
+  { name = "Starry Night (Prod. RetroMAMA)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-10-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10344074" },
+]
