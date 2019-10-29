@@ -1,0 +1,12 @@
+names = [
+  { name = "불티 (Spark)", locale = "ko", original = true },
+  { name = "Bulti (Spark)", locale = "ko-Latn", default = true },
+  { name = "Spark", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,21 @@
+artist-id = "girls-generation/taeyeon"
+kind = "lp"
+
+names = [
+  { name = "Purpose", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10344534" },
+]

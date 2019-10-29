@@ -1,0 +1,11 @@
+names = [
+  { name = "하하하 (LOL)", locale = "ko", original = true },
+  { name = "Ha Ha Ha (LOL)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", default = true },
+]
