@@ -1,0 +1,4 @@
+names = [
+  { name = "안녕히 (Adios) (Feat. GRAY)", locale = "ko", original = true },
+  { name = "Annyeonghi (Adios) (Feat. GRAY)", locale = "ko-Latn", default = true },
+]

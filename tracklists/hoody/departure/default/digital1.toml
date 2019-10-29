@@ -1,0 +1,58 @@
+medium-ids = [
+  "hoody/departure/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hoody/perfect-timing"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "hoody/geudaero-isseojwo-feat-ugly-duck"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "hoody/love-again"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "hoody/thank-you"
+duration = "2:51"
+
+[[tracks]]
+position = 5
+song-id = "hoody/miro"
+duration = "2:43"
+
+[[tracks]]
+position = 6
+song-id = "hoody/something-missing-interlude"
+duration = "1:05"
+
+[[tracks]]
+position = 7
+song-id = "hoody/tto"
+duration = "2:52"
+
+[[tracks]]
+position = 8
+song-id = "hoody/annyeonghi-adios-feat-gray"
+duration = "3:21"
+
+[[tracks]]
+position = 9
+song-id = "hoody/chum-feat-jclef"
+duration = "4:11"
+
+[[tracks]]
+position = 10
+song-id = "hoody/seongwa-ak"
+duration = "3:45"
+
+[[tracks]]
+position = 11
+song-id = "hoody/complex"
+duration = "2:15"
