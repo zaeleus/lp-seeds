@@ -1,0 +1,4 @@
+names = [
+  { name = "미소를 띄우며 나를 보낸 그 모습처럼", locale = "ko", original = true },
+  { name = "Misoreul Ttuiumyeo Nareul Bonaen Geu Moseupcheoreom", locale = "ko-Latn", default = true },
+]

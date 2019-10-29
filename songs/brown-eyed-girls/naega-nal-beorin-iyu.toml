@@ -1,0 +1,5 @@
+names = [
+  { name = "내가 날 버린 이유", locale = "ko", original = true },
+  { name = "Naega Nal Beorin Iyu", locale = "ko-Latn", default = true },
+  { name = "Abandoned", locale = "en" },
+]

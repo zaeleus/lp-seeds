@@ -1,0 +1,5 @@
+names = [
+  { name = "원더우먼", locale = "ko", original = true },
+  { name = "Wondeoumeon", locale = "ko-Latn" },
+  { name = "Wonder Woman", locale = "en", default = true },
+]

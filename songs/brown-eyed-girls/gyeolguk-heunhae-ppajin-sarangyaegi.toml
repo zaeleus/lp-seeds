@@ -1,0 +1,4 @@
+names = [
+  { name = "결국 흔해 빠진 사랑얘기", locale = "ko", original = true },
+  { name = "Gyeolguk Heunhae Ppajin Sarangyaegi", locale = "ko-Latn", default = true },
+]

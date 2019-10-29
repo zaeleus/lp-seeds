@@ -1,0 +1,14 @@
+artist-id = "brown-eyed-girls"
+kind = "lp"
+
+names = [
+  { name = "RE_vive", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-10-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10344546" },
+]
