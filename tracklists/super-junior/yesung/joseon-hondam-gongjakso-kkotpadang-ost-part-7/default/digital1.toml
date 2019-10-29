@@ -1,0 +1,13 @@
+medium-ids = [
+  "super-junior/yesung/joseon-hondam-gongjakso-kkotpadang-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "super-junior/yesung/maeume-geurida"
+duration = "4:31"
+
+[[tracks]]
+position = 2
+song-id = "super-junior/yesung/maeume-geurida-inst"
+duration = "4:31"

@@ -1,0 +1,11 @@
+names = [
+  { name = "마음에 그리다", locale = "ko", original = true },
+  { name = "Maeume Geurida", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "super-junior/yesung"
+names = [
+  { name = "예성", locale = "ko", original = true },
+  { name = "YESUNG", locale = "ko-Latn", default = true },
+]
