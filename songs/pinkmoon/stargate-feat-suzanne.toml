@@ -1,0 +1,5 @@
+names = [
+  { name = "스타게이트 (Feat. SUZANNE)", locale = "ko", original = true },
+  { name = "Seutageiteu (Feat. SUZANNE)", locale = "ko-Latn" },
+  { name = "Stargate (Feat. SUZANNE)", locale = "en", default = true },
+]

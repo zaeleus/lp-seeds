@@ -1,0 +1,14 @@
+artist-id = "pinkmoon"
+kind = "single"
+
+names = [
+  { name = "NEW WAVE Vol.1", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-10-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10343908" },
+]

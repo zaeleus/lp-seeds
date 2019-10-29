@@ -1,0 +1,8 @@
+medium-ids = [
+  "pinkmoon/new-wave-vol-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pinkmoon/stargate-feat-suzanne"
+duration = "3:26"
