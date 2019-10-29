@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2017"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "에이스", locale = "ko", original = true },
+  { name = "A.C.E", locale = "ko-Latn", default = true },
+]

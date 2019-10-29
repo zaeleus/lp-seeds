@@ -1,0 +1,5 @@
+names = [
+  { name = "삐딱선 (SAVAGE)", locale = "ko", original = true },
+  { name = "Ppittakseon (SAVAGE)", locale = "ko-Latn", default = true },
+  { name = "SAVAGE", locale = "en" },
+]
