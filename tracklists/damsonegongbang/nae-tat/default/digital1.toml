@@ -1,0 +1,8 @@
+medium-ids = [
+  "damsonegongbang/nae-tat/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "damsonegongbang/nae-tat"
+duration = "4:57"
