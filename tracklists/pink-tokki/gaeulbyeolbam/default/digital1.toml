@@ -1,0 +1,18 @@
+medium-ids = [
+  "pink-tokki/gaeulbyeolbam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pink-tokki/gaeulbyeolbam"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "pink-tokki/gaeulbyeolbam-harmonica-version"
+duration = "4:14"
+
+[[tracks]]
+position = 3
+song-id = "pink-tokki/gaeulbyeolbam-instrumental"
+duration = "4:15"

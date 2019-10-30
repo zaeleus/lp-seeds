@@ -1,0 +1,4 @@
+names = [
+  { name = "가을별밤 (Harmonica Version)", locale = "ko", original = true },
+  { name = "Gaeulbyeolbam (Harmonica Version)", locale = "ko-Latn", default = true },
+]
