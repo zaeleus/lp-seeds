@@ -1,0 +1,13 @@
+medium-ids = [
+  "kriesha-chu/naeildo-bogosipeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kriesha-chu/naeildo-bogo-sipeo"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "kriesha-chu/naeildo-bogo-sipeo-inst"
+duration = "3:22"
