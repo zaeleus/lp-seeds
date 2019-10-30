@@ -1,0 +1,8 @@
+medium-ids = [
+  "eric-nam/love-die-young/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eric-nam/love-die-young"
+duration = "3:24"
