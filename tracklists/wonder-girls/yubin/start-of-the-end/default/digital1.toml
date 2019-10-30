@@ -1,0 +1,13 @@
+medium-ids = [
+  "wonder-girls/yubin/start-of-the-end/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wonder-girls/yubin/museongyeonghwa-feat-yoon-mi-rae"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "wonder-girls/yubin/not-yours"
+duration = "3:05"

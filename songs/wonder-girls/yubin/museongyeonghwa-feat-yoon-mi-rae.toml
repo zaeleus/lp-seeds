@@ -1,0 +1,4 @@
+names = [
+  { name = "무성영화 (feat. 윤미래)", locale = "ko", original = true },
+  { name = "Museongyeonghwa (feat. Yoon Mi Rae)", locale = "ko-Latn", default = true },
+]
