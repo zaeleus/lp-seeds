@@ -1,0 +1,13 @@
+medium-ids = [
+  "junggigo/secret-boutique-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "junggigo/my-all"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "junggigo/my-all-inst"
+duration = "3:45"
