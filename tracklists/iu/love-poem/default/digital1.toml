@@ -1,0 +1,8 @@
+medium-ids = [
+  "iu/love-poem/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "iu/love-poem"
+duration = "4:19"
