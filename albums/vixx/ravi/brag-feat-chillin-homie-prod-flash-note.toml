@@ -1,0 +1,14 @@
+artist-id = "vixx/ravi"
+kind = "single"
+
+names = [
+  { name = "BRAG (Feat. Chillin Homie) (Prod. Flash Note)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-10-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10345662" },
+]
