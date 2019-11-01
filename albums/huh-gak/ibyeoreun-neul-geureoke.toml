@@ -1,0 +1,15 @@
+artist-id = "huh-gak"
+kind = "single"
+
+names = [
+  { name = "이별은 늘 그렇게", locale = "ko", original = true },
+  { name = "Ibyeoreun Neul Geureoke", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10346175" },
+]
