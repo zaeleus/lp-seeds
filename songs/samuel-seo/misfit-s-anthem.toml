@@ -1,0 +1,3 @@
+names = [
+  { name = "Misfit's Anthem", locale = "ko", original = true, default = true },
+]
