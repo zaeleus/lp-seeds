@@ -1,0 +1,13 @@
+medium-ids = [
+  "hello-gayoung/sarangeun-beautiful-insaengeun-wonderful-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hello-gayoung/123-sarang"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "hello-gayoung/123-sarang-inst"
+duration = "3:41"
