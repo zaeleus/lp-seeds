@@ -1,0 +1,4 @@
+names = [
+  { name = "정말 헤어지는 거야 (With 죠지)", locale = "ko", original = true },
+  { name = "Jeongmal Heeojineun Geoya (With George)", locale = "ko-Latn", default = true },
+]
