@@ -1,0 +1,28 @@
+medium-ids = [
+  "jina/first-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jina/first-love-intro"
+duration = "1:07"
+
+[[tracks]]
+position = 2
+song-id = "jina/cheoeumigo-sipeo-feat-heize"
+duration = "3:44"
+
+[[tracks]]
+position = 3
+song-id = "jina/nanwoseo-joahaejwo"
+duration = "2:51"
+
+[[tracks]]
+position = 4
+song-id = "jina/jikyeojulgeyo"
+duration = "3:47"
+
+[[tracks]]
+position = 5
+song-id = "jina/ttak-hanbeonmane-feat-brother-su"
+duration = "3:20"
