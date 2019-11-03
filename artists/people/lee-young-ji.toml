@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "2002-09-10"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "이영지", locale = "ko", kind = "real", original = true },
+  { name = "Lee Young Ji", locale = "ko-Latn", kind = "real", default = true },
+]

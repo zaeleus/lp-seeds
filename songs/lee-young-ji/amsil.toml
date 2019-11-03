@@ -1,0 +1,5 @@
+names = [
+  { name = "암실", locale = "ko", original = true },
+  { name = "Amsil", locale = "ko-Latn", default = true },
+  { name = "Dark Room", locale = "en" },
+]

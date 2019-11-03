@@ -1,0 +1,16 @@
+artist-id = "lee-young-ji"
+kind = "single"
+
+names = [
+  { name = "암실", locale = "ko", original = true },
+  { name = "Amsil", locale = "ko-Latn", default = true },
+  { name = "Dark Room", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-11-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10346464" },
+]
