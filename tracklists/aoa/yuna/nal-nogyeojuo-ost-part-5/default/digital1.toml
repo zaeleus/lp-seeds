@@ -1,0 +1,13 @@
+medium-ids = [
+  "aoa/yuna/nal-nogyeojuo-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aoa/yuna/tuk-tuk"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "aoa/yuna/tuk-tuk-inst"
+duration = "3:31"

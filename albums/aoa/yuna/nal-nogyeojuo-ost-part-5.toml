@@ -1,0 +1,16 @@
+artist-id = "aoa/yuna"
+kind = "single"
+
+names = [
+  { name = "날 녹여주오 OST Part 5", locale = "ko", original = true },
+  { name = "Nal Nogyeojuo OST Part 5", locale = "ko-Latn", default = true },
+  { name = "Melting Me Softly OST Part 5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-11-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10346604" },
+]
