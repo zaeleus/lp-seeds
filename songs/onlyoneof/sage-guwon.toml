@@ -1,0 +1,5 @@
+names = [
+  { name = "sage/구원", locale = "ko", original = true },
+  { name = "sage/Guwon", locale = "ko-Latn", default = true },
+  { name = "sage", locale = "en" },
+]

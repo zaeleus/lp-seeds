@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "온리원오브", locale = "ko", original = true },
+  { name = "OnlyOneOf", locale = "en", default = true },
+]
