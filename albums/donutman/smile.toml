@@ -1,0 +1,14 @@
+artist-id = "donutman"
+kind = "single"
+
+names = [
+  { name = "Smile", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-11-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10346690" },
+]
