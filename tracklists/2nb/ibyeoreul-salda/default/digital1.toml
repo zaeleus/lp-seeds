@@ -1,0 +1,13 @@
+medium-ids = [
+  "2nb/ibyeoreul-salda/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2nb/ibyeoreul-salda"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "2nb/ibyeoreul-salda-inst"
+duration = "4:15"

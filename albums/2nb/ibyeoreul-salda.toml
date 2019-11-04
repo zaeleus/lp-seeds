@@ -1,0 +1,15 @@
+artist-id = "2nb"
+kind = "single"
+
+names = [
+  { name = "이별을 살다", locale = "ko", original = true },
+  { name = "Ibyeoreul Salda", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10346615" },
+]
