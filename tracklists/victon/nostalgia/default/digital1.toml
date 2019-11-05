@@ -1,0 +1,33 @@
+medium-ids = [
+  "victon/nostalgia/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "victon/intro-nostalgia"
+duration = "1:24"
+
+[[tracks]]
+position = 2
+song-id = "victon/geuriun-bam"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "victon/new-world"
+duration = "3:54"
+
+[[tracks]]
+position = 4
+song-id = "victon/geokjeongi-dwaeseo"
+duration = "3:36"
+
+[[tracks]]
+position = 5
+song-id = "victon/here-i-am"
+duration = "4:00"
+
+[[tracks]]
+position = 6
+song-id = "victon/hands-up"
+duration = "3:38"
