@@ -1,0 +1,18 @@
+medium-ids = [
+  "roo/joeun-nal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "roo/geu-narui-uriege"
+duration = "4:05"
+
+[[tracks]]
+position = 4
+song-id = "roo/joahae"
+duration = "3:22"
+
+[[tracks]]
+position = 6
+song-id = "roo/geu-narui-uriege-inst"
+duration = "4:04"
