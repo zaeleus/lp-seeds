@@ -1,0 +1,18 @@
+medium-ids = [
+  "melomance/chukje/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melomance/chukje"
+duration = "4:34"
+
+[[tracks]]
+position = 2
+song-id = "melomance/meoreojin-iyu"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "melomance/na-na-na"
+duration = "3:55"
