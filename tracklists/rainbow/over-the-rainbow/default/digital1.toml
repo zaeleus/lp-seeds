@@ -1,0 +1,13 @@
+medium-ids = [
+  "rainbow/over-the-rainbow/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rainbow/i-dream-of-you"
+duration = "4:08"
+
+[[tracks]]
+position = 2
+song-id = "rainbow/i-dream-of-you-inst"
+duration = "4:09"
