@@ -1,0 +1,13 @@
+medium-ids = [
+  "stray-kids/eojjeoda-balgyeonhan-haru-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stray-kids/kkeunnaji-aneul-iyagi"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "stray-kids/kkeunnaji-aneul-iyagi-inst"
+duration = "4:05"
