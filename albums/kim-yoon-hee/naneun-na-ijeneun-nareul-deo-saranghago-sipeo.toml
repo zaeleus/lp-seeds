@@ -1,0 +1,15 @@
+artist-id = "kim-yoon-hee"
+kind = "single"
+
+names = [
+  { name = "나는 나, 이제는 나를 더 사랑하고 싶어", locale = "ko", original = true },
+  { name = "Naneun Na, Ijeneun Nareul Deo Saranghago Sipeo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10348769" },
+]
