@@ -1,0 +1,21 @@
+artist-id = "4minute/hyun-a"
+kind = "single"
+
+names = [
+  { name = "FLOWER SHOWER", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10347725" },
+]
