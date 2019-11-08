@@ -1,0 +1,11 @@
+names = [
+  { name = '숨겨진 세상 (From "겨울왕국 II")', locale = "ko", original = true },
+  { name = 'Sumgyeojin Sesang (From "Gyeourwangguk II")', locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", default = true },
+]
