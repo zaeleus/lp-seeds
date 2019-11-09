@@ -1,0 +1,4 @@
+names = [
+  { name = "우주 (Feat. SUMIN, 김아일)", locale = "ko", original = true },
+  { name = "Uju (Feat. Sumin, Qim Isle)", locale = "ko-Latn", default = true },
+]

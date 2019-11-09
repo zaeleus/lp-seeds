@@ -1,0 +1,13 @@
+medium-ids = [
+  "primary/3-paktory01/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "primary/uju-feat-sumin-qim-isle"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "primary/bad-high-feat-jade"
+duration = "3:28"
