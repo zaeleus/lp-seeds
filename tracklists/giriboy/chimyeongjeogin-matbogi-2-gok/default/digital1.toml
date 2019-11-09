@@ -1,0 +1,13 @@
+medium-ids = [
+  "giriboy/chimyeongjeogin-matbogi-2-gok/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giriboy/ihonseoryu"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "giriboy/eul-feat-big-naughty-seo-dong-hyun"
+duration = "2:59"

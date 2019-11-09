@@ -1,0 +1,15 @@
+artist-id = "giriboy"
+kind = "single"
+
+names = [
+  { name = "치명적인 맛보기 2곡", locale = "ko", original = true },
+  { name = "Chimyeongjeogin Matbogi 2-gok", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10349385" },
+]
