@@ -1,0 +1,33 @@
+medium-ids = [
+  "vixx/ravi/limitless-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vixx/ravi/nzt-prod-yuth"
+duration = "1:49"
+
+[[tracks]]
+position = 2
+song-id = "vixx/ravi/limitless-feat-sik-k-xydo-prod-yuth"
+duration = "3:05"
+
+[[tracks]]
+position = 3
+song-id = "vixx/ravi/venom-feat-ja-mezz-prod-dakshood"
+duration = "2:32"
+
+[[tracks]]
+position = 4
+song-id = "vixx/ravi/zombie-prod-flash-note"
+duration = "2:14"
+
+[[tracks]]
+position = 5
+song-id = "vixx/ravi/bada-feat-cold-bay-prod-flash-note"
+duration = "3:22"
+
+[[tracks]]
+position = 6
+song-id = "vixx/ravi/brag-feat-chillin-homie-prod-flash-note"
+duration = "2:31"

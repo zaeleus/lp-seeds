@@ -1,0 +1,3 @@
+names = [
+  { name = "ZOMBIE (Prod. Flash Note)", locale = "ko", original = true, default = true },
+]
