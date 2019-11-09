@@ -1,0 +1,15 @@
+artist-id = "nafla"
+kind = "single"
+
+names = [
+  { name = "슬픈 노래만 들어 (saturday)", locale = "ko", original = true },
+  { name = "Seulpeun Noraeman Deureo (saturday)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10349227" },
+]

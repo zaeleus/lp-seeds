@@ -1,0 +1,8 @@
+medium-ids = [
+  "nafla/seulpeun-noraeman-deureo-saturday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nafla/seulpeun-noraeman-deureo-saturday"
+duration = "3:20"
