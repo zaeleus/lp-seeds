@@ -1,0 +1,13 @@
+medium-ids = [
+  "hoody/nal-nogyeojuo-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hoody/fresh"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "hoody/fresh-inst"
+duration = "2:58"
