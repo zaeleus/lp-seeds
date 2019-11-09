@@ -1,0 +1,15 @@
+artist-id = "stella-jang"
+kind = "single"
+
+names = [
+  { name = "보통날의 기적 (Feat. 폴킴)", locale = "ko", original = true },
+  { name = "Botongnarui Gijeok (Feat. Paul Kim)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10349241" },
+]
