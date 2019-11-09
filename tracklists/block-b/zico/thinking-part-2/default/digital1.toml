@@ -1,0 +1,28 @@
+medium-ids = [
+  "block-b/zico/thinking-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "block-b/zico/another-level-feat-penomeco"
+duration = "2:44"
+
+[[tracks]]
+position = 2
+song-id = "block-b/zico/namgyeojime-daehae-feat-dvwn"
+duration = "3:39"
+
+[[tracks]]
+position = 3
+song-id = "block-b/zico/dystopia"
+duration = "3:58"
+
+[[tracks]]
+position = 4
+song-id = "block-b/zico/balloon"
+duration = "3:39"
+
+[[tracks]]
+position = 5
+song-id = "block-b/zico/kkonmal-feat-jehwi"
+duration = "4:13"

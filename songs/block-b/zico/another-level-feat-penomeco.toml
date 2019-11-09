@@ -1,0 +1,4 @@
+names = [
+  { name = "another level (Feat. 페노메코)", locale = "ko", original = true },
+  { name = "another level (Feat. PENOMECO)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "남겨짐에 대해 (Feat. 다운)", locale = "ko", original = true },
+  { name = "Namgyeojime Daehae (Feat. Dvwn)", locale = "ko-Latn", default = true },
+  { name = "Being Left (Feat. Dvwn)", locale = "en" },
+]
