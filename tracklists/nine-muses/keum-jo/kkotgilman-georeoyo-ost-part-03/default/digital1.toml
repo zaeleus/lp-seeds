@@ -1,0 +1,13 @@
+medium-ids = [
+  "nine-muses/keum-jo/kkotgilman-georeoyo-ost-part-03/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/keum-jo/kkotgilman-georeoyo"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "nine-muses/keum-jo/kkotgilman-georeoyo-inst"
+duration = "3:29"
