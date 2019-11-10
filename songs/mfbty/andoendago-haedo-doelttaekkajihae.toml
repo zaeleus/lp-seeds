@@ -1,0 +1,5 @@
+names = [
+  { name = "안된다고 해도 될때까지해", locale = "ko", original = true },
+  { name = "Andoendago Haedo Doelttaekkajihae", locale = "ko-Latn", default = true },
+  { name = "Dream Catcher", locale = "en" },
+]
