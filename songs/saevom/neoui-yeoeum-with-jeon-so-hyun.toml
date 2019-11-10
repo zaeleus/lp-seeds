@@ -1,0 +1,4 @@
+names = [
+  { name = "너의 여음 (With 전소현)", locale = "ko", original = true },
+  { name = "Neoui Yeoeum (With Jeon So Hyun)", locale = "ko-Latn", default = true },
+]
