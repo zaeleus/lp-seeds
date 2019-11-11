@@ -1,0 +1,15 @@
+artist-id = "hello-gayoung"
+kind = "single"
+
+names = [
+  { name = "소소한 이야기 Part.12", locale = "ko", original = true },
+  { name = "Sosohan Iyagi Part.12", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10349556" },
+]

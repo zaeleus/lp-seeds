@@ -1,0 +1,13 @@
+medium-ids = [
+  "hello-gayoung/sosohan-iyagi-part-12/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hello-gayoung/geuraedo-gyeouri-ttatteuthan-iyu"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "hello-gayoung/geuraedo-gyeouri-ttatteuthan-iyu-inst"
+duration = "3:40"
