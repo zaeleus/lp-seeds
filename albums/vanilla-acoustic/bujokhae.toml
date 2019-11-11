@@ -1,0 +1,15 @@
+artist-id = "vanilla-acoustic"
+kind = "single"
+
+names = [
+  { name = "부족해", locale = "ko", original = true },
+  { name = "Bujokhae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10349386" },
+]
