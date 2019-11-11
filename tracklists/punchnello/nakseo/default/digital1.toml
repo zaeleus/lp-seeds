@@ -1,0 +1,8 @@
+medium-ids = [
+  "punchnello/nakseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "punchnello/nakseo-feat-yerin-baek-prod-by-woogie"
+duration = "3:08"
