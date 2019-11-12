@@ -1,0 +1,28 @@
+medium-ids = [
+  "nature/nature-world-code-a/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nature/oopsie-my-bad"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "nature/bing-bing"
+duration = "3:36"
+
+[[tracks]]
+position = 3
+song-id = "nature/what-s-up"
+duration = "3:49"
+
+[[tracks]]
+position = 4
+song-id = "nature/drinkin"
+duration = "3:03"
+
+[[tracks]]
+position = 5
+song-id = "nature/hae-dal-byeol-my-sun-my-moon-my-star"
+duration = "4:02"

@@ -1,0 +1,4 @@
+names = [
+  { name = "해 달 별 (My Sun, My Moon, My Star)", locale = "ko", original = true },
+  { name = "Hae Dal Byeol (My Sun, My Moon, My Star)", locale = "ko-Latn", default = true },
+]
