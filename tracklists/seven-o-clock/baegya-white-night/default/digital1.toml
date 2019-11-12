@@ -1,0 +1,23 @@
+medium-ids = [
+  "seven-o-clock/baegya-white-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seven-o-clock/white-night"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "seven-o-clock/midnight-sun"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song-id = "seven-o-clock/ladi-dadi"
+duration = "3:22"
+
+[[tracks]]
+position = 4
+song-id = "seven-o-clock/save-me-now"
+duration = "3:31"
