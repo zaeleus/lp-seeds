@@ -1,0 +1,13 @@
+medium-ids = [
+  "sorae/gwaenchantago/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sorae/gwaenchantago-vocal-park-han-sol"
+duration = "4:36"
+
+[[tracks]]
+position = 2
+song-id = "sorae/gwaenchantago-inst"
+duration = "4:36"

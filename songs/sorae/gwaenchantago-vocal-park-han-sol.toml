@@ -1,0 +1,4 @@
+names = [
+  { name = "괜찮다고 (Vocal 박한솔)", locale = "ko", original = true },
+  { name = "Gwaenchantago (Vocal Park Han Sol)", locale = "ko-Latn", default = true },
+]
