@@ -1,0 +1,13 @@
+medium-ids = [
+  "12dal/ahop-beonjjae-seumu-sal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "12dal/ahop-beonjjae-seumu-sal"
+duration = "4:33"
+
+[[tracks]]
+position = 2
+song-id = "12dal/ahop-beonjjae-seumu-sal-inst"
+duration = "4:33"
