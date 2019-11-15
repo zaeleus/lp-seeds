@@ -9,5 +9,15 @@ duration = "4:08"
 
 [[tracks]]
 position = 2
+song-id = "rainbow/aurora"
+duration = "3:16"
+
+[[tracks]]
+position = 3
 song-id = "rainbow/i-dream-of-you-inst"
 duration = "4:09"
+
+[[tracks]]
+position = 4
+song-id = "rainbow/aurora-inst"
+duration = "3:16"
