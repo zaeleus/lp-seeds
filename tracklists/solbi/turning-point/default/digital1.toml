@@ -1,0 +1,13 @@
+medium-ids = [
+  "solbi/turning-point/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "solbi/nunmuri-binmul-doeeo-tears-in-the-rain"
+duration = "4:22"
+
+[[tracks]]
+position = 2
+song-id = "solbi/nunmuri-binmul-doeeo-tears-in-the-rain-inst"
+duration = "4:22"

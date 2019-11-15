@@ -1,0 +1,4 @@
+names = [
+  { name = "눈물이 빗물 되어 (Tears in the rain) (Inst.)", locale = "ko", original = true },
+  { name = "Nunmuri Binmul Doeeo (Tears in the rain) (Inst.)", locale = "ko-Latn", default = true },
+]
