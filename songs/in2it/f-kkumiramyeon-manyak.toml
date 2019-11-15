@@ -1,0 +1,4 @@
+names = [
+  { name = "!F (꿈이라면 만약)", locale = "ko", original = true },
+  { name = "!F (Kkumiramyeon Manyak)", locale = "ko-Latn", default = true },
+]

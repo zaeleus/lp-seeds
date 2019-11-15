@@ -1,0 +1,18 @@
+medium-ids = [
+  "in2it/puzzle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "in2it/ullala-jungdok"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "in2it/young-dumb"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "in2it/f-kkumiramyeon-manyak"
+duration = "3:43"
