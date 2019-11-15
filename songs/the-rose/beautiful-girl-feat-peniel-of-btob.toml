@@ -1,0 +1,4 @@
+names = [
+  { name = "Beautiful Girl (Feat. 프니엘 of 비투비)", locale = "ko", original = true },
+  { name = "Beautiful Girl (Feat. PENIEL of BTOB)", locale = "ko-Latn", default = true },
+]

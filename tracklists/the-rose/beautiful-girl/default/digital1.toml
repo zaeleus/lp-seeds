@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-rose/beautiful-girl/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-rose/beautiful-girl-feat-peniel-of-btob"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "the-rose/beautiful-girl-inst"
+duration = "3:31"

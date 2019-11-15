@@ -1,0 +1,14 @@
+artist-id = "the-rose"
+kind = "single"
+
+names = [
+  { name = "Beautiful Girl", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-11-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10352450" },
+]
