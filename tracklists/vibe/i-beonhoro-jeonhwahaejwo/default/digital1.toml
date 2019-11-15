@@ -1,0 +1,13 @@
+medium-ids = [
+  "vibe/i-beonhoro-jeonhwahaejwo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vibe/i-beonhoro-jeonhwahaejwo"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "vibe/i-beonhoro-jeonhwahaejwo-inst"
+duration = "3:14"
