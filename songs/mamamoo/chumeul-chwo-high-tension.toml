@@ -1,0 +1,5 @@
+names = [
+  { name = "춤을 춰 (High Tension)", locale = "ko", original = true },
+  { name = "Chumeul Chwo (High Tension)", locale = "ko-Latn", default = true },
+  { name = "High Tension", locale = "en" },
+]
