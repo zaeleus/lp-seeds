@@ -1,0 +1,8 @@
+medium-ids = [
+  "sumin/yeonaemisu-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sumin/eoneo"
+duration = "2:25"
