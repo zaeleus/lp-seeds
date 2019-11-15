@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2013"
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "MFBTY", locale = "ko", original = true, default = true },
+]
