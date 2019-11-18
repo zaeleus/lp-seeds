@@ -1,0 +1,15 @@
+artist-id = "ben"
+kind = "single"
+
+names = [
+  { name = "보좌관2-세상을 움직이는 사람들 OST Part.2", locale = "ko", original = true },
+  { name = "Bojwagwan 2 - Sesangeul Umjigineun Saramdeul OST Part.2", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10352583" },
+]
