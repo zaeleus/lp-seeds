@@ -1,0 +1,3 @@
+names = [
+  { name = "Re-boot", locale = "ko", original = true, default = true },
+]
