@@ -4,5 +4,30 @@ medium-ids = [
 
 [[tracks]]
 position = 1
+song-id = "iu/unlucky"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "iu/geu-saram"
+duration = "3:52"
+
+[[tracks]]
+position = 3
+song-id = "iu/blueming"
+duration = "3:38"
+
+[[tracks]]
+position = 4
+song-id = "iu/siganui-bakkat"
+duration = "5:01"
+
+[[tracks]]
+position = 5
+song-id = "iu/jajangga"
+duration = "4:22"
+
+[[tracks]]
+position = 6
 song-id = "iu/love-poem"
 duration = "4:19"

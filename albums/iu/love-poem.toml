@@ -1,12 +1,12 @@
 artist-id = "iu"
-kind = "single"
+kind = "ep"
 
 names = [
   { name = "Love poem", locale = "ko", original = true, default = true },
 ]
 
 [[releases]]
-released-on = "2019-11-01"
+released-on = "2019-11-18"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
