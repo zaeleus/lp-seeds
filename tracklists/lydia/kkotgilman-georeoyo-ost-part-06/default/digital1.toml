@@ -1,0 +1,13 @@
+medium-ids = [
+  "lydia/kkotgilman-georeoyo-ost-part-06/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lydia/i-sarangeun-deoisang-mothal-geot-gatayo"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "lydia/i-sarangeun-deoisang-mothal-geot-gatayo-inst"
+duration = "3:37"
