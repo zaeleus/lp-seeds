@@ -1,0 +1,13 @@
+medium-ids = [
+  "sohyang/sarangeun-beautiful-insaengeun-wonderful-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sohyang/gil"
+duration = "4:59"
+
+[[tracks]]
+position = 2
+song-id = "sohyang/gil-inst"
+duration = "4:59"
