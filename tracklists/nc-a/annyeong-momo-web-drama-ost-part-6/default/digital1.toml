@@ -1,0 +1,13 @@
+medium-ids = [
+  "nc-a/annyeong-momo-web-drama-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nc-a/neoui-haruneun-eottae"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "nc-a/neoui-haruneun-eottae-inst"
+duration = "3:27"
