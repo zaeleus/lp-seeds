@@ -1,0 +1,14 @@
+artist-id = "ted-park"
+kind = "single"
+
+names = [
+  { name = "Shot Clock", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-11-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10352581" },
+]

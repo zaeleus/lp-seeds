@@ -1,0 +1,8 @@
+medium-ids = [
+  "ted-park/shot-clock/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ted-park/shot-clock"
+duration = "2:55"
