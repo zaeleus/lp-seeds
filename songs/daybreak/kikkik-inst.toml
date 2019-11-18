@@ -1,0 +1,5 @@
+names = [
+  { name = "킥킥 (Inst.)", locale = "ko", original = true },
+  { name = "Kikkik (Inst.)", locale = "ko-Latn", default = true },
+  { name = "kickkick (Inst.)", locale = "en" },
+]

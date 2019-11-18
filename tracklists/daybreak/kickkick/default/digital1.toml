@@ -1,0 +1,13 @@
+medium-ids = [
+  "daybreak/kickkick/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "daybreak/kickkick"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "daybreak/kikkik-inst"
+duration = "3:50"
