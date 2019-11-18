@@ -1,0 +1,13 @@
+medium-ids = [
+  "brown-eyed-girls/gain/vip-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brown-eyed-girls/gain/set-me-free"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "brown-eyed-girls/gain/set-me-free-inst"
+duration = "4:01"
