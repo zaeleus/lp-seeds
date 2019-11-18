@@ -1,0 +1,4 @@
+names = [
+  { name = "DRUG (Feat. 김효은) (Prod. Cool Cat)", locale = "ko", original = true },
+  { name = "DRUG (Feat. Kim Hyo Eun) (Prod. Cool Cat)", locale = "ko-Latn", default = true },
+]
