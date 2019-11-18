@@ -1,0 +1,13 @@
+medium-ids = [
+  "superm/let-s-go-everywhere-korean-air-x-superm/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "superm/let-s-go-everywhere"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "superm/let-s-go-everywhere-inst"
+duration = "3:23"

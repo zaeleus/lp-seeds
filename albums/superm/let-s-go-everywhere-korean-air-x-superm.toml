@@ -1,0 +1,14 @@
+artist-id = "superm"
+kind = "single"
+
+names = [
+  { name = "Let's Go Everywhere - Korean Air X SuperM", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-11-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10353029" },
+]
