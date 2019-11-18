@@ -1,0 +1,13 @@
+medium-ids = [
+  "sky-girls/neottaemune/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sky-girls/neottaemune"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "sky-girls/neottaemune-inst"
+duration = "3:13"

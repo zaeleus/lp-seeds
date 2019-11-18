@@ -1,0 +1,15 @@
+artist-id = "sky-girls"
+kind = "single"
+
+names = [
+  { name = "너때문에", locale = "ko", original = true },
+  { name = "Neottaemune", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10351866" },
+]

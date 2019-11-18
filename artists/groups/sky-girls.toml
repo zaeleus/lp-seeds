@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "스카이걸스", locale = "ko", original = true },
+  { name = "SKY GIRLS'", locale = "en", default = true },
+]
