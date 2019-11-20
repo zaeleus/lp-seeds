@@ -1,0 +1,8 @@
+medium-ids = [
+  "motte/yeohaeng/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "motte/yeohaeng"
+duration = "3:48"
