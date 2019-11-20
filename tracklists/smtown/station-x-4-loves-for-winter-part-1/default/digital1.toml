@@ -1,0 +1,13 @@
+medium-ids = [
+  "smtown/station-x-4-loves-for-winter-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "smtown/this-is-your-day-for-every-child-unicef"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "smtown/this-is-your-day-for-every-child-unicef-inst"
+duration = "4:05"

@@ -1,0 +1,3 @@
+names = [
+  { name = "This is Your Day (for every child, UNICEF)", locale = "ko", original = true, default = true },
+]
