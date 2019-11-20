@@ -1,0 +1,4 @@
+names = [
+  { name = "옷깃 끝자락에 남은 너 (Bonus Track)", locale = "ko", original = true },
+  { name = "Otgit Kkeutjarage Nameun Neo (Bonus Track)", locale = "ko-Latn", default = true },
+]

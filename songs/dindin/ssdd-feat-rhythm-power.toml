@@ -1,0 +1,4 @@
+names = [
+  { name = "SSDD (Feat. 리듬파워)", locale = "ko", original = true },
+  { name = "SSDD (Feat. Rhythm Power)", locale = "en", default = true },
+]

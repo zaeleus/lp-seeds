@@ -1,0 +1,4 @@
+names = [
+  { name = "Fallin' Down (Feat. 이원석 of 데이브레이크)", locale = "ko", original = true },
+  { name = "Fallin' Down (Feat. Lee Won Suk of Daybreak)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "찬바람 불 때면 (When The Wind Blows)", locale = "ko", original = true },
+  { name = "Chanbaram Bul Ttaemyeon (When The Wind Blows)", locale = "ko-Latn", default = true },
+  { name = "When The Wind Blows", locale = "en" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "아름다운 꽃 (Feat. 김보아)", locale = "ko", original = true },
+  { name = "Areumdaun Kkot (Feat. Kim Bo A)", locale = "ko-Latn", default = true },
+]

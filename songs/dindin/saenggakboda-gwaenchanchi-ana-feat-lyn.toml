@@ -1,0 +1,5 @@
+names = [
+  { name = "생각보다 괜찮지 않아 (Feat. 린)", locale = "ko", original = true },
+  { name = "Saenggakboda Gwaenchanchi Ana (Feat. LYn)", locale = "ko-Latn", default = true },
+  { name = "Liar (Feat. LYn)", locale = "en" },
+]
