@@ -1,0 +1,38 @@
+medium-ids = [
+  "cosmic-girls/as-you-wish/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cosmic-girls/iruri"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "cosmic-girls/haenguneul-bireo"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "cosmic-girls/yagwangbyeol"
+duration = "4:02"
+
+[[tracks]]
+position = 4
+song-id = "cosmic-girls/uwa"
+duration = "3:48"
+
+[[tracks]]
+position = 5
+song-id = "cosmic-girls/badaboom"
+duration = "3:25"
+
+[[tracks]]
+position = 6
+song-id = "cosmic-girls/full-moon"
+duration = "3:24"
+
+[[tracks]]
+position = 7
+song-id = "cosmic-girls/don-t-touch"
+duration = "3:29"
