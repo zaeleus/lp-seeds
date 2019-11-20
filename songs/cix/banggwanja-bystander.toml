@@ -1,0 +1,5 @@
+names = [
+  { name = "방관자 (Bystander)", locale = "ko", original = true },
+  { name = "Banggwanja (Bystander)", locale = "ko-Latn", default = true },
+  { name = "Bystander", locale = "en" },
+]

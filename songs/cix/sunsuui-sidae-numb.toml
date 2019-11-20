@@ -1,0 +1,5 @@
+names = [
+  { name = "순수의 시대 (Numb)", locale = "ko", original = true },
+  { name = "Sunsuui Sidae (Numb)", locale = "ko-Latn", default = true },
+  { name = "Numb", locale = "en" },
+]

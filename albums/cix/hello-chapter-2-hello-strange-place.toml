@@ -1,0 +1,14 @@
+artist-id = "cix"
+kind = "ep"
+
+names = [
+  { name = "'HELLO' Chapter 2. Hello, Strange Place", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-11-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10353544" },
+]
