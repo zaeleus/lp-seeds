@@ -1,0 +1,5 @@
+names = [
+  { name = "약해 (Weak)", locale = "ko", original = true },
+  { name = "Yakhae (Weak)", locale = "ko-Latn", default = true },
+  { name = "Weak", locale = "en" },
+]

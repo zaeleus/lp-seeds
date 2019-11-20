@@ -1,0 +1,13 @@
+medium-ids = [
+  "maydoni/yakhae-weak/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "maydoni/yakhae-weak"
+duration = "2:47"
+
+[[tracks]]
+position = 2
+song-id = "maydoni/yakhae-weak-inst"
+duration = "2:47"
