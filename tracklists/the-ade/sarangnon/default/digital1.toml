@@ -4,5 +4,65 @@ medium-ids = [
 
 [[tracks]]
 position = 1
+song-id = "the-ade/neoreul-damda"
+duration = "4:46"
+
+[[tracks]]
+position = 2
+song-id = "the-ade/nae-sarangeun-neoro-kkeuchi-nasseo"
+duration = "4:20"
+
+[[tracks]]
+position = 3
+song-id = "the-ade/byeonhaesseo"
+duration = "3:03"
+
+[[tracks]]
+position = 4
+song-id = "the-ade/sarange-ppajin-sungan"
+duration = "3:18"
+
+[[tracks]]
+position = 5
+song-id = "the-ade/aemaehan-sai"
+duration = "3:23"
+
+[[tracks]]
+position = 6
 song-id = "the-ade/dallajyeosseulkka-uri-feat-jukjae"
+duration = "3:35"
+
+[[tracks]]
+position = 7
+song-id = "the-ade/manyage-na"
+duration = "4:01"
+
+[[tracks]]
+position = 8
+song-id = "the-ade/injeong-mot-hae"
+duration = "4:02"
+
+[[tracks]]
+position = 9
+song-id = "the-ade/rainy"
+duration = "3:18"
+
+[[tracks]]
+position = 10
+song-id = "the-ade/bogosipeoyo"
+duration = "3:53"
+
+[[tracks]]
+position = 11
+song-id = "the-ade/hayan-nunkkotcheoreom"
+duration = "3:29"
+
+[[tracks]]
+position = 12
+song-id = "the-ade/swieogado-dwaeyo"
+duration = "3:17"
+
+[[tracks]]
+position = 13
+song-id = "the-ade/dallajyeosseulkka-uri-solo-ver"
 duration = "3:35"

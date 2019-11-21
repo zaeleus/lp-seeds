@@ -1,5 +1,5 @@
 artist-id = "the-ade"
-kind = "single"
+kind = "lp"
 
 names = [
   { name = "사랑론", locale = "ko", original = true },
@@ -7,9 +7,9 @@ names = [
 ]
 
 [[releases]]
-released-on = "2019-10-24"
+released-on = "2019-11-21"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
-  { url = "https://www.melon.com/album/detail.htm?albumId=10342792" },
+  { url = "https://www.melon.com/album/detail.htm?albumId=10354040" },
 ]
