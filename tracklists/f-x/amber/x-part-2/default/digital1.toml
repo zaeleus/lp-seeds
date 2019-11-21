@@ -1,0 +1,8 @@
+medium-ids = [
+  "f-x/amber/x-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/amber/other-people"
+duration = "3:13"
