@@ -1,0 +1,5 @@
+names = [
+  { name = "신호등 (Remix Ver.)", locale = "ko", original = true },
+  { name = "Sinhodeung (Remix Ver.)", locale = "ko-Latn", default = true },
+  { name = "Signal Light (Remix Ver.)", locale = "en" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-young-chul/sinhodeung/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-young-chul/sinhodeung"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "kim-young-chul/sinhodeung-remix-ver"
+duration = "3:27"
