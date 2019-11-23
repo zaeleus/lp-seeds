@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan/hana/yeonnam-dong-family-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/hana/walk-in-space"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/hana/walk-in-space-inst"
+duration = "3:20"
