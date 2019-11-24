@@ -1,0 +1,15 @@
+artist-id = "bbahn"
+kind = "single"
+
+names = [
+  { name = "꽃길만 걸어요 OST Part.07", locale = "ko", original = true },
+  { name = "Kkotgilman Georeoyo OST Part.07", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10356154" },
+]

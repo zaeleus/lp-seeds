@@ -1,0 +1,13 @@
+medium-ids = [
+  "bbahn/kkotgilman-georeoyo-ost-part-07/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bbahn/uri-sagyeobomyeon-eottae"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "bbahn/uri-sagyeobomyeon-eottae-inst"
+duration = "3:28"
