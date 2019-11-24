@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-jae-hwan/vagabond-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-jae-hwan/geuttae-naega-jigeumui-naramyeon"
+duration = "5:14"
+
+[[tracks]]
+position = 2
+song-id = "kim-jae-hwan/geuttae-naega-jigeumui-naramyeon-inst"
+duration = "5:14"
