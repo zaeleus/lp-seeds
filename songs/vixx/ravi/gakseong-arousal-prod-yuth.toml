@@ -1,0 +1,4 @@
+names = [
+  { name = "각성 (AROUSAL) (Prod. YUTH)", locale = "ko", original = true },
+  { name = "Gakseong (AROUSAL) (Prod. YUTH)", locale = "ko-Latn", default = true },
+]
