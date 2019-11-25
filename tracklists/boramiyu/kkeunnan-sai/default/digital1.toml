@@ -1,0 +1,13 @@
+medium-ids = [
+  "boramiyu/kkeunnan-sai/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boramiyu/kkeunnan-sai"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "boramiyu/kkeunnan-sai-inst"
+duration = "3:53"
