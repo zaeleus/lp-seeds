@@ -1,0 +1,15 @@
+artist-id = "clazziquai-project"
+kind = "single"
+
+names = [
+  { name = "Take back (feat. 홍다혜 of OurR)", locale = "ko", original = true },
+  { name = "Take back (feat. Hong Da Hye of OurR)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10356379" },
+]

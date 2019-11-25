@@ -1,0 +1,4 @@
+names = [
+  { name = "Take back (feat. 홍다혜 of OurR)", locale = "ko", original = true },
+  { name = "Take back (feat. Hong Da Hye of OurR)", locale = "ko-Latn", default = true },
+]
