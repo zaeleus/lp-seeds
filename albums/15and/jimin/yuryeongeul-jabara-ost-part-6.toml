@@ -1,0 +1,23 @@
+artist-id = "15and/jimin"
+kind = "single"
+
+names = [
+  { name = "유령을 잡아라 OST Part 6", locale = "ko", original = true },
+  { name = "Yuryeongeul Jabara OST Part 6", locale = "ko-Latn", default = true },
+  { name = "Catch the Ghost OST Part 6", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "15and/jimin"
+names = [
+  { name = "박지민", locale = "ko", original = true },
+  { name = "Jimin Park", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10356609" },
+]
