@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-daisy/kkotgilman-georeoyo-ost-part-08/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-daisy/saranghaeyo-geudae"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "the-daisy/saranghaeyo-geudae-inst"
+duration = "3:37"
