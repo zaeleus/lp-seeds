@@ -1,0 +1,15 @@
+artist-id = "bbahn"
+kind = "single"
+
+names = [
+  { name = "아직 여기에 기다리고 있어", locale = "ko", original = true },
+  { name = "Ajik Yeogie Gidarigo Isseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10356068" },
+]

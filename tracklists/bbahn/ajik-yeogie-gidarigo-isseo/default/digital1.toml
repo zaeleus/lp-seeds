@@ -1,0 +1,13 @@
+medium-ids = [
+  "bbahn/ajik-yeogie-gidarigo-isseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bbahn/ajik-yeogie-gidarigo-isseo"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "bbahn/ajik-yeogie-gidarigo-isseo-inst"
+duration = "3:21"
