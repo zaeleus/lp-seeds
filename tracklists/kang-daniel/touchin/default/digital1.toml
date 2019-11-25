@@ -1,0 +1,13 @@
+medium-ids = [
+  "kang-daniel/touchin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kang-daniel/touchin"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "kang-daniel/adulthood"
+duration = "3:06"
