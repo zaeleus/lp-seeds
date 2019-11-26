@@ -1,0 +1,63 @@
+medium-ids = [
+  "dynamic-duo/off-duty/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dynamic-duo/2040-feat-myundo"
+duration = "4:27"
+
+[[tracks]]
+position = 2
+song-id = "dynamic-duo/desperado"
+duration = "3:39"
+
+[[tracks]]
+position = 3
+song-id = "dynamic-duo/career-high-feat-paloalto-nafla-chancellor"
+duration = "4:19"
+
+[[tracks]]
+position = 4
+song-id = "dynamic-duo/blue-feat-crush-sole"
+duration = "4:24"
+
+[[tracks]]
+position = 5
+song-id = "dynamic-duo/return-feat-thama"
+duration = "3:48"
+
+[[tracks]]
+position = 6
+song-id = "dynamic-duo/saryugui-janchi-feat-yoo-byung-jae-a-k-a-beelzebub-the-killer"
+duration = "3:03"
+
+[[tracks]]
+position = 7
+song-id = "dynamic-duo/livin-the-life-special-appearance-verbal-jint"
+duration = "4:12"
+
+[[tracks]]
+position = 8
+song-id = "dynamic-duo/eonjewa"
+duration = "3:41"
+
+[[tracks]]
+position = 9
+song-id = "dynamic-duo/maepgojjagodangeo-feat-penomeco"
+duration = "3:38"
+
+[[tracks]]
+position = 10
+song-id = "dynamic-duo/joeun-chingudeul-feat-swings"
+duration = "4:32"
+
+[[tracks]]
+position = 11
+song-id = "dynamic-duo/bukhyang-feat-oh-hyuk"
+duration = "3:47"
+
+[[tracks]]
+position = 12
+song-id = "dynamic-duo/geugeollo-dwaesseo"
+duration = "4:01"

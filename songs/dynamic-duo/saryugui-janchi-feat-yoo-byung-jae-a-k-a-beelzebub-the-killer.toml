@@ -1,0 +1,4 @@
+names = [
+  { name = "살육의 잔치 (Feat. 유병재 a.k.a 벨제붑더킬러)", locale = "ko", original = true },
+  { name = "Saryugui Janchi (Feat. Yoo Byung Jae a.k.a Beelzebub the Killer)", locale = "ko-Latn", default = true },
+]

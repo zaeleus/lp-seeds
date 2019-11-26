@@ -1,0 +1,4 @@
+names = [
+  { name = "좋은 친구들 (Feat. 스윙스)", locale = "ko", original = true },
+  { name = "Joeun Chingudeul (Feat. Swings)", locale = "ko-Latn", default = true },
+]

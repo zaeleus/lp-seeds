@@ -1,0 +1,4 @@
+names = [
+  { name = "Livin' the life (우정출연 버벌진트)", locale = "ko", original = true },
+  { name = "Livin' the life (Special Appearance Verbal Jint)", locale = "en", default = true },
+]

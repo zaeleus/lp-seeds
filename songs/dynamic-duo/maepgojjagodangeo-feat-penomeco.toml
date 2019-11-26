@@ -1,0 +1,4 @@
+names = [
+  { name = "맵고짜고단거 (Feat. 페노메코)", locale = "ko", original = true },
+  { name = "Maepgojjagodangeo (Feat. PENOMECO)", locale = "ko-Latn", default = true },
+]
