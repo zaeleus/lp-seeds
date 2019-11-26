@@ -1,0 +1,5 @@
+names = [
+  { name = "주문을 외워봐 (Magic Spell)", locale = "ko", original = true },
+  { name = "Jumuneul Oewobwa (Magic Spell)", locale = "ko-Latn", default = true },
+  { name = "Magic Spell", locale = "en" },
+]

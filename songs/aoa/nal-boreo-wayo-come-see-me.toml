@@ -1,0 +1,5 @@
+names = [
+  { name = "날 보러 와요 (Come See Me)", locale = "ko", original = true },
+  { name = "Nal Boreo Wayo (Come See Me)", locale = "ko-Latn", default = true },
+  { name = "Come See Me", locale = "en" },
+]
