@@ -1,0 +1,4 @@
+names = [
+  { name = "러브미 (love me) (feat. hoody)", locale = "ko", original = true },
+  { name = "love me (feat. Hoody)", locale = "en", default = true },
+]

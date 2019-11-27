@@ -1,0 +1,15 @@
+artist-id = "nafla"
+kind = "single"
+
+names = [
+  { name = "러브미 (love me) (feat. hoody)", locale = "ko", original = true },
+  { name = "love me (feat. Hoody)", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10356973" },
+]
