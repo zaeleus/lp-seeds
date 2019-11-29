@@ -1,0 +1,33 @@
+medium-ids = [
+  "limitless/wish-wish/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "limitless/limitless-intro"
+duration = "1:07"
+
+[[tracks]]
+position = 2
+song-id = "limitless/wish-wish"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "limitless/sup-lost"
+duration = "3:49"
+
+[[tracks]]
+position = 4
+song-id = "limitless/machimpyo-period"
+duration = "3:08"
+
+[[tracks]]
+position = 5
+song-id = "limitless/monghwangeuk-dream-play"
+duration = "3:32"
+
+[[tracks]]
+position = 6
+song-id = "limitless/wish-wish-inst"
+duration = "3:25"

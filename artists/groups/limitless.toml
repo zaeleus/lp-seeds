@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2019"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "리미트리스", locale = "ko", original = true },
+  { name = "LIMITLESS", locale = "en", default = true },
+]
