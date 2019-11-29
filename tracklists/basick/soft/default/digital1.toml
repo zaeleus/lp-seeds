@@ -1,0 +1,33 @@
+medium-ids = [
+  "basick/soft/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "basick/a-piece-of-art-feat-horim"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "basick/choko-feat-the-deep"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "basick/sachungi-feat-layone"
+duration = "3:19"
+
+[[tracks]]
+position = 4
+song-id = "basick/naegero-wa-feat-brwn"
+duration = "2:59"
+
+[[tracks]]
+position = 5
+song-id = "basick/dap-eomneun-neo-feat-yeo-journey"
+duration = "4:34"
+
+[[tracks]]
+position = 6
+song-id = "basick/iteul-feat-rose"
+duration = "3:11"

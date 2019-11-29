@@ -1,0 +1,3 @@
+names = [
+  { name = "A Piece of Art (Feat. Horim)", locale = "ko", original = true, default = true },
+]
