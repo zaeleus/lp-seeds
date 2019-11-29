@@ -1,0 +1,15 @@
+artist-id = "the-daisy"
+kind = "single"
+
+names = [
+  { name = "더이상", locale = "ko", original = true },
+  { name = "Deoisang", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10358507" },
+]

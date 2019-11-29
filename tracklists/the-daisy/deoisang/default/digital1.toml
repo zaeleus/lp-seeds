@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-daisy/deoisang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-daisy/deoisang"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "the-daisy/deoisang-inst"
+duration = "3:30"
