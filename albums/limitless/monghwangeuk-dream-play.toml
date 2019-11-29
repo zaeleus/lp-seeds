@@ -1,0 +1,15 @@
+artist-id = "limitless"
+kind = "single"
+
+names = [
+  { name = "몽환극 (Dream Play)", locale = "ko", original = true },
+  { name = "Monghwangeuk (Dream Play)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-07-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10305146" },
+]
