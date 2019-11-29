@@ -1,0 +1,13 @@
+medium-ids = [
+  "newkidd/come/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "newkidd/come"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "newkidd/come-inst"
+duration = "3:05"

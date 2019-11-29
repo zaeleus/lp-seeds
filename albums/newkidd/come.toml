@@ -1,0 +1,14 @@
+artist-id = "newkidd"
+kind = "single"
+
+names = [
+  { name = "COME", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-11-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10358675" },
+]
