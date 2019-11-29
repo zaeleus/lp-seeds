@@ -1,0 +1,13 @@
+medium-ids = [
+  "various-artists/queendom-box-of-pandora-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "various-artists/queendom-box-of-pandora-part-1/siltago-malhae-nightmare-version"
+duration = "4:17"
+
+[[tracks]]
+position = 2
+song-id = "various-artists/queendom-box-of-pandora-part-1/i-miss-you"
+duration = "4:23"

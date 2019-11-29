@@ -1,0 +1,9 @@
+names = [
+  { name = "싫다고 말해 (Nightmare Version)", locale = "ko", original = true },
+  { name = "Siltago Malhae (Nightmare Version)", locale = "ko-Latn", default = true },
+  { name = "Put It Straight (Nightmare Version)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "g-i-dle" },
+]
