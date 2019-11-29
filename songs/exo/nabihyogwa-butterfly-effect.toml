@@ -1,0 +1,5 @@
+names = [
+  { name = "나비효과 (Butterfly Effect)", locale = "ko", original = true },
+  { name = "Nabihyogwa (Butterfly Effect)", locale = "ko-Latn", default = true },
+  { name = "Butterfly Effect", locale = "en" },
+]
