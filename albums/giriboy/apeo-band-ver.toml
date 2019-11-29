@@ -1,0 +1,15 @@
+artist-id = "giriboy"
+kind = "single"
+
+names = [
+  { name = "아퍼 (Band Ver.)", locale = "ko", original = true },
+  { name = "Apeo (Band Ver.)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10359101" },
+]

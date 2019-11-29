@@ -1,0 +1,4 @@
+names = [
+  { name = "아퍼 (Band Ver.) (Feat. 영비, YUNHWAY, Lil tachi, 한요한, JUSTHIS, 스윙스)", locale = "ko", original = true },
+  { name = "Apeo (Band Ver.) (Feat. Young B, YUNHWAY, Lil tachi, Han Yo Han, JUSTHIS, Swings)", locale = "ko-Latn", default = true },
+]

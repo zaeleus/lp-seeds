@@ -1,0 +1,8 @@
+medium-ids = [
+  "giriboy/apeo-band-ver/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giriboy/apeo-band-ver-feat-young-b-yunhway-lil-tachi-han-yo-han-justhis-swings"
+duration = "5:00"
