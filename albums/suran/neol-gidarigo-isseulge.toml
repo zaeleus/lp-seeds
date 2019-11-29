@@ -1,0 +1,15 @@
+artist-id = "suran"
+kind = "single"
+
+names = [
+  { name = "널 기다리고 있을게", locale = "ko", original = true },
+  { name = "Neol Gidarigo Isseulge", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10359120" },
+]

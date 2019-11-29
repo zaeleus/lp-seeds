@@ -1,0 +1,13 @@
+medium-ids = [
+  "suran/neol-gidarigo-isseulge/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "suran/neol-gidarigo-isseulge"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "suran/neol-gidarigo-isseulge-inst"
+duration = "4:03"
