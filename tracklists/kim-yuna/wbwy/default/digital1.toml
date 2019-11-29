@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-yuna/wbwy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-yuna/wbwy"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "kim-yuna/wbwy-inst"
+duration = "3:05"
