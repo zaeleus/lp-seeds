@@ -2,8 +2,8 @@ artist-id = "various-artists"
 kind = "lp"
 
 names = [
-  { name = "퀸덤 [FINAL 컴백 싱글]", locale = "ko", original = true },
-  { name = "Queendom [Final Comeback Single]", locale = "en", default = true },
+  { name = "퀸덤 <FINAL 컴백 싱글>", locale = "ko", original = true },
+  { name = "Queendom <Final Comeback Single>", locale = "en", default = true },
 ]
 
 [[releases]]

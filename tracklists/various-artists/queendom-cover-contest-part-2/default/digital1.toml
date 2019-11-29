@@ -1,0 +1,13 @@
+medium-ids = [
+  "various-artists/queendom-cover-contest-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "various-artists/queendom-cover-contest-part-2/destiny-naui-jigu"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "various-artists/queendom-cover-contest-part-2/sixth-sense"
+duration = "4:17"

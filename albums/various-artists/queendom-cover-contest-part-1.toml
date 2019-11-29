@@ -2,8 +2,8 @@ artist-id = "various-artists"
 kind = "ep"
 
 names = [
-  { name = "퀸덤 Part. 1", locale = "ko", original = true },
-  { name = "Queendom Part. 1", locale = "en", default = true },
+  { name = "퀸덤 <커버곡 경연> Part.1", locale = "ko", original = true },
+  { name = "Queendom <Cover Constest> Part.1", locale = "en", default = true },
 ]
 
 [[releases]]
