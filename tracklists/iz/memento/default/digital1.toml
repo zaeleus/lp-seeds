@@ -1,0 +1,13 @@
+medium-ids = [
+  "iz/memento/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "iz/memento"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "iz/memento-inst"
+duration = "4:00"

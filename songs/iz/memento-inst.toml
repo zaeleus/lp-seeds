@@ -1,0 +1,4 @@
+names = [
+  { name = "메멘토 (Memento) (Inst)", locale = "ko", original = true },
+  { name = "Memento (Inst)", locale = "en", default = true },
+]

@@ -1,0 +1,15 @@
+artist-id = "iz"
+kind = "single"
+
+names = [
+  { name = "메멘토 (Memento)", locale = "ko", original = true },
+  { name = "Memento", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10359102" },
+]
