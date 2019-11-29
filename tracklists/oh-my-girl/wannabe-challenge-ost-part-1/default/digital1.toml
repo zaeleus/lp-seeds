@@ -1,0 +1,13 @@
+medium-ids = [
+  "oh-my-girl/wannabe-challenge-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-my-girl/gieokhae"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "oh-my-girl/gieokhae-inst"
+duration = "3:18"
