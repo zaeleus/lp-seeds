@@ -1,0 +1,8 @@
+medium-ids = [
+  "paul-kim/maeum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "paul-kim/maeum"
+duration = "4:42"
