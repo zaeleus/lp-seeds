@@ -1,0 +1,18 @@
+medium-ids = [
+  "various-artists/queendom-box-of-pandora-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "various-artists/queendom-box-of-pandora-part-2/twilight"
+duration = "4:41"
+
+[[tracks]]
+position = 2
+song-id = "various-artists/queendom-box-of-pandora-part-2/cameo-musical-ver"
+duration = "4:16"
+
+[[tracks]]
+position = 3
+song-id = "various-artists/queendom-box-of-pandora-part-2/nun-ko-ip"
+duration = "3:58"

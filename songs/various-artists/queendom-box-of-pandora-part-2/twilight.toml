@@ -1,0 +1,7 @@
+names = [
+  { name = "Twilight", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "oh-my-girl" },
+]

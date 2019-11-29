@@ -1,0 +1,15 @@
+artist-id = "various-artists"
+kind = "lp"
+
+names = [
+  { name = "퀸덤 <팬도라의 상자> Part. 2", locale = "ko", original = true },
+  { name = "Queendom <Box of Pandora> Part. 2", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-10-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10343651" },
+]

@@ -1,0 +1,12 @@
+names = [
+  { name = "눈, 코, 입", locale = "ko", original = true },
+  { name = "Nun, Ko, Ip", locale = "ko-Latn", default = true },
+  { name = "Eyes, Nose, Lips", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "2ne1/bom"
+names = [
+  { name = "박봄", locale = "ko", original = true},
+  { name = "Park Bom", locale = "ko-Latn", default = true },
+]
