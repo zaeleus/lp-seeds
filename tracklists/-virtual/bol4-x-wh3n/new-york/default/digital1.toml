@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/bol4-x-wh3n/new-york/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/bol4-x-wh3n/new-york"
+duration = "4:20"

@@ -1,0 +1,25 @@
+artist-id = "-virtual/bol4-x-wh3n"
+kind = "single"
+
+names = [
+  { name = "New York", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "bolbbalgan4"
+names = [
+  { name = "볼빨간사춘기", locale = "ko", original = true },
+  { name = "BOL4", locale = "en", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "wh3n"
+
+[[releases]]
+released-on = "2019-11-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10357857" },
+]
