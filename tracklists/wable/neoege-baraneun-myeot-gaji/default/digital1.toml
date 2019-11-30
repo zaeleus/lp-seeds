@@ -1,0 +1,13 @@
+medium-ids = [
+  "wable/neoege-baraneun-myeot-gaji/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wable/neoege-baraneun-myeot-gaji"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "wable/neoege-baraneun-myeot-gaji-inst"
+duration = "3:18"
