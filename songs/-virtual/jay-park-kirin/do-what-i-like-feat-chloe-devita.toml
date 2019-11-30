@@ -1,0 +1,8 @@
+names = [
+  { name = "Do What I Like (Feat. Chloe DeVita)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "jay-park", separator = ", " },
+  { artist-id = "kirin" },
+]

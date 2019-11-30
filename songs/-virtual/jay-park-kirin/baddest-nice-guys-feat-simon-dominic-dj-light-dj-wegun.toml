@@ -1,0 +1,9 @@
+names = [
+  { name = "Baddest Nice Guys (Feat. 사이먼 도미닉, DJ Light, DJ Wegun)", locale = "ko", original = true },
+  { name = "Baddest Nice Guys (Feat. Simon Dominic, DJ Light, DJ Wegun)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "jay-park", separator = ", " },
+  { artist-id = "kirin" },
+]

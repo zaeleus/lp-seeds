@@ -1,0 +1,23 @@
+medium-ids = [
+  "-virtual/jay-park-kirin/baddest-nice-guys/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/jay-park-kirin/one-nation-feat-plastic-kid"
+duration = "1:41"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/jay-park-kirin/do-what-i-like-feat-chloe-devita"
+duration = "3:01"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/jay-park-kirin/oneulbamen-feat-ugly-duck"
+duration = "3:35"
+
+[[tracks]]
+position = 4
+song-id = "-virtual/jay-park-kirin/baddest-nice-guys-feat-simon-dominic-dj-light-dj-wegun"
+duration = "4:00"

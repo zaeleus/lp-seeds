@@ -1,0 +1,19 @@
+artist-id = "-virtual/jay-park-kirin"
+kind = "ep"
+
+names = [
+  { name = "Baddest Nice Guys", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "jay-park", separator = ", " },
+  { artist-id = "kirin" },
+]
+
+[[releases]]
+released-on = "2019-08-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10314300" },
+]

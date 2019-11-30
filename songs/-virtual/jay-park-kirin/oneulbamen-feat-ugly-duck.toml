@@ -1,0 +1,10 @@
+names = [
+  { name = "오늘밤엔 (Feat. Ugly Duck)", locale = "ko", original = true },
+  { name = "Oneulbamen (Feat. Ugly Duck)", locale = "ko-Latn", default = true },
+  { name = "Tonight (Feat. Ugly Duck)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "jay-park", separator = ", " },
+  { artist-id = "kirin" },
+]
