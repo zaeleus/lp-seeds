@@ -1,0 +1,15 @@
+artist-id = "babylon"
+kind = "single"
+
+names = [
+  { name = "너의 온기가 되어줄게", locale = "ko", original = true },
+  { name = "Neoui Ongiga Doeeojulge", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10359161" },
+]
