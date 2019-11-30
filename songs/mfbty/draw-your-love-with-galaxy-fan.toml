@@ -1,0 +1,3 @@
+names = [
+  { name = "Draw Your Love (with Galaxy Fan)", locale = "ko", original = true, default = true },
+]
