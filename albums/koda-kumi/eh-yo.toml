@@ -1,0 +1,15 @@
+artist-id = "koda-kumi"
+kind = "single"
+
+names = [
+  { name = "Eh Yo", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-07-03"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.apple.com/jp/album/1469236291" },
+  { url = "https://mora.jp/package/43000002/ANTCD-32350/" },
+]
