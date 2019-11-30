@@ -1,0 +1,8 @@
+names = [
+  { name = "We Be Wildin (Feat. HAON)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "yultron", separator = " X " },
+  { artist-id = "jay-park" },
+]

@@ -1,0 +1,23 @@
+medium-ids = [
+  "-virtual/yultron-x-jay-park/on-fire/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/yultron-x-jay-park/on-fire"
+duration = "2:34"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/yultron-x-jay-park/westcoast"
+duration = "2:56"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/yultron-x-jay-park/say-goodbye-feat-sik-k-ph-1"
+duration = "3:03"
+
+[[tracks]]
+position = 4
+song-id = "-virtual/yultron-x-jay-park/we-be-wildin-feat-haon"
+duration = "3:07"
