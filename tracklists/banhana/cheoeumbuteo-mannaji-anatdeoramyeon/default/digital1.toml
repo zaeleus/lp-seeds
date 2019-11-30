@@ -1,0 +1,13 @@
+medium-ids = [
+  "banhana/cheoeumbuteo-mannaji-anatdeoramyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "banhana/cheoeumbuteo-mannaji-anatdeoramyeon"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "banhana/cheoeumbuteo-mannaji-anatdeoramyeon-inst"
+duration = "3:17"

@@ -1,0 +1,15 @@
+artist-id = "banhana"
+kind = "single"
+
+names = [
+  { name = "처음부터 만나지 않았더라면", locale = "ko", original = true },
+  { name = "Cheoeumbuteo Mannaji Anatdeoramyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10359181" },
+]
