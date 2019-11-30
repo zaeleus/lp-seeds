@@ -1,0 +1,19 @@
+artist-id = "-virtual/yultron-x-jay-park"
+kind = "single"
+
+names = [
+  { name = "WestCoast", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "yultron", separator = " X " },
+  { artist-id = "jay-park" },
+]
+
+[[releases]]
+released-on = "2019-07-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10307850" },
+]
