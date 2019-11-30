@@ -1,0 +1,73 @@
+medium-ids = [
+  "koda-kumi/re-cord/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "koda-kumi/do-me"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "koda-kumi/get-naked"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "koda-kumi/strip"
+duration = "3:33"
+
+[[tracks]]
+position = 4
+song-id = "koda-kumi/k"
+duration = "3:29"
+
+[[tracks]]
+position = 5
+song-id = "koda-kumi/rich-famous-feat-sean-paul"
+duration = "4:09"
+
+[[tracks]]
+position = 6
+song-id = "koda-kumi/again"
+duration = "5:20"
+
+[[tracks]]
+position = 7
+song-id = "koda-kumi/merry-go-round"
+duration = "4:10"
+
+[[tracks]]
+position = 8
+song-id = "koda-kumi/eh-yo-re-cord-edit"
+duration = "4:24"
+
+[[tracks]]
+position = 9
+song-id = "koda-kumi/goldfinger-2019"
+duration = "4:33"
+
+[[tracks]]
+position = 10
+song-id = "koda-kumi/put-your-hands-up"
+duration = "4:24"
+
+[[tracks]]
+position = 11
+song-id = "koda-kumi/summer-time"
+duration = "3:36"
+
+[[tracks]]
+position = 12
+song-id = "koda-kumi/omg"
+duration = "3:56"
+
+[[tracks]]
+position = 13
+song-id = "koda-kumi/shutout"
+duration = "3:38"
+
+[[tracks]]
+position = 14
+song-id = "koda-kumi/livin-la-vida-loca"
+duration = "4:32"

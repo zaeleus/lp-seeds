@@ -1,0 +1,15 @@
+artist-id = "koda-kumi"
+kind = "lp"
+
+names = [
+  { name = "re(CORD)", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-11-13"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.apple.com/jp/album/1485850768" },
+  { url = "https://mora.jp/package/43000002/ANTCD-A0000000598/" },
+]

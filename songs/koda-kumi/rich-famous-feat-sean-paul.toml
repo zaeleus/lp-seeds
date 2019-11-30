@@ -1,0 +1,3 @@
+names = [
+  { name = "Rich & Famous feat. Sean Paul", locale = "ja", original = true, default = true },
+]
