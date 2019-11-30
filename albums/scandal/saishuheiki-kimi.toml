@@ -1,0 +1,17 @@
+artist-id = "scandal"
+kind = "single"
+
+names = [
+  { name = "最終兵器、君", locale = "ja", original = true },
+  { name = "Saishuheiki Kimi", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-06"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.apple.com/jp/album/1484291009" },
+  { url = "https://mora.jp/package/43000005/VE3WA-18547/" },
+  { url = "https://mora.jp/package/43000005/VE5HD-32505_F/" },
+]

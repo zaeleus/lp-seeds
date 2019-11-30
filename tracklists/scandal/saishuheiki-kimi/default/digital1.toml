@@ -1,0 +1,8 @@
+medium-ids = [
+  "scandal/saishuheiki-kimi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "scandal/saishuheiki-kimi"
+duration = "3:53"
