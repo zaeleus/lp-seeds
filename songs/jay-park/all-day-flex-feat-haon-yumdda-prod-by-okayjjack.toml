@@ -1,0 +1,4 @@
+names = [
+  { name = "All Day (Flex) (Feat. HAON (김하온) & 염따) (Prod. By OkayJJack)", locale = "ko", original = true },
+  { name = "All Day (Flex) (Feat. HAON & YUMDDA) (Prod. By OkayJJack)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,3 @@
+names = [
+  { name = "Nothing Matters (Prod. By Ugly Duck)", locale = "ko", original = true, default = true },
+]

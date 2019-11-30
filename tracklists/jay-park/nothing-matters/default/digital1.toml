@@ -1,0 +1,28 @@
+medium-ids = [
+  "jay-park/nothing-matters/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jay-park/all-day-flex-feat-haon-yumdda-prod-by-okayjjack"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "jay-park/nothing-matters-prod-by-ugly-duck"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "jay-park/yummy-feat-crush-prod-by-cha-cha-malone"
+duration = "3:12"
+
+[[tracks]]
+position = 4
+song-id = "jay-park/hollo-prod-by-slom"
+duration = "3:17"
+
+[[tracks]]
+position = 5
+song-id = "jay-park/encore-prod-by-slom"
+duration = "2:24"

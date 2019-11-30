@@ -1,0 +1,14 @@
+artist-id = "jay-park"
+kind = "ep"
+
+names = [
+  { name = "Nothing Matters", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-07-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10302579" },
+]
