@@ -1,0 +1,13 @@
+medium-ids = [
+  "seventeen/chocolate-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seventeen/sweetest-thing"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "seventeen/sweetest-thing-inst"
+duration = "3:40"
