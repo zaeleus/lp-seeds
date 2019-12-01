@@ -1,0 +1,14 @@
+artist-id = "h-u-b"
+kind = "single"
+
+names = [
+  { name = "Finale", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-11-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10220793" },
+]
