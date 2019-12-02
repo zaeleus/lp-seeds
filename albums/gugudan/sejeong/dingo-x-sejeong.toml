@@ -1,0 +1,15 @@
+artist-id = "gugudan/sejeong"
+kind = "single"
+
+names = [
+  { name = "Dingo X 세정", locale = "ko", original = true },
+  { name = "Dingo X Sejeong", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10359488" },
+]

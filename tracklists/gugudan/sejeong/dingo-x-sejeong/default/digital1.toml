@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan/sejeong/dingo-x-sejeong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/sejeong/tunnel"
+duration = "4:09"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/sejeong/tunnel-inst"
+duration = "4:09"
