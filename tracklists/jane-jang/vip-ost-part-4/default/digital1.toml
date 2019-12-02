@@ -1,0 +1,13 @@
+medium-ids = [
+  "jane-jang/vip-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jane-jang/shame-on-you"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "jane-jang/shame-on-you-inst"
+duration = "3:46"
