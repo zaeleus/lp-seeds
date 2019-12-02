@@ -1,0 +1,4 @@
+names = [
+  { name = "써니데이 (Feat. nafla)", locale = "ko", original = true },
+  { name = "Sseonidei (Feat. nafla)", locale = "ko-Latn", default = true },
+]

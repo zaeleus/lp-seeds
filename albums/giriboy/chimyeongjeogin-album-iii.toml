@@ -1,0 +1,15 @@
+artist-id = "giriboy"
+kind = "lp"
+
+names = [
+  { name = "치명적인 앨범 Ⅲ", locale = "ko", original = true },
+  { name = "Chimyeongjeogin Album III", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10359675" },
+]

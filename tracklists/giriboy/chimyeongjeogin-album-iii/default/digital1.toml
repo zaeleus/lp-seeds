@@ -1,0 +1,43 @@
+medium-ids = [
+  "giriboy/chimyeongjeogin-album-iii/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giriboy/byeorijigoitda"
+duration = "1:59"
+
+[[tracks]]
+position = 2
+song-id = "giriboy/jeseol"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "giriboy/wacheurong-feat-yunhway"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "giriboy/ittaeda"
+duration = "3:35"
+
+[[tracks]]
+position = 5
+song-id = "giriboy/jibeuro"
+duration = "4:02"
+
+[[tracks]]
+position = 6
+song-id = "giriboy/jeungo-feat-ahn-byung-woong"
+duration = "3:17"
+
+[[tracks]]
+position = 7
+song-id = "giriboy/sseonidei-feat-nafla"
+duration = "3:43"
+
+[[tracks]]
+position = 8
+song-id = "giriboy/geoji-feat-yunhway-jhnovr-justhis"
+duration = "4:30"
