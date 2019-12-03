@@ -1,0 +1,13 @@
+medium-ids = [
+  "soran/gijeok-what-about-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "soran/gijeok-what-about-you"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "soran/gijeok-what-about-you-inst"
+duration = "4:15"
