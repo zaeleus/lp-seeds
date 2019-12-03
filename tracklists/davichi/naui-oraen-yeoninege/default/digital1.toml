@@ -1,0 +1,13 @@
+medium-ids = [
+  "davichi/naui-oraen-yeoninege/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/naui-oraen-yeoninege"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "davichi/naui-oraen-yeoninege-inst"
+duration = "3:54"

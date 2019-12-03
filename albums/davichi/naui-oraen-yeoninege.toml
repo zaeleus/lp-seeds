@@ -1,0 +1,15 @@
+artist-id = "davichi"
+kind = "single"
+
+names = [
+  { name = "나의 오랜 연인에게", locale = "ko", original = true },
+  { name = "Naui Oraen Yeoninege", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10359789" },
+]
