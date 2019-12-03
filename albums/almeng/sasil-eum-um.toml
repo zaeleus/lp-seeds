@@ -1,0 +1,15 @@
+artist-id = "almeng"
+kind = "single"
+
+names = [
+  { name = "사실 음 (Um)", locale = "ko", original = true },
+  { name = "Sasil Eum (Um)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10359587" },
+]
