@@ -1,0 +1,14 @@
+artist-id = "ourr"
+kind = "ep"
+
+names = [
+  { name = "I", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-12-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10359916" },
+]

@@ -1,0 +1,38 @@
+medium-ids = [
+  "ourr/i/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ourr/i"
+duration = "1:25"
+
+[[tracks]]
+position = 2
+song-id = "ourr/floor"
+duration = "4:24"
+
+[[tracks]]
+position = 3
+song-id = "ourr/20-3"
+duration = "3:19"
+
+[[tracks]]
+position = 4
+song-id = "ourr/circle"
+duration = "3:51"
+
+[[tracks]]
+position = 5
+song-id = "ourr/cycle"
+duration = "3:42"
+
+[[tracks]]
+position = 6
+song-id = "ourr/seoninjang"
+duration = "4:16"
+
+[[tracks]]
+position = 7
+song-id = "ourr/eungdal"
+duration = "4:23"
