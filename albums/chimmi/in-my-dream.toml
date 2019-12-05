@@ -1,0 +1,14 @@
+artist-id = "chimmi"
+kind = "single"
+
+names = [
+  { name = "In My Dream", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-12-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10360431" },
+]

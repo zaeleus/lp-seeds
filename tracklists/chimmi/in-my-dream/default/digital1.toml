@@ -1,0 +1,8 @@
+medium-ids = [
+  "chimmi/in-my-dream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "chimmi/in-my-dream"
+duration = "4:27"
