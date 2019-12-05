@@ -1,0 +1,15 @@
+artist-id = "jung-seung-hwan"
+kind = "single"
+
+names = [
+  { name = "십이월 이십오일의 고백", locale = "ko", original = true },
+  { name = "Sibiwol Isiboirui Gobaek", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10361322" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-seung-hwan/sibiwol-isiboirui-gobaek/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-seung-hwan/annyeong-gyeoul"
+duration = "4:23"
+
+[[tracks]]
+position = 2
+song-id = "jung-seung-hwan/sibiwol-isiboirui-gobaek"
+duration = "4:17"
