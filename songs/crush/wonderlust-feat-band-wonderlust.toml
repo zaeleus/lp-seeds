@@ -1,0 +1,3 @@
+names = [
+  { name = "Wonderlust (Feat. Band Wonderlust)", locale = "ko", original = true, default = true },
+]

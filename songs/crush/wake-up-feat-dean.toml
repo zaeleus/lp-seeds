@@ -1,0 +1,3 @@
+names = [
+  { name = "Wake Up (Feat. DEAN)", locale = "ko", original = true, default = true },
+]
