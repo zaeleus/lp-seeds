@@ -1,0 +1,4 @@
+names = [
+  { name = "크리스마스 신기루 (Inst.)", locale = "ko", original = true },
+  { name = "Christmas Single (Inst.)", locale = "en", default = true },
+]

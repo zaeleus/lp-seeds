@@ -1,0 +1,13 @@
+medium-ids = [
+  "aisle/christmas-single/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aisle/christmas-single"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "aisle/christmas-single-inst"
+duration = "4:14"

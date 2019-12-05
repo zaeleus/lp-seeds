@@ -1,0 +1,15 @@
+artist-id = "aisle"
+kind = "single"
+
+names = [
+  { name = "크리스마스 신기루", locale = "ko", original = true },
+  { name = "Christmas Single", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10360438" },
+]
