@@ -1,0 +1,38 @@
+medium-ids = [
+  "stray-kids/cle-levanter/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stray-kids/stop"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "stray-kids/double-knot"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "stray-kids/baram-levanter"
+duration = "3:16"
+
+[[tracks]]
+position = 4
+song-id = "stray-kids/booster"
+duration = "3:41"
+
+[[tracks]]
+position = 5
+song-id = "stray-kids/astronaut"
+duration = "3:00"
+
+[[tracks]]
+position = 6
+song-id = "stray-kids/sunshine"
+duration = "3:43"
+
+[[tracks]]
+position = 7
+song-id = "stray-kids/you-can-stay"
+duration = "3:29"
