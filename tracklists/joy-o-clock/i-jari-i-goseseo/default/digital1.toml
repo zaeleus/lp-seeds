@@ -1,0 +1,13 @@
+medium-ids = [
+  "joy-o-clock/i-jari-i-goseseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "joy-o-clock/i-jari-i-goseseo"
+duration = "4:04"
+
+[[tracks]]
+position = 2
+song-id = "joy-o-clock/i-jari-i-goseseo-inst"
+duration = "4:04"

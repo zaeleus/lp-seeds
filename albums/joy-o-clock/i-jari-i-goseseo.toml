@@ -1,0 +1,15 @@
+artist-id = "joy-o-clock"
+kind = "single"
+
+names = [
+  { name = "이 자리 이 곳에서", locale = "ko", original = true },
+  { name = "I Jari I Goseseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10361656" },
+]
