@@ -1,0 +1,33 @@
+medium-ids = [
+  "sbgb/midnight-christmas/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sbgb/jingle-bells"
+duration = "2:23"
+
+[[tracks]]
+position = 2
+song-id = "sbgb/white-christmas"
+duration = "3:00"
+
+[[tracks]]
+position = 3
+song-id = "sbgb/winter-wonderland"
+duration = "3:12"
+
+[[tracks]]
+position = 4
+song-id = "sbgb/silent-night-holy-night"
+duration = "2:56"
+
+[[tracks]]
+position = 5
+song-id = "sbgb/jingle-bells-inst"
+duration = "2:06"
+
+[[tracks]]
+position = 6
+song-id = "sbgb/winter-wonderland-inst"
+duration = "3:12"
