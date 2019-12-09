@@ -1,0 +1,8 @@
+medium-ids = [
+  "eyedi/mu-con-collabo-2019/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eyedi/7up"
+duration = "3:06"
