@@ -1,0 +1,13 @@
+medium-ids = [
+  "2ne1/cl/sarangui-ireumeuro/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2ne1/cl/done161201"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "2ne1/cl/cheoeumeuro-170205"
+duration = "2:37"
