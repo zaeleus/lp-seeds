@@ -1,0 +1,13 @@
+medium-ids = [
+  "car-the-garden/chocolate-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "car-the-garden/namu-chocolate-ost-ver"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "car-the-garden/namu-chocolate-ost-ver-inst"
+duration = "3:48"

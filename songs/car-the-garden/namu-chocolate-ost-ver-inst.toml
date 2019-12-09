@@ -1,0 +1,4 @@
+names = [
+  { name = "나무 (초콜릿 OST Ver.) (inst.)", locale = "ko", original = true },
+  { name = "Namu (Chocolate OST Ver.) (inst.)", locale = "ko-Latn", default = true },
+]
