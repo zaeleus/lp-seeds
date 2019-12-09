@@ -1,0 +1,3 @@
+names = [
+  { name = "WAVE (Ollounder's Bold Dynamics Mix)", locale = "ko", original = true, default = true },
+]

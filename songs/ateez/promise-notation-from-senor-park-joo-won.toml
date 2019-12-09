@@ -1,0 +1,4 @@
+names = [
+  { name = "Promise (Notation from Señor 박주원)", locale = "ko", original = true },
+  { name = "Promise (Notation from Señor Park Joo Won)", locale = "ko-Latn", default = true },
+]

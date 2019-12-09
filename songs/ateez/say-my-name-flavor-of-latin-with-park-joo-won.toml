@@ -1,0 +1,4 @@
+names = [
+  { name = "Say My Name (Flavor of Latin with 박주원)", locale = "ko", original = true },
+  { name = "Say My Name (Flavor of Latin with Park Joo Won)", locale = "ko-Latn", default = true },
+]

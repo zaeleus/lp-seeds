@@ -1,0 +1,4 @@
+names = [
+  { name = "해적왕 (Overload Mix)", locale = "ko", original = true },
+  { name = "Haejeogwang (Overload Mix)", locale = "ko-Latn", default = true },
+]
