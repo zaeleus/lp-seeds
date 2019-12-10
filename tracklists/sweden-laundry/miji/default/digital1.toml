@@ -1,0 +1,18 @@
+medium-ids = [
+  "sweden-laundry/miji/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sweden-laundry/urineun-neomu-maneun-geoseul"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "sweden-laundry/miji"
+duration = "3:19"
+
+[[tracks]]
+position = 3
+song-id = "sweden-laundry/bamsanchaek"
+duration = "2:40"
