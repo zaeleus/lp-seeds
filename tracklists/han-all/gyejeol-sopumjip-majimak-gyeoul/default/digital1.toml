@@ -1,0 +1,13 @@
+medium-ids = [
+  "han-all/gyejeol-sopumjip-majimak-gyeoul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "han-all/welcome"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "han-all/nareul-itjimarayo"
+duration = "3:21"
