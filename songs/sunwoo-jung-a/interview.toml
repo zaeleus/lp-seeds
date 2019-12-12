@@ -1,0 +1,4 @@
+names = [
+  { name = "인터뷰 (Interview)", locale = "ko", original = true },
+  { name = "Interview", locale = "en", default = true },
+]

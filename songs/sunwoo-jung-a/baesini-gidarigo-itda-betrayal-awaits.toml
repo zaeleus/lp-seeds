@@ -1,0 +1,5 @@
+names = [
+  { name = "배신이 기다리고 있다 (Betrayal Awaits)", locale = "ko", original = true },
+  { name = "Baesini Gidarigo Itda (Betrayal Awaits)", locale = "ko-Latn", default = true },
+  { name = "Betrayal Awaits", locale = "en" },
+]

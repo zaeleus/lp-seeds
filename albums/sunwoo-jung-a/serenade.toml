@@ -1,0 +1,14 @@
+artist-id = "sunwoo-jung-a"
+kind = "lp"
+
+names = [
+  { name = "Serenade", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-12-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10364036" },
+]

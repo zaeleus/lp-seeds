@@ -1,0 +1,5 @@
+names = [
+  { name = "생애 (LIFE)", locale = "ko", original = true },
+  { name = "Saengae (LIFE)", locale = "ko-Latn", default = true },
+  { name = "LIFE", locale = "en" },
+]

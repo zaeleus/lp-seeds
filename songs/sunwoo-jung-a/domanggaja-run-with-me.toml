@@ -1,0 +1,5 @@
+names = [
+  { name = "도망가자 (Run With Me)", locale = "ko", original = true },
+  { name = "Domanggaja (Run With Me)", locale = "ko-Latn", default = true },
+  { name = "Run With Me", locale = "en" },
+]

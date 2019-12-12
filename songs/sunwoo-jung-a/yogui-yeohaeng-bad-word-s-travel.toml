@@ -1,0 +1,5 @@
+names = [
+  { name = "욕의 여행 (Bad Word's Travel)", locale = "ko", original = true },
+  { name = "Yogui Yeohaeng (Bad Word's Travel)", locale = "ko-Latn", default = true },
+  { name = "Bad Word's Travel", locale = "en" },
+]
