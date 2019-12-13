@@ -1,0 +1,4 @@
+names = [
+  { name = "Slow down (Feat. Meego, 김하온 (HAON))", locale = "ko", original = true },
+  { name = "Slow down (Feat. Meego, HAON)", locale = "ko-Latn", default = true },
+]

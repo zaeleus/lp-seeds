@@ -1,0 +1,4 @@
+names = [
+  { name = "When I fall in love (Feat. Meego, 수란)", locale = "ko", original = true },
+  { name = "When I fall in love (Feat. Meego, Suran)", locale = "ko-Latn", default = true },
+]
