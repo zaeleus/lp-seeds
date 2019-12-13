@@ -1,0 +1,15 @@
+artist-id = "cherry-coke"
+kind = "single"
+
+names = [
+  { name = "찹쌀떡 (feat. 최엘비 (CHOILB))", locale = "ko", original = true },
+  { name = "Chapssaltteok (Feat. CHOILB)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10363977" },
+]
