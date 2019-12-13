@@ -1,0 +1,5 @@
+names = [
+  { name = "보여 (Think About You)", locale = "ko", original = true },
+  { name = "Boyeo (Think About You)", locale = "ko-Latn", default = true },
+  { name = "Think About You", locale = "en" },
+]

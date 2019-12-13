@@ -1,0 +1,5 @@
+names = [
+  { name = "말린 장미 (Dry Flower)", locale = "ko", original = true },
+  { name = "Mallin Jangmi (Dry Flower)", locale = "ko-Latn", default = true },
+  { name = "Dry Flower", locale = "en" },
+]

@@ -1,0 +1,33 @@
+medium-ids = [
+  "boa/starry-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boa/starry-night-feat-crush"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "boa/black"
+duration = "3:15"
+
+[[tracks]]
+position = 3
+song-id = "boa/butterfly"
+duration = "3:35"
+
+[[tracks]]
+position = 4
+song-id = "boa/i-don-t-mind"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song-id = "boa/boyeo-think-about-you"
+duration = "3:14"
+
+[[tracks]]
+position = 6
+song-id = "boa/mallin-jangmi-dry-flower"
+duration = "3:34"
