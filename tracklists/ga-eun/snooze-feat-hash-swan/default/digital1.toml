@@ -1,0 +1,13 @@
+medium-ids = [
+  "ga-eun/snooze-feat-hash-swan/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ga-eun/snooze-feat-hash-swan"
+duration = "4:07"
+
+[[tracks]]
+position = 2
+song-id = "ga-eun/snooze-feat-hash-swan-inst"
+duration = "4:07"
