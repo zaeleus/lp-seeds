@@ -1,0 +1,8 @@
+medium-ids = [
+  "loopy/no-fear/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loopy/no-fear"
+duration = "2:39"
