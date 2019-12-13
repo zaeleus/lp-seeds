@@ -1,0 +1,33 @@
+medium-ids = [
+  "kim-jae-hwan/moment/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-jae-hwan/sigani-piryohae"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "kim-jae-hwan/after-party"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song-id = "kim-jae-hwan/nuna"
+duration = "2:58"
+
+[[tracks]]
+position = 4
+song-id = "kim-jae-hwan/who-am-i"
+duration = "3:27"
+
+[[tracks]]
+position = 5
+song-id = "kim-jae-hwan/paradise-feat-park-woo-jin-of-ab6ix"
+duration = "3:31"
+
+[[tracks]]
+position = 6
+song-id = "kim-jae-hwan/zzz"
+duration = "3:15"
