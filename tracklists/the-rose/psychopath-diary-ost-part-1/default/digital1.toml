@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-rose/psychopath-diary-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-rose/wanna-be-bad"
+duration = "2:59"
+
+[[tracks]]
+position = 2
+song-id = "the-rose/wanna-be-bad-inst"
+duration = "2:59"

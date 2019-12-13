@@ -1,0 +1,15 @@
+artist-id = "the-rose"
+kind = "single"
+
+names = [
+  { name = "싸이코패스 다이어리 OST Part 1", locale = "ko", original = true },
+  { name = "Psychopath Diary OST Part 1", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10363532" },
+]
