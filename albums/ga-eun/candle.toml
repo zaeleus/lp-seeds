@@ -1,0 +1,14 @@
+artist-id = "ga-eun"
+kind = "single"
+
+names = [
+  { name = "Candle", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2017-03-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10042949" },
+]

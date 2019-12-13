@@ -1,0 +1,8 @@
+medium-ids = [
+  "ga-eun/candle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ga-eun/candle"
+duration = "4:20"
