@@ -1,0 +1,15 @@
+artist-id = "12dal"
+kind = "single"
+
+names = [
+  { name = "나는 여전해, 너는 없지만", locale = "ko", original = true },
+  { name = "Naneun Yeojeonhae, Neoneun Eopjiman", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10363711" },
+]

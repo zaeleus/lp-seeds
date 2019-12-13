@@ -1,0 +1,13 @@
+medium-ids = [
+  "12dal/naneun-yeojeonhae-neoneun-eopjiman/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "12dal/naneun-yeojeonhae-neoneun-eopjiman"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "12dal/naneun-yeojeonhae-neoneun-eopjiman-inst"
+duration = "3:50"
