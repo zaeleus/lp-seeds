@@ -1,0 +1,5 @@
+names = [
+  { name = "시소 (feat. 빌리어코스티)", locale = "ko", original = true },
+  { name = "Siso (feat. Bily Acoustie)", locale = "ko-Latn" },
+  { name = "Seesaw (feat. Bily Acoustie)", locale = "en", default = true },
+]
