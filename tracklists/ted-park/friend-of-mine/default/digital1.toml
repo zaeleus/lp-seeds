@@ -1,0 +1,8 @@
+medium-ids = [
+  "ted-park/friend-of-mine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ted-park/friend-of-mine"
+duration = "2:44"
