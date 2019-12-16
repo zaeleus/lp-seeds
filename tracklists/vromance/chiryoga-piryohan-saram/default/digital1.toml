@@ -1,0 +1,13 @@
+medium-ids = [
+  "vromance/chiryoga-piryohan-saram/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vromance/chiryoga-piryohan-saram"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "vromance/chiryoga-piryohan-saram-inst"
+duration = "3:46"
