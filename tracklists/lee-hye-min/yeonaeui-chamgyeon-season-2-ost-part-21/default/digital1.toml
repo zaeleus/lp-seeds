@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-hye-min/yeonaeui-chamgyeon-season-2-ost-part-21/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-hye-min/pyeongsaeng"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "lee-hye-min/pyeongsaeng-inst"
+duration = "3:35"

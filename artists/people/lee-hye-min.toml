@@ -1,0 +1,9 @@
+kind = "person"
+# started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "이혜민", locale = "ko", kind = "real", original = true },
+  { name = "Lee Hye Min", locale = "ko-Latn", kind = "real", default = true },
+]
