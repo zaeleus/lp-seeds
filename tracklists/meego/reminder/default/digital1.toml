@@ -1,0 +1,13 @@
+medium-ids = [
+  "meego/reminder/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "meego/017"
+duration = "1:55"
+
+[[tracks]]
+position = 2
+song-id = "meego/dot"
+duration = "3:05"
