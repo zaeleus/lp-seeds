@@ -1,0 +1,13 @@
+medium-ids = [
+  "ailee/chocolate-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ailee/geujeo-barabonda"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "ailee/geujeo-barabonda-inst"
+duration = "3:42"
