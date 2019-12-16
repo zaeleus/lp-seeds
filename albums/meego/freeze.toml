@@ -1,0 +1,14 @@
+artist-id = "meego"
+kind = "single"
+
+names = [
+  { name = "Freeze", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-02-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10247464" },
+]

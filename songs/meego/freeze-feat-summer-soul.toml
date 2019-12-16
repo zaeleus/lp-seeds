@@ -1,0 +1,3 @@
+names = [
+  { name = "Freeze (feat. Summer Soul)", locale = "ko", original = true, default = true },
+]

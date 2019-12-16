@@ -1,0 +1,13 @@
+medium-ids = [
+  "meego/freeze/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "meego/moonmap"
+duration = "1:41"
+
+[[tracks]]
+position = 2
+song-id = "meego/freeze-feat-summer-soul"
+duration = "2:54"
