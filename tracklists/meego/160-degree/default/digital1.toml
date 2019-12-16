@@ -1,0 +1,23 @@
+medium-ids = [
+  "meego/160-degree/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "meego/achimjam-feat-jclef"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "meego/sunset"
+duration = "3:08"
+
+[[tracks]]
+position = 3
+song-id = "meego/fiction"
+duration = "3:17"
+
+[[tracks]]
+position = 4
+song-id = "meego/full-of-stars"
+duration = "3:25"

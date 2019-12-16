@@ -1,0 +1,4 @@
+names = [
+  { name = "아침잠 (feat. Jclef)", locale = "ko", original = true },
+  { name = "Achimjam (feat. Jclef)", locale = "ko-Latn", default = true },
+]
