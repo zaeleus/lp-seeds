@@ -1,0 +1,8 @@
+medium-ids = [
+  "biya/cotai/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "biya/cotai"
+duration = "3:28"

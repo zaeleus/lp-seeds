@@ -1,0 +1,15 @@
+artist-id = "biya"
+kind = "single"
+
+names = [
+  { name = "코타이 (COTAI)", locale = "ko", original = true },
+  { name = "COTAI", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10365605" },
+]
