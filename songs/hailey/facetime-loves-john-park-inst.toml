@@ -1,0 +1,4 @@
+names = [
+  { name = "FACETIME (loves. 존박) (inst.)", locale = "ko", original = true },
+  { name = "FACETIME (loves. John Park) (inst.)", locale = "ko-Latn", default = true },
+]

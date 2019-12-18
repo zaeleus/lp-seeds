@@ -1,0 +1,13 @@
+medium-ids = [
+  "hailey/facetime-loves-john-park/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hailey/facetime-loves-john-park"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "hailey/facetime-loves-john-park-inst"
+duration = "3:28"
