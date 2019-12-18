@@ -1,0 +1,23 @@
+medium-ids = [
+  "eun-ho/e-diary/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eun-ho/dangolsonnim-feat-park-ji-eun"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "eun-ho/saranghaneunge-joega-doenayo"
+duration = "4:37"
+
+[[tracks]]
+position = 3
+song-id = "eun-ho/seumullesigan"
+duration = "3:09"
+
+[[tracks]]
+position = 4
+song-id = "eun-ho/geudaemaneul"
+duration = "3:13"
