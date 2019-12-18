@@ -1,0 +1,28 @@
+medium-ids = [
+  "jane-jang/inner-space/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jane-jang/venus"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "jane-jang/kkochipjeom"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "jane-jang/tea"
+duration = "4:08"
+
+[[tracks]]
+position = 4
+song-id = "jane-jang/water-fall"
+duration = "3:52"
+
+[[tracks]]
+position = 5
+song-id = "jane-jang/saturn-s-voice"
+duration = "2:29"
