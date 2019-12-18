@@ -1,0 +1,15 @@
+artist-id = "badkiz/monika"
+kind = "single"
+
+names = [
+  { name = "흩어진 나날들", locale = "ko", original = true },
+  { name = "Heuteojin Nanaldeul", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10365550" },
+]
