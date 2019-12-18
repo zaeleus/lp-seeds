@@ -1,0 +1,13 @@
+medium-ids = [
+  "vinxen/teong-feat-haon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vinxen/teong-feat-haon"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "vinxen/teong-inst"
+duration = "3:24"
