@@ -1,0 +1,13 @@
+medium-ids = [
+  "hong-dae-kwang/hajainneun-ingandeul-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hong-dae-kwang/ni-saenggak"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "hong-dae-kwang/ni-saenggak-inst"
+duration = "3:19"
