@@ -1,0 +1,15 @@
+artist-id = "parc-jae-jung"
+kind = "single"
+
+names = [
+  { name = "눈", locale = "ko", original = true },
+  { name = "Nun", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10366937" },
+]
