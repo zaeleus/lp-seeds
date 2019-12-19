@@ -1,0 +1,8 @@
+medium-ids = [
+  "wh3n/bimil/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wh3n/bimil"
+duration = "5:02"
