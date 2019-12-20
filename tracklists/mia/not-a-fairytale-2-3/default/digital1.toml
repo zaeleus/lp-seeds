@@ -1,0 +1,18 @@
+medium-ids = [
+  "mia/not-a-fairytale-2-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mia/dal"
+duration = "2:45"
+
+[[tracks]]
+position = 2
+song-id = "mia/orgel"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "mia/uri-anin-neowa-na"
+duration = "3:51"
