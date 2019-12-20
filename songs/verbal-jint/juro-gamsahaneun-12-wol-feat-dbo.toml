@@ -1,0 +1,4 @@
+names = [
+  { name = "주로 감사하는 12월 (feat. Dbo)", locale = "ko", original = true },
+  { name = "Juro Gamsahaneun 12-wol (feat. Dbo)", locale = "ko-Latn", default = true },
+]

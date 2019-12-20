@@ -1,0 +1,33 @@
+medium-ids = [
+  "verbal-jint/yeonmalgyeolsanbogoseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "verbal-jint/juro-gamsahaneun-12-wol-feat-dbo"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "verbal-jint/juro-sanchaekhaetdeon-11-wol"
+duration = "2:49"
+
+[[tracks]]
+position = 3
+song-id = "verbal-jint/8-worui-eommubogo"
+duration = "1:15"
+
+[[tracks]]
+position = 4
+song-id = "verbal-jint/9-wolgwa-geu-daeumdal"
+duration = "1:37"
+
+[[tracks]]
+position = 5
+song-id = "verbal-jint/7-worui-eommubogo"
+duration = "1:22"
+
+[[tracks]]
+position = 6
+song-id = "verbal-jint/6-worui-eommubogo"
+duration = "1:32"
