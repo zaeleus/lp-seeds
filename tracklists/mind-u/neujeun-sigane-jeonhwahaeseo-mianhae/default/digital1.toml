@@ -1,0 +1,13 @@
+medium-ids = [
+  "mind-u/neujeun-sigane-jeonhwahaeseo-mianhae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mind-u/lonelywinter"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "mind-u/neujeun-sigane-jeonhwahaeseo-mianhae"
+duration = "3:47"

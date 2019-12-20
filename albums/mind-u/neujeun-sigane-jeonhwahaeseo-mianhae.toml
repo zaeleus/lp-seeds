@@ -1,0 +1,15 @@
+artist-id = "mind-u"
+kind = "single"
+
+names = [
+  { name = "늦은 시간에 전화해서 미안해", locale = "ko", original = true },
+  { name = "Neujeun Sigane Jeonhwahaeseo Mianhae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10367524" },
+]
