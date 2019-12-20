@@ -1,0 +1,5 @@
+names = [
+  { name = "+처음으로170205+", locale = "ko", original = true },
+  { name = "+Cheoeumeuro170205+", locale = "ko-Latn", default = true },
+  { name = "+REWIND170205+", locale = "en" },
+]

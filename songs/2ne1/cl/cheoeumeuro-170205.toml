@@ -1,4 +1,0 @@
-names = [
-  { name = "+처음으로170205+", locale = "ko", original = true },
-  { name = "+Cheoeumeuro 170205+", locale = "ko-Latn", default = true },
-]

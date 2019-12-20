@@ -4,10 +4,11 @@ kind = "ep"
 names = [
   { name = "사랑의 이름으로", locale = "ko", original = true },
   { name = "Sarangui Ireumeuro", locale = "ko-Latn", default = true },
+  { name = "In The Name Of Love", locale = "en" },
 ]
 
 [[releases]]
-released-on = "2019-12-04"
+released-on = "2019-12-10"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

@@ -9,5 +9,25 @@ duration = "3:35"
 
 [[tracks]]
 position = 2
-song-id = "2ne1/cl/cheoeumeuro-170205"
+song-id = "2ne1/cl/cheoeumeuro170205"
 duration = "2:37"
+
+[[tracks]]
+position = 3
+song-id = "2ne1/cl/tudeolgeoryeobonda171115"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "2ne1/cl/one-and-only180228"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "2ne1/cl/anhae180327"
+duration = "3:04"
+
+[[tracks]]
+position = 6
+song-id = "2ne1/cl/sojunghan-chueok190519"
+duration = "2:57"

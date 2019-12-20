@@ -1,0 +1,5 @@
+names = [
+  { name = "+소중한 추억190519+", locale = "ko", original = true },
+  { name = "+Sojunghan Chueok190519+", locale = "ko-Latn", default = true },
+  { name = "+THNX190519+", locale = "en" },
+]

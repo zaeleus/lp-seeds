@@ -1,0 +1,5 @@
+names = [
+  { name = "+투덜거려본다171115+", locale = "ko", original = true },
+  { name = "+Tudeolgeoryeobonda171115+", locale = "ko-Latn", default = true },
+  { name = "+PARADOX171115+", locale = "en" },
+]
