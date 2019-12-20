@@ -1,0 +1,15 @@
+artist-id = "buzz"
+kind = "single"
+
+names = [
+  { name = "크리스마스의 밤 (하얀 눈꽃)", locale = "ko", original = true },
+  { name = "Christmas-ui Bam (Hayan Nunkkot)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10367250" },
+]

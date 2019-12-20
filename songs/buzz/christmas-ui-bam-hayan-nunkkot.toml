@@ -1,0 +1,4 @@
+names = [
+  { name = "크리스마스의 밤 (하얀 눈꽃)", locale = "ko", original = true },
+  { name = "Christmas-ui Bam (Hayan Nunkkot)", locale = "ko-Latn", default = true },
+]
