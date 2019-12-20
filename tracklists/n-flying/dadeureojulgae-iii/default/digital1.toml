@@ -1,0 +1,13 @@
+medium-ids = [
+  "n-flying/dadeureojulgae-iii/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "n-flying/gwaenchana"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "n-flying/gwaenchana-inst"
+duration = "3:14"
