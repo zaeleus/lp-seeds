@@ -1,0 +1,13 @@
+medium-ids = [
+  "aalia/free-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aalia/free-me"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "aalia/free-me-inst"
+duration = "3:45"
