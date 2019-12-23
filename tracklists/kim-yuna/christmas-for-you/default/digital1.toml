@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-yuna/christmas-for-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-yuna/christmas-for-you"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "kim-yuna/christmas-for-you-inst"
+duration = "4:01"
