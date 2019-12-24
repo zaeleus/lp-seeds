@@ -1,0 +1,13 @@
+medium-ids = [
+  "obze/eoseowayo-christmas/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "obze/eoseowayo-christmas"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "obze/eoseowayo-christmas-inst"
+duration = "2:56"
