@@ -1,0 +1,15 @@
+artist-id = "sistar/soyou"
+kind = "single"
+
+names = [
+  { name = "길에서 (X-MAS Project Vol.1)", locale = "ko", original = true },
+  { name = "Gireseo (X-MAS Project Vol.1)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10368016" },
+]
