@@ -1,0 +1,13 @@
+medium-ids = [
+  "besweet/flashback/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "besweet/flashback"
+duration = "4:54"
+
+[[tracks]]
+position = 2
+song-id = "besweet/flashback-inst"
+duration = "4:54"
