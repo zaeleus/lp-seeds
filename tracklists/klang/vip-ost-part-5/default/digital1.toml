@@ -1,0 +1,13 @@
+medium-ids = [
+  "klang/vip-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "klang/everything-goes-by"
+duration = "4:10"
+
+[[tracks]]
+position = 2
+song-id = "klang/everything-goes-by-inst"
+duration = "4:10"
