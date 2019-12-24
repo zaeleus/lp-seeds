@@ -1,0 +1,3 @@
+names = [
+  { name = "La Rouge (Special Track)", locale = "ko", original = true, default = true },
+]
