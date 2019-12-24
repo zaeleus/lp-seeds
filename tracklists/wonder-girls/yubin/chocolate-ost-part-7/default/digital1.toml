@@ -1,0 +1,13 @@
+medium-ids = [
+  "wonder-girls/yubin/chocolate-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wonder-girls/yubin/special"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "wonder-girls/yubin/special-inst"
+duration = "3:33"
