@@ -1,0 +1,13 @@
+medium-ids = [
+  "cherry-berry/sasil-oneul-geumareul-jeonhaeya-haneunde/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cherry-berry/sasil-oneul-geumareul-jeonhaeya-haneunde"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "cherry-berry/sasil-oneul-geumareul-jeonhaeya-haneunde-inst"
+duration = "3:34"

@@ -1,0 +1,15 @@
+artist-id = "cherry-berry"
+kind = "single"
+
+names = [
+  { name = "사실 오늘 그말을 전해야 하는데", locale = "ko", original = true },
+  { name = "Sasil Oneul Geumareul Jeonhaeya Haneunde", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10367797" },
+]
