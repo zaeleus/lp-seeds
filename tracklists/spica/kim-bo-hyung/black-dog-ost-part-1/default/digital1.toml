@@ -1,0 +1,13 @@
+medium-ids = [
+  "spica/kim-bo-hyung/black-dog-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "spica/kim-bo-hyung/geurimja"
+duration = "4:23"
+
+[[tracks]]
+position = 2
+song-id = "spica/kim-bo-hyung/geurimja-inst"
+duration = "4:23"
