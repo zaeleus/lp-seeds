@@ -1,0 +1,13 @@
+medium-ids = [
+  "rocoberry/huinnuni-naerimyeon-neon-olgeoya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rocoberry/huin-nuni-naerimyeon-neon-olgeoya"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "rocoberry/huin-nuni-naerimyeon-neon-olgeoya-inst"
+duration = "3:34"

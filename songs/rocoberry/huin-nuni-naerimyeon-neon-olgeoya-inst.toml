@@ -1,0 +1,4 @@
+names = [
+  { name = "흰 눈이 내리면 넌 올거야 (inst)", locale = "ko", original = true },
+  { name = "Huin Nuni Naerimyeon Neon Olgeoya (inst)", locale = "ko-Latn", default = true },
+]
