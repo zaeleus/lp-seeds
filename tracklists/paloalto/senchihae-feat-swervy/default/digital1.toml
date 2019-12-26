@@ -1,0 +1,8 @@
+medium-ids = [
+  "paloalto/senchihae-feat-swervy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "paloalto/senchihae-feat-swervy"
+duration = "3:14"
