@@ -1,0 +1,13 @@
+medium-ids = [
+  "exid/solji/hajainneun-ingandeul-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exid/solji/sseurarin-sangcheodo-apeunji-moreugo"
+duration = "4:20"
+
+[[tracks]]
+position = 2
+song-id = "exid/solji/sseurarin-sangcheodo-apeunji-moreugo-inst"
+duration = "4:20"

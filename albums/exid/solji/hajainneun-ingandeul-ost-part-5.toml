@@ -1,0 +1,16 @@
+artist-id = "exid/solji"
+kind = "single"
+
+names = [
+  { name = "하자있는 인간들 OST Part.5", locale = "ko", original = true },
+  { name = "Hajainneun Ingandeul OST Part.5", locale = "ko-Latn", default = true },
+  { name = "Love with Flaws OST Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-12-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10368416" },
+]
