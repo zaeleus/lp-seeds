@@ -1,0 +1,4 @@
+names = [
+  { name = "Hallstatt (Feat. 장필순)", locale = "ko", original = true },
+  { name = "Hallstatt (Feat. Jang Pil Soon)", locale = "ko-Latn", default = true },
+]

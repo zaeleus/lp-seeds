@@ -1,0 +1,15 @@
+artist-id = "grizzly"
+kind = "lp"
+
+names = [
+  { name = "삶, 숨, 쉼", locale = "ko", original = true },
+  { name = "Sam, Sum, Swim", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10368309" },
+]
