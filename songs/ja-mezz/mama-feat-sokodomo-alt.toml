@@ -1,0 +1,4 @@
+names = [
+  { name = "MAMA (Feat. 소코도모, 알트)", locale = "ko", original = true },
+  { name = "MAMA (Feat. sokodomo, ALT)", locale = "ko-Latn", default = true },
+]

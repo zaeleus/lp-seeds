@@ -1,0 +1,4 @@
+names = [
+  { name = "해야 (Feat. 빅윌)", locale = "ko", original = true },
+  { name = "Haeya (Feat. Big Wil)", locale = "ko-Latn", default = true },
+]

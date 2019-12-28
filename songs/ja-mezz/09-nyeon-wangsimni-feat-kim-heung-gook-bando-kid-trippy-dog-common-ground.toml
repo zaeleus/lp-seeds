@@ -1,0 +1,4 @@
+names = [
+  { name = "09년 왕십리 (Feat. 김흥국, 반도키드, 트리피독, 커먼그라운드)", locale = "ko", original = true },
+  { name = "09-nyeon Wangsimni (Feat. Kim Heung Gook, Bando Kid, TRIPPY DOG, COMMON GROUND)", locale = "ko-Latn", default = true },
+]

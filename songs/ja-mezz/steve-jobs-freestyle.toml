@@ -1,0 +1,3 @@
+names = [
+  { name = "steve jobs freestyle", locale = "ko", original = true, default = true },
+]
