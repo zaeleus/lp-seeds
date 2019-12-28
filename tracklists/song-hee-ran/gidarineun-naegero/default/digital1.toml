@@ -1,0 +1,13 @@
+medium-ids = [
+  "song-hee-ran/gidarineun-naegero/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "song-hee-ran/gidarineun-naegero"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "song-hee-ran/gidarineun-naegero-inst"
+duration = "3:28"
