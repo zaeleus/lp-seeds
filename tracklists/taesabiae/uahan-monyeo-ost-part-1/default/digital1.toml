@@ -1,0 +1,13 @@
+medium-ids = [
+  "taesabiae/uahan-monyeo-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "taesabiae/sarangi-nal"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "taesabiae/sarangi-nal-inst"
+duration = "3:23"
