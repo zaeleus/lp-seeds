@@ -1,0 +1,14 @@
+artist-id = "stray-kids"
+kind = "single"
+
+names = [
+  { name = "Mixtape: Gone Days", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-12-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10369065" },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "stray-kids/mixtape-gone-days/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stray-kids/mixtape-gone-days"
+duration = "3:17"
