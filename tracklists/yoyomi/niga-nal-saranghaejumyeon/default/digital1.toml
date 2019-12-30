@@ -1,0 +1,18 @@
+medium-ids = [
+  "yoyomi/niga-nal-saranghaejumyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yoyomi/niga-nal-saranghaejumyeon"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "yoyomi/niga-nal-saranghaejumyeon-mr"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "yoyomi/niga-nal-saranghaejumyeon-inst"
+duration = "3:29"
