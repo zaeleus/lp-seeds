@@ -1,0 +1,13 @@
+medium-ids = [
+  "bbahn/jebal-dan-hanbeonirado/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bbahn/jebal-dan-hanbeonirado-feat-dj-deborah"
+duration = "2:38"
+
+[[tracks]]
+position = 2
+song-id = "bbahn/jebal-dan-hanbeonirado-inst"
+duration = "2:38"
