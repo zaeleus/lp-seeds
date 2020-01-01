@@ -1,0 +1,15 @@
+artist-id = "parc-jae-jung"
+kind = "single"
+
+names = [
+  { name = "LISTEN 034 가벼운 결심", locale = "ko", original = true },
+  { name = "LISTEN 034 Gabyeoun Gyeolsim", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10370348" },
+]

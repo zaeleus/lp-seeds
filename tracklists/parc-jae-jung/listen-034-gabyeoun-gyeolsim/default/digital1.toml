@@ -1,0 +1,8 @@
+medium-ids = [
+  "parc-jae-jung/listen-034-gabyeoun-gyeolsim/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "parc-jae-jung/gabyeoun-gyeolsim"
+duration = "4:23"
