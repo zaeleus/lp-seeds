@@ -1,0 +1,15 @@
+artist-id = "anoc"
+kind = "single"
+
+names = [
+  { name = "비밀사진", locale = "ko", original = true },
+  { name = "Bimilsajin", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10370049" },
+]
