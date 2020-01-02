@@ -1,0 +1,13 @@
+medium-ids = [
+  "davichi/sarangui-bulsichak-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/noeul"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "davichi/noeul-inst"
+duration = "3:37"
