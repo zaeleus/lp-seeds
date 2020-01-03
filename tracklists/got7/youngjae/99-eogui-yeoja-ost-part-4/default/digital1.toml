@@ -1,0 +1,13 @@
+medium-ids = [
+  "got7/youngjae/99-eogui-yeoja-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "got7/youngjae/geunyeoga-cheoeum-uldeon-nal"
+duration = "2:46"
+
+[[tracks]]
+position = 2
+song-id = "got7/youngjae/geunyeoga-cheoeum-uldeon-nal-inst"
+duration = "2:46"
