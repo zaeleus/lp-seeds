@@ -1,0 +1,9 @@
+kind = "person"
+# started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "최가은", locale = "ko", kind = "real", original = true },
+  { name = "Choi Ga Eun", locale = "ko-Latn", kind = "real", default = true },
+]
