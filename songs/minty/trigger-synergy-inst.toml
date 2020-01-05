@@ -1,0 +1,3 @@
+names = [
+  { name = "Trigger Synergy (Inst.)", locale = "ko", original = true, default = true },
+]

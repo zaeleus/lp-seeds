@@ -1,0 +1,28 @@
+medium-ids = [
+  "minty/candy-cloudy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minty/candy-cloudy"
+duration = "4:06"
+
+[[tracks]]
+position = 2
+song-id = "minty/trigger-synergy"
+duration = "4:21"
+
+[[tracks]]
+position = 3
+song-id = "minty/candy-cloudy-hacheune-minku-stock-nightcore"
+duration = "3:41"
+
+[[tracks]]
+position = 4
+song-id = "minty/candy-cloudy-inst"
+duration = "4:06"
+
+[[tracks]]
+position = 5
+song-id = "minty/trigger-synergy-inst"
+duration = "4:21"
