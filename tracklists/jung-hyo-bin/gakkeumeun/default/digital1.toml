@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-hyo-bin/gakkeumeun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-hyo-bin/gakkeumeun"
+duration = "4:39"
+
+[[tracks]]
+position = 2
+song-id = "jung-hyo-bin/gakkeumeun-inst"
+duration = "4:39"
