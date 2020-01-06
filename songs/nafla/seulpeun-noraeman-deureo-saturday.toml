@@ -1,4 +1,5 @@
 names = [
   { name = "슬픈 노래만 들어 (saturday)", locale = "ko", original = true },
   { name = "Seulpeun Noraeman Deureo (saturday)", locale = "ko-Latn", default = true },
+  { name = "saturday", locale = "en" },
 ]

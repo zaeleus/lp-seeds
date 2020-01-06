@@ -1,0 +1,5 @@
+names = [
+  { name = "좋은 아침이야 (good morning)", locale = "ko", original = true },
+  { name = "Joeun Achimiya (good morning)", locale = "ko-Latn", default = true },
+  { name = "good morning", locale = "en" },
+]

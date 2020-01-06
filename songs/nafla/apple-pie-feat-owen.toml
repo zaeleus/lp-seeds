@@ -1,0 +1,4 @@
+names = [
+  { name = "애플파이 (apple pie) (feat. owen)", locale = "ko", original = true },
+  { name = "apple pie (feat. owen)", locale = "", default = true },
+]
