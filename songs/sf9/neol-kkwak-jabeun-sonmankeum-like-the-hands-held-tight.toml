@@ -1,0 +1,5 @@
+names = [
+  { name = "널 꽉 잡은 손만큼 (Like The Hands Held Tight)", locale = "ko", original = true },
+  { name = "Neol Kkwak Jabeun Sonmankeum (Like The Hands Held Tight)", locale = "ko-Latn", default = true },
+  { name = "Like The Hands Held Tight", locale = "en" },
+]

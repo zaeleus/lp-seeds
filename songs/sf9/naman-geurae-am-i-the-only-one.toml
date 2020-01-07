@@ -1,0 +1,5 @@
+names = [
+  { name = "나만 그래 (Am I The Only One)", locale = "ko", original = true },
+  { name = "Naman Geurae (Am I The Only One)", locale = "ko-Latn", default = true },
+  { name = "Am I The Only One", locale = "en" },
+]

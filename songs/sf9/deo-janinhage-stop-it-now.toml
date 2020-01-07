@@ -1,0 +1,5 @@
+names = [
+  { name = "더 잔인하게 (Stop It Now)", locale = "ko", original = true },
+  { name = "Deo Janinhage (Stop It Now)", locale = "ko-Latn", default = true },
+  { name = "Stop It Now", locale = "en" },
+]
