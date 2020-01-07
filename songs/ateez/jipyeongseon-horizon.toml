@@ -1,0 +1,5 @@
+names = [
+  { name = "지평선 (Horizon)", locale = "ko", original = true },
+  { name = "Jipyeongseon (Horizon)", locale = "ko-Latn", default = true },
+  { name = "Horizon", locale = "en" },
+]
