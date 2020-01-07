@@ -1,0 +1,28 @@
+medium-ids = [
+  "verivery/face-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "verivery/photo"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "verivery/lay-back"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "verivery/paradise"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "verivery/curtain-call"
+duration = "3:53"
+
+[[tracks]]
+position = 5
+song-id = "verivery/moment"
+duration = "3:48"
