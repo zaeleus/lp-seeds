@@ -1,0 +1,13 @@
+medium-ids = [
+  "exo/baekhyun/nangmandakteo-gimsabu-2-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/baekhyun/neoreul-saranghago-isseo"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "exo/baekhyun/neoreul-saranghago-isseo-inst"
+duration = "3:15"
