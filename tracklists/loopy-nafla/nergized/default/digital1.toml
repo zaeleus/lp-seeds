@@ -1,0 +1,8 @@
+medium-ids = [
+  "loopy-nafla/nergized/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loopy-nafla/nergized"
+duration = "3:02"

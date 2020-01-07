@@ -1,0 +1,14 @@
+kind = "group"
+started-on = "2018"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "루피&나플라", locale = "ko", original = true },
+  { name = "Loopy&nafla", locale = "ko-Latn", default = true }, ]
+]
+
+members = [
+  { artist-id = "loopy" },
+  { artist-id = "nafla" },
+]
