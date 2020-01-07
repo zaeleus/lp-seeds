@@ -1,0 +1,16 @@
+artist-id = "lovesong"
+kind = "single"
+
+names = [
+  { name = "바람편지 (windletter)", locale = "ko", original = true },
+  { name = "Barampyeonji (windletter)", locale = "ko-Latn", default = true },
+  { name = "windletter", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-01-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10371570" },
+]
