@@ -1,0 +1,28 @@
+medium-ids = [
+  "younha/unstable-mindset/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "younha/winter-flower-xue-zhong-mei-feat-rm"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "younha/meokgureum"
+duration = "4:01"
+
+[[tracks]]
+position = 3
+song-id = "younha/daeume-bwa"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song-id = "younha/seumusal-eoneu-nal"
+duration = "3:27"
+
+[[tracks]]
+position = 5
+song-id = "younha/26"
+duration = "3:20"

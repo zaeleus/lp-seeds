@@ -1,0 +1,4 @@
+names = [
+  { name = "WINTER FLOWER (雪中梅) (Feat. RM)", locale = "ko", original = true, default = true },
+  { name = "WINTER FLOWER (Feat. RM)", locale = "en" },
+]
