@@ -1,0 +1,15 @@
+artist-id = "ph-1"
+kind = "single"
+
+names = [
+  { name = "Nerdy Love (Feat. 백예린)", locale = "ko", original = true },
+  { name = "Nerdy Love (Feat. Yerin Baek)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10373988" },
+]
