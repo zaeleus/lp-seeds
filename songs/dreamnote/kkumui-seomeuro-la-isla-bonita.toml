@@ -1,0 +1,4 @@
+names = [
+  { name = "꿈의 섬으로 (La Isla Bonita)", locale = "ko", original = true },
+  { name = "Kkumui Seomeuro (La Isla Bonita)", locale = "ko-Latn", default = true },
+]

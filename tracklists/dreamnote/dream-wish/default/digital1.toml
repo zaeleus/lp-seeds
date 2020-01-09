@@ -1,0 +1,28 @@
+medium-ids = [
+  "dreamnote/dream-wish/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dreamnote/barada-wish"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "dreamnote/love-is-so-amazing"
+duration = "3:15"
+
+[[tracks]]
+position = 3
+song-id = "dreamnote/bittersweet"
+duration = "3:00"
+
+[[tracks]]
+position = 4
+song-id = "dreamnote/kkumui-seomeuro-la-isla-bonita"
+duration = "3:09"
+
+[[tracks]]
+position = 5
+song-id = "dreamnote/barada-wish-inst"
+duration = "3:18"
