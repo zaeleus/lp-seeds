@@ -1,0 +1,13 @@
+medium-ids = [
+  "aoa/99-eogui-yeoja-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aoa/my-diamond"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "aoa/my-diamond-mr"
+duration = "3:47"

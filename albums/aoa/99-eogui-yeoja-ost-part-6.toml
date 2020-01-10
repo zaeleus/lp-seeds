@@ -1,0 +1,16 @@
+artist-id = "aoa"
+kind = "single"
+
+names = [
+  { name = "99억의 여자 OST Part.6", locale = "ko", original = true },
+  { name = "99-eogui Yeoja OST Part.6", locale = "ko-Latn", default = true },
+  { name = "Woman of 9.9 Billion OST Part.6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-01-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10374089" },
+]
