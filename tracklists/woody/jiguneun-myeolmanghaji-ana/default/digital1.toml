@@ -1,0 +1,23 @@
+medium-ids = [
+  "woody/jiguneun-myeolmanghaji-ana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woody/jiguneun-myeolmanghaji-ana"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "woody/oneureun-jom-geurae"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "woody/jiguneun-myeolmanghaji-ana-inst"
+duration = "3:25"
+
+[[tracks]]
+position = 4
+song-id = "woody/oneureun-jom-geurae-inst"
+duration = "3:14"
