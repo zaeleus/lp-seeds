@@ -1,0 +1,9 @@
+names = [
+  { name = "달려 (Inst)", locale = "ko", original = true },
+  { name = "Dallyeo (Inst)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "chung-ha", separator = " X " },
+  { artist-id = "mommy-son" },
+]

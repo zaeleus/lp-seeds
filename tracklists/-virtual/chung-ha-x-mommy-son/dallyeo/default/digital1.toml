@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/chung-ha-x-mommy-son/dallyeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/chung-ha-x-mommy-son/dallyeo"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/chung-ha-x-mommy-son/dallyeo-inst"
+duration = "3:05"
