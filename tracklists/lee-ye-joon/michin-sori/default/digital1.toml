@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-ye-joon/michin-sori/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-ye-joon/michin-sori"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "lee-ye-joon/michin-sori-inst"
+duration = "3:32"
