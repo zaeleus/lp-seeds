@@ -1,0 +1,13 @@
+medium-ids = [
+  "stella-jang/chocolate-ost-part-10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stella-jang/right-time-and-right-place"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "stella-jang/right-time-and-right-place-inst"
+duration = "3:54"

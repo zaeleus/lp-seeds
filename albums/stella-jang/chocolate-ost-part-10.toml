@@ -1,0 +1,15 @@
+artist-id = "stella-jang"
+kind = "single"
+
+names = [
+  { name = "초콜릿 OST Part.10", locale = "ko", original = true },
+  { name = "Chocolate OST Part.10", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10374648" },
+]
