@@ -1,0 +1,13 @@
+medium-ids = [
+  "me-and-you/sarangi-mwoyeotdeora/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "me-and-you/sarangi-mwoyeotdeora-with-jung-so-an"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "me-and-you/sarangi-mwoyeotdeora-inst"
+duration = "3:35"

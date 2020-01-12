@@ -1,0 +1,4 @@
+names = [
+  { name = "사랑이 뭐였더라 (With 정소안)", locale = "ko", original = true },
+  { name = "Sarangi Mwoyeotdeora (With Jung So An)", locale = "ko-Latn", default = true },
+]
