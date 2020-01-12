@@ -1,0 +1,19 @@
+artist-id = "-virtual/d-ear-jewhi"
+kind = "single"
+
+names = [
+  { name = "Love Me Again", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "d-ear", separator = "," },
+  { artist-id = "jewhi" },
+]
+
+[[releases]]
+released-on = "2020-01-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10374128" },
+]

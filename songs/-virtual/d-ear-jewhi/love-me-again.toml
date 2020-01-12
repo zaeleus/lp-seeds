@@ -1,0 +1,8 @@
+names = [
+  { name = "Love Me Again", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "d-ear", separator = "," },
+  { artist-id = "jewhi" },
+]
