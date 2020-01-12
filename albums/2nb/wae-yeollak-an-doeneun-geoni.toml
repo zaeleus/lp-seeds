@@ -1,0 +1,15 @@
+artist-id = "2nb"
+kind = "single"
+
+names = [
+  { name = "왜 연락 안 되는 거니", locale = "ko", original = true },
+  { name = "Wae Yeollak An Doeneun Geoni", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10374671" },
+]

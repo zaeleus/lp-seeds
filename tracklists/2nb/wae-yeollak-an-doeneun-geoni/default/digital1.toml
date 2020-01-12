@@ -1,0 +1,13 @@
+medium-ids = [
+  "2nb/wae-yeollak-an-doeneun-geoni/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2nb/wae-yeollak-an-doeneun-geoni"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "2nb/wae-yeollak-an-doeneun-geoni-inst"
+duration = "3:51"
