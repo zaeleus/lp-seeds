@@ -1,0 +1,15 @@
+artist-id = "hong-dae-kwang"
+kind = "single"
+
+names = [
+  { name = "네가 나의 눈을 바라봐줬을때", locale = "ko", original = true },
+  { name = "Nega Naui Nuneul Barabwajwosseulttae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10374804" },
+]
