@@ -1,0 +1,13 @@
+medium-ids = [
+  "peppermint/yeonghwagateun-il/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "peppermint/yeonghwagateun-il-feat-ryhee"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "peppermint/yeonghwagateun-il-inst"
+duration = "3:24"

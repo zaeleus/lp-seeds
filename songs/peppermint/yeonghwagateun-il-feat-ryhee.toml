@@ -1,0 +1,4 @@
+names = [
+  { name = "영화같은 일 (feat. 리희 (Ryhee))", locale = "ko", original = true },
+  { name = "Yeonghwagateun Il (feat. Ryhee)", locale = "ko-Latn", default = true },
+]

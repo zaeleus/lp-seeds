@@ -1,0 +1,15 @@
+artist-id = "peppermint"
+kind = "single"
+
+names = [
+  { name = "영화같은 일", locale = "ko", original = true },
+  { name = "Yeonghwagateun Il", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10374644" },
+]
