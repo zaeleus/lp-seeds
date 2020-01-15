@@ -1,0 +1,38 @@
+medium-ids = [
+  "sorae/bi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sorae/bi-vocal-ki-da-on"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "sorae/geudaeege"
+duration = "3:51"
+
+[[tracks]]
+position = 3
+song-id = "sorae/gwaenchantago-vocal-park-han-sol"
+duration = "4:36"
+
+[[tracks]]
+position = 4
+song-id = "sorae/majimak-bam"
+duration = "3:13"
+
+[[tracks]]
+position = 5
+song-id = "sorae/i-hate-you"
+duration = "3:56"
+
+[[tracks]]
+position = 6
+song-id = "sorae/bi-inst"
+duration = "4:01"
+
+[[tracks]]
+position = 7
+song-id = "sorae/geudaeege-inst"
+duration = "3:51"
