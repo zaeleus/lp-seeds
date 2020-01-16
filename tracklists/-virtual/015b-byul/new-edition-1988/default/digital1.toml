@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/015b-byul/new-edition-1988/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/015b-byul/seumuldul"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/015b-byul/seumuldul-inst"
+duration = "3:34"

@@ -1,0 +1,9 @@
+names = [
+  { name = "스물둘", locale = "ko", original = true },
+  { name = "Seumuldul", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "015b", separator = ", " },
+  { artist-id = "byul" },
+]
