@@ -1,0 +1,16 @@
+artist-id = "gummy"
+kind = "single"
+
+names = [
+  { name = "낭만닥터 김사부 2 OST Part.2", locale = "ko", original = true },
+  { name = "Nangmandakteo Gimsabu 2 OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Dr. Romantic 2 OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-01-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10375675" },
+]

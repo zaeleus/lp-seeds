@@ -1,0 +1,13 @@
+medium-ids = [
+  "gummy/nangmandakteo-gimsabu-2-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gummy/neoui-haruneun-jom-eottae"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "gummy/neoui-haruneun-jom-eottae-inst"
+duration = "3:32"
