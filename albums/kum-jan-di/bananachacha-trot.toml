@@ -1,0 +1,15 @@
+artist-id = "kum-jan-di"
+kind = "single"
+
+names = [
+  { name = "바나나차차 트로트", locale = "ko", original = true },
+  { name = "Bananachacha Trot", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10376795" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "kum-jan-di/bananachacha-trot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kum-jan-di/bananachacha-trot"
+duration = "2:26"
+
+[[tracks]]
+position = 2
+song-id = "kum-jan-di/bananachacha-trot-inst"
+duration = "2:26"

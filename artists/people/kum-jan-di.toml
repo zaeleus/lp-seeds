@@ -1,0 +1,9 @@
+kind = "person"
+# started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "금잔디", locale = "ko", kind = "real", original = true },
+  { name = "Kum Jan Di", locale = "ko-Latn", kind = "real", default = true },
+]
