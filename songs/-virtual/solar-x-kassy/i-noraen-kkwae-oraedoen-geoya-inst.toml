@@ -1,0 +1,9 @@
+names = [
+  { name = "이 노랜 꽤 오래된 거야 (Inst.)", locale = "ko", original = true },
+  { name = "I Noraen Kkwae Oraedoen Geoya (Inst.)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "mamamoo/solar", separator = " X " },
+  { artist-id = "kassy" },
+]

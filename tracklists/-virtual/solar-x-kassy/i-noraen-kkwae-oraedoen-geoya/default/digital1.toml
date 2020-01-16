@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/solar-x-kassy/i-noraen-kkwae-oraedoen-geoya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/solar-x-kassy/i-noraen-kkwae-oraedoen-geoya"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/solar-x-kassy/i-noraen-kkwae-oraedoen-geoya-inst"
+duration = "3:56"

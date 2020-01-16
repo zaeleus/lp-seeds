@@ -1,0 +1,20 @@
+artist-id = "-virtual/solar-x-kassy"
+kind = "single"
+
+names = [
+  { name = "이 노랜 꽤 오래된 거야", locale = "ko", original = true },
+  { name = "I Noraen Kkwae Oraedoen Geoya", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "mamamoo/solar", separator = " X " },
+  { artist-id = "kassy" },
+]
+
+[[releases]]
+released-on = "2020-01-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10376787" },
+]
