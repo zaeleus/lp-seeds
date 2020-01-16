@@ -1,0 +1,15 @@
+artist-id = "honey-apple"
+kind = "single"
+
+names = [
+  { name = "우리가 사랑을 한지도", locale = "ko", original = true },
+  { name = "Uriga Sarangeul Hanjido", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10376268" },
+]
