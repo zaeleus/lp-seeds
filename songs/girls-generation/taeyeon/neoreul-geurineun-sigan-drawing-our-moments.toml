@@ -1,0 +1,12 @@
+names = [
+  { name = "너를 그리는 시간 (Drawing Our Moments)", locale = "ko", original = true },
+  { name = "Neoreul Geurineun Sigan (Drawing Our Moments)", locale = "ko-Latn", default = true },
+  { name = "Drawing Our Moments", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", default = true },
+]

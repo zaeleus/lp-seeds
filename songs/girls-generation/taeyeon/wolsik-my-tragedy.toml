@@ -1,0 +1,12 @@
+names = [
+  { name = "월식 (My Tragedy)", locale = "ko", original = true },
+  { name = "Wolsik (My Tragedy)", locale = "ko-Latn", default = true },
+  { name = "My Tragedy", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/taeyeon"
+names = [
+  { name = "태연", locale = "ko", original = true },
+  { name = "TAEYEON", locale = "ko-Latn", default = true },
+]
