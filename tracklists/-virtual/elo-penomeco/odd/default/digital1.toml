@@ -1,0 +1,23 @@
+medium-ids = [
+  "-virtual/elo-penomeco/odd/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/elo-penomeco/love-feat-gray"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/elo-penomeco/body"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/elo-penomeco/deep"
+duration = "3:08"
+
+[[tracks]]
+position = 4
+song-id = "-virtual/elo-penomeco/view"
+duration = "3:25"

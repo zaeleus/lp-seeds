@@ -1,0 +1,8 @@
+names = [
+  { name = "LOVE? (Feat. GRAY)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "elo", separator = ", " },
+  { artist-id = "penomeco" },
+]

@@ -1,0 +1,19 @@
+artist-id = "-virtual/elo-penomeco"
+kind = "ep"
+
+names = [
+  { name = "ODD", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "elo", separator = ", " },
+  { artist-id = "penomeco" },
+]
+
+[[releases]]
+released-on = "2019-11-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10348564" },
+]
