@@ -1,0 +1,14 @@
+artist-id = "kiara"
+kind = "single"
+
+names = [
+  { name = "BOSS", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-01-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10377331" },
+]

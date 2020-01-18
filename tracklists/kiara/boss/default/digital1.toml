@@ -1,0 +1,13 @@
+medium-ids = [
+  "kiara/boss/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kiara/boss"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "kiara/boss-inst"
+duration = "3:02"
