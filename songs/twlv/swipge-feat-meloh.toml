@@ -1,0 +1,4 @@
+names = [
+  { name = "쉽게 (feat. MELOH)", locale = "ko", original = true },
+  { name = "Swipge (feat. MELOH)", locale = "ko-Latn", default = true },
+]

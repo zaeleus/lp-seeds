@@ -1,0 +1,4 @@
+names = [
+  { name = "향수 (feat. Owell Mood)", locale = "ko", original = true },
+  { name = "Hyangsu (feat. Owell Mood)", locale = "ko-Latn", default = true },
+]

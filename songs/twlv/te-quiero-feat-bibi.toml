@@ -1,0 +1,3 @@
+names = [
+  { name = "Te Quiero (feat. BIBI)", locale = "ko", original = true, default = true },
+]
