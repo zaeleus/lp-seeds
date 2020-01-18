@@ -1,0 +1,28 @@
+medium-ids = [
+  "t-ara/ji-yeon/senpass/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/ji-yeon/i-wish"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/ji-yeon/take-a-hike"
+duration = "3:01"
+
+[[tracks]]
+position = 3
+song-id = "t-ara/ji-yeon/take-a-hike-chn-ver"
+duration = "3:01"
+
+[[tracks]]
+position = 4
+song-id = "t-ara/ji-yeon/black-white"
+duration = "3:31"
+
+[[tracks]]
+position = 5
+song-id = "t-ara/ji-yeon/take-a-hike-inst"
+duration = "3:01"
