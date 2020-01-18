@@ -1,0 +1,13 @@
+medium-ids = [
+  "mfbty/yoon-mi-rae/sarangui-bulsichak-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mfbty/yoon-mi-rae/flower"
+duration = "4:13"
+
+[[tracks]]
+position = 2
+song-id = "mfbty/yoon-mi-rae/flower-inst"
+duration = "4:13"
