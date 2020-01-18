@@ -1,0 +1,16 @@
+artist-id = "oohyo"
+kind = "single"
+
+names = [
+  { name = "뻔한 치킨", locale = "ko", original = true },
+  { name = "Ppeonhan Chicken", locale = "ko-Latn", default = true },
+  { name = "Butter Chicken", locale = "en" },
+]
+
+[[releases]]
+released-on = "2019-12-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10363497" },
+]

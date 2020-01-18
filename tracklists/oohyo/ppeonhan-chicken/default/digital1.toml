@@ -1,0 +1,13 @@
+medium-ids = [
+  "oohyo/ppeonhan-chicken/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oohyo/ppeonhan-chicken"
+duration = "5:10"
+
+[[tracks]]
+position = 2
+song-id = "oohyo/ppeonhan-chicken-instrumental"
+duration = "5:10"

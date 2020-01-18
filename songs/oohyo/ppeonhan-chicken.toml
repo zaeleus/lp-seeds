@@ -1,0 +1,5 @@
+names = [
+  { name = "뻔한 치킨", locale = "ko", original = true },
+  { name = "Ppeonhan Chicken", locale = "ko-Latn", default = true },
+  { name = "Butter Chicken", locale = "en" },
+]
