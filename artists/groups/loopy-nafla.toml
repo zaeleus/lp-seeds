@@ -5,7 +5,7 @@ gender = "male"
 
 names = [
   { name = "루피&나플라", locale = "ko", original = true },
-  { name = "Loopy&nafla", locale = "ko-Latn", default = true }, ]
+  { name = "Loopy&nafla", locale = "ko-Latn", default = true },
 ]
 
 members = [
