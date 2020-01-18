@@ -1,0 +1,13 @@
+medium-ids = [
+  "jewhi/naui-ajeossi-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jewhi/dear-moon"
+duration = "4:58"
+
+[[tracks]]
+position = 2
+song-id = "jewhi/dear-moon-inst"
+duration = "4:58"
