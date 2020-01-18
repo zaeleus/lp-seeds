@@ -1,0 +1,3 @@
+names = [
+  { name = "Best Workout Song (feat. BE'O)", locale = "ko", original = true, default = true },
+]

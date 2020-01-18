@@ -1,0 +1,3 @@
+names = [
+  { name = "FML!", locale = "ko", original = true, default = true },
+]

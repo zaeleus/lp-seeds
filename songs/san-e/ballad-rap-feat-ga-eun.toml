@@ -1,0 +1,4 @@
+names = [
+  { name = "발라드랩 (feat. 가은)", locale = "ko", original = true },
+  { name = "Ballad Rap (feat. GA EUN)", locale = "en", default = true },
+]
