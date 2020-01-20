@@ -1,0 +1,13 @@
+medium-ids = [
+  "prin/nappeunsarang-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "prin/hamkkeramyeon"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "prin/hamkkeramyeon-inst"
+duration = "2:56"
