@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-jae-hwan/sarangui-bulsichak-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-jae-hwan/eotteon-naren"
+duration = "4:19"
+
+[[tracks]]
+position = 2
+song-id = "kim-jae-hwan/eotteon-naren-inst"
+duration = "4:19"
