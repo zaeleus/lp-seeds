@@ -1,0 +1,13 @@
+medium-ids = [
+  "shin-hyun-hee/dokbaek-monologue/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shin-hyun-hee/dokbaek-monologue"
+duration = "4:16"
+
+[[tracks]]
+position = 2
+song-id = "shin-hyun-hee/dokbaek-monologue-_inst"
+duration = "4:16"
