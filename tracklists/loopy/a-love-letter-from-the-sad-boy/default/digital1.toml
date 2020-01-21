@@ -1,0 +1,13 @@
+medium-ids = [
+  "loopy/a-love-letter-from-the-sad-boy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loopy/sad-boy"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "loopy/to-all-my-loves"
+duration = "2:12"
