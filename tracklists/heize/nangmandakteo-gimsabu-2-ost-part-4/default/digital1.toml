@@ -1,0 +1,13 @@
+medium-ids = [
+  "heize/nangmandakteo-gimsabu-2-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heize/da-geureochi-mwo"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "heize/da-geureochi-mwo-inst"
+duration = "3:10"
