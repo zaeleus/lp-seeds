@@ -1,0 +1,15 @@
+artist-id = "migyo"
+kind = "single"
+
+names = [
+  { name = "미칠 듯 사랑을 하고", locale = "ko", original = true },
+  { name = "Michil Deut Sarangeul Hago", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10377709" },
+]

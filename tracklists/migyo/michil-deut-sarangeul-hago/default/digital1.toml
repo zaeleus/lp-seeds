@@ -1,0 +1,13 @@
+medium-ids = [
+  "migyo/michil-deut-sarangeul-hago/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "migyo/michil-deut-sarangeul-hago"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "migyo/michil-deut-sarangeul-hago-inst"
+duration = "4:01"
