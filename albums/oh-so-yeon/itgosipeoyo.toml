@@ -1,0 +1,15 @@
+artist-id = "oh-so-yeon"
+kind = "single"
+
+names = [
+  { name = "잊고싶어요", locale = "ko", original = true },
+  { name = "Itgosipeoyo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10377757" },
+]
