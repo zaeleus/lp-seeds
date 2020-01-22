@@ -1,0 +1,8 @@
+names = [
+  { name = "Loveship", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "paul-kim", separator = ", " },
+  { artist-id = "chung-ha" },
+]
