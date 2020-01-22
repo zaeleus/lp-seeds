@@ -1,0 +1,8 @@
+medium-ids = [
+  "siion/late-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "siion/late-night-feat-hoody"
+duration = "2:44"
