@@ -1,0 +1,13 @@
+medium-ids = [
+  "gavy-nj/sinchone-wasseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gavy-nj/sinchone-wasseo"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "gavy-nj/sinchone-wasseo-inst"
+duration = "4:01"

@@ -1,0 +1,15 @@
+artist-id = "gavy-nj"
+kind = "single"
+
+names = [
+  { name = "신촌에 왔어", locale = "ko", original = true },
+  { name = "Sinchone Wasseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10379033" },
+]
