@@ -1,0 +1,13 @@
+medium-ids = [
+  "appetizer/jamdo-anoneun-ireon-bamimyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "appetizer/jamdo-anoneun-ireon-bamimyeon-feat-myosu"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "appetizer/jamdo-anoneun-ireon-bamimyeon-inst"
+duration = "3:15"

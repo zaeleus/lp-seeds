@@ -1,0 +1,15 @@
+artist-id = "appetizer"
+kind = "single"
+
+names = [
+  { name = "잠도 안오는 이런 밤이면", locale = "ko", original = true },
+  { name = "Jamdo Anoneun Ireon Bamimyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10378413" },
+]
