@@ -1,0 +1,13 @@
+medium-ids = [
+  "hailey/ibyeol-vlog-loves-basick/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hailey/ibyeol-vlog-loves-basick"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "hailey/ibyeol-vlog-loves-basick-inst"
+duration = "4:14"

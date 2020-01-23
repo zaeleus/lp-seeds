@@ -1,0 +1,4 @@
+names = [
+  { name = "이별Vlog (loves. 베이식) (inst.)", locale = "ko", original = true },
+  { name = "Ibyeol Vlog (loves. Basick) (inst.)", locale = "ko-Latn", default = true },
+]
