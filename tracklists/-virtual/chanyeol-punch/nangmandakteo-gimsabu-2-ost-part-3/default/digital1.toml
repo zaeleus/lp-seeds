@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/chanyeol-punch/nangmandakteo-gimsabu-2-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/chanyeol-punch/go-away-go-away"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/chanyeol-punch/go-away-go-away-inst"
+duration = "3:50"

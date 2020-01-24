@@ -1,0 +1,8 @@
+names = [
+  { name = "Go away go away", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "exo/chanyeol", separator = " & " },
+  { artist-id = "punch" },
+]

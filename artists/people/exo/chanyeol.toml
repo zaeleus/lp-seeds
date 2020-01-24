@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1992-11-27"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "찬열", locale = "ko", kind = "stage", original = true },
+  { name = "CHANYEOL", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "박찬열", locale = "ko", kind = "real" },
+  { name = "Park Chan Yeol", locale = "ko-Latn", kind = "real" },
+]
