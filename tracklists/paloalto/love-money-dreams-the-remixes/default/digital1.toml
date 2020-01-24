@@ -1,0 +1,18 @@
+medium-ids = [
+  "paloalto/love-money-dreams-the-remixes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "paloalto/move-on-remix-feat-jerd-iv-ice-puff"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "paloalto/battle-scars-remix-feat-g2-justhis"
+duration = "4:57"
+
+[[tracks]]
+position = 3
+song-id = "paloalto/lm-d-bonus-track"
+duration = "2:35"
