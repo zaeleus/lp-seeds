@@ -1,0 +1,23 @@
+artist-id = "2ne1/bom"
+kind = "single"
+
+names = [
+  { name = "첫눈", locale = "ko", original = true },
+  { name = "Cheonnun", locale = "ko-Latn", default = true },
+  { name = "The First Snow", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "2ne1/bom"
+names = [
+  { name = "박봄", locale = "ko", original = true},
+  { name = "Park Bom", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-12-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10362835" },
+]

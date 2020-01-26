@@ -1,0 +1,20 @@
+names = [
+  { name = "첫눈", locale = "ko", original = true },
+  { name = "Cheonnun", locale = "ko-Latn", default = true },
+  { name = "The First Snow", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "2ne1/bom"
+names = [
+  { name = "박봄", locale = "ko", original = true},
+  { name = "Park Bom", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "2ne1/dara"
+names = [
+  { name = "산다라박", locale = "ko", original = true},
+  { name = "Sandara Park", locale = "ko-Latn", default = true },
+]
