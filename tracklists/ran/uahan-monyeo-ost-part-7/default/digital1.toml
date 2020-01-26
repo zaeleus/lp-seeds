@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/uahan-monyeo-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/gyeolguk-ibyeol"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "ran/gyeolguk-ibyeol-inst"
+duration = "2:58"

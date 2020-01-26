@@ -1,0 +1,16 @@
+artist-id = "ran"
+kind = "single"
+
+names = [
+  { name = "우아한 모녀 OST Part.7", locale = "ko", original = true },
+  { name = "Uahan Monyeo OST Part.7", locale = "ko-Latn", default = true },
+  { name = "Gracious Revenge OST Part.7", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-01-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10379442" },
+]
