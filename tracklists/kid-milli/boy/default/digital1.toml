@@ -1,0 +1,13 @@
+medium-ids = [
+  "kid-milli/boy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kid-milli/999-3"
+duration = "2:37"
+
+[[tracks]]
+position = 2
+song-id = "kid-milli/boy"
+duration = "3:19"
