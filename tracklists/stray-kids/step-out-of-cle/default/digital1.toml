@@ -1,0 +1,13 @@
+medium-ids = [
+  "stray-kids/step-out-of-cle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stray-kids/double-knot-english-ver"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "stray-kids/levanter-english-ver"
+duration = "3:16"
