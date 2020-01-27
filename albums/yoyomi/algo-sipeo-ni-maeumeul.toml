@@ -1,0 +1,15 @@
+artist-id = "yoyomi"
+kind = "single"
+
+names = [
+  { name = "알고 싶어 니 마음을", locale = "ko", original = true },
+  { name = "Algo Sipeo Ni Maeumeul", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10379437" },
+]

@@ -1,0 +1,18 @@
+medium-ids = [
+  "yoyomi/algo-sipeo-ni-maeumeul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yoyomi/algo-sipeo-ni-maeumeul"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "yoyomi/algo-sipeo-ni-maeumeul-mr"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "yoyomi/algo-sipeo-ni-maeumeul-inst"
+duration = "3:45"
