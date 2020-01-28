@@ -1,0 +1,16 @@
+artist-id = "minseo"
+kind = "single"
+
+names = [
+  { name = "블랙독 OST Part 4", locale = "ko", original = true },
+  { name = "Beullaekdok OST Part 4", locale = "ko-Latn", default = true },
+  { name = "Black Dog OST Part 4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-01-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10379691" },
+]

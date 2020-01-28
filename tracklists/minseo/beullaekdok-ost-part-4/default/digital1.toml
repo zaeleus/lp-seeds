@@ -1,0 +1,13 @@
+medium-ids = [
+  "minseo/beullaekdok-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minseo/love-yourself-neoege-malhaejwo"
+duration = "4:11"
+
+[[tracks]]
+position = 2
+song-id = "minseo/love-yourself-neoege-malhaejwo-inst"
+duration = "4:11"
