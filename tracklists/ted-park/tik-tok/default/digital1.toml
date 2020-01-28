@@ -1,0 +1,8 @@
+medium-ids = [
+  "ted-park/tik-tok/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ted-park/tik-tok"
+duration = "2:47"
