@@ -1,0 +1,8 @@
+medium-ids = [
+  "davii/teddy-bear/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davii/teddy-bear-feat-kwon-jin-ah"
+duration = "3:49"

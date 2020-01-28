@@ -1,0 +1,4 @@
+names = [
+  { name = "테디베어 (Teddy Bear) (Feat. 권진아)", locale = "ko", original = true },
+  { name = "Teddy Bear (Feat. Kwon Jin Ah)", locale = "en", default = true },
+]
