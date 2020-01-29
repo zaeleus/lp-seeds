@@ -1,0 +1,14 @@
+artist-id = "davichi/lee-hae-ri"
+kind = "ep"
+
+names = [
+  { name = "from h", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-01-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10380610" },
+]

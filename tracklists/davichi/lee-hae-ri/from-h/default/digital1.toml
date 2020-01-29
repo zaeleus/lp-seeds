@@ -1,0 +1,33 @@
+medium-ids = [
+  "davichi/lee-hae-ri/from-h/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/lee-hae-ri/jigeum"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "davichi/lee-hae-ri/uneun-beobeul-ijeobeoryeonnayo"
+duration = "4:14"
+
+[[tracks]]
+position = 3
+song-id = "davichi/lee-hae-ri/i-norae"
+duration = "5:04"
+
+[[tracks]]
+position = 4
+song-id = "davichi/lee-hae-ri/gyeonae-chai"
+duration = "4:07"
+
+[[tracks]]
+position = 5
+song-id = "davichi/lee-hae-ri/sarangeun-eodiro-gan-geolkka"
+duration = "4:18"
+
+[[tracks]]
+position = 6
+song-id = "davichi/lee-hae-ri/naman-apeun-il"
+duration = "3:34"
