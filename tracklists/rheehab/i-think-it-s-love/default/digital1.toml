@@ -1,0 +1,13 @@
+medium-ids = [
+  "rheehab/i-think-it-s-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rheehab/i-think-it-s-love"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "rheehab/ihae"
+duration = "3:43"
