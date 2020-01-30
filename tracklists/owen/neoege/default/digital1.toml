@@ -1,0 +1,13 @@
+medium-ids = [
+  "owen/neoege/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "owen/wihae"
+duration = "2:51"
+
+[[tracks]]
+position = 2
+song-id = "owen/gohae"
+duration = "2:27"
