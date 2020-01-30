@@ -1,0 +1,13 @@
+medium-ids = [
+  "fiestar/yezi/my-gravity/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fiestar/yezi/my-gravity"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "fiestar/yezi/my-gravity-inst"
+duration = "3:52"
