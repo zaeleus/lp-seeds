@@ -1,0 +1,4 @@
+names = [
+  { name = "터널 (Feat. 김호연)", locale = "ko", original = true },
+  { name = "Tunnel (Feat. Kim Ho Yeon)", locale = "ko-Latn", default = true },
+]

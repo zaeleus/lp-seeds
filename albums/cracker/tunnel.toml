@@ -1,0 +1,15 @@
+artist-id = "cracker"
+kind = "single"
+
+names = [
+  { name = "터널", locale = "ko", original = true },
+  { name = "Tunnel", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10381270" },
+]
