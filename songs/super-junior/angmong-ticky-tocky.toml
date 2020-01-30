@@ -1,0 +1,5 @@
+names = [
+  { name = "악몽 (Ticky Tocky)", locale = "ko", original = true },
+  { name = "Angmong (Ticky Tocky)", locale = "ko-Latn", default = true },
+  { name = "Ticky Tocky", locale = "en" },
+]
