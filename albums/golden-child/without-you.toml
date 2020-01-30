@@ -1,0 +1,14 @@
+artist-id = "golden-child"
+kind = "lp"
+
+names = [
+  { name = "Without You", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-01-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10380590" },
+]
