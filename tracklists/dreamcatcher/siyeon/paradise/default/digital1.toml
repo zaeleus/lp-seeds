@@ -1,0 +1,13 @@
+medium-ids = [
+  "dreamcatcher/siyeon/paradise/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dreamcatcher/siyeon/paradise"
+duration = "4:04"
+
+[[tracks]]
+position = 2
+song-id = "dreamcatcher/siyeon/paradise-inst"
+duration = "4:04"

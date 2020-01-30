@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1995-10-01"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "시연", locale = "ko", kind = "stage", original = true },
+  { name = "Siyeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "이시연", locale = "ko", kind = "real" },
+  { name = "Lee Si Yeon", locale = "ko-Latn", kind = "real" },
+]
