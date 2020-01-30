@@ -1,0 +1,3 @@
+names = [
+  { name = "Silverhair Express", locale = "ko", original = true, default = true },
+]

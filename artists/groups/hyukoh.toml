@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2014"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "혁오", locale = "ko", original = true },
+  { name = "HYUKOH", locale = "ko-Latn", default = true },
+]
