@@ -1,0 +1,15 @@
+artist-id = "espresso"
+kind = "single"
+
+names = [
+  { name = "집에 가기 싫어", locale = "ko", original = true },
+  { name = "Jibe Gagi Sireo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10381183" },
+]
