@@ -1,0 +1,15 @@
+artist-id = "kum-jan-di"
+kind = "single"
+
+names = [
+  { name = "시치미", locale = "ko", original = true },
+  { name = "Sichimi", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-01-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10381022" },
+]

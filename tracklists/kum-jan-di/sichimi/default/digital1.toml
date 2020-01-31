@@ -1,0 +1,13 @@
+medium-ids = [
+  "kum-jan-di/sichimi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kum-jan-di/sichimi"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "kum-jan-di/sichimi-mr"
+duration = "3:34"
