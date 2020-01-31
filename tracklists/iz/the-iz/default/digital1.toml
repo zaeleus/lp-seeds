@@ -1,0 +1,18 @@
+medium-ids = [
+  "iz/the-iz/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "iz/the-day-prod-sweetune"
+duration = "4:24"
+
+[[tracks]]
+position = 2
+song-id = "iz/superstition"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "iz/see-you-outro"
+duration = "1:34"
