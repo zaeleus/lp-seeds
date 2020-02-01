@@ -1,0 +1,16 @@
+artist-id = "the-daisy"
+kind = "single"
+
+names = [
+  { name = "우아한 모녀 OST Part.8", locale = "ko", original = true },
+  { name = "Uahan Monyeo OST Part.8", locale = "ko-Latn", default = true },
+  { name = "Gracious Revenge OST Part.8", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-02-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10383159" },
+]

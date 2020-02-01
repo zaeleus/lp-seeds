@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-daisy/uahan-monyeo-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-daisy/gajima-gajima-gajima"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "the-daisy/gajima-gajima-gajima-inst"
+duration = "3:30"
