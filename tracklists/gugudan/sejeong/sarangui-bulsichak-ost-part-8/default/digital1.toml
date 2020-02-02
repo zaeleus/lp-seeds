@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan/sejeong/sarangui-bulsichak-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/sejeong/naui-modeun-nal"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/sejeong/naui-modeun-nal-inst"
+duration = "4:00"
