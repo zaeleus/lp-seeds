@@ -1,0 +1,16 @@
+artist-id = "cherry-berry"
+kind = "single"
+
+names = [
+  { name = "간택 - 여인들의 전쟁 OST Part.8", locale = "ko", original = true },
+  { name = "Gantaek - Yeoindeurui Jeonjaeng OST Part.8", locale = "ko-Latn", default = true },
+  { name = "Queen: Love and War OST Part.8", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-02-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10381736" },
+]

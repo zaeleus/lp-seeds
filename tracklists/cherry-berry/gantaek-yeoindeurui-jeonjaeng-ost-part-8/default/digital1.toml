@@ -1,0 +1,13 @@
+medium-ids = [
+  "cherry-berry/gantaek-yeoindeurui-jeonjaeng-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cherry-berry/ireoke-doraseomyeon-andwaeyo"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "cherry-berry/ireoke-doraseomyeon-andwaeyo-inst"
+duration = "3:33"
