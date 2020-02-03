@@ -1,0 +1,4 @@
+names = [
+  { name = "psycho (Feat. 빈센트블루)", locale = "ko", original = true },
+  { name = "psycho (Feat. Vincent Blue)", locale = "ko-Latn", default = true },
+]
