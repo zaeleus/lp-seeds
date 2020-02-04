@@ -1,0 +1,13 @@
+medium-ids = [
+  "lydia/uahan-monyeo-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lydia/mianhae-mianhaeyo"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "lydia/mianhae-mianhaeyo-inst"
+duration = "3:37"
