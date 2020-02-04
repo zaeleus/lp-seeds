@@ -1,0 +1,5 @@
+names = [
+  { name = "교차로 (Crossroads)", locale = "ko", original = true },
+  { name = "Gyocharo (Crossroads)", locale = "ko-Latn", default = true },
+  { name = "Crossroads", locale = "en" },
+]

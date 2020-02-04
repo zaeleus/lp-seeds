@@ -1,0 +1,15 @@
+artist-id = "gfriend"
+kind = "ep"
+
+names = [
+  { name = "回:LABYRINTH", locale = "ko", original = true },
+  { name = "LABYRINTH", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10383590" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "지금 만나러 갑니다 (Eclipse)", locale = "ko", original = true },
+  { name = "Jigeum Mannareo Gamnida (Eclipse)", locale = "ko-Latn", default = true },
+  { name = "Eclipse", locale = "en" },
+]

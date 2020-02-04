@@ -1,0 +1,33 @@
+medium-ids = [
+  "gfriend/labyrinth/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gfriend/labyrinth"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "gfriend/gyocharo-crossroads"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "gfriend/here-we-are"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "gfriend/jigeum-mannareo-gamnida-eclipse"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "gfriend/dreamcatcher"
+duration = "3:18"
+
+[[tracks]]
+position = 6
+song-id = "gfriend/from-me"
+duration = "3:42"
