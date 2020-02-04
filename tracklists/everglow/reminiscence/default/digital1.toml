@@ -1,0 +1,23 @@
+medium-ids = [
+  "everglow/reminiscence/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "everglow/salute"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "everglow/dun-dun"
+duration = "3:13"
+
+[[tracks]]
+position = 3
+song-id = "everglow/player"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "everglow/no-lie"
+duration = "3:39"
