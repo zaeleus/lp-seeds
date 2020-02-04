@@ -1,0 +1,13 @@
+medium-ids = [
+  "chung-ha/nangmandakteo-gimsabu-2-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "chung-ha/naui-geudae"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "chung-ha/naui-geudae-inst"
+duration = "3:41"
