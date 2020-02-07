@@ -1,0 +1,5 @@
+names = [
+  { name = "뛰어들게 (Dive)", locale = "ko", original = true },
+  { name = "Ttwieodeulge (Dive)", locale = "ko-Latn", default = true },
+  { name = "Dive", locale = "en" },
+]

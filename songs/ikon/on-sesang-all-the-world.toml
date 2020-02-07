@@ -1,0 +1,5 @@
+names = [
+  { name = "온 세상 (All The World)", locale = "ko", original = true },
+  { name = "On Sesang (All The World)", locale = "ko-Latn", default = true },
+  { name = "All The World", locale = "en" },
+]

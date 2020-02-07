@@ -1,0 +1,5 @@
+names = [
+  { name = "너란 바람 따라 (Flower)", locale = "ko", original = true },
+  { name = "Neoran Baram Ttara (Flower)", locale = "ko-Latn", default = true },
+  { name = "Flower", locale = "en" },
+]

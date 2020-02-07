@@ -1,0 +1,5 @@
+names = [
+  { name = "견딜만해 (Holding On)", locale = "ko", original = true },
+  { name = "Gyeondilmanhae (Holding on)", locale = "ko-Latn", default = true },
+  { name = "Holding On", locale = "en" },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "ikon/i-decide/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ikon/ah-yeah"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "ikon/ttwieodeulge-dive"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "ikon/on-sesang-all-the-world"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "ikon/gyeondilmanhae-holding-on"
+duration = "3:03"
+
+[[tracks]]
+position = 5
+song-id = "ikon/neoran-baram-ttara-flower"
+duration = "4:20"
