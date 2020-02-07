@@ -1,0 +1,13 @@
+medium-ids = [
+  "mamamoo/moonbyul/natseonnal-feat-punch/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/moonbyul/natseonnal-feat-punch-weird-day"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/moonbyul/natseonnal-weird-day-inst"
+duration = "3:23"

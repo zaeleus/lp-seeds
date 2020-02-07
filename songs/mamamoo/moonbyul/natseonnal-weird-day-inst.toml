@@ -1,0 +1,5 @@
+names = [
+  { name = "낯선날 (Weird Day) (Inst.)", locale = "ko", original = true },
+  { name = "Natseonnal (Weird Day) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Weird Day (Inst.)", locale = "en" },
+]

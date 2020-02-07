@@ -1,0 +1,15 @@
+artist-id = "mamamoo/moonbyul"
+kind = "single"
+
+names = [
+  { name = "낯선날 (Feat. 펀치)", locale = "ko", original = true },
+  { name = "Natseonnal (Feat. Punch)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10384198" },
+]
