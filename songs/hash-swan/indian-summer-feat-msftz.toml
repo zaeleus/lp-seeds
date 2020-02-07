@@ -1,0 +1,3 @@
+names = [
+  { name = "Indian Summer (Feat. msftz)", locale = "ko", original = true, default = true },
+]

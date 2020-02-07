@@ -1,0 +1,68 @@
+medium-ids = [
+  "hash-swan/silence-of-the-rem/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hash-swan/teenage-in-closet-feat-jamie"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "hash-swan/ilovedyouevenwhenismoked"
+duration = "2:35"
+
+[[tracks]]
+position = 3
+song-id = "hash-swan/5-bunman"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "hash-swan/geomijul-feat-surl"
+duration = "3:03"
+
+[[tracks]]
+position = 5
+song-id = "hash-swan/naneun-gwayeon-neoreul"
+duration = "3:16"
+
+[[tracks]]
+position = 6
+song-id = "hash-swan/indian-summer-feat-msftz"
+duration = "3:20"
+
+[[tracks]]
+position = 7
+song-id = "hash-swan/american-beauty-feat-y1ee"
+duration = "2:57"
+
+[[tracks]]
+position = 8
+song-id = "hash-swan/gethsemane"
+duration = "2:40"
+
+[[tracks]]
+position = 9
+song-id = "hash-swan/peterpan-s-birthday-feat-dkash"
+duration = "2:26"
+
+[[tracks]]
+position = 10
+song-id = "hash-swan/lll-feat-dkash-y1ee"
+duration = "2:24"
+
+[[tracks]]
+position = 11
+song-id = "hash-swan/matryoshka-feat-dopein"
+duration = "3:17"
+
+[[tracks]]
+position = 12
+song-id = "hash-swan/goodbye-june"
+duration = "2:39"
+
+[[tracks]]
+position = 13
+song-id = "hash-swan/olive-is-bitter"
+duration = "2:49"
