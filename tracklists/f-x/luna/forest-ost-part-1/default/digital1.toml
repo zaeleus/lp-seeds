@@ -1,0 +1,13 @@
+medium-ids = [
+  "f-x/luna/forest-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/luna/take-me-now"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "f-x/luna/take-me-now-inst"
+duration = "3:50"

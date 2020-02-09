@@ -1,0 +1,22 @@
+artist-id = "f-x/luna"
+kind = "single"
+
+names = [
+  { name = "포레스트 OST Part.1", locale = "ko", original = true },
+  { name = "Forest OST Part.1", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "f-x/luna"
+names = [
+  { name = "루나", locale = "ko", original = true },
+  { name = "LUNA", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10384484" },
+]
