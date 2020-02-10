@@ -1,0 +1,13 @@
+medium-ids = [
+  "crucial-star/sad-face/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "crucial-star/geojinmarirado-haejwo-feat-kim-e-z"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "crucial-star/can-i-love-again"
+duration = "3:15"
