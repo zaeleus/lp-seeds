@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/gaseumi-meongmeokhae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/gaseumi-meongmeokhae"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "ran/gaseumi-meongmeokhae-inst"
+duration = "3:31"
