@@ -1,0 +1,78 @@
+medium-ids = [
+  "saevom/13-wol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saevom/durigie-with-yoon-han-sol"
+duration = "4:07"
+
+[[tracks]]
+position = 2
+song-id = "saevom/eoneu-saebyeok-i-norael-deunneundamyeon-with-seol-gyeong"
+duration = "3:32"
+
+[[tracks]]
+position = 3
+song-id = "saevom/ttaeron-hosue-tteun-dalcheoreom-with-yoon-han-sol"
+duration = "4:25"
+
+[[tracks]]
+position = 4
+song-id = "saevom/nan-gakkeum-neoege-sangcheoreul-jugo-sipeo-with-moonbit"
+duration = "4:14"
+
+[[tracks]]
+position = 5
+song-id = "saevom/jajeongeo-tallae-with-gyeong-mo-of-slou-d"
+duration = "3:48"
+
+[[tracks]]
+position = 6
+song-id = "saevom/eoje-marya-day-ver-with-yoo-jong-gwon"
+duration = "3:59"
+
+[[tracks]]
+position = 7
+song-id = "saevom/sarangeurobuteo-with-jung-so-an"
+duration = "4:28"
+
+[[tracks]]
+position = 8
+song-id = "saevom/sarangeurobuteo-with-yoon-han-sol"
+duration = "3:51"
+
+[[tracks]]
+position = 9
+song-id = "saevom/neoneun-wae-nal-saranghaji-anasseulkka-with-eun-jong"
+duration = "4:14"
+
+[[tracks]]
+position = 10
+song-id = "saevom/uril-sarangeuro-gieokhaejwoyo-with-jung-so-an"
+duration = "4:35"
+
+[[tracks]]
+position = 11
+song-id = "saevom/algo-sipeoyo-naneun-with-lim-so-jeong"
+duration = "3:37"
+
+[[tracks]]
+position = 12
+song-id = "saevom/dadeul-eotteoke-ibyeolhanayo-with-mugamgak"
+duration = "3:39"
+
+[[tracks]]
+position = 13
+song-id = "saevom/bi-oneun-nari-joajil-geot-gata-with-chamsom"
+duration = "3:34"
+
+[[tracks]]
+position = 14
+song-id = "saevom/neoui-yeoeum-with-jeon-so-hyeon"
+duration = "3:42"
+
+[[tracks]]
+position = 15
+song-id = "saevom/geuge-uriui-majimagin-jul-aratdamyeon-with-song-yeong-joo"
+duration = "4:00"

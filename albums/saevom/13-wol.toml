@@ -1,0 +1,15 @@
+artist-id = "saevom"
+kind = "lp"
+
+names = [
+  { name = "13월", locale = "ko", original = true },
+  { name = "13-wol", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10385963" },
+]

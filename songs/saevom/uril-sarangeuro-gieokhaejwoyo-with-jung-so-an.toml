@@ -1,0 +1,4 @@
+names = [
+  { name = "우릴 사랑으로 기억해줘요 (With 정소안)", locale = "ko", original = true },
+  { name = "Uril Sarangeuro Gieokhaejwoyo (With Jung So An)", locale = "ko-Latn", default = true },
+]
