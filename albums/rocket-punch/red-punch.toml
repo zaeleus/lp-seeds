@@ -1,0 +1,14 @@
+artist-id = "rocket-punch"
+kind = "ep"
+
+names = [
+  { name = "RED PUNCH", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-02-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10386406" },
+]

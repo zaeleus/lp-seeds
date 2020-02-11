@@ -1,0 +1,5 @@
+names = [
+  { name = "종이별 (Paper Star)", locale = "ko", original = true },
+  { name = "Jongibyeol (Paper Star)", locale = "ko-Latn", default = true },
+  { name = "Paper Star", locale = "en" },
+]

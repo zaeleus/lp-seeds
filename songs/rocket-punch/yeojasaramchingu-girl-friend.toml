@@ -1,0 +1,5 @@
+names = [
+  { name = "여자사람친구 (Girl Friend)", locale = "ko", original = true },
+  { name = "Yeojasaramchingu (Girl Friend)", locale = "ko-Latn", default = true },
+  { name = "Girl Friend", locale = "en" },
+]
