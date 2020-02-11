@@ -1,0 +1,8 @@
+medium-ids = [
+  "ouioui/too-late/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ouioui/too-late"
+duration = "3:43"
