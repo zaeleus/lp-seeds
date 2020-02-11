@@ -1,0 +1,16 @@
+artist-id = "cherry-bullet"
+kind = "single"
+
+names = [
+  { name = "무릎을 탁 치고 (Hands Up)", locale = "ko", original = true },
+  { name = "Mureupeul Tak Chigo (Hands Up)", locale = "ko-Latn", default = true },
+  { name = "Hands Up", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-02-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10386961" },
+]
