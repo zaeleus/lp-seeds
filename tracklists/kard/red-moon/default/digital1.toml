@@ -1,0 +1,28 @@
+medium-ids = [
+  "kard/red-moon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kard/go-baby"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "kard/red-moon"
+duration = "2:53"
+
+[[tracks]]
+position = 3
+song-id = "kard/enemy"
+duration = "2:56"
+
+[[tracks]]
+position = 4
+song-id = "kard/inferno"
+duration = "2:13"
+
+[[tracks]]
+position = 5
+song-id = "kard/dumb-litty"
+duration = "3:14"
