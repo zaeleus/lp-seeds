@@ -1,0 +1,5 @@
+names = [
+  { name = "소행성 (Asteroid)", locale = "ko", original = true },
+  { name = "Sohaengseong (Asteroid)", locale = "ko-Latn", default = true },
+  { name = "Asteroid", locale = "en" },
+]
