@@ -1,0 +1,28 @@
+medium-ids = [
+  "415/geurim/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "415/geurim"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "415/ne-gyeote-meomul-eojega-jueojindamyeon"
+duration = "4:14"
+
+[[tracks]]
+position = 3
+song-id = "415/maeil-jitdeon-pyojeong"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "415/sangsang"
+duration = "3:24"
+
+[[tracks]]
+position = 5
+song-id = "415/geurimja"
+duration = "4:32"
