@@ -1,0 +1,8 @@
+medium-ids = [
+  "nine-muses/keum-jo/sonkkeuteuro/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/keum-jo/sonkkeuteuro"
+duration = "3:25"
