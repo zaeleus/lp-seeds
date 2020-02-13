@@ -1,0 +1,10 @@
+names = [
+  { name = "더럽게", locale = "ko", original = true },
+  { name = "Deoreopge", locale = "ko-Latn", default = true },
+  { name = "DIRTY LOVE", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "sumin", separator = "+" },
+  { artist-id = "zion-t" },
+]

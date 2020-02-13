@@ -1,0 +1,21 @@
+artist-id = "-virtual/sumin-zion-t"
+kind = "single"
+
+names = [
+  { name = "더럽게", locale = "ko", original = true },
+  { name = "Deoreopge", locale = "ko-Latn", default = true },
+  { name = "DIRTY LOVE", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "sumin", separator = "+" },
+  { artist-id = "zion-t" },
+]
+
+[[releases]]
+released-on = "2020-02-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10387448" },
+]
