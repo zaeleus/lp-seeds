@@ -1,0 +1,14 @@
+artist-id = "ab6ix"
+kind = "ep"
+
+names = [
+  { name = "5NALLY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-02-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10387696" },
+]

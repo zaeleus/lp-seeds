@@ -1,0 +1,5 @@
+names = [
+  { name = "더 더 (MORE)", locale = "ko", original = true },
+  { name = "Deo Deo (MORE)", locale = "ko-Latn", default = true },
+  { name = "MORE", locale = "en" },
+]
