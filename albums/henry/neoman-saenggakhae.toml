@@ -1,0 +1,15 @@
+artist-id = "henry"
+kind = "single"
+
+names = [
+  { name = "너만 생각해", locale = "ko", original = true },
+  { name = "Neoman Saenggakhae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10387452" },
+]

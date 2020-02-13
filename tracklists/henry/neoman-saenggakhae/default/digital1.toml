@@ -1,0 +1,13 @@
+medium-ids = [
+  "henry/neoman-saenggakhae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "henry/neoman-saenggakhae-thinking-of-you"
+duration = "2:53"
+
+[[tracks]]
+position = 2
+song-id = "henry/neoman-saenggakhae-thinking-of-you-inst"
+duration = "2:53"

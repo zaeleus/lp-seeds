@@ -1,0 +1,5 @@
+names = [
+  { name = "너만 생각해 (Thinking of You) (Inst.)", locale = "ko", original = true },
+  { name = "Neoman Saenggakhae (Thinking of You) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Thinking of You (Inst.)", locale = "en" },
+]
