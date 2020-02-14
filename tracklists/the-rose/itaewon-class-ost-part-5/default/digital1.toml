@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-rose/itaewon-class-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-rose/you-make-me-back"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "the-rose/you-make-me-back-inst"
+duration = "3:15"
