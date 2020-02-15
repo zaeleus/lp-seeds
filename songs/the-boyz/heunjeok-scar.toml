@@ -1,0 +1,5 @@
+names = [
+  { name = "흔적 (Scar)", locale = "ko", original = true },
+  { name = "Heunjeok (Scar)", locale = "ko-Latn", default = true },
+  { name = "Scar", locale = "en" },
+]

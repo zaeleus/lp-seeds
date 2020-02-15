@@ -1,0 +1,5 @@
+names = [
+  { name = "시간의 숲 (Goodbye)", locale = "ko", original = true },
+  { name = "Siganui Sup (Goodbye)", locale = "ko-Latn", default = true },
+  { name = "Goodbye", locale = "en" },
+]
