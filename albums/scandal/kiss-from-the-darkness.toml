@@ -1,0 +1,16 @@
+artist-id = "scandal"
+kind = "lp"
+
+names = [
+  { name = "Kiss from the darkness", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-02-12"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.apple.com/jp/album/1492402045" },
+  { url = "https://mora.jp/package/43000005/VICL-65310/" },
+  { url = "https://mora.jp/package/43000005/VICL-65310_F/" },
+]

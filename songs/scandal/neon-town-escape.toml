@@ -1,0 +1,3 @@
+names = [
+  { name = "NEON TOWN ESCAPE", locale = "ja", original = true, default = true },
+]
