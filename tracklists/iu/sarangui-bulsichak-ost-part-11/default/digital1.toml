@@ -1,0 +1,13 @@
+medium-ids = [
+  "iu/sarangui-bulsichak-ost-part-11/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "iu/maeumeul-deuryeoyo"
+duration = "4:41"
+
+[[tracks]]
+position = 2
+song-id = "iu/maeumeul-deuryeoyo-inst"
+duration = "4:41"
