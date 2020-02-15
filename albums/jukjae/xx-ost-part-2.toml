@@ -1,0 +1,15 @@
+artist-id = "jukjae"
+kind = "single"
+
+names = [
+  { name = "엑스엑스 (XX) OST Part.2", locale = "ko", original = true },
+  { name = "XX OST Part.2", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10387506" },
+]
