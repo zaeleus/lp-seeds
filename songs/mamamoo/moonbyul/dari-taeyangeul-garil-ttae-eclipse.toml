@@ -1,0 +1,5 @@
+names = [
+  { name = "달이 태양을 가릴 때 (Eclipse)", locale = "ko", original = true },
+  { name = "Dari Taeyangeul Garil Ttae (Eclipse)", locale = "ko-Latn", default = true },
+  { name = "Eclipse", locale = "en" },
+]

@@ -1,0 +1,14 @@
+artist-id = "mamamoo/moonbyul"
+kind = "ep"
+
+names = [
+  { name = "Dark Side of the Moon", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-02-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10388489" },
+]
