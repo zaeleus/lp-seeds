@@ -1,0 +1,15 @@
+artist-id = "bamsoosung"
+kind = "single"
+
+names = [
+  { name = "#꽃", locale = "ko", original = true },
+  { name = "#Kkot", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10384535" },
+]

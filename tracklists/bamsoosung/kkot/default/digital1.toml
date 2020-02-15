@@ -1,0 +1,8 @@
+medium-ids = [
+  "bamsoosung/kkot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bamsoosung/kkot"
+duration = "3:20"

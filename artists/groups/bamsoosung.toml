@@ -1,0 +1,9 @@
+kind = "group"
+started-on = ""
+country = "KR"
+gender = "co-ed"
+
+names = [
+  { name = "밤수성", locale = "ko", original = true },
+  { name = "BamSooSung", locale = "ko-Latn", default = true },
+]
