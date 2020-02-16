@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-won/ttohanbeon-ending-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-won/nae-charye"
+duration = "4:04"
+
+[[tracks]]
+position = 2
+song-id = "park-won/nae-charye-inst"
+duration = "4:04"

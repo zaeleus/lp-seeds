@@ -1,0 +1,15 @@
+artist-id = "park-won"
+kind = "single"
+
+names = [
+  { name = "또한번 엔딩 Part.1", locale = "ko", original = true },
+  { name = "Ttohanbeon Ending Part.1", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10388544" },
+]
