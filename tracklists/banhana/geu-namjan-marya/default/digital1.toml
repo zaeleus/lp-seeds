@@ -1,0 +1,13 @@
+medium-ids = [
+  "banhana/geu-namjan-marya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "banhana/geu-namjan-marya"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "banhana/geu-namjan-marya-inst"
+duration = "3:58"

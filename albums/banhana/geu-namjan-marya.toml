@@ -1,0 +1,15 @@
+artist-id = "banhana"
+kind = "single"
+
+names = [
+  { name = "그 남잔 말야", locale = "ko", original = true },
+  { name = "Geu Namjan Marya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10388445" },
+]
