@@ -1,0 +1,16 @@
+artist-id = "nafla"
+kind = "single"
+
+names = [
+  { name = "태워 (burn)", locale = "ko", original = true },
+  { name = "Taewo (burn)", locale = "ko-Latn", default = true },
+  { name = "burn", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-02-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10388824" },
+]

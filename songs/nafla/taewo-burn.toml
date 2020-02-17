@@ -1,0 +1,5 @@
+names = [
+  { name = "태워 (burn)", locale = "ko", original = true },
+  { name = "Taewo (burn)", locale = "ko-Latn", default = true },
+  { name = "burn", locale = "en" },
+]

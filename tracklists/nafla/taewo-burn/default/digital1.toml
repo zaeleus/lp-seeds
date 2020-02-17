@@ -1,0 +1,8 @@
+medium-ids = [
+  "nafla/taewo-burn/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nafla/taewo-burn"
+duration = "3:57"
