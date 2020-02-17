@@ -1,0 +1,14 @@
+artist-id = "iz-one"
+kind = "lp"
+
+names = [
+  { name = "BLOOM*IZ", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-02-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10389281" },
+]

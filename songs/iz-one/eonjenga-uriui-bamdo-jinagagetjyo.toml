@@ -1,0 +1,5 @@
+names = [
+  { name = "언젠가 우리의 밤도 지나가겠죠", locale = "ko", original = true },
+  { name = "Eonjenga Uriui Bamdo Jinagagetjyo", locale = "ko-Latn", default = true },
+  { name = "SOMEDAY", locale = "en" },
+]
