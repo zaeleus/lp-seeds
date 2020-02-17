@@ -1,0 +1,13 @@
+medium-ids = [
+  "dasom-kyung/naman-apeungeoni-wae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dasom-kyung/naman-apeungeoni-wae"
+duration = "4:12"
+
+[[tracks]]
+position = 2
+song-id = "dasom-kyung/naman-apeungeoni-wae-inst"
+duration = "4:12"
