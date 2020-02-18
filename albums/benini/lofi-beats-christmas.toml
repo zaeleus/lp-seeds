@@ -1,0 +1,14 @@
+artist-id = "benini"
+kind = "ep"
+
+names = [
+  { name = "Lofi Beats @christmas", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2019-12-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10367801" },
+]
