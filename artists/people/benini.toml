@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1988-09-12"
+country = "KR"
+
+names = [
+  { name = "베니니", locale = "ko", kind = "stage", original = true },
+  { name = "Benini", locale = "en", kind = "stage", default = true },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "benini/early-spring/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "benini/midnight"
+duration = "1:56"
+
+[[tracks]]
+position = 2
+song-id = "benini/frozen"
+duration = "1:33"
+
+[[tracks]]
+position = 3
+song-id = "benini/blow"
+duration = "1:15"
+
+[[tracks]]
+position = 4
+song-id = "benini/morning"
+duration = "1:42"
+
+[[tracks]]
+position = 5
+song-id = "benini/train"
+duration = "1:06"
