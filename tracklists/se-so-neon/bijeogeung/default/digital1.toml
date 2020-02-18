@@ -1,0 +1,38 @@
+medium-ids = [
+  "se-so-neon/bijeogeung/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "se-so-neon/simyahaeng"
+duration = "4:18"
+
+[[tracks]]
+position = 2
+song-id = "se-so-neon/jibe"
+duration = "3:48"
+
+[[tracks]]
+position = 3
+song-id = "se-so-neon/ibangin"
+duration = "2:41"
+
+[[tracks]]
+position = 4
+song-id = "se-so-neon/nun"
+duration = "3:53"
+
+[[tracks]]
+position = 5
+song-id = "se-so-neon/eong"
+duration = "3:03"
+
+[[tracks]]
+position = 6
+song-id = "se-so-neon/deong"
+duration = "3:40"
+
+[[tracks]]
+position = 7
+song-id = "se-so-neon/i"
+duration = "2:59"
