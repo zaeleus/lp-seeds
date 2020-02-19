@@ -1,0 +1,4 @@
+names = [
+  { name = "언젠가 가을은 사라질까요? (feat. 허세과)", locale = "ko", original = true },
+  { name = "Eonjenga Gaeureun Sarajilkkayo? (Feat. Heosegwa)", locale = "ko-Latn", default = true },
+]

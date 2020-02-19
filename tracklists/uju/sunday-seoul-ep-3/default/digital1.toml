@@ -1,0 +1,28 @@
+medium-ids = [
+  "uju/sunday-seoul-ep-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "uju/miun-saramman-gadeukhan-i-dosiedo"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "uju/nae-mame-dameul-geoyeyo"
+duration = "3:53"
+
+[[tracks]]
+position = 3
+song-id = "uju/metro-88"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "uju/geudaemanui-geosinikkayo"
+duration = "3:25"
+
+[[tracks]]
+position = 5
+song-id = "uju/eonjenga-gaeureun-sarajilkkayo-feat-heosegwa"
+duration = "4:44"
