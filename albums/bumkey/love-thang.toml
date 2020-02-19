@@ -1,0 +1,16 @@
+artist-id = "bumkey"
+kind = "single"
+
+names = [
+  { name = "러브땡", locale = "ko", original = true },
+  { name = "Reobeuttaeng", locale = "ko-Latn" },
+  { name = "Love Thang", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10390698" },
+]
