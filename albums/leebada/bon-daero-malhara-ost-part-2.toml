@@ -1,0 +1,16 @@
+artist-id = "leebada"
+kind = "single"
+
+names = [
+  { name = "본 대로 말하라 OST Part.2", locale = "ko", original = true },
+  { name = "Bon Daero Malhara OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Tell Me What You Saw OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-02-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10388557" },
+]
