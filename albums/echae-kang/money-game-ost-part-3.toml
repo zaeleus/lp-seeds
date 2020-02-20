@@ -1,0 +1,15 @@
+artist-id = "echae-kang"
+kind = "single"
+
+names = [
+  { name = "머니게임 OST Part 3", locale = "ko", original = true },
+  { name = "Money Game OST Part 3", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10391016" },
+]

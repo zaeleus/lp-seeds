@@ -1,0 +1,23 @@
+medium-ids = [
+  "echae-kang/money-game-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "echae-kang/don-t"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "echae-kang/don-t-acoustic-ver"
+duration = "3:47"
+
+[[tracks]]
+position = 3
+song-id = "echae-kang/don-t-inst"
+duration = "4:00"
+
+[[tracks]]
+position = 4
+song-id = "echae-kang/don-t-acoustic-ver-inst"
+duration = "3:47"
