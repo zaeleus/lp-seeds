@@ -1,0 +1,8 @@
+medium-ids = [
+  "weki-meki/dazzle-dazzle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weki-meki/dazzle-dazzle"
+duration = "3:10"
