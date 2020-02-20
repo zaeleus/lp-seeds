@@ -1,0 +1,13 @@
+medium-ids = [
+  "rheehab/emily/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rheehab/geojinmaraniya-feat-nason"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "rheehab/loser-rough"
+duration = "2:34"
