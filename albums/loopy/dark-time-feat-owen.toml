@@ -1,0 +1,14 @@
+artist-id = "loopy"
+kind = "single"
+
+names = [
+  { name = "DARK TIME (Feat. OWEN)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-02-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10390708" },
+]
