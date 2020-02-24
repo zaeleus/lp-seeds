@@ -1,0 +1,4 @@
+names = [
+  { name = "가끔은 그래도 괜찮아 (Prod. 로코베리) (Inst.)", locale = "ko", original = true },
+  { name = "Gakkeumeun Geuraedo Gwaenchana (Prod. Rocoberry) (Inst.)", locale = "ko-Latn", default = true },
+]

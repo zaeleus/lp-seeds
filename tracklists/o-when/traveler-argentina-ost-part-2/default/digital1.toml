@@ -1,0 +1,13 @@
+medium-ids = [
+  "o-when/traveler-argentina-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "o-when/gakkeumeun-geuraedo-gwaenchana-prod-rocoberry"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "o-when/gakkeumeun-geuraedo-gwaenchana-prod-rocoberry-inst"
+duration = "3:15"
