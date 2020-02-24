@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-yeon-ji/barami-bulmyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-yeon-ji/barami-bulmyeon"
+duration = "4:11"
+
+[[tracks]]
+position = 2
+song-id = "kim-yeon-ji/barami-bulmyeon-inst"
+duration = "4:11"
