@@ -1,0 +1,3 @@
+names = [
+  { name = "EL DORADO (Prod. PUFF)", locale = "ko", original = true, default = true },
+]

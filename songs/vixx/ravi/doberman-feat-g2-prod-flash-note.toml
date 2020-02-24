@@ -1,0 +1,4 @@
+names = [
+  { name = "DOBERMAN (Feat. 지투 (G2)) (Prod. Flash Note)", locale = "ko", original = true },
+  { name = "DOBERMAN (Feat. G2) (Prod. Flash Note)", locale = "ko-Latn", default = true },
+]

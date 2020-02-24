@@ -1,0 +1,4 @@
+names = [
+  { name = "칼춤 (劍舞) (Feat. Xydo (시도), Cold Bay (콜드베이), Chillin Homie) (Prod. CLAM)", locale = "ko", original = true },
+  { name = "Kalchum (Feat. Xydo, Cold Bay, Chillin Homie) (Prod. CLAM)", locale = "ko-Latn", default = true },
+]

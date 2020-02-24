@@ -1,0 +1,58 @@
+medium-ids = [
+  "vixx/ravi/el-dorado/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vixx/ravi/el-dorado-prod-puff"
+duration = "2:13"
+
+[[tracks]]
+position = 2
+song-id = "vixx/ravi/po-ei-feat-khundi-panda-prod-puff"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "vixx/ravi/dream-catcher-feat-reddy-bill-stax-prod-flash-note"
+duration = "4:30"
+
+[[tracks]]
+position = 4
+song-id = "vixx/ravi/lo-fi-feat-sik-k-prod-flash-note-puff"
+duration = "3:06"
+
+[[tracks]]
+position = 5
+song-id = "vixx/ravi/rockstar-feat-paloalto-prod-yuth"
+duration = "3:16"
+
+[[tracks]]
+position = 6
+song-id = "vixx/ravi/goddess-feat-xydo-prod-clam"
+duration = "3:02"
+
+[[tracks]]
+position = 7
+song-id = "vixx/ravi/yeopo-feat-rohann-chillin-homie-prod-quizquiz"
+duration = "4:14"
+
+[[tracks]]
+position = 8
+song-id = "vixx/ravi/doberman-feat-g2-prod-flash-note"
+duration = "2:37"
+
+[[tracks]]
+position = 9
+song-id = "vixx/ravi/full-time-digga-feat-sokodomo-raf-sandou-prod-flash-note"
+duration = "2:46"
+
+[[tracks]]
+position = 10
+song-id = "vixx/ravi/kalchum-feat-xydo-cold-bay-chillin-homie-prod-clam"
+duration = "3:18"
+
+[[tracks]]
+position = 11
+song-id = "vixx/ravi/bonus-track-where-am-i-groovl1n-remix"
+duration = "4:18"

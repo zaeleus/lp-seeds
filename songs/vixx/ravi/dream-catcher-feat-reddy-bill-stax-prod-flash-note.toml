@@ -1,0 +1,4 @@
+names = [
+  { name = "DREAM CATCHER (Feat. Reddy, BILL STAX (빌스택스)) (Prod. Flash Note)", locale = "ko", original = true },
+  { name = "DREAM CATCHER (Feat. Reddy, BILL STAX) (Prod. Flash Note)", locale = "ko-Latn", default = true },
+]

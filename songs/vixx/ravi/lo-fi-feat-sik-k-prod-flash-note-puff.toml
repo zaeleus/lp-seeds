@@ -1,0 +1,4 @@
+names = [
+  { name = "LO-FI (Feat. 식케이 (Sik-K)) (Prod. Flash Note, PUFF)", locale = "ko", original = true },
+  { name = "LO-FI (Feat. Sik-K) (Prod. Flash Note, PUFF)", locale = "ko-Latn", default = true },
+]
