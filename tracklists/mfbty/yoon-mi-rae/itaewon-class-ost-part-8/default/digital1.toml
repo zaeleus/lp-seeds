@@ -1,0 +1,13 @@
+medium-ids = [
+  "mfbty/yoon-mi-rae/itaewon-class-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mfbty/yoon-mi-rae/say"
+duration = "4:21"
+
+[[tracks]]
+position = 2
+song-id = "mfbty/yoon-mi-rae/say-inst"
+duration = "4:21"
