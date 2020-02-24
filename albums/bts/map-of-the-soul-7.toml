@@ -1,12 +1,12 @@
 artist-id = "bts"
-kind = "single"
+kind = "lp"
 
 names = [
   { name = "MAP OF THE SOUL: 7", locale = "ko", original = true, default = true },
 ]
 
 [[releases]]
-released-on = "2020-01-17"
+released-on = "2020-02-21"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [

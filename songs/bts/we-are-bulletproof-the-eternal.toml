@@ -1,0 +1,3 @@
+names = [
+  { name = "We are Bulletproof: the Eternal", locale = "ko", original = true, default = true },
+]

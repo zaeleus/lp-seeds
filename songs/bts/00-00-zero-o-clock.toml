@@ -1,0 +1,3 @@
+names = [
+  { name = "00:00 (Zero O'Clock)", locale = "ko", original = true, default = true },
+]
