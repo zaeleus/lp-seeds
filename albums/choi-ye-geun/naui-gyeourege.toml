@@ -1,0 +1,15 @@
+artist-id = "choi-ye-geun"
+kind = "single"
+
+names = [
+  { name = "나의 겨울에게", locale = "ko", original = true },
+  { name = "Naui Gyeourege", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10393182" },
+]
