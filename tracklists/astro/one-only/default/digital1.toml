@@ -1,0 +1,13 @@
+medium-ids = [
+  "astro/one-only/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "astro/one-only"
+duration = "4:12"
+
+[[tracks]]
+position = 2
+song-id = "astro/one-only-inst"
+duration = "4:12"
