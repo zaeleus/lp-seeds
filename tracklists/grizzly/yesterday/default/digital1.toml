@@ -1,0 +1,8 @@
+medium-ids = [
+  "grizzly/yesterday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "grizzly/yesterday"
+duration = "3:50"
