@@ -1,0 +1,4 @@
+names = [
+  { name = "More (Feat. 기리보이)", locale = "ko", original = true },
+  { name = "More (Feat. Giriboy)", locale = "ko-Latn", default = true },
+]

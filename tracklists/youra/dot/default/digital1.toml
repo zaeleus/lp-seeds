@@ -1,0 +1,13 @@
+medium-ids = [
+  "youra/dot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "youra/more-feat-giriboy"
+duration = "2:55"
+
+[[tracks]]
+position = 2
+song-id = "youra/night-running-feat-john-park"
+duration = "4:01"
