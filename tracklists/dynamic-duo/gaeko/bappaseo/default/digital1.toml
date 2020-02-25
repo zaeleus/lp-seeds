@@ -1,0 +1,8 @@
+medium-ids = [
+  "dynamic-duo/gaeko/bappaseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dynamic-duo/gaeko/bappaseo-feat-heize"
+duration = "3:50"
