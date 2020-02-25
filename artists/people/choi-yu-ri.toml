@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1998-11-24"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "최유리", locale = "ko", kind = "real", original = true },
+  { name = "Choi Yu Ri", locale = "ko-Latn", kind = "real", default = true },
+]

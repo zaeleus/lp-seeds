@@ -1,0 +1,33 @@
+medium-ids = [
+  "choi-yu-ri/donggeurami/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "choi-yu-ri/gudeunsal"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "choi-yu-ri/donggeurami"
+duration = "4:55"
+
+[[tracks]]
+position = 3
+song-id = "choi-yu-ri/modakbul"
+duration = "4:14"
+
+[[tracks]]
+position = 4
+song-id = "choi-yu-ri/maeireul-mureoyo"
+duration = "4:24"
+
+[[tracks]]
+position = 5
+song-id = "choi-yu-ri/punyeom"
+duration = "3:23"
+
+[[tracks]]
+position = 6
+song-id = "choi-yu-ri/huhoe"
+duration = "3:38"
