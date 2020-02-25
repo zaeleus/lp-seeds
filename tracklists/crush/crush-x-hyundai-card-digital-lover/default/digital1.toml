@@ -1,0 +1,8 @@
+medium-ids = [
+  "crush/crush-x-hyundai-card-digital-lover/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "crush/digital-lover"
+duration = "3:49"

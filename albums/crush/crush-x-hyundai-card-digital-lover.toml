@@ -1,0 +1,15 @@
+artist-id = "crush"
+kind = "single"
+
+names = [
+  { name = "[Crush X 현대카드] DIGITAL LOVER", locale = "ko", original = true },
+  { name = "[Crush X Hyundai Card] DIGITAL LOVER", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10391377" },
+]
