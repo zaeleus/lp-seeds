@@ -1,0 +1,28 @@
+medium-ids = [
+  "elris/jackpot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "elris/intro"
+duration = "1:15"
+
+[[tracks]]
+position = 2
+song-id = "elris/jackpot"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "elris/this-is-me"
+duration = "3:24"
+
+[[tracks]]
+position = 4
+song-id = "elris/haebwa-like-i-do"
+duration = "3:28"
+
+[[tracks]]
+position = 5
+song-id = "elris/no-big-deal"
+duration = "3:28"
