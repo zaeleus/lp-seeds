@@ -1,0 +1,15 @@
+artist-id = "lovelybut"
+kind = "single"
+
+names = [
+  { name = "위로의 시작", locale = "ko", original = true },
+  { name = "Wiroui Sijak", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10395592" },
+]

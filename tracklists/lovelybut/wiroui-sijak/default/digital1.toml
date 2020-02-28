@@ -1,0 +1,13 @@
+medium-ids = [
+  "lovelybut/wiroui-sijak/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lovelybut/wiroui-sijak-slow-snow-vocal-by-yong-eun"
+duration = "4:49"
+
+[[tracks]]
+position = 2
+song-id = "lovelybut/enjoy-vocal-by-jua-hwang-min-hee"
+duration = "3:14"
