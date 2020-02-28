@@ -13,3 +13,17 @@ urls = [
   { url = "https://www.melon.com/album/detail.htm?albumId=10384712" },
   { url = "https://music.youtube.com/playlist?list=OLAK5uy_nehOeDbyWc7QtOLHMHHZZ4GCb8HWrhMeE" },
 ]
+
+[[releases]]
+released-on = "2020-02-05"
+country = "KR"
+media = [{ kind = "cd" }]
+catalog-number = "L200001888"
+disambiguation = "Limited A"
+
+[[releases]]
+released-on = "2020-02-05"
+country = "KR"
+media = [{ kind = "cd" }]
+catalog-number = "L200001882"
+disambiguation = "Limited B"
