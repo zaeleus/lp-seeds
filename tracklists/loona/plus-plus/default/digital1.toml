@@ -1,10 +1,10 @@
 medium-ids = [
-  "loona//default/digital1",
+  "loona/plus-plus/default/digital1",
 ]
 
 [[tracks]]
 position = 1
-song-id = "loona/"
+song-id = "loona/plus-plus"
 duration = "0:59"
 
 [[tracks]]
