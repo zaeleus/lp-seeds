@@ -10,8 +10,8 @@ names = [
 [[members.artist-credits]]
 artist-id = "april/chae-kyung"
 names = [
-  { name = "윤채경", locale = "ko", kind = "real" },
-  { name = "Yoon Chae Kyung", locale = "ko-Latn", kind = "real" },
+  { name = "윤채경", locale = "ko", original = true },
+  { name = "Yoon Chae Kyung", locale = "ko-Latn", default = true },
 ]
 
 [[members]]
