@@ -1,0 +1,18 @@
+medium-ids = [
+  "loona/orbit-1-0/default/cd1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/jigeum-deo-joahae"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "loona/egoist-feat-jinsoul-english-rap-ver"
+duration = "4:09"
+
+[[tracks]]
+position = 3
+song-id = "loona/hi-high-remix-ver"
+duration = "3:16"

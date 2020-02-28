@@ -1,0 +1,11 @@
+artist-id = "loona"
+kind = "single"
+
+names = [
+  { name = "Orbit 1.0", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2018-10-31"
+country = "KR"
+media = [{ kind = "cd" }]
