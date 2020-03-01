@@ -1,0 +1,13 @@
+medium-ids = [
+  "chai/gimme-that/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "chai/gimme-that-feat-saay-prod-stally-colde"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "chai/boyfriend-feat-khakii-prod-colde"
+duration = "3:48"
