@@ -1,0 +1,15 @@
+artist-id = "cherry-coke"
+kind = "single"
+
+names = [
+  { name = "베개", locale = "ko", original = true },
+  { name = "Begae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10395912" },
+]
