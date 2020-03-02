@@ -1,0 +1,13 @@
+medium-ids = [
+  "chu-hwa-jeong/on-my-own/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "chu-hwa-jeong/on-my-own"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "chu-hwa-jeong/on-my-own-inst"
+duration = "3:22"
