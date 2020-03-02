@@ -1,0 +1,16 @@
+artist-id = "brown-eyed-soul/ahn-jung-yup"
+kind = "single"
+
+names = [
+  { name = "날씨가 좋으면 찾아가겠어요 OST Part.2", locale = "ko", original = true },
+  { name = "Nalssiga Joeumyeon Chajagagesseoyo OST Part.2", locale = "ko-Latn", default = true },
+  { name = "When the Weather Is Fine OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-03-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10396689" },
+]
