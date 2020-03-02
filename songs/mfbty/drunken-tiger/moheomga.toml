@@ -1,0 +1,11 @@
+names = [
+  { name = "모험가 (歌)", locale = "ko", original = true },
+  { name = "Moheomga", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "mfbty/drunken-tiger"
+names = [
+  { name = "타이거JK", locale = "ko", original = true },
+  { name = "Tiger JK", locale = "en", default = true },
+]

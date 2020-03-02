@@ -6,6 +6,8 @@ gender = "male"
 names = [
   { name = "드렁큰 타이거", locale = "ko", kind = "stage", original = true },
   { name = "Drunken Tiger", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "타이거JK", locale = "ko", kind = "stage" },
+  { name = "Tiger JK", locale = "en", kind = "stage" },
   { name = "서정권", locale = "ko", kind = "real" },
   { name = "Seo Jung Kwon", locale = "ko-Latn", kind = "real" },
 ]

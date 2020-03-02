@@ -1,0 +1,22 @@
+artist-id = "mfbty/drunken-tiger"
+kind = "single"
+
+names = [
+  { name = "모험가 (歌)", locale = "ko", original = true },
+  { name = "Moheomga", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "mfbty/drunken-tiger"
+names = [
+  { name = "타이거JK", locale = "ko", original = true },
+  { name = "Tiger JK", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-02-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10395989" },
+]
