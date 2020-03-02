@@ -1,0 +1,11 @@
+names = [
+  { name = "별처럼 빛나는 시간 (Inst.)", locale = "ko", original = true },
+  { name = "Byeolcheoreom Binnaneun Sigan (Inst.)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "15and/jimin"
+names = [
+  { name = "박지민", locale = "ko", original = true },
+  { name = "Jimin Park", locale = "en", default = true },
+]

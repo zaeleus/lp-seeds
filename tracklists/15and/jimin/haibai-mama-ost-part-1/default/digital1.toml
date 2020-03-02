@@ -1,0 +1,13 @@
+medium-ids = [
+  "15and/jimin/haibai-mama-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "15and/jimin/byeolcheoreom-binnaneun-sigan"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "15and/jimin/byeolcheoreom-binnaneun-sigan-inst"
+duration = "3:19"
