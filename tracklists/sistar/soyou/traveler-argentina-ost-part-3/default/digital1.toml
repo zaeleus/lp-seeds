@@ -1,0 +1,13 @@
+medium-ids = [
+  "sistar/soyou/traveler-argentina-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sistar/soyou/before-sunrise-prod-kiggen"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "sistar/soyou/before-sunrise-prod-kiggen-inst"
+duration = "3:40"
