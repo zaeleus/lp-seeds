@@ -1,0 +1,16 @@
+artist-id = "chung-ha"
+kind = "single"
+
+names = [
+  { name = "솔직히 지친다.newwav", locale = "ko", original = true },
+  { name = "Soljikhi Jichinda.newwav", locale = "ko-Latn", default = true },
+  { name = "Everybody Has.newwav", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-02-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10396024" },
+]
