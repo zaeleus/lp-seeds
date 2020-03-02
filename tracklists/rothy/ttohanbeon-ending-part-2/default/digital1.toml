@@ -1,0 +1,13 @@
+medium-ids = [
+  "rothy/ttohanbeon-ending-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rothy/hello"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "rothy/hello-inst"
+duration = "3:26"
