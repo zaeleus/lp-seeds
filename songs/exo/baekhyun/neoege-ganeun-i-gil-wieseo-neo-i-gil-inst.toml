@@ -1,0 +1,4 @@
+names = [
+  { name = "너에게 가는 이 길 위에서 (너.이.길) (Inst.)", locale = "ko", original = true },
+  { name = "Neoege Ganeun I Gil Wieseo (Neo.I.Gil) (Inst.)", locale = "ko-Latn", default = true },
+]

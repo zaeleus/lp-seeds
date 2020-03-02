@@ -1,0 +1,13 @@
+medium-ids = [
+  "exo/baekhyun/hyena-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/baekhyun/neoege-ganeun-i-gil-wieseo-neo-i-gil"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "exo/baekhyun/neoege-ganeun-i-gil-wieseo-neo-i-gil-inst"
+duration = "3:56"
