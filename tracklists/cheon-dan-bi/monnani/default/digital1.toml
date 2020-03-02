@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheon-dan-bi/monnani/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheon-dan-bi/monnani"
+duration = "4:10"
+
+[[tracks]]
+position = 2
+song-id = "cheon-dan-bi/monnani-inst"
+duration = "4:10"
