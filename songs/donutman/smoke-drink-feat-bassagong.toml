@@ -1,0 +1,4 @@
+names = [
+  { name = "Smoke & Drink (feat. 뱃사공)", locale = "ko", original = true },
+  { name = "Smoke & Drink (feat. Bassagong)", locale = "ko-Latn", default = true },
+]
