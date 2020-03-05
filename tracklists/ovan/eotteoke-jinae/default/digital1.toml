@@ -1,0 +1,13 @@
+medium-ids = [
+  "ovan/eotteoke-jinae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ovan/eotteoke-jinae"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "ovan/eotteoke-jinae-inst"
+duration = "3:51"
