@@ -1,0 +1,13 @@
+medium-ids = [
+  "ben/hyena-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/geudaeyeo-geudaeyeo-naui-geudaeyeo"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "ben/geudaeyeo-geudaeyeo-naui-geudaeyeo-inst"
+duration = "2:19"
