@@ -1,0 +1,9 @@
+names = [
+  { name = "내 입맛 (Feat. ZICO)", locale = "ko", original = true },
+  { name = "Nae Immat (Feat. ZICO)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "dress", separator = "," },
+  { artist-id = "sogumm" },
+]

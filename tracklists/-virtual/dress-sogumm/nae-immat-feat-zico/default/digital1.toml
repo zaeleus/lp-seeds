@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/dress-sogumm/nae-immat-feat-zico/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/dress-sogumm/nae-immat-feat-zico"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/dress-sogumm/naman-mideo"
+duration = "2:37"

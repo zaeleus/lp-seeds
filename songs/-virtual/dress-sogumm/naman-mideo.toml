@@ -1,0 +1,9 @@
+names = [
+  { name = "나만 믿어", locale = "ko", original = true },
+  { name = "Naman Mideo", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "dress", separator = "," },
+  { artist-id = "sogumm" },
+]
