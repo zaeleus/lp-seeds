@@ -1,0 +1,33 @@
+medium-ids = [
+  "davii/cinema/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davii/cinema"
+duration = "1:08"
+
+[[tracks]]
+position = 2
+song-id = "davii/sesang-modeunge-da-neoya"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "davii/sihaengchago-feat-babylon-minah"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "davii/nalgae-angel"
+duration = "3:09"
+
+[[tracks]]
+position = 5
+song-id = "davii/teddy-bear-feat-kwon-jin-ah"
+duration = "3:49"
+
+[[tracks]]
+position = 6
+song-id = "davii/ending"
+duration = "1:42"

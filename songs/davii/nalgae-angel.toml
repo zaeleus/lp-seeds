@@ -1,0 +1,5 @@
+names = [
+  { name = "날개 (Angel)", locale = "ko", original = true },
+  { name = "Nalgae (Angel)", locale = "ko-Latn", default = true },
+  { name = "Angel", locale = "en" },
+]
