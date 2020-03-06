@@ -1,0 +1,13 @@
+medium-ids = [
+  "alexa/do-or-die/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "alexa/do-or-die"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "alexa/do-or-die-instrumental"
+duration = "3:09"
