@@ -1,0 +1,13 @@
+medium-ids = [
+  "alexa/a-i-trooper/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "alexa/a-i-trooper"
+duration = "2:03"
+
+[[tracks]]
+position = 2
+song-id = "alexa/a-i-trooper-instrumental"
+duration = "2:03"
