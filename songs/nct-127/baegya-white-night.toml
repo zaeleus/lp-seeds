@@ -1,0 +1,5 @@
+names = [
+  { name = "백야 (White Night)", locale = "ko", original = true },
+  { name = "Baegya (White Night)", locale = "ko-Latn", default = true },
+  { name = "White Night", locale = "en" },
+]

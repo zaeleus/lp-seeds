@@ -1,0 +1,3 @@
+names = [
+  { name = "Interlude: Neo Zone", locale = "ko", original = true, default = true },
+]

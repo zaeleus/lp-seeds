@@ -1,0 +1,5 @@
+names = [
+  { name = "뿔 (MAD DOG)", locale = "ko", original = true },
+  { name = "Ppul (MAD DOG)", locale = "ko-Latn", default = true },
+  { name = "MAD DOG", locale = "en" },
+]

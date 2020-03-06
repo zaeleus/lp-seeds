@@ -1,0 +1,5 @@
+names = [
+  { name = "영웅 (英雄; Kick It)", locale = "ko", original = true },
+  { name = "Yeongung (Kick It)", locale = "ko-Latn", default = true },
+  { name = "Kick It", locale = "en" },
+]

@@ -1,0 +1,3 @@
+names = [
+  { name = "Elevator (127F)", locale = "ko", original = true, default = true },
+]

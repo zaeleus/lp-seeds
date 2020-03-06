@@ -1,0 +1,5 @@
+names = [
+  { name = "낮잠 (Pandora's Box)", locale = "ko", original = true },
+  { name = "Natjam (Pandora's Box)", locale = "ko-Latn", default = true },
+  { name = "Pandora's Box", locale = "en" },
+]
