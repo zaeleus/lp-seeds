@@ -1,0 +1,18 @@
+medium-ids = [
+  "ash-b/ok-bish/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ash-b/do-that-thang"
+duration = "2:04"
+
+[[tracks]]
+position = 2
+song-id = "ash-b/where-is-she-feat-reddy"
+duration = "2:40"
+
+[[tracks]]
+position = 3
+song-id = "ash-b/woo"
+duration = "1:51"

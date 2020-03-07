@@ -1,0 +1,3 @@
+names = [
+  { name = "Where is she? (Feat. Reddy)", locale = "ko", original = true, default = true },
+]
