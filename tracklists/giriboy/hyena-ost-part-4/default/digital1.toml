@@ -1,0 +1,13 @@
+medium-ids = [
+  "giriboy/hyena-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giriboy/hyena"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "giriboy/hyena-inst"
+duration = "3:39"
