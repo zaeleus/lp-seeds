@@ -1,0 +1,13 @@
+medium-ids = [
+  "ugly-duck/bon-daero-malhara-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ugly-duck/what-you-see"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "ugly-duck/what-you-see-inst"
+duration = "3:31"
