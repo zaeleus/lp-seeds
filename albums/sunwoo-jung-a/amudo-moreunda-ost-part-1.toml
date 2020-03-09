@@ -1,0 +1,16 @@
+artist-id = "sunwoo-jung-a"
+kind = "single"
+
+names = [
+  { name = "아무도 모른다 OST Part.1", locale = "ko", original = true },
+  { name = "Amudo Moreunda OST Part.1", locale = "ko-Latn", default = true },
+  { name = "Nobody Knows OST Part.1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-03-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10400180" },
+]
