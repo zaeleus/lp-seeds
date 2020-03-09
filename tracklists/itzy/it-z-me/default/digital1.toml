@@ -1,0 +1,38 @@
+medium-ids = [
+  "itzy/it-z-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "itzy/wannabe"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "itzy/ting-ting-ting-with-oliver-heldens"
+duration = "3:40"
+
+[[tracks]]
+position = 3
+song-id = "itzy/that-s-a-no-no"
+duration = "3:01"
+
+[[tracks]]
+position = 4
+song-id = "itzy/nobody-like-you"
+duration = "3:18"
+
+[[tracks]]
+position = 5
+song-id = "itzy/you-make-me"
+duration = "3:04"
+
+[[tracks]]
+position = 6
+song-id = "itzy/i-don-t-wanna-dance"
+duration = "3:10"
+
+[[tracks]]
+position = 7
+song-id = "itzy/24hrs"
+duration = "2:08"
