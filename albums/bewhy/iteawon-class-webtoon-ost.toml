@@ -1,0 +1,15 @@
+artist-id = "bewhy"
+kind = "single"
+
+names = [
+  { name = "이태원 클라쓰 웹툰 OST", locale = "ko", original = true },
+  { name = "Iteawon Class Webtoon OST", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-03-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10399877" },
+]
