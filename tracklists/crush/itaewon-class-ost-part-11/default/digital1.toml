@@ -1,0 +1,13 @@
+medium-ids = [
+  "crush/itaewon-class-ost-part-11/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "crush/eotteon-maldo"
+duration = "4:32"
+
+[[tracks]]
+position = 2
+song-id = "crush/eotteon-maldo-inst"
+duration = "4:32"
