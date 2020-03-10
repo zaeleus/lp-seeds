@@ -1,0 +1,14 @@
+artist-id = "leebada"
+kind = "single"
+
+names = [
+  { name = "Empty Room", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-03-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10401022" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "leebada/empty-room/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leebada/diana"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "leebada/empty-room"
+duration = "3:35"
