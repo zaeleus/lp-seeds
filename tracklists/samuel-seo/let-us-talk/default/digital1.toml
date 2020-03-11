@@ -1,0 +1,13 @@
+medium-ids = [
+  "samuel-seo/let-us-talk/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "samuel-seo/let-us-talk-prod-by-holly"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "samuel-seo/let-us-talk-bedroom-ver"
+duration = "3:42"
