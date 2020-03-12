@@ -1,0 +1,4 @@
+names = [
+  { name = "Falling (feat. 은채)", locale = "ko", original = true },
+  { name = "Falling (feat. Eunchae)", locale = "ko-Latn", default = true },
+]
