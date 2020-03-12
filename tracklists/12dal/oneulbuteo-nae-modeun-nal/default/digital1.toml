@@ -1,0 +1,13 @@
+medium-ids = [
+  "12dal/oneulbuteo-nae-modeun-nal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "12dal/oneulbuteo-nae-modeun-nal"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "12dal/oneulbuteo-nae-modeun-nal-inst"
+duration = "3:13"
