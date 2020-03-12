@@ -1,0 +1,8 @@
+medium-ids = [
+  "dbo/butter-freestyle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dbo/butter-freestyle"
+duration = "2:12"
