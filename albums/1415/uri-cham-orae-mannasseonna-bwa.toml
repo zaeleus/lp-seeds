@@ -1,0 +1,15 @@
+artist-id = "1415"
+kind = "single"
+
+names = [
+  { name = "우리 참 오래 만났었나 봐", locale = "ko", original = true },
+  { name = "Uri Cham Orae Mannasseonna Bwa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-03-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10401748" },
+]

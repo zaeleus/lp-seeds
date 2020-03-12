@@ -1,0 +1,13 @@
+medium-ids = [
+  "1415/uri-cham-orae-mannasseonna-bwa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "1415/uri-cham-orae-mannasseonna-bwa"
+duration = "4:29"
+
+[[tracks]]
+position = 2
+song-id = "1415/uri-cham-orae-mannasseonna-bwa-inst"
+duration = "4:29"
