@@ -1,0 +1,58 @@
+medium-ids = [
+  "superbee/rap-legend-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "superbee/rl-2-ntro"
+duration = "2:03"
+
+[[tracks]]
+position = 2
+song-id = "superbee/tteonaya"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "superbee/mud-boy"
+duration = "3:21"
+
+[[tracks]]
+position = 5
+song-id = "superbee/selfmade-orange-2-feat-changmo-paul-blanco"
+duration = "4:15"
+
+[[tracks]]
+position = 6
+song-id = "superbee/give-no-f-feat-uneducated-kid-juvie-train"
+duration = "3:52"
+
+[[tracks]]
+position = 7
+song-id = "superbee/i-go-flex-feat-twlv-meloh"
+duration = "3:20"
+
+[[tracks]]
+position = 8
+song-id = "superbee/mure-ppajyeo"
+duration = "2:01"
+
+[[tracks]]
+position = 9
+song-id = "superbee/geoul-mirror-feat-justhis"
+duration = "3:14"
+
+[[tracks]]
+position = 10
+song-id = "superbee/tt-way-die-young"
+duration = "2:29"
+
+[[tracks]]
+position = 11
+song-id = "superbee/kidk-kidk-feat-superbee"
+duration = "3:26"
+
+[[tracks]]
+position = 12
+song-id = "superbee/heu-remix-ver"
+duration = "2:19"

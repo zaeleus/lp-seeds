@@ -1,0 +1,5 @@
+names = [
+  { name = "거울 (Mirror) (feat. JUSTHIS)", locale = "ko", original = true },
+  { name = "Geoul (Mirror) (feat. JUSTHIS)", locale = "ko-Latn", default = true },
+  { name = "Mirror (feat. JUSTHIS)", locale = "en" },
+]
