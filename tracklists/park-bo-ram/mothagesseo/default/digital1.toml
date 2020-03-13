@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-bo-ram/mothagesseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-bo-ram/mothagesseo"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "park-bo-ram/mothagesseo-inst"
+duration = "4:00"
