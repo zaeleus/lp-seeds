@@ -1,0 +1,15 @@
+artist-id = "bts/v"
+kind = "single"
+
+names = [
+  { name = "이태원 클라쓰 OST Part.12", locale = "ko", original = true },
+  { name = "Itaewon Class OST Part.12", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-03-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10402677" },
+]
