@@ -1,0 +1,18 @@
+medium-ids = [
+  "lee-bo-ram/hyena-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-bo-ram/freak-english-ver"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "lee-bo-ram/freak-korean-ver"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "lee-bo-ram/freak-inst"
+duration = "3:24"
