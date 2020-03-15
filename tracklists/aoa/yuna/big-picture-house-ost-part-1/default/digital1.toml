@@ -1,0 +1,13 @@
+medium-ids = [
+  "aoa/yuna/big-picture-house-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aoa/yuna/wiro"
+duration = "4:25"
+
+[[tracks]]
+position = 2
+song-id = "aoa/yuna/wiro-inst"
+duration = "4:25"
