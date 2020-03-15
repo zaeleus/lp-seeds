@@ -1,0 +1,13 @@
+medium-ids = [
+  "yeseo/beautiful-creature/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yeseo/beautiful-creature"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "yeseo/beautiful-creature-inst"
+duration = "3:58"
