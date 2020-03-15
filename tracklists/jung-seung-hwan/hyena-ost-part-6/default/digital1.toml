@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-seung-hwan/hyena-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-seung-hwan/naneunneoya"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "jung-seung-hwan/naneunneoya-inst"
+duration = "3:58"
