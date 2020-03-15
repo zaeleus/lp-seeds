@@ -1,0 +1,4 @@
+names = [
+  { name = "꽃은 따라서 (Prod. 로코베리) (Inst.)", locale = "ko", original = true },
+  { name = "Kkocheun Ttaraseo (Prod. Rocoberry) (Inst.)", locale = "ko-Latn", default = true },
+]

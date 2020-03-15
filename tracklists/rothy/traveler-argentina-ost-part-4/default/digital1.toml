@@ -1,0 +1,13 @@
+medium-ids = [
+  "rothy/traveler-argentina-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rothy/kkocheun-ttaraseo-prod-rocoberry"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "rothy/kkocheun-ttaraseo-prod-rocoberry-inst"
+duration = "3:54"
