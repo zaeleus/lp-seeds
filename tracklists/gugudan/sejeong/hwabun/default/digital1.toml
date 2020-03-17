@@ -1,0 +1,28 @@
+medium-ids = [
+  "gugudan/sejeong/hwabun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/sejeong/hwabun"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/sejeong/oneureun-gwaenchana"
+duration = "4:06"
+
+[[tracks]]
+position = 3
+song-id = "gugudan/sejeong/skyline"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "gugudan/sejeong/oribal"
+duration = "2:40"
+
+[[tracks]]
+position = 5
+song-id = "gugudan/sejeong/kkumsogeseo-neol"
+duration = "4:03"
