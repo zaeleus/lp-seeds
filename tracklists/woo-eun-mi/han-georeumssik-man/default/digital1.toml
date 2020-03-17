@@ -1,0 +1,13 @@
+medium-ids = [
+  "woo-eun-mi/han-georeumssik-man/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-eun-mi/han-georeumssik-man-prod-jonammae"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "woo-eun-mi/han-georeumssik-man-inst"
+duration = "3:23"
