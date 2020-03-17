@@ -1,0 +1,13 @@
+medium-ids = [
+  "nell/amudo-moreunda-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nell/lost"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "nell/lost-inst"
+duration = "4:02"
