@@ -1,0 +1,5 @@
+names = [
+  { name = "말해주지마 (SAY IT) (feat. 원카인 (1Kyne))", locale = "ko", original = true },
+  { name = "Malhaejujima (SAY IT) (feat. 1Kyne)", locale = "ko-Latn", default = true },
+  { name = "SAY IT (feat. 1Kyne)", locale = "en" },
+]
