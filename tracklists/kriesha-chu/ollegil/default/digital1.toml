@@ -1,0 +1,13 @@
+medium-ids = [
+  "kriesha-chu/ollegil/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kriesha-chu/ollegil-jijibai"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "kriesha-chu/ollegil-sonari"
+duration = "3:47"
