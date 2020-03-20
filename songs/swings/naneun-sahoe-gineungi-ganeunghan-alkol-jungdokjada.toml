@@ -1,0 +1,5 @@
+names = [
+  { name = "나는 (사회 기능이 가능한) 알콜 중독자다", locale = "ko", original = true },
+  { name = "Naneun (Sahoe Gineungi Ganeunghan) Alkol Jungdokjada", locale = "ko-Latn", default = true },
+  { name = "I Am a (Functional) Alcoholic", locale = "en" },
+]

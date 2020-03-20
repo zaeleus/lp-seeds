@@ -1,0 +1,5 @@
+names = [
+  { name = "한계 (Feat. 뱃사공)", locale = "ko", original = true },
+  { name = "Hangye (Feat. Bassagong)", locale = "ko-Latn", default = true },
+  { name = "Limit (Feat. Bassagong)", locale = "en" },
+]

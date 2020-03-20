@@ -1,0 +1,5 @@
+names = [
+  { name = "유어 에너지 (Feat. YUNHWAY, 한요한)", locale = "ko", original = true },
+  { name = "Yueo Eneoji (Feat. YUNHWAY, Han Yo Han)", locale = "ko-Latn" },
+  { name = "Your Energy (Feat. YUNHWAY, Han Yo Han)", locale = "en", default = true },
+]

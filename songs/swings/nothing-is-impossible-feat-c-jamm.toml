@@ -1,0 +1,5 @@
+names = [
+  { name = "너띵 이즈 임파서블 (Feat. C JAMM)", locale = "ko", original = true },
+  { name = "Neotting Ijeu Impaseobeul (Feat. C JAMM)", locale = "ko-Latn" },
+  { name = "Nothing Is Impossible (Feat. C JAMM)", locale = "", default = true },
+]

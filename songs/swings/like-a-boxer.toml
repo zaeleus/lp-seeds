@@ -1,0 +1,5 @@
+names = [
+  { name = "라익 어 복서", locale = "ko", original = true },
+  { name = "Raik Eo Bokseo", locale = "ko-Latn" },
+  { name = "Like a Boxer", locale = "en", default = true },
+]

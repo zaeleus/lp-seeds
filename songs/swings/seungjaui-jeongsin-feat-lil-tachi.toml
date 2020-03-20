@@ -1,0 +1,5 @@
+names = [
+  { name = "승자의 정신 (Feat. Lil tachi)", locale = "ko", original = true },
+  { name = "Seungjaui Jeongsin (Feat. Lil tachi)", locale = "ko-Latn", default = true },
+  { name = "Mental of Winner (Feat. Lil tachi)", locale = "en" },
+]

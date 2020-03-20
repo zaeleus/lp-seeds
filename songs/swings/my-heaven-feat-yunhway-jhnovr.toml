@@ -1,0 +1,5 @@
+names = [
+  { name = "마이 헤븐 (Feat. YUNHWAY, Jhnovr)", locale = "ko", original = true },
+  { name = "Mai Hebeun (Feat. YUNHWAY, Jhnovr)", locale = "ko-Latn" },
+  { name = "My Heaven (Feat. YUNHWAY, Jhnovr)", locale = "en", default = true },
+]

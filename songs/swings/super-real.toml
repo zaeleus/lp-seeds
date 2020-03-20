@@ -1,0 +1,5 @@
+names = [
+  { name = "수퍼 리얼", locale = "ko", original = true },
+  { name = "Supeo Rieol", locale = "ko-Latn" },
+  { name = "Super Real", locale = "en", default = true },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "브레익 유어 페이스 (Feat. Owen)", locale = "ko", original = true },
+  { name = "Beureik Yueo Peiseu (Feat. Owen)", locale = "ko-Latn" },
+  { name = "Break Your Face (Feat. Owen)", locale = "en", default = true },
+]

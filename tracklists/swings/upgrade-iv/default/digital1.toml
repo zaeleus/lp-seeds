@@ -1,0 +1,88 @@
+medium-ids = [
+  "swings/upgrade-iv/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "swings/the-dance"
+duration = "2:24"
+
+[[tracks]]
+position = 2
+song-id = "swings/stay-fresh"
+duration = "2:53"
+
+[[tracks]]
+position = 3
+song-id = "swings/hangye-feat-bassagong"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "swings/i-love-you"
+duration = "2:33"
+
+[[tracks]]
+position = 5
+song-id = "swings/camera-freestyle"
+duration = "4:29"
+
+[[tracks]]
+position = 6
+song-id = "swings/neon-jom-araya-dwae"
+duration = "2:37"
+
+[[tracks]]
+position = 7
+song-id = "swings/molla-feat-justhis"
+duration = "3:44"
+
+[[tracks]]
+position = 8
+song-id = "swings/seungjaui-jeongsin-feat-lil-tachi"
+duration = "2:10"
+
+[[tracks]]
+position = 9
+song-id = "swings/my-heaven-feat-yunhway-jhnovr"
+duration = "3:40"
+
+[[tracks]]
+position = 10
+song-id = "swings/like-a-boxer"
+duration = "2:31"
+
+[[tracks]]
+position = 11
+song-id = "swings/still-got-love-feat-gaeko"
+duration = "3:32"
+
+[[tracks]]
+position = 12
+song-id = "swings/nothing-is-impossible-feat-c-jamm"
+duration = "3:47"
+
+[[tracks]]
+position = 13
+song-id = "swings/naneun-sahoe-gineungi-ganeunghan-alkol-jungdokjada"
+duration = "0:44"
+
+[[tracks]]
+position = 14
+song-id = "swings/super-real"
+duration = "2:25"
+
+[[tracks]]
+position = 15
+song-id = "swings/break-your-face-feat-owen"
+duration = "2:21"
+
+[[tracks]]
+position = 16
+song-id = "swings/your-energy-feat-yunhway-han-yo-han"
+duration = "2:45"
+
+[[tracks]]
+position = 17
+song-id = "swings/5-4-3-2-1"
+duration = "3:10"

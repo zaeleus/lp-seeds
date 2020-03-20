@@ -1,0 +1,5 @@
+names = [
+  { name = "카메라 프리스타일", locale = "ko", original = true },
+  { name = "Kamera Peuriseutail", locale = "ko-Latn" },
+  { name = "Camera Freestyle", locale = "en", default = true },
+]

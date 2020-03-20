@@ -1,0 +1,5 @@
+names = [
+  { name = "몰라? (Feat. JUSTHIS)", locale = "ko", original = true },
+  { name = "Molla? (Feat. JUSTHIS)", locale = "ko-Latn", default = true },
+  { name = "You Don't Know (Feat. JUSTHIS)", locale = "en" },
+]
