@@ -1,0 +1,9 @@
+names = [
+  { name = "나의 호기심 (Inst.)", locale = "ko", original = true },
+  { name = "Naui Hogisim (Inst.)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "015b", separator = ", " },
+  { artist-id = "shin-youmi" },
+]
