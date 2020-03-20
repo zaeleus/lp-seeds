@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2002"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "노을", locale = "ko", original = true },
+  { name = "Noel", locale = "en", default = true },
+]
