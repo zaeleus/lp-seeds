@@ -1,0 +1,23 @@
+medium-ids = [
+  "leeds/geeureun-haru/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leeds/geeureun-haru"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "leeds/water-feat-chibi"
+duration = "3:44"
+
+[[tracks]]
+position = 3
+song-id = "leeds/geeureun-haru-inst"
+duration = "3:46"
+
+[[tracks]]
+position = 4
+song-id = "leeds/water-inst"
+duration = "3:44"
