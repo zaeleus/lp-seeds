@@ -1,0 +1,13 @@
+medium-ids = [
+  "john-park/3-wol-gateun-neo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "john-park/3-wol-gateun-neo"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "john-park/3-wol-gateun-neo-inst"
+duration = "3:46"
