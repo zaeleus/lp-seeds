@@ -1,0 +1,8 @@
+medium-ids = [
+  "monsta-x/here-we-are/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "monsta-x/here-we-are-with-ttg"
+duration = "3:34"

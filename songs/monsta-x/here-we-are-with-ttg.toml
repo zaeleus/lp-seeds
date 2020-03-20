@@ -1,0 +1,3 @@
+names = [
+  { name = "Here We Are (with TTG)", locale = "ko", original = true, default = true },
+]
