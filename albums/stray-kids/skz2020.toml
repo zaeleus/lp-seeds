@@ -1,0 +1,14 @@
+artist-id = "stray-kids"
+kind = "lp"
+
+names = [
+  { name = "SKZ2020", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-03-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10404130" },
+]

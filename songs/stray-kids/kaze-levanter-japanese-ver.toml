@@ -1,0 +1,5 @@
+names = [
+  { name = "風 (Levanter) -Japanese ver.-", locale = "ko", original = true },
+  { name = "Kaze (Levanter) -Japanese ver.-", locale = "ja-Latn", default = true },
+  { name = "Levanter -Japanese ver.-", locale = "en" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "Grrr 총량의 법칙", locale = "ko", original = true },
+  { name = "Grrr Chongnyangui Beopchik", locale = "ko-Latn", default = true },
+]
