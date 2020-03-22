@@ -1,0 +1,38 @@
+medium-ids = [
+  "purplebeck/starry-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "purplebeck/starry-night"
+duration = "1:17"
+
+[[tracks]]
+position = 2
+song-id = "purplebeck/valenti"
+duration = "3:36"
+
+[[tracks]]
+position = 3
+song-id = "purplebeck/geureonggeureong-tearful"
+duration = "4:15"
+
+[[tracks]]
+position = 4
+song-id = "purplebeck/mare"
+duration = "3:34"
+
+[[tracks]]
+position = 5
+song-id = "purplebeck/valenti-inst"
+duration = "3:36"
+
+[[tracks]]
+position = 6
+song-id = "purplebeck/geureonggeureong-tearful-inst"
+duration = "4:15"
+
+[[tracks]]
+position = 7
+song-id = "purplebeck/mare-inst"
+duration = "3:34"

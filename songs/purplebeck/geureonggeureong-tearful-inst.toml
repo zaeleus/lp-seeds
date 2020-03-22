@@ -1,0 +1,5 @@
+names = [
+  { name = "그렁그렁 (Tearful) (Inst.)", locale = "ko", original = true },
+  { name = "Geureonggeureong (Tearful) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Tearful (Inst.)", locale = "en" },
+]
