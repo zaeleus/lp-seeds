@@ -1,0 +1,13 @@
+medium-ids = [
+  "red-velvet/joy/seulgiroun-uisasaenghwal-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/joy/joeun-saram-isseumyeon-sogaesikyeojwo"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/joy/joeun-saram-isseumyeon-sogaesikyeojwo-inst"
+duration = "3:04"

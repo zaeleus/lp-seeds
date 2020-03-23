@@ -1,0 +1,11 @@
+names = [
+  { name = "좋은 사람 있으면 소개시켜줘", locale = "ko", original = true },
+  { name = "Joeun Saram Isseumyeon Sogaesikyeojwo", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "red-velvet/joy"
+names = [
+  { name = "조이", locale = "ko", original = true },
+  { name = "JOY", locale = "ko-Latn", default = true },
+]
