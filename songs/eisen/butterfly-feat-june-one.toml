@@ -1,0 +1,3 @@
+names = [
+  { name = "Butterfly (feat. June One)", locale = "ko", original = true, default = true },
+]

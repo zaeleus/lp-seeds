@@ -1,0 +1,23 @@
+medium-ids = [
+  "eisen/club-mild/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eisen/when-you-move"
+duration = "2:38"
+
+[[tracks]]
+position = 2
+song-id = "eisen/butterfly-feat-june-one"
+duration = "3:57"
+
+[[tracks]]
+position = 3
+song-id = "eisen/something-feat-pisa"
+duration = "4:08"
+
+[[tracks]]
+position = 4
+song-id = "eisen/golden-door"
+duration = "4:00"
