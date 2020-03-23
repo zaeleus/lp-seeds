@@ -1,0 +1,13 @@
+medium-ids = [
+  "kisum/the-1st-key-to-sum-island/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kisum/1-wi-primero"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "kisum/1-wi-primero-inst"
+duration = "3:37"

@@ -1,0 +1,5 @@
+names = [
+  { name = "1위 (primero) Inst.", locale = "ko", original = true },
+  { name = "1-wi (primero) Inst.", locale = "ko-Latn", default = true },
+  { name = "primero Inst.", locale = "en" },
+]
