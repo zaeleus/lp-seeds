@@ -1,0 +1,5 @@
+names = [
+  { name = "몰라 (HEAR ME) (Prod. GooseBumps)", locale = "ko", original = true },
+  { name = "Molla (HEAR ME) (Prod. GooseBumps)", locale = "ko-Latn", default = true },
+  { name = "HEAR ME (Prod. GooseBumps)", locale = "en" },
+]

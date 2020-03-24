@@ -1,0 +1,5 @@
+names = [
+  { name = "30분 (30MIN) (Feat. 사이먼 도미닉) (Prod. GooseBumps)", locale = "ko", original = true },
+  { name = "30-bun (30MIN) (Feat. Simon Dominic) (Prod. GooseBumps)", locale = "ko-Latn", default = true },
+  { name = "30MIN (Feat. Simon Dominic) (Prod. GooseBumps)", locale = "en" },
+]
