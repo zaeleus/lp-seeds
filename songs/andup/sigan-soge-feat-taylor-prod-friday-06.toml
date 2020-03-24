@@ -1,0 +1,4 @@
+names = [
+  { name = "시간 속에 (Feat. Taylor) (Prod. Friday 06)", locale = "ko", original = true },
+  { name = "Sigan Soge (Feat. Taylor) (Prod. Friday 06)", locale = "ko-Latn", default = true },
+]
