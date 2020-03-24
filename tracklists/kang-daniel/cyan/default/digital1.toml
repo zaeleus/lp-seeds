@@ -1,0 +1,28 @@
+medium-ids = [
+  "kang-daniel/cyan/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kang-daniel/adulthood"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "kang-daniel/2u"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "kang-daniel/jealous"
+duration = "3:32"
+
+[[tracks]]
+position = 4
+song-id = "kang-daniel/interview"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song-id = "kang-daniel/touchin"
+duration = "3:06"
