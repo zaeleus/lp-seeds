@@ -1,0 +1,5 @@
+names = [
+  { name = "꼭꼭 숨어라 (Hide and Seek)", locale = "ko", original = true },
+  { name = "Kkokkkok Sumeora (Hide and Seek)", locale = "ko-Latn", default = true },
+  { name = "Hide and Seek", locale = "en" },
+]

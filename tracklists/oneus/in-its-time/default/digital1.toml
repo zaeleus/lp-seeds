@@ -1,0 +1,13 @@
+medium-ids = [
+  "oneus/in-its-time/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oneus/swipge-sseuyeojin-norae-a-song-written-easily"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "oneus/kkokkkok-sumeora-hide-and-seek"
+duration = "3:08"

@@ -1,0 +1,5 @@
+names = [
+  { name = "쉽게 쓰여진 노래 (A Song Written Easily)", locale = "ko", original = true },
+  { name = "Swipge Sseuyeojin Norae (A Song Written Easily)", locale = "ko-Latn", default = true },
+  { name = "A Song Written Easily", locale = "en" },
+]
