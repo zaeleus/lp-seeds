@@ -1,0 +1,5 @@
+names = [
+  { name = "홈, 홈, 홈 (far from home)", locale = "ko", original = true },
+  { name = "Hom, Hom, Hom (far from home)", locale = "ko-Latn", default = true },
+  { name = "far from home", locale = "en" },
+]

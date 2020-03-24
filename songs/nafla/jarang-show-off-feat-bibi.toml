@@ -1,0 +1,5 @@
+names = [
+  { name = "자랑 (show off) (feat. BIBI)", locale = "ko", original = true },
+  { name = "Jarang (show off) (feat. BIBI)", locale = "ko-Latn", default = true },
+  { name = "show off (feat. BIBI)", locale = "en" },
+]

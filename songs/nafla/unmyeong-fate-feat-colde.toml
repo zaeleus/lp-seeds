@@ -1,0 +1,5 @@
+names = [
+  { name = "운명 (fate) (feat. Colde)", locale = "ko", original = true },
+  { name = "Unmyeong (fate) (feat. Colde)", locale = "ko-Latn", default = true },
+  { name = "fate (feat. Colde)", locale = "en" },
+]

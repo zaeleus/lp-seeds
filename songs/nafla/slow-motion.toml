@@ -1,0 +1,4 @@
+names = [
+  { name = "슬로우 모션 (slow motion)", locale = "ko", original = true },
+  { name = "slow motion", locale = "en", default = true },
+]
