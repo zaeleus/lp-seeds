@@ -1,0 +1,8 @@
+medium-ids = [
+  "stray-kids/mixtape-baborado-ara/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stray-kids/baborado-ara"
+duration = "3:28"
