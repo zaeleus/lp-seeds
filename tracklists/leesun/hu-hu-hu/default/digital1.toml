@@ -1,0 +1,8 @@
+medium-ids = [
+  "leesun/hu-hu-hu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leesun/hu-hu-hu"
+duration = "3:34"
