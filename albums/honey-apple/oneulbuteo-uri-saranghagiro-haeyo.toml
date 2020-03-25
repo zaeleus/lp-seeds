@@ -1,0 +1,15 @@
+artist-id = "honey-apple"
+kind = "single"
+
+names = [
+  { name = "오늘부터 우리 사랑하기로 해요", locale = "ko", original = true },
+  { name = "Oneulbuteo Uri Saranghagiro Haeyo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-03-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10407818" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "honey-apple/oneulbuteo-uri-saranghagiro-haeyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "honey-apple/oneulbuteo-uri-saranghagiro-haeyo"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "honey-apple/oneulbuteo-uri-saranghagiro-haeyo-inst"
+duration = "3:01"
