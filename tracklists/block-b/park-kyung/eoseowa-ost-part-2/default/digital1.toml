@@ -1,0 +1,13 @@
+medium-ids = [
+  "block-b/park-kyung/eoseowa-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "block-b/park-kyung/ttingdong"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "block-b/park-kyung/ttingdong-inst"
+duration = "3:43"
