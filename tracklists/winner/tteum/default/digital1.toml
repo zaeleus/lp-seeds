@@ -1,0 +1,8 @@
+medium-ids = [
+  "winner/tteum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "winner/tteum"
+duration = "2:57"

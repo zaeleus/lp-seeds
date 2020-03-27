@@ -1,0 +1,16 @@
+artist-id = "winner"
+kind = "single"
+
+names = [
+  { name = "뜸", locale = "ko", original = true },
+  { name = "Tteum", locale = "ko-Latn", default = true },
+  { name = "Hold", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-03-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10408786" },
+]
