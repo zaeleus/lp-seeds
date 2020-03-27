@@ -1,0 +1,15 @@
+artist-id = "min-chae"
+kind = "single"
+
+names = [
+  { name = "언어의 온도: 우리의 열아홉 OST Part.5", locale = "ko", original = true },
+  { name = "Eoneoui Ondo: Uriui Yeorahop OST Part.5", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-03-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10408573" },
+]
