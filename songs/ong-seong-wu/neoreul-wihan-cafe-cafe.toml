@@ -1,0 +1,5 @@
+names = [
+  { name = "너를 위한 카페 (Café)", locale = "ko", original = true },
+  { name = "Neoreul Wihan Café (Café)", locale = "ko-Latn", default = true },
+  { name = "Café", locale = "en" },
+]

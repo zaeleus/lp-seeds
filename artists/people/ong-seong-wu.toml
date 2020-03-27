@@ -1,0 +1,10 @@
+kind = "person"
+started-on = "1995-08-25"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "옹성우", locale = "ko", kind = "real", original = true },
+  { name = "Ong Seong Wu", locale = "ko-Latn", kind = "real" },
+  { name = "ONG SEONG WU", locale = "ko-Latn", kind = "stage", default = true },
+]

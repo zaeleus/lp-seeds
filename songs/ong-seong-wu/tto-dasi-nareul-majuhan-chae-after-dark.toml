@@ -1,0 +1,5 @@
+names = [
+  { name = "또, 다시 나를 마주한 채 (After Dark)", locale = "ko", original = true },
+  { name = "Tto, Dasi Nareul Majuhan Chae (After Dark)", locale = "ko-Latn", default = true },
+  { name = "After Dark", locale = "en" },
+]

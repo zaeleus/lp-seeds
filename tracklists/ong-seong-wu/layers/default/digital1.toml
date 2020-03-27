@@ -1,0 +1,33 @@
+medium-ids = [
+  "ong-seong-wu/layers/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ong-seong-wu/gravity"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "ong-seong-wu/neoreul-wihan-cafe-cafe"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "ong-seong-wu/tto-dasi-nareul-majuhan-chae-after-dark"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "ong-seong-wu/bye-bye"
+duration = "3:15"
+
+[[tracks]]
+position = 5
+song-id = "ong-seong-wu/guess-who"
+duration = "3:05"
+
+[[tracks]]
+position = 6
+song-id = "ong-seong-wu/we-belong"
+duration = "3:23"
