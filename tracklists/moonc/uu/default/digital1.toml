@@ -1,0 +1,8 @@
+medium-ids = [
+  "moonc/uu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "moonc/uu"
+duration = "2:50"
