@@ -1,0 +1,16 @@
+artist-id = "the-daisy"
+kind = "single"
+
+names = [
+  { name = "우리 결혼해요 (Would you marry me)", locale = "ko", original = true },
+  { name = "Uri Gyeolhonhaeyo (Would you marry me)", locale = "ko-Latn", default = true },
+  { name = "Would you marry me", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-03-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10408836" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-daisy/uri-gyeolhonhaeyo-would-you-marry-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-daisy/uri-gyeolhonhaeyo-would-you-marry-me"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "the-daisy/uri-gyeolhonhaeyo-would-you-marry-me-inst"
+duration = "3:42"

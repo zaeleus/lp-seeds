@@ -1,0 +1,5 @@
+names = [
+  { name = "우리 결혼해요 (Would you marry me)", locale = "ko", original = true },
+  { name = "Uri Gyeolhonhaeyo (Would you marry me)", locale = "ko-Latn", default = true },
+  { name = "Would you marry me", locale = "en" },
+]
