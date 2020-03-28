@@ -1,0 +1,9 @@
+kind = "group"
+# started-on = ""
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "K타이거즈제로", locale = "ko", original = true },
+  { name = "K-TIGERS ZERO", locale = "en", default = true },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "k-tigers-zero/sarang-ae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "k-tigers-zero/geubyeolhagi-the-starry-night-original-ver"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "k-tigers-zero/geubyeolhagi-the-starry-night"
+duration = "3:32"

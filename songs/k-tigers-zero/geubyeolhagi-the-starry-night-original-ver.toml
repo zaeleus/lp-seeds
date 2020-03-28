@@ -1,0 +1,5 @@
+names = [
+  { name = "그별하기 (The starry night) (Original ver.)", locale = "ko", original = true },
+  { name = "Geubyeolhagi (The starry night) (Original ver.)", locale = "ko-Latn", default = true },
+  { name = "The starry night (Original ver.)", locale = "en" },
+]
