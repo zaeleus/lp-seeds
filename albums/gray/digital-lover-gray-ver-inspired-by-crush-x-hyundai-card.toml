@@ -1,0 +1,15 @@
+artist-id = "gray"
+kind = "single"
+
+names = [
+  { name = "DIGITAL LOVER (GRAY ver.) inspired by [Crush X 현대카드]", locale = "ko", original = true },
+  { name = "DIGITAL LOVER (GRAY ver.) inspired by [Crush X Hyundai Card]", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-03-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10408943" },
+]
