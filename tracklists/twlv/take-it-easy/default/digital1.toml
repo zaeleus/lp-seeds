@@ -1,0 +1,8 @@
+medium-ids = [
+  "twlv/take-it-easy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twlv/take-it-easy"
+duration = "3:07"
