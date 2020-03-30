@@ -1,0 +1,13 @@
+medium-ids = [
+  "bibi/big-picture-house-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bibi/sosohan-happy-ending"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "bibi/sosohan-happy-ending-inst"
+duration = "3:26"
