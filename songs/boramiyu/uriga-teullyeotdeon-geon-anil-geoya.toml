@@ -1,0 +1,4 @@
+names = [
+  { name = "우리가 틀렸던 건 아닐 거야", locale = "ko", original = true },
+  { name = "Uriga Teullyeotdeon Geon Anil Geoya", locale = "ko-Latn", default = true },
+]

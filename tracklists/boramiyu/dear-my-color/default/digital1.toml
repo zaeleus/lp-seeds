@@ -1,0 +1,28 @@
+medium-ids = [
+  "boramiyu/dear-my-color/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boramiyu/uriga-teullyeotdeon-geon-anil-geoya"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "boramiyu/10-bun-jeon"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "boramiyu/haruui-ban"
+duration = "3:55"
+
+[[tracks]]
+position = 4
+song-id = "boramiyu/wind-star-moon"
+duration = "3:35"
+
+[[tracks]]
+position = 5
+song-id = "boramiyu/sikhyeojwo"
+duration = "3:32"
