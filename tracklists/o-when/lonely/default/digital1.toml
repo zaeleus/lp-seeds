@@ -1,0 +1,13 @@
+medium-ids = [
+  "o-when/lonely/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "o-when/lonely"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "o-when/lonely-inst"
+duration = "3:25"
