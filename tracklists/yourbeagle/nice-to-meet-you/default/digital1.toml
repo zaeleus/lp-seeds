@@ -1,0 +1,8 @@
+medium-ids = [
+  "yourbeagle/nice-to-meet-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/nice-to-meet-you"
+duration = "3:20"
