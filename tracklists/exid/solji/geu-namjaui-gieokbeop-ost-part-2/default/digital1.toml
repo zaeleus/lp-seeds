@@ -1,0 +1,13 @@
+medium-ids = [
+  "exid/solji/geu-namjaui-gieokbeop-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exid/solji/haru"
+duration = "4:06"
+
+[[tracks]]
+position = 2
+song-id = "exid/solji/haru-inst"
+duration = "4:06"
