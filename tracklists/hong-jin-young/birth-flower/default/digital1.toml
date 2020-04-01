@@ -1,0 +1,13 @@
+medium-ids = [
+  "hong-jin-young/birth-flower/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hong-jin-young/sarangeun-kkochipcheoreom"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "hong-jin-young/sarangeun-kkochipcheoreom-inst"
+duration = "3:35"
