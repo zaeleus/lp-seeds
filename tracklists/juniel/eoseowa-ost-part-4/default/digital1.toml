@@ -1,0 +1,13 @@
+medium-ids = [
+  "juniel/eoseowa-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "juniel/sarange-ppajyeosseonnabwa"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "juniel/sarange-ppajyeosseonnabwa-inst"
+duration = "3:23"
