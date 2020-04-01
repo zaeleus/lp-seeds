@@ -1,0 +1,3 @@
+names = [
+  { name = "Melody (Extended Mix)", locale = "ko", original = true, default = true },
+]
