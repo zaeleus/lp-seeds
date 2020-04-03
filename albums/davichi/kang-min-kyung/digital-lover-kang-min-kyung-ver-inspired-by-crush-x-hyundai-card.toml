@@ -1,0 +1,15 @@
+artist-id = "davichi/kang-min-kyung"
+kind = "single"
+
+names = [
+  { name = "DIGITAL LOVER (강민경 ver.) inspired by [Crush X 현대카드]", locale = "ko", original = true },
+  { name = "DIGITAL LOVER (Kang Min Kyung ver.) inspired by [Crush X Hyundai Card]", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10411935" },
+]
