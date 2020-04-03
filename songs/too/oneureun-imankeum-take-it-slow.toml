@@ -1,0 +1,5 @@
+names = [
+  { name = "오늘은 이만큼 (Take It Slow)", locale = "ko", original = true },
+  { name = "Oneureun Imankeum (Take It Slow)", locale = "ko-Latn", default = true },
+  { name = "Take It Slow", locale = "en" },
+]

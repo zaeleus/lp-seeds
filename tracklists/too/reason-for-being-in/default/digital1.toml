@@ -1,0 +1,28 @@
+medium-ids = [
+  "too/reason-for-being-in/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "too/magnolia"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "too/oneureun-imankeum-take-it-slow"
+duration = "3:05"
+
+[[tracks]]
+position = 3
+song-id = "too/pieona-don-t-fear-now"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "too/gieokhaeyo"
+duration = "4:11"
+
+[[tracks]]
+position = 5
+song-id = "too/you-can-t-hurry-love"
+duration = "3:06"

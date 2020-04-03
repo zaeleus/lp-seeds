@@ -1,0 +1,5 @@
+names = [
+  { name = "피어나 (Don't Fear Now)", locale = "ko", original = true },
+  { name = "Pieona (Don't Fear Now)", locale = "ko-Latn", default = true },
+  { name = "Don't Fear Now", locale = "en" },
+]
