@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-hyo-bin/yeonaeui-chamgyeon-season-3-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-hyo-bin/ijeneun-eotteoke-sarangeul-hanayo"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "jung-hyo-bin/ijeneun-eotteoke-sarangeul-hanayo-inst"
+duration = "3:38"
