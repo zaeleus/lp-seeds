@@ -1,0 +1,5 @@
+names = [
+  { name = "모르겠다고 (Q) (Feat. 화사)", locale = "ko", original = true },
+  { name = "Moreugetdago (Q) (Feat. Hwasa)", locale = "ko-Latn", default = true },
+  { name = "Q (Feat. Hwasa)", locale = "en" },
+]
