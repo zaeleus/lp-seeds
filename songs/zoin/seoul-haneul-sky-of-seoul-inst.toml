@@ -1,0 +1,5 @@
+names = [
+  { name = "서울 하늘 (sky of seoul) (Inst.)", locale = "ko", original = true },
+  { name = "Seoul Haneul (sky of seoul) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "sky of seoul (Inst.)", locale = "en" },
+]

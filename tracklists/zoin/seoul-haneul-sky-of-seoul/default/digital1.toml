@@ -1,0 +1,13 @@
+medium-ids = [
+  "zoin/seoul-haneul-sky-of-seoul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zoin/seoul-haneul-sky-of-seoul"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "zoin/seoul-haneul-sky-of-seoul-inst"
+duration = "3:21"
