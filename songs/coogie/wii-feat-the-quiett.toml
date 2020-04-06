@@ -1,0 +1,3 @@
+names = [
+  { name = "WII (Feat. The Quiett)", locale = "ko", original = true, default = true },
+]

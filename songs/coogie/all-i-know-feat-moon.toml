@@ -1,0 +1,3 @@
+names = [
+  { name = "All I Know (Feat. MOON)", locale = "ko", original = true, default = true },
+]

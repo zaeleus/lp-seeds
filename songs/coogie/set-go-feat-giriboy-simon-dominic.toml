@@ -1,0 +1,4 @@
+names = [
+  { name = "Set Go! (Feat. 기리보이, 사이먼 도미닉)", locale = "ko", original = true },
+  { name = "Set Go! (Feat. Giriboy, Simon Dominic)", locale = "ko-Latn", default = true },
+]
