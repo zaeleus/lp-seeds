@@ -1,0 +1,13 @@
+medium-ids = [
+  "joo-ye-in/gyeyagujeong-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "joo-ye-in/geuttaega-bomieotdeora"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "joo-ye-in/geuttaega-bomieotdeora-inst"
+duration = "3:49"
