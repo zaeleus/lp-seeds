@@ -1,0 +1,13 @@
+medium-ids = [
+  "jo-jung-min/rewind/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jo-jung-min/geunal-uri"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "jo-jung-min/geunal-uri-inst"
+duration = "3:57"
