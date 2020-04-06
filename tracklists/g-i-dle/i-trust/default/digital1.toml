@@ -1,0 +1,28 @@
+medium-ids = [
+  "g-i-dle/i-trust/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-i-dle/oh-my-god"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "g-i-dle/saranghae"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "g-i-dle/maybe"
+duration = "3:01"
+
+[[tracks]]
+position = 4
+song-id = "g-i-dle/lion"
+duration = "3:32"
+
+[[tracks]]
+position = 5
+song-id = "g-i-dle/oh-my-god-english-ver"
+duration = "3:16"
