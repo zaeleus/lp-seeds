@@ -1,0 +1,13 @@
+medium-ids = [
+  "victon/hyena-ost-part-10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "victon/naeilbuteo-uriga-motbondamyeon"
+duration = "4:10"
+
+[[tracks]]
+position = 2
+song-id = "victon/naeilbuteo-uriga-motbondamyeon-inst"
+duration = "4:10"
