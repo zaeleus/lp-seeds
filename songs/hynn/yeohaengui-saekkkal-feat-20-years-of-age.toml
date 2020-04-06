@@ -1,0 +1,4 @@
+names = [
+  { name = "여행의 색깔 (Feat. 스무살)", locale = "ko", original = true },
+  { name = "Yeohaengui Saekkkal (Feat. 20 Years of Age)", locale = "ko-Latn", default = true },
+]

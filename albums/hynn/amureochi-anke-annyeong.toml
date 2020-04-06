@@ -1,0 +1,15 @@
+artist-id = "hynn"
+kind = "ep"
+
+names = [
+  { name = "아무렇지 않게, 안녕", locale = "ko", original = true },
+  { name = "Amureochi Anke, Annyeong", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-03-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10410478" },
+]
