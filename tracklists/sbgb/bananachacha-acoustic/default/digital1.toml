@@ -1,0 +1,13 @@
+medium-ids = [
+  "sbgb/bananachacha-acoustic/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sbgb/bananachacha-acoustic"
+duration = "2:14"
+
+[[tracks]]
+position = 2
+song-id = "sbgb/bananachacha-acoustic-inst"
+duration = "2:14"

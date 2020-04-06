@@ -1,0 +1,5 @@
+names = [
+  { name = "바나나차차 어쿠스틱 (Inst.)", locale = "ko", original = true },
+  { name = "Bananachacha Eokuseutik (Inst.)", locale = "ko-Latn" },
+  { name = "Bananachacha Acoustic (Inst.)", locale = "en", default = true },
+]
