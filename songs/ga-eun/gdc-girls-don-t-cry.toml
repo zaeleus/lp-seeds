@@ -1,0 +1,3 @@
+names = [
+  { name = "GDC (Girls Don't Cry)", locale = "ko", original = true, default = true },
+]

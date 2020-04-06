@@ -1,0 +1,4 @@
+names = [
+  { name = "생각을 멈추는 생각을 멈춰 (Inst.)", locale = "ko", original = true },
+  { name = "Saenggageul Meomchuneun Saenggageul Meomchwo (Inst.)", locale = "ko-Latn", default = true },
+]
