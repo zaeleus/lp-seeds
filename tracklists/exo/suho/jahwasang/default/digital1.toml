@@ -1,0 +1,33 @@
+medium-ids = [
+  "exo/suho/jahwasang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/suho/o2"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "exo/suho/sarang-haja"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song-id = "exo/suho/made-in-you"
+duration = "3:31"
+
+[[tracks]]
+position = 4
+song-id = "exo/suho/ammak-keoteun"
+duration = "4:39"
+
+[[tracks]]
+position = 5
+song-id = "exo/suho/jahwasang"
+duration = "3:51"
+
+[[tracks]]
+position = 6
+song-id = "exo/suho/neoui-charye-feat-younha"
+duration = "3:44"

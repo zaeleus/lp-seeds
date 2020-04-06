@@ -1,0 +1,4 @@
+names = [
+  { name = "너의 차례 (Feat. 윤하)", locale = "ko", original = true },
+  { name = "Neoui Charye (Feat. Younha)", locale = "ko-Latn", default = true },
+]
