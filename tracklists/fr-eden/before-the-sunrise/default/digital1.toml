@@ -1,0 +1,8 @@
+medium-ids = [
+  "fr-eden/before-the-sunrise/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fr-eden/before-the-sunrise"
+duration = "2:52"
