@@ -1,0 +1,4 @@
+names = [
+  { name = "99 (바른 연애 길잡이 X 스탠딩 에그)", locale = "ko", original = true },
+  { name = "99 (Bareun Yeonae Giljabi X Standing Egg)", locale = "ko-Latn", default = true },
+]

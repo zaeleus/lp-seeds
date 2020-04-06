@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/99-bareun-yeonae-giljabi-x-standing-egg/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/99-bareun-yeonae-giljabi-x-standing-egg"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/99-bareun-yeonae-giljabi-x-standing-egg-inst"
+duration = "3:34"
