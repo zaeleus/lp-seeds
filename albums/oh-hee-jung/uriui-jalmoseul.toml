@@ -1,0 +1,15 @@
+artist-id = "oh-hee-jung"
+kind = "ep"
+
+names = [
+  { name = "우리의 잘못을", locale = "ko", original = true },
+  { name = "Uriui Jalmoseul", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10412464" },
+]
