@@ -1,0 +1,33 @@
+medium-ids = [
+  "tvxq/max/chocolate/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "tvxq/max/chocolate"
+duration = "2:53"
+
+[[tracks]]
+position = 2
+song-id = "tvxq/max/high-heels"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "tvxq/max/lie-feat-chung-ha"
+duration = "3:27"
+
+[[tracks]]
+position = 4
+song-id = "tvxq/max/piano"
+duration = "3:12"
+
+[[tracks]]
+position = 5
+song-id = "tvxq/max/me-myself-i"
+duration = "3:45"
+
+[[tracks]]
+position = 6
+song-id = "tvxq/max/no-tomorrow"
+duration = "3:26"

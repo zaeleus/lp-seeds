@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1988-02-18"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "최강창민", locale = "ko", kind = "stage", original = true },
+  { name = "MAX", locale = "en", kind = "stage", default = true },
+  { name = "심창민", locale = "ko", kind = "real" },
+  { name = "Shim Chang Min", locale = "ko-Latn", kind = "real" },
+]
