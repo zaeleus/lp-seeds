@@ -1,0 +1,16 @@
+artist-id = "nafla"
+kind = "single"
+
+names = [
+  { name = "계약우정 OST Part.2", locale = "ko", original = true },
+  { name = "Gyeyagujeong OST Part.2", locale = "ko-Latn", default = true },
+  { name = "How to Buy a Friend OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-04-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10413301" },
+]
