@@ -1,0 +1,13 @@
+medium-ids = [
+  "motte/eoseowa-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "motte/slush"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "motte/slush-inst"
+duration = "3:19"
