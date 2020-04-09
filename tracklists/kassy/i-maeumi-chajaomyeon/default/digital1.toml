@@ -1,0 +1,13 @@
+medium-ids = [
+  "kassy/i-maeumi-chajaomyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/i-maeumi-chajaomyeon"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "kassy/i-maeumi-chajaomyeon-inst"
+duration = "3:57"
