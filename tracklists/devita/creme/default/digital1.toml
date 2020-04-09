@@ -1,0 +1,28 @@
+medium-ids = [
+  "devita/creme/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "devita/movies"
+duration = "1:57"
+
+[[tracks]]
+position = 2
+song-id = "devita/evita"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "devita/all-about-you"
+duration = "2:20"
+
+[[tracks]]
+position = 4
+song-id = "devita/1974-live"
+duration = "2:42"
+
+[[tracks]]
+position = 5
+song-id = "devita/show-me"
+duration = "3:57"
