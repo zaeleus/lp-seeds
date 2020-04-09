@@ -1,0 +1,13 @@
+medium-ids = [
+  "dalsooobin/sarajigo-sarajigo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dalsooobin/dive"
+duration = "4:09"
+
+[[tracks]]
+position = 2
+song-id = "dalsooobin/dive-inst"
+duration = "4:09"

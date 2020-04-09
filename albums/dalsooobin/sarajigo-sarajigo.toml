@@ -1,0 +1,15 @@
+artist-id = "dalsooobin"
+kind = "single"
+
+names = [
+  { name = "사라지고 살아지고", locale = "ko", original = true },
+  { name = "Sarajigo Sarajigo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10414465" },
+]
