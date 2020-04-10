@@ -1,0 +1,4 @@
+names = [
+  { name = "빌런 (Villain)", locale = "ko", original = true },
+  { name = "Villain", locale = "en", default = true },
+]

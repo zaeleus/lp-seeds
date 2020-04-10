@@ -1,0 +1,5 @@
+names = [
+  { name = "우르릉 쾅쾅쾅", locale = "ko", original = true },
+  { name = "Ureureung Kwang Kwang Kwang", locale = "ko-Latn", default = true },
+  { name = "My Ceiling Disappeared", locale = "en" },
+]

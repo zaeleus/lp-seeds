@@ -1,0 +1,15 @@
+artist-id = "stella-jang"
+kind = "lp"
+
+names = [
+  { name = "STELLA I", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-04-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10413771" },
+  { url = "https://music.youtube.com/playlist?list=OLAK5uy_lE_-IJIV0hXEij2nHAtYo6DJR_lFnyRbM" },
+]
