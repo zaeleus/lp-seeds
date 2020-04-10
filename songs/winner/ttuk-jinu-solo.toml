@@ -1,0 +1,4 @@
+names = [
+  { name = "뚝 (JINU SOLO)", locale = "ko", original = true },
+  { name = "Ttuk (JINU SOLO)", locale = "ko-Latn", default = true },
+]

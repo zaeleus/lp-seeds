@@ -1,0 +1,5 @@
+names = [
+  { name = "컬러링 (4 ver.)", locale = "ko", original = true },
+  { name = "Keolleoring (4 ver.)", locale = "ko-Latn" },
+  { name = "Coloring (4 ver.)", locale = "en", default = true },
+]

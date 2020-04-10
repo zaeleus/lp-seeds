@@ -1,0 +1,63 @@
+medium-ids = [
+  "winner/remember/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "winner/remember"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "winner/ttuk-jinu-solo"
+duration = "3:31"
+
+[[tracks]]
+position = 3
+song-id = "winner/tteum"
+duration = "2:57"
+
+[[tracks]]
+position = 4
+song-id = "winner/makchum"
+duration = "3:21"
+
+[[tracks]]
+position = 5
+song-id = "winner/my-bad"
+duration = "3:56"
+
+[[tracks]]
+position = 6
+song-id = "winner/teaser"
+duration = "3:45"
+
+[[tracks]]
+position = 7
+song-id = "winner/well"
+duration = "3:43"
+
+[[tracks]]
+position = 8
+song-id = "winner/serenade-hoony-solo"
+duration = "3:17"
+
+[[tracks]]
+position = 9
+song-id = "winner/gongheohae-4-ver"
+duration = "3:41"
+
+[[tracks]]
+position = 10
+song-id = "winner/kkiburijima-4-ver"
+duration = "3:26"
+
+[[tracks]]
+position = 11
+song-id = "winner/coloring-4-ver"
+duration = "3:56"
+
+[[tracks]]
+position = 12
+song-id = "winner/different-4-ver"
+duration = "3:58"
