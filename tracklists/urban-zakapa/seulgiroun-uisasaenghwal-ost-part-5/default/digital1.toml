@@ -1,0 +1,13 @@
+medium-ids = [
+  "urban-zakapa/seulgiroun-uisasaenghwal-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "urban-zakapa/geudae-goun-naesarang"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "urban-zakapa/geudae-goun-naesarang-inst"
+duration = "3:52"

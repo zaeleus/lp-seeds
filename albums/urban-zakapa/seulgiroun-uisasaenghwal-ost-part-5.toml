@@ -1,0 +1,16 @@
+artist-id = "urban-zakapa"
+kind = "single"
+
+names = [
+  { name = "슬기로운 의사생활 OST Part 5", locale = "ko", original = true },
+  { name = "Seulgiroun Uisasaenghwal OST Part 5", locale = "ko-Latn", default = true },
+  { name = "Hospital Playlist OST Part 5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-04-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10415229" },
+]
