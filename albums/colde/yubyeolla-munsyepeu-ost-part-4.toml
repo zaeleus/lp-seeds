@@ -1,0 +1,16 @@
+artist-id = "colde"
+kind = "single"
+
+names = [
+  { name = "유별나! 문셰프 OST Part.4", locale = "ko", original = true },
+  { name = "Yubyeolla! Munsyepeu OST Part.4", locale = "ko-Latn", default = true },
+  { name = "Eccentric! Chef Moon OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-04-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10415232" },
+]

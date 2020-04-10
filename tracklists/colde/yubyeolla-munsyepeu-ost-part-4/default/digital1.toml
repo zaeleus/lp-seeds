@@ -1,0 +1,13 @@
+medium-ids = [
+  "colde/yubyeolla-munsyepeu-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "colde/sarangeun-geugoseseo"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "colde/sarangeun-geugoseseo-inst"
+duration = "3:41"
