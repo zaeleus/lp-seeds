@@ -1,0 +1,8 @@
+medium-ids = [
+  "kiggen/sahoejeok-georidugi-winner-stays/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kiggen/sahoejeok-georidugi-winner-stays"
+duration = "3:22"

@@ -1,0 +1,15 @@
+artist-id = "kiggen"
+kind = "single"
+
+names = [
+  { name = "사회적 거리두기 (WINNER STAYS)", locale = "ko", original = true },
+  { name = "Sahoejeok Georidugi (WINNER STAYS)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10415769" },
+]
