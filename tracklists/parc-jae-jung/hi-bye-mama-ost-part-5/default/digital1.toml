@@ -1,0 +1,13 @@
+medium-ids = [
+  "parc-jae-jung/hi-bye-mama-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "parc-jae-jung/in-the-night"
+duration = "4:20"
+
+[[tracks]]
+position = 2
+song-id = "parc-jae-jung/in-the-night-inst"
+duration = "4:20"

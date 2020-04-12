@@ -1,0 +1,15 @@
+artist-id = "parc-jae-jung"
+kind = "single"
+
+names = [
+  { name = "하이바이, 마마! OST Part 5", locale = "ko", original = true },
+  { name = "Hi Bye, Mama! OST Part 5", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10415939" },
+]
