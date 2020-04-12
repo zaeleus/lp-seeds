@@ -1,0 +1,16 @@
+artist-id = "the-ade"
+kind = "single"
+
+names = [
+  { name = "유별나! 문셰프 OST Part.5", locale = "ko", original = true },
+  { name = "Yubyeolla! Munsyepeu OST Part.5", locale = "ko-Latn", default = true },
+  { name = "Eccentric! Chef Moon OST Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-04-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10415873" },
+]
