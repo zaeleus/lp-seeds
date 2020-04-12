@@ -1,0 +1,13 @@
+medium-ids = [
+  "buzz/min-kyung-hoon/rugal-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "buzz/min-kyung-hoon/lost-life"
+duration = "4:09"
+
+[[tracks]]
+position = 2
+song-id = "buzz/min-kyung-hoon/lost-life-inst"
+duration = "4:09"
