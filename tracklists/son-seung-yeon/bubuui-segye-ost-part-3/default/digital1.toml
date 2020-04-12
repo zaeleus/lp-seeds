@@ -1,0 +1,13 @@
+medium-ids = [
+  "son-seung-yeon/bubuui-segye-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "son-seung-yeon/sad"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "son-seung-yeon/sad-inst"
+duration = "3:37"
