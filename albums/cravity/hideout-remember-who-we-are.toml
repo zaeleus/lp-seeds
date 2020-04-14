@@ -1,0 +1,14 @@
+artist-id = "cravity"
+kind = "ep"
+
+names = [
+  { name = "HIDEOUT: REMEMBER WHO WE ARE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-04-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10417413" },
+]

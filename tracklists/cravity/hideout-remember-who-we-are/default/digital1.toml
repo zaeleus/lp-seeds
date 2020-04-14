@@ -1,0 +1,38 @@
+medium-ids = [
+  "cravity/hideout-remember-who-we-are/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cravity/top-of-the-chain"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "cravity/break-all-the-rules"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "cravity/jumper"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "cravity/blackout"
+duration = "3:21"
+
+[[tracks]]
+position = 5
+song-id = "cravity/natseom"
+duration = "3:31"
+
+[[tracks]]
+position = 6
+song-id = "cravity/cloud-9"
+duration = "3:22"
+
+[[tracks]]
+position = 7
+song-id = "cravity/byeol"
+duration = "3:50"
