@@ -1,0 +1,16 @@
+artist-id = "noel"
+kind = "single"
+
+names = [
+  { name = "365: 운명을 거스르는 1년 OST Part.3", locale = "ko", original = true },
+  { name = "365: Unmyeongeul Geoseureuneun 1-nyeon OST Part.3", locale = "ko-Latn", default = true },
+  { name = "365: Repeat the Year OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-04-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10417329" },
+]

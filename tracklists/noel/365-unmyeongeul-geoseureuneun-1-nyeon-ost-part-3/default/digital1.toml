@@ -1,0 +1,13 @@
+medium-ids = [
+  "noel/365-unmyeongeul-geoseureuneun-1-nyeon-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "noel/tto-dareun-nareul-chaja"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "noel/tto-dareun-nareul-chaja-inst"
+duration = "3:40"
