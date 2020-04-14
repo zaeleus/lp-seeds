@@ -1,0 +1,5 @@
+names = [
+  { name = "돈의 맛 (MONEY TASTE) (feat. BLOO)", locale = "ko", original = true },
+  { name = "Donui Mat (MONEY TASTE) (feat. BLOO)", locale = "ko-Latn", default = true },
+  { name = "MONEY TASTE (feat. BLOO)", locale = "en" },
+]
