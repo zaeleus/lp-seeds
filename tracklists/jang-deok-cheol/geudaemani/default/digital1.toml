@@ -1,0 +1,13 @@
+medium-ids = [
+  "jang-deok-cheol/geudaemani/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jang-deok-cheol/geudaemani"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "jang-deok-cheol/geudaemani-inst"
+duration = "3:50"
