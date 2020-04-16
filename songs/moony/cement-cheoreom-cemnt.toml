@@ -1,0 +1,5 @@
+names = [
+  { name = "시멘트처럼 (Cemnt)", locale = "ko", original = true },
+  { name = "Cement Cheoreom (Cemnt)", locale = "ko-Latn", default = true },
+  { name = "Cemnt", locale = "en" },
+]
