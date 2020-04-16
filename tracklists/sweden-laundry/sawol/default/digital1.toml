@@ -1,0 +1,8 @@
+medium-ids = [
+  "sweden-laundry/sawol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sweden-laundry/sawol"
+duration = "3:43"
