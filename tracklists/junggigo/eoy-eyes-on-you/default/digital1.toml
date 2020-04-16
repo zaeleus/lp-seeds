@@ -1,0 +1,13 @@
+medium-ids = [
+  "junggigo/eoy-eyes-on-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "junggigo/eoy-feat-jay-park"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "junggigo/eoy-inst"
+duration = "4:14"
