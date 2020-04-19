@@ -1,0 +1,13 @@
+medium-ids = [
+  "loona/jinsoul/eoseowa-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/jinsoul/siganeun-han-bakwi-dora"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "loona/jinsoul/siganeun-han-bakwi-dora-inst"
+duration = "3:08"
