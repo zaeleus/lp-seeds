@@ -1,0 +1,13 @@
+medium-ids = [
+  "mamamoo/hwasa/the-king-yeongwonui-gunju-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/hwasa/orbit"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/hwasa/orbit-inst"
+duration = "3:07"

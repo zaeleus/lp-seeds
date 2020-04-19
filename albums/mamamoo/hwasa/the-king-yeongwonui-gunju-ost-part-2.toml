@@ -1,0 +1,16 @@
+artist-id = "mamamoo/hwasa"
+kind = "single"
+
+names = [
+  { name = "더 킹: 영원의 군주 OST Part 2", locale = "ko", original = true },
+  { name = "The King: Yeongwonui Gunju OST Part 2", locale = "ko-Latn", default = true },
+  { name = "The King: Eternal Monarch OST Part 2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-04-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10419266" },
+]
