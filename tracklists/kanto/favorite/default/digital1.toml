@@ -1,0 +1,13 @@
+medium-ids = [
+  "kanto/favorite/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kanto/favorite-feat-bumkey"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "kanto/uri-sarang-geumanhae-feat-feeldog"
+duration = "3:18"
