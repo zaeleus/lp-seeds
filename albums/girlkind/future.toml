@@ -1,0 +1,15 @@
+artist-id = "girlkind"
+kind = "single"
+
+names = [
+  { name = "퓨쳐 (FUTURE)", locale = "ko", original = true },
+  { name = "FUTURE", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10416766" },
+]
