@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/015b-fil/new-edition-19/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/015b-fil/ttak-5-bunman"
+duration = "4:11"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/015b-fil/ttak-5-bunman-inst"
+duration = "4:11"

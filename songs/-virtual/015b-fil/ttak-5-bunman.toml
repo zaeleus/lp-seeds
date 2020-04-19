@@ -1,0 +1,9 @@
+names = [
+  { name = "딱 5분만", locale = "ko", original = true },
+  { name = "Ttak 5-bunman", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "015b", separator = ", " },
+  { artist-id = "fil" },
+]
