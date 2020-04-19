@@ -1,0 +1,15 @@
+artist-id = "joo-ye-in"
+kind = "single"
+
+names = [
+  { name = "새드엔딩 (With 택우)", locale = "ko", original = true },
+  { name = "Sad Ending (With TAEKWOO)", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10417189" },
+]
