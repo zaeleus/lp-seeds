@@ -1,0 +1,15 @@
+artist-id = "12dal"
+kind = "single"
+
+names = [
+  { name = "그저 그런 날", locale = "ko", original = true },
+  { name = "Geujeo Geureon Nal", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10418997" },
+]
