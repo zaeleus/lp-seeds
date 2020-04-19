@@ -1,0 +1,13 @@
+medium-ids = [
+  "zion-t/the-king-yeongwonui-gunju-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zion-t/i-just-want-to-stay-with-you"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "zion-t/i-just-want-to-stay-with-you-inst"
+duration = "3:29"
