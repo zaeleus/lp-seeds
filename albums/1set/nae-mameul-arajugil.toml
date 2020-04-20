@@ -1,0 +1,15 @@
+artist-id = "1set"
+kind = "single"
+
+names = [
+  { name = "내 맘을 알아주길", locale = "ko", original = true },
+  { name = "Nae Mameul Arajugil", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10419340" },
+]
