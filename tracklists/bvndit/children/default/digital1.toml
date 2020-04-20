@@ -1,0 +1,8 @@
+medium-ids = [
+  "bvndit/children/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bvndit/children"
+duration = "3:02"
