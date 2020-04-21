@@ -1,0 +1,15 @@
+artist-id = "bamsoosung"
+kind = "single"
+
+names = [
+  { name = "잠이 올 리가 없지", locale = "ko", original = true },
+  { name = "Jami Ol Riga Eopji", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10420224" },
+]
