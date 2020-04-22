@@ -1,0 +1,15 @@
+artist-id = "choi-ye-geun"
+kind = "lp"
+
+names = [
+  { name = "갈 곳을 잃어도 어디든 흘러갈 수 있게", locale = "ko", original = true },
+  { name = "Gal Goseul Ireodo Eodideun Heulleogal Su Itge", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10420867" },
+]
