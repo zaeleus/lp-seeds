@@ -1,0 +1,28 @@
+medium-ids = [
+  "april/da-capo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "april/oops-i-m-sorry"
+duration = "2:59"
+
+[[tracks]]
+position = 2
+song-id = "april/inhyeong"
+duration = "3:53"
+
+[[tracks]]
+position = 3
+song-id = "april/lalalilala"
+duration = "3:16"
+
+[[tracks]]
+position = 4
+song-id = "april/1-2-3-4"
+duration = "3:08"
+
+[[tracks]]
+position = 5
+song-id = "april/neo-zip"
+duration = "3:22"
