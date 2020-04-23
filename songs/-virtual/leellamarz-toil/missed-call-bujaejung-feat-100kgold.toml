@@ -1,0 +1,9 @@
+names = [
+  { name = "Missed call (부재중) (Feat. 100KGOLD)", locale = "ko", original = true },
+  { name = "Missed call (Bujaejung) (Feat. 100KGOLD)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "leellamarz", separator = ", " },
+  { artist-id = "toil" },
+]

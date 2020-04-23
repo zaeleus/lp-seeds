@@ -1,0 +1,9 @@
+names = [
+  { name = "몰라 (Feat. Jayci Yucca, :P gloo)", locale = "ko", original = true },
+  { name = "Molla (Feat. Jayci Yucca, :P gloo)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "leellamarz", separator = ", " },
+  { artist-id = "toil" },
+]

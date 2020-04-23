@@ -1,0 +1,19 @@
+artist-id = "-virtual/leellamarz-toil"
+kind = "ep"
+
+names = [
+  { name = "TOYSTORY", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "leellamarz", separator = ", " },
+  { artist-id = "toil" },
+]
+
+[[releases]]
+released-on = "2018-09-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10206859" },
+]
