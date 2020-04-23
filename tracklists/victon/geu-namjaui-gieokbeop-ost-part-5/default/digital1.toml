@@ -1,0 +1,13 @@
+medium-ids = [
+  "victon/geu-namjaui-gieokbeop-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "victon/gieogi-jamdeun-saie"
+duration = "4:27"
+
+[[tracks]]
+position = 2
+song-id = "victon/gieogi-jamdeun-saie-inst"
+duration = "4:27"

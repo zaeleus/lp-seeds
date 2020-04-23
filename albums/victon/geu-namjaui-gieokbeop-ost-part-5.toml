@@ -1,0 +1,16 @@
+artist-id = "victon"
+kind = "single"
+
+names = [
+  { name = "그 남자의 기억법 OST Part.5", locale = "ko", original = true },
+  { name = "Geu Namjaui Gieokbeop OST Part.5", locale = "ko-Latn", default = true },
+  { name = "Find Me in Your Memory OST Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-04-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10421858" },
+]
