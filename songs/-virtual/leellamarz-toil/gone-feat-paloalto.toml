@@ -1,0 +1,8 @@
+names = [
+  { name = "GONE (Feat. Paloalto)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "leellamarz", separator = ", " },
+  { artist-id = "toil" },
+]

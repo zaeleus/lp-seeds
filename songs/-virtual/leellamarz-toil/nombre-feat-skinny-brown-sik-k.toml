@@ -1,0 +1,9 @@
+names = [
+  { name = "Nombre (Feat. Skinny Brown, 식케이)", locale = "ko", original = true },
+  { name = "Nombre (Feat. Skinny Brown, Sik-K)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "leellamarz", separator = ", " },
+  { artist-id = "toil" },
+]

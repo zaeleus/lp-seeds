@@ -1,0 +1,9 @@
+names = [
+  { name = "아가씨 (Feat. ZENE THE ZILLA, 머쉬베놈)", locale = "ko", original = true },
+  { name = "Agassi (Feat. ZENE THE ZILLA, MUSHVENOM)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "leellamarz", separator = ", " },
+  { artist-id = "toil" },
+]

@@ -1,0 +1,8 @@
+names = [
+  { name = "FUXX THAT SHXX! (Feat. lIlBOI, TakeOne)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "leellamarz", separator = ", " },
+  { artist-id = "toil" },
+]
