@@ -1,0 +1,13 @@
+medium-ids = [
+  "fiestar/yezi/home-fenner-remix/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fiestar/yezi/home-fenner-remix"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "fiestar/yezi/home-fenner-remix-inst"
+duration = "3:26"
