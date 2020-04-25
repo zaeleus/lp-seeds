@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/wiheomhan-yaksok-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/huhoedwaeyo"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "ran/huhoedwaeyo-inst"
+duration = "3:33"
