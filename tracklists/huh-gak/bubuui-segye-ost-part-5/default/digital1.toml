@@ -1,0 +1,13 @@
+medium-ids = [
+  "huh-gak/bubuui-segye-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "huh-gak/nunmullo-neoreul-tteonabonaenda"
+duration = "4:17"
+
+[[tracks]]
+position = 2
+song-id = "huh-gak/nunmullo-neoreul-tteonabonaenda-inst"
+duration = "4:17"

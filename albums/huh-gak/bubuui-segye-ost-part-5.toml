@@ -1,0 +1,16 @@
+artist-id = "huh-gak"
+kind = "single"
+
+names = [
+  { name = "부부의 세계 OST Part.5", locale = "ko", original = true },
+  { name = "Bubuui Segye OST Part.5", locale = "ko-Latn", default = true },
+  { name = "The World of the Married OST Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-04-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10422610" },
+]
