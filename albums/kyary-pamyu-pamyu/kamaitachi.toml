@@ -1,0 +1,16 @@
+artist-id = "kyary-pamyu-pamyu"
+kind = "single"
+
+names = [
+  { name = "かまいたち", locale = "ja", original = true },
+  { name = "Kamaitachi", locale = "ja-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-24"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.apple.com/jp/album/1507558391" },
+  { url = "https://mora.jp/package/43000074/TCJPR0000612145/" },
+]

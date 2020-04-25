@@ -1,0 +1,13 @@
+medium-ids = [
+  "kyary-pamyu-pamyu/kamaitachi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kyary-pamyu-pamyu/kamaitachi"
+duration = "4:26"
+
+[[tracks]]
+position = 2
+song-id = "kyary-pamyu-pamyu/kamaitachi-instrumental"
+duration = "4:26"
