@@ -1,0 +1,13 @@
+medium-ids = [
+  "jay-park/all-the-way-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jay-park/all-the-way-up-k"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "jay-park/all-the-way-up"
+duration = "3:44"
