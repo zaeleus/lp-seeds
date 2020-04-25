@@ -1,0 +1,13 @@
+medium-ids = [
+  "b-free/friends/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "b-free/friends-prod-by-junked"
+duration = "2:09"
+
+[[tracks]]
+position = 2
+song-id = "b-free/sick-friends-feat-charity-jeremy-quest-pnsb-prod-by-otf"
+duration = "2:06"
