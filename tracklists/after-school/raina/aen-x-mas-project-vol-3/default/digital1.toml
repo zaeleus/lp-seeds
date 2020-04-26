@@ -1,0 +1,13 @@
+medium-ids = [
+  "after-school/raina/aen-x-mas-project-vol-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "after-school/raina/aen"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "after-school/raina/aen-inst"
+duration = "4:15"

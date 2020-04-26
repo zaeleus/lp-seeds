@@ -1,0 +1,15 @@
+artist-id = "after-school/raina"
+kind = "single"
+
+names = [
+  { name = "앤 (X-MAS Project Vol.3)", locale = "ko", original = true },
+  { name = "Aen (X-MAS Project Vol.3)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10422609" },
+]
