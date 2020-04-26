@@ -1,0 +1,13 @@
+medium-ids = [
+  "shin-youmi/immatchum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shin-youmi/immatchum"
+duration = "4:06"
+
+[[tracks]]
+position = 2
+song-id = "shin-youmi/neo-ingeol"
+duration = "2:25"
