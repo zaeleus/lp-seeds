@@ -1,0 +1,16 @@
+artist-id = "marmalade-kitchen"
+kind = "single"
+
+names = [
+  { name = "터져라 봄 (Bomb)", locale = "ko", original = true },
+  { name = "Teojyeora Bom (Bomb)", locale = "ko-Latn", default = true },
+  { name = "Bomb", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-04-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10422087" },
+]

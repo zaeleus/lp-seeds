@@ -1,0 +1,5 @@
+names = [
+  { name = "터져라 봄 (Bomb) (With 루아민)", locale = "ko", original = true },
+  { name = "Teojyeora Bom (Bomb) (With Ruamin)", locale = "ko-Latn", default = true },
+  { name = "Bomb (With Ruamin)", locale = "en" },
+]

@@ -1,0 +1,8 @@
+kind = "person"
+# started-on = ""
+country = "KR"
+
+names = [
+  { name = "마멀레이드 키친", locale = "ko", kind = "stage", original = true },
+  { name = "Marmalade Kitchen", locale = "en", kind = "stage", default = true },
+]
