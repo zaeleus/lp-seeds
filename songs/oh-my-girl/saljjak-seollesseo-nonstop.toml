@@ -1,0 +1,5 @@
+names = [
+  { name = "살짝 설렜어 (Nonstop)", locale = "ko", original = true },
+  { name = "Saljjak Seollesseo (Nonstop)", locale = "ko-Latn", default = true },
+  { name = "Nonstop", locale = "en" },
+]
