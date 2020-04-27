@@ -1,0 +1,28 @@
+medium-ids = [
+  "joo-ye-in/seumurahop-0-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "joo-ye-in/neoui-saengil"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "joo-ye-in/kkochi-jigo-namyeon"
+duration = "4:31"
+
+[[tracks]]
+position = 3
+song-id = "joo-ye-in/saedeuending-with-taekwoo"
+duration = "3:25"
+
+[[tracks]]
+position = 4
+song-id = "joo-ye-in/dasi-sonjapgo-georeul-su-isseulkka"
+duration = "3:21"
+
+[[tracks]]
+position = 5
+song-id = "joo-ye-in/jakkuman-yoksimi-na"
+duration = "3:28"
