@@ -1,0 +1,15 @@
+artist-id = "park-ki-young"
+kind = "single"
+
+names = [
+  { name = "자꾸 이러지마", locale = "ko", original = true },
+  { name = "Jakku Ireojima", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10423585" },
+]

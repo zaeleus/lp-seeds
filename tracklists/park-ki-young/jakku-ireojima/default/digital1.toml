@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-ki-young/jakku-ireojima/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-ki-young/jakku-ireojima"
+duration = "4:32"
+
+[[tracks]]
+position = 2
+song-id = "park-ki-young/jakku-ireojima-inst"
+duration = "4:32"
