@@ -1,0 +1,8 @@
+medium-ids = [
+  "minseo/no-good-girl/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minseo/no-good-girl"
+duration = "3:32"
