@@ -1,0 +1,4 @@
+names = [
+  { name = "헤어져줘서 고마워 / 180도", locale = "ko", original = true },
+  { name = "Heeojyeojwoseo Gomawo / 180-do", locale = "ko-Latn", default = true },
+]

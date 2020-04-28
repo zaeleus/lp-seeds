@@ -1,0 +1,38 @@
+medium-ids = [
+  "ben/off-the-record/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/charari-jaldwaesseo-feat-jukjae"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "ben/geunal-chaga-an-millyeotdamyeon"
+duration = "3:52"
+
+[[tracks]]
+position = 3
+song-id = "ben/nappeun-nom"
+duration = "3:38"
+
+[[tracks]]
+position = 4
+song-id = "ben/nuni-malhadeora"
+duration = "3:25"
+
+[[tracks]]
+position = 5
+song-id = "ben/i-ll-give-my-all-to-you"
+duration = "4:05"
+
+[[tracks]]
+position = 6
+song-id = "ben/heeojyeojwoseo-gomawo-180-do"
+duration = "4:48"
+
+[[tracks]]
+position = 7
+song-id = "ben/nappeun-nom-inst"
+duration = "3:38"
