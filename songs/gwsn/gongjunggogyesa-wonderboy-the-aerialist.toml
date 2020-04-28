@@ -1,0 +1,5 @@
+names = [
+  { name = "공중곡예사 (Wonderboy, the Aerialist)", locale = "ko", original = true },
+  { name = "Gongjunggogyesa (Wonderboy, the Aerialist)", locale = "ko-Latn", default = true },
+  { name = "Wonderboy, the Aerialist", locale = "en" },
+]

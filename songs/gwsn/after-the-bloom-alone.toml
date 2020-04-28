@@ -1,0 +1,3 @@
+names = [
+  { name = "After the bloom (alone)", locale = "ko", original = true, default = true },
+]

@@ -1,0 +1,14 @@
+artist-id = "gwsn"
+kind = "ep"
+
+names = [
+  { name = "the Keys", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-04-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10423504" },
+]
