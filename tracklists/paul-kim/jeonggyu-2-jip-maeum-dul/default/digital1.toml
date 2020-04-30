@@ -1,0 +1,28 @@
+medium-ids = [
+  "paul-kim/jeonggyu-2-jip-maeum-dul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "paul-kim/hero"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "paul-kim/uri-mannami"
+duration = "4:10"
+
+[[tracks]]
+position = 3
+song-id = "paul-kim/katok"
+duration = "3:55"
+
+[[tracks]]
+position = 4
+song-id = "paul-kim/holiday"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "paul-kim/naui-bomui-iyu"
+duration = "3:21"

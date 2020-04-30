@@ -1,0 +1,5 @@
+names = [
+  { name = "나의 봄의 이유", locale = "ko", original = true },
+  { name = "Naui Bomui Iyu", locale = "ko-Latn", default = true },
+  { name = "The Reason for My Spring", locale = "en" },
+]
