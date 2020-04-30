@@ -1,0 +1,4 @@
+names = [
+  { name = "Love Shaker (Sung by Y, 승민, 주찬)", locale = "ko", original = true },
+  { name = "Love Shaker (Sung by Y, Seungmin, Joochan)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "golden-child/iljinege-jjikhyeosseul-ttae-2-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "golden-child/love-shaker-sung-by-y-seungmin-joochan"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "golden-child/love-shaker-inst"
+duration = "3:44"
