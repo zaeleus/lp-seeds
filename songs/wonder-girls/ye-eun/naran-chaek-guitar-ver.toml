@@ -1,0 +1,12 @@
+names = [
+  { name = "나란 책 (Guitar Ver.)", locale = "ko", original = true },
+  { name = "Naran Chaek (Guitar Ver.)", locale = "ko-Latn", default = true },
+  { name = "Read Me (Guitar Ver.)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "wonder-girls/ye-eun"
+names = [
+  { name = "핫펠트", locale = "ko", original = true },
+  { name = "HA:TFELT", locale = "ko-Latn", default = true },
+]

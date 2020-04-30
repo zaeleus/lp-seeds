@@ -1,0 +1,11 @@
+names = [
+  { name = "3분만 (Feat. 최자)", locale = "ko", original = true },
+  { name = "3-bunman (Feat. Choiza)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "wonder-girls/ye-eun"
+names = [
+  { name = "핫펠트", locale = "ko", original = true },
+  { name = "HA:TFELT", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,10 @@
+names = [
+  { name = "Satellite (Feat. ASH ISLAND)", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "wonder-girls/ye-eun"
+names = [
+  { name = "핫펠트", locale = "ko", original = true },
+  { name = "HA:TFELT", locale = "ko-Latn", default = true },
+]

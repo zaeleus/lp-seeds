@@ -1,0 +1,11 @@
+names = [
+  { name = "피어싱 (Piercing) (Feat. THAMA)", locale = "ko", original = true },
+  { name = "Piercing (Feat. THAMA)", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "wonder-girls/ye-eun"
+names = [
+  { name = "핫펠트", locale = "ko", original = true },
+  { name = "HA:TFELT", locale = "ko-Latn", default = true },
+]
