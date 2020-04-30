@@ -1,0 +1,8 @@
+names = [
+  { name = "Refresh", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "block-b/zico", separator = ", " },
+  { artist-id = "kang-daniel" },
+]
