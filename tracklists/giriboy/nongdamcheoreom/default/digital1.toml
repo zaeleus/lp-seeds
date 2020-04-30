@@ -1,0 +1,13 @@
+medium-ids = [
+  "giriboy/nongdamcheoreom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giriboy/nongdamcheoreom-prod-zion-t"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "giriboy/nongdamcheoreom-inst"
+duration = "3:51"
