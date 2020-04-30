@@ -1,0 +1,5 @@
+names = [
+  { name = "사랑은 또다시 (Love Again)", locale = "ko", original = true },
+  { name = "Sarangeun Ttodasi (Love Again)", locale = "ko-Latn", default = true },
+  { name = "Love Again", locale = "en" },
+]

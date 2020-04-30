@@ -1,0 +1,5 @@
+names = [
+  { name = "내게 말해줘 (7 Days)", locale = "ko", original = true },
+  { name = "Naege Malhaejwo (7 Days)", locale = "ko-Latn", default = true },
+  { name = "7 Days", locale = "en" },
+]

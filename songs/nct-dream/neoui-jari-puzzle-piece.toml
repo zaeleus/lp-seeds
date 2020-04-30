@@ -1,0 +1,5 @@
+names = [
+  { name = "너의 자리 (Puzzle Piece)", locale = "ko", original = true },
+  { name = "Neoui Jari (Puzzle Piece)", locale = "ko-Latn", default = true },
+  { name = "Puzzle Piece", locale = "en" },
+]

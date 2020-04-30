@@ -1,0 +1,28 @@
+medium-ids = [
+  "nct-dream/reload/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nct-dream/ridin"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "nct-dream/quiet-down"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "nct-dream/naege-malhaejwo-7-days"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "nct-dream/sarangeun-ttodasi-love-again"
+duration = "3:31"
+
+[[tracks]]
+position = 5
+song-id = "nct-dream/neoui-jari-puzzle-piece"
+duration = "3:48"
