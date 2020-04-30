@@ -1,0 +1,13 @@
+medium-ids = [
+  "choi-nakta/eoseowa-ost-part-13/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "choi-nakta/kkochi-pieonne"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "choi-nakta/kkochi-pieonne-inst"
+duration = "3:08"
