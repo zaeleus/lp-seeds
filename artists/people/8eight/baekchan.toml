@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1984-12-09"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "백찬", locale = "ko", kind = "stage", original = true },
+  { name = "BAEKCHAN", locale = "ko-Latn", kind = "stage", default = true },
+]

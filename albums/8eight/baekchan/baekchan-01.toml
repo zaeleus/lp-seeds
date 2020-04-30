@@ -1,0 +1,14 @@
+artist-id = "8eight/baekchan"
+kind = "lp"
+
+names = [
+  { name = "BAEKCHAN 01", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-04-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10415971" },
+]
