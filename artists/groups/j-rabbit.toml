@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2010"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "제이레빗", locale = "ko", original = true },
+  { name = "J Rabbit", locale = "en", default = true },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "j-rabbit/seulgiroun-uisasaenghwal-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "j-rabbit/neon-eonjena"
+duration = "4:18"
+
+[[tracks]]
+position = 2
+song-id = "j-rabbit/neon-eonjena-inst"
+duration = "4:18"
