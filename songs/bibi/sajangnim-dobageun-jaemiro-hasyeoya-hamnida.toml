@@ -1,0 +1,5 @@
+names = [
+  { name = "사장님 도박은 재미로 하셔야 합니다", locale = "ko", original = true },
+  { name = "Sajangnim Dobageun Jaemiro Hasyeoya Hamnida", locale = "ko-Latn", default = true },
+  { name = "KAZINO", locale = "en" },
+]

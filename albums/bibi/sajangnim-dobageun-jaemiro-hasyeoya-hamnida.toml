@@ -1,0 +1,16 @@
+artist-id = "bibi"
+kind = "single"
+
+names = [
+  { name = "사장님 도박은 재미로 하셔야 합니다", locale = "ko", original = true },
+  { name = "Sajangnim Dobageun Jaemiro Hasyeoya Hamnida", locale = "ko-Latn", default = true },
+  { name = "KAZINO", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-04-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10424558" },
+]
