@@ -1,0 +1,13 @@
+medium-ids = [
+  "nell/the-king-yeongwonui-gunju-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nell/yeon-gravity"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "nell/yeon-gravity-inst"
+duration = "3:10"
