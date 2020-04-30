@@ -1,0 +1,15 @@
+artist-id = "moonc"
+kind = "single"
+
+names = [
+  { name = "작업실", locale = "ko", original = true },
+  { name = "Jageopsil", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10423992" },
+]
