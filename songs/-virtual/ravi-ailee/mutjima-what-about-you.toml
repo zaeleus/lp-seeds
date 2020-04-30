@@ -1,0 +1,10 @@
+names = [
+  { name = "묻지마 (What About You)", locale = "ko", original = true },
+  { name = "Mutjima (What About You)", locale = "ko-Latn", default = true },
+  { name = "What About You", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "vixx/ravi", separator = ", " },
+  { artist-id = "ailee" },
+]
