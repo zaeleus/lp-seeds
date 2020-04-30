@@ -1,0 +1,15 @@
+artist-id = "panini-brunch"
+kind = "single"
+
+names = [
+  { name = "나 먼저 고백할래", locale = "ko", original = true },
+  { name = "Na Meonjeo Gobaekhallae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-04-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10422782" },
+]

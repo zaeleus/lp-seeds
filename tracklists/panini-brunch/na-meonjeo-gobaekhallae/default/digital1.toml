@@ -1,0 +1,13 @@
+medium-ids = [
+  "panini-brunch/na-meonjeo-gobaekhallae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "panini-brunch/na-meonjeo-gobaekhallae"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "panini-brunch/na-meonjeo-gobaekhallae-inst"
+duration = "2:57"
