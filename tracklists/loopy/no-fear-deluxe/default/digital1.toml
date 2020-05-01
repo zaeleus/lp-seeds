@@ -109,7 +109,7 @@ duration = "3:18"
 
 [[tracks]]
 position = 22
-song-id = "loopy/fye-deluxe-only"
+song-id = "loopy/fye"
 duration = "1:36"
 names = [
   { name = "FYE (DELUXE ONLY)", locale = "ko", original = true, default = true },
