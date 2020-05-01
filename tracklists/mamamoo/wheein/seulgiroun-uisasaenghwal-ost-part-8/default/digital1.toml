@@ -1,0 +1,13 @@
+medium-ids = [
+  "mamamoo/wheein/seulgiroun-uisasaenghwal-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/wheein/nae-nunmul-moa"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/wheein/nae-nunmul-moa-inst"
+duration = "4:14"
