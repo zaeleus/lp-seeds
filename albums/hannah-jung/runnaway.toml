@@ -1,0 +1,14 @@
+artist-id = "hannah-jung"
+kind = "single"
+
+names = [
+  { name = "RUNNAWAY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-05-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10424449" },
+]

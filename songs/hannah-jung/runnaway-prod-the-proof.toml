@@ -1,0 +1,3 @@
+names = [
+  { name = "RUNNAWAY (Prod. The Proof)", locale = "ko", original = true, default = true },
+]
