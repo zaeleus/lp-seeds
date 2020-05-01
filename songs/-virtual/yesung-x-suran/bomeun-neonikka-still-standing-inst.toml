@@ -1,0 +1,17 @@
+names = [
+  { name = "봄은 너니까 (Still Standing) (Inst.)", locale = "ko", original = true },
+  { name = "Bomeun Neonikka (Still Standing) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Still Standing (Inst.)", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "super-junior/yesung"
+names = [
+  { name = "예성", locale = "ko", original = true },
+  { name = "YESUNG", locale = "ko-Latn", default = true },
+]
+separator = " X "
+
+[[artist-credits]]
+artist-id = "suran"
+

@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/yesung-x-suran/bomeun-neonikka-still-standing/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/yesung-x-suran/bomeun-neonikka-still-standing"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/yesung-x-suran/bomeun-neonikka-still-standing-inst"
+duration = "3:16"
