@@ -1,0 +1,18 @@
+medium-ids = [
+  "olltii/vroom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "olltii/vroom-narr-yunb"
+duration = "2:34"
+
+[[tracks]]
+position = 2
+song-id = "olltii/vroom-inst"
+duration = "2:34"
+
+[[tracks]]
+position = 3
+song-id = "olltii/vroom-acapella"
+duration = "2:34"
