@@ -1,0 +1,13 @@
+medium-ids = [
+  "nature/sonyeoui-segye-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nature/sonyeoui-segye-oh-my-gosh"
+duration = "2:33"
+
+[[tracks]]
+position = 2
+song-id = "nature/sonyeoui-segye-oh-my-gosh-inst"
+duration = "2:33"

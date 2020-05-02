@@ -1,0 +1,5 @@
+names = [
+  { name = "소녀의 세계 (Oh my gosh) (Inst.)", locale = "ko", original = true },
+  { name = "Sonyeoui Segye (Oh my gosh) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Oh my gosh (Inst.)", locale = "en" },
+]
