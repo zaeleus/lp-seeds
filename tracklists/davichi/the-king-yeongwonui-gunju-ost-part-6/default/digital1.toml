@@ -1,0 +1,13 @@
+medium-ids = [
+  "davichi/the-king-yeongwonui-gunju-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/please-don-t-cry"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "davichi/please-don-t-cry-inst"
+duration = "3:56"
