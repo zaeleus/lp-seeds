@@ -1,0 +1,4 @@
+names = [
+  { name = "폴린 w/vsclm (feat. Liss)", locale = "ko", original = true },
+  { name = "Pollin w/vsclm (feat. Liss)", locale = "ko-Latn", default = true },
+]
