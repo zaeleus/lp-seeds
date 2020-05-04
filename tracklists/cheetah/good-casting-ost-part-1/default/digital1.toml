@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheetah/good-casting-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheetah/feel-it"
+duration = "2:39"
+
+[[tracks]]
+position = 2
+song-id = "cheetah/feel-it-inst"
+duration = "2:39"
