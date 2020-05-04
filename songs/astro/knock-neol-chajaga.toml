@@ -1,0 +1,5 @@
+names = [
+  { name = "Knock (널 찾아가)", locale = "ko", original = true },
+  { name = "Knock (Neol Chajaga)", locale = "ko-Latn", default = true },
+  { name = "Knock", locale = "en" },
+]

@@ -1,0 +1,33 @@
+medium-ids = [
+  "astro/gateway/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "astro/knock-neol-chajaga"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "astro/nae-ireumeul-bureul-ttae"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "astro/somebody-like"
+duration = "3:08"
+
+[[tracks]]
+position = 4
+song-id = "astro/we-still"
+duration = "3:17"
+
+[[tracks]]
+position = 5
+song-id = "astro/12-sigan"
+duration = "3:11"
+
+[[tracks]]
+position = 6
+song-id = "astro/bichi-dwaejulge"
+duration = "3:25"
