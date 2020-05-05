@@ -1,0 +1,13 @@
+medium-ids = [
+  "shin-ji-hoon/gimakhin-yusan-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shin-ji-hoon/nae-sarang-nae-gyeote"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "shin-ji-hoon/nae-sarang-nae-gyeote-inst"
+duration = "3:54"

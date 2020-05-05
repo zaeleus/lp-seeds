@@ -1,0 +1,15 @@
+artist-id = "shin-ji-hoon"
+kind = "single"
+
+names = [
+  { name = "기막힌 유산 OST Part.4", locale = "ko", original = true },
+  { name = "Gimakhin Yusan OST Part.4", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10424005" },
+]
