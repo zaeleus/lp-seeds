@@ -1,0 +1,13 @@
+medium-ids = [
+  "melodyday/chahee/teum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melodyday/chahee/teum"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "melodyday/chahee/teum-inst"
+duration = "3:40"
