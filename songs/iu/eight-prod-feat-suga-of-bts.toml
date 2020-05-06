@@ -1,0 +1,5 @@
+names = [
+  { name = "에잇 (Prod. & Feat. SUGA of BTS)", locale = "ko", original = true },
+  { name = "Eit (Prod. & Feat. SUGA of BTS)", locale = "ko-Latn" },
+  { name = "eight (Prod. & Feat. SUGA of BTS)", locale = "", default = true },
+]
