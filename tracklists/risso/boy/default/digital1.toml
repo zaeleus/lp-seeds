@@ -1,0 +1,8 @@
+medium-ids = [
+  "risso/boy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "risso/boy"
+duration = "3:16"
