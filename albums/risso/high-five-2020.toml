@@ -1,0 +1,14 @@
+artist-id = "risso"
+kind = "lp"
+
+names = [
+  { name = "HIGH FIVE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-05-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10425260" },
+]
