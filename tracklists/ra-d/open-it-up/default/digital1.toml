@@ -1,0 +1,13 @@
+medium-ids = [
+  "ra-d/open-it-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ra-d/open-it-up-feat-jinbo"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "ra-d/open-it-up-inst"
+duration = "3:38"

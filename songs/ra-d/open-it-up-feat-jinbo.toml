@@ -1,0 +1,4 @@
+names = [
+  { name = "Open It Up (feat. 진보)", locale = "ko", original = true },
+  { name = "Open It Up (feat. Jinbo)", locale = "ko-Latn", default = true },
+]
