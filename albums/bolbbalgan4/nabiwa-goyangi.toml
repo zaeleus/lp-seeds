@@ -1,0 +1,16 @@
+artist-id = "bolbbalgan4"
+kind = "single"
+
+names = [
+  { name = "나비와 고양이", locale = "ko", original = true },
+  { name = "Nabiwa Goyangi", locale = "ko-Latn", default = true },
+  { name = "Leo", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-05-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10427559" },
+]

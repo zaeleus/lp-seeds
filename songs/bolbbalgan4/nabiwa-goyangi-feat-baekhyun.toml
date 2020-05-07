@@ -1,0 +1,5 @@
+names = [
+  { name = "나비와 고양이 (feat. 백현 (BAEKHYUN))", locale = "ko", original = true },
+  { name = "Nabiwa Goyangi (feat. BAEKHYUN)", locale = "ko-Latn", default = true },
+  { name = "Leo (feat. BAEKHYUN)", locale = "en" },
+]
