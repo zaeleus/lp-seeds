@@ -1,0 +1,14 @@
+artist-id = "natty"
+kind = "single"
+
+names = [
+  { name = "NINETEEN", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-05-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10427333" },
+]
