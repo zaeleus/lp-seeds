@@ -1,0 +1,8 @@
+medium-ids = [
+  "lee-young-ji/geunyang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-young-ji/geunyang"
+duration = "3:38"
