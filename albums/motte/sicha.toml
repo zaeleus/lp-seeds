@@ -1,0 +1,15 @@
+artist-id = "motte"
+kind = "single"
+
+names = [
+  { name = "시차", locale = "ko", original = true },
+  { name = "Sicha", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10427628" },
+]
