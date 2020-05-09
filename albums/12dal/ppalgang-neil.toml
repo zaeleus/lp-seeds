@@ -1,0 +1,15 @@
+artist-id = "12dal"
+kind = "single"
+
+names = [
+  { name = "빨강 네일", locale = "ko", original = true },
+  { name = "Ppalgang Neil", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10427917" },
+]

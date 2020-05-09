@@ -1,0 +1,13 @@
+medium-ids = [
+  "12dal/ppalgang-neil/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "12dal/ppalgang-neil"
+duration = "2:50"
+
+[[tracks]]
+position = 2
+song-id = "12dal/ppalgang-neil-inst"
+duration = "2:50"
