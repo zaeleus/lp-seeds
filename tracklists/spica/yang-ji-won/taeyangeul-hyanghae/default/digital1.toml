@@ -1,0 +1,13 @@
+medium-ids = [
+  "spica/yang-ji-won/taeyangeul-hyanghae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "spica/yang-ji-won/taeyangeul-hyanghae-eye-mask-gwanggo-sabipgok"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "spica/yang-ji-won/taeyangeul-hyanghae-eye-mask-gwanggo-sabipgok-inst"
+duration = "4:00"

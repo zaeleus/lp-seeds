@@ -1,0 +1,4 @@
+names = [
+  { name = "태양을 향해 (아이마스크 광고 삽입곡) (Inst.)", locale = "ko", original = true },
+  { name = "Taeyangeul Hyanghae (Eye Mask Gwanggo Sabipgok) (Inst.)", locale = "ko-Latn", default = true },
+]
