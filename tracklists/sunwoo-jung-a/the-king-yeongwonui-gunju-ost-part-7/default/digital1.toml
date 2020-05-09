@@ -1,0 +1,13 @@
+medium-ids = [
+  "sunwoo-jung-a/the-king-yeongwonui-gunju-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sunwoo-jung-a/kkochi-pineun-geol-mageul-sun-eopseoyo"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "sunwoo-jung-a/kkochi-pineun-geol-mageul-sun-eopseoyo-inst"
+duration = "3:33"
