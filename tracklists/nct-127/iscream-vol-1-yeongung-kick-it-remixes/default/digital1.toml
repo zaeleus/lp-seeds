@@ -1,0 +1,18 @@
+medium-ids = [
+  "nct-127/iscream-vol-1-yeongung-kick-it-remixes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nct-127/yeongung-kick-it-valentino-khan-remix"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "nct-127/yeongung-kick-it-minimonster-remix"
+duration = "3:48"
+
+[[tracks]]
+position = 3
+song-id = "nct-127/yeongung-kick-it-hitchhiker-remix"
+duration = "3:11"
