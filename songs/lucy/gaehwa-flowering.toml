@@ -1,0 +1,5 @@
+names = [
+  { name = "개화 (Flowering)", locale = "ko", original = true },
+  { name = "Gaehwa (Flowering)", locale = "ko-Latn", default = true },
+  { name = "Flowering", locale = "en" },
+]

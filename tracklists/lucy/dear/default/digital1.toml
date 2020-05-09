@@ -1,0 +1,13 @@
+medium-ids = [
+  "lucy/dear/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucy/intro"
+duration = "2:48"
+
+[[tracks]]
+position = 2
+song-id = "lucy/gaehwa-flowering"
+duration = "4:12"
