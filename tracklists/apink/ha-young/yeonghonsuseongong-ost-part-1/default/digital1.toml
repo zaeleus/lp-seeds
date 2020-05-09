@@ -1,0 +1,13 @@
+medium-ids = [
+  "apink/ha-young/yeonghonsuseongong-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink/ha-young/im-fine"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "apink/ha-young/im-fine-inst"
+duration = "3:59"

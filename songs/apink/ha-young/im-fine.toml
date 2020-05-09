@@ -1,0 +1,10 @@
+names = [
+  { name = "Im fine", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "apink/ha-young"
+names = [
+  { name = "오하영", locale = "ko", original = true },
+  { name = "Oh Hayoung", locale = "ko-Latn", default = true },
+]

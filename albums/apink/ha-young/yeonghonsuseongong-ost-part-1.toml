@@ -1,0 +1,23 @@
+artist-id = "apink/ha-young"
+kind = "single"
+
+names = [
+  { name = "영혼수선공 OST Part.1", locale = "ko", original = true },
+  { name = "Yeonghonsuseongong OST Part.1", locale = "ko-Latn", default = true },
+  { name = "Soul Mechanic OST Part.1", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "apink/ha-young"
+names = [
+  { name = "오하영", locale = "ko", original = true },
+  { name = "Oh Hayoung", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10426974" },
+]
