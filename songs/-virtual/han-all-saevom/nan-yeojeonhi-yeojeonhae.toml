@@ -1,0 +1,9 @@
+names = [
+  { name = "난 여전히 여전해", locale = "ko", original = true },
+  { name = "Nan Yeojeonhi Yeojeonhae", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "han-all", separator = ", " },
+  { artist-id = "saevom" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/han-all-saevom/maeumsai-1-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/han-all-saevom/nan-yeojeonhi-yeojeonhae"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/han-all-saevom/urin"
+duration = "3:43"
