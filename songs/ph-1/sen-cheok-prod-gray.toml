@@ -1,0 +1,4 @@
+names = [
+  { name = "센 척 (prod. GRAY)", locale = "ko", original = true },
+  { name = "Sen Cheok (prod. Gray)", locale = "ko-Latn", default = true },
+]

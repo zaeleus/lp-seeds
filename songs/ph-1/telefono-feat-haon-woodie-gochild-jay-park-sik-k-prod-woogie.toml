@@ -1,0 +1,4 @@
+names = [
+  { name = "TELÉFONO (feat. 김하온, Woodie Gochild, 박재범, 식케이) (prod. WOOGIE)", locale = "ko", original = true },
+  { name = "TELÉFONO (feat. HAON, Woodie Gochild, Jay Park, Sik-K) (prod. WOOGIE)", locale = "ko-Latn", default = true },
+]

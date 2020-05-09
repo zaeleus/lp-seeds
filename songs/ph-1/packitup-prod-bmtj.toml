@@ -1,0 +1,3 @@
+names = [
+  { name = "PACKITUP! (prod. BMTJ)", locale = "ko", original = true, default = true },
+]
