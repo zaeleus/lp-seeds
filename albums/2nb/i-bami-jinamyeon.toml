@@ -1,0 +1,15 @@
+artist-id = "2nb"
+kind = "single"
+
+names = [
+  { name = "이 밤이 지나면", locale = "ko", original = true },
+  { name = "I Bami Jinamyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10428049" },
+]

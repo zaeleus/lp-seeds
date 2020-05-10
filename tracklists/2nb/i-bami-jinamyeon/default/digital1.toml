@@ -1,0 +1,13 @@
+medium-ids = [
+  "2nb/i-bami-jinamyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2nb/i-bami-jinamyeon"
+duration = "4:17"
+
+[[tracks]]
+position = 2
+song-id = "2nb/i-bami-jinamyeon-inst"
+duration = "4:17"
