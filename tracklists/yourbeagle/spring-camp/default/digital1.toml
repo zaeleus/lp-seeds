@@ -1,0 +1,36 @@
+medium-ids = [
+  "yourbeagle/spring-camp/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/talk-intro"
+duration = "2:55"
+
+[[tracks]]
+position = 2
+song-id = "yourbeagle/ride"
+duration = "3:01"
+
+[[tracks]]
+position = 3
+song-id = "yourbeagle/wanna-be"
+duration = "2:53"
+
+[[tracks]]
+position = 4
+song-id = "yourbeagle/nice-to-meet-you"
+duration = "3:21"
+names = [
+  { name = "NICE TO MEET YOU", locale = "ko", original = true, default = true },
+]
+
+[[tracks]]
+position = 5
+song-id = "yourbeagle/where-are-you-now"
+duration = "3:13"
+
+[[tracks]]
+position = 6
+song-id = "yourbeagle/in-my-heart-outro"
+duration = "3:17"
