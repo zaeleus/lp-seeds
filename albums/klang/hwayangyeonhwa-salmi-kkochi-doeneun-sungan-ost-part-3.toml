@@ -1,0 +1,16 @@
+artist-id = "klang"
+kind = "single"
+
+names = [
+  { name = "화양연화 - 삶이 꽃이 되는 순간 OST Part 3", locale = "ko", original = true },
+  { name = "Hwayangyeonhwa - Salmi Kkochi Doeneun Sungan OST Part 3", locale = "ko-Latn", default = true },
+  { name = "When My Love Blooms OST Part 3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-05-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10427909" },
+]
