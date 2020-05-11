@@ -1,0 +1,5 @@
+names = [
+  { name = "Back To Me (평행우주)", locale = "ko", original = true },
+  { name = "Back To Me (Pyeonghaenguju)", locale = "ko-Latn", default = true },
+  { name = "Back To Me", locale = "en" },
+]
