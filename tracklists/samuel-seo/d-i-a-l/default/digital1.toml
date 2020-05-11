@@ -1,0 +1,28 @@
+medium-ids = [
+  "samuel-seo/d-i-a-l/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "samuel-seo/d-i-a-l"
+duration = "1:10"
+
+[[tracks]]
+position = 2
+song-id = "samuel-seo/damn-things-feat-lee-tae-hoon"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "samuel-seo/dye-feat-damye"
+duration = "3:12"
+
+[[tracks]]
+position = 4
+song-id = "samuel-seo/gaenari-feat-yerin-baek"
+duration = "3:05"
+
+[[tracks]]
+position = 5
+song-id = "samuel-seo/red-feat-heo-ahmin"
+duration = "3:17"

@@ -1,0 +1,4 @@
+names = [
+  { name = "DAMN THINGS (Feat. 이태훈)", locale = "ko", original = true },
+  { name = "DAMN THINGS (Feat. Lee Tae Hoon)", locale = "ko-Latn", default = true },
+]
