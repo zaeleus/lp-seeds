@@ -1,0 +1,13 @@
+medium-ids = [
+  "brown-eyed-girls/jea/bon-eogein-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brown-eyed-girls/jea/bogo-sipeun-geudaenikkayo"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "brown-eyed-girls/jea/bogo-sipeun-geudaenikkayo-inst"
+duration = "3:58"

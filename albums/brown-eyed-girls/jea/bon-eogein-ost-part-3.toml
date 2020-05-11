@@ -1,0 +1,16 @@
+artist-id = "brown-eyed-girls/jea"
+kind = "single"
+
+names = [
+  { name = "본 어게인 OST Part.3", locale = "ko", original = true },
+  { name = "Bon Eogein OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Born Again OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-05-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10428120" },
+]
