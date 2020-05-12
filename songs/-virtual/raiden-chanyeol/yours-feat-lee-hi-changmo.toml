@@ -1,0 +1,9 @@
+names = [
+  { name = "Yours (Feat. 이하이, 창모)", locale = "ko", original = true },
+  { name = "Yours (Feat. Lee Hi, CHANGMO)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "raiden", separator = ", " },
+  { artist-id = "exo/chanyeol" },
+]
