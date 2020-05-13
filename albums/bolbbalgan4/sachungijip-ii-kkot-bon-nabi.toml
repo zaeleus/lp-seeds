@@ -1,0 +1,15 @@
+artist-id = "bolbbalgan4"
+kind = "ep"
+
+names = [
+  { name = "사춘기집Ⅱ 꽃 본 나비", locale = "ko", original = true },
+  { name = "Sachungijip II Kkot Bon Nabi", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10427559" },
+]
