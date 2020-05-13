@@ -1,0 +1,5 @@
+names = [
+  { name = "벚꽃이 피면 (Cherry Blossom)", locale = "ko", original = true },
+  { name = "Beotkkochi Pimyeon (Cherry Blossom)", locale = "ko-Latn", default = true },
+  { name = "Cherry Blossom", locale = "en" },
+]

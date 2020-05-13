@@ -1,0 +1,23 @@
+medium-ids = [
+  "busters/paeonia/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "busters/paeonia"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "busters/beotkkochi-pimyeon-cherry-blossom"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "busters/paeonia-inst"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "busters/beotkkochi-pimyeon-cherry-blossom-inst"
+duration = "3:45"
