@@ -3,7 +3,7 @@ kind = "ep"
 
 names = [
   { name = "사춘기집Ⅰ 꽃기운", locale = "ko", original = true },
-  { name = "Sachungijipⅰ I Kkotgiun", locale = "ko-Latn", default = true },
+  { name = "Sachungijip I Kkotgiun", locale = "ko-Latn", default = true },
 ]
 
 [[releases]]
