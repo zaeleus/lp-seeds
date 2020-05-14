@@ -1,0 +1,43 @@
+medium-ids = [
+  "grizzly/fake-red/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "grizzly/ego-feat-khundi-panda"
+duration = "2:33"
+
+[[tracks]]
+position = 2
+song-id = "grizzly/burn-it-feat-jaedal"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "grizzly/whatever-for-u"
+duration = "2:57"
+
+[[tracks]]
+position = 4
+song-id = "grizzly/wajwo-feat-dbo"
+duration = "3:58"
+
+[[tracks]]
+position = 5
+song-id = "grizzly/killer-feat-che"
+duration = "3:05"
+
+[[tracks]]
+position = 6
+song-id = "grizzly/neorang-jamyeonseo-dareun-sarameul-saenggakhae"
+duration = "3:16"
+
+[[tracks]]
+position = 7
+song-id = "grizzly/naega-eopseodo"
+duration = "3:13"
+
+[[tracks]]
+position = 8
+song-id = "grizzly/fake-smile"
+duration = "3:57"

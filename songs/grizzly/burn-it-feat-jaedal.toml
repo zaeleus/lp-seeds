@@ -1,0 +1,3 @@
+names = [
+  { name = "Burn it (Feat. jaedal)", locale = "ko", original = true, default = true },
+]
