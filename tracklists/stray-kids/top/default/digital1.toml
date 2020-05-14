@@ -1,0 +1,13 @@
+medium-ids = [
+  "stray-kids/top/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stray-kids/top-sinui-tap-ost"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "stray-kids/slump-sinui-tap-ost"
+duration = "2:15"

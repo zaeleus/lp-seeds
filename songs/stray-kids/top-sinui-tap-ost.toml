@@ -1,0 +1,4 @@
+names = [
+  { name = "TOP (\"신의 탑\" OST)", locale = "ko", original = true },
+  { name = "TOP (\"Sinui Tap\" OST)", locale = "ko-Latn", default = true },
+]
