@@ -1,0 +1,13 @@
+medium-ids = [
+  "vinxen/noeul-feat-ovan/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vinxen/noeul-feat-ovan"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "vinxen/noeul-inst"
+duration = "3:47"

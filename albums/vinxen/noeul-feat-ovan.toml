@@ -1,0 +1,15 @@
+artist-id = "vinxen"
+kind = "single"
+
+names = [
+  { name = "노을 (Feat. 오반)", locale = "ko", original = true },
+  { name = "Noeul (Feat. OVAN)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10430582" },
+]
