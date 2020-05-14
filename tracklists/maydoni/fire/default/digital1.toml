@@ -1,0 +1,13 @@
+medium-ids = [
+  "maydoni/fire/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "maydoni/fire"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "maydoni/fire-inst"
+duration = "3:03"
