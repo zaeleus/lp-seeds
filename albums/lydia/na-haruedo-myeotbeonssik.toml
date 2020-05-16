@@ -1,0 +1,15 @@
+artist-id = "lydia"
+kind = "single"
+
+names = [
+  { name = "나 하루에도 몇번씩", locale = "ko", original = true },
+  { name = "Na Haruedo Myeotbeonssik", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10430720" },
+]
