@@ -1,0 +1,13 @@
+medium-ids = [
+  "woo-ah/exclamation/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-ah/woo-ah"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "woo-ah/payday"
+duration = "3:13"
