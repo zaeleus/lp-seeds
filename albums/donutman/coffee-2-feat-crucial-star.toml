@@ -1,0 +1,15 @@
+artist-id = "donutman"
+kind = "single"
+
+names = [
+  { name = "Coffee 2 (feat. 크루셜스타)", locale = "ko", original = true },
+  { name = "Coffee 2 (feat. Crucial Star)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10430558" },
+]

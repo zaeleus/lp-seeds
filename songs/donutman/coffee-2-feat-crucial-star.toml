@@ -1,0 +1,4 @@
+names = [
+  { name = "Coffee 2 (feat. 크루셜스타)", locale = "ko", original = true },
+  { name = "Coffee 2 (feat. Crucial Star)", locale = "ko-Latn", default = true },
+]
