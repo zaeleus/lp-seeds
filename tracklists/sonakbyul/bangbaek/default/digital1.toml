@@ -1,0 +1,13 @@
+medium-ids = [
+  "sonakbyul/bangbaek/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sonakbyul/byeolmuri"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "sonakbyul/heukbaengnaraui-alice"
+duration = "2:44"
