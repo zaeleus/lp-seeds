@@ -1,0 +1,15 @@
+artist-id = "se-so-neon"
+kind = "single"
+
+names = [
+  { name = "난춘 (亂春)", locale = "ko", original = true },
+  { name = "Nanchun", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10428213" },
+]
