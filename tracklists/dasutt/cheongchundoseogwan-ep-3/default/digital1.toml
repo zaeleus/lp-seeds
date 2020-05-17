@@ -1,0 +1,13 @@
+medium-ids = [
+  "dasutt/cheongchundoseogwan-ep-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dasutt/byeolgil"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "dasutt/byeolgil-inst"
+duration = "3:49"

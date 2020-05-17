@@ -1,0 +1,15 @@
+artist-id = "dasutt"
+kind = "single"
+
+names = [
+  { name = "청춘도서관 Ep.3", locale = "ko", original = true },
+  { name = "Cheongchundoseogwan Ep.3", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10431137" },
+]
