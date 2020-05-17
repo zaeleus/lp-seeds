@@ -1,0 +1,33 @@
+medium-ids = [
+  "seori/depacse-ohw/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seori/who-escaped"
+duration = "1:22"
+
+[[tracks]]
+position = 2
+song-id = "seori/hairdryer"
+duration = "3:05"
+
+[[tracks]]
+position = 3
+song-id = "seori/running-through-the-night"
+duration = "3:38"
+
+[[tracks]]
+position = 4
+song-id = "seori/really-high"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "seori/fairy-tale"
+duration = "3:39"
+
+[[tracks]]
+position = 6
+song-id = "seori/i-wanna-cry"
+duration = "3:16"
