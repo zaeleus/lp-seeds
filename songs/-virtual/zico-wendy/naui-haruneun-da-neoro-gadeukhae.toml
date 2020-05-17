@@ -1,0 +1,9 @@
+names = [
+  { name = "나의 하루는 다 너로 가득해", locale = "ko", original = true },
+  { name = "Naui Haruneun Da Neoro Gadeukhae", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "block-b/zico", separator = ", " },
+  { artist-id = "red-velvet/wendy" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/zico-wendy/the-king-yeongwonui-gunju-ost-part-10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/zico-wendy/naui-haruneun-da-neoro-gadeukhae"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/zico-wendy/naui-haruneun-da-neoro-gadeukhae-inst"
+duration = "3:42"

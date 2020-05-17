@@ -1,0 +1,21 @@
+artist-id = "-virtual/zico-wendy"
+kind = "single"
+
+names = [
+  { name = "더 킹: 영원의 군주 OST Part 10", locale = "ko", original = true },
+  { name = "The King: Yeongwonui Gunju OST Part 10", locale = "ko-Latn", default = true },
+  { name = "The King: Eternal Monarch OST Part 10", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "block-b/zico", separator = ", " },
+  { artist-id = "red-velvet/wendy" },
+]
+
+[[releases]]
+released-on = "2020-05-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10431009" },
+]
