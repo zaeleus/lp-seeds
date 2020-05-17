@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-bo-ram/han-beon-danyeowatseumnida-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-bo-ram/du-beon-dasi-uri"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "park-bo-ram/du-beon-dasi-uri-inst"
+duration = "3:37"
