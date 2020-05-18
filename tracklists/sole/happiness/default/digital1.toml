@@ -1,0 +1,13 @@
+medium-ids = [
+  "sole/happiness/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sole/happiness"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "sole/mal"
+duration = "3:57"
