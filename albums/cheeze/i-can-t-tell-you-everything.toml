@@ -1,0 +1,14 @@
+artist-id = "cheeze"
+kind = "ep"
+
+names = [
+  { name = "I can't tell you everything", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-05-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10431704" },
+]
