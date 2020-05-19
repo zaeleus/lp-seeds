@@ -1,0 +1,14 @@
+artist-id = "redsquare"
+kind = "single"
+
+names = [
+  { name = "PREQUEL", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-05-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10431799" },
+]

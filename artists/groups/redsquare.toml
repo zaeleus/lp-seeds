@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "레드스퀘어", locale = "ko", original = true },
+  { name = "REDSQUARE", locale = "en", default = true },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "redsquare/prequel/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "redsquare/colorfull"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "redsquare/colorfull-inst"
+duration = "3:27"
