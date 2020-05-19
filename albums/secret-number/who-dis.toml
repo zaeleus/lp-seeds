@@ -1,0 +1,14 @@
+artist-id = "secret-number"
+kind = "single"
+
+names = [
+  { name = "Who Dis?", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-05-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10432176" },
+]
