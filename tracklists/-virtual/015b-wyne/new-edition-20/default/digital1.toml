@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/015b-wyne/new-edition-20/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/015b-wyne/bntk"
+duration = "4:38"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/015b-wyne/bntk-inst"
+duration = "4:38"
