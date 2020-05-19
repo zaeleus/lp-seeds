@@ -1,0 +1,17 @@
+artist-id = "txt"
+kind = "ep"
+
+names = [
+  { name = "꿈의 장: ETERNITY", locale = "ko", original = true },
+  { name = "Kkumui Jang: ETERNITY", locale = "ko-Latn", default = true },
+  { name = "The Dream Chapter: ETERNITY", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-05-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10431716" },
+  { url = "https://music.youtube.com/playlist?list=OLAK5uy_n3zc0-BeGR6C7JUj3sKsfy87-6WjBwcTU" },
+]

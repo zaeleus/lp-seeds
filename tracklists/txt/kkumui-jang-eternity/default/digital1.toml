@@ -1,0 +1,33 @@
+medium-ids = [
+  "txt/kkumui-jang-eternity/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "txt/drama"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "txt/segyega-bultabeorin-bam-urin-can-t-you-see-me"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "txt/shampoo-ui-yojeong"
+duration = "4:28"
+
+[[tracks]]
+position = 4
+song-id = "txt/geoul-sogui-miro"
+duration = "3:47"
+
+[[tracks]]
+position = 5
+song-id = "txt/dongmurwoneul-ppajyeonaon-pyuma"
+duration = "3:26"
+
+[[tracks]]
+position = 6
+song-id = "txt/eternally"
+duration = "3:38"

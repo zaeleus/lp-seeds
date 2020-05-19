@@ -1,0 +1,5 @@
+names = [
+  { name = "세계가 불타버린 밤, 우린... (Can't You See Me?)", locale = "ko", original = true },
+  { name = "Segyega Bultabeorin Bam, Urin... (Can't You See Me?)", locale = "ko-Latn", default = true },
+  { name = "Can't You See Me?", locale = "en" },
+]

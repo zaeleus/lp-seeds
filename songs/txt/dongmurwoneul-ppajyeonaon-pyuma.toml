@@ -1,0 +1,5 @@
+names = [
+  { name = "동물원을 빠져나온 퓨마", locale = "ko", original = true },
+  { name = "Dongmurwoneul Ppajyeonaon Pyuma", locale = "ko-Latn", default = true },
+  { name = "PUMA", locale = "en" },
+]

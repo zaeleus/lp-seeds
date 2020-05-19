@@ -1,0 +1,5 @@
+names = [
+  { name = "샴푸의 요정", locale = "ko", original = true },
+  { name = "Shampoo-ui Yojeong", locale = "ko-Latn", default = true },
+  { name = "Fairy of Shampoo", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "거울 속의 미로", locale = "ko", original = true },
+  { name = "Geoul Sogui Miro", locale = "ko-Latn", default = true },
+  { name = "Maze in the Mirror", locale = "en" },
+]
