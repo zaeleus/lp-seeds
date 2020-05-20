@@ -1,0 +1,4 @@
+names = [
+  { name = "자나깨나 (Feat. 조이 of Red Velvet)", locale = "ko", original = true },
+  { name = "Janakkaena (Feat. Joy of Red Velvet)", locale = "ko-Latn", default = true },
+]
