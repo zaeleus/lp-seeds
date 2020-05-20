@@ -1,0 +1,13 @@
+medium-ids = [
+  "sorae/sarang-da-kkeunnan-geoya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sorae/sarang-da-kkeunnan-geoya-vocal-ah-yeon"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "sorae/sarang-da-kkeunnan-geoya-inst"
+duration = "3:48"
