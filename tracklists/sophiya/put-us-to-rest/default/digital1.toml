@@ -1,0 +1,13 @@
+medium-ids = [
+  "sophiya/put-us-to-rest/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sophiya/put-us-to-rest-feat-andrew-choi"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "sophiya/put-us-to-rest-feat-andrew-choi-inst"
+duration = "4:02"

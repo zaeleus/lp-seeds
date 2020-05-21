@@ -1,0 +1,3 @@
+names = [
+  { name = "Put Us To Rest (feat. Andrew Choi)", locale = "ko", original = true, default = true },
+]
