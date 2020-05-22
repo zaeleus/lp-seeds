@@ -1,0 +1,15 @@
+artist-id = "standing-egg"
+kind = "single"
+
+names = [
+  { name = "친구에서 연인", locale = "ko", original = true },
+  { name = "Chingueseo Yeonin", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10434223" },
+]
