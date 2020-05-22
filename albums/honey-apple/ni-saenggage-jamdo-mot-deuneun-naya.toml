@@ -1,0 +1,15 @@
+artist-id = "honey-apple"
+kind = "single"
+
+names = [
+  { name = "니 생각에 잠도 못 드는 나야", locale = "ko", original = true },
+  { name = "Ni Saenggage Jamdo Mot Deuneun Naya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10433913" },
+]

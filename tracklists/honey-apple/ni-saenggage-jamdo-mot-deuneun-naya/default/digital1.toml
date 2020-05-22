@@ -1,0 +1,13 @@
+medium-ids = [
+  "honey-apple/ni-saenggage-jamdo-mot-deuneun-naya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "honey-apple/ni-saenggage-jamdo-mot-deuneun-naya"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "honey-apple/ni-saenggage-jamdo-mot-deuneun-naya-inst"
+duration = "3:22"
