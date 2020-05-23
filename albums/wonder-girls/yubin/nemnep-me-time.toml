@@ -1,0 +1,16 @@
+artist-id = "wonder-girls/yubin"
+kind = "single"
+
+names = [
+  { name = "넵넵 (ME TIME)", locale = "ko", original = true },
+  { name = "Nemnep (ME TIME)", locale = "ko-Latn", default = true },
+  { name = "ME TIME", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-05-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10433654" },
+]
