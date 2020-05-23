@@ -1,0 +1,13 @@
+medium-ids = [
+  "cnblue/hwadap-project-vol-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cnblue/neo-na-uri-feat-lee-joon-yoon-doo-joon-of-highlight-kwanghee"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "cnblue/neo-na-uri-feat-lee-joon-yoon-doo-joon-of-highlight-kwanghee-inst"
+duration = "3:45"

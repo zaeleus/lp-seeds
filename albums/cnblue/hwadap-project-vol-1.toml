@@ -1,0 +1,15 @@
+artist-id = "cnblue"
+kind = "single"
+
+names = [
+  { name = "화답 (和答) 프로젝트 Vol.1", locale = "ko", original = true },
+  { name = "Hwadap Project Vol.1", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10432172" },
+]
