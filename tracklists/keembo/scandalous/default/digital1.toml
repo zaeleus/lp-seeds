@@ -1,0 +1,23 @@
+medium-ids = [
+  "keembo/scandalous/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "keembo/scandalous"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "keembo/thank-you-anyway"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "keembo/scandalous-inst"
+duration = "2:58"
+
+[[tracks]]
+position = 4
+song-id = "keembo/thank-you-anyway-inst"
+duration = "3:42"
