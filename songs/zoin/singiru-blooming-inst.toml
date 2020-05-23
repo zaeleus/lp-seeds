@@ -1,0 +1,5 @@
+names = [
+  { name = "신기루 (Blooming) (Inst.)", locale = "ko", original = true },
+  { name = "Singiru (Blooming) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Blooming (Inst.)", locale = "en" },
+]

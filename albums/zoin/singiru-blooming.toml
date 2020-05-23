@@ -1,0 +1,16 @@
+artist-id = "zoin"
+kind = "single"
+
+names = [
+  { name = "신기루 (Blooming)", locale = "ko", original = true },
+  { name = "Singiru (Blooming)", locale = "ko-Latn", default = true },
+  { name = "Blooming", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-05-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10434057" },
+]
