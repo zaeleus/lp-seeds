@@ -1,0 +1,4 @@
+names = [
+  { name = "너-거짓말-나 (Prod. Cha Cha Malone)", locale = "ko", original = true },
+  { name = "Neo-Geojinmal-Na (Prod. Cha Cha Malone)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,18 @@
+medium-ids = [
+  "onlyoneof/produced-by-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "onlyoneof/designer-prod-boycold"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "onlyoneof/angel-prod-gray"
+duration = "3:32"
+
+[[tracks]]
+position = 3
+song-id = "onlyoneof/neo-geojinmal-na-prod-cha-cha-malone"
+duration = "3:47"
