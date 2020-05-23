@@ -1,0 +1,16 @@
+artist-id = "gummy"
+kind = "single"
+
+names = [
+  { name = "더 킹: 영원의 군주 OST Part 11", locale = "ko", original = true },
+  { name = "The King: Yeongwonui Gunju OST Part 11", locale = "ko-Latn", default = true },
+  { name = "The King: Eternal Monarch OST Part 11", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-05-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10434069" },
+]

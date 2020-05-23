@@ -1,0 +1,13 @@
+medium-ids = [
+  "gummy/the-king-yeongwonui-gunju-ost-part-11/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gummy/my-love"
+duration = "4:19"
+
+[[tracks]]
+position = 2
+song-id = "gummy/my-love-inst"
+duration = "4:19"
