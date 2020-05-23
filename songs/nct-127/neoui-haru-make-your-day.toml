@@ -1,0 +1,5 @@
+names = [
+  { name = "너의 하루 (Make Your Day)", locale = "ko", original = true },
+  { name = "Neoui Haru (Make Your Day)", locale = "ko-Latn", default = true },
+  { name = "Make Your Day", locale = "en" },
+]

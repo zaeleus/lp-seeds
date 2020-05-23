@@ -1,0 +1,5 @@
+names = [
+  { name = "서곡 (序曲; Prelude)", locale = "ko", original = true },
+  { name = "Seogok (Prelude)", locale = "ko-Latn", default = true },
+  { name = "Prelude", locale = "en" },
+]
