@@ -1,0 +1,8 @@
+medium-ids = [
+  "changmo/countin-my-guap/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "changmo/countin-my-guap"
+duration = "3:14"

@@ -1,0 +1,3 @@
+names = [
+  { name = "COUNTIN MY GUAP", locale = "ko", original = true, default = true },
+]
