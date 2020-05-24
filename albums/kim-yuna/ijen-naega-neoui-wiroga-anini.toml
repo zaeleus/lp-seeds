@@ -1,0 +1,15 @@
+artist-id = "kim-yuna"
+kind = "single"
+
+names = [
+  { name = "이젠 내가 너의 위로가 아니니", locale = "ko", original = true },
+  { name = "Ijen Naega Neoui Wiroga Anini", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10434258" },
+]

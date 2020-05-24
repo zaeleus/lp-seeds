@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-yuna/ijen-naega-neoui-wiroga-anini/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-yuna/ijen-naega-neoui-wiroga-anini"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "kim-yuna/ijen-naega-neoui-wiroga-anini-inst"
+duration = "3:36"
