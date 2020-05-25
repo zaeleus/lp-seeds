@@ -1,0 +1,28 @@
+medium-ids = [
+  "cheetah/jazzy-misfits/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheetah/urr"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "cheetah/film"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "cheetah/need-your-love"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "cheetah/lady"
+duration = "3:44"
+
+[[tracks]]
+position = 5
+song-id = "cheetah/kick-it"
+duration = "3:02"
