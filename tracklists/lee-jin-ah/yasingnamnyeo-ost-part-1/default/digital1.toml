@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-jin-ah/yasingnamnyeo-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-jin-ah/love-with-you"
+duration = "2:59"
+
+[[tracks]]
+position = 2
+song-id = "lee-jin-ah/love-with-you-inst"
+duration = "2:59"
