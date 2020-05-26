@@ -1,0 +1,5 @@
+names = [
+  { name = "이 밤이 (Feat. Vince)", locale = "ko", original = true },
+  { name = "I Bami (Feat. Vince)", locale = "ko-Latn", default = true },
+  { name = "2NIGHT (Feat. Vince)", locale = "en" },
+]

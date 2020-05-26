@@ -1,0 +1,13 @@
+medium-ids = [
+  "moon/i-bami/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "moon/meoreojyeoga"
+duration = "2:47"
+
+[[tracks]]
+position = 2
+song-id = "moon/i-bami-feat-vince"
+duration = "3:01"
