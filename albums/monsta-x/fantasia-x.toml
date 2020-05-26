@@ -1,0 +1,14 @@
+artist-id = "monsta-x"
+kind = "ep"
+
+names = [
+  { name = "FANTASIA X", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-05-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10435392" },
+]
