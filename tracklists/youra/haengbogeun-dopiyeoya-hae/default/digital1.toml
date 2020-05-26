@@ -1,0 +1,8 @@
+medium-ids = [
+  "youra/haengbogeun-dopiyeoya-hae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "youra/haengbogeun-dopiyeoya-hae"
+duration = "3:50"
