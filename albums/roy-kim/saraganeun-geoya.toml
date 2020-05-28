@@ -1,0 +1,15 @@
+artist-id = "roy-kim"
+kind = "single"
+
+names = [
+  { name = "살아가는 거야", locale = "ko", original = true },
+  { name = "Saraganeun Geoya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10436070" },
+]
