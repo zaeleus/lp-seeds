@@ -1,0 +1,8 @@
+medium-ids = [
+  "sik-k/tell-ya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sik-k/tell-ya"
+duration = "3:00"
