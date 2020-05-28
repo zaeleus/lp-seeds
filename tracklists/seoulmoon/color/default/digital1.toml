@@ -1,0 +1,8 @@
+medium-ids = [
+  "seoulmoon/color/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seoulmoon/color"
+duration = "3:33"
