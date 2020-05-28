@@ -1,0 +1,13 @@
+medium-ids = [
+  "punch/anbu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "punch/anbu"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "punch/say-yes-feat-moonbyul-of-mamamoo"
+duration = "3:25"
