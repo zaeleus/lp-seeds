@@ -1,0 +1,16 @@
+artist-id = "suran"
+kind = "single"
+
+names = [
+  { name = "영혼수선공 OST Part.3", locale = "ko", original = true },
+  { name = "Yeonghonsuseongong OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Soul Mechanic OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-05-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10436747" },
+]

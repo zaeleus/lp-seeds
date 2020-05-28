@@ -1,0 +1,13 @@
+medium-ids = [
+  "suran/yeonghonsuseongong-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "suran/maeumi-isanghae"
+duration = "4:25"
+
+[[tracks]]
+position = 2
+song-id = "suran/maeumi-isanghae-inst"
+duration = "4:25"
