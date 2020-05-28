@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheeze/oh-my-baby-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheeze/raindrops"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "cheeze/raindrops-inst"
+duration = "3:33"
