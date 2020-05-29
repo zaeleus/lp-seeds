@@ -1,0 +1,16 @@
+artist-id = "tymee"
+kind = "single"
+
+names = [
+  { name = "번외수사 OST Part.3", locale = "ko", original = true },
+  { name = "Beonoesusa OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Team Bulldog: Off-duty Investigation OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-05-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10436830" },
+]

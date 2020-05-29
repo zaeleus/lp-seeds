@@ -1,0 +1,13 @@
+medium-ids = [
+  "tymee/beonoesusa-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "tymee/bring-it-on"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "tymee/bring-it-on-inst"
+duration = "3:24"
