@@ -1,0 +1,13 @@
+medium-ids = [
+  "nine-muses/keum-jo/light/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/keum-jo/light"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "nine-muses/keum-jo/light-inst"
+duration = "3:34"
