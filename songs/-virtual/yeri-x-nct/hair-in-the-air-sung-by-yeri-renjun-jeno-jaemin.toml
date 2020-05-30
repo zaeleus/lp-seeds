@@ -3,14 +3,7 @@ names = [
   { name = "Hair in the Air (Sung By YERI, RENJUN, JENO, JAEMIN)", locale = "ko-Latn", default = true },
 ]
 
-[[artist-credits]]
-artist-id = "red-velvet/yeri"
-names = [
-  { name = "예리", locale = "ko", original = true },
-  { name = "YERI", locale = "ko-Latn", default = true },
+artist-credits = [
+  { artist-id = "red-velvet/yeri", separator = " X " },
+  { artist-id = "nct" },
 ]
-separator = " X "
-
-[[artist-credits]]
-artist-id = "nct"
-

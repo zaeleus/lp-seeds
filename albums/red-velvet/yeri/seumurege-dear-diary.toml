@@ -7,13 +7,6 @@ names = [
   { name = "Dear Diary", locale = "en" },
 ]
 
-[[artist-credits]]
-artist-id = "red-velvet/yeri"
-names = [
-  { name = "예리", locale = "ko", original = true },
-  { name = "YERI", locale = "ko-Latn", default = true },
-]
-
 [[releases]]
 released-on = "2019-03-14"
 country = "KR"

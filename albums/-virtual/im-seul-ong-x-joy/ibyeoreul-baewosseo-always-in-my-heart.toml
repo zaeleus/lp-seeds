@@ -17,10 +17,6 @@ separator = " X "
 
 [[artist-credits]]
 artist-id = "red-velvet/joy"
-names = [
-  { name = "조이", locale = "ko", original = true },
-  { name = "JOY", locale = "ko-Latn", default = true },
-]
 
 [[releases]]
 released-on = "2016-11-04"

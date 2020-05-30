@@ -7,13 +7,6 @@ names = [
   { name = "The Great Seducer OST Part.2", locale = "en" },
 ]
 
-[[artist-credits]]
-artist-id = "red-velvet/joy"
-names = [
-  { name = "조이", locale = "ko", original = true },
-  { name = "JOY", locale = "ko-Latn", default = true },
-]
-
 [[releases]]
 released-on = "2018-03-27"
 country = "KR"

@@ -7,13 +7,6 @@ names = [
   { name = "Touch Your Heart OST Part.3", locale = "en" },
 ]
 
-[[artist-credits]]
-artist-id = "red-velvet/wendy"
-names = [
-  { name = "웬디", locale = "ko", original = true },
-  { name = "WENDY", locale = "ko-Latn", default = true },
-]
-
 [[releases]]
 released-on = "2019-02-22"
 country = "KR"

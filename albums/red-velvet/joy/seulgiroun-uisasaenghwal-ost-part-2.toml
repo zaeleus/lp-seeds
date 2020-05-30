@@ -7,13 +7,6 @@ names = [
   { name = "Hospital Playlist OST Part 2", locale = "en" },
 ]
 
-[[artist-credits]]
-artist-id = "red-velvet/joy"
-names = [
-  { name = "조이", locale = "ko", original = true },
-  { name = "JOY", locale = "ko-Latn", default = true },
-]
-
 [[releases]]
 released-on = "2020-03-20"
 country = "KR"

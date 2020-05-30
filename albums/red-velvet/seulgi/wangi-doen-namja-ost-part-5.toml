@@ -7,13 +7,6 @@ names = [
   { name = "The Crowned Clown OST Part.5", locale = "en" },
 ]
 
-[[artist-credits]]
-artist-id = "red-velvet/seulgi"
-names = [
-  { name = "슬기", locale = "ko", original = true },
-  { name = "SEULGI", locale = "ko-Latn", default = true },
-]
-
 [[releases]]
 released-on = "2019-02-12"
 country = "KR"

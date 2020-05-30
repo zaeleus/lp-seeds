@@ -7,16 +7,10 @@ names = [
   { name = "DreamWorks Trolls X SM STATION", locale = "en", default = true },
 ]
 
-[[artist-credits]]
-artist-id = "red-velvet/yeri"
-names = [
-  { name = "예리", locale = "ko", original = true },
-  { name = "YERI", locale = "ko-Latn", default = true },
+artist-credits = [
+  { artist-id = "red-velvet/yeri", separator = " X " },
+  { artist-id = "nct" },
 ]
-separator = " X "
-
-[[artist-credits]]
-artist-id = "nct"
 
 [[releases]]
 released-on = "2018-12-13"

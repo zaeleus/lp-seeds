@@ -2,13 +2,7 @@ names = [
   { name = "Written In The Stars", locale = "ko", original = true, default = true },
 ]
 
-[[artist-credits]]
-artist-id = "john-legend"
-separator = " X "
-
-[[artist-credits]]
-artist-id = "red-velvet/wendy"
-names = [
-  { name = "웬디", locale = "ko", original = true },
-  { name = "WENDY", locale = "ko-Latn", default = true },
+artist-credits = [
+  { artist-id = "john-legend", separator = " X " },
+  { artist-id = "red-velvet/wendy" },
 ]

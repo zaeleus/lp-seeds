@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "웬디", locale = "ko", kind = "stage", original = true },
-  { name = "Wendy", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "WENDY", locale = "ko-Latn", kind = "stage", default = true },
   { name = "웬디손", locale = "ko", kind = "real" },
   { name = "Son Seungwan", locale = "ko-Latn", kind = "real" },
   { name = "Wendy Son", locale = "en", kind = "real" },
