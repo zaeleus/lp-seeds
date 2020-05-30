@@ -1,0 +1,5 @@
+names = [
+  { name = "부재 (Absence)", locale = "ko", original = true },
+  { name = "Bujae (Absence)", locale = "ko-Latn", default = true },
+  { name = "Absence", locale = "en" },
+]

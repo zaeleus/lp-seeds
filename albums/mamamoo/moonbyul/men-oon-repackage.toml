@@ -1,0 +1,15 @@
+artist-id = "mamamoo/moonbyul"
+kind = "single"
+
+names = [
+  { name = "門OON: REPACKAGE", locale = "ko", original = true, default = true },
+  { name = "MOON: REPACKAGE", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-05-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10437282" },
+]
