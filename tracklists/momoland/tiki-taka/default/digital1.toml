@@ -1,0 +1,13 @@
+medium-ids = [
+  "momoland/tiki-taka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "momoland/tiki-taka"
+duration = "2:33"
+
+[[tracks]]
+position = 2
+song-id = "momoland/tiki-taka-inst"
+duration = "2:32"

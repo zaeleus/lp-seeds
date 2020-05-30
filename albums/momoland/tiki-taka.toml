@@ -1,0 +1,15 @@
+artist-id = "momoland"
+kind = "single"
+
+names = [
+  { name = "티키타카", locale = "ko", original = true },
+  { name = "TIKI TAKA", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10436788" },
+]
