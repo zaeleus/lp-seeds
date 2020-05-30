@@ -1,0 +1,5 @@
+names = [
+  { name = "야행성 (Regulus)", locale = "ko", original = true },
+  { name = "Yahaengseong (Regulus)", locale = "ko-Latn", default = true },
+  { name = "Regulus", locale = "en" },
+]

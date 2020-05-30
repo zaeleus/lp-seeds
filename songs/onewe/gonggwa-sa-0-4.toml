@@ -1,0 +1,5 @@
+names = [
+  { name = "공과 사 (0&4)", locale = "ko", original = true },
+  { name = "Gonggwa Sa (0&4)", locale = "ko-Latn", default = true },
+  { name = "0&4", locale = "en" },
+]

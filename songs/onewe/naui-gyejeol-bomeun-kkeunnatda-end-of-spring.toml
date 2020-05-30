@@ -1,0 +1,5 @@
+names = [
+  { name = "나의 계절 봄은 끝났다 (End of Spring)", locale = "ko", original = true },
+  { name = "Naui Gyejeol Bomeun Kkeunnatda (End of Spring)", locale = "ko-Latn", default = true },
+  { name = "End of Spring", locale = "en" },
+]

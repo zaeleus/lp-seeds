@@ -1,0 +1,5 @@
+names = [
+  { name = "귀걸이가 나를 때리게 (Ring on my Ears) (Remix)", locale = "ko", original = true },
+  { name = "Gwigeoriga Nareul Ttaerige (Ring on my Ears) (Remix)", locale = "ko-Latn", default = true },
+  { name = "Ring on my Ears (Remix)", locale = "en" },
+]

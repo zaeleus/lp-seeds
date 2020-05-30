@@ -1,0 +1,5 @@
+names = [
+  { name = "다 추억 (Reminisce about All)", locale = "ko", original = true },
+  { name = "Da Chueok (Reminisce about All)", locale = "ko-Latn", default = true },
+  { name = "Reminisce about All", locale = "en" },
+]

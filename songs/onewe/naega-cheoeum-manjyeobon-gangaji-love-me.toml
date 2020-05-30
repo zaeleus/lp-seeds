@@ -1,0 +1,5 @@
+names = [
+  { name = "내가 처음 만져본 강아지 (Love me)", locale = "ko", original = true },
+  { name = "Naega Cheoeum Manjyeobon Gangaji (Love me)", locale = "ko-Latn", default = true },
+  { name = "Love me", locale = "en" },
+]
