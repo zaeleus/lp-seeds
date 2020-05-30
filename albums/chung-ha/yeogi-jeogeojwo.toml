@@ -1,0 +1,15 @@
+artist-id = "chung-ha"
+kind = "single"
+
+names = [
+  { name = "여기 적어줘", locale = "ko", original = true },
+  { name = "Yeogi Jeogeojwo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10437277" },
+]
