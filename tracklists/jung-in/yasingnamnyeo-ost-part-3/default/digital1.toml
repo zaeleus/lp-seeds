@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-in/yasingnamnyeo-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-in/banjjak"
+duration = "2:50"
+
+[[tracks]]
+position = 2
+song-id = "jung-in/banjjak-inst"
+duration = "2:50"
