@@ -1,0 +1,13 @@
+medium-ids = [
+  "spica/kim-bo-hyung/born-again-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "spica/kim-bo-hyung/byeolgwa-dalcheoreom"
+duration = "4:21"
+
+[[tracks]]
+position = 2
+song-id = "spica/kim-bo-hyung/byeolgwa-dalcheoreom-inst"
+duration = "4:21"
