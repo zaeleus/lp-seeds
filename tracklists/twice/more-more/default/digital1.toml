@@ -1,0 +1,38 @@
+medium-ids = [
+  "twice/more-more/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twice/more-more"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "twice/oxygen"
+duration = "3:46"
+
+[[tracks]]
+position = 3
+song-id = "twice/firework"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "twice/make-me-go"
+duration = "3:07"
+
+[[tracks]]
+position = 5
+song-id = "twice/shadow"
+duration = "2:49"
+
+[[tracks]]
+position = 6
+song-id = "twice/don-t-call-me-again"
+duration = "2:54"
+
+[[tracks]]
+position = 7
+song-id = "twice/sweet-summer-day"
+duration = "3:13"
