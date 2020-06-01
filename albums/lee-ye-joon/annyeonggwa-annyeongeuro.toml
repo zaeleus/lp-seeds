@@ -1,0 +1,15 @@
+artist-id = "lee-ye-joon"
+kind = "single"
+
+names = [
+  { name = "안녕과 안녕으로", locale = "ko", original = true },
+  { name = "Annyeonggwa Annyeongeuro", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-06-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10437780" },
+]

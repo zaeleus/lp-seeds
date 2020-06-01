@@ -1,0 +1,23 @@
+medium-ids = [
+  "lee-ye-joon/annyeonggwa-annyeongeuro/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-ye-joon/annyeonggwa-annyeongeuro"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "lee-ye-joon/oji-aneul-geot-gatdeon-gyejeol"
+duration = "4:10"
+
+[[tracks]]
+position = 3
+song-id = "lee-ye-joon/annyeonggwa-annyeongeuro-inst"
+duration = "3:54"
+
+[[tracks]]
+position = 4
+song-id = "lee-ye-joon/oji-aneul-geot-gatdeon-gyejeol-inst"
+duration = "4:10"
