@@ -1,0 +1,13 @@
+medium-ids = [
+  "oh-so-yeon/neorang-narang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-so-yeon/neorang-narang-feat-mingi"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "oh-so-yeon/neorang-narang-inst"
+duration = "3:34"
