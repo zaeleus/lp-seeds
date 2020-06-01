@@ -1,0 +1,16 @@
+artist-id = "with-woollim"
+kind = "single"
+
+names = [
+  { name = "이어달리기", locale = "ko", original = true },
+  { name = "Ieodalligi", locale = "ko-Latn", default = true },
+  { name = "Relay", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-05-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10437381" },
+]

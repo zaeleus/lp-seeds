@@ -1,0 +1,5 @@
+names = [
+  { name = "이어달리기 (Sung by 김성규 (인피니트) & 러블리즈 & 골든차일드 & 로켓펀치 & Woollim Rookie (차준호, 황윤성, 김동윤, 주창욱, 이협, 김민서))", locale = "ko", original = true },
+  { name = "Ieodalligi (Sung by Kim Sung Kyu (Infinite) & Lovelyz & Golden Child & Rocket Punch & Woollim Rookie (Cha Jun Ho, Hwang Yun Seong, Kim Dong Yun, Joo Chag Uk, Lee Hyeop, Kim Min Seo))", locale = "ko-Latn", default = true },
+  { name = "Relay (Sung by Kim Sung Kyu (Infinite) & Lovelyz & Golden Child & Rocket Punch & Woollim Rookie (Cha Jun Ho, Hwang Yun Seong, Kim Dong Yun, Joo Chag Uk, Lee Hyeop, Kim Min Seo))", locale = "en" },
+]
