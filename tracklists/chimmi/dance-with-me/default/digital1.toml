@@ -1,0 +1,23 @@
+medium-ids = [
+  "chimmi/dance-with-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "chimmi/i-like-it"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "chimmi/i-don-t-want-no-champagne"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "chimmi/neo-eopsin-andwae"
+duration = "3:16"
+
+[[tracks]]
+position = 5
+song-id = "chimmi/seoroege-gakkai"
+duration = "3:43"
