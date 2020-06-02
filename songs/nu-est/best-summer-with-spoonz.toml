@@ -1,0 +1,3 @@
+names = [
+  { name = "Best Summer (with Spoonz)", locale = "ko", original = true, default = true },
+]
