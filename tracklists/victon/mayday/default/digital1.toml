@@ -1,0 +1,13 @@
+medium-ids = [
+  "victon/mayday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "victon/mayday"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "victon/mayday-inst"
+duration = "3:13"
