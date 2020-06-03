@@ -1,0 +1,13 @@
+medium-ids = [
+  "kwon-jin-ah/oh-my-baby-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kwon-jin-ah/byeolcheoreom"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "kwon-jin-ah/byeolcheoreom-inst"
+duration = "3:59"
