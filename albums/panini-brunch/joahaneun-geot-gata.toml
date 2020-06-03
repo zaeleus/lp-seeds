@@ -1,0 +1,15 @@
+artist-id = "panini-brunch"
+kind = "single"
+
+names = [
+  { name = "좋아하는 것 같아", locale = "ko", original = true },
+  { name = "Joahaneun Geot Gata", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-06-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10438326" },
+]

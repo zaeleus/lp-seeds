@@ -1,0 +1,13 @@
+medium-ids = [
+  "panini-brunch/joahaneun-geot-gata/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "panini-brunch/joahaneun-geot-gata"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "panini-brunch/joahaneun-geot-gata-inst"
+duration = "3:39"
