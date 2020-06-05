@@ -1,0 +1,13 @@
+medium-ids = [
+  "pharmacy/modern/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pharmacy/modern"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "pharmacy/modern-inst"
+duration = "3:18"
