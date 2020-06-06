@@ -1,0 +1,23 @@
+medium-ids = [
+  "yuri/arirangkkot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yuri/arirangkkot-intro"
+duration = "0:35"
+
+[[tracks]]
+position = 2
+song-id = "yuri/arirangkkot"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "yuri/arirangkkot-original-ver"
+duration = "3:53"
+
+[[tracks]]
+position = 4
+song-id = "yuri/arirangkkot-inst"
+duration = "3:53"
