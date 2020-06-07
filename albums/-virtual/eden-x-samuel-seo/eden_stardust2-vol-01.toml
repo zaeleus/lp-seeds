@@ -1,0 +1,19 @@
+artist-id = "-virtual/eden-x-samuel-seo"
+kind = "single"
+
+names = [
+  { name = "EDEN_STARDUST2 vol.01", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "eden", separator = " x " },
+  { artist-id = "samuel-seo" },
+]
+
+[[releases]]
+released-on = "2020-06-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10438439" },
+]
