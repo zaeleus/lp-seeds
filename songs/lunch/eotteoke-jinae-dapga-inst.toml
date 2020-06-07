@@ -1,0 +1,5 @@
+names = [
+  { name = "어떻게 지내 (답가) (Inst.)", locale = "ko", original = true },
+  { name = "Eotteoke Jinae (Dapga) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "I Don't Need You (Inst.)", locale = "en" },
+]

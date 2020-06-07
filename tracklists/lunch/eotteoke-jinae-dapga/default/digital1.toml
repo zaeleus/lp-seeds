@@ -1,0 +1,13 @@
+medium-ids = [
+  "lunch/eotteoke-jinae-dapga/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lunch/eotteoke-jinae-dapga"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "lunch/eotteoke-jinae-dapga-inst"
+duration = "3:51"
