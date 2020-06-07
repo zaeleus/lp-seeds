@@ -1,0 +1,13 @@
+medium-ids = [
+  "joo-ye-in/gimakhin-yusan-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "joo-ye-in/saranghanda-deo-saranghanda"
+duration = "4:34"
+
+[[tracks]]
+position = 2
+song-id = "joo-ye-in/saranghanda-deo-saranghanda-inst"
+duration = "4:34"
