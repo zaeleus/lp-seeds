@@ -1,0 +1,5 @@
+names = [
+  { name = "부산에 가면 (Way to Busan)", locale = "ko", original = true },
+  { name = "Busane Gamyeon (Way to Busan)", locale = "ko-Latn", default = true },
+  { name = "Way to Busan", locale = "en" },
+]

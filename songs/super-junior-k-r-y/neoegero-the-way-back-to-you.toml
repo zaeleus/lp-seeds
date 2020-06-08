@@ -1,0 +1,5 @@
+names = [
+  { name = "너에게로 (The Way Back to You)", locale = "ko", original = true },
+  { name = "Neoegero (The Way Back to You)", locale = "ko-Latn", default = true },
+  { name = "The Way Back to You", locale = "en" },
+]

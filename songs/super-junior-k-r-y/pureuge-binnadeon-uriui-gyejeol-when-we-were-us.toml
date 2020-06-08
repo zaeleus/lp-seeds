@@ -1,0 +1,5 @@
+names = [
+  { name = "푸르게 빛나던 우리의 계절 (When We Were Us)", locale = "ko", original = true },
+  { name = "Pureuge Binnadeon Uriui Gyejeol (When We Were Us)", locale = "ko-Latn", default = true },
+  { name = "When We Were Us", locale = "en" },
+]

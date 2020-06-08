@@ -1,0 +1,5 @@
+names = [
+  { name = "별의 동화 (Midnight Story)", locale = "ko", original = true },
+  { name = "Byeorui Donghwa (Midnight Story)", locale = "ko-Latn", default = true },
+  { name = "Midnight Story", locale = "en" },
+]
