@@ -1,0 +1,13 @@
+medium-ids = [
+  "bb/your-eyes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bb/your-eyes"
+duration = "2:59"
+
+[[tracks]]
+position = 2
+song-id = "bb/jibe-itgetjiman"
+duration = "3:12"
