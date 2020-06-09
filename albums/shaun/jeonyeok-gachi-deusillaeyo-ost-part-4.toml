@@ -1,0 +1,16 @@
+artist-id = "shaun"
+kind = "single"
+
+names = [
+  { name = "저녁 같이 드실래요 OST Part.4", locale = "ko", original = true },
+  { name = "Jeonyeok Gachi Deusillaeyo OST Part.4", locale = "ko-Latn", default = true },
+  { name = "Dinner Mate OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-06-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10440859" },
+]

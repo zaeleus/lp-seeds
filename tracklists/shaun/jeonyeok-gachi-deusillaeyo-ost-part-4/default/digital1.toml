@@ -1,0 +1,13 @@
+medium-ids = [
+  "shaun/jeonyeok-gachi-deusillaeyo-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shaun/saranghandaneun-malloneun"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "shaun/saranghandaneun-malloneun-inst"
+duration = "3:16"
