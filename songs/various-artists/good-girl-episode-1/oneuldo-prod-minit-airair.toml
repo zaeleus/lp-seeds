@@ -1,0 +1,9 @@
+names = [
+  { name = "오늘도 (Prod. Minit, AIRAIR)", locale = "ko", original = true },
+  { name = "Oneuldo (Prod. Minit, AIRAIR)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "han-yo-han", separator = ", " },
+  { artist-id = "swings" },
+]

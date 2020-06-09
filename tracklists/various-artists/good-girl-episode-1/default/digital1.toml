@@ -1,0 +1,28 @@
+medium-ids = [
+  "various-artists/good-girl-episode-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "various-artists/good-girl-episode-1/colors"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "various-artists/good-girl-episode-1/demons-prod-saewoo"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "various-artists/good-girl-episode-1/naneun-iyeongji"
+duration = "3:03"
+
+[[tracks]]
+position = 4
+song-id = "various-artists/good-girl-episode-1/turl"
+duration = "3:14"
+
+[[tracks]]
+position = 5
+song-id = "various-artists/good-girl-episode-1/oneuldo-prod-minit-airair"
+duration = "2:58"

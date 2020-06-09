@@ -1,0 +1,8 @@
+names = [
+  { name = "나는 이영지", locale = "ko", original = true },
+  { name = "Naneun Iyeongji", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "lee-young-ji" },
+]

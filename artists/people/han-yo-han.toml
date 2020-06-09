@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1991-12-03"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "한요한", locale = "ko", kind = "real", original = true },
+  { name = "Han Yo Han", locale = "ko-Latn", kind = "real", default = true },
+]

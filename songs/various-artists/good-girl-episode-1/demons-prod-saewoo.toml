@@ -1,0 +1,8 @@
+names = [
+  { name = "Demons (Prod. sAewoo)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "jhnovr", separator = ", " },
+  { artist-id = "lil-tachi" },
+]

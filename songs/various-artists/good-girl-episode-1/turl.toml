@@ -1,0 +1,9 @@
+names = [
+  { name = "털어 (TURL)", locale = "ko", original = true },
+  { name = "TURL", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "girls-generation/hyoyeon", separator = ", " },
+  { artist-id = "cheetah" },
+]

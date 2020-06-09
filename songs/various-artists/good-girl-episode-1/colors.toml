@@ -1,0 +1,18 @@
+names = [
+  { name = "Colors", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "yunhway"
+separator = ", "
+
+[[artist-credits]]
+artist-id = "15and/jimin"
+names = [
+  { name = "제이미", locale = "ko", original = true },
+  { name = "Jamie", locale = "en", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "sleeq"
