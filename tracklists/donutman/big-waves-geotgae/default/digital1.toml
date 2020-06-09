@@ -1,0 +1,13 @@
+medium-ids = [
+  "donutman/big-waves-geotgae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "donutman/big-waves"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "donutman/geotgae-feat-brown-tigger-ahwu-prod-by-neulbo"
+duration = "3:28"
