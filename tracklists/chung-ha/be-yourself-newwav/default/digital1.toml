@@ -1,0 +1,8 @@
+medium-ids = [
+  "chung-ha/be-yourself-newwav/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "chung-ha/be-yourself"
+duration = "3:26"
