@@ -1,0 +1,13 @@
+medium-ids = [
+  "bumkey/aneun-geon-byeollo-eopjiman-gajogimnida-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bumkey/gajogimnida"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "bumkey/gajogimnida-inst"
+duration = "3:24"
