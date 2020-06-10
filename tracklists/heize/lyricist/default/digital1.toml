@@ -1,0 +1,28 @@
+medium-ids = [
+  "heize/lyricist/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heize/jaksaga"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "heize/iri-neomu-jal-dwae"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "heize/neoui-ireumeun-feat-ash-island"
+duration = "4:03"
+
+[[tracks]]
+position = 4
+song-id = "heize/1-1440-feat-ji-chanel"
+duration = "3:05"
+
+[[tracks]]
+position = 5
+song-id = "heize/not-to-see-you-again"
+duration = "1:13"

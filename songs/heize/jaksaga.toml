@@ -1,0 +1,5 @@
+names = [
+  { name = "작사가", locale = "ko", original = true },
+  { name = "Jaksaga", locale = "ko-Latn", default = true },
+  { name = "Lyricist", locale = "en" },
+]
