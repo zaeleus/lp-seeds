@@ -1,0 +1,13 @@
+medium-ids = [
+  "ben/ssanggappocha-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/i-ll-be"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "ben/i-ll-be-inst"
+duration = "4:00"
