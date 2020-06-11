@@ -1,0 +1,28 @@
+medium-ids = [
+  "momoland/starry-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "momoland/starry-night"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "momoland/pinky-love"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "momoland/jjirit-jjirit"
+duration = "3:01"
+
+[[tracks]]
+position = 4
+song-id = "momoland/starry-night-eng-ver"
+duration = "3:12"
+
+[[tracks]]
+position = 5
+song-id = "momoland/starry-night-inst"
+duration = "3:12"
