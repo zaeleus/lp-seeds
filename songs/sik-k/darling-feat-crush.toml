@@ -1,0 +1,4 @@
+names = [
+  { name = "달링 (DARLING) (Feat. 크러쉬)", locale = "ko", original = true },
+  { name = "DARLING (Feat. Crush)", locale = "en", default = true },
+]

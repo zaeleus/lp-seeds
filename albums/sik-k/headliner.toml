@@ -1,0 +1,14 @@
+artist-id = "sik-k"
+kind = "lp"
+
+names = [
+  { name = "HEADLINER", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-06-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10443312" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "ADDY (어디) (Feat. MOON)", locale = "ko", original = true },
+  { name = "ADDY (Feat. MOON)", locale = "en", default = true },
+]
