@@ -1,0 +1,13 @@
+medium-ids = [
+  "bbahn/wiheomhan-yaksok-ost-part-13/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bbahn/geudae-saranghaeyo"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "bbahn/geudae-saranghaeyo-inst"
+duration = "3:16"
