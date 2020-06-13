@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1988-01-15"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "준케이", locale = "ko", kind = "stage", original = true },
+  { name = "JUN. K", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김민준", locale = "ko", kind = "real" },
+  { name = "Kim Min Jun", locale = "ko-Latn", kind = "real" },
+]
