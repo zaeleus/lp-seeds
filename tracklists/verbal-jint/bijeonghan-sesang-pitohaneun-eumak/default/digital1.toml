@@ -1,0 +1,18 @@
+medium-ids = [
+  "verbal-jint/bijeonghan-sesang-pitohaneun-eumak/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "verbal-jint/bijeonghan-sesang-pitohaneun-eumak-feat-mommy-son"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "verbal-jint/geumjeonuneul-bureuneun-eumak"
+duration = "2:32"
+
+[[tracks]]
+position = 3
+song-id = "verbal-jint/bijeonghan-sesang-pitohaneun-eumak-inst"
+duration = "3:48"
