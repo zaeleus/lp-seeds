@@ -1,0 +1,15 @@
+artist-id = "iz-one"
+kind = "ep"
+
+names = [
+  { name = "Oneiric Diary (幻想日記)", locale = "ko", original = true },
+  { name = "Oneiric Diary", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-06-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10444798" },
+]
