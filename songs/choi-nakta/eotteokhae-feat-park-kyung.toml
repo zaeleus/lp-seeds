@@ -1,0 +1,4 @@
+names = [
+  { name = "어떡해 (feat. 박경)", locale = "ko", original = true },
+  { name = "Eotteokhae (Feat. Park Kyung)", locale = "ko-Latn", default = true },
+]

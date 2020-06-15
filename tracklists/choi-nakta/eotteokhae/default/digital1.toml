@@ -1,0 +1,8 @@
+medium-ids = [
+  "choi-nakta/eotteokhae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "choi-nakta/eotteokhae-feat-park-kyung"
+duration = "3:21"
