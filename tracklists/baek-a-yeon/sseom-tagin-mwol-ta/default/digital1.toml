@@ -1,0 +1,13 @@
+medium-ids = [
+  "baek-a-yeon/sseom-tagin-mwol-ta/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "baek-a-yeon/sseom-tagin-mwol-ta"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "baek-a-yeon/sseom-tagin-mwol-ta-inst"
+duration = "3:43"
