@@ -1,0 +1,14 @@
+artist-id = "nilo"
+kind = "ep"
+
+names = [
+  { name = "About Me", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-06-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10444713" },
+]

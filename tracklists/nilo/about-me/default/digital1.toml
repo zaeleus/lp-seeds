@@ -1,0 +1,33 @@
+medium-ids = [
+  "nilo/about-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nilo/gatasseumyeon"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "nilo/almyeonseo"
+duration = "3:57"
+
+[[tracks]]
+position = 3
+song-id = "nilo/biga-naerinda"
+duration = "4:01"
+
+[[tracks]]
+position = 4
+song-id = "nilo/yunseul-interlude"
+duration = "0:51"
+
+[[tracks]]
+position = 5
+song-id = "nilo/gyeot"
+duration = "4:37"
+
+[[tracks]]
+position = 6
+song-id = "nilo/biga-naerinda-inst"
+duration = "4:01"
