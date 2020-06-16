@@ -1,0 +1,4 @@
+names = [
+  { name = "미치지않고서는 (Vocal by 이진우)", locale = "ko", original = true },
+  { name = "Michijiankoseoneun (Vocal by Lee Jin Woo)", locale = "ko-Latn", default = true },
+]
