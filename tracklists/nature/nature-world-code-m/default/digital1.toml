@@ -1,0 +1,18 @@
+medium-ids = [
+  "nature/nature-world-code-m/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nature/eorinae-girls"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "nature/dive"
+duration = "3:08"
+
+[[tracks]]
+position = 3
+song-id = "nature/b-b-b-never-say-good-bye"
+duration = "2:50"
