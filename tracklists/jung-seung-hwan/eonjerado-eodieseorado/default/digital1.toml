@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-seung-hwan/eonjerado-eodieseorado/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-seung-hwan/eonjerado-eodieseorado"
+duration = "4:06"
+
+[[tracks]]
+position = 2
+song-id = "jung-seung-hwan/eonjerado-eodieseorado-inst"
+duration = "4:06"
