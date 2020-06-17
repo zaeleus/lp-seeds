@@ -1,0 +1,4 @@
+names = [
+  { name = "오래된 영화", locale = "ko", original = true },
+  { name = "Oraedoen Yeonghwa", locale = "ko-Latn", default = true },
+]

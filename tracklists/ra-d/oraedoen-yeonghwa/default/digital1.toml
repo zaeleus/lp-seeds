@@ -1,0 +1,13 @@
+medium-ids = [
+  "ra-d/oraedoen-yeonghwa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ra-d/oraedoen-yeonghwa"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "ra-d/oraedoen-yeonghwa-inst"
+duration = "3:12"

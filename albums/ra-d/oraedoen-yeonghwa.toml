@@ -1,0 +1,15 @@
+artist-id = "ra-d"
+kind = "single"
+
+names = [
+  { name = "오래된 영화", locale = "ko", original = true },
+  { name = "Oraedoen Yeonghwa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-06-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10445934" },
+]
