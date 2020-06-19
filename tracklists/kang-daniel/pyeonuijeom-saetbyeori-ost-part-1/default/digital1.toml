@@ -1,0 +1,13 @@
+medium-ids = [
+  "kang-daniel/pyeonuijeom-saetbyeori-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kang-daniel/something"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "kang-daniel/something-inst"
+duration = "3:21"
