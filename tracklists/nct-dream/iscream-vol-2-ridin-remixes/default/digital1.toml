@@ -1,0 +1,18 @@
+medium-ids = [
+  "nct-dream/iscream-vol-2-ridin-remixes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nct-dream/ridin-will-not-fear-remix"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "nct-dream/ridin-imlay-remix"
+duration = "3:35"
+
+[[tracks]]
+position = 3
+song-id = "nct-dream/boom-minit-remix-bonus-track"
+duration = "3:18"
