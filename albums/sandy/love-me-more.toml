@@ -1,0 +1,14 @@
+artist-id = "sandy"
+kind = "single"
+
+names = [
+  { name = "Love Me More", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-06-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10446921" },
+]

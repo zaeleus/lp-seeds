@@ -1,0 +1,13 @@
+medium-ids = [
+  "sandy/love-me-more/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sandy/love-me-more"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "sandy/love-me-more-inst"
+duration = "3:14"
