@@ -1,0 +1,5 @@
+names = [
+  { name = "떠날거야 (Feat. Hyangs of 설레게)", locale = "ko", original = true },
+  { name = "Tteonalgeoya (Feat. Hyangs of SRG)", locale = "ko-Latn", default = true },
+  { name = "On the Road (Feat. Hyangs of SRG)", locale = "en" },
+]
