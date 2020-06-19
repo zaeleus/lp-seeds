@@ -1,0 +1,18 @@
+medium-ids = [
+  "junggigo/warm/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "junggigo/warm"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "junggigo/warm-eng-ver"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "junggigo/warm-inst"
+duration = "3:09"
