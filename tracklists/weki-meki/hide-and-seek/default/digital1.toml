@@ -1,0 +1,28 @@
+medium-ids = [
+  "weki-meki/hide-and-seek/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weki-meki/oopsy"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "weki-meki/moya-moya"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "weki-meki/the-paradise"
+duration = "2:57"
+
+[[tracks]]
+position = 4
+song-id = "weki-meki/youniverse"
+duration = "3:41"
+
+[[tracks]]
+position = 5
+song-id = "weki-meki/dazzle-dazzle"
+duration = "3:10"
