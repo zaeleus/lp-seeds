@@ -1,0 +1,5 @@
+names = [
+  { name = "비행기", locale = "ko", original = true },
+  { name = "Bihaenggi", locale = "ko-Latn", default = true },
+  { name = "Airplane", locale = "en" },
+]
