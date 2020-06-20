@@ -1,0 +1,3 @@
+names = [
+  { name = "Merry Go Around (Feat. Don Mills)", locale = "ko", original = true, default = true },
+]

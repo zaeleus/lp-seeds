@@ -1,0 +1,15 @@
+artist-id = "dbo"
+kind = "lp"
+
+names = [
+  { name = "심현보", locale = "ko", original = true },
+  { name = "Shim Hyun Bo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-06-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10446362" },
+]
