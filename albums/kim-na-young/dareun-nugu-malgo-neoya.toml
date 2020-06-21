@@ -1,0 +1,15 @@
+artist-id = "kim-na-young"
+kind = "single"
+
+names = [
+  { name = "다른 누구 말고 너야", locale = "ko", original = true },
+  { name = "Dareun Nugu Malgo Neoya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-06-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10447689" },
+]
