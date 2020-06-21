@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "롤링쿼츠", locale = "ko", original = true },
+  { name = "Rolling Quartz", locale = "en", default = true },
+]

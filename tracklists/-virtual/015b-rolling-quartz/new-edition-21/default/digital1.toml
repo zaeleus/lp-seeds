@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/015b-rolling-quartz/new-edition-21/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/015b-rolling-quartz/random"
+duration = "4:36"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/015b-rolling-quartz/random-inst"
+duration = "4:34"
