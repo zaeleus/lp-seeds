@@ -1,0 +1,13 @@
+medium-ids = [
+  "heize/saikojiman-gwaenchana-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heize/you-re-cold-deo-mani-saranghan-jjogi-apeudae"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "heize/you-re-cold-deo-mani-saranghan-jjogi-apeudae-inst"
+duration = "3:55"

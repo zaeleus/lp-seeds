@@ -1,0 +1,5 @@
+names = [
+  { name = "You're Cold (더 많이 사랑한 쪽이 아프대)", locale = "ko", original = true },
+  { name = "You're Cold (Deo Mani Saranghan Jjogi Apeudae)", locale = "ko-Latn", default = true },
+  { name = "You're Cold", locale = "en" },
+]
