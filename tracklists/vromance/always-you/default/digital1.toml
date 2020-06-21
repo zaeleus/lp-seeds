@@ -1,0 +1,13 @@
+medium-ids = [
+  "vromance/always-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vromance/always-you"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "vromance/always-you-inst"
+duration = "3:30"
