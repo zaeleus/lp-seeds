@@ -1,0 +1,13 @@
+medium-ids = [
+  "jihee/geu-sijeol-uri/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jihee/geu-sijeol-uri"
+duration = "4:22"
+
+[[tracks]]
+position = 2
+song-id = "jihee/geu-sijeol-uri-inst"
+duration = "4:22"
