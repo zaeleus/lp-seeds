@@ -4,9 +4,9 @@ country = "KR"
 
 names = [
   { name = "예은", locale = "ko", kind = "stage", original = true },
-  { name = "Yee Eun", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Yeeun", locale = "ko-Latn", kind = "stage", default = true },
   { name = "장예은", locale = "ko", kind = "real" },
-  { name = "Jang Yee Eun", locale = "ko-Latn", kind = "real" },
+  { name = "Jang Ye Eun", locale = "ko-Latn", kind = "real" },
 ]
 
 [metadata]

@@ -12,7 +12,7 @@ members = [
   { artist-id = "clc/sorn" },
   { artist-id = "clc/yu-jin" },
   { artist-id = "clc/seung-yeon" },
-  { artist-id = "clc/yee-eun" },
+  { artist-id = "clc/yeeun" },
   { artist-id = "clc/elkie", started-on = "2016-02" },
   { artist-id = "clc/eun-bin", started-on = "2016-02" },
 ]
