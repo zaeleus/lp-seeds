@@ -1,0 +1,8 @@
+names = [
+  { name = "머니 세레나데 (Feat. 원슈타인, 김승민)", locale = "ko", original = true },
+  { name = "Money Serenade (Feat. Wonstein, Kim Seung Min)", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "mommy-son" },
+]

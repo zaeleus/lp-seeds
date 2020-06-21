@@ -1,0 +1,18 @@
+medium-ids = [
+  "various-artists/good-girl-episode-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "various-artists/good-girl-episode-3/witch-manyeosanyang"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "various-artists/good-girl-episode-3/money-serenade-feat-wonstein-kim-seung-min"
+duration = "3:41"
+
+[[tracks]]
+position = 3
+song-id = "various-artists/good-girl-episode-3/barbie"
+duration = "3:32"

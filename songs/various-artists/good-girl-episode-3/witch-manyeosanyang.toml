@@ -1,0 +1,36 @@
+names = [
+  { name = "WITCH (마녀사냥)", locale = "ko", original = true },
+  { name = "WITCH (Manyeosanyang)", locale = "ko-Latn", default = true },
+  { name = "WITCH", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "clc/yeeun"
+separator = ", "
+
+[[artist-credits]]
+artist-id = "kard/ji-woo"
+names = [
+  { name = "전지우", locale = "ko", kind = "real" },
+  { name = "Jeon Ji Woo", locale = "ko-Latn", kind = "real" },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "15and/jimin"
+names = [
+  { name = "제이미", locale = "ko", original = true },
+  { name = "Jamie", locale = "en", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "cheetah"
+separator = ", "
+
+[[artist-credits]]
+artist-id = "girls-generation/hyoyeon"
+names = [
+  { name = "효연", locale = "ko", original = true },
+  { name = "HYOYEON", locale = "ko-Latn", default = true },
+]
