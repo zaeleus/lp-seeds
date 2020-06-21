@@ -1,0 +1,14 @@
+artist-id = "d1ce"
+kind = "ep"
+
+names = [
+  { name = "DRAW YOU: REMEMBER ME", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-06-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10446112" },
+]

@@ -1,0 +1,33 @@
+medium-ids = [
+  "d1ce/draw-you-remember-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "d1ce/intro"
+duration = "1:05"
+
+[[tracks]]
+position = 2
+song-id = "d1ce/neoreul-geurinda"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "d1ce/remember"
+duration = "4:06"
+
+[[tracks]]
+position = 4
+song-id = "d1ce/another-one"
+duration = "3:14"
+
+[[tracks]]
+position = 5
+song-id = "d1ce/bichi-doelge-acoustic-ver"
+duration = "3:18"
+
+[[tracks]]
+position = 6
+song-id = "d1ce/neoreul-geurinda-inst"
+duration = "3:21"

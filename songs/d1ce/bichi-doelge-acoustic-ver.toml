@@ -1,0 +1,4 @@
+names = [
+  { name = "빛이 될게 (Acoustic Ver.)", locale = "ko", original = true },
+  { name = "Bichi Doelge (Acoustic Ver.)", locale = "ko-Latn", default = true },
+]
