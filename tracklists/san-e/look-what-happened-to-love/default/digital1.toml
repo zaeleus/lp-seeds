@@ -1,0 +1,38 @@
+medium-ids = [
+  "san-e/look-what-happened-to-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "san-e/daydreaming"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "san-e/sarammaeum-feat-girlfrend"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "san-e/jacuzzi-feat-be-o"
+duration = "2:25"
+
+[[tracks]]
+position = 4
+song-id = "san-e/gyeolhonsaenggak-feat-cosmic-girl"
+duration = "2:27"
+
+[[tracks]]
+position = 5
+song-id = "san-e/heeojigo-baro-sseun-norae-feat-errday"
+duration = "2:18"
+
+[[tracks]]
+position = 6
+song-id = "san-e/i-m-such-an-asshole"
+duration = "2:15"
+
+[[tracks]]
+position = 7
+song-id = "san-e/gyeolhonsaenggak-inst"
+duration = "2:27"

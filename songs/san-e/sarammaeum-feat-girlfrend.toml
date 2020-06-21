@@ -1,0 +1,4 @@
+names = [
+  { name = "사람마음 (Feat. GirlFrenD)", locale = "ko", original = true },
+  { name = "Sarammaeum (Feat. GirlFrenD)", locale = "ko-Latn", default = true },
+]

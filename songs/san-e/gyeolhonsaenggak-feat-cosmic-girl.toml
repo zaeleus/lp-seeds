@@ -1,0 +1,4 @@
+names = [
+  { name = "결혼생각 (Feat. 코스믹 걸 (Cosmic Girl))", locale = "ko", original = true },
+  { name = "Gyeolhonsaenggak (Feat. Cosmic Girl)", locale = "ko-Latn", default = true },
+]
