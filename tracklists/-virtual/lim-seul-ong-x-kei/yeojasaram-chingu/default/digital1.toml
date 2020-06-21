@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/lim-seul-ong-x-kei/yeojasaram-chingu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/lim-seul-ong-x-kei/yeojasaram-chingu"
+duration = "4:16"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/lim-seul-ong-x-kei/yeojasaram-chingu-inst"
+duration = "4:16"

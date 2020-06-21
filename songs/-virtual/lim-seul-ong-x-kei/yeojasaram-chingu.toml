@@ -1,0 +1,9 @@
+names = [
+  { name = "여자사람 친구", locale = "ko", original = true },
+  { name = "Yeojasaram Chingu", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "2am/lim-seul-ong", separator = " X " },
+  { artist-id = "lovelyz/kim-ji-yeon" },
+]
