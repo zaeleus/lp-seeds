@@ -1,0 +1,13 @@
+medium-ids = [
+  "urban-zakapa/jo-hyun-ah/ssanggappocha-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "urban-zakapa/jo-hyun-ah/uriga-hamkkehaetdeon-naldeul"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "urban-zakapa/jo-hyun-ah/uriga-hamkkehaetdeon-naldeul-inst"
+duration = "3:45"

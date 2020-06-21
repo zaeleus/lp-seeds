@@ -1,0 +1,16 @@
+artist-id = "urban-zakapa/jo-hyun-ah"
+kind = "single"
+
+names = [
+  { name = "쌍갑포차 OST Part.4", locale = "ko", original = true },
+  { name = "Ssanggappocha OST Part.4", locale = "ko-Latn", default = true },
+  { name = "Mystic Pop-up Bar OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-06-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10446852" },
+]
