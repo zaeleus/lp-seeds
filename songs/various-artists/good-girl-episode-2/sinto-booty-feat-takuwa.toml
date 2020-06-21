@@ -1,0 +1,8 @@
+names = [
+  { name = "신토bOOty (Feat. TAKUWA)", locale = "ko", original = true },
+  { name = "Sinto-bOOty (Feat. TAKUWA)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "queen-wasabii" },
+]

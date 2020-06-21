@@ -1,0 +1,8 @@
+names = [
+  { name = "Don't Cry For Me", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "ailee", separator = ", " },
+  { artist-id = "sleeq" },
+]

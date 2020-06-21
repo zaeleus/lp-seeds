@@ -1,0 +1,28 @@
+medium-ids = [
+  "various-artists/good-girl-episode-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "various-artists/good-girl-episode-2/don-t-cry-for-me"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "various-artists/good-girl-episode-2/gray-zone-feat-chillin-homie"
+duration = "2:54"
+
+[[tracks]]
+position = 3
+song-id = "various-artists/good-girl-episode-2/sinto-booty-feat-takuwa"
+duration = "2:49"
+
+[[tracks]]
+position = 4
+song-id = "various-artists/good-girl-episode-2/one-more-night"
+duration = "2:45"
+
+[[tracks]]
+position = 5
+song-id = "various-artists/good-girl-episode-2/9lives"
+duration = "3:24"

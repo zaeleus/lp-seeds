@@ -1,0 +1,9 @@
+kind = "person"
+# started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "퀸 와사비", locale = "ko", kind = "stage", original = true },
+  { name = "Queen WA$ABII", locale = "en", kind = "stage", default = true },
+]
