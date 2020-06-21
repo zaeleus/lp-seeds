@@ -1,0 +1,5 @@
+names = [
+  { name = "마지막 무대 (Last Song)", locale = "ko", original = true },
+  { name = "Majimak Mudae (Last Song)", locale = "ko-Latn", default = true },
+  { name = "Last Song", locale = "en" },
+]
