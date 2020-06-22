@@ -1,0 +1,33 @@
+medium-ids = [
+  "seventeen/heng-garae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seventeen/fearless"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "seventeen/left-right"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "seventeen/joketda"
+duration = "3:54"
+
+[[tracks]]
+position = 4
+song-id = "seventeen/my-my"
+duration = "3:06"
+
+[[tracks]]
+position = 5
+song-id = "seventeen/eoreun-ai"
+duration = "3:13"
+
+[[tracks]]
+position = 6
+song-id = "seventeen/gachi-gayo"
+duration = "4:05"
