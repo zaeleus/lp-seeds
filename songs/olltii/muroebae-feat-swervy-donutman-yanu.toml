@@ -1,0 +1,4 @@
+names = [
+  { name = "무뢰배 (Feat. 스월비, 도넛맨, 야누)", locale = "ko", original = true },
+  { name = "Muroebae (Feat. Swervy, Donutman, YANU)", locale = "ko-Latn", default = true },
+]

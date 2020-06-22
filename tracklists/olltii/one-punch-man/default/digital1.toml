@@ -1,0 +1,13 @@
+medium-ids = [
+  "olltii/one-punch-man/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "olltii/one-punch-man-feat-dj-drev"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "olltii/muroebae-feat-swervy-donutman-yanu"
+duration = "4:05"
