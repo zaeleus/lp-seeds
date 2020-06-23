@@ -1,0 +1,13 @@
+medium-ids = [
+  "wyne/morae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wyne/pado"
+duration = "2:49"
+
+[[tracks]]
+position = 2
+song-id = "wyne/morae"
+duration = "3:53"
