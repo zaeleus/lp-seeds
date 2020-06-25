@@ -1,0 +1,15 @@
+artist-id = "o-when"
+kind = "ep"
+
+names = [
+  { name = "사랑했던 날부터 이별했던 날까지", locale = "ko", original = true },
+  { name = "Saranghaetdeon Nalbuteo Ibyeolhaetdeon Nalkkaji", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-06-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10449823" },
+]
