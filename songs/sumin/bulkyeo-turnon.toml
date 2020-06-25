@@ -1,0 +1,5 @@
+names = [
+  { name = "불켜 (TURNON)", locale = "ko", original = true },
+  { name = "Bulkyeo (TURNON)", locale = "ko-Latn", default = true },
+  { name = "TURNON", locale = "en" },
+]

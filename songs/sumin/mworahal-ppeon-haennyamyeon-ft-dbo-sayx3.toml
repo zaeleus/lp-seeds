@@ -1,0 +1,4 @@
+names = [
+  { name = "뭐라할 뻔 했냐면 ft. Dbo (SAYx3)", locale = "ko", original = true },
+  { name = "Mworahal Ppeon Haennyamyeon ft. Dbo (SAYx3)", locale = "ko-Latn", default = true },
+]
