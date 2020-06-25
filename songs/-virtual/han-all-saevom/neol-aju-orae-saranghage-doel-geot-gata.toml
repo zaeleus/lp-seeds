@@ -1,0 +1,9 @@
+names = [
+  { name = "널 아주 오래 사랑하게 될 것 같아", locale = "ko", original = true },
+  { name = "Neol Aju Orae Saranghage Doel Geot Gata", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "han-all", separator = ", " },
+  { artist-id = "saevom" },
+]
