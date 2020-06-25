@@ -1,0 +1,13 @@
+medium-ids = [
+  "thama/do-it-for-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "thama/jilleo-feat-choi-lb"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "thama/do-it-for-love-feat-george"
+duration = "3:32"

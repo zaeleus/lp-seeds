@@ -1,0 +1,4 @@
+names = [
+  { name = "질러 (Feat. 최엘비)", locale = "ko", original = true },
+  { name = "Jilleo (Feat. Choi LB)", locale = "ko-Latn", default = true },
+]

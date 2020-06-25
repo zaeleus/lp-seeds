@@ -1,0 +1,4 @@
+names = [
+  { name = "Do It For Love (Feat. 죠지)", locale = "ko", original = true },
+  { name = "Do It For Love (Feat. George)", locale = "ko-Latn", default = true },
+]
