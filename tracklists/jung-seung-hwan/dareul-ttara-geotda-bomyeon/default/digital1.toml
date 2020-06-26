@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-seung-hwan/dareul-ttara-geotda-bomyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-seung-hwan/dareul-ttara-geotda-bomyeon"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "jung-seung-hwan/dareul-ttara-geotda-bomyeon-inst"
+duration = "4:03"
