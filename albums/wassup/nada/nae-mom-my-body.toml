@@ -1,0 +1,15 @@
+artist-id = "wassup/nada"
+kind = "single"
+
+names = [
+  { name = "내 몸 (My Body)", locale = "ko", original = true },
+  { name = "Nae Mom (My Body)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-06-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10450324" },
+]
