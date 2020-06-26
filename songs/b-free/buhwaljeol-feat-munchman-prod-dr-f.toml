@@ -1,0 +1,4 @@
+names = [
+  { name = "부활절 (Feat. 먼치맨) (Prod. DR. F)", locale = "ko", original = true },
+  { name = "Buhwaljeol (Feat. Munchman) (Prod. DR. F)", locale = "ko-Latn", default = true },
+]
