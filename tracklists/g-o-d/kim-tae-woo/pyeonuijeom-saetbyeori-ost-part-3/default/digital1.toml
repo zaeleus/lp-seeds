@@ -1,0 +1,13 @@
+medium-ids = [
+  "g-o-d/kim-tae-woo/pyeonuijeom-saetbyeori-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-o-d/kim-tae-woo/love-ya"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "g-o-d/kim-tae-woo/love-ya-inst"
+duration = "3:06"
