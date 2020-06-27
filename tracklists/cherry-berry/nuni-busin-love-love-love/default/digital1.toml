@@ -1,0 +1,13 @@
+medium-ids = [
+  "cherry-berry/nuni-busin-love-love-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cherry-berry/nuni-busin-love-love-love"
+duration = "2:48"
+
+[[tracks]]
+position = 2
+song-id = "cherry-berry/nuni-busin-love-love-love-inst"
+duration = "2:48"

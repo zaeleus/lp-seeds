@@ -1,0 +1,15 @@
+artist-id = "cherry-berry"
+kind = "single"
+
+names = [
+  { name = "눈이 부신 Love Love Love", locale = "ko", original = true },
+  { name = "Nuni Busin Love Love Love", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-06-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10450487" },
+]
