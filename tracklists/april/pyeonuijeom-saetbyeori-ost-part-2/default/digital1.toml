@@ -1,0 +1,13 @@
+medium-ids = [
+  "april/pyeonuijeom-saetbyeori-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "april/crazy"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "april/crazy-inst"
+duration = "3:49"
