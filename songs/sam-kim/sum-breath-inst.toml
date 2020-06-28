@@ -1,0 +1,5 @@
+names = [
+  { name = "숨 (Breath) (inst.)", locale = "ko", original = true },
+  { name = "Sum (Breath) (inst.)", locale = "ko-Latn", default = true },
+  { name = "Breath (inst.)", locale = "en" },
+]

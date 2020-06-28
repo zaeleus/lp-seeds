@@ -1,0 +1,13 @@
+medium-ids = [
+  "sam-kim/saikojiman-gwaenchana-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sam-kim/sum-breath"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "sam-kim/sum-breath-inst"
+duration = "4:14"
