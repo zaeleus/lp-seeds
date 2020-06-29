@@ -1,0 +1,13 @@
+medium-ids = [
+  "joo-ye-in/yeonaeui-chamgyeon-season-3-ost-part-14/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "joo-ye-in/bamsanchaek"
+duration = "2:55"
+
+[[tracks]]
+position = 2
+song-id = "joo-ye-in/bamsanchaek-inst"
+duration = "2:55"
