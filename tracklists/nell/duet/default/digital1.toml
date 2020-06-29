@@ -1,0 +1,8 @@
+medium-ids = [
+  "nell/duet/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nell/duet"
+duration = "4:31"
