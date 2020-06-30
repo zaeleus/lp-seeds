@@ -1,0 +1,8 @@
+medium-ids = [
+  "babylon/nice-weather/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "babylon/nice-weather-feat-gaho"
+duration = "3:39"
