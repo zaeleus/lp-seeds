@@ -1,0 +1,4 @@
+names = [
+  { name = "동그라미 (Feat. 황예린)", locale = "ko", original = true },
+  { name = "Donggeurami (Feat. Hwang Ye Rin)", locale = "ko-Latn", default = true },
+]

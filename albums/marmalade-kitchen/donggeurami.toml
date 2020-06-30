@@ -1,0 +1,15 @@
+artist-id = "marmalade-kitchen"
+kind = "single"
+
+names = [
+  { name = "동그라미", locale = "ko", original = true },
+  { name = "Donggeurami", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-06-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10452436" },
+]
