@@ -1,0 +1,3 @@
+names = [
+  { name = "Tag Me (@Me)", locale = "ko", original = true, default = true },
+]

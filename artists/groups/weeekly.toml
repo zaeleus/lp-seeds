@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "위클리", locale = "ko", original = true },
+  { name = "Weeekly", locale = "en", default = true },
+]
