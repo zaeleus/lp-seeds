@@ -1,0 +1,13 @@
+medium-ids = [
+  "moon/let-it-flow/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "moon/let-it-flow"
+duration = "4:20"
+
+[[tracks]]
+position = 2
+song-id = "moon/with-you"
+duration = "4:03"
