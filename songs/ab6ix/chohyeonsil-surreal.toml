@@ -1,0 +1,5 @@
+names = [
+  { name = "초현실 (SURREAL)", locale = "ko", original = true },
+  { name = "Chohyeonsil (SURREAL)", locale = "ko-Latn", default = true },
+  { name = "SURREAL", locale = "en" },
+]

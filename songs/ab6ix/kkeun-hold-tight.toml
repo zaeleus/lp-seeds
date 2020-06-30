@@ -1,0 +1,5 @@
+names = [
+  { name = "끈 (HOLD TIGHT)", locale = "ko", original = true },
+  { name = "Kkeun (HOLD TIGHT)", locale = "ko-Latn", default = true },
+  { name = "HOLD TIGHT", locale = "en" },
+]
