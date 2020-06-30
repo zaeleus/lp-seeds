@@ -1,0 +1,44 @@
+medium-ids = [
+  "3ye/triangle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "3ye/dmt-do-ma-thang"
+duration = "2:56"
+names = [
+  { name = "DMT (DO MA THANG)", locale = "ko", original = true, default = true },
+]
+
+[[tracks]]
+position = 2
+song-id = "3ye/oomm-out-of-my-mind"
+duration = "3:22"
+names = [
+  { name = "OOMM (OUT OF MY MIND)", locale = "ko", original = true, default = true },
+]
+
+[[tracks]]
+position = 3
+song-id = "3ye/queen"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "3ye/yessir"
+duration = "3:19"
+
+[[tracks]]
+position = 5
+song-id = "3ye/on-air"
+duration = "2:54"
+
+[[tracks]]
+position = 6
+song-id = "3ye/stay-with-me"
+duration = "3:36"
+
+[[tracks]]
+position = 7
+song-id = "3ye/oomm-out-of-my-mind-remix"
+duration = "2:42"
