@@ -1,0 +1,5 @@
+names = [
+  { name = "만화영화 (Cartoon)", locale = "ko", original = true },
+  { name = "Manhwayeonghwa (Cartoon)", locale = "ko-Latn", default = true },
+  { name = "Cartoon", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "Summer Hate (Feat. 비)", locale = "ko", original = true },
+  { name = "Summer Hate (Feat. Bi)", locale = "ko-Latn" },
+  { name = "Summer Hate (Feat. Rain)", locale = "en", default = true },
+]
