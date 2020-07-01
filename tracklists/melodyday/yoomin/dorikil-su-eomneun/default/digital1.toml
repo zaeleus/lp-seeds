@@ -1,0 +1,13 @@
+medium-ids = [
+  "melodyday/yoomin/dorikil-su-eomneun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melodyday/yoomin/dorikil-su-eomneun"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "melodyday/yoomin/dorikil-su-eomneun-inst"
+duration = "3:55"

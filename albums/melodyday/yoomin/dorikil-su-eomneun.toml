@@ -1,0 +1,15 @@
+artist-id = "melodyday/yoomin"
+kind = "single"
+
+names = [
+  { name = "돌이킬 수 없는", locale = "ko", original = true },
+  { name = "Dorikil Su Eomneun", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10453096" },
+]
