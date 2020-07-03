@@ -1,0 +1,9 @@
+names = [
+  { name = "오래 오래 (ORE ORE)", locale = "ko", original = true },
+  { name = "ORE ORE", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "kirin", separator = " X " },
+  { artist-id = "hoody" },
+]

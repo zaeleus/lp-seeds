@@ -1,0 +1,19 @@
+artist-id = "-virtual/kirin-x-hoody"
+kind = "single"
+
+names = [
+  { name = "ORE ORE", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "kirin", separator = " X " },
+  { artist-id = "hoody" },
+]
+
+[[releases]]
+released-on = "2020-06-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10451916" },
+]

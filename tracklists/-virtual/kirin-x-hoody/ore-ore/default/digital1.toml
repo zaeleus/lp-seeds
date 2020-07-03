@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/kirin-x-hoody/ore-ore/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/kirin-x-hoody/ore-ore"
+duration = "2:33"
