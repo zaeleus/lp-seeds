@@ -1,0 +1,4 @@
+names = [
+  { name = "보라빛 밤 (pporappippam)", locale = "ko", original = true },
+  { name = "pporappippam", locale = "ko-Latn", default = true },
+]
