@@ -1,0 +1,15 @@
+artist-id = "kassy"
+kind = "single"
+
+names = [
+  { name = "똑똑 (TOCK TOCK)", locale = "ko", original = true },
+  { name = "TOCK TOCK", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10454564" },
+]

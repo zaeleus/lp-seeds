@@ -1,0 +1,13 @@
+medium-ids = [
+  "kassy/tock-tock/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/tock-tock"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "kassy/tock-tock-inst"
+duration = "3:34"
