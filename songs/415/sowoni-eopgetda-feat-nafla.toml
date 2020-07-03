@@ -1,0 +1,4 @@
+names = [
+  { name = "소원이 없겠다 (Feat. nafla)", locale = "ko", original = true },
+  { name = "Sowoni Eopgetda (Feat. nafla)", locale = "ko-Latn", default = true },
+]

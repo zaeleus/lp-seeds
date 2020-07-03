@@ -1,0 +1,15 @@
+artist-id = "415"
+kind = "single"
+
+names = [
+  { name = "소원이 없겠다 (Feat. nafla)", locale = "ko", original = true },
+  { name = "Sowoni Eopgetda (Feat. nafla)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10454563" },
+]
