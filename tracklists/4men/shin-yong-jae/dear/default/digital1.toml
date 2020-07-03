@@ -1,0 +1,63 @@
+medium-ids = [
+  "4men/shin-yong-jae/dear/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "4men/shin-yong-jae/intro"
+duration = "1:09"
+
+[[tracks]]
+position = 2
+song-id = "4men/shin-yong-jae/cheot-jul"
+duration = "4:01"
+
+[[tracks]]
+position = 3
+song-id = "4men/shin-yong-jae/julge"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "4men/shin-yong-jae/byeori-onda"
+duration = "3:27"
+
+[[tracks]]
+position = 5
+song-id = "4men/shin-yong-jae/la-la-land"
+duration = "3:41"
+
+[[tracks]]
+position = 6
+song-id = "4men/shin-yong-jae/heorak"
+duration = "3:18"
+
+[[tracks]]
+position = 7
+song-id = "4men/shin-yong-jae/ithyeojijima"
+duration = "3:58"
+
+[[tracks]]
+position = 8
+song-id = "4men/shin-yong-jae/haru-iteul-maeil"
+duration = "3:46"
+
+[[tracks]]
+position = 9
+song-id = "4men/shin-yong-jae/tto-haruga-jinaganda"
+duration = "4:24"
+
+[[tracks]]
+position = 10
+song-id = "4men/shin-yong-jae/bimirui-sup"
+duration = "4:00"
+
+[[tracks]]
+position = 11
+song-id = "4men/shin-yong-jae/cheot-jul-inst"
+duration = "4:01"
+
+[[tracks]]
+position = 12
+song-id = "4men/shin-yong-jae/byeori-onda-inst"
+duration = "3:27"

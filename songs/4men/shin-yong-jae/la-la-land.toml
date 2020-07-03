@@ -1,0 +1,5 @@
+names = [
+  { name = "라라랜드", locale = "ko", original = true },
+  { name = "Rararaendeu", locale = "ko-Latn" },
+  { name = "La La Land", locale = "en", default = true },
+]
