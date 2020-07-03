@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/junoflo-horim/bloom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/junoflo-horim/bloom"
+duration = "2:55"
