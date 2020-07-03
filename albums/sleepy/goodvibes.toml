@@ -1,0 +1,14 @@
+artist-id = "sleepy"
+kind = "single"
+
+names = [
+  { name = "GOODVIBES", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-06-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10452617" },
+]

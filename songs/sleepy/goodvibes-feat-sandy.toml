@@ -1,0 +1,4 @@
+names = [
+  { name = "GOODVIBES (feat. 하선호 (Sandy))", locale = "ko", original = true },
+  { name = "GOODVIBES (feat. Sandy)", locale = "ko-Latn", default = true },
+]
