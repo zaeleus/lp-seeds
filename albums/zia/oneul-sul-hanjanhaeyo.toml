@@ -1,0 +1,15 @@
+artist-id = "zia"
+kind = "single"
+
+names = [
+  { name = "오늘 술 한잔해요", locale = "ko", original = true },
+  { name = "Oneul Sul Hanjanhaeyo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10455283" },
+]

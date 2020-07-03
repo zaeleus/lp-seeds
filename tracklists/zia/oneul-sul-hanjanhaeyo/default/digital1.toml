@@ -1,0 +1,13 @@
+medium-ids = [
+  "zia/oneul-sul-hanjanhaeyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zia/oneul-sul-hanjanhaeyo"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "zia/oneul-sul-hanjanhaeyo-inst"
+duration = "3:27"
