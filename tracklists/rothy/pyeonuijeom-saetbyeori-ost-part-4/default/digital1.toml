@@ -1,0 +1,13 @@
+medium-ids = [
+  "rothy/pyeonuijeom-saetbyeori-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rothy/jami-oji-anneun-bame"
+duration = "4:22"
+
+[[tracks]]
+position = 2
+song-id = "rothy/jami-oji-anneun-bame-inst"
+duration = "4:22"
