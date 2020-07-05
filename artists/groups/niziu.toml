@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2020"
+country = "JP"
+gender = "female"
+
+names = [
+  { name = "NiziU", locale = "ja", original = true, default = true },
+]

@@ -1,0 +1,15 @@
+artist-id = "niziu"
+kind = "single"
+
+names = [
+  { name = "Make you happy", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-06-30"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://mora.jp/package/43000001/4547366464283/" },
+  { url = "https://mora.jp/package/43000001/4547366464290/" },
+]

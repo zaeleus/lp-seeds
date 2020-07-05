@@ -1,0 +1,23 @@
+medium-ids = [
+  "niziu/make-you-happy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "niziu/make-you-happy"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "niziu/baby-i-m-a-star"
+duration = "2:39"
+
+[[tracks]]
+position = 3
+song-id = "niziu/boom-boom-boom"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "niziu/niji-no-mukou-e"
+duration = "3:16"
