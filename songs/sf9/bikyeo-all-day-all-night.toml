@@ -1,0 +1,5 @@
+names = [
+  { name = "비켜 (All Day All Night)", locale = "ko", original = true },
+  { name = "Bikyeo (All Day All Night)", locale = "ko-Latn", default = true },
+  { name = "All Day All Night", locale = "en" },
+]

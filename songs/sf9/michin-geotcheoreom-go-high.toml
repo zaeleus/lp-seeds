@@ -1,0 +1,5 @@
+names = [
+  { name = "미친 것처럼 (Go High)", locale = "ko", original = true },
+  { name = "Michin Geotcheoreom (Go High)", locale = "ko-Latn", default = true },
+  { name = "Go High", locale = "en" },
+]

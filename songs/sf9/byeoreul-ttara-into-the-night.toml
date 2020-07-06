@@ -1,0 +1,5 @@
+names = [
+  { name = "별을 따라 (Into The Night)", locale = "ko", original = true },
+  { name = "Byeoreul Ttara (Into The Night)", locale = "ko-Latn", default = true },
+  { name = "Into The Night", locale = "en" },
+]

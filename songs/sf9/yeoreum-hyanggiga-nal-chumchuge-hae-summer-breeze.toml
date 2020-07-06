@@ -1,0 +1,5 @@
+names = [
+  { name = "여름 향기가 날 춤추게 해 (Summer Breeze)", locale = "ko", original = true },
+  { name = "Yeoreum Hyanggiga Nal Chumchuge Hae (Summer Breeze)", locale = "ko-Latn", default = true },
+  { name = "Summer Breeze", locale = "en" },
+]

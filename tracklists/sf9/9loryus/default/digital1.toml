@@ -1,0 +1,33 @@
+medium-ids = [
+  "sf9/9loryus/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sf9/yeoreum-hyanggiga-nal-chumchuge-hae-summer-breeze"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "sf9/byeoreul-ttara-into-the-night"
+duration = "3:58"
+
+[[tracks]]
+position = 3
+song-id = "sf9/ok-sign"
+duration = "3:06"
+
+[[tracks]]
+position = 4
+song-id = "sf9/bikyeo-all-day-all-night"
+duration = "3:27"
+
+[[tracks]]
+position = 5
+song-id = "sf9/michin-geotcheoreom-go-high"
+duration = "3:12"
+
+[[tracks]]
+position = 6
+song-id = "sf9/my-story-my-song"
+duration = "3:45"
