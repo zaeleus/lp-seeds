@@ -1,0 +1,14 @@
+artist-id = "dongkiz-i-kan"
+kind = "single"
+
+names = [
+  { name = "Y.O.U", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-07-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10456051" },
+]
