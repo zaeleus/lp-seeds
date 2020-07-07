@@ -1,0 +1,13 @@
+medium-ids = [
+  "dongkiz/lupin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dongkiz/lupin"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "dongkiz/lupin-inst"
+duration = "3:00"
