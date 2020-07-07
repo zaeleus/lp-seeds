@@ -1,0 +1,14 @@
+artist-id = "red-velvet-irene-seulgi"
+kind = "ep"
+
+names = [
+  { name = "Monster", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-07-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10456112" },
+]

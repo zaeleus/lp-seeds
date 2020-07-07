@@ -1,0 +1,14 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "레드벨벳-아이린&슬기", locale = "ko", original = true },
+  { name = "Red Velvet - IRENE & SEULGI", locale = "en", default = true },
+]
+
+members = [
+  { artist-id = "red-velvet/irene" },
+  { artist-id = "red-velvet/seulgi" },
+]
