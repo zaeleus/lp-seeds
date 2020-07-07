@@ -1,0 +1,13 @@
+medium-ids = [
+  "eb/i-love-your-dog/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eb/i-love-your-dog"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "eb/i-love-your-dog-inst"
+duration = "2:58"
