@@ -1,0 +1,14 @@
+artist-id = "cix"
+kind = "single"
+
+names = [
+  { name = "WIN -Korean ver.-", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-07-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10456037" },
+]

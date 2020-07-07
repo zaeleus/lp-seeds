@@ -1,0 +1,3 @@
+names = [
+  { name = "WIN -Korean ver.-", locale = "ko", original = true, default = true },
+]
