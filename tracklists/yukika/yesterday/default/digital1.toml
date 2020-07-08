@@ -1,0 +1,8 @@
+medium-ids = [
+  "yukika/yesterday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yukika/yesterday"
+duration = "3:43"
