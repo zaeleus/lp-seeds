@@ -1,0 +1,15 @@
+artist-id = "jang-hee-won"
+kind = "single"
+
+names = [
+  { name = "한강, 지하철", locale = "ko", original = true },
+  { name = "Hangang, Jihacheol", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10457071" },
+]
