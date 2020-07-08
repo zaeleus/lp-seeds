@@ -1,0 +1,13 @@
+medium-ids = [
+  "dreamcatcher/siyeon/chulsapyo-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dreamcatcher/siyeon/good-sera"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "dreamcatcher/siyeon/good-sera-inst"
+duration = "3:31"
