@@ -1,0 +1,9 @@
+names = [
+  { name = "가식", locale = "ko", original = true },
+  { name = "Gasik", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "none", separator = ", " },
+  { artist-id = "bumkey" },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/none-bumkey/gasik/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/none-bumkey/gasik"
+duration = "3:34"
