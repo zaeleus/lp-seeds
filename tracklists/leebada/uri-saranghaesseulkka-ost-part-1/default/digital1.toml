@@ -1,0 +1,13 @@
+medium-ids = [
+  "leebada/uri-saranghaesseulkka-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leebada/dreams"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "leebada/dreams-inst"
+duration = "3:37"
