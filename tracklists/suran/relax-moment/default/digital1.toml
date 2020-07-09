@@ -1,0 +1,13 @@
+medium-ids = [
+  "suran/relax-moment/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "suran/relax-moment"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "suran/relax-moment-inst"
+duration = "3:29"
