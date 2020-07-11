@@ -1,0 +1,8 @@
+names = [
+  { name = "Call It Love", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "risso", separator = ", " },
+  { artist-id = "bnjx" },
+]

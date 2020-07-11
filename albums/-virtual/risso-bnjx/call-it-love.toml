@@ -1,0 +1,19 @@
+artist-id = "-virtual/risso-bnjx"
+kind = "single"
+
+names = [
+  { name = "Call It Love", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "risso", separator = ", " },
+  { artist-id = "bnjx" },
+]
+
+[[releases]]
+released-on = "2020-07-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10458847" },
+]
