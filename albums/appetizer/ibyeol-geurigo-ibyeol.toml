@@ -1,0 +1,15 @@
+artist-id = "appetizer"
+kind = "single"
+
+names = [
+  { name = "이별 그리고 이별", locale = "ko", original = true },
+  { name = "Ibyeol Geurigo Ibyeol", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10458066" },
+]

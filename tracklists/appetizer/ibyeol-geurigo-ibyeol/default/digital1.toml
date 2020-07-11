@@ -1,0 +1,13 @@
+medium-ids = [
+  "appetizer/ibyeol-geurigo-ibyeol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "appetizer/ibyeol-geurigo-ibyeol-feat-morning-coffee-the-lime"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "appetizer/ibyeol-geurigo-ibyeol-inst"
+duration = "3:56"

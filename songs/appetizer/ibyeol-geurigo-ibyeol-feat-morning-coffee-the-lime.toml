@@ -1,0 +1,4 @@
+names = [
+  { name = "이별 그리고 이별 (feat. 모닝커피, 더라임)", locale = "ko", original = true },
+  { name = "Ibyeol Geurigo Ibyeol (feat. Morning Coffee, The Lime)", locale = "ko-Latn", default = true },
+]
