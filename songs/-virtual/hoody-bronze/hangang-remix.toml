@@ -1,0 +1,9 @@
+names = [
+  { name = "한강 (HANGANG) Remix", locale = "ko", original = true },
+  { name = "HANGANG Remix", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "hoody", separator = ", " },
+  { artist-id = "bronze" },
+]

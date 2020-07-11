@@ -1,0 +1,10 @@
+names = [
+  { name = "잠수함 (Submarine) (Eng Ver.)", locale = "ko", original = true },
+  { name = "Jamsuham (Submarine) (Eng Ver.)", locale = "ko-Latn", default = true },
+  { name = "Submarine (Eng Ver.)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "hoody", separator = ", " },
+  { artist-id = "bronze" },
+]

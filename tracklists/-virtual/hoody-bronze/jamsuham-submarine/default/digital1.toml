@@ -1,0 +1,18 @@
+medium-ids = [
+  "-virtual/hoody-bronze/jamsuham-submarine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/hoody-bronze/jamsuham-submarine"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/hoody-bronze/jamsuham-submarine-eng-ver"
+duration = "3:47"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/hoody-bronze/hangang-remix"
+duration = "3:54"
