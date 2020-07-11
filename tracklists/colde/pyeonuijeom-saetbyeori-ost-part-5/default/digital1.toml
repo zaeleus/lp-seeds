@@ -1,0 +1,13 @@
+medium-ids = [
+  "colde/pyeonuijeom-saetbyeori-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "colde/bomul"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "colde/bomul-inst"
+duration = "3:44"
