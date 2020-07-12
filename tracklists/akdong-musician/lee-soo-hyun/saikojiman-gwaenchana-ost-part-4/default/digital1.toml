@@ -1,0 +1,13 @@
+medium-ids = [
+  "akdong-musician/lee-soo-hyun/saikojiman-gwaenchana-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "akdong-musician/lee-soo-hyun/ajik-neoui-sigane-sara"
+duration = "4:29"
+
+[[tracks]]
+position = 2
+song-id = "akdong-musician/lee-soo-hyun/ajik-neoui-sigane-sara-inst"
+duration = "4:29"
