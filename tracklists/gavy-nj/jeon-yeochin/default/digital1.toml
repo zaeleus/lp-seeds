@@ -1,0 +1,13 @@
+medium-ids = [
+  "gavy-nj/jeon-yeochin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gavy-nj/jeon-yeochin"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "gavy-nj/jeon-yeochin-inst"
+duration = "3:48"

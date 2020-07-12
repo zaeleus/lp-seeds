@@ -1,0 +1,15 @@
+artist-id = "gavy-nj"
+kind = "single"
+
+names = [
+  { name = "전 여친", locale = "ko", original = true },
+  { name = "Jeon Yeochin", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10459210" },
+]
