@@ -1,0 +1,8 @@
+medium-ids = [
+  "lee-aram/wollae-irae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-aram/wollae-irae"
+duration = "2:38"
