@@ -1,0 +1,8 @@
+medium-ids = [
+  "fr-eden/ganeungil/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fr-eden/ganeungil"
+duration = "2:44"
