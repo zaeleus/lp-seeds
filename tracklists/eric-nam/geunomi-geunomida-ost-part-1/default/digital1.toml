@@ -1,0 +1,13 @@
+medium-ids = [
+  "eric-nam/geunomi-geunomida-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eric-nam/count-on-me"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "eric-nam/count-on-me-inst"
+duration = "3:15"

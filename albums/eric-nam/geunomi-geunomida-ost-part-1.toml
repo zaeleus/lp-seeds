@@ -1,0 +1,16 @@
+artist-id = "eric-nam"
+kind = "single"
+
+names = [
+  { name = "그놈이 그놈이다 OST Part.1", locale = "ko", original = true },
+  { name = "Geunomi Geunomida OST Part.1", locale = "ko-Latn", default = true },
+  { name = "Men Are Men OST Part.1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-07-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10459755" },
+]
