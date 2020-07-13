@@ -1,0 +1,13 @@
+medium-ids = [
+  "015b/new-edition-22/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "015b/seven-breeze-feat-ldy"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "015b/seven-breeze-inst"
+duration = "3:42"

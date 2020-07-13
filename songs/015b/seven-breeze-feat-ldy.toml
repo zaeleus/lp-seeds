@@ -1,0 +1,5 @@
+names = [
+  { name = "세븐 브리즈 (Feat. Ldy)", locale = "ko", original = true },
+  { name = "Sebeun Beurijeu (Feat. Ldy)", locale = "ko-Latn" },
+  { name = "Seven Breeze (Feat. Ldy)", locale = "en", default = true },
+]
