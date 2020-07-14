@@ -1,0 +1,4 @@
+names = [
+  { name = "비스트 모드 (BEAST MODE)", locale = "ko", original = true },
+  { name = "BEAST MODE", locale = "en", default = true },
+]

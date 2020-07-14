@@ -1,0 +1,4 @@
+names = [
+  { name = "노 러브 (feat. Young West) (No Love)", locale = "ko", original = true },
+  { name = "No Love (feat. Young West)", locale = "en", default = true },
+]

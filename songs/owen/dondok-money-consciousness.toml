@@ -1,0 +1,4 @@
+names = [
+  { name = "돈독 (Money Consciousness)", locale = "ko", original = true },
+  { name = "Dondok (Money Consciousness)", locale = "ko-Latn", default = true },
+]

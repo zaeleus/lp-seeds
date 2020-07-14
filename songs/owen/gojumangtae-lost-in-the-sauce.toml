@@ -1,0 +1,4 @@
+names = [
+  { name = "고주망태 (Lost In The Sauce)", locale = "ko", original = true },
+  { name = "Gojumangtae (Lost In The Sauce)", locale = "ko-Latn", default = true },
+]
