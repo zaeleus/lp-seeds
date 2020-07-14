@@ -1,0 +1,13 @@
+medium-ids = [
+  "3ye/summer-special/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "3ye/like-this-summer"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "3ye/like-this-summer-inst"
+duration = "3:29"

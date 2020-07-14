@@ -1,0 +1,14 @@
+artist-id = "3ye"
+kind = "single"
+
+names = [
+  { name = "SUMMER SPECIAL", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-07-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10460028" },
+]
