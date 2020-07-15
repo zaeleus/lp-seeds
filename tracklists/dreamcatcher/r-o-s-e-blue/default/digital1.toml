@@ -1,0 +1,13 @@
+medium-ids = [
+  "dreamcatcher/r-o-s-e-blue/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dreamcatcher/r-o-s-e-blue-prod-esti"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "dreamcatcher/r-o-s-e-blue-prod-esti-inst"
+duration = "4:01"
