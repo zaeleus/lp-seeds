@@ -1,0 +1,13 @@
+medium-ids = [
+  "youra/chulsapyo-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "youra/new-direction"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "youra/new-direction-inst"
+duration = "3:11"
