@@ -1,0 +1,8 @@
+medium-ids = [
+  "giant-pink/burn-out/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giant-pink/burn-out"
+duration = "2:37"
