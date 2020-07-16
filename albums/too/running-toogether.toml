@@ -1,0 +1,14 @@
+artist-id = "too"
+kind = "ep"
+
+names = [
+  { name = "Running TOOgether", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-07-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10461281" },
+]
