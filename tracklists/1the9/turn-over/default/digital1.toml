@@ -1,0 +1,28 @@
+medium-ids = [
+  "1the9/turn-over/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "1the9/bad-guy"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "1the9/paradise"
+duration = "3:15"
+
+[[tracks]]
+position = 3
+song-id = "1the9/glow"
+duration = "3:03"
+
+[[tracks]]
+position = 4
+song-id = "1the9/dream-in-the-sky"
+duration = "4:04"
+
+[[tracks]]
+position = 5
+song-id = "1the9/bad-guy-inst"
+duration = "3:36"

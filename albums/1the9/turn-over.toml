@@ -1,0 +1,14 @@
+artist-id = "1the9"
+kind = "ep"
+
+names = [
+  { name = "Turn Over", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-07-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10461986" },
+]
