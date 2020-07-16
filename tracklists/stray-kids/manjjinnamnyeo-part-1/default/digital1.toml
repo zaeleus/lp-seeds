@@ -1,0 +1,13 @@
+medium-ids = [
+  "stray-kids/manjjinnamnyeo-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stray-kids/hello-stranger"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "stray-kids/hello-stranger-inst"
+duration = "4:00"
