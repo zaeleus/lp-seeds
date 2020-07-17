@@ -1,0 +1,10 @@
+names = [
+  { name = "빨간 맛 (Red Flavor) (Orchestra Ver.)", locale = "ko", original = true },
+  { name = "Ppalgan Mat (Red Flavor) (Orchestra Ver.)", locale = "ko-Latn", default = true },
+  { name = "Red Flavor (Orchestra Ver.)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "seoul-philharmonic-orchestra", separator = ", " },
+  { artist-id = "park-in-young" },
+]

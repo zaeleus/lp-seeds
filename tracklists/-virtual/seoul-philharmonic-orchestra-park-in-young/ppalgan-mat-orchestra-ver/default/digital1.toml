@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/seoul-philharmonic-orchestra-park-in-young/ppalgan-mat-orchestra-ver/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/seoul-philharmonic-orchestra-park-in-young/ppalgan-mat-red-flavor-orchestra-ver"
+duration = "3:22"

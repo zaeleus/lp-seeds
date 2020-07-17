@@ -1,0 +1,9 @@
+kind = "person"
+# started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "박인영", locale = "ko", kind = "real", original = true },
+  { name = "Park In Young", locale = "ko-Latn", kind = "real", default = true },
+]

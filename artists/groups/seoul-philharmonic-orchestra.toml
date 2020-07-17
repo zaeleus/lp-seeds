@@ -1,0 +1,9 @@
+kind = "group"
+# started-on = ""
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "서울 시립 교향악단", locale = "ko", original = true },
+  { name = "Seoul Philharmonic Orchestra", locale = "en", default = true },
+]
