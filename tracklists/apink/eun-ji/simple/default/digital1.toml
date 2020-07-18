@@ -1,0 +1,33 @@
+medium-ids = [
+  "apink/eun-ji/simple/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink/eun-ji/simple-is-the-best"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "apink/eun-ji/away"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "apink/eun-ji/whoo"
+duration = "3:51"
+
+[[tracks]]
+position = 4
+song-id = "apink/eun-ji/dugo-wanna-bwayo"
+duration = "4:11"
+
+[[tracks]]
+position = 5
+song-id = "apink/eun-ji/boseubui-jungyoseong"
+duration = "3:26"
+
+[[tracks]]
+position = 6
+song-id = "apink/eun-ji/neurige-ganeun-sesang"
+duration = "4:37"

@@ -1,0 +1,11 @@
+names = [
+  { name = "보습의 중요성", locale = "ko", original = true },
+  { name = "Boseubui Jungyoseong", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
