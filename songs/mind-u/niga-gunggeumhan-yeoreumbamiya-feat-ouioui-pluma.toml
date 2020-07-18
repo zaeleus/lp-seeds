@@ -1,0 +1,4 @@
+names = [
+  { name = "니가 궁금한 여름밤이야 (Feat. OuiOui, PLUMA)", locale = "ko", original = true },
+  { name = "Niga Gunggeumhan Yeoreumbamiya (Feat. OuiOui, PLUMA)", locale = "ko-Latn", default = true },
+]

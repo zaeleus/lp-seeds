@@ -1,0 +1,4 @@
+names = [
+  { name = "몰라 너 싫어 (Feat. 모트)", locale = "ko", original = true },
+  { name = "Molla Neo Sireo (Feat. Motte)", locale = "ko-Latn", default = true },
+]
