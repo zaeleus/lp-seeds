@@ -1,0 +1,16 @@
+artist-id = "sbgb"
+kind = "single"
+
+names = [
+  { name = "Sun Shower (여우비)", locale = "ko", original = true },
+  { name = "Sun Shower (Yeoubi)", locale = "ko-Latn", default = true },
+  { name = "Sun Shower", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-07-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10462794" },
+]

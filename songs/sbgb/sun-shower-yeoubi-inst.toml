@@ -1,0 +1,5 @@
+names = [
+  { name = "Sun Shower (여우비) (Inst.)", locale = "ko", original = true },
+  { name = "Sun Shower (Yeoubi) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Sun Shower (Inst.)", locale = "en" },
+]
