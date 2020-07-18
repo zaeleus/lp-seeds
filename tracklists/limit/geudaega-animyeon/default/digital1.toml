@@ -1,0 +1,8 @@
+medium-ids = [
+  "limit/geudaega-animyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "limit/geudaega-animyeon"
+duration = "3:00"
