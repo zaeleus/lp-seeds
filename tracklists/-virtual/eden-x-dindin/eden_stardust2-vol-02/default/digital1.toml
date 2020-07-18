@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/eden-x-dindin/eden_stardust2-vol-02/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/eden-x-dindin/the-sun"
+duration = "3:08"
