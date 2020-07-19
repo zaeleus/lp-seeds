@@ -1,0 +1,4 @@
+names = [
+  { name = "SINK (Feat. 임수 (Im Soo))", locale = "ko", original = true },
+  { name = "SINK (Feat. Im Soo)", locale = "ko-Latn", default = true },
+]

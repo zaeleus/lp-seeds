@@ -1,0 +1,15 @@
+artist-id = "vinxen"
+kind = "lp"
+
+names = [
+  { name = "유사인간", locale = "ko", original = true },
+  { name = "Yusaingan", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10453150" },
+]

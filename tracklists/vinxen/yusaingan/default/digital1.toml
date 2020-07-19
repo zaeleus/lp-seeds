@@ -1,0 +1,73 @@
+medium-ids = [
+  "vinxen/yusaingan/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vinxen/bulsichak"
+duration = "2:09"
+
+[[tracks]]
+position = 2
+song-id = "vinxen/blind"
+duration = "2:41"
+
+[[tracks]]
+position = 3
+song-id = "vinxen/badaneun-wae"
+duration = "3:52"
+
+[[tracks]]
+position = 4
+song-id = "vinxen/stupid-night-feat-sik-k"
+duration = "2:50"
+
+[[tracks]]
+position = 5
+song-id = "vinxen/imok"
+duration = "3:02"
+
+[[tracks]]
+position = 6
+song-id = "vinxen/baram"
+duration = "2:55"
+
+[[tracks]]
+position = 7
+song-id = "vinxen/kkotbongori"
+duration = "1:20"
+
+[[tracks]]
+position = 8
+song-id = "vinxen/sink-feat-im-soo"
+duration = "3:17"
+
+[[tracks]]
+position = 9
+song-id = "vinxen/i"
+duration = "2:56"
+
+[[tracks]]
+position = 10
+song-id = "vinxen/noeul-feat-ovan"
+duration = "3:48"
+
+[[tracks]]
+position = 11
+song-id = "vinxen/teong-feat-haon"
+duration = "3:24"
+
+[[tracks]]
+position = 12
+song-id = "vinxen/gwangdae"
+duration = "3:37"
+
+[[tracks]]
+position = 13
+song-id = "vinxen/barae"
+duration = "4:02"
+
+[[tracks]]
+position = 14
+song-id = "vinxen/hoegorok"
+duration = "3:14"
