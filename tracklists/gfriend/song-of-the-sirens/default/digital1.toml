@@ -1,0 +1,33 @@
+medium-ids = [
+  "gfriend/song-of-the-sirens/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gfriend/apple"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "gfriend/nunui-sigan"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "gfriend/geourui-bang"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "gfriend/tarot-cards"
+duration = "3:16"
+
+[[tracks]]
+position = 5
+song-id = "gfriend/creme-brulee"
+duration = "3:18"
+
+[[tracks]]
+position = 6
+song-id = "gfriend/bukjjok-gyedan"
+duration = "4:21"
