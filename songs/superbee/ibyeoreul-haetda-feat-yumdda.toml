@@ -1,0 +1,4 @@
+names = [
+  { name = "이별을 했다 (feat. 염따)", locale = "ko", original = true },
+  { name = "Ibyeoreul Haetda (feat. YUMDDA)", locale = "ko-Latn", default = true },
+]

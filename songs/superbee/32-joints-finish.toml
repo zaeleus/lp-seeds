@@ -1,0 +1,3 @@
+names = [
+  { name = "32 Joints Finish", locale = "ko", original = true, default = true },
+]
