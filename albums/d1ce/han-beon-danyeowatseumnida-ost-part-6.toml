@@ -1,0 +1,16 @@
+artist-id = "d1ce"
+kind = "single"
+
+names = [
+  { name = "한 번 다녀왔습니다 OST Part 6", locale = "ko", original = true },
+  { name = "Han Beon Danyeowatseumnida OST Part 6", locale = "ko-Latn", default = true },
+  { name = "Once Again OST Part 6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-07-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10462936" },
+]

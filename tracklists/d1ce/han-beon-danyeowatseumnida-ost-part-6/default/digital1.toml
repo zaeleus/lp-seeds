@@ -1,0 +1,13 @@
+medium-ids = [
+  "d1ce/han-beon-danyeowatseumnida-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "d1ce/i-ll-stay-with-you"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "d1ce/i-ll-stay-with-you-inst"
+duration = "3:09"
