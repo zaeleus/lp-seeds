@@ -1,0 +1,8 @@
+medium-ids = [
+  "jhnovr/white-center/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jhnovr/white-center"
+duration = "3:29"
