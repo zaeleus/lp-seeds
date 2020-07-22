@@ -1,0 +1,15 @@
+artist-id = "lydia"
+kind = "single"
+
+names = [
+  { name = "방에 앉아서", locale = "ko", original = true },
+  { name = "Bange Anjaseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10463534" },
+]
