@@ -1,0 +1,8 @@
+medium-ids = [
+  "wyne/remember/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wyne/remember"
+duration = "3:42"
