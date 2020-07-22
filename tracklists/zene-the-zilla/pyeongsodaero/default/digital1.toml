@@ -1,0 +1,8 @@
+medium-ids = [
+  "zene-the-zilla/pyeongsodaero/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zene-the-zilla/pyeongsodaero"
+duration = "2:19"
