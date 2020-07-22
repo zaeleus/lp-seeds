@@ -1,0 +1,8 @@
+medium-ids = [
+  "yourbeagle/how-to-love-feat-bigone/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/how-to-love-feat-bigone"
+duration = "3:16"

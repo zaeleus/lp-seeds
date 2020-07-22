@@ -1,0 +1,14 @@
+artist-id = "yourbeagle"
+kind = "single"
+
+names = [
+  { name = "How to Love (Feat. BIGONE)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-07-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10463594" },
+]
