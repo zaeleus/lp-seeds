@@ -1,0 +1,15 @@
+artist-id = "lee-hi"
+kind = "single"
+
+names = [
+  { name = "홀로", locale = "ko", original = true },
+  { name = "HOLO", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10465994" },
+]

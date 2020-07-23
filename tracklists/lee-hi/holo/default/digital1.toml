@@ -1,0 +1,8 @@
+medium-ids = [
+  "lee-hi/holo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-hi/holo"
+duration = "2:59"
