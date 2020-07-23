@@ -8,6 +8,11 @@ song-id = "red-velvet-irene-seulgi/monster"
 duration = "2:59"
 
 [[tracks]]
+position = 2
+song-id = "red-velvet-irene-seulgi/nori-naughty"
+duration = "3:19"
+
+[[tracks]]
 position = 3
 song-id = "red-velvet-irene-seulgi/diamond"
 duration = "3:17"
