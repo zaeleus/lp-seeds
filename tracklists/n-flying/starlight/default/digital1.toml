@@ -1,0 +1,8 @@
+medium-ids = [
+  "n-flying/starlight/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "n-flying/starlight"
+duration = "3:25"
