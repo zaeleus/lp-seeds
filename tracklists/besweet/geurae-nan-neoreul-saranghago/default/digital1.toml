@@ -1,0 +1,13 @@
+medium-ids = [
+  "besweet/geurae-nan-neoreul-saranghago/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "besweet/geurae-nan-neoreul-saranghago"
+duration = "2:44"
+
+[[tracks]]
+position = 2
+song-id = "besweet/geurae-nan-neoreul-saranghago-inst"
+duration = "2:44"
