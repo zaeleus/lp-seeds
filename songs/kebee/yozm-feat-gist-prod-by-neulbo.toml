@@ -1,0 +1,5 @@
+names = [
+  { name = "요즘 (yozm) (Feat. GIST) (Prod. By Neulbo)", locale = "ko", original = true },
+  { name = "Yojeum (yozm) (Feat. GIST) (Prod. By Neulbo)", locale = "ko-Latn" },
+  { name = "yozm (Feat. GIST) (Prod. By Neulbo)", locale = "en", default = true },
+]
