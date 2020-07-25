@@ -1,0 +1,13 @@
+medium-ids = [
+  "jo-won-sun/train-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jo-won-sun/i-will-never"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "jo-won-sun/i-will-never-inst"
+duration = "3:17"

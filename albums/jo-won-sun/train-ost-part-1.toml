@@ -1,0 +1,16 @@
+artist-id = "jo-won-sun"
+kind = "single"
+
+names = [
+  { name = "트레인 OST Part 1", locale = "ko", original = true },
+  { name = "Teurein OST Part 1", locale = "ko-Latn" },
+  { name = "Train OST Part 1", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10466899" },
+]
