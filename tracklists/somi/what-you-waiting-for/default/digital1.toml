@@ -1,0 +1,8 @@
+medium-ids = [
+  "somi/what-you-waiting-for/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "somi/what-you-waiting-for"
+duration = "2:56"
