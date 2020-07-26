@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheeze/saikojiman-gwaenchana-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheeze/neoraseo-gomawo"
+duration = "4:27"
+
+[[tracks]]
+position = 2
+song-id = "cheeze/neoraseo-gomawo-inst"
+duration = "4:27"
