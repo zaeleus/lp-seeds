@@ -1,0 +1,13 @@
+medium-ids = [
+  "faver/inside/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "faver/still-in-love"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "faver/in-and-out"
+duration = "4:44"
