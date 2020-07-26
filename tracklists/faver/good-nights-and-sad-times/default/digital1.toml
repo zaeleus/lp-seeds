@@ -1,0 +1,33 @@
+medium-ids = [
+  "faver/good-nights-and-sad-times/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "faver/closure"
+duration = "5:03"
+
+[[tracks]]
+position = 2
+song-id = "faver/good-nights-and-sad-times"
+duration = "2:50"
+
+[[tracks]]
+position = 3
+song-id = "faver/shady"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "faver/bod-to-bod"
+duration = "3:49"
+
+[[tracks]]
+position = 5
+song-id = "faver/soak"
+duration = "3:24"
+
+[[tracks]]
+position = 6
+song-id = "faver/please-don-t-die"
+duration = "3:47"

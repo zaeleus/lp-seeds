@@ -1,0 +1,3 @@
+names = [
+  { name = "Bod to Bod", locale = "ko", original = true, default = true },
+]
