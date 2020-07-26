@@ -1,0 +1,10 @@
+names = [
+  { name = "DESSERT (Feat. Loopy, 소연 ((여자)아이들))", locale = "ko", original = true },
+  { name = "DESSERT (Feat. Loopy, Soyeon ((G)I-DLE))", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/hyoyeon"
+names = [
+  { name = "HYO", locale = "ko", original = true, default = true },
+]
