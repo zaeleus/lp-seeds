@@ -1,0 +1,3 @@
+names = [
+  { name = "All flights are delayed", locale = "ko", original = true, default = true },
+]

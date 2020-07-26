@@ -1,0 +1,17 @@
+artist-id = "yukika"
+kind = "lp"
+
+names = [
+  { name = "서울여자", locale = "ko", original = true },
+  { name = "Seouryeoja", locale = "ko-Latn", default = true },
+  { name = "SOUL LADY", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-07-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10464268" },
+  { url = "https://music.youtube.com/playlist?list=OLAK5uy_l_YA_MRK0K1yadwzEO6LSdR87-hI7JWvw" },
+]
