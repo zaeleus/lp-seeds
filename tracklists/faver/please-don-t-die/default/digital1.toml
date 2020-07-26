@@ -1,0 +1,8 @@
+medium-ids = [
+  "faver/please-don-t-die/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "faver/please-don-t-die"
+duration = "3:47"
