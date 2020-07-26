@@ -1,0 +1,13 @@
+medium-ids = [
+  "faver/double-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "faver/wonder"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "faver/why-you-chasing-me"
+duration = "3:19"
