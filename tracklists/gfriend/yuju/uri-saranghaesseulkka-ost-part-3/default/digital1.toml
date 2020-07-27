@@ -1,0 +1,13 @@
+medium-ids = [
+  "gfriend/yuju/uri-saranghaesseulkka-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gfriend/yuju/first-day"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "gfriend/yuju/first-day-inst"
+duration = "3:13"

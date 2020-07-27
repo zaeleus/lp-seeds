@@ -1,0 +1,16 @@
+artist-id = "gfriend/yuju"
+kind = "single"
+
+names = [
+  { name = "우리, 사랑했을까 OST Part.3", locale = "ko", original = true },
+  { name = "Uri, Saranghaesseulkka OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Was It Love? OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-07-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10464494" },
+]
