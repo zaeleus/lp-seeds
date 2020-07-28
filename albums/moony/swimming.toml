@@ -1,0 +1,14 @@
+artist-id = "moony"
+kind = "ep"
+
+names = [
+  { name = "Swimming", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-07-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10468129" },
+]

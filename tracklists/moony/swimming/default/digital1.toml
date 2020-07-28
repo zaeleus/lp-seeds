@@ -1,0 +1,23 @@
+medium-ids = [
+  "moony/swimming/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "moony/inter"
+duration = "0:21"
+
+[[tracks]]
+position = 2
+song-id = "moony/swimming"
+duration = "4:23"
+
+[[tracks]]
+position = 3
+song-id = "moony/jellyfish"
+duration = "2:57"
+
+[[tracks]]
+position = 4
+song-id = "moony/wish-i-talk-to-you"
+duration = "3:31"
