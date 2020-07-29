@@ -1,0 +1,14 @@
+artist-id = "sleepy"
+kind = "single"
+
+names = [
+  { name = "Positive Vibes Only", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-07-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10468225" },
+]
