@@ -1,0 +1,5 @@
+names = [
+  { name = "춤을 춰 (TO THE BEAT)", locale = "ko", original = true },
+  { name = "Chumeul Chwo (TO THE BEAT)", locale = "ko-Latn", default = true },
+  { name = "TO THE BEAT", locale = "en" },
+]
