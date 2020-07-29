@@ -1,0 +1,15 @@
+artist-id = "boramiyu"
+kind = "single"
+
+names = [
+  { name = "어쩌다, 여름", locale = "ko", original = true },
+  { name = "Eojjeoda, Yeoreum", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10468666" },
+]

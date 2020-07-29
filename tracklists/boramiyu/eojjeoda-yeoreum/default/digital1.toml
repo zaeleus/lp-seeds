@@ -1,0 +1,8 @@
+medium-ids = [
+  "boramiyu/eojjeoda-yeoreum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boramiyu/eojjeoda-yeoreum"
+duration = "3:13"
