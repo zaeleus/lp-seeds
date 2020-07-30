@@ -1,0 +1,5 @@
+names = [
+  { name = "잘 지내지 (How You Been)", locale = "ko", original = true },
+  { name = "Jal Jinaeji (How You Been)", locale = "ko-Latn", default = true },
+  { name = "How You Been", locale = "en" },
+]

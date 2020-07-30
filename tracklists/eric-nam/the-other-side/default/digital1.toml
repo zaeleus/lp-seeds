@@ -1,0 +1,28 @@
+medium-ids = [
+  "eric-nam/the-other-side/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eric-nam/trouble-with-you"
+duration = "2:33"
+
+[[tracks]]
+position = 2
+song-id = "eric-nam/paradise"
+duration = "3:27"
+
+[[tracks]]
+position = 3
+song-id = "eric-nam/jal-jinaeji-how-you-been"
+duration = "2:59"
+
+[[tracks]]
+position = 4
+song-id = "eric-nam/down-for-you"
+duration = "3:08"
+
+[[tracks]]
+position = 5
+song-id = "eric-nam/love-die-young-korean-ver"
+duration = "3:25"
