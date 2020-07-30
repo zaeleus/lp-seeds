@@ -1,0 +1,28 @@
+medium-ids = [
+  "dbo/ciao/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dbo/i-m-moving-on"
+duration = "2:34"
+
+[[tracks]]
+position = 2
+song-id = "dbo/in-my-heart"
+duration = "3:07"
+
+[[tracks]]
+position = 3
+song-id = "dbo/if-you"
+duration = "2:28"
+
+[[tracks]]
+position = 4
+song-id = "dbo/make-it-right"
+duration = "2:49"
+
+[[tracks]]
+position = 5
+song-id = "dbo/what-are-you-so-scared-of"
+duration = "1:37"
