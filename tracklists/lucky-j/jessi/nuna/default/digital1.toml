@@ -1,0 +1,33 @@
+medium-ids = [
+  "lucky-j/jessi/nuna/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucky-j/jessi/nunu-nana"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "lucky-j/jessi/star"
+duration = "3:02"
+
+[[tracks]]
+position = 3
+song-id = "lucky-j/jessi/put-it-on-ya-feat-bm-of-kard-nafla"
+duration = "2:51"
+
+[[tracks]]
+position = 4
+song-id = "lucky-j/jessi/numb"
+duration = "3:30"
+
+[[tracks]]
+position = 5
+song-id = "lucky-j/jessi/who-dat-b"
+duration = "3:18"
+
+[[tracks]]
+position = 6
+song-id = "lucky-j/jessi/drip-feat-jay-park"
+duration = "3:33"
