@@ -1,0 +1,13 @@
+medium-ids = [
+  "exo/baekhyun/our-beloved-boa-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/baekhyun/gongjungjeongwon-garden-in-the-air"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "exo/baekhyun/gongjungjeongwon-garden-in-the-air-inst"
+duration = "3:18"
