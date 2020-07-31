@@ -1,0 +1,16 @@
+artist-id = "f-x/luna"
+kind = "single"
+
+names = [
+  { name = "우아한 친구들 OST Part 4", locale = "ko", original = true },
+  { name = "Uahan Chingudeul OST Part 4", locale = "ko-Latn", default = true },
+  { name = "Elegant Friends OST Part 4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-07-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10469051" },
+]

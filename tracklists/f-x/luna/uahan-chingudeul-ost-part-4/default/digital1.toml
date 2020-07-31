@@ -1,0 +1,13 @@
+medium-ids = [
+  "f-x/luna/uahan-chingudeul-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/luna/cheers"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "f-x/luna/cheers-inst"
+duration = "3:22"
