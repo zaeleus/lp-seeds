@@ -1,0 +1,13 @@
+medium-ids = [
+  "olltii/sikhuttaeng/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "olltii/sikhuttaeng-feat-justhis"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "olltii/sikhuttaeng-inst"
+duration = "3:04"

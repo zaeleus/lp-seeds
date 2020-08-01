@@ -1,0 +1,4 @@
+names = [
+  { name = "식후땡 (Feat. 저스디스 (JUSTHIS))", locale = "ko", original = true },
+  { name = "Sikhuttaeng (Feat. JUSTHIS)", locale = "ko-Latn", default = true },
+]
