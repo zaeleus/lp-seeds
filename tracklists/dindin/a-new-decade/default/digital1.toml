@@ -1,0 +1,13 @@
+medium-ids = [
+  "dindin/a-new-decade/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dindin/neol-saranghamyeon-andwae"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "dindin/jammotbam"
+duration = "3:26"
