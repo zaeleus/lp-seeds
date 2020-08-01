@@ -1,0 +1,13 @@
+medium-ids = [
+  "loona/chuu/chulsapyo-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/chuu/bomkkot"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "loona/chuu/bomkkot-inst"
+duration = "3:14"
