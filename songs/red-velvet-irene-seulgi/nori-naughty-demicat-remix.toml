@@ -1,0 +1,5 @@
+names = [
+  { name = "놀이 (Naughty) (Demicat Remix)", locale = "ko", original = true },
+  { name = "Nori (Naughty) (Demicat Remix)", locale = "ko-Latn", default = true },
+  { name = "Naughty (Demicat Remix)", locale = "en" },
+]
