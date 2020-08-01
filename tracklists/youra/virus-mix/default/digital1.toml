@@ -1,0 +1,13 @@
+medium-ids = [
+  "youra/virus-mix/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "youra/suyeonghae-virus-edit"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "youra/siktak-homework"
+duration = "3:40"
