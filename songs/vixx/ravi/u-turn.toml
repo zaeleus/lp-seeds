@@ -1,0 +1,4 @@
+names = [
+  { name = "유턴 (U-TURN)", locale = "ko", original = true },
+  { name = "U-TURN", locale = "en", default = true },
+]

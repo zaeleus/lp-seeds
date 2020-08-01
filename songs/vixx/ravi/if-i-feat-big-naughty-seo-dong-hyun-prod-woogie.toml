@@ -1,0 +1,4 @@
+names = [
+  { name = "IF I (Feat. BIG Naughty (서동현)) (Prod. WOOGIE)", locale = "ko", original = true },
+  { name = "IF I (Feat. BIG Naughty (Seo Dong Hyun)) (Prod. WOOGIE)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "vixx/ravi/paradise/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vixx/ravi/u-turn"
+duration = "2:30"
+
+[[tracks]]
+position = 2
+song-id = "vixx/ravi/paradise-feat-ha-sung-woon"
+duration = "3:32"
+
+[[tracks]]
+position = 3
+song-id = "vixx/ravi/water-gun"
+duration = "3:08"
+
+[[tracks]]
+position = 4
+song-id = "vixx/ravi/question-mark"
+duration = "2:59"
+
+[[tracks]]
+position = 5
+song-id = "vixx/ravi/if-i-feat-big-naughty-seo-dong-hyun-prod-woogie"
+duration = "3:12"

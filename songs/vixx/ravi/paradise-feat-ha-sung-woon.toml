@@ -1,0 +1,4 @@
+names = [
+  { name = "PARADISE (Feat. 하성운)", locale = "ko", original = true },
+  { name = "PARADISE (Feat. Ha Sung Woon)", locale = "ko-Latn", default = true },
+]
