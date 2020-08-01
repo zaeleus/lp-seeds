@@ -1,0 +1,5 @@
+names = [
+  { name = "오해 (misunderstanding)", locale = "ko", original = true },
+  { name = "Ohae (misunderstanding)", locale = "ko-Latn", default = true },
+  { name = "misunderstanding", locale = "en" },
+]
