@@ -1,0 +1,8 @@
+medium-ids = [
+  "kang-daniel/waves/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kang-daniel/waves-feat-simon-dominic-jamie"
+duration = "2:45"
