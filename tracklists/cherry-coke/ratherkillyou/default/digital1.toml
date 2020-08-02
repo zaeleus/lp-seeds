@@ -1,0 +1,8 @@
+medium-ids = [
+  "cherry-coke/ratherkillyou/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cherry-coke/ratherkillyou"
+duration = "3:11"
