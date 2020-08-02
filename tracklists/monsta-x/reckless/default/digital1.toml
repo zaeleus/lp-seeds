@@ -1,0 +1,8 @@
+medium-ids = [
+  "monsta-x/reckless/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "monsta-x/mumohago-daechaegeopjiman-with-ttg"
+duration = "3:29"
