@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1985-01-14"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "디액션", locale = "ko", kind = "stage", original = true },
+  { name = "D.Action", locale = "ko-Latn", kind = "stage", default = true },
+]
