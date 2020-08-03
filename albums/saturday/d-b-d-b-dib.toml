@@ -1,0 +1,14 @@
+artist-id = "saturday"
+kind = "single"
+
+names = [
+  { name = "D.B.D.B.DIB", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-08-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10470340" },
+]
