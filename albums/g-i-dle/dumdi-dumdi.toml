@@ -1,0 +1,15 @@
+artist-id = "g-i-dle"
+kind = "single"
+
+names = [
+  { name = "덤디덤디 (DUMDi DUMDi)", locale = "ko", original = true },
+  { name = "DUMDi DUMDi", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-08-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10470992" },
+]
