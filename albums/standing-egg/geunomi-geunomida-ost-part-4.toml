@@ -1,0 +1,16 @@
+artist-id = "standing-egg"
+kind = "single"
+
+names = [
+  { name = "그놈이 그놈이다 OST Part.4", locale = "ko", original = true },
+  { name = "Geunomi Geunomida OST Part.4", locale = "ko-Latn", default = true },
+  { name = "To All The Guys Who Loved Me OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-08-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10471356" },
+]

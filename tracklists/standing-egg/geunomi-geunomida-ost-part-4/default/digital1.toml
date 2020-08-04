@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/geunomi-geunomida-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/deoneun-seotulji-anke"
+duration = "4:17"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/deoneun-seotulji-anke-inst"
+duration = "4:17"
