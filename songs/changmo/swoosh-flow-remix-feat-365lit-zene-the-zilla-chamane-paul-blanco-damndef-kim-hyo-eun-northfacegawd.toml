@@ -1,0 +1,4 @@
+names = [
+  { name = "Swoosh Flow Remix (Feat. 365lit, ZENE THE ZILLA, Chamane, Paul Blanco, Damndef, 김효은 & Northfacegawd)", locale = "ko", original = true },
+  { name = "Swoosh Flow Remix (Feat. 365lit, ZENE THE ZILLA, Chamane, Paul Blanco, Damndef, Kim Hyo Eun & Northfacegawd)", locale = "ko-Latn", default = true },
+]
