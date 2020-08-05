@@ -1,0 +1,13 @@
+medium-ids = [
+  "minseo/chulsapyo-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minseo/geunalkkaji"
+duration = "4:04"
+
+[[tracks]]
+position = 2
+song-id = "minseo/geunalkkaji-inst"
+duration = "4:04"
