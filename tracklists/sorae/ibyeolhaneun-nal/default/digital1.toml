@@ -1,0 +1,13 @@
+medium-ids = [
+  "sorae/ibyeolhaneun-nal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sorae/ibyeolhaneun-nal-vocal-ah-yeon"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "sorae/ibyeolhaneun-nal-inst"
+duration = "3:50"

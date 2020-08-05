@@ -1,0 +1,4 @@
+names = [
+  { name = "이별하는 날 (Vocal 아현)", locale = "ko", original = true },
+  { name = "Ibyeolhaneun Nal (Vocal Ah Yeon)", locale = "ko-Latn", default = true },
+]

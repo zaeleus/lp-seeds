@@ -1,0 +1,15 @@
+artist-id = "sorae"
+kind = "single"
+
+names = [
+  { name = "이별하는 날", locale = "ko", original = true },
+  { name = "Ibyeolhaneun Nal", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-08-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10471607" },
+]
