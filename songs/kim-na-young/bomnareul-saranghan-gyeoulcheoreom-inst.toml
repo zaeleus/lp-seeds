@@ -1,0 +1,4 @@
+names = [
+  { name = "봄날을 사랑한 겨울처럼 (Inst.)", locale = "ko", original = true },
+  { name = "Bomnareul Saranghan Gyeoulcheoreom (Inst.)", locale = "ko-Latn", default = true },
+]

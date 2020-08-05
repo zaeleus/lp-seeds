@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-na-young/geunomi-geunomida-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-na-young/bomnareul-saranghan-gyeoulcheoreom"
+duration = "4:07"
+
+[[tracks]]
+position = 2
+song-id = "kim-na-young/bomnareul-saranghan-gyeoulcheoreom-inst"
+duration = "4:07"
