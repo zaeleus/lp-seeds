@@ -1,0 +1,33 @@
+medium-ids = [
+  "kang-daniel/magenta/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kang-daniel/flash"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "kang-daniel/waves-feat-simon-dominic-jamie"
+duration = "2:45"
+
+[[tracks]]
+position = 3
+song-id = "kang-daniel/kkaewo-who-u-are"
+duration = "3:23"
+
+[[tracks]]
+position = 4
+song-id = "kang-daniel/runaway-feat-yumdda"
+duration = "3:16"
+
+[[tracks]]
+position = 5
+song-id = "kang-daniel/movie-feat-dvwn"
+duration = "3:00"
+
+[[tracks]]
+position = 6
+song-id = "kang-daniel/bam"
+duration = "3:38"
