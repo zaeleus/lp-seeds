@@ -1,0 +1,4 @@
+names = [
+  { name = "확! (Hwaak!) (Feat. 리밋)", locale = "ko", original = true },
+  { name = "Hwaak! (Feat. Limit)", locale = "en", default = true },
+]

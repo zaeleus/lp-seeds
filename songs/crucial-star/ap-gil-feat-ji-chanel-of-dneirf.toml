@@ -1,0 +1,4 @@
+names = [
+  { name = "앞 길 (Feat. 지샤넬 of 디너프)", locale = "ko", original = true },
+  { name = "Ap Gil (Feat. Ji Chanel of DNEIRF)", locale = "ko-Latn", default = true },
+]
