@@ -1,0 +1,3 @@
+names = [
+  { name = "Go Tomorrow (1THE9 ver.)", locale = "ko", original = true, default = true },
+]

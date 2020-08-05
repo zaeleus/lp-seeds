@@ -1,0 +1,14 @@
+artist-id = "1the9"
+kind = "ep"
+
+names = [
+  { name = "Good Bye 1THE9", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-08-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10472328" },
+]
