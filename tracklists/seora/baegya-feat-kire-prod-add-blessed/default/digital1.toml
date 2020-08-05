@@ -1,0 +1,8 @@
+medium-ids = [
+  "seora/baegya-feat-kire-prod-add-blessed/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seora/baegya-feat-kire-prod-add-blessed"
+duration = "3:18"
