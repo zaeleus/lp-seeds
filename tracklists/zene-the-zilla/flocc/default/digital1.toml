@@ -1,0 +1,58 @@
+medium-ids = [
+  "zene-the-zilla/flocc/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zene-the-zilla/omg"
+duration = "1:49"
+
+[[tracks]]
+position = 2
+song-id = "zene-the-zilla/gangwon-fc"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "zene-the-zilla/itx-feat-changmo"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "zene-the-zilla/sae-freestyle"
+duration = "2:14"
+
+[[tracks]]
+position = 5
+song-id = "zene-the-zilla/stainless-feat-loopy"
+duration = "2:55"
+
+[[tracks]]
+position = 6
+song-id = "zene-the-zilla/pyeongsodaero"
+duration = "2:19"
+
+[[tracks]]
+position = 7
+song-id = "zene-the-zilla/i-got-feat-woodie-gochild"
+duration = "2:41"
+
+[[tracks]]
+position = 8
+song-id = "zene-the-zilla/ssik-ssik-feat-boo-hyun-seok"
+duration = "2:08"
+
+[[tracks]]
+position = 9
+song-id = "zene-the-zilla/naega-wae-feat-rakon"
+duration = "3:24"
+
+[[tracks]]
+position = 10
+song-id = "zene-the-zilla/seoulsi-sanggong-saette-chulhyeon"
+duration = "2:17"
+
+[[tracks]]
+position = 11
+song-id = "zene-the-zilla/sunpung"
+duration = "2:39"

@@ -1,0 +1,4 @@
+names = [
+  { name = "서울시 상공 새떼 출현", locale = "ko", original = true },
+  { name = "Seoulsi Sanggong Saette Chulhyeon", locale = "ko-Latn", default = true },
+]
