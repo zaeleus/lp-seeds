@@ -1,0 +1,8 @@
+medium-ids = [
+  "ja-mezz/new-yesterday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ja-mezz/new-yesterday"
+duration = "3:15"
