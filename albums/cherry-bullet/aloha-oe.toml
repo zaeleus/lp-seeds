@@ -1,0 +1,15 @@
+artist-id = "cherry-bullet"
+kind = "single"
+
+names = [
+  { name = "알로하오에 (Aloha Oe)", locale = "ko", original = true },
+  { name = "Aloha Oe", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-08-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10473147" },
+]
