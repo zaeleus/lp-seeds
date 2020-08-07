@@ -1,0 +1,8 @@
+medium-ids = [
+  "bibi/dingo-x-bibi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bibi/swigarit"
+duration = "3:36"
