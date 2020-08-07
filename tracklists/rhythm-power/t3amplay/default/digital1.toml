@@ -1,0 +1,13 @@
+medium-ids = [
+  "rhythm-power/t3amplay/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rhythm-power/anycall-prod-by-assbrass"
+duration = "2:45"
+
+[[tracks]]
+position = 2
+song-id = "rhythm-power/t3amplay-prod-by-assbrass"
+duration = "2:29"
