@@ -1,0 +1,14 @@
+artist-id = "bolbbalgan4"
+kind = "single"
+
+names = [
+  { name = "Our Beloved BoA #2", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-08-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10473661" },
+]

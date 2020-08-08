@@ -1,0 +1,13 @@
+medium-ids = [
+  "bolbbalgan4/our-beloved-boa-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bolbbalgan4/atlantis-sonyeo-atlantis-princess"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "bolbbalgan4/atlantis-sonyeo-atlantis-princess-inst"
+duration = "3:32"

@@ -1,0 +1,5 @@
+names = [
+  { name = "아틀란티스 소녀 (Atlantis Princess)", locale = "ko", original = true },
+  { name = "Atlantis Sonyeo (Atlantis Princess)", locale = "ko-Latn", default = true },
+  { name = "Atlantis Princess", locale = "en" },
+]
