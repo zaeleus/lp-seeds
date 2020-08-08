@@ -1,0 +1,19 @@
+artist-id = "-virtual/chancellor-younha"
+kind = "single"
+
+names = [
+  { name = "Walking In The Rain", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "chancellor", separator = ", " },
+  { artist-id = "younha" },
+]
+
+[[releases]]
+released-on = "2020-08-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10471301" },
+]

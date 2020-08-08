@@ -1,0 +1,8 @@
+names = [
+  { name = "Walking In The Rain", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "chancellor", separator = ", " },
+  { artist-id = "younha" },
+]
