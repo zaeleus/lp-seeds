@@ -1,0 +1,13 @@
+medium-ids = [
+  "2lson/always/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2lson/always-feat-sun-ahn"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "2lson/always-inst"
+duration = "3:37"
