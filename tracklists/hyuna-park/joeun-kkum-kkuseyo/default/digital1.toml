@@ -1,0 +1,18 @@
+medium-ids = [
+  "hyuna-park/joeun-kkum-kkuseyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hyuna-park/joeun-kkum-kkuseyo"
+duration = "6:32"
+
+[[tracks]]
+position = 2
+song-id = "hyuna-park/good-night-sleep-tight"
+duration = "6:32"
+
+[[tracks]]
+position = 3
+song-id = "hyuna-park/joeun-kkum-kkuseyo-inst"
+duration = "6:32"
