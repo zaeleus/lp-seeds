@@ -1,0 +1,13 @@
+medium-ids = [
+  "ssak3/geu-yeoreumeul-teureojwo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ssak3/geu-yeoreumeul-teureojwo"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "ssak3/geu-yeoreumeul-teureojwo-inst"
+duration = "3:25"

@@ -1,0 +1,16 @@
+artist-id = "ssak3"
+kind = "single"
+
+names = [
+  { name = "그 여름을 틀어줘", locale = "ko", original = true },
+  { name = "Geu Yeoreumeul Teureojwo", locale = "ko-Latn", default = true },
+  { name = "Play That Summer", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-07-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10467129" },
+]

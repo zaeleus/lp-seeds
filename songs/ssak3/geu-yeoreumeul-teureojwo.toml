@@ -1,0 +1,5 @@
+names = [
+  { name = "그 여름을 틀어줘", locale = "ko", original = true },
+  { name = "Geu Yeoreumeul Teureojwo", locale = "ko-Latn", default = true },
+  { name = "Play That Summer", locale = "en" },
+]
