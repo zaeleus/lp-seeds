@@ -1,0 +1,5 @@
+names = [
+  { name = "다시 여기 바닷가", locale = "ko", original = true },
+  { name = "Dasi Yeogi Badatga", locale = "ko-Latn", default = true },
+  { name = "Beach Again", locale = "en" },
+]

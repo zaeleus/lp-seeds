@@ -1,0 +1,16 @@
+artist-id = "ssak3"
+kind = "single"
+
+names = [
+  { name = "다시 여기 바닷가", locale = "ko", original = true },
+  { name = "Dasi Yeogi Badatga", locale = "ko-Latn", default = true },
+  { name = "Beach Again", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-07-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10462799" },
+]

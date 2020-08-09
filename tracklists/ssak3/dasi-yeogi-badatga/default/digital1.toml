@@ -1,0 +1,13 @@
+medium-ids = [
+  "ssak3/dasi-yeogi-badatga/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ssak3/dasi-yeogi-badatga"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "ssak3/dasi-yeogi-badatga-inst"
+duration = "3:54"
