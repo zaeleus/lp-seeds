@@ -1,0 +1,5 @@
+names = [
+  { name = "여름 안에서 by 싹쓰리 (Feat. 황광희)", locale = "ko", original = true },
+  { name = "Yeoreum Aneseo by SSAK3 (Feat. Hwang Kwanghee)", locale = "ko-Latn", default = true },
+  { name = "In Summer by SSAK3 (Feat. Hwang Kwanghee)", locale = "en" },
+]

@@ -1,0 +1,16 @@
+artist-id = "ssak3"
+kind = "single"
+
+names = [
+  { name = "여름 안에서 by 싹쓰리", locale = "ko", original = true },
+  { name = "Yeoreum Aneseo by SSAK3", locale = "ko-Latn", default = true },
+  { name = "In Summer by SSAK3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-07-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10459197" },
+]

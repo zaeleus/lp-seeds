@@ -1,0 +1,13 @@
+medium-ids = [
+  "ssak3/yeoreum-aneseo-by-ssak3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ssak3/yeoreum-aneseo-by-ssak3-feat-hwang-kwanghee"
+duration = "4:42"
+
+[[tracks]]
+position = 2
+song-id = "ssak3/yeoreum-aneseo-by-ssak3-inst"
+duration = "4:42"
