@@ -1,0 +1,5 @@
+names = [
+  { name = "두리쥬와 (Feat. S.B.N)", locale = "ko", original = true },
+  { name = "Durijyuwa (Feat. S.B.N)", locale = "ko-Latn", default = true },
+  { name = "Luv Us (Feat. S.B.N)", locale = "en" },
+]

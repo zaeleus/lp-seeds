@@ -1,0 +1,5 @@
+names = [
+  { name = "신난다 (Feat. 마마무)", locale = "ko", original = true },
+  { name = "Sinnanda (Feat. MAMAMOO)", locale = "ko-Latn", default = true },
+  { name = "It's Fun (Feat. MAMAMOO)", locale = "en" },
+]

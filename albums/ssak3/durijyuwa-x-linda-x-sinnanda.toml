@@ -1,0 +1,16 @@
+artist-id = "ssak3"
+kind = "single"
+
+names = [
+  { name = "두리쥬와 X LINDA X 신난다", locale = "ko", original = true },
+  { name = "Durijyuwa X LINDA X Sinnanda", locale = "ko-Latn", default = true },
+  { name = "Luv Us X LINDA X It's Fun", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-08-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10470448" },
+]

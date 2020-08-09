@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "싹쓰리", locale = "ko", original = true },
+  { name = "SSAK3", locale = "en", default = true },
+]
