@@ -1,0 +1,8 @@
+medium-ids = [
+  "sonakbyul/on-the-way/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sonakbyul/on-the-way"
+duration = "3:54"
