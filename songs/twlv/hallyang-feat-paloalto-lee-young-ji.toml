@@ -1,0 +1,4 @@
+names = [
+  { name = "한량 (Feat. Paloalto, 이영지)", locale = "ko", original = true },
+  { name = "Hallyang (Feat. Paloalto, Lee Young Ji)", locale = "ko-Latn", default = true },
+]

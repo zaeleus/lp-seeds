@@ -1,0 +1,14 @@
+artist-id = "twlv"
+kind = "ep"
+
+names = [
+  { name = "ANTIFORMAL", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-08-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10474543" },
+]

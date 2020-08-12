@@ -1,0 +1,4 @@
+names = [
+  { name = "오늘따라 (Feat. MELOH)", locale = "ko", original = true },
+  { name = "Oneulttara (Feat. MELOH)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,33 @@
+medium-ids = [
+  "twlv/antiformal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twlv/oneulttara-feat-meloh"
+duration = "2:37"
+
+[[tracks]]
+position = 2
+song-id = "twlv/highway"
+duration = "3:19"
+
+[[tracks]]
+position = 3
+song-id = "twlv/geonbae"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song-id = "twlv/hallyang-feat-paloalto-lee-young-ji"
+duration = "3:29"
+
+[[tracks]]
+position = 5
+song-id = "twlv/twerking-remix-feat-queen-wa-abii"
+duration = "3:02"
+
+[[tracks]]
+position = 6
+song-id = "twlv/hollo"
+duration = "3:40"
