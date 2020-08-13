@@ -1,0 +1,16 @@
+artist-id = "boramiyu"
+kind = "single"
+
+names = [
+  { name = "출사표 OST Part.6", locale = "ko", original = true },
+  { name = "Chulsapyo OST Part.6", locale = "ko-Latn", default = true },
+  { name = "Memorials OST Part.6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-08-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10475005" },
+]
