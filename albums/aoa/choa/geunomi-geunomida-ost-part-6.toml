@@ -1,0 +1,16 @@
+artist-id = "aoa/choa"
+kind = "single"
+
+names = [
+  { name = "그놈이 그놈이다 OST Part.6", locale = "ko", original = true },
+  { name = "Geunomi Geunomida OST Part.6", locale = "ko-Latn", default = true },
+  { name = "To All The Guys Who Loved Me OST Part.6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-08-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10474470" },
+]

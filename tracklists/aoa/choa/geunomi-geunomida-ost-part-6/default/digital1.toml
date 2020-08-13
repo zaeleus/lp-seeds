@@ -1,0 +1,13 @@
+medium-ids = [
+  "aoa/choa/geunomi-geunomida-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aoa/choa/nan-yeogi-isseoyo"
+duration = "4:26"
+
+[[tracks]]
+position = 2
+song-id = "aoa/choa/nan-yeogi-isseoyo-inst"
+duration = "4:26"
