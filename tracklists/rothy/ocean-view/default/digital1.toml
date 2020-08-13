@@ -1,0 +1,13 @@
+medium-ids = [
+  "rothy/ocean-view/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rothy/ocean-view-feat-chanyeol"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "rothy/ocean-view-inst"
+duration = "3:08"
