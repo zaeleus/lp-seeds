@@ -1,0 +1,13 @@
+medium-ids = [
+  "f-x/luna/banyein-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "f-x/luna/kkonnal"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "f-x/luna/kkonnal-inst"
+duration = "3:36"

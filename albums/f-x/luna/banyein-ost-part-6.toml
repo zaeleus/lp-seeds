@@ -1,0 +1,15 @@
+artist-id = "f-x/luna"
+kind = "single"
+
+names = [
+  { name = "반예인 OST Part 6", locale = "ko", original = true },
+  { name = "Banyein OST Part 6", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-08-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10475205" },
+]
