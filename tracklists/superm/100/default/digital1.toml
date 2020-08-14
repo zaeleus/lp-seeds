@@ -1,0 +1,8 @@
+medium-ids = [
+  "superm/100/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "superm/100"
+duration = "3:27"
