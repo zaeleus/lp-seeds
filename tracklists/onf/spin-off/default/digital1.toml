@@ -1,0 +1,38 @@
+medium-ids = [
+  "onf/spin-off/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "onf/sukhumvit-swimming"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "onf/cheot-kiseuui-beopchik-belle-epoque"
+duration = "3:05"
+
+[[tracks]]
+position = 3
+song-id = "onf/geppeto"
+duration = "3:31"
+
+[[tracks]]
+position = 4
+song-id = "onf/oneul-mwo-hallae-good-good"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "onf/seoninjang-cactus"
+duration = "3:26"
+
+[[tracks]]
+position = 6
+song-id = "onf/message"
+duration = "3:22"
+
+[[tracks]]
+position = 7
+song-id = "onf/sinsegye-spin-off-ver"
+duration = "3:43"

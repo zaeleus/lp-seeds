@@ -1,0 +1,5 @@
+names = [
+  { name = "오늘 뭐 할래 (Good Good)", locale = "ko", original = true },
+  { name = "Oneul Mwo Hallae (Good Good)", locale = "ko-Latn", default = true },
+  { name = "Good Good", locale = "en" },
+]

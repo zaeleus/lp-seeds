@@ -1,0 +1,4 @@
+names = [
+  { name = "스쿰빗스위밍 (Sukhumvit Swimming)", locale = "ko", original = true },
+  { name = "Sukhumvit Swimming", locale = "en", default = true },
+]

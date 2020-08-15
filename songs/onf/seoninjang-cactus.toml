@@ -1,0 +1,5 @@
+names = [
+  { name = "선인장 (Cactus)", locale = "ko", original = true },
+  { name = "Seoninjang (Cactus)", locale = "ko-Latn", default = true },
+  { name = "Cactus", locale = "en" },
+]

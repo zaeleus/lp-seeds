@@ -1,0 +1,5 @@
+names = [
+  { name = "첫 키스의 법칙 (Belle Epoque)", locale = "ko", original = true },
+  { name = "Cheot Kiseuui Beopchik (Belle Epoque)", locale = "ko-Latn", default = true },
+  { name = "Belle Epoque", locale = "en" },
+]
