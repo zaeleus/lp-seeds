@@ -1,0 +1,8 @@
+medium-ids = [
+  "brave-girls/we-ride/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brave-girls/unjeonmanhae-we-ride"
+duration = "3:10"

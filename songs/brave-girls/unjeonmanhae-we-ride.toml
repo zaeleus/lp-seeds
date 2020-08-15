@@ -1,0 +1,5 @@
+names = [
+  { name = "운전만해 (We Ride)", locale = "ko", original = true },
+  { name = "Unjeonmanhae (We Ride)", locale = "ko-Latn", default = true },
+  { name = "We Ride", locale = "en" },
+]
