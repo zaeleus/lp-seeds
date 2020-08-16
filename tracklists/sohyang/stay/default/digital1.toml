@@ -1,0 +1,13 @@
+medium-ids = [
+  "sohyang/stay/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sohyang/stay"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "sohyang/stay-inst"
+duration = "3:26"
