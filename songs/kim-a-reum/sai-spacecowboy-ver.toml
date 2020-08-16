@@ -1,0 +1,4 @@
+names = [
+  { name = "사이 (스페이스카우보이 Ver.)", locale = "ko", original = true },
+  { name = "Sai (SPACECOWBOY Ver.)", locale = "ko-Latn", default = true },
+]

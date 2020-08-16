@@ -1,0 +1,5 @@
+names = [
+  { name = "새벽 (Midnight)", locale = "ko", original = true },
+  { name = "Saebyeok (Midnight)", locale = "ko-Latn", default = true },
+  { name = "Midnight", locale = "en" },
+]
