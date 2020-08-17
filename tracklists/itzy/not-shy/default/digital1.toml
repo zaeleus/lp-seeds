@@ -1,0 +1,33 @@
+medium-ids = [
+  "itzy/not-shy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "itzy/not-shy"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "itzy/don-t-give-a-what"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "itzy/louder"
+duration = "3:22"
+
+[[tracks]]
+position = 4
+song-id = "itzy/id"
+duration = "3:27"
+
+[[tracks]]
+position = 5
+song-id = "itzy/surf"
+duration = "3:15"
+
+[[tracks]]
+position = 6
+song-id = "itzy/be-in-love"
+duration = "3:21"
