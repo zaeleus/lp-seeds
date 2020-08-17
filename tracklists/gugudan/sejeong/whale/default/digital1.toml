@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan/sejeong/whale/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/sejeong/whale"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/sejeong/whale-inst"
+duration = "3:20"
