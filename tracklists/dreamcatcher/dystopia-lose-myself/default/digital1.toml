@@ -1,0 +1,33 @@
+medium-ids = [
+  "dreamcatcher/dystopia-lose-myself/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dreamcatcher/intro"
+duration = "1:40"
+
+[[tracks]]
+position = 2
+song-id = "dreamcatcher/boca"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "dreamcatcher/break-the-wall"
+duration = "3:47"
+
+[[tracks]]
+position = 4
+song-id = "dreamcatcher/can-t-get-you-out-of-my-mind"
+duration = "3:44"
+
+[[tracks]]
+position = 5
+song-id = "dreamcatcher/dear"
+duration = "3:50"
+
+[[tracks]]
+position = 6
+song-id = "dreamcatcher/boca-inst"
+duration = "3:10"
