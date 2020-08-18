@@ -1,0 +1,13 @@
+medium-ids = [
+  "d1ce/clef-crew-project-take-two/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "d1ce/one-summer"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "d1ce/one-summer-inst"
+duration = "3:18"
