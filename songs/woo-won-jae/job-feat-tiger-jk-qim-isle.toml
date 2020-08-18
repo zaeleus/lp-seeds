@@ -1,0 +1,4 @@
+names = [
+  { name = "JOB (Feat. Tiger JK & 김아일)", locale = "ko", original = true },
+  { name = "JOB (Feat. Tiger JK & Qim Isle)", locale = "ko-Latn", default = true },
+]

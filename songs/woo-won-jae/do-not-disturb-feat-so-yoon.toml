@@ -1,0 +1,3 @@
+names = [
+  { name = "Do Not Disturb (Feat. So!YoON!)", locale = "ko", original = true, default = true },
+]
