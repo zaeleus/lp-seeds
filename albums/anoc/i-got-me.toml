@@ -1,0 +1,14 @@
+artist-id = "anoc"
+kind = "single"
+
+names = [
+  { name = "I got me", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-08-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10477311" },
+]
