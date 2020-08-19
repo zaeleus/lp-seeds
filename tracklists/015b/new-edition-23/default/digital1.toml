@@ -1,0 +1,13 @@
+medium-ids = [
+  "015b/new-edition-23/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "015b/gonggi-hanjeongpan-feat-lee-hyung-eun"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "015b/gonggi-hanjeongpan-inst"
+duration = "4:00"
