@@ -1,0 +1,8 @@
+medium-ids = [
+  "kim-sa-wol/hwangnyul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-sa-wol/hwangnyul"
+duration = "3:33"
