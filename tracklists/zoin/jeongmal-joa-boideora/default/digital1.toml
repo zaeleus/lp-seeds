@@ -1,0 +1,13 @@
+medium-ids = [
+  "zoin/jeongmal-joa-boideora/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zoin/jeongmal-joa-boideora"
+duration = "4:26"
+
+[[tracks]]
+position = 2
+song-id = "zoin/jeongmal-joa-boideora-inst"
+duration = "4:26"

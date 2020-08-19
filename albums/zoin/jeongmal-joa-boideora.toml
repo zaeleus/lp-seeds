@@ -1,0 +1,15 @@
+artist-id = "zoin"
+kind = "single"
+
+names = [
+  { name = "정말 좋아 보이더라", locale = "ko", original = true },
+  { name = "Jeongmal Joa Boideora", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-08-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10477305" },
+]
