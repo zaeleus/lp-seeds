@@ -1,0 +1,37 @@
+medium-ids = [
+  "sistar/hyo-rin/say-my-name/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sistar/hyo-rin/morning-call"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "sistar/hyo-rin/say-my-name"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "sistar/hyo-rin/dally-feat-gray"
+duration = "3:24"
+names = [
+  { name = "달리 (Dally) (feat. GRAY)", locale = "ko", original = true },
+  { name = "Dally (feat. GRAY)", locale = "en", default = true },
+]
+
+[[tracks]]
+position = 4
+song-id = "sistar/hyo-rin/badaboreogallae-see-sea"
+duration = "3:21"
+
+[[tracks]]
+position = 5
+song-id = "sistar/hyo-rin/bae"
+duration = "3:27"
+
+[[tracks]]
+position = 6
+song-id = "sistar/hyo-rin/9lives"
+duration = "3:24"

@@ -1,0 +1,11 @@
+names = [
+  { name = "모닝콜 (Morning Call)", locale = "ko", original = true },
+  { name = "Morning Call", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "sistar/hyo-rin"
+names = [
+  { name = "효린", locale = "ko", original = true },
+  { name = "Hyolyn", locale = "ko-Latn", default = true },
+]
