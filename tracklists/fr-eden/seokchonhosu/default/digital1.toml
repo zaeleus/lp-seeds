@@ -1,0 +1,8 @@
+medium-ids = [
+  "fr-eden/seokchonhosu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fr-eden/seokchonhosu-prod-opo"
+duration = "3:14"
