@@ -1,0 +1,13 @@
+medium-ids = [
+  "jo-jung-min/naekkeohaejwoyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jo-jung-min/naekkeohaejwoyo"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "jo-jung-min/naekkeohaejwoyo-inst"
+duration = "3:19"
