@@ -1,0 +1,13 @@
+medium-ids = [
+  "gree/humming/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gree/humming-feat-rabi-ravi"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "gree/humming-inst"
+duration = "3:31"
