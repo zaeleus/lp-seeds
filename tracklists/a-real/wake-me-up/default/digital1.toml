@@ -1,0 +1,18 @@
+medium-ids = [
+  "a-real/wake-me-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "a-real/wake-me-up"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "a-real/level-up"
+duration = "3:05"
+
+[[tracks]]
+position = 3
+song-id = "a-real/wake-me-up-inst"
+duration = "3:43"
