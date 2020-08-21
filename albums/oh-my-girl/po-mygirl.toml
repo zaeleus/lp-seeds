@@ -3,7 +3,8 @@ kind = "single"
 
 names = [
   { name = "뽀마이걸", locale = "ko", original = true },
-  { name = "Ppomaigeol", locale = "ko-Latn", default = true },
+  { name = "Ppomaigeol", locale = "ko-Latn" },
+  { name = "PO~MYGIRL", locale = "en", default = true },
 ]
 
 [[releases]]
