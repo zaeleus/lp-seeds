@@ -1,0 +1,13 @@
+medium-ids = [
+  "bts/dynamite/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bts/dynamite"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "bts/dynamite-instrumental"
+duration = "3:19"
