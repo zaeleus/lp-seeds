@@ -1,0 +1,13 @@
+medium-ids = [
+  "red-velvet/our-beloved-boa-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/milky-way"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/milky-way-inst"
+duration = "3:38"

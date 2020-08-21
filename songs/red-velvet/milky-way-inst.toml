@@ -1,0 +1,3 @@
+names = [
+  { name = "Milky Way (Inst.)", locale = "ko", original = true, default = true },
+]
