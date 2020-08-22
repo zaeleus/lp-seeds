@@ -1,0 +1,14 @@
+artist-id = "seven-o-clock"
+kind = "single"
+
+names = [
+  { name = "HIGHWAY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-08-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10479482" },
+]
