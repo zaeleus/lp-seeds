@@ -1,0 +1,13 @@
+medium-ids = [
+  "yeseo/blood-stream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yeseo/blood-stream"
+duration = "4:26"
+
+[[tracks]]
+position = 2
+song-id = "yeseo/blood-stream-inst"
+duration = "4:26"
