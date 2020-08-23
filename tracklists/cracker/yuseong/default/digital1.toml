@@ -1,0 +1,8 @@
+medium-ids = [
+  "cracker/yuseong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cracker/yuseong"
+duration = "3:09"
