@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-greem/joahanda-malhalkka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-greem/joahanda-malhalkka"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "kim-greem/joahanda-malhalkka-inst"
+duration = "3:31"
