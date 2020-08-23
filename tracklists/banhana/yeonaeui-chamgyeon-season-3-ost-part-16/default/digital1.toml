@@ -1,0 +1,13 @@
+medium-ids = [
+  "banhana/yeonaeui-chamgyeon-season-3-ost-part-16/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "banhana/nappeuda"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "banhana/nappeuda-inst"
+duration = "3:28"
