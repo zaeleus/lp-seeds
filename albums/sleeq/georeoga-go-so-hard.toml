@@ -1,0 +1,16 @@
+artist-id = "sleeq"
+kind = "single"
+
+names = [
+  { name = "걸어가 (Go So Hard)", locale = "ko", original = true },
+  { name = "Georeoga (Go So Hard)", locale = "ko-Latn", default = true },
+  { name = "Go So Hard", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-08-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10480185" },
+]

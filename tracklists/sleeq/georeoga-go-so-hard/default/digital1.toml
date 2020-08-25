@@ -1,0 +1,8 @@
+medium-ids = [
+  "sleeq/georeoga-go-so-hard/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sleeq/georeoga-go-so-hard-feat-alisha"
+duration = "3:53"

@@ -1,0 +1,5 @@
+names = [
+  { name = "걸어가 (Go So Hard) (feat. Alisha)", locale = "ko", original = true },
+  { name = "Georeoga (Go So Hard) (feat. Alisha)", locale = "ko-Latn", default = true },
+  { name = "Go So Hard (feat. Alisha)", locale = "en" },
+]
