@@ -1,0 +1,13 @@
+medium-ids = [
+  "golden-child/yeonaeneun-gwichanchiman-oeroun-geon-sireo-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "golden-child/come-with-me-sung-by-y-jibeom"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "golden-child/come-with-me-inst"
+duration = "3:36"
