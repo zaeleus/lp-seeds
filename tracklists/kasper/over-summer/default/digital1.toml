@@ -1,0 +1,13 @@
+medium-ids = [
+  "kasper/over-summer/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kasper/yeoreumjam-feat-han-yo-han"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "kasper/yeoreumjam-feat-han-yo-han-inst"
+duration = "3:29"

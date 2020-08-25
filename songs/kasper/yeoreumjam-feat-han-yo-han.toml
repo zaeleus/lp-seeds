@@ -1,0 +1,4 @@
+names = [
+  { name = "여름잠 (Feat. 한요한)", locale = "ko", original = true },
+  { name = "Yeoreumjam (Feat. Han Yo Han)", locale = "ko-Latn", default = true },
+]
