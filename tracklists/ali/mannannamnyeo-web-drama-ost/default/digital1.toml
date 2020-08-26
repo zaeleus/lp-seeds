@@ -1,0 +1,8 @@
+medium-ids = [
+  "ali/mannannamnyeo-web-drama-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ali/jakku-nunmuri-namnida-acoustic-ver"
+duration = "3:41"
