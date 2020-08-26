@@ -1,0 +1,8 @@
+medium-ids = [
+  "demian/yes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "demian/yes"
+duration = "2:59"
