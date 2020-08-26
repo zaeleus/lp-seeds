@@ -6,7 +6,7 @@ names = [
 ]
 
 [[releases]]
-released-on = "2020-08-21"
+released-on = "2020-08-24"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
