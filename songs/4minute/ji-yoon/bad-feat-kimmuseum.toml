@@ -1,0 +1,11 @@
+names = [
+  { name = "BAD (Feat. 김뮤지엄)", locale = "ko", original = true },
+  { name = "BAD (Feat. KIMMUSEUM)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/ji-yoon"
+names = [
+  { name = "전지윤", locale = "ko", original = true },
+  { name = "Jeon Ji Yoon", locale = "ko-Latn", default = true },
+]

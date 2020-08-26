@@ -1,0 +1,4 @@
+names = [
+  { name = "세상 모든 나쁜 이들에게 (to this which the world all are bad)", locale = "ko", original = true },
+  { name = "Sesang Modeun Nappeun Ideurege (to this which the world all are bad)", locale = "ko-Latn", default = true },
+]

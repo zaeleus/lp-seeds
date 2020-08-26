@@ -1,0 +1,13 @@
+medium-ids = [
+  "4minute/ji-yoon/bad/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "4minute/ji-yoon/sesang-modeun-nappeun-ideurege-to-this-which-the-world-all-are-bad"
+duration = "0:54"
+
+[[tracks]]
+position = 2
+song-id = "4minute/ji-yoon/bad-feat-kimmuseum"
+duration = "3:41"
