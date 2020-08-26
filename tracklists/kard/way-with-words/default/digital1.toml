@@ -1,0 +1,18 @@
+medium-ids = [
+  "kard/way-with-words/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kard/ah-ee-yah"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "kard/gunshot"
+duration = "3:02"
+
+[[tracks]]
+position = 3
+song-id = "kard/hold-on"
+duration = "3:22"
