@@ -1,0 +1,13 @@
+medium-ids = [
+  "risabae/naega-aneun-geudae-x-mas-project-special/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "risabae/naega-aneun-geudae"
+duration = "4:39"
+
+[[tracks]]
+position = 2
+song-id = "risabae/naega-aneun-geudae-inst"
+duration = "4:39"

@@ -1,0 +1,15 @@
+artist-id = "risabae"
+kind = "single"
+
+names = [
+  { name = "내가 아는 그대 (X-MAS Project Special)", locale = "ko", original = true },
+  { name = "Naega Aneun Geudae (X-MAS Project Special)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-08-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10480739" },
+]
