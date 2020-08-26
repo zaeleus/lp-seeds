@@ -1,0 +1,8 @@
+names = [
+  { name = "FALL IN LUST", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "eden", separator = " x " },
+  { artist-id = "jiselle" },
+]
