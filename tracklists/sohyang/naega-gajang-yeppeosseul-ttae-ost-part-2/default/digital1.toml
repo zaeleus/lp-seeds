@@ -1,0 +1,13 @@
+medium-ids = [
+  "sohyang/naega-gajang-yeppeosseul-ttae-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sohyang/once"
+duration = "4:13"
+
+[[tracks]]
+position = 2
+song-id = "sohyang/once-inst"
+duration = "4:13"
