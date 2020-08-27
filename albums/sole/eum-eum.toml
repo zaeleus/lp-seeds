@@ -1,0 +1,15 @@
+artist-id = "sole"
+kind = "single"
+
+names = [
+  { name = "음음", locale = "ko", original = true },
+  { name = "Eum Eum", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-08-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10481323" },
+]

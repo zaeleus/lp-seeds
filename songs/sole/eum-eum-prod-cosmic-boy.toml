@@ -1,0 +1,4 @@
+names = [
+  { name = "음음 (Prod. Cosmic Boy)", locale = "ko", original = true },
+  { name = "Eum Eum (Prod. Cosmic Boy)", locale = "ko-Latn", default = true },
+]

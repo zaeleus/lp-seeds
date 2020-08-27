@@ -1,0 +1,13 @@
+medium-ids = [
+  "sole/eum-eum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sole/eum-eum-prod-cosmic-boy"
+duration = "2:47"
+
+[[tracks]]
+position = 2
+song-id = "sole/eum-eum-acoustic-ver"
+duration = "2:56"
