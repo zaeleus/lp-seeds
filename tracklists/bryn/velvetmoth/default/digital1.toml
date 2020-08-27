@@ -1,0 +1,28 @@
+medium-ids = [
+  "bryn/velvetmoth/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bryn/highschool-feat-ohno"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "bryn/cantsay"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "bryn/daddyslilgirl"
+duration = "3:41"
+
+[[tracks]]
+position = 4
+song-id = "bryn/niga-mwonde"
+duration = "3:10"
+
+[[tracks]]
+position = 5
+song-id = "bryn/going-out-feat-punchnello"
+duration = "3:17"

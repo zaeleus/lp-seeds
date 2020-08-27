@@ -1,0 +1,3 @@
+names = [
+  { name = "HIGHSCHOOL (Feat. OHNO)", locale = "ko", original = true, default = true },
+]
