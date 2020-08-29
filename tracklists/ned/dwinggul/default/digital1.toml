@@ -1,0 +1,13 @@
+medium-ids = [
+  "ned/dwinggul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ned/dwinggul"
+duration = "2:54"
+
+[[tracks]]
+position = 2
+song-id = "ned/dwinggul-inst"
+duration = "2:54"
