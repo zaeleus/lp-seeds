@@ -1,0 +1,13 @@
+medium-ids = [
+  "huh-gak/deutgo-sipdeon-mal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "huh-gak/deutgo-sipdeon-mal"
+duration = "4:31"
+
+[[tracks]]
+position = 2
+song-id = "huh-gak/deutgo-sipdeon-mal-inst"
+duration = "4:31"
