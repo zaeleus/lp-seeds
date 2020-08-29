@@ -1,0 +1,9 @@
+names = [
+  { name = "목소리 (Mermaid) (Feat. Rohann)", locale = "ko", original = true },
+  { name = "Moksori (Mermaid) (Feat. Rohann)", locale = "ko-Latn", default = true },
+  { name = "Mermaid (Feat. Rohann)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "clc/yeeun" },
+]

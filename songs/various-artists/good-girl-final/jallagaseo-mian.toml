@@ -1,0 +1,9 @@
+names = [
+  { name = "잘나가서 미안", locale = "ko", original = true },
+  { name = "Jallagaseo Mian", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "sleeq", separator = ", " },
+  { artist-id = "queen-wasabii" },
+]

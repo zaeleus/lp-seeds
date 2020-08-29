@@ -1,0 +1,10 @@
+names = [
+  { name = "Wet", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "kard/ji-woo"
+names = [
+  { name = "전지우", locale = "ko", kind = "real" },
+  { name = "Jeon Ji Woo", locale = "ko-Latn", kind = "real" },
+]

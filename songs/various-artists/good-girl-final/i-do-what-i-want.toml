@@ -1,0 +1,14 @@
+names = [
+  { name = "I Do What I Want", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/hyoyeon"
+names = [
+  { name = "효연", locale = "ko", original = true },
+  { name = "HYOYEON", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "lee-young-ji"

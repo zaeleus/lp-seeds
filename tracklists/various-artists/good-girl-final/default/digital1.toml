@@ -1,0 +1,33 @@
+medium-ids = [
+  "various-artists/good-girl-final/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "various-artists/good-girl-final/jallagaseo-mian"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "various-artists/good-girl-final/moonlight"
+duration = "2:59"
+
+[[tracks]]
+position = 3
+song-id = "various-artists/good-girl-final/wet"
+duration = "3:16"
+
+[[tracks]]
+position = 4
+song-id = "various-artists/good-girl-final/moksori-mermaid-feat-rohann"
+duration = "3:34"
+
+[[tracks]]
+position = 5
+song-id = "various-artists/good-girl-final/i-do-what-i-want"
+duration = "3:27"
+
+[[tracks]]
+position = 6
+song-id = "various-artists/good-girl-final/grenade"
+duration = "3:10"
