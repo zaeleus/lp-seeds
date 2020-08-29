@@ -1,0 +1,4 @@
+names = [
+  { name = "Diet (Feat. 휘인 of 마마무)", locale = "ko", original = true },
+  { name = "Diet (Feat. Wheein of MAMAMOO)", locale = "ko-Latn", default = true },
+]

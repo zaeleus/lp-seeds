@@ -1,0 +1,28 @@
+medium-ids = [
+  "peakboy/loop/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "peakboy/sumbakkokjil"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "peakboy/gamangi-eopseo"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song-id = "peakboy/diet-feat-wheein-of-mamamoo"
+duration = "3:39"
+
+[[tracks]]
+position = 4
+song-id = "peakboy/cheongchun-geoji"
+duration = "3:30"
+
+[[tracks]]
+position = 5
+song-id = "peakboy/loop"
+duration = "3:26"
