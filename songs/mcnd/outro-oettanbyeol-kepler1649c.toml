@@ -1,0 +1,4 @@
+names = [
+  { name = "Outro; 외딴별 (Kepler1649c)", locale = "ko", original = true },
+  { name = "Outro; Oettanbyeol (Kepler1649c)", locale = "ko-Latn", default = true },
+]

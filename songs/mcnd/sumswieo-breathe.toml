@@ -1,0 +1,5 @@
+names = [
+  { name = "숨쉬어 (Breathe)", locale = "ko", original = true },
+  { name = "Sumswieo (Breathe)", locale = "ko-Latn", default = true },
+  { name = "Breathe", locale = "en" },
+]

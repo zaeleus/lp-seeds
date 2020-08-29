@@ -1,0 +1,38 @@
+medium-ids = [
+  "mcnd/earth-age/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mcnd/intro-pureunbyeol-earth-age"
+duration = "2:27"
+
+[[tracks]]
+position = 2
+song-id = "mcnd/nanana"
+duration = "3:13"
+
+[[tracks]]
+position = 3
+song-id = "mcnd/sumswieo-breathe"
+duration = "3:24"
+
+[[tracks]]
+position = 4
+song-id = "mcnd/beautiful"
+duration = "3:25"
+
+[[tracks]]
+position = 5
+song-id = "mcnd/galaxy"
+duration = "3:14"
+
+[[tracks]]
+position = 6
+song-id = "mcnd/kwang-kwang-kwang-bumpin"
+duration = "3:07"
+
+[[tracks]]
+position = 7
+song-id = "mcnd/outro-oettanbyeol-kepler1649c"
+duration = "2:47"
