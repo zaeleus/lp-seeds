@@ -1,0 +1,13 @@
+medium-ids = [
+  "k-da/the-baddest/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "k-da/the-baddest"
+duration = "2:43"
+
+[[tracks]]
+position = 2
+song-id = "k-da/the-baddest-inst"
+duration = "2:43"
