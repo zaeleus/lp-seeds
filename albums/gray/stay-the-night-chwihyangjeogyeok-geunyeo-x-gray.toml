@@ -1,0 +1,15 @@
+artist-id = "gray"
+kind = "single"
+
+names = [
+  { name = "STAY THE NIGHT (취향저격 그녀 X GRAY)", locale = "ko", original = true },
+  { name = "STAY THE NIGHT (Chwihyangjeogyeok Geunyeo X GRAY)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-08-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10475202" },
+]
