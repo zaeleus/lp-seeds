@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-jang-hoon/gaengsaeng/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-jang-hoon/gaengsaeng"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "kim-jang-hoon/gaengsaeng-inst"
+duration = "3:33"

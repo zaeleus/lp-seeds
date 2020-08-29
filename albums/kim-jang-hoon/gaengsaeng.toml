@@ -1,0 +1,15 @@
+artist-id = "kim-jang-hoon"
+kind = "single"
+
+names = [
+  { name = "갱생", locale = "ko", original = true },
+  { name = "Gaengsaeng", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-08-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10482863" },
+]
