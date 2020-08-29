@@ -1,0 +1,10 @@
+names = [
+  { name = "댓츠마걸 !!!", locale = "ko", original = true },
+  { name = "Daetcheumageol !!!", locale = "ko-Latn", default = true },
+  { name = "That's My Girl !!!", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "yunhway", separator = ", " },
+  { artist-id = "lee-young-ji" },
+]

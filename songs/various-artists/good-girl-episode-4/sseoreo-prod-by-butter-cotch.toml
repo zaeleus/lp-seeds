@@ -1,0 +1,9 @@
+names = [
+  { name = "썰어 (Prod. By BUTTER$COTCH)", locale = "ko", original = true },
+  { name = "Sseoreo (Prod. By BUTTER$COTCH)", locale = "ko-Latn", default = true },
+  { name = "knife (Prod. By BUTTER$COTCH)", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "rhythm-power" },
+]

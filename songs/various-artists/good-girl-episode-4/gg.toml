@@ -1,0 +1,22 @@
+names = [
+  { name = "GG", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "ailee"
+separator = ", "
+
+[[artist-credits]]
+artist-id = "girls-generation/hyoyeon"
+names = [
+  { name = "효연", locale = "ko", original = true },
+  { name = "HYOYEON", locale = "ko-Latn", default = true },
+]
+separator = ", "
+
+[[artist-credits]]
+artist-id = "kard/ji-woo"
+names = [
+  { name = "전지우", locale = "ko", kind = "real" },
+  { name = "Jeon Ji Woo", locale = "ko-Latn", kind = "real" },
+]

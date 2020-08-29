@@ -1,0 +1,10 @@
+names = [
+  { name = "이겨 우리가 어차피", locale = "ko", original = true },
+  { name = "Igyeo Uriga Eochapi", locale = "ko-Latn", default = true },
+  { name = "We won", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "nafla", separator = ", " },
+  { artist-id = "loopy" },
+]

@@ -1,0 +1,23 @@
+medium-ids = [
+  "various-artists/good-girl-episode-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "various-artists/good-girl-episode-4/daetcheumageol"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "various-artists/good-girl-episode-4/igyeo-uriga-eochapi"
+duration = "3:01"
+
+[[tracks]]
+position = 3
+song-id = "various-artists/good-girl-episode-4/sseoreo-prod-by-butter-cotch"
+duration = "3:02"
+
+[[tracks]]
+position = 4
+song-id = "various-artists/good-girl-episode-4/gg"
+duration = "3:17"
