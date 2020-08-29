@@ -1,0 +1,5 @@
+names = [
+  { name = "나무 (Tree) (Orchestra Ver.)", locale = "ko", original = true },
+  { name = "Namu (Tree) (Orchestra Ver.)", locale = "ko-Latn", default = true },
+  { name = "Tree (Orchestra Ver.)", locale = "en" },
+]
