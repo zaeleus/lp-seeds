@@ -1,0 +1,8 @@
+medium-ids = [
+  "blackpink/ice-cream-with-selena-gomez/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "blackpink/ice-cream-with-selena-gomez"
+duration = "2:56"
