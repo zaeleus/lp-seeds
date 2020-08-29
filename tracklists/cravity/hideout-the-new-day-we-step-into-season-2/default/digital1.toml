@@ -1,0 +1,38 @@
+medium-ids = [
+  "cravity/hideout-the-new-day-we-step-into-season-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cravity/flame"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "cravity/believer"
+duration = "3:35"
+
+[[tracks]]
+position = 3
+song-id = "cravity/ohh-ahh"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "cravity/realize"
+duration = "3:36"
+
+[[tracks]]
+position = 5
+song-id = "cravity/yeolgigu"
+duration = "3:08"
+
+[[tracks]]
+position = 6
+song-id = "cravity/sunrise"
+duration = "3:18"
+
+[[tracks]]
+position = 7
+song-id = "cravity/hoheup-breathing"
+duration = "3:39"

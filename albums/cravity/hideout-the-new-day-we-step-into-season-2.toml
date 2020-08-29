@@ -1,0 +1,14 @@
+artist-id = "cravity"
+kind = "ep"
+
+names = [
+  { name = "HIDEOUT: THE NEW DAY WE STEP INTO - SEASON 2.", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-08-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10479981" },
+]
