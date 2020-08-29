@@ -1,0 +1,4 @@
+names = [
+  { name = "얼음과 불의 노래 (Prod. GroovyRoom)", locale = "ko", original = true },
+  { name = "Eoreumgwa Burui Norae (Prod. GroovyRoom)", locale = "ko-Latn", default = true },
+]

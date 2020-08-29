@@ -1,0 +1,4 @@
+names = [
+  { name = "탄생화 (Prod. 서사무엘)", locale = "ko", original = true },
+  { name = "Tansaenghwa (Prod. Samuel Seo)", locale = "ko-Latn", default = true },
+]

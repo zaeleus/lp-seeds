@@ -1,0 +1,18 @@
+medium-ids = [
+  "onlyoneof/produced-by-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "onlyoneof/tansaenghwa-prod-samuel-seo"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "onlyoneof/eoreumgwa-burui-norae-prod-groovyroom"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "onlyoneof/off-angel-prod-jr-groove"
+duration = "3:59"
