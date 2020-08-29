@@ -1,0 +1,13 @@
+medium-ids = [
+  "dongkiz/jaa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dongkiz/areumdawo"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "dongkiz/areumdawo-inst"
+duration = "3:01"

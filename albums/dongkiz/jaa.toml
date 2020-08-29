@@ -1,0 +1,17 @@
+artist-id = "dongkiz"
+kind = "single"
+
+names = [
+  { name = "自我", locale = "ko", original = true },
+  { name = "자아", locale = "ko" },
+  { name = "Jaa", locale = "ko-Latn", default = true },
+  { name = "The Conscious", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-08-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10477301" },
+]
