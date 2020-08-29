@@ -1,0 +1,8 @@
+medium-ids = [
+  "zion-t/jiltu-carnival-gwanggoeumak/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zion-t/jiltu-carnival-gwanggoeumak"
+duration = "2:56"

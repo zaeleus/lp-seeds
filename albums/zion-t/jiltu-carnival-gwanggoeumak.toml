@@ -1,0 +1,15 @@
+artist-id = "zion-t"
+kind = "single"
+
+names = [
+  { name = "질투 (카니발 광고음악)", locale = "ko", original = true },
+  { name = "Jiltu (Carnival Gwanggoeumak)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-08-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10476489" },
+]
