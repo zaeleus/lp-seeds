@@ -1,0 +1,15 @@
+artist-id = "basick"
+kind = "single"
+
+names = [
+  { name = "촛됐다 (가짜사나이)", locale = "ko", original = true },
+  { name = "Chotdwaetda (Gajjasanai)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10463816" },
+]

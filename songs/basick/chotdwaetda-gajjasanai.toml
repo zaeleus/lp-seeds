@@ -1,0 +1,4 @@
+names = [
+  { name = "촛됐다 (가짜사나이)", locale = "ko", original = true },
+  { name = "Chotdwaetda (Gajjasanai)", locale = "ko-Latn", default = true },
+]
