@@ -1,0 +1,13 @@
+medium-ids = [
+  "yourbeagle/yeonaeui-chamgyeon-season-3-ost-part-17/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/seollego-sipeo"
+duration = "2:51"
+
+[[tracks]]
+position = 2
+song-id = "yourbeagle/seollego-sipeo-inst"
+duration = "2:51"
