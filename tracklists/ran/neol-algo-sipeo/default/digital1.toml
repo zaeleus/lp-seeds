@@ -1,0 +1,13 @@
+medium-ids = [
+  "ran/neol-algo-sipeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ran/neol-algo-sipeo"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "ran/neol-algo-sipeo-inst"
+duration = "3:05"
