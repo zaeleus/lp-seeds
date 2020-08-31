@@ -1,0 +1,5 @@
+names = [
+  { name = "페스티벌", locale = "ko", original = true },
+  { name = "Peseutibeol", locale = "ko-Latn" },
+  { name = "Festival", locale = "en", default = true },
+]
