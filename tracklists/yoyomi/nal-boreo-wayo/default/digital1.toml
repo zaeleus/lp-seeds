@@ -1,0 +1,18 @@
+medium-ids = [
+  "yoyomi/nal-boreo-wayo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yoyomi/nal-boreo-wayo"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "yoyomi/nal-boreo-wayo-mr"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "yoyomi/nal-boreo-wayo-inst"
+duration = "3:16"
