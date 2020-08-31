@@ -1,0 +1,4 @@
+names = [
+  { name = "Beautiful Scar (Feat. 박우진 of AB6IX)", locale = "ko", original = true },
+  { name = "Beautiful Scar (Feat. Park Woo Jin of AB6IX)", locale = "ko-Latn", default = true },
+]
