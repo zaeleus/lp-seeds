@@ -1,0 +1,13 @@
+medium-ids = [
+  "yoo-seung-woo/yeonaeneun-gwichanchiman-oeroun-geon-sireo-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yoo-seung-woo/luv-luv-baby"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "yoo-seung-woo/luv-luv-baby-inst"
+duration = "3:27"
