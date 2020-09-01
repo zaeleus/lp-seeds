@@ -1,0 +1,5 @@
+names = [
+  { name = "시트러스 썸머에일", locale = "ko", original = true },
+  { name = "Siteureoseu Sseommeoeil", locale = "ko-Latn" },
+  { name = "Citrus Summer Ale", locale = "en", default = true },
+]

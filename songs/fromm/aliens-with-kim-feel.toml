@@ -1,0 +1,4 @@
+names = [
+  { name = "ALIENS (With 김필)", locale = "ko", original = true },
+  { name = "ALIENS (With Kim Feel)", locale = "ko-Latn", default = true },
+]
