@@ -1,0 +1,13 @@
+medium-ids = [
+  "punch/beuramseureul-joahaseyo-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "punch/close-to-me"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "punch/close-to-me-inst"
+duration = "3:27"
