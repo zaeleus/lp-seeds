@@ -1,0 +1,8 @@
+medium-ids = [
+  "superm/horangi-tiger-inside/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "superm/horangi-tiger-inside"
+duration = "3:30"

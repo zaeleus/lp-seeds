@@ -1,0 +1,5 @@
+names = [
+  { name = "호랑이 (Tiger Inside)", locale = "ko", original = true },
+  { name = "Horangi (Tiger Inside)", locale = "ko-Latn", default = true },
+  { name = "Tiger Inside", locale = "en" },
+]
