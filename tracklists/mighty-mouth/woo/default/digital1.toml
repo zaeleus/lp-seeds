@@ -1,0 +1,13 @@
+medium-ids = [
+  "mighty-mouth/woo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mighty-mouth/woo"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "mighty-mouth/woo-inst"
+duration = "3:22"
