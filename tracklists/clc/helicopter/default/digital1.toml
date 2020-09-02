@@ -1,0 +1,13 @@
+medium-ids = [
+  "clc/helicopter/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "clc/helicopter"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "clc/helicopter-english-ver"
+duration = "3:44"
