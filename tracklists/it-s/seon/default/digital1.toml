@@ -1,0 +1,18 @@
+medium-ids = [
+  "it-s/seon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "it-s/seon-line"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "it-s/biga-ondaneun-pinggyero"
+duration = "3:38"
+
+[[tracks]]
+position = 3
+song-id = "it-s/happy-now"
+duration = "3:44"
