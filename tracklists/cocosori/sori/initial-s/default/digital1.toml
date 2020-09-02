@@ -1,0 +1,13 @@
+medium-ids = [
+  "cocosori/sori/initial-s/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cocosori/sori/initial-s"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "cocosori/sori/initial-s-instrumental"
+duration = "3:04"
