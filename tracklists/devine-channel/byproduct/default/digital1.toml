@@ -1,0 +1,18 @@
+medium-ids = [
+  "devine-channel/byproduct/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "devine-channel/faded-feat-loopy-chanyeol"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "devine-channel/mangmal-feat-gaeko-gwangil-jo"
+duration = "2:26"
+
+[[tracks]]
+position = 3
+song-id = "devine-channel/post-it-feat-lil-cherry-goldbuuda"
+duration = "3:04"
