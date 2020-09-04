@@ -1,0 +1,23 @@
+medium-ids = [
+  "boi-b/night-vibe-1-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boi-b/yuenbilliji-produced-by-woogie"
+duration = "2:48"
+
+[[tracks]]
+position = 2
+song-id = "boi-b/sinsahongdaeapgujeong-produced-by-vincent-park-remastered"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "boi-b/yuenbilliji-produced-by-woogie-inst"
+duration = "2:48"
+
+[[tracks]]
+position = 4
+song-id = "boi-b/sinsahongdaeapgujeong-produced-by-vincent-park-remastered-inst"
+duration = "3:03"
