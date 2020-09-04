@@ -1,0 +1,13 @@
+medium-ids = [
+  "car-the-garden/bamsae-chwihyangjeogyeok-geunyeo-x-car-the-garden/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "car-the-garden/bamsae-chwihyangjeogyeok-geunyeo-x-car-the-garden"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "car-the-garden/bamsae-chwihyangjeogyeok-geunyeo-x-car-the-garden-inst"
+duration = "3:20"
