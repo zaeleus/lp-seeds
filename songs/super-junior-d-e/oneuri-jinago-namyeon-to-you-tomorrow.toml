@@ -1,0 +1,5 @@
+names = [
+  { name = "오늘이 지나고 나면 (To you, Tomorrow)", locale = "ko", original = true },
+  { name = "Oneuri Jinago Namyeon (To you, Tomorrow)", locale = "ko-Latn", default = true },
+  { name = "To you, Tomorrow", locale = "en" },
+]
