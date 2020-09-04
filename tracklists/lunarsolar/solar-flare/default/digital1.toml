@@ -1,0 +1,13 @@
+medium-ids = [
+  "lunarsolar/solar-flare/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lunarsolar/noneun-ge-jeil-joa-oh-ya-ya-ya"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "lunarsolar/noneun-ge-jeil-joa-oh-ya-ya-ya-inst"
+duration = "3:01"

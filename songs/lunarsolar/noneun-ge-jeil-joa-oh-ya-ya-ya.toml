@@ -1,0 +1,5 @@
+names = [
+  { name = "노는 게 제일 좋아 (OH YA YA YA)", locale = "ko", original = true },
+  { name = "Noneun Ge Jeil Joa (OH YA YA YA)", locale = "ko-Latn", default = true },
+  { name = "OH YA YA YA", locale = "en" },
+]
