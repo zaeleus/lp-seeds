@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "보토패스", locale = "ko", original = true },
+  { name = "BOTOPASS", locale = "en", default = true },
+]

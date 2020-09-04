@@ -1,0 +1,13 @@
+medium-ids = [
+  "botopass/flamingo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "botopass/flamingo"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "botopass/flamingo-inst"
+duration = "3:10"
