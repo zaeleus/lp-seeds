@@ -1,0 +1,5 @@
+names = [
+  { name = "아름다운 (ONCE IN MY LIFE)", locale = "ko", original = true },
+  { name = "Areumdaun (ONCE IN MY LIFE)", locale = "ko-Latn", default = true },
+  { name = "ONCE IN MY LIFE", locale = "en" },
+]

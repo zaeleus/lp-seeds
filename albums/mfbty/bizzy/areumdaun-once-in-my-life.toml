@@ -1,0 +1,16 @@
+artist-id = "mfbty/bizzy"
+kind = "single"
+
+names = [
+  { name = "아름다운 (ONCE IN MY LIFE)", locale = "ko", original = true },
+  { name = "Areumdaun (ONCE IN MY LIFE)", locale = "ko-Latn", default = true },
+  { name = "ONCE IN MY LIFE", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-09-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10486140" },
+]
