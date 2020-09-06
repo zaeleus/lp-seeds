@@ -1,0 +1,43 @@
+medium-ids = [
+  "saevom/maeumsai/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saevom/annyeong-yeoreum"
+duration = "4:13"
+
+[[tracks]]
+position = 2
+song-id = "saevom/neol-aju-orae-saranghage-doel-geot-gata"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "saevom/anajullaeyo"
+duration = "3:29"
+
+[[tracks]]
+position = 4
+song-id = "saevom/nan-yeojeonhi-yeojeonhae"
+duration = "3:58"
+
+[[tracks]]
+position = 5
+song-id = "saevom/uri-annyeongeul-barae"
+duration = "3:36"
+
+[[tracks]]
+position = 6
+song-id = "saevom/teoneoreul-geotgo-isseo"
+duration = "3:33"
+
+[[tracks]]
+position = 7
+song-id = "saevom/urin"
+duration = "3:43"
+
+[[tracks]]
+position = 8
+song-id = "saevom/seoreun-bamjjae-2020"
+duration = "3:53"

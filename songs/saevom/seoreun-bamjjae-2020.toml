@@ -1,0 +1,4 @@
+names = [
+  { name = "서른 밤째 (2020)", locale = "ko", original = true },
+  { name = "Seoreun Bamjjae (2020)", locale = "ko-Latn", default = true },
+]
