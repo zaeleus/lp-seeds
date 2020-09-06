@@ -1,0 +1,13 @@
+medium-ids = [
+  "rocoberry/rokoneun-rokoda-roco-is-roco/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rocoberry/rokoneun-rokoda-roco-is-roco"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "rocoberry/rokoneun-rokoda-roco-is-roco-inst"
+duration = "3:14"

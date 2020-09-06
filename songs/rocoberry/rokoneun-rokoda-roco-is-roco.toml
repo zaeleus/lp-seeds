@@ -1,0 +1,5 @@
+names = [
+  { name = "로코는 로코다 (roco is roco)", locale = "ko", original = true },
+  { name = "Rokoneun Rokoda (roco is roco)", locale = "ko-Latn", default = true },
+  { name = "roco is roco", locale = "en" },
+]
