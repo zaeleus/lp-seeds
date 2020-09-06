@@ -1,0 +1,14 @@
+artist-id = "wonho"
+kind = "ep"
+
+names = [
+  { name = "Love Synonym #1: Right for Me", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-08-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10476369" },
+]
