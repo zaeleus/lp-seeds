@@ -1,0 +1,13 @@
+medium-ids = [
+  "dasom-kyung/gil-ireun-mulgogi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dasom-kyung/gil-ireun-mulgogi"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "dasom-kyung/gil-ireun-mulgogi-inst"
+duration = "2:56"
