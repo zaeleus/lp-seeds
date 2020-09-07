@@ -1,0 +1,13 @@
+medium-ids = [
+  "god/beuramseureul-joahaseyo-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "god/jigeum-mannareo-galge"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "god/jigeum-mannareo-galge-inst"
+duration = "4:15"
