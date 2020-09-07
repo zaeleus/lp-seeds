@@ -1,0 +1,23 @@
+medium-ids = [
+  "kissn/for-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kissn/saranghae-luv-scars"
+duration = "4:33"
+
+[[tracks]]
+position = 2
+song-id = "kissn/hope-you"
+duration = "4:06"
+
+[[tracks]]
+position = 3
+song-id = "kissn/saranghae-luv-scars-inst"
+duration = "4:33"
+
+[[tracks]]
+position = 4
+song-id = "kissn/hope-you-inst"
+duration = "4:06"
