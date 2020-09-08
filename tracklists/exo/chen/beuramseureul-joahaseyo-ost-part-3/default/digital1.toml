@@ -1,0 +1,13 @@
+medium-ids = [
+  "exo/chen/beuramseureul-joahaseyo-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/chen/neoui-dalbit"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "exo/chen/neoui-dalbit-inst"
+duration = "3:44"
