@@ -1,0 +1,23 @@
+medium-ids = [
+  "wisue/flower-shop-yeoreumgwa-gaeul-sai/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wisue/clematis"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "wisue/pieona"
+duration = "3:37"
+
+[[tracks]]
+position = 3
+song-id = "wisue/annyeong-yeogineun"
+duration = "3:40"
+
+[[tracks]]
+position = 4
+song-id = "wisue/yeol"
+duration = "4:15"

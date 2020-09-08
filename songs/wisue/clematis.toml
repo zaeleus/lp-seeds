@@ -1,0 +1,5 @@
+names = [
+  { name = "클레마티스", locale = "ko", original = true },
+  { name = "Keullematiseu", locale = "ko-Latn" },
+  { name = "Clematis", locale = "en", default = true },
+]
