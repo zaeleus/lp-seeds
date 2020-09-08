@@ -1,0 +1,5 @@
+names = [
+  { name = "자각몽 (Abracadabra)", locale = "ko", original = true },
+  { name = "Jagangmong (Abracadabra)", locale = "ko-Latn", default = true },
+  { name = "Abracadabra", locale = "en" },
+]

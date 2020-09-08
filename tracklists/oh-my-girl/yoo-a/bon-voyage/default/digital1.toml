@@ -1,0 +1,28 @@
+medium-ids = [
+  "oh-my-girl/yoo-a/bon-voyage/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-my-girl/yoo-a/supui-ai-bon-voyage"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "oh-my-girl/yoo-a/nal-chajaseo-far"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "oh-my-girl/yoo-a/diver"
+duration = "3:41"
+
+[[tracks]]
+position = 4
+song-id = "oh-my-girl/yoo-a/jagangmong-abracadabra"
+duration = "3:20"
+
+[[tracks]]
+position = 5
+song-id = "oh-my-girl/yoo-a/end-of-story"
+duration = "3:46"

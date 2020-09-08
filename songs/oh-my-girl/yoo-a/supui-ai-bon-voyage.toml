@@ -1,0 +1,5 @@
+names = [
+  { name = "숲의 아이 (Bon voyage)", locale = "ko", original = true },
+  { name = "Supui Ai (Bon voyage)", locale = "ko-Latn", default = true },
+  { name = "Bon voyage", locale = "en" },
+]
