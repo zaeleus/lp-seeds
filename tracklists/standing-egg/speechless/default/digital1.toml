@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/speechless/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/speechless"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/speechless-inst"
+duration = "3:28"
