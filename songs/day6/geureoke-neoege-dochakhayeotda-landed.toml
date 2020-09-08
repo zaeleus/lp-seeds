@@ -1,0 +1,5 @@
+names = [
+  { name = "그렇게 너에게 도착하였다 (Landed)", locale = "ko", original = true },
+  { name = "Geureoke Neoege Dochakhayeotda (Landed)", locale = "ko-Latn", default = true },
+  { name = "Landed", locale = "en" },
+]
