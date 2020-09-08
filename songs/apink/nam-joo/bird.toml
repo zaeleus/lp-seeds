@@ -1,0 +1,10 @@
+names = [
+  { name = "Bird", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "apink/nam-joo"
+names = [
+  { name = "김남주", locale = "ko", original = true },
+  { name = "Kim Nam Joo", locale = "ko-Latn", default = true },
+]
