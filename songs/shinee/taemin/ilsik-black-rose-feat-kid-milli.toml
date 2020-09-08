@@ -1,0 +1,5 @@
+names = [
+  { name = "일식 (Black Rose) (Feat. Kid Milli)", locale = "ko", original = true },
+  { name = "Ilsik (Black Rose) (Feat. Kid Milli)", locale = "ko-Latn", default = true },
+  { name = "Black Rose (Feat. Kid Milli)", locale = "en" },
+]
