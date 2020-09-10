@@ -1,0 +1,19 @@
+artist-id = "-virtual/george-cosmic-boy"
+kind = "single"
+
+names = [
+  { name = "surf", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "george", separator = ", " },
+  { artist-id = "cosmic-boy" },
+]
+
+[[releases]]
+released-on = "2020-09-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10483587" },
+]
