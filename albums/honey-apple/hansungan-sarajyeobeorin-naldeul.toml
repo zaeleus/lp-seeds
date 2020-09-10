@@ -1,0 +1,15 @@
+artist-id = "honey-apple"
+kind = "single"
+
+names = [
+  { name = "한순간 사라져버린 날들", locale = "ko", original = true },
+  { name = "Hansungan Sarajyeobeorin Naldeul", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-09-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10488625" },
+]

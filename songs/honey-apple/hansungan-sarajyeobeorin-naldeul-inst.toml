@@ -1,0 +1,4 @@
+names = [
+  { name = "한순간 사라져버린 날들 (Inst.)", locale = "ko", original = true },
+  { name = "Hansungan Sarajyeobeorin Naldeul (Inst.)", locale = "ko-Latn", default = true },
+]
