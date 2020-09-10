@@ -1,0 +1,4 @@
+names = [
+  { name = "새겨진 나날들이 (Inst.)", locale = "ko", original = true },
+  { name = "Saegyeojin Nanaldeuri (Inst.)", locale = "ko-Latn", default = true },
+]

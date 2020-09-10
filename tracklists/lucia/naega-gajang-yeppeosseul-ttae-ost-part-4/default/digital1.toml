@@ -1,0 +1,13 @@
+medium-ids = [
+  "lucia/naega-gajang-yeppeosseul-ttae-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucia/saegyeojin-nanaldeuri"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "lucia/saegyeojin-nanaldeuri-inst"
+duration = "3:54"
