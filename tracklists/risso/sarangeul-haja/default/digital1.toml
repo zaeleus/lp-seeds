@@ -1,0 +1,13 @@
+medium-ids = [
+  "risso/sarangeul-haja/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "risso/sarangeul-haja"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "risso/sarangeul-haja-inst"
+duration = "3:00"
