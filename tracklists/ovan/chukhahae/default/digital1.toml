@@ -1,0 +1,13 @@
+medium-ids = [
+  "ovan/chukhahae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ovan/chukhahae"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "ovan/chukhahae-inst"
+duration = "3:16"
