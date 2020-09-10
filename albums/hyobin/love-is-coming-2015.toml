@@ -1,0 +1,14 @@
+artist-id = "hyobin"
+kind = "single"
+
+names = [
+  { name = "Love is coming (2015)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-09-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10487506" },
+]
