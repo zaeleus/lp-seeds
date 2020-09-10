@@ -1,0 +1,13 @@
+medium-ids = [
+  "crush/sweet-love-chwihyangjeogyeok-geunyeo-x-crush/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "crush/sweet-love-chwihyangjeogyeok-geunyeo-x-crush"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "crush/sweet-love-chwihyangjeogyeok-geunyeo-x-crush-inst"
+duration = "3:03"
