@@ -1,0 +1,8 @@
+medium-ids = [
+  "moony/swimming-remix/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "moony/swimming-remix"
+duration = "4:23"
