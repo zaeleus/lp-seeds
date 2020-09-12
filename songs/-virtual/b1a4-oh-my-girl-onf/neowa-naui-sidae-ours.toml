@@ -1,0 +1,10 @@
+names = [
+  { name = "너와 나의 시대 (OURS)", locale = "ko", original = true },
+  { name = "Neowa Naui Sidae (OURS)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "b1a4", separator = ", " },
+  { artist-id = "oh-my-girl", separator = ", " },
+  { artist-id = "onf" },
+]

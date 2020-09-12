@@ -1,0 +1,20 @@
+artist-id = "-virtual/b1a4-oh-my-girl-onf"
+kind = "single"
+
+names = [
+  { name = "HELLO! WM", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "b1a4", separator = ", " },
+  { artist-id = "oh-my-girl", separator = ", " },
+  { artist-id = "onf" },
+]
+
+[[releases]]
+released-on = "2020-09-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10485693" },
+]
