@@ -1,0 +1,13 @@
+medium-ids = [
+  "stellar/jun-yool/mamacita/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stellar/jun-yool/mamacita"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "stellar/jun-yool/mamacita-inst"
+duration = "3:35"
