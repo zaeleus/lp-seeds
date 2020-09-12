@@ -1,0 +1,4 @@
+names = [
+  { name = "(Bonus Track) 휴가 (Feat. 최엘비)", locale = "ko", original = true },
+  { name = "(Bonus Track) Hyuga (Feat. Choi LB)", locale = "ko-Latn", default = true },
+]

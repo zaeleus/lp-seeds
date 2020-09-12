@@ -1,0 +1,15 @@
+artist-id = "han-yo-han"
+kind = "ep"
+
+names = [
+  { name = "올인", locale = "ko", original = true },
+  { name = "Orin", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-09-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10489607" },
+]

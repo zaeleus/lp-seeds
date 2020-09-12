@@ -1,0 +1,23 @@
+medium-ids = [
+  "han-yo-han/orin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "han-yo-han/orin-feat-paul-blanco-changmo"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "han-yo-han/all-day-feat-sole"
+duration = "2:27"
+
+[[tracks]]
+position = 3
+song-id = "han-yo-han/tteonabeoryeo-feat-jhnovr"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "han-yo-han/bonus-track-hyuga-feat-choi-lb"
+duration = "2:54"
