@@ -1,0 +1,20 @@
+artist-id = "-virtual/bloo-nafla"
+kind = "single"
+
+names = [
+  { name = "내 탓", locale = "ko", original = true },
+  { name = "Nae Tat", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "bloo", separator = ", " },
+  { artist-id = "nafla" },
+]
+
+[[releases]]
+released-on = "2020-09-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10488249" },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/bloo-nafla/nae-tat/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/bloo-nafla/nae-tat"
+duration = "2:58"
