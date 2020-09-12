@@ -1,0 +1,13 @@
+medium-ids = [
+  "dal-shabet/serri/dagawa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dal-shabet/serri/dagawa"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "dal-shabet/serri/dagawa-inst"
+duration = "3:21"
