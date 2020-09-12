@@ -1,0 +1,13 @@
+medium-ids = [
+  "choi-ye-geun/distance/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "choi-ye-geun/distance"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "choi-ye-geun/distance-inst"
+duration = "3:08"
