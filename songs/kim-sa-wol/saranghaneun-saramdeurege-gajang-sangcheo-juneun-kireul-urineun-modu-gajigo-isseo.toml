@@ -1,0 +1,4 @@
+names = [
+  { name = "사랑하는 사람들에게 가장 상처 주는 키를 우리는 모두 가지고 있어", locale = "ko", original = true },
+  { name = "Saranghaneun Saramdeurege Gajang Sangcheo Juneun Kireul Urineun Modu Gajigo Isseo", locale = "ko-Latn", default = true },
+]
