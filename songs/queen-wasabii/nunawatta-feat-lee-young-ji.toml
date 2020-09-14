@@ -1,0 +1,4 @@
+names = [
+  { name = "누나와따 (Feat. 이영지)", locale = "ko", original = true },
+  { name = "Nunawatta (Feat. Lee Young Ji)", locale = "ko-Latn", default = true },
+]
