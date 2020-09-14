@@ -1,0 +1,8 @@
+medium-ids = [
+  "boni/gravity/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boni/gravity"
+duration = "3:04"
