@@ -1,0 +1,5 @@
+names = [
+  { name = "나비잠 (Lullaby)", locale = "ko", original = true },
+  { name = "Nabijam (Lullaby)", locale = "ko-Latn", default = true },
+  { name = "Lullaby", locale = "en" },
+]

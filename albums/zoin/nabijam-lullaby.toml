@@ -1,0 +1,16 @@
+artist-id = "zoin"
+kind = "single"
+
+names = [
+  { name = "나비잠 (Lullaby)", locale = "ko", original = true },
+  { name = "Nabijam (Lullaby)", locale = "ko-Latn", default = true },
+  { name = "Lullaby", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-09-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10489968" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "zoin/nabijam-lullaby/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zoin/nabijam-lullaby"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "zoin/nabijam-lullaby-inst"
+duration = "4:01"
