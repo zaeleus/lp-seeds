@@ -1,0 +1,14 @@
+artist-id = "b-a-p/zelo"
+kind = "ep"
+
+names = [
+  { name = "SCARECROW", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-09-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10490320" },
+]
