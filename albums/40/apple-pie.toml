@@ -1,0 +1,14 @@
+artist-id = "40"
+kind = "ep"
+
+names = [
+  { name = "APPLE PIE.", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-09-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10491571" },
+]
