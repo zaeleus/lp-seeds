@@ -1,0 +1,33 @@
+medium-ids = [
+  "vav/made-for-two/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vav/made-for-two"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "vav/into-you"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "vav/moto"
+duration = "3:38"
+
+[[tracks]]
+position = 4
+song-id = "vav/nochima-hold-tight"
+duration = "3:33"
+
+[[tracks]]
+position = 5
+song-id = "vav/you-taught-me-love"
+duration = "3:02"
+
+[[tracks]]
+position = 6
+song-id = "vav/made-for-two-inst"
+duration = "3:34"

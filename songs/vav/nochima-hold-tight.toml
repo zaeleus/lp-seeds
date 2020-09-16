@@ -1,0 +1,5 @@
+names = [
+  { name = "놓지마 (Hold Tight)", locale = "ko", original = true },
+  { name = "Nochima (Hold Tight)", locale = "ko-Latn", default = true },
+  { name = "Hold Tight", locale = "en" },
+]
