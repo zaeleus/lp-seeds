@@ -1,0 +1,13 @@
+medium-ids = [
+  "pentagon/twenty-twenty-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pentagon/twenty-twenty"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "pentagon/twenty-twenty-inst"
+duration = "3:07"
