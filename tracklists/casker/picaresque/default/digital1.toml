@@ -1,0 +1,18 @@
+medium-ids = [
+  "casker/picaresque/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "casker/agin"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "casker/sogak"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "casker/ijeya-inst"
+duration = "2:58"
