@@ -1,0 +1,28 @@
+medium-ids = [
+  "knk/knk-airline/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "knk/baram-gaeureseo-autumn-breeze"
+duration = "0:50"
+
+[[tracks]]
+position = 2
+song-id = "knk/ride"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "knk/highway"
+duration = "3:17"
+
+[[tracks]]
+position = 4
+song-id = "knk/iyu-you-are-my-reason"
+duration = "3:50"
+
+[[tracks]]
+position = 5
+song-id = "knk/time"
+duration = "3:19"
