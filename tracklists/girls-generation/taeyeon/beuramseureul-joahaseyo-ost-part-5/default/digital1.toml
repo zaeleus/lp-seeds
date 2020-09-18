@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-generation/taeyeon/beuramseureul-joahaseyo-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/taeyeon/naeireun-gobaekhalge"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/taeyeon/naeireun-gobaekhalge-inst"
+duration = "4:00"
