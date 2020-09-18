@@ -1,0 +1,15 @@
+artist-id = "12dal"
+kind = "single"
+
+names = [
+  { name = "어떡하지", locale = "ko", original = true },
+  { name = "Eotteokhaji", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-09-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10491955" },
+]
