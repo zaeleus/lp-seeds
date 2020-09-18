@@ -1,0 +1,13 @@
+medium-ids = [
+  "bumkey/yeogijeogigeogi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bumkey/yeogijeogigeogi-feat-superbee"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "bumkey/yeogijeogigeogi-inst"
+duration = "3:17"
