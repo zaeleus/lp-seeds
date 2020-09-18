@@ -1,0 +1,4 @@
+names = [
+  { name = "가도 돼 (Feat. 이형은)", locale = "ko", original = true },
+  { name = "Gado Dwae (Feat. Lee Hyung Eun)", locale = "ko-Latn", default = true },
+]
