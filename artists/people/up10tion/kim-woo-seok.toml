@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1996-10-27"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "김우석", locale = "ko", kind = "real", original = true },
+  { name = "Kim Woo Seok", locale = "ko-Latn", kind = "real", default = true },
+  { name = "우신", locale = "ko", kind = "stage" },
+  { name = "Wooshin", locale = "ko-Latn", kind = "stage" },
+]

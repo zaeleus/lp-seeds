@@ -1,0 +1,21 @@
+artist-id = "-virtual/ravi-yeri-kim-woo-seok"
+kind = "single"
+
+names = [
+  { name = "애상 (From 쿨 썸머 프로젝트)", locale = "ko", original = true },
+  { name = "Aesang (From Cool Summer Project)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "vixx/ravi", separator = ", " },
+  { artist-id = "red-velvet/yeri", separator = ", " },
+  { artist-id = "up10tion/kim-woo-seok" },
+]
+
+[[releases]]
+released-on = "2020-08-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10473483" },
+]
