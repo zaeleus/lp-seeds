@@ -1,0 +1,39 @@
+medium-ids = [
+  "various-artists/fever-music-2020-cool-summer-project/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/ravi-yeri-jeon-woong/haebyeonui-yeoin-from-cool-summer-project"
+duration = "3:33"
+names = [
+  { name = "해변의 여인", locale = "ko", original = true },
+  { name = "Haebyeonui Yeoin", locale = "ko-Latn", default = true },
+]
+
+[[tracks]]
+position = 2
+song-id = "-virtual/niel-kim-nam-joo-nam-do-hyon/unmyeong-from-cool-summer-project"
+duration = "3:50"
+names = [
+  { name = "운명", locale = "ko", original = true },
+  { name = "Unmyeong", locale = "ko-Latn", default = true },
+]
+
+[[tracks]]
+position = 3
+song-id = "-virtual/ravi-yeri-kim-woo-seok/aesang-from-cool-summer-project"
+duration = "3:31"
+names = [
+  { name = "애상", locale = "ko", original = true },
+  { name = "Aesang", locale = "ko-Latn", default = true },
+]
+
+[[tracks]]
+position = 4
+song-id = "-virtual/kim-nam-joo-ravi-kang-seung-sik/geu-yeoreum-from-cool-summer-project"
+duration = "3:55"
+names = [
+  { name = "그 여름", locale = "ko", original = true },
+  { name = "Geu Yeoreum", locale = "ko-Latn", default = true },
+]
