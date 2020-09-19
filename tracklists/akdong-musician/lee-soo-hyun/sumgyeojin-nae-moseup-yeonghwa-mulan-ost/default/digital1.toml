@@ -1,0 +1,8 @@
+medium-ids = [
+  "akdong-musician/lee-soo-hyun/sumgyeojin-nae-moseup-yeonghwa-mulan-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "akdong-musician/lee-soo-hyun/sumgyeojin-nae-moseup-from-mulan-soundtrack-version"
+duration = "3:40"
