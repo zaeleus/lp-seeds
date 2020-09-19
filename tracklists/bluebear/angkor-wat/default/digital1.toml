@@ -1,0 +1,13 @@
+medium-ids = [
+  "bluebear/angkor-wat/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bluebear/angkor-wat"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "bluebear/angkor-wat-inst"
+duration = "3:18"

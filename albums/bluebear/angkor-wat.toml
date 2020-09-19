@@ -1,0 +1,16 @@
+artist-id = "bluebear"
+kind = "single"
+
+names = [
+  { name = "앙코르와트", locale = "ko", original = true },
+  { name = "Angkoreuwateu", locale = "ko-Latn" },
+  { name = "Angkor Wat", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-09-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10492055" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "앙코르와트", locale = "ko", original = true },
+  { name = "Angkoreuwateu", locale = "ko-Latn" },
+  { name = "Angkor Wat", locale = "en", default = true },
+]
