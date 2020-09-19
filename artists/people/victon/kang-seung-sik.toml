@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1995-04-16"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "강승식", locale = "ko", kind = "real", original = true },
+  { name = "Kang Seung Sik", locale = "ko-Latn", kind = "real", default = true },
+]

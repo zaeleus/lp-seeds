@@ -1,0 +1,10 @@
+names = [
+  { name = "그 여름 (From 쿨 썸머 프로젝트)", locale = "ko", original = true },
+  { name = "Geu Yeoreum (From Cool Summer Project)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "apink/nam-joo", separator = ", " },
+  { artist-id = "vixx/ravi", separator = ", " },
+  { artist-id = "victon/kang-seung-sik" },
+]
