@@ -1,0 +1,27 @@
+artist-id = "-virtual/kisum-bora"
+kind = "single"
+
+names = [
+  { name = "반예인 OST Part 1", locale = "ko", original = true },
+  { name = "Banyein OST Part 1", locale = "ko-Latn", default = true },
+  { name = "Almost Famous OST Part 1", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "kisum"
+separator = " & "
+
+[[artist-credits]]
+artist-id = "cherry-bullet/bora"
+names = [
+  { name = "보라 (체리블렛)", locale = "ko", original = true },
+  { name = "Bora (Cherry Bullet)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-07-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10457495" },
+]

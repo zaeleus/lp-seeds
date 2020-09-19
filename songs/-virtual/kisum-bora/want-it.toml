@@ -1,0 +1,14 @@
+names = [
+  { name = "Want it", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "kisum"
+separator = " & "
+
+[[artist-credits]]
+artist-id = "cherry-bullet/bora"
+names = [
+  { name = "보라 (체리블렛)", locale = "ko", original = true },
+  { name = "Bora (Cherry Bullet)", locale = "ko-Latn", default = true },
+]
