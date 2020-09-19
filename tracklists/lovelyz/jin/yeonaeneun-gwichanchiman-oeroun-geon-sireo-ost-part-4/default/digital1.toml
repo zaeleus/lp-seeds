@@ -1,0 +1,13 @@
+medium-ids = [
+  "lovelyz/jin/yeonaeneun-gwichanchiman-oeroun-geon-sireo-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lovelyz/jin/nunkkeopuri-mugeowojil-ttaekkaji"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "lovelyz/jin/nunkkeopuri-mugeowojil-ttaekkaji-inst"
+duration = "3:56"

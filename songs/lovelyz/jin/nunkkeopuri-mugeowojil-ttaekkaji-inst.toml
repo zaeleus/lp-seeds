@@ -1,0 +1,4 @@
+names = [
+  { name = "눈꺼풀이 무거워질 때까지 (inst.)", locale = "ko", original = true },
+  { name = "Nunkkeopuri Mugeowojil Ttaekkaji (inst.)", locale = "ko-Latn", default = true },
+]
