@@ -1,0 +1,13 @@
+medium-ids = [
+  "2lson/niga-geuriun-bam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2lson/niga-geuriun-bam-feat-sun-ahn"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "2lson/niga-geuriun-bam-inst"
+duration = "4:05"

@@ -1,0 +1,4 @@
+names = [
+  { name = "니가 그리운 밤 (Feat. Sun Ahn)", locale = "ko", original = true },
+  { name = "Niga Geuriun Bam (Feat. Sun Ahn)", locale = "ko-Latn", default = true },
+]
