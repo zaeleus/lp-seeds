@@ -1,0 +1,21 @@
+artist-id = "-virtual/niel-kim-nam-joo-nam-do-hyon"
+kind = "single"
+
+names = [
+  { name = "운명 (From 쿨 썸머 프로젝트)", locale = "ko", original = true },
+  { name = "Unmyeong (From Cool Summer Project)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "teen-top/niel", separator = ", " },
+  { artist-id = "apink/nam-joo", separator = ", " },
+  { artist-id = "h-d/nam-do-hyon" },
+]
+
+[[releases]]
+released-on = "2020-07-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10470391" },
+]

@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "2004-11-10"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "남도현", locale = "ko", kind = "real", original = true },
+  { name = "Nam Do Hyon", locale = "ko-Latn", kind = "real", default = true },
+]
