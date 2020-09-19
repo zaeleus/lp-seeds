@@ -1,0 +1,9 @@
+names = [
+  { name = "World is One", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "bryn", separator = ", " },
+  { artist-id = "lee-young-ji", separator = ", " },
+  { artist-id = "sandy" },
+]
