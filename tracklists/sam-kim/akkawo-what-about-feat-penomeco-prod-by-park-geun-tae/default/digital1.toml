@@ -1,0 +1,13 @@
+medium-ids = [
+  "sam-kim/akkawo-what-about-feat-penomeco-prod-by-park-geun-tae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sam-kim/akkawo-what-about-feat-penomeco-prod-by-park-geun-tae"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "sam-kim/akkawo-what-about-feat-penomeco-prod-by-park-geun-tae-inst"
+duration = "3:29"

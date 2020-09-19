@@ -1,0 +1,4 @@
+names = [
+  { name = "아까워 (What about?) (Feat. 페노메코) (Prod. By 박근태) (Inst.)", locale = "ko", original = true },
+  { name = "Akkawo (What about?) (Feat. Penomeco) (Prod. By Park Geun Tae) (Inst.)", locale = "ko-Latn", default = true },
+]
