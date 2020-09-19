@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/park-kyung-seol-a/pyeonuijeom-saetbyeori-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/park-kyung-seol-a/siso"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/park-kyung-seol-a/siso-inst"
+duration = "3:26"

@@ -1,0 +1,9 @@
+names = [
+  { name = "시소", locale = "ko", original = true },
+  { name = "Siso", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "block-b/park-kyung", separator = ", " },
+  { artist-id = "cosmic-girls/seol-a" },
+]

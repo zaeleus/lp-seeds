@@ -1,0 +1,21 @@
+artist-id = "-virtual/park-kyung-seol-a"
+kind = "single"
+
+names = [
+  { name = "편의점 샛별이 OST Part.6", locale = "ko", original = true },
+  { name = "Pyeonuijeom Saetbyeori OST Part.6", locale = "ko-Latn", default = true },
+  { name = "Backstreet Rookie OST Part.6", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "block-b/park-kyung", separator = ", " },
+  { artist-id = "cosmic-girls/seol-a" },
+]
+
+[[releases]]
+released-on = "2020-07-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10462577" },
+]
