@@ -1,0 +1,13 @@
+medium-ids = [
+  "punch/beuramseureul-joahaseyo-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "punch/neol-saranghaetdeon-han-saram"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "punch/neol-saranghaetdeon-han-saram-inst"
+duration = "3:57"
