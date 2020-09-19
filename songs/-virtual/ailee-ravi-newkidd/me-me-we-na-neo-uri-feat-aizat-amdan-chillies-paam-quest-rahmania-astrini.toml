@@ -1,0 +1,10 @@
+names = [
+  { name = "ME ME WE (나 너 우리) (feat. Aizat Amdan, Chillies, PAAM, Quest, Rahmania Astrini)", locale = "ko", original = true },
+  { name = "ME ME WE (Na Neo Uri) (feat. Aizat Amdan, Chillies, PAAM, Quest, Rahmania Astrini)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "ailee", separator = ", " },
+  { artist-id = "vixx/ravi", separator = ", " },
+  { artist-id = "newkidd" },
+]
