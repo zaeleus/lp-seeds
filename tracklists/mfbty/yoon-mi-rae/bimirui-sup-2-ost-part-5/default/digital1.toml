@@ -1,0 +1,13 @@
+medium-ids = [
+  "mfbty/yoon-mi-rae/bimirui-sup-2-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mfbty/yoon-mi-rae/lost"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "mfbty/yoon-mi-rae/lost-inst"
+duration = "3:17"

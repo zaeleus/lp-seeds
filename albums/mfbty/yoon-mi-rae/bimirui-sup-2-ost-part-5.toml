@@ -1,0 +1,16 @@
+artist-id = "mfbty/yoon-mi-rae"
+kind = "single"
+
+names = [
+  { name = "비밀의 숲 2 OST Part.5", locale = "ko", original = true },
+  { name = "Bimirui Sup 2 OST Part.5", locale = "ko-Latn", default = true },
+  { name = "Stranger 2 OST Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-09-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10492930" },
+]
