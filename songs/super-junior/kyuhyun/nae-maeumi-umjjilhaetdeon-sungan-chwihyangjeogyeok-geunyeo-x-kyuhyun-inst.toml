@@ -1,0 +1,4 @@
+names = [
+  { name = "내 마음이 움찔했던 순간 (취향저격 그녀 X 규현) (Inst.)", locale = "ko", original = true },
+  { name = "Nae Maeumi Umjjilhaetdeon Sungan (Chwihyangjeogyeok Geunyeo X KYUHYUN) (Inst.)", locale = "ko-Latn", default = true },
+]

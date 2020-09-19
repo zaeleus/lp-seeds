@@ -1,0 +1,13 @@
+medium-ids = [
+  "super-junior/kyuhyun/nae-maeumi-umjjilhaetdeon-sungan-chwihyangjeogyeok-geunyeo-x-kyuhyun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "super-junior/kyuhyun/nae-maeumi-umjjilhaetdeon-sungan-chwihyangjeogyeok-geunyeo-x-kyuhyun"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "super-junior/kyuhyun/nae-maeumi-umjjilhaetdeon-sungan-chwihyangjeogyeok-geunyeo-x-kyuhyun-inst"
+duration = "3:54"
