@@ -1,0 +1,13 @@
+medium-ids = [
+  "lovelyz/ryu-su-jeong/geojinmarui-geojinmal-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lovelyz/ryu-su-jeong/geojinmarui-geojinmal-prod-by-park-geun-tae"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "lovelyz/ryu-su-jeong/geojinmarui-geojinmal-prod-by-park-geun-tae-inst"
+duration = "3:06"

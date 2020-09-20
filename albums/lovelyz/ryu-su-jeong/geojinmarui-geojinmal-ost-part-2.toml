@@ -1,0 +1,16 @@
+artist-id = "lovelyz/ryu-su-jeong"
+kind = "single"
+
+names = [
+  { name = "거짓말의 거짓말 OST Part.2", locale = "ko", original = true },
+  { name = "Geojinmarui Geojinmal OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Lies of Lies OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-09-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10492852" },
+]
