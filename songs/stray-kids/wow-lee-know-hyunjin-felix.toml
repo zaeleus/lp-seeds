@@ -1,0 +1,4 @@
+names = [
+  { name = "Wow (리노, 현진, 필릭스)", locale = "ko", original = true },
+  { name = "Wow (Lee Know, Hyunjin, Felix)", locale = "ko-Latn", default = true },
+]

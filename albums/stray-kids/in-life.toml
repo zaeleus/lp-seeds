@@ -1,0 +1,15 @@
+artist-id = "stray-kids"
+kind = "lp"
+
+names = [
+  { name = "IN生", locale = "ko", original = true },
+  { name = "IN LIFE", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-09-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10490109" },
+]
