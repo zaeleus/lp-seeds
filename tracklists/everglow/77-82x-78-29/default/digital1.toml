@@ -1,0 +1,23 @@
+medium-ids = [
+  "everglow/77-82x-78-29/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "everglow/la-di-da"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "everglow/untouchable"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "everglow/gxxd-boy"
+duration = "3:24"
+
+[[tracks]]
+position = 4
+song-id = "everglow/no-good-reason"
+duration = "3:37"

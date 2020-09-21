@@ -1,0 +1,14 @@
+artist-id = "everglow"
+kind = "ep"
+
+names = [
+  { name = "-77.82X-78.29", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-09-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10493519" },
+]
