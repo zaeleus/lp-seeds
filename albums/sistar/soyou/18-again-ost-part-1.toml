@@ -1,0 +1,16 @@
+artist-id = "sistar/soyou"
+kind = "single"
+
+names = [
+  { name = "18 어게인 OST Part.1", locale = "ko", original = true },
+  { name = "18 Eogein OST Part.1", locale = "ko-Latn" },
+  { name = "18 Again OST Part.1", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-09-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10493958" },
+]
