@@ -1,0 +1,8 @@
+medium-ids = [
+  "yukika/tv-reul-kyeoyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yukika/tv-reul-kyeoyo"
+duration = "4:04"
