@@ -1,0 +1,5 @@
+names = [
+  { name = "히치하이커", locale = "ko", original = true },
+  { name = "Hichihaikeo", locale = "ko-Latn" },
+  { name = "Hitchhiker", locale = "en", default = true },
+]

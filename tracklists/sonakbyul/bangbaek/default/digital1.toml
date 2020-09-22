@@ -4,10 +4,25 @@ medium-ids = [
 
 [[tracks]]
 position = 1
+song-id = "sonakbyul/heukbaengnaraui-alice"
+duration = "2:44"
+
+[[tracks]]
+position = 2
+song-id = "sonakbyul/jeoul"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "sonakbyul/bangbaek"
+duration = "3:09"
+
+[[tracks]]
+position = 4
 song-id = "sonakbyul/byeolmuri"
 duration = "3:15"
 
 [[tracks]]
-position = 2
-song-id = "sonakbyul/heukbaengnaraui-alice"
-duration = "2:44"
+position = 5
+song-id = "sonakbyul/hitchhiker"
+duration = "3:37"
