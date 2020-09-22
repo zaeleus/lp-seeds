@@ -1,0 +1,13 @@
+medium-ids = [
+  "juniel/yeonaeneun-gwichanchiman-oeroun-geon-sireo-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "juniel/delight"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "juniel/delight-inst"
+duration = "3:58"
