@@ -1,0 +1,14 @@
+artist-id = "xydo"
+kind = "single"
+
+names = [
+  { name = "KIDULTHOOD", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-09-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10493770" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "xydo/kidulthood/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "xydo/doll-feat-yunhway"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "xydo/gi-zi-ge"
+duration = "3:55"
