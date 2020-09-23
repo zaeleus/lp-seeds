@@ -1,0 +1,14 @@
+artist-id = "kriz"
+kind = "single"
+
+names = [
+  { name = "Primary Presents PAKTORY MIXTAPE VOL.4", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-09-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10493270" },
+]
