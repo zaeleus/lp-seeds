@@ -1,0 +1,13 @@
+medium-ids = [
+  "h-d/umbrella/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "h-d/usan"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "h-d/dorawa"
+duration = "3:14"
