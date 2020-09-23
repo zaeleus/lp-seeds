@@ -1,0 +1,33 @@
+medium-ids = [
+  "the-boyz/chase/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-boyz/shine-shine"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "the-boyz/the-stealer"
+duration = "3:32"
+
+[[tracks]]
+position = 3
+song-id = "the-boyz/insanity"
+duration = "3:54"
+
+[[tracks]]
+position = 4
+song-id = "the-boyz/whiplash"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "the-boyz/make-or-break"
+duration = "3:26"
+
+[[tracks]]
+position = 6
+song-id = "the-boyz/checkmate-stage-ver"
+duration = "3:33"

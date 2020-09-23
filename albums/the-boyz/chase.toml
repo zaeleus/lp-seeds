@@ -1,0 +1,14 @@
+artist-id = "the-boyz"
+kind = "ep"
+
+names = [
+  { name = "CHASE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-09-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10493556" },
+]
