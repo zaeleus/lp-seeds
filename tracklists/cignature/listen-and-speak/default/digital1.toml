@@ -1,0 +1,28 @@
+medium-ids = [
+  "cignature/listen-and-speak/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cignature/nun-nu-nan-na"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "cignature/assa"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "cignature/arisong"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song-id = "cignature/daldalhae"
+duration = "3:14"
+
+[[tracks]]
+position = 5
+song-id = "cignature/hinghing"
+duration = "3:31"
