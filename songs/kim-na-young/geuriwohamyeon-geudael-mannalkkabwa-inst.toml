@@ -1,0 +1,4 @@
+names = [
+  { name = "그리워하면 그댈 만날까봐 (Inst.)", locale = "ko", original = true },
+  { name = "Geuriwohamyeon Geudael Mannalkkabwa (Inst.)", locale = "ko-Latn", default = true },
+]
