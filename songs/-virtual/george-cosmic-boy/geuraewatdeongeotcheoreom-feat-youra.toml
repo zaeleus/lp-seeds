@@ -1,0 +1,9 @@
+names = [
+  { name = "그래왔던것처럼 (feat. 유라 (youra))", locale = "ko", original = true },
+  { name = "Geuraewatdeongeotcheoreom (feat. youra)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "george", separator = ", " },
+  { artist-id = "cosmic-boy" },
+]

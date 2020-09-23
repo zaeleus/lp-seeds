@@ -1,0 +1,28 @@
+medium-ids = [
+  "-virtual/george-cosmic-boy/love-in-summer/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/george-cosmic-boy/summer-intro"
+duration = "0:49"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/george-cosmic-boy/love-in-summer"
+duration = "2:26"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/george-cosmic-boy/water-feat-ph-1"
+duration = "2:51"
+
+[[tracks]]
+position = 4
+song-id = "-virtual/george-cosmic-boy/surf"
+duration = "2:38"
+
+[[tracks]]
+position = 5
+song-id = "-virtual/george-cosmic-boy/geuraewatdeongeotcheoreom-feat-youra"
+duration = "3:04"

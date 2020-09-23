@@ -1,0 +1,8 @@
+names = [
+  { name = "water (feat. pH-1)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "george", separator = ", " },
+  { artist-id = "cosmic-boy" },
+]
