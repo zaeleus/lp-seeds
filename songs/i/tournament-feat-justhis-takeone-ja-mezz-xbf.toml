@@ -1,0 +1,3 @@
+names = [
+  { name = "Tournament (Feat. JUSTHIS, TakeOne, Ja Mezz, Xbf)", locale = "ko", original = true, default = true },
+]
