@@ -1,0 +1,14 @@
+artist-id = "junoflo"
+kind = "lp"
+
+names = [
+  { name = "222:AM", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-09-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10496044" },
+]
