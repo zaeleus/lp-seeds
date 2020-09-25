@@ -1,0 +1,5 @@
+names = [
+  { name = "빈집 (텅) (Empty House)", locale = "ko", original = true },
+  { name = "Binjip (Teong) (Empty House)", locale = "ko-Latn", default = true },
+  { name = "Empty House", locale = "en" },
+]

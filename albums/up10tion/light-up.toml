@@ -1,0 +1,14 @@
+artist-id = "up10tion"
+kind = "ep"
+
+names = [
+  { name = "Light UP", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-09-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10495885" },
+]

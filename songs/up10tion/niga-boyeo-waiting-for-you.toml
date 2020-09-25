@@ -1,0 +1,5 @@
+names = [
+  { name = "니가 보여 (Waiting For You)", locale = "ko", original = true },
+  { name = "Niga Boyeo (Waiting For You)", locale = "ko-Latn", default = true },
+  { name = "Waiting For You", locale = "en" },
+]

@@ -1,0 +1,33 @@
+medium-ids = [
+  "up10tion/light-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "up10tion/light"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "up10tion/destiny"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "up10tion/stop-the-clock"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "up10tion/dawn"
+duration = "3:39"
+
+[[tracks]]
+position = 5
+song-id = "up10tion/niga-boyeo-waiting-for-you"
+duration = "3:18"
+
+[[tracks]]
+position = 6
+song-id = "up10tion/binjip-teong-empty-house"
+duration = "3:26"
