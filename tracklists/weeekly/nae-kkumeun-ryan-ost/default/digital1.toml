@@ -1,0 +1,13 @@
+medium-ids = [
+  "weeekly/nae-kkumeun-ryan-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weeekly/boom-chi-ki"
+duration = "2:01"
+
+[[tracks]]
+position = 2
+song-id = "weeekly/boom-chi-ki-inst"
+duration = "2:01"

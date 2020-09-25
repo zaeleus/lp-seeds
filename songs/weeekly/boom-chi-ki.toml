@@ -1,0 +1,4 @@
+names = [
+  { name = "붐 치키 (BOOM CHI KI)", locale = "ko", original = true },
+  { name = "BOOM CHI KI", locale = "en", default = true },
+]
