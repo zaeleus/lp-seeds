@@ -1,0 +1,15 @@
+artist-id = "doah"
+kind = "single"
+
+names = [
+  { name = "소녀의 세계 OST Part 5", locale = "ko", original = true },
+  { name = "Sonyeoui Segye OST Part 5", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-05-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10437196" },
+]
