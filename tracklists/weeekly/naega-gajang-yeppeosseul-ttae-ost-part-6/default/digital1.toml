@@ -1,0 +1,13 @@
+medium-ids = [
+  "weeekly/naega-gajang-yeppeosseul-ttae-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weeekly/neoro-muldeundaneun-geot"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "weeekly/neoro-muldeundaneun-geot-inst"
+duration = "3:28"

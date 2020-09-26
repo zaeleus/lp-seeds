@@ -1,0 +1,16 @@
+artist-id = "weeekly"
+kind = "single"
+
+names = [
+  { name = "내가 가장 예뻤을 때 OST Part.6", locale = "ko", original = true },
+  { name = "Naega Gajang Yeppeosseul Ttae OST Part.6", locale = "ko-Latn", default = true },
+  { name = "When I Was The Most Beautiful OST Part.6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-09-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10495509" },
+]
