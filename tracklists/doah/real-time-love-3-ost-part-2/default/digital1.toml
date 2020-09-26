@@ -1,0 +1,13 @@
+medium-ids = [
+  "doah/real-time-love-3-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "doah/gwaenchana-neonikka"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "doah/gwaenchana-neonikka-inst"
+duration = "4:01"

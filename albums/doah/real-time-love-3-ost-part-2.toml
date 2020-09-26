@@ -1,0 +1,16 @@
+artist-id = "doah"
+kind = "single"
+
+names = [
+  { name = "리얼:타임:러브 3 OST Part.2", locale = "ko", original = true },
+  { name = "Rieol:Taim:Reobeu 3 OST Part.2", locale = "ko-Latn" },
+  { name = "Real:Time:Love 3 OST Part.2", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-09-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10495789" },
+]
