@@ -1,0 +1,5 @@
+names = [
+  { name = "소행성 (Parting)", locale = "ko", original = true },
+  { name = "Sohaengseong (Parting)", locale = "ko-Latn", default = true },
+  { name = "Parting", locale = "en" },
+]
