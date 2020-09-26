@@ -1,0 +1,19 @@
+artist-id = "-virtual/ash-b-x-raudi"
+kind = "single"
+
+names = [
+  { name = "Make It Pop", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "ash-b", separator = " x " },
+  { artist-id = "raudi" },
+]
+
+[[releases]]
+released-on = "2020-09-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10496149" },
+]

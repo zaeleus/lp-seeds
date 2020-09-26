@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/ash-b-x-raudi/make-it-pop/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/ash-b-x-raudi/make-it-pop"
+duration = "2:30"

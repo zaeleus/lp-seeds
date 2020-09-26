@@ -1,0 +1,8 @@
+names = [
+  { name = "Make it Pop", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "ash-b", separator = " x " },
+  { artist-id = "raudi" },
+]
