@@ -1,0 +1,13 @@
+medium-ids = [
+  "eb/you-are-my-ocean/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eb/you-are-my-ocean"
+duration = "2:59"
+
+[[tracks]]
+position = 2
+song-id = "eb/you-are-my-ocean-inst"
+duration = "2:59"
