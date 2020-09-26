@@ -1,0 +1,13 @@
+medium-ids = [
+  "n-flying/alice-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "n-flying/from-you"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "n-flying/from-you-inst"
+duration = "3:49"
