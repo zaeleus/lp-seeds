@@ -1,0 +1,8 @@
+medium-ids = [
+  "oh-my-girl/yoo-a/rocket-to-the-moon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-my-girl/yoo-a/rocket-to-the-moon"
+duration = "2:14"

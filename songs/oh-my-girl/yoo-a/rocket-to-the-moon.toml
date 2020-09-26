@@ -1,0 +1,5 @@
+names = [
+  { name = "'로켓 투 더 문!'", locale = "ko", original = true },
+  { name = "'Roket Tu Deo Mun!'", locale = "ko-Latn" },
+  { name = "'Rocket to the Moon!'", locale = "en", default = true },
+]
