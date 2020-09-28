@@ -1,0 +1,13 @@
+medium-ids = [
+  "fine/eommaga-baramnatda-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fine/saranghanabwa"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "fine/saranghanabwa-inst"
+duration = "3:38"
