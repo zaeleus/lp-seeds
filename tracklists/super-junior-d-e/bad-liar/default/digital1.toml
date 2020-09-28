@@ -1,0 +1,38 @@
+medium-ids = [
+  "super-junior-d-e/bad-liar/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "super-junior-d-e/no-love"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "super-junior-d-e/b-a-d"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "super-junior-d-e/contact"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "super-junior-d-e/oneuri-jinago-namyeon-to-you-tomorrow"
+duration = "4:05"
+
+[[tracks]]
+position = 5
+song-id = "super-junior-d-e/change"
+duration = "3:57"
+
+[[tracks]]
+position = 6
+song-id = "super-junior-d-e/off-line"
+duration = "3:25"
+
+[[tracks]]
+position = 7
+song-id = "super-junior-d-e/neoui-ireumeun-what-is-your-name-feat-shindong-bonus-track"
+duration = "3:52"
