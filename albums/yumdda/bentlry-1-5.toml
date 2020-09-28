@@ -1,0 +1,14 @@
+artist-id = "yumdda"
+kind = "single"
+
+names = [
+  { name = "BENTLRY 1.5", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-09-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10496400" },
+]
