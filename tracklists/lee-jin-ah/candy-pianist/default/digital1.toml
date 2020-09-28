@@ -1,0 +1,33 @@
+medium-ids = [
+  "lee-jin-ah/candy-pianist/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-jin-ah/candy-pianist"
+duration = "2:38"
+
+[[tracks]]
+position = 2
+song-id = "lee-jin-ah/nareul-mangneun-byeok"
+duration = "4:38"
+
+[[tracks]]
+position = 3
+song-id = "lee-jin-ah/kkumgateun-alarm"
+duration = "3:33"
+
+[[tracks]]
+position = 4
+song-id = "lee-jin-ah/yeogijeogi-sikkeureopge-feat-toy"
+duration = "4:04"
+
+[[tracks]]
+position = 5
+song-id = "lee-jin-ah/meonji"
+duration = "3:28"
+
+[[tracks]]
+position = 6
+song-id = "lee-jin-ah/awake-feat-sam-kim"
+duration = "4:20"

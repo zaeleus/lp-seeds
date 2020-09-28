@@ -1,0 +1,4 @@
+names = [
+  { name = "여기저기 시끄럽게 (Feat. 토이)", locale = "ko", original = true },
+  { name = "Yeogijeogi Sikkeureopge (Feat. Toy)", locale = "ko-Latn", default = true },
+]

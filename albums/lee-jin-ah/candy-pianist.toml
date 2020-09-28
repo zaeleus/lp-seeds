@@ -1,0 +1,16 @@
+artist-id = "lee-jin-ah"
+kind = "ep"
+
+names = [
+  { name = "캔디 피아니스트", locale = "ko", original = true },
+  { name = "Kaendi Pianiseuteu", locale = "ko-Latn" },
+  { name = "Candy Pianist", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-09-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10497168" },
+]

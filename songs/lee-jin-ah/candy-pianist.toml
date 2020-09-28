@@ -1,0 +1,5 @@
+names = [
+  { name = "캔디 피아니스트", locale = "ko", original = true },
+  { name = "Kaendi Pianiseuteu", locale = "ko-Latn" },
+  { name = "Candy Pianist", locale = "en", default = true },
+]

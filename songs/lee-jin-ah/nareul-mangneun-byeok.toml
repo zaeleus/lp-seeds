@@ -1,0 +1,4 @@
+names = [
+  { name = "나를 막는 벽", locale = "ko", original = true },
+  { name = "Nareul Mangneun Byeok", locale = "ko-Latn", default = true },
+]
