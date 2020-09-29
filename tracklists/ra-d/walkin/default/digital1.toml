@@ -1,0 +1,8 @@
+medium-ids = [
+  "ra-d/walkin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ra-d/walkin"
+duration = "3:22"
