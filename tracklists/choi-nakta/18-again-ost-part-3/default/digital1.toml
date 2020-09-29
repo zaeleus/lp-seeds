@@ -1,0 +1,13 @@
+medium-ids = [
+  "choi-nakta/18-again-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "choi-nakta/neoyeosseumyeon"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "choi-nakta/neoyeosseumyeon-inst"
+duration = "3:24"
