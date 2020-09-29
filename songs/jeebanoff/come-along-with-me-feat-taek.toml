@@ -1,0 +1,3 @@
+names = [
+  { name = "Come along with me (feat. TAEK)", locale = "ko", original = true, default = true },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "적막 (feat. Sep of 히피는 집시였다)", locale = "ko", original = true },
+  { name = "Jeongmak (feat. Sep of Hippy was Gipsy)", locale = "ko-Latn", default = true },
+]
