@@ -1,0 +1,13 @@
+medium-ids = [
+  "gummy/beuramseureul-joahaseyo-ost-part-10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gummy/noraehaeyo-geudae-deutdorok"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "gummy/noraehaeyo-geudae-deutdorok-inst"
+duration = "3:10"

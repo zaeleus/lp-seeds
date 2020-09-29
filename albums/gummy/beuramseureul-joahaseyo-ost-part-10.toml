@@ -1,0 +1,16 @@
+artist-id = "gummy"
+kind = "single"
+
+names = [
+  { name = "브람스를 좋아하세요? OST Part.10", locale = "ko", original = true },
+  { name = "Beuramseureul Joahaseyo? OST Part.10", locale = "ko-Latn", default = true },
+  { name = "Do You Like Brahms? OST Part.10", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-09-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10497977" },
+]
