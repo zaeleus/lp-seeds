@@ -1,0 +1,11 @@
+names = [
+  { name = "너의 밤은 어때 (취향저격 그녀 X 정은지)", locale = "ko", original = true },
+  { name = "Neoui Bameun Eottae (Chwihyangjeogyeok Geunyeo X Jeong Eun Ji)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
