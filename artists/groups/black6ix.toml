@@ -5,4 +5,5 @@ gender = "male"
 
 names = [
   { name = "블랙식스", locale = "ko", original = true },
-  { name = "BLACK6IX", locale = "ko-Latn", default = true }, ]
+  { name = "BLACK6IX", locale = "ko-Latn", default = true },
+]
