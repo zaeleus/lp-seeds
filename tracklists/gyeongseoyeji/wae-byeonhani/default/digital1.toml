@@ -1,0 +1,13 @@
+medium-ids = [
+  "gyeongseoyeji/wae-byeonhani/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gyeongseoyeji/wae-byeonhani"
+duration = "4:31"
+
+[[tracks]]
+position = 2
+song-id = "gyeongseoyeji/wae-byeonhani-inst"
+duration = "4:31"
