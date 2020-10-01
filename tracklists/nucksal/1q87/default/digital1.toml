@@ -1,0 +1,63 @@
+medium-ids = [
+  "nucksal/1q87/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nucksal/bad-trip"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "nucksal/am-i-a-slave"
+duration = "2:49"
+
+[[tracks]]
+position = 3
+song-id = "nucksal/won-feat-woo-won-jae-odee"
+duration = "3:24"
+
+[[tracks]]
+position = 4
+song-id = "nucksal/akira-feat-gaeko"
+duration = "3:11"
+
+[[tracks]]
+position = 5
+song-id = "nucksal/crack-kidz-interlude"
+duration = "1:11"
+
+[[tracks]]
+position = 6
+song-id = "nucksal/dance-class"
+duration = "2:36"
+
+[[tracks]]
+position = 7
+song-id = "nucksal/yeonhui-dong-badass"
+duration = "3:39"
+
+[[tracks]]
+position = 8
+song-id = "nucksal/brother-feat-don-mills-los"
+duration = "3:36"
+
+[[tracks]]
+position = 9
+song-id = "nucksal/na"
+duration = "2:56"
+
+[[tracks]]
+position = 10
+song-id = "nucksal/geoul-feat-hwaji"
+duration = "3:41"
+
+[[tracks]]
+position = 11
+song-id = "nucksal/neowa-na-feat-gummy"
+duration = "3:11"
+
+[[tracks]]
+position = 12
+song-id = "nucksal/churak-feat-devita"
+duration = "3:16"

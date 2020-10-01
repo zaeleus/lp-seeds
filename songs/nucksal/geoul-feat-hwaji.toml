@@ -1,0 +1,4 @@
+names = [
+  { name = "거울 (Feat. 화지)", locale = "ko", original = true },
+  { name = "Geoul (Feat. Hwaji)", locale = "ko-Latn", default = true },
+]

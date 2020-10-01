@@ -1,0 +1,5 @@
+names = [
+  { name = "브라더 (Feat. Don Mills, Los)", locale = "ko", original = true },
+  { name = "Beuradeo (Feat. Don Mills, Los)", locale = "ko-Latn" },
+  { name = "Brother (Feat. Don Mills, Los)", locale = "en", default = true },
+]
