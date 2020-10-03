@@ -1,0 +1,13 @@
+medium-ids = [
+  "t-ara/so-yeon/o-samgwangbilla-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/so-yeon/hanaui-sarang"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/so-yeon/hanaui-sarang-inst"
+duration = "3:35"
