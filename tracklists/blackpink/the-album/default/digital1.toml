@@ -3,6 +3,16 @@ medium-ids = [
 ]
 
 [[tracks]]
+position = 1
+song-id = "blackpink/how-you-like-that"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "blackpink/ice-cream-with-selena-gomez"
+duration = "2:56"
+
+[[tracks]]
 position = 3
 song-id = "blackpink/pretty-savage"
 duration = "3:20"
