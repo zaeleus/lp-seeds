@@ -1,0 +1,33 @@
+medium-ids = [
+  "sweden-laundry/uriga-pin-1-jansang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sweden-laundry/kkeunnaji-anneun-gyejeorui-gieoge-meomulleojwo-with-yebit"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "sweden-laundry/stay-with-me-with-choi-yu-ri"
+duration = "2:51"
+
+[[tracks]]
+position = 3
+song-id = "sweden-laundry/gwontae-with-boramiyu"
+duration = "3:36"
+
+[[tracks]]
+position = 4
+song-id = "sweden-laundry/lullaby-cat-with-lucite-tokki"
+duration = "2:14"
+
+[[tracks]]
+position = 5
+song-id = "sweden-laundry/siin"
+duration = "2:42"
+
+[[tracks]]
+position = 6
+song-id = "sweden-laundry/sunset-with-lee-kang-seung"
+duration = "3:40"

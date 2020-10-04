@@ -1,0 +1,4 @@
+names = [
+  { name = "lullaby, cat (With 루싸이트 토끼)", locale = "ko", original = true },
+  { name = "lullaby, cat (With Lucite Tokki)", locale = "ko-Latn", default = true },
+]

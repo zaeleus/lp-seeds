@@ -1,0 +1,4 @@
+names = [
+  { name = "sunset (With 이강승)", locale = "ko", original = true },
+  { name = "sunset (With Lee Kang Seung)", locale = "ko-Latn", default = true },
+]
