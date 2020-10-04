@@ -1,0 +1,23 @@
+medium-ids = [
+  "giriboy/yeonghwagatge/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giriboy/chalkak"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "giriboy/yeongi-with-heize"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "giriboy/lasik"
+duration = "3:56"
+
+[[tracks]]
+position = 4
+song-id = "giriboy/uriseorosaranghajineunmalja"
+duration = "4:04"
