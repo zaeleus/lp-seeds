@@ -1,0 +1,8 @@
+medium-ids = [
+  "kim-marie/neowa-naui-uju-soge/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-marie/neowa-naui-uju-soge"
+duration = "3:36"

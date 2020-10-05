@@ -1,0 +1,15 @@
+artist-id = "kim-marie"
+kind = "single"
+
+names = [
+  { name = "너와 나의 우주 속에", locale = "ko", original = true },
+  { name = "Neowa Naui Uju Soge", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10497124" },
+]
