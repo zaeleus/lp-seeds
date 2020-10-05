@@ -1,0 +1,15 @@
+artist-id = "ikon/bobby"
+kind = "single"
+
+names = [
+  { name = "청춘기록 (tvN 월화드라마) OST - Part.6", locale = "ko", original = true },
+  { name = "Cheongchungirok (tvN Mon-Tue Drama) OST - Part.6", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10498133" },
+]

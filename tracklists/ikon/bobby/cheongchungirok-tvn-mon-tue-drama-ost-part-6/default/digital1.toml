@@ -1,0 +1,13 @@
+medium-ids = [
+  "ikon/bobby/cheongchungirok-tvn-mon-tue-drama-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ikon/bobby/spotlight"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "ikon/bobby/spotlight-inst"
+duration = "3:36"
