@@ -1,0 +1,8 @@
+medium-ids = [
+  "lee-aram/maekju-eottae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-aram/maekju-eottae"
+duration = "3:01"
