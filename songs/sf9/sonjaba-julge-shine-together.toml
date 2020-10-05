@@ -1,0 +1,5 @@
+names = [
+  { name = "손잡아 줄게 (Shine Together)", locale = "ko", original = true },
+  { name = "Sonjaba Julge (Shine Together)", locale = "ko-Latn", default = true },
+  { name = "Shine Together", locale = "en" },
+]

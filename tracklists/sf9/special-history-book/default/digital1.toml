@@ -1,0 +1,18 @@
+medium-ids = [
+  "sf9/special-history-book/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sf9/sonjaba-julge-shine-together"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "sf9/orae-orae-forever"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "sf9/love-no-5"
+duration = "3:46"
