@@ -1,0 +1,13 @@
+medium-ids = [
+  "exid/solji/18-again-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exid/solji/hansaram"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "exid/solji/hansaram-inst"
+duration = "4:02"
