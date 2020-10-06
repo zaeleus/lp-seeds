@@ -1,0 +1,9 @@
+names = [
+  { name = "야유회", locale = "ko", original = true },
+  { name = "Yayuhoe", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "sogumm", separator = "," },
+  { artist-id = "oh-hyuk" },
+]
