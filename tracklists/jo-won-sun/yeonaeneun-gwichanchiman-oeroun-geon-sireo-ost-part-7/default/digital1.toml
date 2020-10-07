@@ -1,0 +1,13 @@
+medium-ids = [
+  "jo-won-sun/yeonaeneun-gwichanchiman-oeroun-geon-sireo-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jo-won-sun/before-the-dawn"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "jo-won-sun/before-the-dawn-inst"
+duration = "3:45"

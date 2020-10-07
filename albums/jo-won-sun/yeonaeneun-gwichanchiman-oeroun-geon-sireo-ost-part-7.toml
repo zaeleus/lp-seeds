@@ -1,0 +1,16 @@
+artist-id = "jo-won-sun"
+kind = "single"
+
+names = [
+  { name = "연애는 귀찮지만 외로운 건 싫어! OST Part 7", locale = "ko", original = true },
+  { name = "Yeonaeneun Gwichanchiman Oeroun Geon Sireo! OST Part 7", locale = "ko-Latn", default = true },
+  { name = "Lonely Enough to Love! OST Part 7", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-10-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10498544" },
+]
