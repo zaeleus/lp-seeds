@@ -1,0 +1,18 @@
+medium-ids = [
+  "golden-child/pump-it-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "golden-child/pump-it-up"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "golden-child/geu-jasik"
+duration = "3:39"
+
+[[tracks]]
+position = 3
+song-id = "golden-child/neoui-dwieseo"
+duration = "3:43"
