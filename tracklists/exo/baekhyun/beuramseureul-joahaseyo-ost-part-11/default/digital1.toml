@@ -1,0 +1,13 @@
+medium-ids = [
+  "exo/baekhyun/beuramseureul-joahaseyo-ost-part-11/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/baekhyun/happy"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "exo/baekhyun/happy-inst"
+duration = "3:53"
