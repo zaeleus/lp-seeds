@@ -1,0 +1,5 @@
+names = [
+  { name = "더 이상 증오는 없다, 오직 사랑만이 (Love)", locale = "ko", original = true },
+  { name = "Deo Isang Jeungoneun Eopda, Ojik Sarangmani (Love)", locale = "ko-Latn", default = true },
+  { name = "Love", locale = "en" },
+]

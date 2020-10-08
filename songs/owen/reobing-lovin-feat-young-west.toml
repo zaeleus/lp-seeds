@@ -1,0 +1,5 @@
+names = [
+  { name = "러빙 (Lovin') (feat. Young West)", locale = "ko", original = true },
+  { name = "Reobing (Lovin') (feat. Young West)", locale = "ko-Latn", default = true },
+  { name = "Lovin' (feat. Young West)", locale = "en" },
+]

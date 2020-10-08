@@ -1,0 +1,5 @@
+names = [
+  { name = "사바나 (Savanna)", locale = "ko", original = true },
+  { name = "Sabana (Savanna)", locale = "ko-Latn" },
+  { name = "Savanna", locale = "en", default = true },
+]

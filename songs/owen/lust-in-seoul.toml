@@ -1,0 +1,5 @@
+names = [
+  { name = "러스트 인 서울 (Lust In Seoul)", locale = "ko", original = true },
+  { name = "Reoseuteu in Seoul (Lust In Seoul)", locale = "ko-Latn" },
+  { name = "Lust In Seoul", locale = "en", default = true },
+]

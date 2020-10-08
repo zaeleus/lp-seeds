@@ -1,0 +1,5 @@
+names = [
+  { name = "초대 (Invitation) (feat. niahn, pH-1)", locale = "ko", original = true },
+  { name = "Chodae (Invitation) (feat. niahn, pH-1)", locale = "ko-Latn", default = true },
+  { name = "Invitation (feat. niahn, pH-1)", locale = "" },
+]

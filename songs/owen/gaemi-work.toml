@@ -1,0 +1,5 @@
+names = [
+  { name = "개미 (Work)", locale = "ko", original = true },
+  { name = "Gaemi (Work)", locale = "ko-Latn", default = true },
+  { name = "Work", locale = "en" },
+]

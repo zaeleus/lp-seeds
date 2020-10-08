@@ -1,0 +1,5 @@
+names = [
+  { name = "프라이스리스 (Priceless)", locale = "ko", original = true },
+  { name = "Peuraiseuriseu (Priceless)", locale = "ko-Latn" },
+  { name = "Priceless", locale = "en", default = true },
+]
