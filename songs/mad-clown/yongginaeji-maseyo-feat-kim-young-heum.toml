@@ -1,0 +1,4 @@
+names = [
+  { name = "용기내지 마세요 (Feat. 김영흠)", locale = "ko", original = true },
+  { name = "Yongginaeji Maseyo (Feat. Kim Young Heum)", locale = "ko-Latn", default = true },
+]

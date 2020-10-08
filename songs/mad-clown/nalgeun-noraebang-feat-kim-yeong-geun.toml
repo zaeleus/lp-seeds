@@ -1,0 +1,4 @@
+names = [
+  { name = "낡은 노래방 (Feat. 김영근)", locale = "ko", original = true },
+  { name = "Nalgeun Noraebang (Feat. Kim Yeong Geun)", locale = "ko-Latn", default = true },
+]

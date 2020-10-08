@@ -1,0 +1,23 @@
+medium-ids = [
+  "mad-clown/0/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mad-clown/eojjeogu-jeojjeogu-feat-bulldaegal-of-no-brain"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "mad-clown/yongginaeji-maseyo-feat-kim-young-heum"
+duration = "3:38"
+
+[[tracks]]
+position = 3
+song-id = "mad-clown/nalgeun-noraebang-feat-kim-yeong-geun"
+duration = "4:12"
+
+[[tracks]]
+position = 4
+song-id = "mad-clown/saejuso-feat-jin-min-ho"
+duration = "4:41"

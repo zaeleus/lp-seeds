@@ -1,0 +1,4 @@
+names = [
+  { name = "새주소 (Feat. 진민호)", locale = "ko", original = true },
+  { name = "Saejuso (Feat. Jin Min Ho)", locale = "ko-Latn", default = true },
+]
