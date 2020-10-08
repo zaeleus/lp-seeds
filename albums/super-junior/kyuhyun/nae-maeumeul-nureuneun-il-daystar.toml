@@ -1,0 +1,16 @@
+artist-id = "super-junior/kyuhyun"
+kind = "single"
+
+names = [
+  { name = "내 마음을 누르는 일 (Daystar)", locale = "ko", original = true },
+  { name = "Nae Maeumeul Nureuneun Il (Daystar)", locale = "ko-Latn", default = true },
+  { name = "Daystar", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-10-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10500364" },
+]

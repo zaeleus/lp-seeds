@@ -1,0 +1,5 @@
+names = [
+  { name = "내 마음을 누르는 일 (Daystar)", locale = "ko", original = true },
+  { name = "Nae Maeumeul Nureuneun Il (Daystar)", locale = "ko-Latn", default = true },
+  { name = "Daystar", locale = "en" },
+]
