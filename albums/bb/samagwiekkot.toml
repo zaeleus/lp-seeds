@@ -1,0 +1,15 @@
+artist-id = "bb"
+kind = "single"
+
+names = [
+  { name = "사막위에꽃", locale = "ko", original = true },
+  { name = "Samagwiekkot", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10499437" },
+]
