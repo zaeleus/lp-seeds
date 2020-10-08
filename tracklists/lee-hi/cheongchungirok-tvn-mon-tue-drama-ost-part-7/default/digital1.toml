@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-hi/cheongchungirok-tvn-mon-tue-drama-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-hi/brave-enough"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "lee-hi/brave-enough-inst"
+duration = "4:05"

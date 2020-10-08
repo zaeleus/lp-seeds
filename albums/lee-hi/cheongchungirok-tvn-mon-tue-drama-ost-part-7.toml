@@ -1,0 +1,16 @@
+artist-id = "lee-hi"
+kind = "single"
+
+names = [
+  { name = "청춘기록 (tvN 월화드라마) OST - Part.7", locale = "ko", original = true },
+  { name = "Cheongchungirok (tvN Mon-Tue Drama) OST - Part.7", locale = "ko-Latn", default = true },
+  { name = "Record of Youth OST - Part.7", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-10-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10498279" },
+]
