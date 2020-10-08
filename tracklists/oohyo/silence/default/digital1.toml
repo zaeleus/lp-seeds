@@ -1,0 +1,23 @@
+medium-ids = [
+  "oohyo/silence/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oohyo/quiet-night"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "oohyo/2020"
+duration = "4:54"
+
+[[tracks]]
+position = 3
+song-id = "oohyo/new-shoes"
+duration = "5:00"
+
+[[tracks]]
+position = 4
+song-id = "oohyo/enough"
+duration = "4:39"
