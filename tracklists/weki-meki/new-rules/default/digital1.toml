@@ -1,0 +1,28 @@
+medium-ids = [
+  "weki-meki/new-rules/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weki-meki/cool"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "weki-meki/sweet-dreams"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "weki-meki/d-day"
+duration = "2:50"
+
+[[tracks]]
+position = 4
+song-id = "weki-meki/uriraneun-iyu-just-us"
+duration = "3:24"
+
+[[tracks]]
+position = 5
+song-id = "weki-meki/100-facts-cool-eng-ver"
+duration = "3:46"
