@@ -1,0 +1,4 @@
+names = [
+  { name = "너니까 너답게 (feat. 홍현희)", locale = "ko", original = true },
+  { name = "Neonikka Neodapge (feat. Hong Hyun Hee)", locale = "ko-Latn", default = true },
+]

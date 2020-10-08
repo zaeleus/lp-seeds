@@ -1,0 +1,22 @@
+artist-id = "girls-generation/sooyoung"
+kind = "single"
+
+names = [
+  { name = "컴패션 CHEER UP GIRLS 챌린지", locale = "ko", original = true },
+  { name = "Compassion CHEER UP GIRLS Challenge", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "girls-generation/sooyoung"
+names = [
+  { name = "수영", locale = "ko", original = true },
+  { name = "SOOYOUNG", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10499630" },
+]
