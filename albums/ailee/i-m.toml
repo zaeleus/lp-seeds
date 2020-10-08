@@ -1,0 +1,14 @@
+artist-id = "ailee"
+kind = "ep"
+
+names = [
+  { name = "I'm", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-10-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10498258" },
+]

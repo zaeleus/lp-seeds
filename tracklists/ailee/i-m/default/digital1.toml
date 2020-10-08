@@ -1,0 +1,28 @@
+medium-ids = [
+  "ailee/i-m/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ailee/eoneu-nal-uyeonhi"
+duration = "4:33"
+
+[[tracks]]
+position = 2
+song-id = "ailee/uri-saranghan-dongan"
+duration = "4:16"
+
+[[tracks]]
+position = 3
+song-id = "ailee/beautiful-disaster"
+duration = "4:09"
+
+[[tracks]]
+position = 4
+song-id = "ailee/geuge-mworago"
+duration = "4:29"
+
+[[tracks]]
+position = 5
+song-id = "ailee/what-if-i"
+duration = "3:47"
