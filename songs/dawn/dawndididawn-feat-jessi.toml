@@ -1,0 +1,5 @@
+names = [
+  { name = "던디리던 (Feat. Jessi)", locale = "ko", original = true },
+  { name = "Deondirideon (Feat. Jessi)", locale = "ko-Latn" },
+  { name = "DAWNDIDIDAWN (Feat. Jessi)", locale = "en", default = true },
+]

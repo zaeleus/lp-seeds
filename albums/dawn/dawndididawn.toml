@@ -1,0 +1,16 @@
+artist-id = "dawn"
+kind = "ep"
+
+names = [
+  { name = "던디리던", locale = "ko", original = true },
+  { name = "Deondirideon", locale = "ko-Latn" },
+  { name = "DAWNDIDIDAWN", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10500912" },
+]

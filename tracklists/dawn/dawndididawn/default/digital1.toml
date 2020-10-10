@@ -1,0 +1,28 @@
+medium-ids = [
+  "dawn/dawndididawn/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dawn/dawndididawn-feat-jessi"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "dawn/gamani-feat-crush"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "dawn/ttanttara"
+duration = "2:58"
+
+[[tracks]]
+position = 4
+song-id = "dawn/horangnabi"
+duration = "3:14"
+
+[[tracks]]
+position = 5
+song-id = "dawn/pyeongsowa-ttokgateun-bam"
+duration = "3:16"

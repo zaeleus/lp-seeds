@@ -1,0 +1,4 @@
+names = [
+  { name = "가마니 (Feat. Crush)", locale = "ko", original = true },
+  { name = "Gamani (Feat. Crush)", locale = "ko-Latn", default = true },
+]
