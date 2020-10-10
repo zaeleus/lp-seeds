@@ -1,0 +1,13 @@
+medium-ids = [
+  "noel/alice-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "noel/gieokhaeyo"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "noel/gieokhaeyo-inst"
+duration = "4:01"
