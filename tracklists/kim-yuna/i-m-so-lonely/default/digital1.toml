@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-yuna/i-m-so-lonely/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-yuna/i-m-so-lonely"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "kim-yuna/i-m-so-lonely-inst"
+duration = "3:30"
