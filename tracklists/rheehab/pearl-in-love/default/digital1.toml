@@ -1,0 +1,23 @@
+medium-ids = [
+  "rheehab/pearl-in-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rheehab/baby-prod-shrn"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "rheehab/like-a-sunflower-feat-yayyoung-prod-opo"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song-id = "rheehab/nayeoyamanhae-prod-thaibeats"
+duration = "3:47"
+
+[[tracks]]
+position = 4
+song-id = "rheehab/bonus-track-tell-me-prod-keem"
+duration = "2:00"
