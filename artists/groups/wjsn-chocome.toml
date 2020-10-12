@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "우주소녀 쪼꼬미", locale = "ko", original = true },
+  { name = "WJSN CHOCOME", locale = "en", default = true },
+]

@@ -1,0 +1,16 @@
+artist-id = "wjsn-chocome"
+kind = "single"
+
+names = [
+  { name = "흥칫뿡 (Hmph!)", locale = "ko", original = true },
+  { name = "Heungchitppung (Hmph!)", locale = "ko-Latn", default = true },
+  { name = "Hmph!", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-10-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10500127" },
+]

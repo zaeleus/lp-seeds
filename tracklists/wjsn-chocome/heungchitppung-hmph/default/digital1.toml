@@ -1,0 +1,13 @@
+medium-ids = [
+  "wjsn-chocome/heungchitppung-hmph/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wjsn-chocome/heungchitppung-hmph"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "wjsn-chocome/ya-ya-ya"
+duration = "2:58"
