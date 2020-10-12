@@ -1,0 +1,4 @@
+names = [
+  { name = "안아줘 (Feat. ADDNINE)", locale = "ko", original = true },
+  { name = "Anajwo (Feat. ADDNINE)", locale = "ko-Latn", default = true },
+]
