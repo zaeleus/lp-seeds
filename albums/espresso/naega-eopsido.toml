@@ -1,0 +1,15 @@
+artist-id = "espresso"
+kind = "single"
+
+names = [
+  { name = "내가 없이도", locale = "ko", original = true },
+  { name = "Naega Eopsido", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10501678" },
+]

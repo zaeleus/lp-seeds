@@ -1,0 +1,13 @@
+medium-ids = [
+  "espresso/naega-eopsido/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "espresso/naega-eopsido-feat-gawon"
+duration = "2:53"
+
+[[tracks]]
+position = 2
+song-id = "espresso/naega-eopsido-inst"
+duration = "2:53"
