@@ -1,0 +1,4 @@
+names = [
+  { name = "너와 얘길 나눠보고 싶어 (Feat. 이장우)", locale = "ko", original = true },
+  { name = "Neowa Yaegil Nanwobogo Sipeo (Feat. Lee Jang Woo)", locale = "ko-Latn", default = true },
+]
