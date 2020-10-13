@@ -1,0 +1,8 @@
+medium-ids = [
+  "saay/player/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saay/player"
+duration = "3:39"
