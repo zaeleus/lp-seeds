@@ -1,0 +1,28 @@
+medium-ids = [
+  "weeekly/we-can/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weeekly/eonni"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "weeekly/my-earth"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "weeekly/zig-zag"
+duration = "3:27"
+
+[[tracks]]
+position = 4
+song-id = "weeekly/mollae-mollae"
+duration = "3:07"
+
+[[tracks]]
+position = 5
+song-id = "weeekly/wolhwasumokgeumtoil"
+duration = "3:01"

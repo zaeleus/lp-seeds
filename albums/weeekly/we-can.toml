@@ -1,0 +1,14 @@
+artist-id = "weeekly"
+kind = "ep"
+
+names = [
+  { name = "We can", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-10-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10501903" },
+]
