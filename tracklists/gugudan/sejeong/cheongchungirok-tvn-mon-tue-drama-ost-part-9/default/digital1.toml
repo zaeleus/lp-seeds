@@ -1,0 +1,13 @@
+medium-ids = [
+  "gugudan/sejeong/cheongchungirok-tvn-mon-tue-drama-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/sejeong/nae-maeumi-geureotae"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/sejeong/nae-maeumi-geureotae-inst"
+duration = "3:52"
