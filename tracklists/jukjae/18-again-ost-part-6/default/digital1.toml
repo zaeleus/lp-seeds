@@ -1,0 +1,13 @@
+medium-ids = [
+  "jukjae/18-again-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jukjae/gieogeun-chueogi-doenda"
+duration = "4:08"
+
+[[tracks]]
+position = 2
+song-id = "jukjae/gieogeun-chueogi-doenda-inst"
+duration = "4:08"
