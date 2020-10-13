@@ -1,0 +1,14 @@
+artist-id = "verivery"
+kind = "ep"
+
+names = [
+  { name = "FACE US", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-10-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10502117" },
+]

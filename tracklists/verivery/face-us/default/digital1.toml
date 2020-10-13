@@ -1,0 +1,28 @@
+medium-ids = [
+  "verivery/face-us/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "verivery/g-b-t-b"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "verivery/my-face"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song-id = "verivery/hold-me-tight"
+duration = "3:07"
+
+[[tracks]]
+position = 4
+song-id = "verivery/get-outta-my-way"
+duration = "3:03"
+
+[[tracks]]
+position = 5
+song-id = "verivery/sojungnyeok"
+duration = "3:11"
