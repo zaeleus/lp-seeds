@@ -1,0 +1,4 @@
+names = [
+  { name = "이제서야 (Feat. 카더가든)", locale = "ko", original = true },
+  { name = "Ijeseoya (Feat. Car, the garden)", locale = "ko-Latn", default = true },
+]

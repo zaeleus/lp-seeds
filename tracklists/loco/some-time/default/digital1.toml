@@ -1,0 +1,23 @@
+medium-ids = [
+  "loco/some-time/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loco/gwiga"
+duration = "2:24"
+
+[[tracks]]
+position = 2
+song-id = "loco/jami-deureoya-feat-heize"
+duration = "4:12"
+
+[[tracks]]
+position = 3
+song-id = "loco/myeonhoesil"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "loco/ijeseoya-feat-car-the-garden"
+duration = "3:03"
