@@ -1,0 +1,14 @@
+artist-id = "oh-my-girl"
+kind = "single"
+
+names = [
+  { name = "Etoile (Korean version)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-10-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10503618" },
+]

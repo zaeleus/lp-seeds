@@ -1,0 +1,8 @@
+medium-ids = [
+  "oh-my-girl/etoile-korean-version/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-my-girl/etoile-korean-version"
+duration = "4:04"
