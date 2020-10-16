@@ -1,0 +1,4 @@
+names = [
+  { name = "사랑하는 너에게 (취향저격 그녀 X 스탠딩 에그) (Inst.)", locale = "ko", original = true },
+  { name = "Saranghaneun Neoege (Chwihyangjeogyeok Geunyeo X Standing Egg) (Inst.)", locale = "ko-Latn", default = true },
+]

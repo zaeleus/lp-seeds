@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/saranghaneun-neoege-chwihyangjeogyeok-geunyeo-x-standing-egg/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/saranghaneun-neoege-chwihyangjeogyeok-geunyeo-x-standing-egg"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/saranghaneun-neoege-chwihyangjeogyeok-geunyeo-x-standing-egg-inst"
+duration = "3:06"
