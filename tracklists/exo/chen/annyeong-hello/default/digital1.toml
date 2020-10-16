@@ -1,0 +1,8 @@
+medium-ids = [
+  "exo/chen/annyeong-hello/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/chen/annyeong-hello"
+duration = "3:36"
