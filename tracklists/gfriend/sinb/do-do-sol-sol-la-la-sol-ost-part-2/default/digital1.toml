@@ -1,0 +1,13 @@
+medium-ids = [
+  "gfriend/sinb/do-do-sol-sol-la-la-sol-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gfriend/sinb/kkumin-deut-hae"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "gfriend/sinb/kkumin-deut-hae-inst"
+duration = "3:52"
