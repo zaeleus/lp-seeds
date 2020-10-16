@@ -1,0 +1,4 @@
+names = [
+  { name = "너의 목소리 (Inst.)", locale = "ko", original = true },
+  { name = "Neoui Moksori (Inst.)", locale = "ko-Latn", default = true },
+]
