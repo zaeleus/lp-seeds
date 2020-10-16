@@ -1,0 +1,28 @@
+medium-ids = [
+  "pentagon/we-th/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pentagon/daisy"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "pentagon/beautiful-goodbye"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "pentagon/geuhae-geudal-geunal"
+duration = "3:05"
+
+[[tracks]]
+position = 4
+song-id = "pentagon/you-like"
+duration = "3:15"
+
+[[tracks]]
+position = 5
+song-id = "pentagon/paradise-byeori-binnaneun-i-bam"
+duration = "3:36"

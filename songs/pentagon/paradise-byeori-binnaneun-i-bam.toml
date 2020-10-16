@@ -1,0 +1,4 @@
+names = [
+  { name = "Paradise (별이 빛나는 이 밤)", locale = "ko", original = true },
+  { name = "Paradise (Byeori Binnaneun I Bam)", locale = "ko-Latn", default = true },
+]
