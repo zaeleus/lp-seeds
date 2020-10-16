@@ -1,0 +1,4 @@
+names = [
+  { name = "외곽순환도로 (Feat. Thama)", locale = "ko", original = true },
+  { name = "Oegwaksunhwandoro (Feat. Thama)", locale = "ko-Latn", default = true },
+]

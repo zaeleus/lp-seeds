@@ -1,0 +1,23 @@
+medium-ids = [
+  "gary/2020/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gary/oegwaksunhwandoro-feat-thama"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "gary/sajin-feat-jung-in"
+duration = "2:54"
+
+[[tracks]]
+position = 3
+song-id = "gary/taeyang-feat-chancellor"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "gary/626-feat-spray-redef"
+duration = "2:47"
