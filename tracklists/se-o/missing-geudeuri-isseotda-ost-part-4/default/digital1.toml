@@ -1,0 +1,13 @@
+medium-ids = [
+  "se-o/missing-geudeuri-isseotda-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "se-o/yaksokhae"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "se-o/yaksokhae-inst"
+duration = "3:44"

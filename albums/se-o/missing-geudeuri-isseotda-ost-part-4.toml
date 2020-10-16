@@ -1,0 +1,16 @@
+artist-id = "se-o"
+kind = "single"
+
+names = [
+  { name = "미씽: 그들이 있었다 OST Part.4", locale = "ko", original = true },
+  { name = "Missing: Geudeuri Isseotda OST Part.4", locale = "ko-Latn", default = true },
+  { name = "Missing: The Other Side OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-10-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10500804" },
+]
