@@ -1,0 +1,15 @@
+artist-id = "heyne"
+kind = "single"
+
+names = [
+  { name = "돌아올거야", locale = "ko", original = true },
+  { name = "Doraolgeoya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10503780" },
+]
