@@ -1,0 +1,16 @@
+artist-id = "lucy"
+kind = "single"
+
+names = [
+  { name = "좀비탐정 OST Part.2", locale = "ko", original = true },
+  { name = "Zombie Tamjeong OST Part.2", locale = "ko-Latn", default = true },
+  { name = "Zombie Detective OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-10-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10504464" },
+]

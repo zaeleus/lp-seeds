@@ -1,0 +1,13 @@
+medium-ids = [
+  "lucy/zombie-tamjeong-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucy/seotulleoseo"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "lucy/seotulleoseo-inst"
+duration = "3:24"
