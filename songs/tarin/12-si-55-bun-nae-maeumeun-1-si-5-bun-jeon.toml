@@ -1,0 +1,4 @@
+names = [
+  { name = "12시 55분, 내 마음은 1시 5분 전", locale = "ko", original = true },
+  { name = "12-si 55-bun, Nae Maeumeun 1-si 5-bun Jeon", locale = "ko-Latn", default = true },
+]

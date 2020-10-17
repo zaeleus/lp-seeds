@@ -1,0 +1,4 @@
+names = [
+  { name = "평행선 (Inst.)", locale = "ko", original = true },
+  { name = "Pyeonghaengseon (Inst.)", locale = "ko-Latn", default = true },
+]

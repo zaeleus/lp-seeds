@@ -1,0 +1,4 @@
+names = [
+  { name = "들꽃 같은 작은 사랑이었고 어리숙한 사랑이었죠", locale = "ko", original = true },
+  { name = "Deulkkot Gateun Jageun Sarangieotgo Eorisukhan Sarangieotjyo", locale = "ko-Latn", default = true },
+]
