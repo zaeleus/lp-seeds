@@ -1,0 +1,13 @@
+medium-ids = [
+  "sole/twenty-twenty-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sole/amumaldo"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "sole/amumaldo-inst"
+duration = "3:08"
