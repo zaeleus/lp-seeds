@@ -1,0 +1,14 @@
+artist-id = "song-ha-yea"
+kind = "ep"
+
+names = [
+  { name = "Happy", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-10-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10504759" },
+]

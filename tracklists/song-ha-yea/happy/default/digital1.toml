@@ -1,0 +1,38 @@
+medium-ids = [
+  "song-ha-yea/happy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "song-ha-yea/haengbokhae"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "song-ha-yea/geunarui-bam"
+duration = "4:25"
+
+[[tracks]]
+position = 3
+song-id = "song-ha-yea/eomma"
+duration = "3:54"
+
+[[tracks]]
+position = 4
+song-id = "song-ha-yea/dwitbaragi"
+duration = "4:08"
+
+[[tracks]]
+position = 5
+song-id = "song-ha-yea/bigyoga-dwae"
+duration = "3:42"
+
+[[tracks]]
+position = 6
+song-id = "song-ha-yea/haengbokhae-inst"
+duration = "4:14"
+
+[[tracks]]
+position = 7
+song-id = "song-ha-yea/geunarui-bam-inst"
+duration = "4:25"
