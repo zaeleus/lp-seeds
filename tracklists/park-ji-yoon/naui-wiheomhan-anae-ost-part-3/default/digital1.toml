@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-ji-yoon/naui-wiheomhan-anae-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-ji-yoon/nampyeonege"
+duration = "4:26"
+
+[[tracks]]
+position = 2
+song-id = "park-ji-yoon/nampyeonege-inst"
+duration = "4:26"
