@@ -1,0 +1,5 @@
+names = [
+  { name = "기억해 (Fall Again)", locale = "ko", original = true },
+  { name = "Gieokhae (Fall Again)", locale = "ko-Latn", default = true },
+  { name = "Fall Again", locale = "en" },
+]

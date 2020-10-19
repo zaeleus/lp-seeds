@@ -1,0 +1,5 @@
+names = [
+  { name = "숨바꼭질 (Hide & Seek)", locale = "ko", original = true },
+  { name = "Sumbakkokjil (Hide & Seek)", locale = "ko-Latn", default = true },
+  { name = "Hide & Seek", locale = "en" },
+]

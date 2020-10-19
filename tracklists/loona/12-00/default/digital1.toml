@@ -1,0 +1,43 @@
+medium-ids = [
+  "loona/12-00/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/12-00"
+duration = "1:14"
+
+[[tracks]]
+position = 2
+song-id = "loona/why-not"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "loona/moksori-voice"
+duration = "3:19"
+
+[[tracks]]
+position = 4
+song-id = "loona/gieokhae-fall-again"
+duration = "3:37"
+
+[[tracks]]
+position = 5
+song-id = "loona/universe"
+duration = "3:35"
+
+[[tracks]]
+position = 6
+song-id = "loona/sumbakkokjil-hide-seek"
+duration = "3:03"
+
+[[tracks]]
+position = 7
+song-id = "loona/oops"
+duration = "2:43"
+
+[[tracks]]
+position = 8
+song-id = "loona/star-moksori-english-ver"
+duration = "3:19"
