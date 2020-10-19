@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-hyo-bin/myeot-beonui-ibyeol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-hyo-bin/myeot-beonui-ibyeol"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "jung-hyo-bin/myeot-beonui-ibyeol-inst"
+duration = "3:25"
