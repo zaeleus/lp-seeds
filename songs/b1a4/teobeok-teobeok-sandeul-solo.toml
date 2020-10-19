@@ -1,0 +1,4 @@
+names = [
+  { name = "터벅터벅 (산들 Solo)", locale = "ko", original = true },
+  { name = "Teobeok Teobeok (Sandeul Solo)", locale = "ko-Latn", default = true },
+]

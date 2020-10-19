@@ -1,0 +1,5 @@
+names = [
+  { name = "오렌지색 하늘은 무슨 맛일까? (what is LovE?)", locale = "ko", original = true },
+  { name = "Orenjisaek Haneureun Museun Masilkka? (what is LovE?)", locale = "ko-Latn", default = true },
+  { name = "what is LovE?", locale = "en" },
+]
