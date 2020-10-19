@@ -1,0 +1,13 @@
+medium-ids = [
+  "koh-na-young/unlock-the-key/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "koh-na-young/unlock-the-key"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "koh-na-young/unlock-the-key-inst"
+duration = "3:22"

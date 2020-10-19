@@ -1,0 +1,14 @@
+artist-id = "koh-na-young"
+kind = "single"
+
+names = [
+  { name = "Unlock the key", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-10-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10504907" },
+]
