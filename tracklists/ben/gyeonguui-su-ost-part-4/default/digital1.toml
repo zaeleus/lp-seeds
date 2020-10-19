@@ -1,0 +1,13 @@
+medium-ids = [
+  "ben/gyeonguui-su-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/oneuldo-nan-geu-jarie-isseo"
+duration = "4:33"
+
+[[tracks]]
+position = 2
+song-id = "ben/oneuldo-nan-geu-jarie-isseo-inst"
+duration = "4:33"
