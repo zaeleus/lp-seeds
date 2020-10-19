@@ -1,0 +1,33 @@
+medium-ids = [
+  "seventeen/semicolon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seventeen/home-run"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "seventeen/doremi"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "seventeen/hey-buddy"
+duration = "3:19"
+
+[[tracks]]
+position = 4
+song-id = "seventeen/maeume-bureul-jipyeo"
+duration = "3:10"
+
+[[tracks]]
+position = 5
+song-id = "seventeen/ah-love"
+duration = "3:15"
+
+[[tracks]]
+position = 6
+song-id = "seventeen/gyeou"
+duration = "3:23"
