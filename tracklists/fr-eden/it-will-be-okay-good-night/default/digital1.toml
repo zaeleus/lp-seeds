@@ -1,0 +1,13 @@
+medium-ids = [
+  "fr-eden/it-will-be-okay-good-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fr-eden/it-will-be-okay"
+duration = "2:50"
+
+[[tracks]]
+position = 2
+song-id = "fr-eden/good-night"
+duration = "2:59"
