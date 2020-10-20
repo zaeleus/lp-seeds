@@ -1,0 +1,5 @@
+names = [
+  { name = "딩가딩가 (Dingga) (Inst.)", locale = "ko", original = true },
+  { name = "Dingga Dingga (Dingga) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Dingga (Inst.)", locale = "en" },
+]

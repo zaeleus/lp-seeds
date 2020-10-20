@@ -1,0 +1,13 @@
+medium-ids = [
+  "mamamoo/dingga-dingga-dingga/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/dingga-dingga-dingga"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/dingga-dingga-dingga-inst"
+duration = "3:00"
