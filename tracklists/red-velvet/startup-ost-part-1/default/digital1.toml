@@ -1,0 +1,13 @@
+medium-ids = [
+  "red-velvet/startup-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/mirae"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/mirae-inst"
+duration = "3:36"
