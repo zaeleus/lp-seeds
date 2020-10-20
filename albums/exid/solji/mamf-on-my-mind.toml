@@ -1,0 +1,14 @@
+artist-id = "exid/solji"
+kind = "single"
+
+names = [
+  { name = "MAMF on my mind", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-10-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10505710" },
+]
