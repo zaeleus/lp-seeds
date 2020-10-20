@@ -1,0 +1,15 @@
+artist-id = "12dal"
+kind = "single"
+
+names = [
+  { name = "그때의 우리는 사라졌어", locale = "ko", original = true },
+  { name = "Geuttaeui Urineun Sarajyeosseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10505661" },
+]
