@@ -1,0 +1,13 @@
+medium-ids = [
+  "hint/eh-oh/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hint/eh-oh"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "hint/eh-oh-inst"
+duration = "3:20"
