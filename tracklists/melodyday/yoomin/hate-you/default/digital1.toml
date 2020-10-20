@@ -1,0 +1,13 @@
+medium-ids = [
+  "melodyday/yoomin/hate-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melodyday/yoomin/hate-you"
+duration = "4:13"
+
+[[tracks]]
+position = 2
+song-id = "melodyday/yoomin/hate-you-inst"
+duration = "4:13"
