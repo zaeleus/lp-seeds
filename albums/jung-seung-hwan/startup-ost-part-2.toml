@@ -1,0 +1,16 @@
+artist-id = "jung-seung-hwan"
+kind = "single"
+
+names = [
+  { name = "스타트업 OST Part.2", locale = "ko", original = true },
+  { name = "Seutateueop OST Part.2", locale = "ko-Latn" },
+  { name = "Startup OST Part.2", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10504851" },
+]

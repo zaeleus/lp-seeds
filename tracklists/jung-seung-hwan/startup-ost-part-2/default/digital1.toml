@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-seung-hwan/startup-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-seung-hwan/day-night"
+duration = "4:21"
+
+[[tracks]]
+position = 2
+song-id = "jung-seung-hwan/day-night-inst"
+duration = "4:21"
