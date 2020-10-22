@@ -1,0 +1,5 @@
+names = [
+  { name = "이별 노래가 아니야 (Not a sad song)", locale = "ko", original = true },
+  { name = "Ibyeol Noraega Aniya (Not a sad song)", locale = "ko-Latn", default = true },
+  { name = "Not a sad song", locale = "en" },
+]

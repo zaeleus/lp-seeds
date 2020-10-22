@@ -1,0 +1,13 @@
+medium-ids = [
+  "onf/yeonaehyeongmyeong-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "onf/ibyeol-noraega-aniya-not-a-sad-song"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "onf/ibyeol-noraega-aniya-not-a-sad-song-inst"
+duration = "3:58"
