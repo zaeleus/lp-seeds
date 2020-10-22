@@ -1,0 +1,13 @@
+medium-ids = [
+  "jeebanoff/do-do-sol-sol-la-la-sol-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jeebanoff/naegen-neomu-himdeureo"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "jeebanoff/naegen-neomu-himdeureo-inst"
+duration = "3:12"
