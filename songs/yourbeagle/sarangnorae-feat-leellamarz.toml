@@ -1,0 +1,4 @@
+names = [
+  { name = "사랑노래 (Feat. Leellamarz)", locale = "ko", original = true },
+  { name = "Sarangnorae (Feat. Leellamarz)", locale = "ko-Latn", default = true },
+]

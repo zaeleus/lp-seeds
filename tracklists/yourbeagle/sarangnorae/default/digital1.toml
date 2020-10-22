@@ -1,0 +1,8 @@
+medium-ids = [
+  "yourbeagle/sarangnorae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/sarangnorae-feat-leellamarz"
+duration = "3:01"
