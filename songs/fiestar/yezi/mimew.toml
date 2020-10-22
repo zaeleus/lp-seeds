@@ -1,0 +1,5 @@
+names = [
+  { name = "미묘 (迷猫)", locale = "ko", original = true },
+  { name = "Mimyo", locale = "ko-Latn" },
+  { name = "Mimew", locale = "en", default = true },
+]

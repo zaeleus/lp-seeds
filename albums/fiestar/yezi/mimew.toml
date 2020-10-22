@@ -1,0 +1,16 @@
+artist-id = "fiestar/yezi"
+kind = "single"
+
+names = [
+  { name = "미묘 (迷猫)", locale = "ko", original = true },
+  { name = "Mimyo", locale = "ko-Latn" },
+  { name = "Mimew", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10506796" },
+]

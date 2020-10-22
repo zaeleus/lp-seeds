@@ -1,0 +1,13 @@
+medium-ids = [
+  "fiestar/yezi/mimew/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fiestar/yezi/mimew"
+duration = "2:55"
+
+[[tracks]]
+position = 2
+song-id = "fiestar/yezi/mimew-inst"
+duration = "2:55"
