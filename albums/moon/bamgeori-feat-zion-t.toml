@@ -1,0 +1,15 @@
+artist-id = "moon"
+kind = "single"
+
+names = [
+  { name = "밤거리 (Feat. Zion.T)", locale = "ko", original = true },
+  { name = "Bamgeori (Feat. Zion.T)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10506088" },
+]

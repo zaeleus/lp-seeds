@@ -1,0 +1,4 @@
+names = [
+  { name = "밤거리 (Feat. Zion.T)", locale = "ko", original = true },
+  { name = "Bamgeori (Feat. Zion.T)", locale = "ko-Latn", default = true },
+]
