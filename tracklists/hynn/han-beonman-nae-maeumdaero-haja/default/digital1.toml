@@ -1,0 +1,13 @@
+medium-ids = [
+  "hynn/han-beonman-nae-maeumdaero-haja/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hynn/han-beonman-nae-maeumdaero-haja"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "hynn/han-beonman-nae-maeumdaero-haja-inst"
+duration = "3:45"

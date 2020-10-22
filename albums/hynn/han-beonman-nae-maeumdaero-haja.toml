@@ -1,0 +1,15 @@
+artist-id = "hynn"
+kind = "single"
+
+names = [
+  { name = "한 번만 내 마음대로 하자", locale = "ko", original = true },
+  { name = "Han Beonman Nae Maeumdaero Haja", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10507161" },
+]
