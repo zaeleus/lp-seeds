@@ -1,0 +1,44 @@
+medium-ids = [
+  "alexa/decoherence/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "alexa/villain"
+duration = "3:06"
+names = [
+  { name = "Villain", locale = "ko", original = true, default = true },
+]
+
+[[tracks]]
+position = 2
+song-id = "alexa/burn-out"
+duration = "3:36"
+
+[[tracks]]
+position = 3
+song-id = "alexa/revolution"
+duration = "3:10"
+
+[[tracks]]
+position = 4
+song-id = "alexa/moon-and-back"
+duration = "3:38"
+
+[[tracks]]
+position = 5
+song-id = "alexa/revolution-english-ver"
+duration = "3:10"
+
+[[tracks]]
+position = 6
+song-id = "alexa/revolution-inst"
+duration = "3:10"
+
+[[tracks]]
+position = 7
+song-id = "alexa/villain-inst"
+duration = "3:06"
+names = [
+  { name = "Villain (Inst.)", locale = "ko", original = true, default = true },
+]
