@@ -1,0 +1,14 @@
+artist-id = "samuel-seo"
+kind = "ep"
+
+names = [
+  { name = "UNITY II", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-10-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10506461" },
+]
