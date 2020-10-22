@@ -1,0 +1,14 @@
+artist-id = "park-won"
+kind = "lp"
+
+names = [
+  { name = "My fuxxxxx romance 01", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-10-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10506508" },
+]
