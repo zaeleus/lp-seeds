@@ -1,0 +1,15 @@
+artist-id = "moonbit"
+kind = "single"
+
+names = [
+  { name = "밤새 널", locale = "ko", original = true },
+  { name = "Bamsae Neol", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10507520" },
+]

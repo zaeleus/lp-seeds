@@ -1,0 +1,8 @@
+medium-ids = [
+  "moonbit/bamsae-neol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "moonbit/bamsae-neol"
+duration = "3:23"
