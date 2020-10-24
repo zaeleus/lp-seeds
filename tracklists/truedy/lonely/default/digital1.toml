@@ -1,0 +1,18 @@
+medium-ids = [
+  "truedy/lonely/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "truedy/lonely-feat-aril"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "truedy/lonely-feat-aril-acoustic-ver"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "truedy/lonley-inst"
+duration = "3:18"
