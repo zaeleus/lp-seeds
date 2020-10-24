@@ -1,0 +1,3 @@
+names = [
+  { name = "Close Your Eyes (Inst.)", locale = "ko", original = true, default = true },
+]

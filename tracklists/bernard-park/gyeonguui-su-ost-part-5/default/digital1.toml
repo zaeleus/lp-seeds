@@ -1,0 +1,13 @@
+medium-ids = [
+  "bernard-park/gyeonguui-su-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bernard-park/close-your-eyes"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "bernard-park/close-your-eyes-inst"
+duration = "3:48"
