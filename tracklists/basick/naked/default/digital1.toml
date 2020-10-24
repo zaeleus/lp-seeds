@@ -1,0 +1,8 @@
+medium-ids = [
+  "basick/naked/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "basick/naked"
+duration = "3:28"
