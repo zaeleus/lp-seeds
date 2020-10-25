@@ -1,0 +1,13 @@
+medium-ids = [
+  "j-rabbit/cheongchungirok-tvn-mon-tue-drama-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "j-rabbit/neoro-gadeukhae"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "j-rabbit/neoro-gadeukhae-inst"
+duration = "3:46"
