@@ -1,0 +1,13 @@
+medium-ids = [
+  "sogumm/naui-wiheomhan-anae-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sogumm/run"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "sogumm/run-inst"
+duration = "3:17"
