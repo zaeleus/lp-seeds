@@ -1,0 +1,13 @@
+medium-ids = [
+  "saturday/yeonaeui-chamgyeon-season-3-ost-part-20/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saturday/little-star-vocal-haneul-yuki"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "saturday/little-star-vocal-haneul-yuki-inst"
+duration = "3:55"
