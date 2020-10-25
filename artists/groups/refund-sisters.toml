@@ -1,0 +1,10 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "환불원정대", locale = "ko", original = true },
+  { name = "Hwanburwonjeongdae", locale = "ko-Latn" },
+  { name = "Refund Sisters", locale = "en", default = true },
+]
