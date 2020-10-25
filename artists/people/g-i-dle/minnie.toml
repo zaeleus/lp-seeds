@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1997-10-23"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "민니", locale = "ko", kind = "stage", original = true },
+  { name = "ミンニ", locale = "ja", kind = "stage" },
+  { name = "Minnie", locale = "en", kind = "stage", default = true },
+  { name = "มินนี่ ณิชา ยนตรรักษ์", locale = "th", kind = "real" },
+  { name = "Minnie Nicha Yontararak", locale = "th-Latn", kind = "real" },
+]

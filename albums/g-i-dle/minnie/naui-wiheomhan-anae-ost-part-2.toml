@@ -1,0 +1,16 @@
+artist-id = "g-i-dle/minnie"
+kind = "single"
+
+names = [
+  { name = "나의 위험한 아내 OST Part.2", locale = "ko", original = true },
+  { name = "Naui Wiheomhan Anae OST Part.2", locale = "ko-Latn", default = true },
+  { name = "My Dangerous Wife OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-10-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10501099" },
+]

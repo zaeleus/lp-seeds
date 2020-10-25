@@ -1,0 +1,13 @@
+medium-ids = [
+  "g-i-dle/minnie/naui-wiheomhan-anae-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-i-dle/minnie/getaway"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "g-i-dle/minnie/getaway-inst"
+duration = "3:49"
