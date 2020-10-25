@@ -1,0 +1,16 @@
+artist-id = "a-c-e"
+kind = "ep"
+
+names = [
+  { name = "호접지몽 (HJZM: The Butterfly Phantasy)", locale = "ko", original = true },
+  { name = "Hojeopjimong (HJZM: The Butterfly Phantasy)", locale = "ko-Latn", default = true },
+  { name = "HJZM: The Butterfly Phantasy", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-09-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10484314" },
+]

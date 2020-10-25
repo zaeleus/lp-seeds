@@ -1,0 +1,4 @@
+names = [
+  { name = "황홀경 (恍惚境)", locale = "ko", original = true },
+  { name = "Hwangholgyeong", locale = "ko-Latn", default = true },
+]

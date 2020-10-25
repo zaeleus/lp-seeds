@@ -1,5 +1,5 @@
 names = [
   { name = "편지를 써 (Stand by you)", locale = "ko", original = true },
   { name = "Pyeonjireul Sseo (Stand by You)", locale = "ko-Latn", default = true },
-  { name = "Stand by you", locale = "en" },
+  { name = "Stand by You", locale = "en" },
 ]
