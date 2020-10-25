@@ -1,0 +1,28 @@
+medium-ids = [
+  "crush/with-her/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "crush/noajwo-with-taeyeon"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "crush/tip-toe-with-lee-hi"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "crush/chum-with-lee-so-ra"
+duration = "3:31"
+
+[[tracks]]
+position = 4
+song-id = "crush/step-by-step-with-yoon-mi-rae"
+duration = "4:33"
+
+[[tracks]]
+position = 5
+song-id = "crush/she-said-with-bibi"
+duration = "3:29"

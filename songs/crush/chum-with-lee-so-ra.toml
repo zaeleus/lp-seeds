@@ -1,0 +1,4 @@
+names = [
+  { name = "춤 (with 이소라)", locale = "ko", original = true },
+  { name = "Chum (with Lee So Ra)", locale = "ko-Latn", default = true },
+]

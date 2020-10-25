@@ -1,0 +1,4 @@
+names = [
+  { name = "Tip Toe (with 이하이)", locale = "ko", original = true },
+  { name = "Tip Toe (with Lee Hi)", locale = "ko-Latn", default = true },
+]
