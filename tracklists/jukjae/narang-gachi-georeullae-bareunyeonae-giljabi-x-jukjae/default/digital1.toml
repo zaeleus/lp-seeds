@@ -1,0 +1,13 @@
+medium-ids = [
+  "jukjae/narang-gachi-georeullae-bareunyeonae-giljabi-x-jukjae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jukjae/narang-gachi-georeullae-bareunyeonae-giljabi-x-jukjae"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "jukjae/narang-gachi-georeullae-bareunyeonae-giljabi-x-jukjae-inst"
+duration = "3:47"

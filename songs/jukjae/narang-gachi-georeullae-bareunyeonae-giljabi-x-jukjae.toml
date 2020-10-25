@@ -1,0 +1,4 @@
+names = [
+  { name = "나랑 같이 걸을래 (바른연애 길잡이 X 적재)", locale = "ko", original = true },
+  { name = "Narang Gachi Georeullae (Bareunyeonae Giljabi X Jukjae)", locale = "ko-Latn", default = true },
+]
