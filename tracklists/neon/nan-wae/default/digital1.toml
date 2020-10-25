@@ -1,0 +1,13 @@
+medium-ids = [
+  "neon/nan-wae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "neon/nan-wae"
+duration = "4:10"
+
+[[tracks]]
+position = 2
+song-id = "neon/nan-wae-inst"
+duration = "4:10"
