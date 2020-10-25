@@ -1,0 +1,15 @@
+artist-id = "woo-won-jae"
+kind = "single"
+
+names = [
+  { name = "함구", locale = "ko", original = true },
+  { name = "Hamgu", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10507960" },
+]

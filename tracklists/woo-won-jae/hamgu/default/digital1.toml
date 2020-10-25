@@ -1,0 +1,8 @@
+medium-ids = [
+  "woo-won-jae/hamgu/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-won-jae/hamgu"
+duration = "3:53"
