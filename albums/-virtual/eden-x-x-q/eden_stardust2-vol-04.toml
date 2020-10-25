@@ -1,0 +1,19 @@
+artist-id = "-virtual/eden-x-x-q"
+kind = "single"
+
+names = [
+  { name = "EDEN_STARDUST2 vol.04", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "eden", separator = " X " },
+  { artist-id = "x-q" },
+]
+
+[[releases]]
+released-on = "2020-09-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10497428" },
+]
