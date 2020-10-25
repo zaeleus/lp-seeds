@@ -1,0 +1,16 @@
+artist-id = "ong-seong-wu"
+kind = "single"
+
+names = [
+  { name = "경우의 수 OST Part.6", locale = "ko", original = true },
+  { name = "Gyeonguui Su OST Part.6", locale = "ko-Latn", default = true },
+  { name = "More Than Friends OST Part.6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-10-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10508198" },
+]

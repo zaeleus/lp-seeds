@@ -1,0 +1,13 @@
+medium-ids = [
+  "ong-seong-wu/gyeonguui-su-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ong-seong-wu/wae-mollasseosseulkka"
+duration = "4:24"
+
+[[tracks]]
+position = 2
+song-id = "ong-seong-wu/wae-mollasseosseulkka-inst"
+duration = "4:24"
