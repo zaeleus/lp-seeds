@@ -1,0 +1,13 @@
+medium-ids = [
+  "exo/baekhyun/cheongchungirok-tvn-mon-tue-drama-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/baekhyun/naui-siganeun"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "exo/baekhyun/naui-siganeun-inst"
+duration = "3:33"
