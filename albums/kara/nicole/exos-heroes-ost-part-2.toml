@@ -1,0 +1,16 @@
+artist-id = "kara/nicole"
+kind = "single"
+
+names = [
+  { name = "엑소스 히어로즈 OST Part.2", locale = "ko", original = true },
+  { name = "Eksoseu Hieorojeu OST Part.2", locale = "ko-Latn" },
+  { name = "Exos Heroes OST Part.2", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10498471" },
+]
