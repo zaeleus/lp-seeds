@@ -1,0 +1,8 @@
+medium-ids = [
+  "e-the/happy-ever-after/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "e-the/happy-ever-after"
+duration = "3:30"
