@@ -1,0 +1,3 @@
+names = [
+  { name = "Town Now (Feat. Mogwaa)", locale = "ko", original = true, default = true },
+]

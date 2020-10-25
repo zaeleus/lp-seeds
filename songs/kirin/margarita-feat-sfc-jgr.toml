@@ -1,0 +1,4 @@
+names = [
+  { name = "MARGARITA (Feat. 재규어 중사 (SFC.JGR))", locale = "ko", original = true },
+  { name = "MARGARITA (Feat. SFC.JGR)", locale = "en", default = true },
+]

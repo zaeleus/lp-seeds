@@ -1,0 +1,4 @@
+names = [
+  { name = "Town On Air (Feat. 재규어 중사 (SFC.JGR), meenoi, Rekstizzy)", locale = "ko", original = true },
+  { name = "Town On Air (Feat. SFC.JGR, meenoi, Rekstizzy)", locale = "en", default = true },
+]

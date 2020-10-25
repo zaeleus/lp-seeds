@@ -1,0 +1,73 @@
+medium-ids = [
+  "kirin/the-town/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kirin/the-town"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "kirin/sachi-feat-plastic-kid"
+duration = "4:02"
+
+[[tracks]]
+position = 3
+song-id = "kirin/andwae"
+duration = "4:06"
+
+[[tracks]]
+position = 4
+song-id = "kirin/margarita-feat-sfc-jgr"
+duration = "3:14"
+
+[[tracks]]
+position = 5
+song-id = "kirin/i-belong-to-you-feat-jinbo-the-superfreak"
+duration = "3:11"
+
+[[tracks]]
+position = 6
+song-id = "kirin/jigeumi-jungyohae-feat-zin"
+duration = "3:16"
+
+[[tracks]]
+position = 7
+song-id = "kirin/town-now-feat-mogwaa"
+duration = "2:59"
+
+[[tracks]]
+position = 8
+song-id = "kirin/mianhae-feat-devita"
+duration = "3:34"
+
+[[tracks]]
+position = 9
+song-id = "kirin/fantasy-feat-simon-dominic-hoody-unity-recordz"
+duration = "4:01"
+
+[[tracks]]
+position = 10
+song-id = "kirin/beoseu-aneseo"
+duration = "4:30"
+
+[[tracks]]
+position = 11
+song-id = "kirin/eotteokhae-feat-meenoi"
+duration = "3:48"
+
+[[tracks]]
+position = 12
+song-id = "kirin/town-on-air-feat-sfc-jgr-meenoi-rekstizzy"
+duration = "3:26"
+
+[[tracks]]
+position = 13
+song-id = "kirin/step-to-you"
+duration = "3:54"
+
+[[tracks]]
+position = 14
+song-id = "kirin/puff-daehee-intro-the-message"
+duration = "2:14"
