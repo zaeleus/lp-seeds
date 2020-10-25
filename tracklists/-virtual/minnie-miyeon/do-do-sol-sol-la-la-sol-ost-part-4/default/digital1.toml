@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/minnie-miyeon/do-do-sol-sol-la-la-sol-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/minnie-miyeon/we-already-fell-in-love"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/minnie-miyeon/we-already-fell-in-love-inst"
+duration = "3:02"

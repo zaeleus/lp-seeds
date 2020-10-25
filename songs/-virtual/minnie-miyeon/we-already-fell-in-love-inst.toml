@@ -1,0 +1,8 @@
+names = [
+  { name = "We Already Fell In Love (Inst.)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "g-i-dle/minnie", separator = ", " },
+  { artist-id = "g-i-dle/miyeon" },
+]

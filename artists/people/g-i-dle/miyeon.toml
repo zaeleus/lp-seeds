@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1997-01-31"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "미연", locale = "ko", kind = "stage", original = true },
+  { name = "Miyeon", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "조미연", locale = "ko", kind = "real" },
+  { name = "Cho Mi Yeon", locale = "ko-Latn", kind = "real" },
+]
