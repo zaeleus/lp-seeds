@@ -1,0 +1,4 @@
+names = [
+  { name = "YOU (With 최리 of 이달의 소녀)", locale = "ko", original = true },
+  { name = "YOU (With Choerry of LOONA)", locale = "ko-Latn", default = true },
+]

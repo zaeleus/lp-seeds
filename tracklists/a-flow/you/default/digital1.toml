@@ -1,0 +1,18 @@
+medium-ids = [
+  "a-flow/you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "a-flow/you-with-choerry-of-loona"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "a-flow/love-way"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "a-flow/you-inst"
+duration = "3:27"
