@@ -1,0 +1,13 @@
+medium-ids = [
+  "chung-ha/cheongchungirok-tvn-mon-tue-drama-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "chung-ha/you-re-in-my-soul"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "chung-ha/you-re-in-my-soul-inst"
+duration = "3:29"
