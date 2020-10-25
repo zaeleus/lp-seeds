@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-jae-hwan/cheongchungirok-tvn-mon-tue-drama-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-jae-hwan/what-if"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "kim-jae-hwan/what-if-inst"
+duration = "3:45"

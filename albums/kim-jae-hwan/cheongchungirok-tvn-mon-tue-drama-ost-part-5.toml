@@ -1,0 +1,16 @@
+artist-id = "kim-jae-hwan"
+kind = "single"
+
+names = [
+  { name = "청춘기록 (tvN 월화드라마) OST - Part.5", locale = "ko", original = true },
+  { name = "Cheongchungirok (tVN Mon-Tue Drama) OST - Part.5", locale = "ko-Latn", default = true },
+  { name = "Record of Youth (tVN Mon-Tue Drama) OST - Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-09-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10496746" },
+]
