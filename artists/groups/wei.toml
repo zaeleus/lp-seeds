@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "위아이", locale = "ko", original = true },
+  { name = "WEi", locale = "en", default = true },
+]
