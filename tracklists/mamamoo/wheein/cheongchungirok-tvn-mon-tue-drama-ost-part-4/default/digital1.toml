@@ -1,0 +1,13 @@
+medium-ids = [
+  "mamamoo/wheein/cheongchungirok-tvn-mon-tue-drama-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/wheein/geureoke-neon-naege-binna"
+duration = "4:31"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/wheein/geureoke-neon-naege-binna-inst"
+duration = "4:31"
