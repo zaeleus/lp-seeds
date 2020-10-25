@@ -1,0 +1,8 @@
+names = [
+  { name = "Sweet Dream (Inst.)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "j-ust", separator = ", " },
+  { artist-id = "april/chae-won" },
+]

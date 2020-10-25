@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/j-ust-chae-won/gyeonguui-su-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/j-ust-chae-won/sweet-dream"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/j-ust-chae-won/sweet-dream-inst"
+duration = "3:19"
