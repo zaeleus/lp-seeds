@@ -1,0 +1,33 @@
+medium-ids = [
+  "yong-yong/im-your-xyz/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yong-yong/geureon-saenggageun-hajima-with-ash-island"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "yong-yong/x"
+duration = "2:35"
+
+[[tracks]]
+position = 3
+song-id = "yong-yong/balencia-feat-ash-island"
+duration = "2:53"
+
+[[tracks]]
+position = 4
+song-id = "yong-yong/dareunaeyeopenuwoneolsaenggakhae-feat-kid-wine"
+duration = "2:45"
+
+[[tracks]]
+position = 5
+song-id = "yong-yong/killin-me-softly-feat-skinny-brown"
+duration = "3:15"
+
+[[tracks]]
+position = 6
+song-id = "yong-yong/chum-slow-mo-feat-tommy-strate"
+duration = "3:12"

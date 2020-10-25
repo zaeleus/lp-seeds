@@ -1,0 +1,4 @@
+names = [
+  { name = "다른애옆에누워널생각해 (feat. Kid Wine)", locale = "ko", original = true },
+  { name = "Dareunaeyeopenuwoneolsaenggakhae (feat. Kid Wine)", locale = "ko-Latn", default = true },
+]
