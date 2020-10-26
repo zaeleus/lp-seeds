@@ -1,0 +1,13 @@
+medium-ids = [
+  "it-s/kairos-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "it-s/like-a-star"
+duration = "2:38"
+
+[[tracks]]
+position = 2
+song-id = "it-s/like-a-star-inst"
+duration = "2:38"
