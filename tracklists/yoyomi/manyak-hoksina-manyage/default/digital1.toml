@@ -1,0 +1,18 @@
+medium-ids = [
+  "yoyomi/manyak-hoksina-manyage/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yoyomi/manyak-hoksina-manyage"
+duration = "2:38"
+
+[[tracks]]
+position = 2
+song-id = "yoyomi/manyak-hoksina-manyage-mr"
+duration = "2:38"
+
+[[tracks]]
+position = 3
+song-id = "yoyomi/manyak-hoksina-manyage-inst"
+duration = "2:38"

@@ -1,0 +1,15 @@
+artist-id = "yoyomi"
+kind = "single"
+
+names = [
+  { name = "만약 혹시나 만약에", locale = "ko", original = true },
+  { name = "Manyak Hoksina Manyage", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10507957" },
+]
