@@ -1,0 +1,14 @@
+artist-id = "twice"
+kind = "lp"
+
+names = [
+  { name = "Eyes wide open", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-10-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10508930" },
+]
