@@ -1,0 +1,4 @@
+names = [
+  { name = "5시 53분의 하늘에서 발견한 너와 나", locale = "ko", original = true },
+  { name = "5-si 53-bunui Haneureseo Balgyeonhan Neowa Na", locale = "ko-Latn", default = true },
+]

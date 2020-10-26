@@ -1,0 +1,28 @@
+medium-ids = [
+  "txt/minisode1-blue-hour/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "txt/ghosting"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "txt/5-si-53-bunui-haneureseo-balgyeonhan-neowa-na"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "txt/nalssireul-ireobeoryeosseo"
+duration = "3:31"
+
+[[tracks]]
+position = 4
+song-id = "txt/wishlist"
+duration = "3:12"
+
+[[tracks]]
+position = 5
+song-id = "txt/hagyotgil"
+duration = "3:04"
