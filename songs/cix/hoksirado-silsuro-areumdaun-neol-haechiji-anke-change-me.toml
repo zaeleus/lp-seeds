@@ -1,0 +1,5 @@
+names = [
+  { name = "혹시라도 실수로 아름다운 널 해치지 않게 (Change Me)", locale = "ko", original = true },
+  { name = "Hoksirado Silsuro Areumdaun Neol Haechiji Anke (Change Me)", locale = "ko-Latn", default = true },
+  { name = "Change Me", locale = "en" },
+]

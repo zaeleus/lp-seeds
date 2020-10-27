@@ -1,0 +1,14 @@
+artist-id = "cix"
+kind = "ep"
+
+names = [
+  { name = "'HELLO' Chapter 3. Hello, Strange Time", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-10-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10509411" },
+]

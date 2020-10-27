@@ -1,0 +1,5 @@
+names = [
+  { name = "반항아 (Rebel)", locale = "ko", original = true },
+  { name = "Banhanga (Rebel)", locale = "ko-Latn", default = true },
+  { name = "Rebel", locale = "en" },
+]

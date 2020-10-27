@@ -1,0 +1,28 @@
+medium-ids = [
+  "cix/hello-chapter-3-hello-strange-time/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cix/move-my-body"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "cix/jungle"
+duration = "3:49"
+
+[[tracks]]
+position = 3
+song-id = "cix/hoksirado-silsuro-areumdaun-neol-haechiji-anke-change-me"
+duration = "3:38"
+
+[[tracks]]
+position = 4
+song-id = "cix/switch-it-up"
+duration = "3:16"
+
+[[tracks]]
+position = 5
+song-id = "cix/banhanga-rebel"
+duration = "3:24"
