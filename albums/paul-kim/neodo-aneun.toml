@@ -1,0 +1,15 @@
+artist-id = "paul-kim"
+kind = "single"
+
+names = [
+  { name = "너도 아는", locale = "ko", original = true },
+  { name = "Neodo Aneun", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10508892" },
+]
