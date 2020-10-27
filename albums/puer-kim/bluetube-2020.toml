@@ -1,0 +1,14 @@
+artist-id = "puer-kim"
+kind = "ep"
+
+names = [
+  { name = "Bluetube 2020", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-10-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10508867" },
+]

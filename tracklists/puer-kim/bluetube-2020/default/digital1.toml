@@ -1,0 +1,23 @@
+medium-ids = [
+  "puer-kim/bluetube-2020/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "puer-kim/sad-mukbang"
+duration = "2:13"
+
+[[tracks]]
+position = 2
+song-id = "puer-kim/be-unhappy-together"
+duration = "3:59"
+
+[[tracks]]
+position = 3
+song-id = "puer-kim/asmr-fail"
+duration = "2:21"
+
+[[tracks]]
+position = 4
+song-id = "puer-kim/unpretty-tattoo"
+duration = "3:15"
