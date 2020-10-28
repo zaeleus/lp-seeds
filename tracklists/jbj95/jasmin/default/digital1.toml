@@ -1,0 +1,28 @@
+medium-ids = [
+  "jbj95/jasmin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jbj95/shadubidu"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "jbj95/jasmin"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "jbj95/daedaphae"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "jbj95/seoulite"
+duration = "3:38"
+
+[[tracks]]
+position = 5
+song-id = "jbj95/only-one"
+duration = "3:32"
