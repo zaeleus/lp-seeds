@@ -1,0 +1,15 @@
+artist-id = "u-sung-eun"
+kind = "single"
+
+names = [
+  { name = "도도솔솔라라솔 OST Part.7", locale = "ko", original = true },
+  { name = "Do Do Sol Sol La La Sol OST Part.7", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10509455" },
+]

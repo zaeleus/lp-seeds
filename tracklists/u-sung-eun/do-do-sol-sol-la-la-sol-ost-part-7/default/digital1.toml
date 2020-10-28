@@ -1,0 +1,13 @@
+medium-ids = [
+  "u-sung-eun/do-do-sol-sol-la-la-sol-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "u-sung-eun/nae-yaegireul-deureojwo"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "u-sung-eun/nae-yaegireul-deureojwo-inst"
+duration = "3:37"
