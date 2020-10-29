@@ -1,0 +1,13 @@
+medium-ids = [
+  "2ne1/cl/hwa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2ne1/cl/hwa"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "2ne1/cl/5-star"
+duration = "3:21"
