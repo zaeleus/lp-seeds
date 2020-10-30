@@ -1,0 +1,19 @@
+artist-id = "-virtual/eden-x-horim"
+kind = "single"
+
+names = [
+  { name = "EDEN_STARDUST2 vol.05", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "eden", separator = " X " },
+  { artist-id = "horim" },
+]
+
+[[releases]]
+released-on = "2020-10-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10511163" },
+]

@@ -1,0 +1,8 @@
+names = [
+  { name = "Luv'ae (Love You Babe)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "eden", separator = " X " },
+  { artist-id = "horim" },
+]
