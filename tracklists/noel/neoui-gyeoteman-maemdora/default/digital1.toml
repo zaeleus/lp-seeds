@@ -1,0 +1,13 @@
+medium-ids = [
+  "noel/neoui-gyeoteman-maemdora/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "noel/neoui-gyeoteman-maemdora"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "noel/neoui-gyeoteman-maemdora-inst"
+duration = "3:57"
