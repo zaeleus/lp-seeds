@@ -1,0 +1,3 @@
+names = [
+  { name = "Click / Han river view", locale = "ko", original = true, default = true },
+]

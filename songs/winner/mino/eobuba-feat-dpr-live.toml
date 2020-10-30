@@ -1,0 +1,4 @@
+names = [
+  { name = "어부바 (Feat. DPR LIVE)", locale = "ko", original = true },
+  { name = "Eobuba (Feat. DPR LIVE)", locale = "ko-Latn", default = true },
+]

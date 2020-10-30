@@ -1,0 +1,63 @@
+medium-ids = [
+  "winner/mino/take/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "winner/mino/love-and-a-boy"
+duration = "2:45"
+
+[[tracks]]
+position = 2
+song-id = "winner/mino/domangga"
+duration = "2:26"
+
+[[tracks]]
+position = 3
+song-id = "winner/mino/ok-man-feat-bobby"
+duration = "2:20"
+
+[[tracks]]
+position = 4
+song-id = "winner/mino/wa-feat-zion-t"
+duration = "3:56"
+
+[[tracks]]
+position = 5
+song-id = "winner/mino/hagosipeo-feat-meenoi"
+duration = "3:34"
+
+[[tracks]]
+position = 6
+song-id = "winner/mino/daylight"
+duration = "3:39"
+
+[[tracks]]
+position = 7
+song-id = "winner/mino/eobuba-feat-dpr-live"
+duration = "3:22"
+
+[[tracks]]
+position = 8
+song-id = "winner/mino/peong"
+duration = "3:09"
+
+[[tracks]]
+position = 9
+song-id = "winner/mino/click-han-river-view"
+duration = "3:54"
+
+[[tracks]]
+position = 10
+song-id = "winner/mino/gyobomungo-feat-bewhy"
+duration = "2:20"
+
+[[tracks]]
+position = 11
+song-id = "winner/mino/sunrise"
+duration = "2:44"
+
+[[tracks]]
+position = 12
+song-id = "winner/mino/iyu-eomneun-sangsilgame-daehayeo"
+duration = "3:10"

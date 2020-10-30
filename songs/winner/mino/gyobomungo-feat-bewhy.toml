@@ -1,0 +1,4 @@
+names = [
+  { name = "교보문고 (Feat. BewhY)", locale = "ko", original = true },
+  { name = "Gyobomungo (Feat. BewhY)", locale = "ko-Latn", default = true },
+]

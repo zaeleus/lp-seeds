@@ -1,0 +1,4 @@
+names = [
+  { name = "이유 없는 상실감에 대하여", locale = "ko", original = true },
+  { name = "Iyu Eomneun Sangsilgame Daehayeo", locale = "ko-Latn", default = true },
+]
