@@ -1,0 +1,13 @@
+names = [
+  { name = "Think About Me (Feat. Coogie) (GINJO Remix)", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "raiden"
+separator = " X "
+
+[[artist-credits]]
+artist-id = "girls-generation/hyoyeon"
+names = [
+  { name = "HYO", locale = "ko", original = true, default = true },
+]

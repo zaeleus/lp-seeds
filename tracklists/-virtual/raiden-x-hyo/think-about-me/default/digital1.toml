@@ -1,0 +1,18 @@
+medium-ids = [
+  "-virtual/raiden-x-hyo/think-about-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/raiden-x-hyo/think-about-me-feat-coogie"
+duration = "2:51"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/raiden-x-hyo/think-about-me-feat-coogie-ginjo-remix"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/raiden-x-hyo/think-about-me-feat-coogie-imlay-remix"
+duration = "2:58"
