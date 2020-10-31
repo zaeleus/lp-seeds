@@ -1,0 +1,33 @@
+medium-ids = [
+  "dbo/wonderful-disaster-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dbo/myself"
+duration = "2:16"
+
+[[tracks]]
+position = 2
+song-id = "dbo/i-love-you-to-death"
+duration = "1:54"
+
+[[tracks]]
+position = 3
+song-id = "dbo/butterfly-i-fear"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "dbo/save-me"
+duration = "2:28"
+
+[[tracks]]
+position = 5
+song-id = "dbo/is-it-me-or-you"
+duration = "4:12"
+
+[[tracks]]
+position = 6
+song-id = "dbo/in-the-club"
+duration = "2:59"
