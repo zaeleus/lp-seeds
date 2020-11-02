@@ -1,0 +1,13 @@
+medium-ids = [
+  "sbgb/butterfly/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sbgb/butterfly"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "sbgb/butterfly-inst"
+duration = "3:09"
