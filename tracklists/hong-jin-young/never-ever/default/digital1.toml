@@ -1,0 +1,13 @@
+medium-ids = [
+  "hong-jin-young/never-ever/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hong-jin-young/andwaeyo"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "hong-jin-young/andwaeyo-inst"
+duration = "3:41"

@@ -1,0 +1,16 @@
+artist-id = "hong-jin-young"
+kind = "single"
+
+names = [
+  { name = "안돼요 (Never ever)", locale = "ko", original = true },
+  { name = "Andwaeyo (Never ever)", locale = "ko-Latn" },
+  { name = "Never ever", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10511210" },
+]
