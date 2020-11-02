@@ -1,0 +1,33 @@
+medium-ids = [
+  "ab6ix/salute/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ab6ix/mirror"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "ab6ix/salute"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "ab6ix/heaven"
+duration = "3:32"
+
+[[tracks]]
+position = 4
+song-id = "ab6ix/ige-geuriumi-aniramyeon-daeche-mwogesseo-maybe"
+duration = "3:36"
+
+[[tracks]]
+position = 5
+song-id = "ab6ix/bloom"
+duration = "3:32"
+
+[[tracks]]
+position = 6
+song-id = "ab6ix/hangeoreum-dwie-seoseo-behind-you"
+duration = "4:30"

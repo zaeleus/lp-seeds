@@ -1,0 +1,5 @@
+names = [
+  { name = "한걸음 뒤에 서서 (BEHIND YOU)", locale = "ko", original = true },
+  { name = "Hangeoreum Dwie Seoseo (BEHIND YOU)", locale = "ko-Latn", default = true },
+  { name = "BEHIND YOU", locale = "en" },
+]

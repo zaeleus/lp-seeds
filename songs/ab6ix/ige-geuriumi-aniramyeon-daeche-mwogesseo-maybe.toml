@@ -1,0 +1,5 @@
+names = [
+  { name = "이게 그리움이 아니라면 대체 뭐겠어 (MAYBE)", locale = "ko", original = true },
+  { name = "Ige Geuriumi Aniramyeon Daeche Mwogesseo (MAYBE)", locale = "ko-Latn", default = true },
+  { name = "MAYBE", locale = "en" },
+]
