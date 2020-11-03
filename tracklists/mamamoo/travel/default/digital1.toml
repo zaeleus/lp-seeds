@@ -1,0 +1,32 @@
+medium-ids = [
+  "mamamoo/travel/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/travel"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/dingga-dingga-dingga"
+
+[[tracks]]
+position = 3
+song-id = "mamamoo/aya"
+duration = "3:32"
+
+[[tracks]]
+position = 4
+song-id = "mamamoo/chuck"
+duration = "3:17"
+
+[[tracks]]
+position = 5
+song-id = "mamamoo/diamond"
+duration = "2:41"
+
+[[tracks]]
+position = 6
+song-id = "mamamoo/jalja-good-night"
+duration = "4:09"
