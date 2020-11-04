@@ -1,0 +1,13 @@
+medium-ids = [
+  "secret-number/got-that-boom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "secret-number/got-that-boom"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "secret-number/privacy"
+duration = "3:14"

@@ -1,0 +1,14 @@
+artist-id = "secret-number"
+kind = "single"
+
+names = [
+  { name = "Got That Boom", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10513269" },
+]
