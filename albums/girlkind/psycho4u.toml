@@ -1,0 +1,16 @@
+artist-id = "girlkind"
+kind = "single"
+
+names = [
+  { name = "싸이코4U", locale = "ko", original = true },
+  { name = "Ssaiko4U", locale = "ko-Latn" },
+  { name = "PSYCHO4U", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10512832" },
+]

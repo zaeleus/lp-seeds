@@ -1,0 +1,13 @@
+medium-ids = [
+  "girlkind/psycho4u/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girlkind/psycho4u"
+duration = "4:46"
+
+[[tracks]]
+position = 2
+song-id = "girlkind/psycho4u-inst"
+duration = "4:46"
