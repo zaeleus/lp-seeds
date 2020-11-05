@@ -1,0 +1,13 @@
+medium-ids = [
+  "bolbbalgan4/filmlet/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bolbbalgan4/ppalgan-lipstick"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "bolbbalgan4/dancing-cartoon"
+duration = "3:16"

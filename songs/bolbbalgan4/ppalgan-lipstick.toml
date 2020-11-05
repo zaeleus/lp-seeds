@@ -1,0 +1,5 @@
+names = [
+  { name = "빨간 립스틱", locale = "ko", original = true },
+  { name = "Ppalgan Lipstick", locale = "ko-Latn", default = true },
+  { name = "Red Lipstick", locale = "en" },
+]
