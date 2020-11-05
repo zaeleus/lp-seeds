@@ -1,0 +1,15 @@
+artist-id = "lee-bo-ram"
+kind = "single"
+
+names = [
+  { name = "찬란한 내 인생 OST Part.6", locale = "ko", original = true },
+  { name = "Challanhan Nae Insaeng OST Part.6", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10513807" },
+]

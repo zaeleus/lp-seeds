@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-bo-ram/challanhan-nae-insaeng-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-bo-ram/neoui-jip"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "lee-bo-ram/neoui-jip-inst"
+duration = "3:16"
