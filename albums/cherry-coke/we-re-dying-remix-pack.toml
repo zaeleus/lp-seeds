@@ -1,0 +1,14 @@
+artist-id = "cherry-coke"
+kind = "single"
+
+names = [
+  { name = "we're dying Remix Pack", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10514052" },
+]
