@@ -1,0 +1,13 @@
+medium-ids = [
+  "hynn/gumihodyeon-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hynn/geudaega-kkochi-animyeon"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "hynn/geudaega-kkochi-animyeon-inst"
+duration = "3:43"
