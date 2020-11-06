@@ -1,0 +1,4 @@
+names = [
+  { name = "꽁초 (feat. Kidd King)", locale = "ko", original = true },
+  { name = "Kkongcho (feat. Kidd King)", locale = "ko-Latn", default = true },
+]
