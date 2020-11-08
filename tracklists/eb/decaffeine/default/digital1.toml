@@ -1,0 +1,13 @@
+medium-ids = [
+  "eb/decaffeine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eb/decaffeine"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "eb/decaffeine-inst"
+duration = "3:04"
