@@ -1,0 +1,13 @@
+medium-ids = [
+  "nam-young-joo/o-samgwangbilla-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nam-young-joo/gwaenchaneulkka"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "nam-young-joo/gwaenchaneulkka-inst"
+duration = "3:50"
