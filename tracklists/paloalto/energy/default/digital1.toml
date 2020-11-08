@@ -1,0 +1,8 @@
+medium-ids = [
+  "paloalto/energy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "paloalto/energy"
+duration = "2:46"
