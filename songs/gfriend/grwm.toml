@@ -1,0 +1,3 @@
+names = [
+  { name = "GRWM", locale = "ko", original = true, default = true },
+]
