@@ -1,0 +1,13 @@
+medium-ids = [
+  "saay/sanhujoriwon-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saay/hey-mama"
+duration = "3:06"
+
+[[tracks]]
+position = 2
+song-id = "saay/hey-mama-inst"
+duration = "3:06"

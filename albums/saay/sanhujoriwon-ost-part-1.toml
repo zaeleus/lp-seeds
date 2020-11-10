@@ -1,0 +1,16 @@
+artist-id = "saay"
+kind = "single"
+
+names = [
+  { name = "산후조리원 OST Part 1", locale = "ko", original = true },
+  { name = "Sanhujoriwon OST Part 1", locale = "ko-Latn", default = true },
+  { name = "Birthcare Center OST Part 1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-11-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10515787" },
+]
