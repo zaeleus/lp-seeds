@@ -1,0 +1,15 @@
+artist-id = "parc-jae-jung"
+kind = "single"
+
+names = [
+  { name = "LISTEN SPECIAL 너라는 위로", locale = "ko", original = true },
+  { name = "LISTEN SPECIAL Neoraneun Wiro", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10515896" },
+]

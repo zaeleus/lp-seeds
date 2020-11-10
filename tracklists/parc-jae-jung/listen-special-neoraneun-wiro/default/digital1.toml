@@ -1,0 +1,8 @@
+medium-ids = [
+  "parc-jae-jung/listen-special-neoraneun-wiro/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "parc-jae-jung/neoraneun-wiro"
+duration = "3:28"
