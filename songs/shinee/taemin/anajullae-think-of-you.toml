@@ -1,0 +1,5 @@
+names = [
+  { name = "안아줄래 (Think of You)", locale = "ko", original = true },
+  { name = "Anajullae (Think of You)", locale = "ko-Latn", default = true },
+  { name = "Think of You", locale = "en" },
+]

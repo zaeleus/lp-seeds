@@ -1,0 +1,5 @@
+names = [
+  { name = "유인 (Impressionable)", locale = "ko", original = true },
+  { name = "Yuin (Impressionable)", locale = "ko-Latn", default = true },
+  { name = "Impressionable", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "사랑인 것 같아 (I Think It's Love)", locale = "ko", original = true },
+  { name = "Sarangin Geot Gata (I Think It's Love)", locale = "ko-Latn", default = true },
+  { name = "I Think It's Love", locale = "en" },
+]
