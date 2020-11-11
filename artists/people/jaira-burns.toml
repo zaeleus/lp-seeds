@@ -1,0 +1,7 @@
+kind = "person"
+started-on = "1997-01-14"
+country = "US"
+
+names = [
+  { name = "Jaira Burns", locale = "en", kind = "real", original = true, default = true },
+]

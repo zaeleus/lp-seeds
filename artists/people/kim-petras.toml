@@ -1,0 +1,7 @@
+kind = "person"
+started-on = "1992-08-27"
+country = "DE"
+
+names = [
+  { name = "Kim Petras", locale = "en", kind = "real", original = true, default = true },
+]

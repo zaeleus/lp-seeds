@@ -1,0 +1,11 @@
+names = [
+  { name = "I'LL SHOW YOU", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "twice" },
+  { artist-id = "bekuh-boom" },
+  { artist-id = "annika-wells" },
+  { artist-id = "k-da" },
+  { artist-id = "league-of-legends" },
+]

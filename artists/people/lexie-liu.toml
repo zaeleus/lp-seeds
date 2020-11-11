@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1998-12-21"
+country = "US"
+
+names = [
+  { name = "Lexie Liu", locale = "en", kind = "stage", original = true, default = true },
+  { name = "刘柏辛", locale = "zh", kind = "real" },
+  { name = "Liú Bóxīn", locale = "zh-Latn", kind = "real" },
+]

@@ -1,3 +1,13 @@
 names = [
   { name = "MORE", locale = "ko", original = true, default = true },
 ]
+
+artist-credits = [
+  { artist-id = "g-i-dle" },
+  { artist-id = "madison-beer" },
+  { artist-id = "lexie-liu" },
+  { artist-id = "jaira-burns" },
+  { artist-id = "seraphine" },
+  { artist-id = "k-da" },
+  { artist-id = "league-of-legends" },
+]

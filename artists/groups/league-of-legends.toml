@@ -1,0 +1,7 @@
+kind = "group"
+# started-on = ""
+country = "US"
+
+names = [
+  { name = "League of Legends", locale = "ko", original = true, default = true },
+]

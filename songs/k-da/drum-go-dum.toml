@@ -1,0 +1,11 @@
+names = [
+  { name = "DRUM GO DUM", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "alunageorge/aluna" },
+  { artist-id = "wolftyla" },
+  { artist-id = "bekuh-boom" },
+  { artist-id = "k-da" },
+  { artist-id = "league-of-legends" },
+]

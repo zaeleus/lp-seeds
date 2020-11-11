@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1992-08-27"
+country = "GB"
+
+names = [
+  { name = "Aluna", locale = "en", kind = "stage", original = true, default = true },
+  { name = "Aluna Francis", locale = "en", kind = "real" },
+]

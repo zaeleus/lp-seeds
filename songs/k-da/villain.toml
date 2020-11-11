@@ -1,0 +1,10 @@
+names = [
+  { name = "VILLAIN", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "madison-beer" },
+  { artist-id = "kim-petras" },
+  { artist-id = "k-da" },
+  { artist-id = "league-of-legends" },
+]

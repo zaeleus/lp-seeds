@@ -1,0 +1,7 @@
+kind = "person"
+started-on = "1996-02-16"
+country = "US"
+
+names = [
+  { name = "Annika Wells", locale = "en", kind = "real", original = true, default = true },
+]

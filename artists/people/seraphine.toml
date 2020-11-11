@@ -1,0 +1,7 @@
+kind = "person"
+# started-on = ""
+country = "ZZ"
+
+names = [
+  { name = "Seraphine", locale = "en", kind = "stage", original = true, default = true },
+]

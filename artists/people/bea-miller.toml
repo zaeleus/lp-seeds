@@ -1,0 +1,7 @@
+kind = "person"
+started-on = "1999-02-07"
+country = "US"
+
+names = [
+  { name = "Bea Miller", locale = "en", kind = "real", original = true, default = true },
+]

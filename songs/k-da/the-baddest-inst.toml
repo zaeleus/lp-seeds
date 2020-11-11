@@ -1,3 +1,11 @@
 names = [
   { name = "THE BADDEST (Inst.)", locale = "ko", original = true, default = true },
 ]
+
+artist-credits = [
+  { artist-id = "g-i-dle" },
+  { artist-id = "wolftyla" },
+  { artist-id = "bea-miller" },
+  { artist-id = "k-da" },
+  { artist-id = "league-of-legends" },
+]

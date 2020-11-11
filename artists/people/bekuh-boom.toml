@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1994-06-21"
+country = "US"
+
+names = [
+  { name = "Bekuh BOOM", locale = "en", kind = "stage", original = true, default = true },
+  { name = "Rebecca Rose Johnson", locale = "en", kind = "real" },
+]
