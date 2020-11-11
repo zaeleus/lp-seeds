@@ -1,0 +1,14 @@
+artist-id = "dopamine"
+kind = "single"
+
+names = [
+  { name = "Happy Birth Day", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10513857" },
+]
