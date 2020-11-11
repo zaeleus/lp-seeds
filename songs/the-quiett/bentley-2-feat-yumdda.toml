@@ -1,0 +1,4 @@
+names = [
+  { name = "BENTLEY 2 (Feat. 염따)", locale = "ko", original = true },
+  { name = "BENTLEY 2 (Feat. YUMDDA)", locale = "ko-Latn", default = true },
+]

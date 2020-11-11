@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-quiett/bentley-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-quiett/bentley-2-feat-yumdda"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "the-quiett/abu-dhabi-with-skinny-brown-leellamarz-sik-k"
+duration = "4:35"

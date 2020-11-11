@@ -1,0 +1,14 @@
+artist-id = "the-quiett"
+kind = "single"
+
+names = [
+  { name = "BENTLEY 2", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10516871" },
+]
