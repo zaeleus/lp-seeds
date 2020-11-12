@@ -1,0 +1,13 @@
+medium-ids = [
+  "davichi/start-up-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/my-love"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "davichi/my-love-inst"
+duration = "3:22"
