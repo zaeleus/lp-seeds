@@ -1,0 +1,13 @@
+medium-ids = [
+  "ailee/start-up-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ailee/blue-bird"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "ailee/blue-bird-inst"
+duration = "3:47"
