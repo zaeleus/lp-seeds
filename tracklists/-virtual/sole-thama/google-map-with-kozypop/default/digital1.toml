@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/sole-thama/google-map-with-kozypop/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/sole-thama/google-map-feat-don-mills"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/sole-thama/google-map-inst"
+duration = "3:25"

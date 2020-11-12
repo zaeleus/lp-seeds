@@ -1,0 +1,8 @@
+names = [
+  { name = "Google Map (Inst.)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "sole", separator = ", " },
+  { artist-id = "thama" },
+]
