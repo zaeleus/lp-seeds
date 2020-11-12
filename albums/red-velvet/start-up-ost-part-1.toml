@@ -4,7 +4,7 @@ kind = "single"
 names = [
   { name = "스타트업 OST Part.1", locale = "ko", original = true },
   { name = "Seutateueop OST Part.1", locale = "ko-Latn" },
-  { name = "Startup OST Part.1", locale = "en", default = true },
+  { name = "Start-Up OST Part.1", locale = "en", default = true },
 ]
 
 [[releases]]
