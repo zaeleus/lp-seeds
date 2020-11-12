@@ -1,0 +1,33 @@
+medium-ids = [
+  "drippin/boyager/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "drippin/boyager"
+duration = "1:16"
+
+[[tracks]]
+position = 2
+song-id = "drippin/nostalgia"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "drippin/overdrive"
+duration = "3:09"
+
+[[tracks]]
+position = 4
+song-id = "drippin/shine"
+duration = "3:03"
+
+[[tracks]]
+position = 5
+song-id = "drippin/muldeuryeo"
+duration = "3:34"
+
+[[tracks]]
+position = 6
+song-id = "drippin/bit"
+duration = "3:59"
