@@ -1,0 +1,13 @@
+medium-ids = [
+  "sung-si-kyung/gumihodyeon-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sung-si-kyung/biseudeumhi-neoege"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "sung-si-kyung/biseudeumhi-neoege-inst"
+duration = "4:02"
