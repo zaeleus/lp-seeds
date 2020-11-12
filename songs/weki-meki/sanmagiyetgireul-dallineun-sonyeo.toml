@@ -1,0 +1,4 @@
+names = [
+  { name = "산막이옛길을 달리는 소녀", locale = "ko", original = true },
+  { name = "Sanmagiyetgireul Dallineun Sonyeo", locale = "ko-Latn", default = true },
+]
