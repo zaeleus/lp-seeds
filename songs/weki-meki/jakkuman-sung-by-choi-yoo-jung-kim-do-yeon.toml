@@ -1,0 +1,4 @@
+names = [
+  { name = "자꾸만 (Sung by 최유정, 김도연)", locale = "ko", original = true },
+  { name = "Jakkuman (Sung by Choi Yoo Jung, Kim Do Yeon)", locale = "ko-Latn", default = true },
+]

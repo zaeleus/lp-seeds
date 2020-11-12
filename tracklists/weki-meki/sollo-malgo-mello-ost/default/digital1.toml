@@ -1,0 +1,13 @@
+medium-ids = [
+  "weki-meki/sollo-malgo-mello-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weki-meki/jakkuman-sung-by-choi-yoo-jung-kim-do-yeon"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "weki-meki/jakkuman-inst"
+duration = "3:12"

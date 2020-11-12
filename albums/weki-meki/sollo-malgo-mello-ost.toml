@@ -1,0 +1,15 @@
+artist-id = "weki-meki"
+kind = "single"
+
+names = [
+  { name = "솔로 말고 멜로 OST", locale = "ko", original = true },
+  { name = "Sollo Malgo Mello OST", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10508969" },
+]
