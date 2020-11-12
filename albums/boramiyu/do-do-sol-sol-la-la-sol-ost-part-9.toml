@@ -1,0 +1,15 @@
+artist-id = "boramiyu"
+kind = "single"
+
+names = [
+  { name = "도도솔솔라라솔 OST Part.9", locale = "ko", original = true },
+  { name = "Do Do Sol Sol La La Sol OST Part.9", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10512775" },
+]

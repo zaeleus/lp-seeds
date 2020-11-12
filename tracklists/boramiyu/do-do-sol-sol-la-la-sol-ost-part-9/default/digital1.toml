@@ -1,0 +1,13 @@
+medium-ids = [
+  "boramiyu/do-do-sol-sol-la-la-sol-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boramiyu/love-or-lies"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "boramiyu/love-or-lies-inst"
+duration = "3:39"
