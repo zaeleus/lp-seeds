@@ -1,0 +1,13 @@
+medium-ids = [
+  "sohee/o-samgwangbilla-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sohee/geunyeoreul-mannaneun-got-100m-jeon"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "sohee/geunyeoreul-mannaneun-got-100m-jeon-inst"
+duration = "3:35"

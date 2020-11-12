@@ -1,0 +1,16 @@
+artist-id = "sohee"
+kind = "single"
+
+names = [
+  { name = "오! 삼광빌라! OST Part.6", locale = "ko", original = true },
+  { name = "O! Samgwangbilla! OST Part.6", locale = "ko-Latn", default = true },
+  { name = "Homemade Love Story OST Part.6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-10-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10511770" },
+]
