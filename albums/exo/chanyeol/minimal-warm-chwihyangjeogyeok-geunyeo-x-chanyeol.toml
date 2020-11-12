@@ -1,0 +1,15 @@
+artist-id = "exo/chanyeol"
+kind = "single"
+
+names = [
+  { name = "minimal warm (취향저격 그녀 X 찬열 (CHANYEOL))", locale = "ko", original = true },
+  { name = "minimal warm (Chwihyangjeogyeok Geunyeo X CHANYEOL)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10511669" },
+]

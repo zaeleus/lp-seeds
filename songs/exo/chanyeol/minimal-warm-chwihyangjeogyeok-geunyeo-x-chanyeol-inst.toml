@@ -1,0 +1,4 @@
+names = [
+  { name = "minimal warm (취향저격 그녀 X 찬열 (CHANYEOL)) (Inst.)", locale = "ko", original = true },
+  { name = "minimal warm (Chwihyangjeogyeok Geunyeo X CHANYEOL) (Inst.)", locale = "ko-Latn", default = true },
+]

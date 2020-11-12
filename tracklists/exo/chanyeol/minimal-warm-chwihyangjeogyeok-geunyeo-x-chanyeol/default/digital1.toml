@@ -1,0 +1,13 @@
+medium-ids = [
+  "exo/chanyeol/minimal-warm-chwihyangjeogyeok-geunyeo-x-chanyeol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/chanyeol/minimal-warm-chwihyangjeogyeok-geunyeo-x-chanyeol"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "exo/chanyeol/minimal-warm-chwihyangjeogyeok-geunyeo-x-chanyeol-inst"
+duration = "3:14"
