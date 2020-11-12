@@ -1,0 +1,13 @@
+medium-ids = [
+  "treasure/the-first-step-chapter-three/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "treasure/mmm"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "treasure/orange"
+duration = "4:17"
