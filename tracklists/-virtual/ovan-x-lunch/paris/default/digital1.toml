@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/ovan-x-lunch/paris/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/ovan-x-lunch/paris"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/ovan-x-lunch/paris-inst"
+duration = "3:05"

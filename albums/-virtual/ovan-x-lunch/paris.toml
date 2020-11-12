@@ -1,0 +1,19 @@
+artist-id = "-virtual/ovan-x-lunch"
+kind = "single"
+
+names = [
+  { name = "Paris", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "ovan", separator = " x " },
+  { artist-id = "lunch" },
+]
+
+[[releases]]
+released-on = "2020-10-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10511137" },
+]

@@ -1,0 +1,8 @@
+names = [
+  { name = "Paris (Inst.)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "ovan", separator = " x " },
+  { artist-id = "lunch" },
+]
