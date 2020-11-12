@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-in/jombitamjeong-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-in/neoraseo-gomawotgo-nayeoseo-mianhaetdago-prod-by-park-geun-tae"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "jung-in/neoraseo-gomawotgo-nayeoseo-mianhaetdago-prod-by-park-geun-tae-inst"
+duration = "3:56"

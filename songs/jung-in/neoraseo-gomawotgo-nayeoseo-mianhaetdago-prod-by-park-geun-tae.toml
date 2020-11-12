@@ -1,0 +1,4 @@
+names = [
+  { name = "너라서 고마웠고 나여서 미안했다고 (Prod. By 박근태)", locale = "ko", original = true },
+  { name = "Neoraseo Gomawotgo Nayeoseo Mianhaetdago (Prod. By Park Geun Tae)", locale = "ko-Latn", default = true },
+]

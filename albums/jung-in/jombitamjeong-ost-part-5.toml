@@ -1,0 +1,16 @@
+artist-id = "jung-in"
+kind = "single"
+
+names = [
+  { name = "좀비탐정 OST Part.5", locale = "ko", original = true },
+  { name = "Jombitamjeong OST Part.5", locale = "ko-Latn", default = true },
+  { name = "Zombie Detective OST Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-10-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10509109" },
+]
