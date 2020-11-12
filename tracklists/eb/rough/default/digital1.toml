@@ -1,0 +1,23 @@
+medium-ids = [
+  "eb/rough/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eb/freaky"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "eb/daechung-ireon-gamseong-ft-lokid"
+duration = "3:24"
+
+[[tracks]]
+position = 3
+song-id = "eb/damage-ft-lof"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "eb/ppp"
+duration = "3:17"
