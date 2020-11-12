@@ -1,0 +1,13 @@
+medium-ids = [
+  "roo/yeonaeui-chamgyeon-season-3-ost-part-23/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "roo/beautiful-day"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "roo/beautiful-day-inst"
+duration = "3:16"

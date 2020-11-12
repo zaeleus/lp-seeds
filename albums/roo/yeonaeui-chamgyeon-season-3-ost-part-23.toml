@@ -1,0 +1,15 @@
+artist-id = "roo"
+kind = "single"
+
+names = [
+  { name = "연애의 참견 시즌3 OST - Part.23", locale = "ko", original = true },
+  { name = "Yeonaeui Chamgyeon Season 3 OST - Part.23", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10511511" },
+]
