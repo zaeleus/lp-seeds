@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheeze/start-up-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheeze/uyeonhi-jamsirado"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "cheeze/uyeonhi-jamsirado-inst"
+duration = "3:50"
