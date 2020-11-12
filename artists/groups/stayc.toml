@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "스테이씨", locale = "ko", original = true },
+  { name = "STAYC", locale = "en", default = true },
+]

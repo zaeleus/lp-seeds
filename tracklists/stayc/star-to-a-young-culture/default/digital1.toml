@@ -1,0 +1,13 @@
+medium-ids = [
+  "stayc/star-to-a-young-culture/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stayc/so-bad"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "stayc/like-this"
+duration = "3:07"
