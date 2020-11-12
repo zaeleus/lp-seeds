@@ -4,4 +4,5 @@ country = "KR"
 
 names = [
   { name = "EB", locale = "ko", kind = "stage", original = true, default = true },
+  { name = "김은비", locale = "ko", kind = "real" },
 ]
