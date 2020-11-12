@@ -1,0 +1,15 @@
+artist-id = "kassy"
+kind = "ep"
+
+names = [
+  { name = "추 (秋) 억", locale = "ko", original = true },
+  { name = "Chu Eok", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-10-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10508232" },
+]
