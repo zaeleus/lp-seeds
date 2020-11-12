@@ -1,0 +1,28 @@
+medium-ids = [
+  "jannabi/jannabi-sogokjip-l/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jannabi/gaeulbame-deun-saenggak"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "jannabi/hangeoreum"
+duration = "3:23"
+
+[[tracks]]
+position = 3
+song-id = "jannabi/geu-bam-geu-bam"
+duration = "2:56"
+
+[[tracks]]
+position = 4
+song-id = "jannabi/neulgeun-gae"
+duration = "2:24"
+
+[[tracks]]
+position = 5
+song-id = "jannabi/jakjeonmyeong-cheong-chun"
+duration = "3:59"

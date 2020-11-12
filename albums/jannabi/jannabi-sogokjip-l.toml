@@ -1,0 +1,15 @@
+artist-id = "jannabi"
+kind = "ep"
+
+names = [
+  { name = "잔나비 소곡집 l", locale = "ko", original = true },
+  { name = "JANNABI Sogokjip l", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10514407" },
+]
