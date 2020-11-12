@@ -1,0 +1,4 @@
+names = [
+  { name = "그냥 아무생각없이 있고 싶은 밤이야 (INST)", locale = "ko", original = true },
+  { name = "Geunyang Amusaenggageopsi Itgo Sipeun Bamiya (INST)", locale = "ko-Latn", default = true },
+]

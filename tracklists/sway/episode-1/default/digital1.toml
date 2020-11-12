@@ -1,0 +1,23 @@
+medium-ids = [
+  "sway/episode-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sway/geunyang-amusaenggageopsi-itgo-sipeun-bamiya"
+duration = "4:12"
+
+[[tracks]]
+position = 2
+song-id = "sway/neowaisseulttae"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "sway/geunyang-amusaenggageopsi-itgo-sipeun-bamiya-inst"
+duration = "4:12"
+
+[[tracks]]
+position = 4
+song-id = "sway/neowaisseulttae-inst"
+duration = "3:25"

@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "스웨이", locale = "ko", original = true },
+  { name = "SWAY", locale = "en", default = true },
+]
