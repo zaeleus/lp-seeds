@@ -1,0 +1,13 @@
+medium-ids = [
+  "cosmic-girls/yeon-jung/gyeonguui-su-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cosmic-girls/yeon-jung/pianhwa"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "cosmic-girls/yeon-jung/pianhwa-inst"
+duration = "3:10"
