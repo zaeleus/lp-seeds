@@ -1,0 +1,13 @@
+medium-ids = [
+  "natty/teddy-bear/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "natty/teddy-bear"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "natty/teddy-bear-inst"
+duration = "3:26"

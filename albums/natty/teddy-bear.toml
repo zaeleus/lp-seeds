@@ -1,0 +1,14 @@
+artist-id = "natty"
+kind = "single"
+
+names = [
+  { name = "Teddy Bear", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10517677" },
+]
