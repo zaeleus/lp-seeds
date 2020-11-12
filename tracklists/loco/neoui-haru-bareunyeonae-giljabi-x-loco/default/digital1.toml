@@ -1,0 +1,8 @@
+medium-ids = [
+  "loco/neoui-haru-bareunyeonae-giljabi-x-loco/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loco/neoui-haru-bareunyeonae-giljabi-x-loco"
+duration = "3:21"
