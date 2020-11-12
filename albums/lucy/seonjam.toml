@@ -1,0 +1,15 @@
+artist-id = "lucy"
+kind = "single"
+
+names = [
+  { name = "선잠", locale = "ko", original = true },
+  { name = "Seonjam", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10517327" },
+]

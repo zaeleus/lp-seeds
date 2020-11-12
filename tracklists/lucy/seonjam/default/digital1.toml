@@ -1,0 +1,13 @@
+medium-ids = [
+  "lucy/seonjam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucy/seonjam"
+duration = "4:53"
+
+[[tracks]]
+position = 2
+song-id = "lucy/farther-and-farther"
+duration = "4:00"
