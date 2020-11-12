@@ -1,0 +1,13 @@
+medium-ids = [
+  "10cm/start-up-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "10cm/where-is-dream"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "10cm/where-is-dream-inst"
+duration = "3:04"
