@@ -1,0 +1,11 @@
+names = [
+  { name = "Apollo 11 (Feat. 박재범)", locale = "ko", original = true },
+  { name = "Apollo 11 (Feat. Jay Park)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "15and/jimin"
+names = [
+  { name = "제이미", locale = "ko", original = true },
+  { name = "Jamie", locale = "en", default = true },
+]
