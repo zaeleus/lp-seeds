@@ -1,0 +1,10 @@
+names = [
+  { name = "고백 (Winter lullaby)", locale = "ko", original = true },
+  { name = "Gobaek (Winter lullaby)", locale = "ko-Latn", default = true },
+  { name = "Winter lullaby", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "yoon-han-sol", separator = ", " },
+  { artist-id = "saevom" },
+]

@@ -1,0 +1,20 @@
+artist-id = "-virtual/yoon-han-sol-saevom"
+kind = "ep"
+
+names = [
+  { name = "곁 2/2", locale = "ko", original = true },
+  { name = "Gyeot 2/2", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "yoon-han-sol", separator = ", " },
+  { artist-id = "saevom" },
+]
+
+[[releases]]
+released-on = "2020-11-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10500969" },
+]

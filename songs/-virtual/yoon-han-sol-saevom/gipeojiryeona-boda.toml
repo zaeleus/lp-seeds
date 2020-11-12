@@ -1,0 +1,9 @@
+names = [
+  { name = "깊어지려나 보다", locale = "ko", original = true },
+  { name = "Gipeojiryeona Boda", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "yoon-han-sol", separator = ", " },
+  { artist-id = "saevom" },
+]

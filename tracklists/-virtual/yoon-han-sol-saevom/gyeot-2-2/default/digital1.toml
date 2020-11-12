@@ -1,0 +1,23 @@
+medium-ids = [
+  "-virtual/yoon-han-sol-saevom/gyeot-2-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/yoon-han-sol-saevom/gobaek-winter-lullaby"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/yoon-han-sol-saevom/na-neoege-teukbyeolhan-saramigo-sipeo"
+duration = "2:55"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/yoon-han-sol-saevom/moksori-deutgo-sipda"
+duration = "3:43"
+
+[[tracks]]
+position = 4
+song-id = "-virtual/yoon-han-sol-saevom/gipeojiryeona-boda"
+duration = "4:15"

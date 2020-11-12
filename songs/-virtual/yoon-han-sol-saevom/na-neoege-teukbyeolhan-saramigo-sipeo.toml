@@ -1,0 +1,9 @@
+names = [
+  { name = "나 너에게 특별한 사람이고 싶어", locale = "ko", original = true },
+  { name = "Na Neoege Teukbyeolhan Saramigo Sipeo", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "yoon-han-sol", separator = ", " },
+  { artist-id = "saevom" },
+]
