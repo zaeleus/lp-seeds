@@ -1,0 +1,3 @@
+names = [
+  { name = "Rascal (feat. YANU)", locale = "ko", original = true, default = true },
+]

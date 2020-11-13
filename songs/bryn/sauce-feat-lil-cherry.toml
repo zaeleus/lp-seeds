@@ -1,0 +1,3 @@
+names = [
+  { name = "Sauce (feat. Lil cherry)", locale = "ko", original = true, default = true },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "Veteran (feat. Paloalto, JUSTHIS, Leellamarz, 버벌진트)", locale = "ko", original = true },
+  { name = "Veteran (feat. Paloalto, JUSTHIS, Leellamarz, Verbal Jint)", locale = "ko-Latn", default = true },
+]

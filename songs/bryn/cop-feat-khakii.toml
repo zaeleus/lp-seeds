@@ -1,0 +1,3 @@
+names = [
+  { name = "cop (feat. Khakii)", locale = "ko", original = true, default = true },
+]
