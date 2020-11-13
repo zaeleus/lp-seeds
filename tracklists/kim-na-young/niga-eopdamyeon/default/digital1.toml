@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-na-young/niga-eopdamyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-na-young/niga-eopdamyeon"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "kim-na-young/niga-eopdamyeon-inst"
+duration = "3:39"

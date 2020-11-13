@@ -1,0 +1,15 @@
+artist-id = "kim-na-young"
+kind = "single"
+
+names = [
+  { name = "니가 없다면", locale = "ko", original = true },
+  { name = "Niga Eopdamyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10517701" },
+]
