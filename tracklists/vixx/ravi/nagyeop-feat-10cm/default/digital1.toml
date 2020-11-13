@@ -1,0 +1,8 @@
+medium-ids = [
+  "vixx/ravi/nagyeop-feat-10cm/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vixx/ravi/nagyeop-feat-10cm"
+duration = "3:20"
