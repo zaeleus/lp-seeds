@@ -1,0 +1,13 @@
+medium-ids = [
+  "zoin/beauty/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zoin/beauty"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "zoin/beauty-inst"
+duration = "3:43"

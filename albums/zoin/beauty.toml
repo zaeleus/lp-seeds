@@ -1,0 +1,14 @@
+artist-id = "zoin"
+kind = "single"
+
+names = [
+  { name = "BEAUTY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10517404" },
+]
