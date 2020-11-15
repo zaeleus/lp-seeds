@@ -1,0 +1,13 @@
+medium-ids = [
+  "yourbeagle/no-one-else-like-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/dollar-dollar-bill"
+duration = "2:19"
+
+[[tracks]]
+position = 2
+song-id = "yourbeagle/eojjeorago"
+duration = "2:46"

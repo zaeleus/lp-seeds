@@ -1,0 +1,14 @@
+artist-id = "yourbeagle"
+kind = "single"
+
+names = [
+  { name = "NO ONE ELSE LIKE ME", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10518308" },
+]

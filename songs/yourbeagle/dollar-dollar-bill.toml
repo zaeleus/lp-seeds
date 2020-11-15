@@ -1,0 +1,3 @@
+names = [
+  { name = "Dollar Dollar Bill", locale = "ko", original = true, default = true },
+]
