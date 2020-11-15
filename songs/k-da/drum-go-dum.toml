@@ -3,9 +3,9 @@ names = [
 ]
 
 artist-credits = [
-  { artist-id = "alunageorge/aluna" },
-  { artist-id = "wolftyla" },
-  { artist-id = "bekuh-boom" },
-  { artist-id = "k-da" },
+  { artist-id = "alunageorge/aluna", separator = ", " },
+  { artist-id = "wolftyla", separator = ", " },
+  { artist-id = "bekuh-boom", separator = ", " },
+  { artist-id = "k-da", separator = ", " },
   { artist-id = "league-of-legends" },
 ]

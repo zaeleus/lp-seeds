@@ -3,11 +3,11 @@ names = [
 ]
 
 artist-credits = [
-  { artist-id = "g-i-dle" },
-  { artist-id = "madison-beer" },
-  { artist-id = "lexie-liu" },
-  { artist-id = "jaira-burns" },
-  { artist-id = "seraphine" },
-  { artist-id = "k-da" },
+  { artist-id = "g-i-dle", separator = ", " },
+  { artist-id = "madison-beer", separator = ", " },
+  { artist-id = "lexie-liu", separator = ", " },
+  { artist-id = "jaira-burns", separator = ", " },
+  { artist-id = "seraphine", separator = ", " },
+  { artist-id = "k-da", separator = ", " },
   { artist-id = "league-of-legends" },
 ]
