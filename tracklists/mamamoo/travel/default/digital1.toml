@@ -8,10 +8,6 @@ song-id = "mamamoo/travel"
 duration = "3:32"
 
 [[tracks]]
-position = 2
-song-id = "mamamoo/dingga-dingga-dingga"
-
-[[tracks]]
 position = 3
 song-id = "mamamoo/aya"
 duration = "3:32"
