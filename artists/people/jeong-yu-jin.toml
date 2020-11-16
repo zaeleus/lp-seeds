@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1996-09-06"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "정유진", locale = "ko", kind = "real", original = true },
+  { name = "Jeong Yu Jin", locale = "ko-Latn", kind = "real", default = true },
+]

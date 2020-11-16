@@ -1,0 +1,4 @@
+names = [
+  { name = "너에겐 쉽고 나에겐 어려운 일", locale = "ko", original = true },
+  { name = "Neoegen Swipgo Naegen Eoryeoun Il", locale = "ko-Latn", default = true },
+]
