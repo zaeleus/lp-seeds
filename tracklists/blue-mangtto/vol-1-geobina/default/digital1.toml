@@ -1,0 +1,13 @@
+medium-ids = [
+  "blue-mangtto/vol-1-geobina/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "blue-mangtto/geobina-vocal-yeo-in-hye"
+duration = "4:24"
+
+[[tracks]]
+position = 2
+song-id = "blue-mangtto/geobina-inst"
+duration = "4:24"
