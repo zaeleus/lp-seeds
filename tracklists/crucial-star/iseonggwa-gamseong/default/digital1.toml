@@ -1,0 +1,23 @@
+medium-ids = [
+  "crucial-star/iseonggwa-gamseong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "crucial-star/neoui-bamen"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "crucial-star/tattoo"
+duration = "3:11"
+
+[[tracks]]
+position = 3
+song-id = "crucial-star/honjain-pyeoni-naa"
+duration = "3:48"
+
+[[tracks]]
+position = 4
+song-id = "crucial-star/iseonggwa-gamseong-sense-and-sensibility"
+duration = "3:16"
