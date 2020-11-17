@@ -1,0 +1,14 @@
+artist-id = "aespa"
+kind = "single"
+
+names = [
+  { name = "Black Mamba", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10519346" },
+]

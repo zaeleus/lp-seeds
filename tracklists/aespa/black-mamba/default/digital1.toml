@@ -1,0 +1,8 @@
+medium-ids = [
+  "aespa/black-mamba/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aespa/black-mamba"
+duration = "2:56"
