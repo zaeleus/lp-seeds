@@ -1,0 +1,8 @@
+medium-ids = [
+  "akdong-musician/happening/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "akdong-musician/happening"
+duration = "3:45"

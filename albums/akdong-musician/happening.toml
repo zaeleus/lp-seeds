@@ -1,0 +1,14 @@
+artist-id = "akdong-musician"
+kind = "single"
+
+names = [
+  { name = "HAPPENING", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10518657" },
+]
