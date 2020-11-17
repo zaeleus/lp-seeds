@@ -1,0 +1,13 @@
+medium-ids = [
+  "sohyang/sanhujoriwon-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sohyang/beautiful-destiny"
+duration = "4:26"
+
+[[tracks]]
+position = 2
+song-id = "sohyang/beautiful-destiny-inst"
+duration = "4:26"
