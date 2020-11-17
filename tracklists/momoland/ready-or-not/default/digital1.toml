@@ -1,0 +1,18 @@
+medium-ids = [
+  "momoland/ready-or-not/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "momoland/ready-or-not"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "momoland/merry-go-round"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "momoland/ready-or-not-inst"
+duration = "3:21"
