@@ -1,0 +1,13 @@
+medium-ids = [
+  "baek-a-yeon/eodirado-nareul-saranghan-seupai-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "baek-a-yeon/eodirado"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "baek-a-yeon/eodirado-inst"
+duration = "4:05"

@@ -1,0 +1,16 @@
+artist-id = "baek-a-yeon"
+kind = "single"
+
+names = [
+  { name = "어디라도 (나를 사랑한 스파이 OST Part.4)", locale = "ko", original = true },
+  { name = "Eodirado (Nareul Saranghan Seupai OST Part.4)", locale = "ko-Latn", default = true },
+  { name = "Wherever (The Spy Who Loved Me OST Part.4)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-11-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10519505" },
+]
