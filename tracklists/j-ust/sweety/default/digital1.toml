@@ -1,0 +1,13 @@
+medium-ids = [
+  "j-ust/sweety/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "j-ust/sweety"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "j-ust/sweety-inst"
+duration = "3:33"
