@@ -1,0 +1,28 @@
+medium-ids = [
+  "cnblue/re-code/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cnblue/gwageo-hyeonjae-mirae-then-now-and-forever"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "cnblue/oneureun-iman-till-then"
+duration = "2:55"
+
+[[tracks]]
+position = 3
+song-id = "cnblue/eopda-in-time"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song-id = "cnblue/chuwojyeonne-winter-again"
+duration = "3:30"
+
+[[tracks]]
+position = 5
+song-id = "cnblue/blue-stars"
+duration = "3:35"

@@ -1,0 +1,5 @@
+names = [
+  { name = "오늘은 이만 (Till Then)", locale = "ko", original = true },
+  { name = "Oneureun Iman (Till Then)", locale = "ko-Latn", default = true },
+  { name = "Till Then", locale = "en" },
+]

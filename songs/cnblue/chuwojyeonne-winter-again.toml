@@ -1,0 +1,5 @@
+names = [
+  { name = "추워졌네. (Winter Again.)", locale = "ko", original = true },
+  { name = "Chuwojyeonne. (Winter Again.)", locale = "ko-Latn", default = true },
+  { name = "Winter Again.", locale = "en" },
+]

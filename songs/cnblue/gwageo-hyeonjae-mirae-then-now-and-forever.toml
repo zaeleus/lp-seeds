@@ -1,0 +1,5 @@
+names = [
+  { name = "과거 현재 미래 (Then, Now and Forever)", locale = "ko", original = true },
+  { name = "Gwageo Hyeonjae Mirae (Then, Now and Forever)", locale = "ko-Latn", default = true },
+  { name = "Then, Now and Forever", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "없다 (In Time)", locale = "ko", original = true },
+  { name = "Eopda (In Time)", locale = "ko-Latn", default = true },
+  { name = "In Time", locale = "en" },
+]
