@@ -1,0 +1,4 @@
+names = [
+  { name = "닫히는 문의 순간들 (Feat. BenAddict (벤에딕트))", locale = "ko", original = true },
+  { name = "Dachineun Munui Sungandeul (Feat. BenAddict)", locale = "ko-Latn", default = true },
+]

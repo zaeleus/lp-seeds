@@ -1,0 +1,18 @@
+medium-ids = [
+  "015b/new-edition-25/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "015b/dachineun-munui-sungandeul-feat-benaddict"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "015b/sliding-door-moments-feat-benaddict"
+duration = "4:00"
+
+[[tracks]]
+position = 3
+song-id = "015b/dachineun-munui-sungandeul-inst"
+duration = "4:00"
