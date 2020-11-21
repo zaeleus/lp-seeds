@@ -1,0 +1,8 @@
+medium-ids = [
+  "dindin/geonneunjung-feat-soyou/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dindin/geonneunjung-feat-soyou"
+duration = "3:42"

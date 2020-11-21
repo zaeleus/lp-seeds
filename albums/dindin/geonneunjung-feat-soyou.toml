@@ -1,0 +1,15 @@
+artist-id = "dindin"
+kind = "single"
+
+names = [
+  { name = "걷는중 (Feat. SOYOU)", locale = "ko", original = true },
+  { name = "Geonneunjung (Feat. SOYOU)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10521452" },
+]
