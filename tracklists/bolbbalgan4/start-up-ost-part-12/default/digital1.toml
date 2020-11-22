@@ -1,0 +1,13 @@
+medium-ids = [
+  "bolbbalgan4/start-up-ost-part-12/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bolbbalgan4/love-letter"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "bolbbalgan4/love-letter-inst"
+duration = "3:11"
