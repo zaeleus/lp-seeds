@@ -1,0 +1,14 @@
+artist-id = "vanilla-acoustic"
+kind = "single"
+
+names = [
+  { name = "Chin up", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10521672" },
+]

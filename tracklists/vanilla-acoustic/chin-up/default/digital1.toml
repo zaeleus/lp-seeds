@@ -1,0 +1,8 @@
+medium-ids = [
+  "vanilla-acoustic/chin-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vanilla-acoustic/chin-up"
+duration = "3:17"
