@@ -1,0 +1,8 @@
+medium-ids = [
+  "motte/bihaenggi-mode/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "motte/bihaenggi-mode"
+duration = "3:20"

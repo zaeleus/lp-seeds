@@ -1,0 +1,5 @@
+names = [
+  { name = "비행기 모드", locale = "ko", original = true },
+  { name = "Bihaenggi Mode", locale = "ko-Latn", default = true },
+  { name = "Airplane Mode", locale = "en" },
+]

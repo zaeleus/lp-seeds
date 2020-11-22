@@ -1,0 +1,16 @@
+artist-id = "motte"
+kind = "single"
+
+names = [
+  { name = "비행기 모드", locale = "ko", original = true },
+  { name = "Bihaenggi Mode", locale = "ko-Latn", default = true },
+  { name = "Airplane Mode", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-11-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10522108" },
+]
