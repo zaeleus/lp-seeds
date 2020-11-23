@@ -1,0 +1,13 @@
+medium-ids = [
+  "tvxq/max/all-that-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "tvxq/max/all-that-love"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "tvxq/max/all-that-love-inst"
+duration = "3:14"

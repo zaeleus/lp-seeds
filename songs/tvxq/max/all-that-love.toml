@@ -1,0 +1,10 @@
+names = [
+  { name = "All That Love", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "tvxq/max"
+names = [
+  { name = "최강창민", locale = "ko", original = true },
+  { name = "MAX CHANGMIN", locale = "ko-Latn", default = true },
+]

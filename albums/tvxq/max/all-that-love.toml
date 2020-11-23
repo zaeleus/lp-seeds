@@ -1,8 +1,8 @@
 artist-id = "tvxq/max"
-kind = "ep"
+kind = "single"
 
 names = [
-  { name = "Chocolate", locale = "ko", original = true, default = true },
+  { name = "All That Love", locale = "ko", original = true, default = true },
 ]
 
 [[artist-credits]]
@@ -13,9 +13,9 @@ names = [
 ]
 
 [[releases]]
-released-on = "2020-04-06"
+released-on = "2020-11-13"
 country = "KR"
 media = [{ kind = "digital" }]
 urls = [
-  { url = "https://www.melon.com/album/detail.htm?albumId=10413093" },
+  { url = "https://www.melon.com/album/detail.htm?albumId=10518167" },
 ]
