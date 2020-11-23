@@ -1,0 +1,21 @@
+artist-id = "sistar/hyo-rin"
+kind = "single"
+
+names = [
+  { name = "Spell", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "sistar/hyo-rin"
+names = [
+  { name = "효린", locale = "ko", original = true },
+  { name = "Hyolyn", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10522182" },
+]
