@@ -1,0 +1,4 @@
+names = [
+  { name = "내 방을 여행하는 법", locale = "ko", original = true },
+  { name = "Nae Bangeul Yeohaenghaneun Beop", locale = "ko-Latn", default = true },
+]

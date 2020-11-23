@@ -1,0 +1,43 @@
+medium-ids = [
+  "bts/be/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bts/life-goes-on"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "bts/nae-bangeul-yeohaenghaneun-beop"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song-id = "bts/blue-grey"
+duration = "4:16"
+
+[[tracks]]
+position = 4
+song-id = "bts/skit"
+duration = "3:00"
+
+[[tracks]]
+position = 5
+song-id = "bts/jamsi"
+duration = "3:23"
+
+[[tracks]]
+position = 6
+song-id = "bts/byeong"
+duration = "4:00"
+
+[[tracks]]
+position = 7
+song-id = "bts/stay"
+duration = "3:25"
+
+[[tracks]]
+position = 8
+song-id = "bts/dynamite"
+duration = "3:20"
