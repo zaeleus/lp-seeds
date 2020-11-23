@@ -1,0 +1,28 @@
+medium-ids = [
+  "jukjae/2006/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jukjae/banjjak-binnadeon-naui-2006-nyeon"
+duration = "4:51"
+
+[[tracks]]
+position = 2
+song-id = "jukjae/punggyeong"
+duration = "4:47"
+
+[[tracks]]
+position = 3
+song-id = "jukjae/ara-with-na-won-joo"
+duration = "3:04"
+
+[[tracks]]
+position = 4
+song-id = "jukjae/neo-eopsido"
+duration = "3:57"
+
+[[tracks]]
+position = 5
+song-id = "jukjae/heunjeok"
+duration = "4:16"
