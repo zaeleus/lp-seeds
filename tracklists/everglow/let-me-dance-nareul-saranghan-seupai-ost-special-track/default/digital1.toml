@@ -1,0 +1,13 @@
+medium-ids = [
+  "everglow/let-me-dance-nareul-saranghan-seupai-ost-special-track/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "everglow/let-me-dance"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "everglow/let-me-dance-inst"
+duration = "3:21"
