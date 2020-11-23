@@ -1,0 +1,15 @@
+artist-id = "keembo"
+kind = "single"
+
+names = [
+  { name = "SCENE (씬)", locale = "ko", original = true },
+  { name = "SCENE", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10522168" },
+]
