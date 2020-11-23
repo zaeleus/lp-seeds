@@ -1,0 +1,15 @@
+names = [
+  { name = "끌림 (바니와 오빠들 X 에릭남 (Eric Nam), 이나은 (에이프릴))", locale = "ko", original = true },
+  { name = "Kkeullim (Baniwa Oppadeul X Eric Nam, Naeun (APRIL))", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "eric-nam"
+separator = ", "
+
+[[artist-credits]]
+artist-id = "april/na-eun"
+names = [
+  { name = "이나은 (에이프릴)", locale = "ko", original = true },
+  { name = "Naeun (APRIL)", locale = "ko-Latn", default = true },
+]

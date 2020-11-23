@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/eric-nam-naeun-april/kkeullim-baniwa-oppadeul-x-eric-nam-naeun-april/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/eric-nam-naeun-april/kkeullim-baniwa-oppadeul-x-eric-nam-naeun-april"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/eric-nam-naeun-april/kkeullim-baniwa-oppadeul-x-eric-nam-naeun-april-inst"
+duration = "3:28"
