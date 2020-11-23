@@ -1,0 +1,33 @@
+medium-ids = [
+  "henry/journey/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "henry/radio"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "henry/hands-up-feat-ph-1"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "henry/jigeumiya-right-now"
+duration = "2:47"
+
+[[tracks]]
+position = 4
+song-id = "henry/just-be-me"
+duration = "3:06"
+
+[[tracks]]
+position = 5
+song-id = "henry/urijip-come-over-feat-gray-kim-go-eun-park-na-rae-joon-park-jun-hyun-moo-jessi-han-hye-jin"
+duration = "3:47"
+
+[[tracks]]
+position = 6
+song-id = "henry/radio-instrumental"
+duration = "3:10"

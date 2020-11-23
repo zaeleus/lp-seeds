@@ -1,0 +1,5 @@
+names = [
+  { name = "우리집 (COME OVER) (Feat. GRAY, 김고은, 박나래, 박준형, 전현무, Jessi, 한혜진)", locale = "ko", original = true },
+  { name = "Urijip (COME OVER) (Feat. GRAY, Kim Go Eun, Park Na Rae, Joon Park, Jun Hyun Moo, Jessi, Han Hye Jin)", locale = "ko-Latn", default = true },
+  { name = "COME OVER (Feat. GRAY, Kim Go Eun, Park Na Rae, Joon Park, Jun Hyun Moo, Jessi, Han Hye Jin)", locale = "en" },
+]

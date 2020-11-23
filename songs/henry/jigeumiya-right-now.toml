@@ -1,0 +1,5 @@
+names = [
+  { name = "지금이야 (RIGHT NOW)", locale = "ko", original = true },
+  { name = "Jigeumiya (RIGHT NOW)", locale = "ko-Latn", default = true },
+  { name = "RIGHT NOW", locale = "en" },
+]
