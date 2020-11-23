@@ -1,0 +1,4 @@
+names = [
+  { name = "이상견빙지 (履霜堅氷至)", locale = "ko", original = true },
+  { name = "Isanggyeonbingji", locale = "ko-Latn", default = true },
+]

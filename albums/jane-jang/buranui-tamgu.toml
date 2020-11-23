@@ -1,0 +1,15 @@
+artist-id = "jane-jang"
+kind = "lp"
+
+names = [
+  { name = "불안의 탐구", locale = "ko", original = true },
+  { name = "Buranui Tamgu", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10518352" },
+]
