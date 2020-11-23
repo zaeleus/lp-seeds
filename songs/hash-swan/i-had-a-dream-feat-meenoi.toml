@@ -1,0 +1,4 @@
+names = [
+  { name = "I had a dream (Feat. 미노이)", locale = "ko", original = true },
+  { name = "I had a dream (Feat. meenoi)", locale = "ko-Latn", default = true },
+]
