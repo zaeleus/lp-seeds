@@ -1,0 +1,18 @@
+medium-ids = [
+  "woo-ah/qurious/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-ah/bing-bing-bing-round-round"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "woo-ah/bad-girl"
+duration = "3:27"
+
+[[tracks]]
+position = 3
+song-id = "woo-ah/i-don-t-miss-u"
+duration = "2:52"
