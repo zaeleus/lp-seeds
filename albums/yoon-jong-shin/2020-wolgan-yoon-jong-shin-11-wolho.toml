@@ -1,0 +1,15 @@
+artist-id = "yoon-jong-shin"
+kind = "single"
+
+names = [
+  { name = "2020 월간 윤종신 11월호", locale = "ko", original = true },
+  { name = "2020 Wolgan Yoon Jong Shin 11-wolho", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10523237" },
+]
