@@ -1,0 +1,13 @@
+medium-ids = [
+  "15and/jimin/start-up-ost-part-13/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "15and/jimin/sangsanghan-kkum"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "15and/jimin/sangsanghan-kkum-inst"
+duration = "3:34"

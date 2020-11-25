@@ -1,0 +1,23 @@
+artist-id = "15and/jimin"
+kind = "single"
+
+names = [
+  { name = "스타트업 OST Part.13", locale = "ko", original = true },
+  { name = "Seutateueop OST Part.13", locale = "ko-Latn" },
+  { name = "Start-Up OST Part.13", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "15and/jimin"
+names = [
+  { name = "제이미", locale = "ko", original = true },
+  { name = "Jamie", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10521919" },
+]

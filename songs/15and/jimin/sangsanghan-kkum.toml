@@ -1,0 +1,11 @@
+names = [
+  { name = "상상한 꿈", locale = "ko", original = true },
+  { name = "Sangsanghan Kkum", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "15and/jimin"
+names = [
+  { name = "제이미", locale = "ko", original = true },
+  { name = "Jamie", locale = "en", default = true },
+]
