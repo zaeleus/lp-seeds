@@ -1,0 +1,38 @@
+medium-ids = [
+  "kiggen/hyeonmyeonghan-jaga-malhaetji-ep/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kiggen/heojun-fix-you"
+duration = "2:46"
+
+[[tracks]]
+position = 2
+song-id = "kiggen/hyeonmyeonghan-jaga-malhaetji"
+duration = "3:39"
+
+[[tracks]]
+position = 3
+song-id = "kiggen/geumyeon"
+duration = "3:40"
+
+[[tracks]]
+position = 4
+song-id = "kiggen/letter-from-tajimi"
+duration = "2:31"
+
+[[tracks]]
+position = 5
+song-id = "kiggen/sahoejeok-georidugi-winner-stays"
+duration = "3:22"
+
+[[tracks]]
+position = 6
+song-id = "kiggen/miseongnyeonege"
+duration = "3:05"
+
+[[tracks]]
+position = 7
+song-id = "kiggen/hyeonmyeonghan-jaga-malhaetji-inst"
+duration = "3:39"

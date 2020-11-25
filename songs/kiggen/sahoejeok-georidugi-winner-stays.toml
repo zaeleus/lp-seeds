@@ -1,4 +1,5 @@
 names = [
   { name = "사회적 거리두기 (WINNER STAYS)", locale = "ko", original = true },
   { name = "Sahoejeok Georidugi (WINNER STAYS)", locale = "ko-Latn", default = true },
+  { name = "WINNER STAYS", locale = "en" },
 ]
