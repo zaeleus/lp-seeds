@@ -1,0 +1,4 @@
+names = [
+  { name = "꽃집 (Feat. SUMIN)", locale = "ko", original = true },
+  { name = "Kkotjip (Feat. SUMIN)", locale = "ko-Latn", default = true },
+]

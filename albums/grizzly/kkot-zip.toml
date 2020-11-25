@@ -1,0 +1,15 @@
+artist-id = "grizzly"
+kind = "ep"
+
+names = [
+  { name = "꽃zip", locale = "ko", original = true },
+  { name = "Kkot-zip", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10521864" },
+]
