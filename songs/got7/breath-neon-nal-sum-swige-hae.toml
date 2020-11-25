@@ -1,0 +1,4 @@
+names = [
+  { name = "Breath (넌 날 숨 쉬게 해)", locale = "ko", original = true },
+  { name = "Breath (Neon Nal Sum Swige Hae)", locale = "ko-Latn", default = true },
+]
