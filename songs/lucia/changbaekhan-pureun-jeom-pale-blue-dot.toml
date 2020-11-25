@@ -1,0 +1,5 @@
+names = [
+  { name = "창백한 푸른 점 (Pale blue dot)", locale = "ko", original = true },
+  { name = "Changbaekhan Pureun Jeom (Pale blue dot)", locale = "ko-Latn", default = true },
+  { name = "Pale blue dot", locale = "en" },
+]

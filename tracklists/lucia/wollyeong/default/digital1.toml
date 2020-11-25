@@ -1,0 +1,33 @@
+medium-ids = [
+  "lucia/wollyeong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucia/wollyeong"
+duration = "4:50"
+
+[[tracks]]
+position = 2
+song-id = "lucia/saengjonyaksok"
+duration = "3:55"
+
+[[tracks]]
+position = 3
+song-id = "lucia/changbaekhan-pureun-jeom-pale-blue-dot"
+duration = "3:52"
+
+[[tracks]]
+position = 4
+song-id = "lucia/wollyeong-inst"
+duration = "4:50"
+
+[[tracks]]
+position = 5
+song-id = "lucia/saengjonyaksok-inst"
+duration = "3:55"
+
+[[tracks]]
+position = 6
+song-id = "lucia/changbaekhan-pureun-jeom-pale-blue-dot-inst"
+duration = "3:52"

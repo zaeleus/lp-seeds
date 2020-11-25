@@ -1,0 +1,15 @@
+artist-id = "lucia"
+kind = "single"
+
+names = [
+  { name = "월령: 上", locale = "ko", original = true },
+  { name = "Wollyeong", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10522081" },
+]

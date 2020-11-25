@@ -1,0 +1,4 @@
+names = [
+  { name = "생존약속 生存約束", locale = "ko", original = true },
+  { name = "Saengjonyaksok", locale = "ko-Latn", default = true },
+]
