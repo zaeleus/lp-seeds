@@ -1,0 +1,8 @@
+medium-ids = [
+  "stray-kids/all-in-korean-ver/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stray-kids/all-in-korean-ver"
+duration = "3:05"
