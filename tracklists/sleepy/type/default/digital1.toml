@@ -1,0 +1,8 @@
+medium-ids = [
+  "sleepy/type/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sleepy/type-feat-kirin"
+duration = "3:28"
