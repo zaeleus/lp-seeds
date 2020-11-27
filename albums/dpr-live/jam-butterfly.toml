@@ -1,0 +1,14 @@
+artist-id = "dpr-live"
+kind = "single"
+
+names = [
+  { name = "Jam & Butterfly", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10525488" },
+]
