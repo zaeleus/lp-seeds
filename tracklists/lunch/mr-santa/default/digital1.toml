@@ -1,0 +1,13 @@
+medium-ids = [
+  "lunch/mr-santa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lunch/mr-santa"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "lunch/mr-santa-inst"
+duration = "3:20"
