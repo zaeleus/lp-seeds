@@ -1,0 +1,16 @@
+artist-id = "bada"
+kind = "single"
+
+names = [
+  { name = "오! 삼광빌라! OST Part.8", locale = "ko", original = true },
+  { name = "O! Samgwangbilla! OST Part.8", locale = "ko-Latn", default = true },
+  { name = "Homemade Love Story OST Part.8", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-11-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10525647" },
+]

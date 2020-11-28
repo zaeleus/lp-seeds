@@ -1,0 +1,13 @@
+medium-ids = [
+  "bada/o-samgwangbilla-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bada/geudaero-chaewogayo-i-m-in-love"
+duration = "4:07"
+
+[[tracks]]
+position = 2
+song-id = "bada/geudaero-chaewogayo-i-m-in-love-inst"
+duration = "4:06"
