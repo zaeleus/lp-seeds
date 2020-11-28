@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "퍼플키스", locale = "ko", original = true },
+  { name = "PURPLE KISS", locale = "en", default = true },
+]

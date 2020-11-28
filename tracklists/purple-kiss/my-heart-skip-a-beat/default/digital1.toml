@@ -1,0 +1,13 @@
+medium-ids = [
+  "purple-kiss/my-heart-skip-a-beat/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "purple-kiss/my-heart-skip-a-beat"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "purple-kiss/my-heart-skip-a-beat-inst"
+duration = "3:18"
