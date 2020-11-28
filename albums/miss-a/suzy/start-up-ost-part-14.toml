@@ -1,0 +1,16 @@
+artist-id = "miss-a/suzy"
+kind = "single"
+
+names = [
+  { name = "스타트업 OST Part.14", locale = "ko", original = true },
+  { name = "Seutateueop OST Part.14", locale = "ko-Latn" },
+  { name = "Start-Up OST Part.14", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10525597" },
+]

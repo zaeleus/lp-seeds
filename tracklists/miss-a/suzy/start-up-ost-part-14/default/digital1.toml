@@ -1,0 +1,13 @@
+medium-ids = [
+  "miss-a/suzy/start-up-ost-part-14/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miss-a/suzy/my-dear-love"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "miss-a/suzy/my-dear-love-inst"
+duration = "4:02"
