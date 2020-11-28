@@ -1,0 +1,13 @@
+medium-ids = [
+  "a-c-e/kairos-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "a-c-e/eodie-inneungeoni"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "a-c-e/eodie-inneungeoni-inst"
+duration = "3:42"

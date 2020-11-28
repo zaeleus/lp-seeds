@@ -1,0 +1,16 @@
+artist-id = "a-c-e"
+kind = "single"
+
+names = [
+  { name = "카이로스 OST Part.9", locale = "ko", original = true },
+  { name = "Kairoseu OST Part.9", locale = "ko-Latn" },
+  { name = "Kairos OST Part.9", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10525571" },
+]
