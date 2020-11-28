@@ -1,0 +1,4 @@
+names = [
+  { name = "PEEP PEEP PEEP (Feat. 기린)", locale = "ko", original = true },
+  { name = "PEEP PEEP PEEP (Feat. KIRIN)", locale = "ko-Latn", default = true },
+]

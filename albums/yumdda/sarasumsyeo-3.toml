@@ -1,0 +1,15 @@
+artist-id = "yumdda"
+kind = "lp"
+
+names = [
+  { name = "살아숨셔 3", locale = "ko", original = true },
+  { name = "Sarasumsyeo 3", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10525730" },
+]

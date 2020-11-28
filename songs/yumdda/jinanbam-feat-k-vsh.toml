@@ -1,0 +1,4 @@
+names = [
+  { name = "지난밤 (Feat. K.vsh)", locale = "ko", original = true },
+  { name = "Jinanbam (Feat. K.vsh)", locale = "ko-Latn", default = true },
+]

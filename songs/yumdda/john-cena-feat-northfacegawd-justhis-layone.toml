@@ -1,0 +1,4 @@
+names = [
+  { name = "존시나 (Feat. Northfacegawd, JUSTHIS, 래원)", locale = "ko", original = true },
+  { name = "John Cena (Feat. Northfacegawd, JUSTHIS, Layone)", locale = "en", default = true },
+]
