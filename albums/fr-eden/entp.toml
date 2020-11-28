@@ -1,0 +1,14 @@
+artist-id = "fr-eden"
+kind = "single"
+
+names = [
+  { name = "ENTP", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10525096" },
+]
