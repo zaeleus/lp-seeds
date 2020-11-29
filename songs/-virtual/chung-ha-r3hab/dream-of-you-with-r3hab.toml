@@ -1,0 +1,8 @@
+names = [
+  { name = "Dream of You (with R3HAB)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "chung-ha", separator = ", " },
+  { artist-id = "r3hab" },
+]
