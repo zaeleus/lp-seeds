@@ -1,0 +1,13 @@
+medium-ids = [
+  "sorae/gyeoul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sorae/gyeoul-vocal-monk"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "sorae/gyeoul-inst"
+duration = "3:40"

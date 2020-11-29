@@ -1,0 +1,15 @@
+artist-id = "sorae"
+kind = "single"
+
+names = [
+  { name = "겨울", locale = "ko", original = true },
+  { name = "Gyeoul", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-03-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10399872" },
+]
