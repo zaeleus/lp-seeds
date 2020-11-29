@@ -1,0 +1,14 @@
+artist-id = "ghost9"
+kind = "ep"
+
+names = [
+  { name = "PRE EPISODE 1: DOOR", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-09-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10494462" },
+]
