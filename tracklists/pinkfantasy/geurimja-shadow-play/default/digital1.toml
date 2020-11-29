@@ -1,0 +1,13 @@
+medium-ids = [
+  "pinkfantasy/geurimja-shadow-play/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pinkfantasy/geurimja-shadow-play"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "pinkfantasy/geurimja-shadow-play-inst"
+duration = "3:21"

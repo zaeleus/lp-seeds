@@ -1,0 +1,16 @@
+artist-id = "pinkfantasy"
+kind = "single"
+
+names = [
+  { name = "그림자 (Shadow Play)", locale = "ko", original = true },
+  { name = "Geurimja (Shadow Play)", locale = "ko-Latn", default = true },
+  { name = "Shadow Play", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-07-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10459799" },
+]

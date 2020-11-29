@@ -1,0 +1,5 @@
+names = [
+  { name = "그림자 (Shadow Play)", locale = "ko", original = true },
+  { name = "Geurimja (Shadow Play)", locale = "ko-Latn", default = true },
+  { name = "Shadow Play", locale = "en" },
+]
