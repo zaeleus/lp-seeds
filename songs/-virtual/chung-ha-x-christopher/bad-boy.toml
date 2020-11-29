@@ -1,0 +1,8 @@
+names = [
+  { name = "Bad Boy", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "chung-ha", separator = " X " },
+  { artist-id = "christopher" },
+]

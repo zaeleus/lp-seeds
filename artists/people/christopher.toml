@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1992-01-31"
+country = "DK"
+gender = "male"
+
+names = [
+  { name = "Christopher", locale = "en", kind = "stage", original = true, default = true },
+  { name = "Christopher Nissen", locale = "en", kind = "real" },
+]
