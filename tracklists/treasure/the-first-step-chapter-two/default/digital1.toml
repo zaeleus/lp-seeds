@@ -1,0 +1,13 @@
+medium-ids = [
+  "treasure/the-first-step-chapter-two/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "treasure/saranghae-i-love-you"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "treasure/b-l-t-bling-like-this"
+duration = "3:26"
