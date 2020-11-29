@@ -1,0 +1,15 @@
+artist-id = "sogumm"
+kind = "single"
+
+names = [
+  { name = "위로", locale = "ko", original = true },
+  { name = "Wiro", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10524893" },
+]

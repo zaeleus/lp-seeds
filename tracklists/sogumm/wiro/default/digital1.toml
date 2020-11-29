@@ -1,0 +1,13 @@
+medium-ids = [
+  "sogumm/wiro/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sogumm/monologue"
+duration = "2:03"
+
+[[tracks]]
+position = 2
+song-id = "sogumm/wiro-feat-10cm"
+duration = "3:32"
