@@ -1,0 +1,23 @@
+medium-ids = [
+  "bling-bling/g-g-b/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bling-bling/g-g-b"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "bling-bling/neo-narang-nollae"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "bling-bling/g-g-b-japanese-ver"
+duration = "2:58"
+
+[[tracks]]
+position = 4
+song-id = "bling-bling/neo-narang-nollae-japanese-ver"
+duration = "3:25"

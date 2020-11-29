@@ -1,0 +1,14 @@
+artist-id = "bling-bling"
+kind = "single"
+
+names = [
+  { name = "G.G.B", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10519123" },
+]

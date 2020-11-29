@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "블링블링", locale = "ko", original = true },
+  { name = "Bling Bling", locale = "en", default = true },
+]
