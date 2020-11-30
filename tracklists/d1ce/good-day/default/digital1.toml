@@ -1,0 +1,13 @@
+medium-ids = [
+  "d1ce/good-day/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "d1ce/good-day"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "d1ce/good-day-inst"
+duration = "3:27"
