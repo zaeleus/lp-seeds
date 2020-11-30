@@ -1,0 +1,3 @@
+names = [
+  { name = "Intro: Walk the Line", locale = "ko", original = true, default = true },
+]

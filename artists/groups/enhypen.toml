@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "ENHYPEN", locale = "ko", original = true, default = true },
+]

@@ -1,0 +1,33 @@
+medium-ids = [
+  "enhypen/border-day-one/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "enhypen/intro-walk-the-line"
+duration = "1:49"
+
+[[tracks]]
+position = 2
+song-id = "enhypen/given-taken"
+duration = "3:04"
+
+[[tracks]]
+position = 3
+song-id = "enhypen/let-me-in-20-cube"
+duration = "3:10"
+
+[[tracks]]
+position = 4
+song-id = "enhypen/10-months"
+duration = "3:15"
+
+[[tracks]]
+position = 5
+song-id = "enhypen/flicker"
+duration = "2:25"
+
+[[tracks]]
+position = 6
+song-id = "enhypen/outro-cross-the-line"
+duration = "1:56"
