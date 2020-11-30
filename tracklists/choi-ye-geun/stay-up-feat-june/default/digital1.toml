@@ -1,0 +1,13 @@
+medium-ids = [
+  "choi-ye-geun/stay-up-feat-june/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "choi-ye-geun/stay-up-feat-june"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "choi-ye-geun/stay-up-feat-june-inst"
+duration = "3:28"
