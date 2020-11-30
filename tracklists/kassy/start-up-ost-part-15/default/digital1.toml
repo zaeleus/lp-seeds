@@ -1,0 +1,13 @@
+medium-ids = [
+  "kassy/start-up-ost-part-15/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/nal-saranghan-cheoeumui-neoro-dorawa"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "kassy/nal-saranghan-cheoeumui-neoro-dorawa-inst"
+duration = "3:37"
