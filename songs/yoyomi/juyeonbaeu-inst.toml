@@ -1,0 +1,4 @@
+names = [
+  { name = "주연배우 (Inst.)", locale = "ko", original = true },
+  { name = "Juyeonbaeu (Inst.)", locale = "ko-Latn", default = true },
+]
