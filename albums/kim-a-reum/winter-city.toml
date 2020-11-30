@@ -1,0 +1,14 @@
+artist-id = "kim-a-reum"
+kind = "lp"
+
+names = [
+  { name = "WINTER CITY", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10525750" },
+]

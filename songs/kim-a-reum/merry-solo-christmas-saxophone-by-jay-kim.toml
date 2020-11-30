@@ -1,0 +1,5 @@
+names = [
+  { name = "메리 솔로 크리스마스 (Saxophone by Jay Kim)", locale = "ko", original = true },
+  { name = "Meri Sollo Keuriseumaseu (Saxophone by Jay Kim)", locale = "ko-Latn" },
+  { name = "Merry Solo Christmas (Saxophone by Jay Kim)", locale = "en", default = true },
+]

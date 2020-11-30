@@ -1,0 +1,5 @@
+names = [
+  { name = "메리 솔로 크리스마스 (Remastered)", locale = "ko", original = true },
+  { name = "Meri Sollo Keuriseumaseu (Remastered)", locale = "ko-Latn" },
+  { name = "Merry Solo Christmas (Remastered)", locale = "en", default = true },
+]

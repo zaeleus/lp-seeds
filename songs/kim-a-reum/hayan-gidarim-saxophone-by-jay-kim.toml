@@ -1,0 +1,4 @@
+names = [
+  { name = "하얀 기다림 (Saxophone by Jay Kim)", locale = "ko", original = true },
+  { name = "Hayan Gidarim (Saxophone by Jay Kim)", locale = "ko-Latn", default = true },
+]
