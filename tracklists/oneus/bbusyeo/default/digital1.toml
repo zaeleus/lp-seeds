@@ -1,0 +1,13 @@
+medium-ids = [
+  "oneus/bbusyeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oneus/bbusyeo"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "oneus/bbusyeo-inst"
+duration = "3:15"

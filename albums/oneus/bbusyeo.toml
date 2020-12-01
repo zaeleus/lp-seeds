@@ -1,0 +1,15 @@
+artist-id = "oneus"
+kind = "single"
+
+names = [
+  { name = "뿌셔 (BBUSYEO)", locale = "ko", original = true },
+  { name = "BBUSYEO", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10526420" },
+]
