@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-si-eun/sometimes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-si-eun/sometimes"
+duration = "4:07"
+
+[[tracks]]
+position = 2
+song-id = "lee-si-eun/sometimes-inst"
+duration = "4:07"
