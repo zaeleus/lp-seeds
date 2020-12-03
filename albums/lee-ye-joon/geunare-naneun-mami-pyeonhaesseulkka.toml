@@ -1,0 +1,15 @@
+artist-id = "lee-ye-joon"
+kind = "single"
+
+names = [
+  { name = "그날에 나는 맘이 편했을까", locale = "ko", original = true },
+  { name = "Geunare Naneun Mami Pyeonhaesseulkka", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10527955" },
+]

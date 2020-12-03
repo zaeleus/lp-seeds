@@ -1,0 +1,4 @@
+names = [
+  { name = "그날에 나는 맘이 편했을까 (Inst.)", locale = "ko", original = true },
+  { name = "Geunare Naneun Mami Pyeonhaesseulkka (Inst.)", locale = "ko-Latn", default = true },
+]

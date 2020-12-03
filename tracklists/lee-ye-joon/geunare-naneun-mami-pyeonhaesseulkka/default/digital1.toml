@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-ye-joon/geunare-naneun-mami-pyeonhaesseulkka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-ye-joon/geunare-naneun-mami-pyeonhaesseulkka"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "lee-ye-joon/geunare-naneun-mami-pyeonhaesseulkka-inst"
+duration = "3:40"
