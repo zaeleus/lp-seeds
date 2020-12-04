@@ -1,0 +1,14 @@
+artist-id = "nct-2020"
+kind = "single"
+
+names = [
+  { name = "RESONANCE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-12-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10529271" },
+]

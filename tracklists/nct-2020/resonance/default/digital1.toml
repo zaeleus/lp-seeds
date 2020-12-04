@@ -1,0 +1,8 @@
+medium-ids = [
+  "nct-2020/resonance/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nct-2020/resonance"
+duration = "5:15"
