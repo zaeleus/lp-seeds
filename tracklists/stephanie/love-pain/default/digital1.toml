@@ -1,0 +1,13 @@
+medium-ids = [
+  "stephanie/love-pain/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stephanie/love-pain"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "stephanie/love-pain-inst"
+duration = "4:14"
