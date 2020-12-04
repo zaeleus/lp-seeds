@@ -1,0 +1,13 @@
+medium-ids = [
+  "gavy-nj/last-christmas/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gavy-nj/last-christmas"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "gavy-nj/last-christmas-inst"
+duration = "3:42"
