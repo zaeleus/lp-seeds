@@ -1,0 +1,8 @@
+medium-ids = [
+  "12dal/dance-with-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "12dal/dance-with-me"
+duration = "3:41"
