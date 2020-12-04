@@ -1,0 +1,33 @@
+medium-ids = [
+  "katie/our-time-is-blue/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "katie/classic"
+duration = "2:16"
+
+[[tracks]]
+position = 2
+song-id = "katie/our-time"
+duration = "3:39"
+
+[[tracks]]
+position = 3
+song-id = "katie/blue-feat-leven-kali"
+duration = "3:27"
+
+[[tracks]]
+position = 4
+song-id = "katie/faux"
+duration = "2:38"
+
+[[tracks]]
+position = 5
+song-id = "katie/teach-a-man"
+duration = "3:25"
+
+[[tracks]]
+position = 6
+song-id = "katie/lullaby"
+duration = "2:46"

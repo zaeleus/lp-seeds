@@ -1,0 +1,14 @@
+artist-id = "katie"
+kind = "ep"
+
+names = [
+  { name = "Our Time is Blue", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-12-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10528982" },
+]
