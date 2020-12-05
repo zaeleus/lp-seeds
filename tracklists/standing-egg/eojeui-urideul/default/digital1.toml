@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/eojeui-urideul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/eojeui-urideul"
+duration = "4:53"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/eojeui-urideul-inst"
+duration = "4:53"
