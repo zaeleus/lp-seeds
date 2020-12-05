@@ -1,0 +1,23 @@
+medium-ids = [
+  "ben/honsulhago-sipeun-bam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/honsulhago-sipeun-bam"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "ben/nunsaram"
+duration = "5:26"
+
+[[tracks]]
+position = 3
+song-id = "ben/byeoldo-ttajundamyeonseo"
+duration = "3:08"
+
+[[tracks]]
+position = 4
+song-id = "ben/honsulhago-sipeun-bam-inst"
+duration = "3:36"
