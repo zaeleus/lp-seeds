@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1994-01-14"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "카이", locale = "ko", kind = "stage", original = true },
+  { name = "KAI", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "김종인", locale = "ko", kind = "real" },
+  { name = "Kim Jong In", locale = "ko-Latn", kind = "real" },
+]
