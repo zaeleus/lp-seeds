@@ -1,0 +1,15 @@
+artist-id = "san-e"
+kind = "single"
+
+names = [
+  { name = "사람정리 (Feat. Limzy)", locale = "ko", original = true },
+  { name = "Saramjeongni (Feat. Limzy)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10527391" },
+]

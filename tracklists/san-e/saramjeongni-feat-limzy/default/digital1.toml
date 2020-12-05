@@ -1,0 +1,13 @@
+medium-ids = [
+  "san-e/saramjeongni-feat-limzy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "san-e/saramjeongni-feat-limzy"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "san-e/saramjeongni-feat-limzy-inst"
+duration = "3:13"
