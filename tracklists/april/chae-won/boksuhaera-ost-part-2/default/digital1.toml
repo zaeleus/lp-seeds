@@ -1,0 +1,13 @@
+medium-ids = [
+  "april/chae-won/boksuhaera-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "april/chae-won/kkeuteseo"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "april/chae-won/kkeuteseo-inst"
+duration = "3:56"
