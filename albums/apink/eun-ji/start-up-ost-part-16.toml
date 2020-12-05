@@ -1,0 +1,23 @@
+artist-id = "apink/eun-ji"
+kind = "single"
+
+names = [
+  { name = "스타트업 OST Part.16", locale = "ko", original = true },
+  { name = "Seutateueop OST Part.16", locale = "ko-Latn" },
+  { name = "Start-Up OST Part.16", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10529347" },
+]

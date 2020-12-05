@@ -1,0 +1,13 @@
+medium-ids = [
+  "apink/eun-ji/start-up-ost-part-16/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink/eun-ji/honjanmal"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "apink/eun-ji/honjanmal-inst"
+duration = "3:54"

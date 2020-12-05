@@ -1,0 +1,11 @@
+names = [
+  { name = "혼잣말", locale = "ko", original = true },
+  { name = "Honjanmal", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
