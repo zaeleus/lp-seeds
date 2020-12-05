@@ -1,0 +1,4 @@
+names = [
+  { name = "한 번에 알아본 사랑 (바른연애 길잡이 X 양요섭) (Inst.)", locale = "ko", original = true, default = true },
+  { name = "Han Beone Arabon Sarang (Bareunyeonae Giljabi X Yang Yo Seob) (Inst.)", locale = "ko-Latn" },
+]

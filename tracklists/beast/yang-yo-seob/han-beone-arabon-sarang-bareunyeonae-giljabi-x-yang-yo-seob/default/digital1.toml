@@ -1,0 +1,13 @@
+medium-ids = [
+  "beast/yang-yo-seob/han-beone-arabon-sarang-bareunyeonae-giljabi-x-yang-yo-seob/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "beast/yang-yo-seob/han-beone-arabon-sarang-bareunyeonae-giljabi-x-yang-yo-seob"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "beast/yang-yo-seob/han-beone-alabon-sarang-bareunyeonae-giljabi-x-yangyoseob-inst"
+duration = "3:24"

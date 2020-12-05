@@ -1,0 +1,15 @@
+artist-id = "beast/yang-yo-seob"
+kind = "single"
+
+names = [
+  { name = "한 번에 알아본 사랑 (바른연애 길잡이 X 양요섭)", locale = "ko", original = true },
+  { name = "Han Beone Arabon Sarang (Bareunyeonae Giljabi X Yang Yo Seob)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10527957" },
+]
