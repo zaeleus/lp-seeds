@@ -1,0 +1,14 @@
+artist-id = "twice"
+kind = "single"
+
+names = [
+  { name = "I CAN'T STOP ME (English Ver.)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-11-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10525940" },
+]
