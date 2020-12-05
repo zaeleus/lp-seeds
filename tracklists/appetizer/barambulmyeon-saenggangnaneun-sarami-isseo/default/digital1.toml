@@ -1,0 +1,13 @@
+medium-ids = [
+  "appetizer/barambulmyeon-saenggangnaneun-sarami-isseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "appetizer/barambulmyeon-saenggangnaneun-sarami-isseo-feat-myosu"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "appetizer/barambulmyeon-saenggangnaneun-sarami-isseo-inst"
+duration = "3:20"

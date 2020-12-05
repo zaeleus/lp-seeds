@@ -1,0 +1,15 @@
+artist-id = "appetizer"
+kind = "single"
+
+names = [
+  { name = "바람불면 생각나는 사람이 있어", locale = "ko", original = true },
+  { name = "Barambulmyeon Saenggangnaneun Sarami Isseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10525625" },
+]
