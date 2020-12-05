@@ -1,0 +1,4 @@
+names = [
+  { name = "권태기 (Feat. Noovv)", locale = "ko", original = true },
+  { name = "Gwontaegi (Feat. Noovv)", locale = "ko-Latn", default = true },
+]
