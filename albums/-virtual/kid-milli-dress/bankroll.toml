@@ -1,0 +1,19 @@
+artist-id = "-virtual/kid-milli-dress"
+kind = "single"
+
+names = [
+  { name = "Bankroll", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "kid-milli", separator = ", " },
+  { artist-id = "dress" },
+]
+
+[[releases]]
+released-on = "2020-12-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10527248" },
+]
