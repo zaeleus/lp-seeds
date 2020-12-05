@@ -1,0 +1,13 @@
+medium-ids = [
+  "ned/tmi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ned/tmi"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "ned/tmi-inst"
+duration = "3:00"
