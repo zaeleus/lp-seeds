@@ -1,0 +1,8 @@
+medium-ids = [
+  "junoflo/fugazi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "junoflo/fugazi-ft-g-yamazawa"
+duration = "3:10"
