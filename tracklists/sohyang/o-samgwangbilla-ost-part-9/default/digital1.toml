@@ -1,0 +1,13 @@
+medium-ids = [
+  "sohyang/o-samgwangbilla-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sohyang/ijeonni"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "sohyang/ijeonni-inst"
+duration = "3:35"
