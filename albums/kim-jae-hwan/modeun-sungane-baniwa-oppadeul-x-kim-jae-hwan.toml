@@ -1,0 +1,15 @@
+artist-id = "kim-jae-hwan"
+kind = "single"
+
+names = [
+  { name = "모든 순간에 (바니와 오빠들 X 김재환)", locale = "ko", original = true },
+  { name = "Modeun Sungane (Baniwa Oppadeul X Kim Jae Hwan)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-11-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10526199" },
+]

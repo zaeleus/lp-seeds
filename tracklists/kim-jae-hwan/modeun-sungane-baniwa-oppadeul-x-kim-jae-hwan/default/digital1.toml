@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-jae-hwan/modeun-sungane-baniwa-oppadeul-x-kim-jae-hwan/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-jae-hwan/modeun-sungane-baniwa-oppadeul-x-kim-jae-hwan"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "kim-jae-hwan/modeun-sungane-baniwa-oppadeul-x-kim-jae-hwan-inst"
+duration = "4:01"
