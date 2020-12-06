@@ -1,0 +1,13 @@
+medium-ids = [
+  "j-ust/chuk_ga/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "j-ust/chukga-feat-wonpil-day6"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "j-ust/chukga-inst"
+duration = "3:53"
