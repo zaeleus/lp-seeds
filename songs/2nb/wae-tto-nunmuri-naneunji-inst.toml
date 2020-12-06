@@ -1,0 +1,4 @@
+names = [
+  { name = "왜 또 눈물이 나는지 (inst.)", locale = "ko", original = true },
+  { name = "Wae Tto Nunmuri Naneunji (inst.)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "2nb/yeonaeui-chamgyeon-season-3-ost-part-28/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2nb/wae-tto-nunmuri-naneunji"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "2nb/wae-tto-nunmuri-naneunji-inst"
+duration = "3:46"
