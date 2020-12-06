@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-daisy/kairos-ost-part-11/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-daisy/uldaga-tto-neoreul-geuriwo-hadaga"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "the-daisy/uldaga-tto-neoreul-geuriwo-hadaga-inst"
+duration = "3:46"
