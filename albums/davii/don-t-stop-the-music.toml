@@ -1,0 +1,14 @@
+artist-id = "davii"
+kind = "single"
+
+names = [
+  { name = "Don't stop the music", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-12-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10529925" },
+]
