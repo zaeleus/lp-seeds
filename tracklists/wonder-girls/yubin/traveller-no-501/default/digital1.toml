@@ -1,0 +1,13 @@
+medium-ids = [
+  "wonder-girls/yubin/traveller-no-501/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wonder-girls/yubin/wave"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "wonder-girls/yubin/wave-inst"
+duration = "3:29"
