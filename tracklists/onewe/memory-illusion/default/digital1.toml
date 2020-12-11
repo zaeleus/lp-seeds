@@ -1,0 +1,23 @@
+medium-ids = [
+  "onewe/memory-illusion/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "onewe/trauma-aquarium"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "onewe/gieok-sok-han-gwonui-chaek-a-book-in-memory"
+duration = "3:57"
+
+[[tracks]]
+position = 3
+song-id = "onewe/gieok-setakso-eraser"
+duration = "3:58"
+
+[[tracks]]
+position = 4
+song-id = "onewe/gieok-sok-han-gwonui-chaek-a-book-in-memory-inst"
+duration = "3:57"

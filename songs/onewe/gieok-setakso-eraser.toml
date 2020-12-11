@@ -1,0 +1,5 @@
+names = [
+  { name = "기억 세탁소 (Eraser)", locale = "ko", original = true },
+  { name = "Gieok Setakso (Eraser)", locale = "ko-Latn", default = true },
+  { name = "Eraser", locale = "en" },
+]

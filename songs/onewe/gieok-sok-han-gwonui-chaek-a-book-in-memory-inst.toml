@@ -1,0 +1,5 @@
+names = [
+  { name = "기억 속 한 권의 책 (A book in Memory) (Inst.)", locale = "ko", original = true },
+  { name = "Gieok Sok Han Gwonui Chaek (A book in Memory) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "A book in Memory (Inst.)", locale = "en" },
+]
