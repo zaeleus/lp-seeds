@@ -1,0 +1,5 @@
+names = [
+  { name = "첫눈 오는 날 (Be There) (feat. 딘딘)", locale = "ko", original = true },
+  { name = "Cheonnun Oneun Nal (Be There) (feat. DinDin)", locale = "ko-Latn", default = true },
+  { name = "Be There (feat. DinDin)", locale = "en" },
+]
