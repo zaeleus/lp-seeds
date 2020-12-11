@@ -1,0 +1,13 @@
+medium-ids = [
+  "fiestar/yezi/raining-all-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fiestar/yezi/raining-all-night"
+duration = "2:49"
+
+[[tracks]]
+position = 2
+song-id = "fiestar/yezi/raining-all-night-inst"
+duration = "2:49"
