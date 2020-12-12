@@ -1,0 +1,13 @@
+medium-ids = [
+  "joosiq/5-bunman-deo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "joosiq/5-bunman-deo"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "joosiq/5-bunman-deo-inst"
+duration = "3:36"

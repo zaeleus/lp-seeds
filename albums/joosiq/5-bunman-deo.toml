@@ -1,0 +1,15 @@
+artist-id = "joosiq"
+kind = "single"
+
+names = [
+  { name = "5분만 더", locale = "ko", original = true },
+  { name = "5-bunman Deo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10532653" },
+]
