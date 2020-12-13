@@ -1,0 +1,10 @@
+names = [
+  { name = "Hall&Oates", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "15and/yerin"
+names = [
+  { name = "백예린", locale = "ko", original = true },
+  { name = "Yerin Baek", locale = "en", default = true },
+]
