@@ -1,0 +1,5 @@
+names = [
+  { name = "스케치북", locale = "ko", original = true },
+  { name = "Seukechibuk", locale = "ko-Latn" },
+  { name = "Sketchbook", locale = "en", default = true },
+]

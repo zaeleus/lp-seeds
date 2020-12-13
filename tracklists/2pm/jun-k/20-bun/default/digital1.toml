@@ -1,0 +1,38 @@
+medium-ids = [
+  "2pm/jun-k/20-bun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2pm/jun-k/jip"
+duration = "2:42"
+
+[[tracks]]
+position = 2
+song-id = "2pm/jun-k/sketchbook"
+duration = "2:58"
+
+[[tracks]]
+position = 3
+song-id = "2pm/jun-k/30-buneun-geojeolhalkka-bwa"
+duration = "3:23"
+
+[[tracks]]
+position = 4
+song-id = "2pm/jun-k/mikkeureomteul"
+duration = "3:13"
+
+[[tracks]]
+position = 5
+song-id = "2pm/jun-k/pyeonghaengseon"
+duration = "3:22"
+
+[[tracks]]
+position = 6
+song-id = "2pm/jun-k/swimpyo"
+duration = "3:39"
+
+[[tracks]]
+position = 7
+song-id = "2pm/jun-k/ms-no-time-korean-ver"
+duration = "3:29"
