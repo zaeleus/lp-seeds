@@ -1,0 +1,13 @@
+medium-ids = [
+  "espresso/geuraedo-joa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "espresso/geuraedo-joa-feat-morning-coffee"
+duration = "2:52"
+
+[[tracks]]
+position = 2
+song-id = "espresso/geuraedo-joa-inst"
+duration = "2:52"

@@ -1,0 +1,4 @@
+names = [
+  { name = "그래도 좋아 (feat. 모닝커피)", locale = "ko", original = true },
+  { name = "Geuraedo Joa (feat. Morning Coffee)", locale = "ko-Latn", default = true },
+]
