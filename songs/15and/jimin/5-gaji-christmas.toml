@@ -1,0 +1,11 @@
+names = [
+  { name = "5가지 Christmas", locale = "ko", original = true },
+  { name = "5-gaji Christmas", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "15and/jimin"
+names = [
+  { name = "제이미", locale = "ko", original = true },
+  { name = "Jamie", locale = "en", default = true },
+]
