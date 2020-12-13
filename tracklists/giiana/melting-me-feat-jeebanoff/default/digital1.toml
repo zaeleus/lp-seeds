@@ -1,0 +1,13 @@
+medium-ids = [
+  "giiana/melting-me-feat-jeebanoff/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giiana/joyonghi-feat-jeebanoff"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "giiana/jiruhae-feat-jeebanoff"
+duration = "3:37"
