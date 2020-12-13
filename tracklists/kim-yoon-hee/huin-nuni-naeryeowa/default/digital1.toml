@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-yoon-hee/huin-nuni-naeryeowa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-yoon-hee/huin-nuni-naeryeowa"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "kim-yoon-hee/huin-nuni-naeryeowa-inst"
+duration = "3:22"

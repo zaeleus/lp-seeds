@@ -1,0 +1,15 @@
+artist-id = "kim-yoon-hee"
+kind = "single"
+
+names = [
+  { name = "흰 눈이 내려와", locale = "ko", original = true },
+  { name = "Huin Nuni Naeryeowa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10533032" },
+]
