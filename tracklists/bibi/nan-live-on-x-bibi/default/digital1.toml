@@ -1,0 +1,13 @@
+medium-ids = [
+  "bibi/nan-live-on-x-bibi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bibi/nan"
+duration = "2:48"
+
+[[tracks]]
+position = 2
+song-id = "bibi/nan-inst"
+duration = "2:48"
