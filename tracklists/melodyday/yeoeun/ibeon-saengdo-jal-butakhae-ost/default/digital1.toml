@@ -1,0 +1,13 @@
+medium-ids = [
+  "melodyday/yeoeun/ibeon-saengdo-jal-butakhae-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melodyday/yeoeun/neol-neukkyeo-ibeon-saengdo-jal-butakhae-x-yeoeun"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "melodyday/yeoeun/neol-neukkyeo-ibeon-saengdo-jal-butakhae-x-yeoeun-inst"
+duration = "3:47"

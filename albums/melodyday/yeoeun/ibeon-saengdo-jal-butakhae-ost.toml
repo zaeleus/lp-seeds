@@ -1,0 +1,15 @@
+artist-id = "melodyday/yeoeun"
+kind = "single"
+
+names = [
+  { name = "이번 생도 잘 부탁해 OST", locale = "ko", original = true },
+  { name = "Ibeon Saengdo Jal Butakhae OST", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10532052" },
+]
