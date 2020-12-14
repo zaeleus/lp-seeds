@@ -1,0 +1,13 @@
+medium-ids = [
+  "son-seung-yeon/ready/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "son-seung-yeon/get-up-prologue"
+duration = "2:40"
+
+[[tracks]]
+position = 2
+song-id = "son-seung-yeon/ready"
+duration = "3:01"
