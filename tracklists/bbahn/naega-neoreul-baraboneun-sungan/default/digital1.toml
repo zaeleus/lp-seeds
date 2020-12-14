@@ -1,0 +1,13 @@
+medium-ids = [
+  "bbahn/naega-neoreul-baraboneun-sungan/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bbahn/naega-neoreul-baraboneun-sungan"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "bbahn/naega-neoreul-baraboneun-sungan-inst"
+duration = "3:09"
