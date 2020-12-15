@@ -1,0 +1,5 @@
+names = [
+  { name = "들불 (Wildfire)", locale = "ko", original = true },
+  { name = "Deulbul (Wildfire)", locale = "ko-Latn", default = true },
+  { name = "Wildfire", locale = "en" },
+]

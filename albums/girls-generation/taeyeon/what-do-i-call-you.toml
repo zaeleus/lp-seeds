@@ -1,0 +1,14 @@
+artist-id = "girls-generation/taeyeon"
+kind = "ep"
+
+names = [
+  { name = "What Do I Call You", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-12-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10534079" },
+]

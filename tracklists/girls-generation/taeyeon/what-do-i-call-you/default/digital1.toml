@@ -1,0 +1,28 @@
+medium-ids = [
+  "girls-generation/taeyeon/what-do-i-call-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/taeyeon/what-do-i-call-you"
+duration = "2:48"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/taeyeon/playlist"
+duration = "2:44"
+
+[[tracks]]
+position = 3
+song-id = "girls-generation/taeyeon/to-the-moon"
+duration = "2:43"
+
+[[tracks]]
+position = 4
+song-id = "girls-generation/taeyeon/deulbul-wildfire"
+duration = "3:25"
+
+[[tracks]]
+position = 5
+song-id = "girls-generation/taeyeon/galaxy"
+duration = "3:47"
