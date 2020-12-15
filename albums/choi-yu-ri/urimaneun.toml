@@ -1,0 +1,15 @@
+artist-id = "choi-yu-ri"
+kind = "ep"
+
+names = [
+  { name = "우리만은", locale = "ko", original = true },
+  { name = "Urimaneun", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10533976" },
+]

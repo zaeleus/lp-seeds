@@ -1,0 +1,33 @@
+medium-ids = [
+  "choi-yu-ri/urimaneun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "choi-yu-ri/yeonmot"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "choi-yu-ri/yennalbi"
+duration = "3:21"
+
+[[tracks]]
+position = 3
+song-id = "choi-yu-ri/urimaneun"
+duration = "3:58"
+
+[[tracks]]
+position = 4
+song-id = "choi-yu-ri/honjanmal"
+duration = "4:27"
+
+[[tracks]]
+position = 5
+song-id = "choi-yu-ri/dapjang"
+duration = "3:14"
+
+[[tracks]]
+position = 6
+song-id = "choi-yu-ri/dongne"
+duration = "4:24"
