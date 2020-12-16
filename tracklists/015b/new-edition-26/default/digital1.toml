@@ -1,0 +1,13 @@
+medium-ids = [
+  "015b/new-edition-26/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "015b/ni-nuni-boyeo-feat-dongha"
+duration = "4:46"
+
+[[tracks]]
+position = 2
+song-id = "015b/ni-nuni-boyeo-inst"
+duration = "4:40"
