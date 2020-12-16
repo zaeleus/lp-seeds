@@ -1,0 +1,3 @@
+names = [
+  { name = "SPACEDOG (feat. Summer Soul)", locale = "ko", original = true, default = true },
+]
