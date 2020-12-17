@@ -1,0 +1,23 @@
+medium-ids = [
+  "sway/episode-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sway/nadomoreuge"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "sway/merry-you-ristmas"
+duration = "3:36"
+
+[[tracks]]
+position = 3
+song-id = "sway/nadomoreuge-inst"
+duration = "3:35"
+
+[[tracks]]
+position = 4
+song-id = "sway/merry-you-ristmas-inst"
+duration = "3:36"
