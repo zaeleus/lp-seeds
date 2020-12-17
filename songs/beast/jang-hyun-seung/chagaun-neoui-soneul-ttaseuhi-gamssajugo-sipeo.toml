@@ -1,0 +1,4 @@
+names = [
+  { name = "차가운 너의 손을 따스히 감싸주고 싶어", locale = "ko", original = true },
+  { name = "Chagaun Neoui Soneul Ttaseuhi Gamssajugo Sipeo", locale = "ko-Latn", default = true },
+]
