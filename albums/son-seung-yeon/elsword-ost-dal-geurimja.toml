@@ -1,0 +1,15 @@
+artist-id = "son-seung-yeon"
+kind = "single"
+
+names = [
+  { name = "엘소드 OST: 달 그림자", locale = "ko", original = true },
+  { name = "Elsword OST: Dal Geurimja", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10535272" },
+]

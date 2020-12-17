@@ -1,0 +1,13 @@
+medium-ids = [
+  "son-seung-yeon/elsword-ost-dal-geurimja/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "son-seung-yeon/dal-geurimja"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "son-seung-yeon/dal-geurimja-inst"
+duration = "3:41"
