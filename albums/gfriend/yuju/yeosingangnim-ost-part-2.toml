@@ -1,0 +1,16 @@
+artist-id = "gfriend/yuju"
+kind = "single"
+
+names = [
+  { name = "여신강림 OST Part 2", locale = "ko", original = true },
+  { name = "Yeosingangnim OST Part 2", locale = "ko-Latn", default = true },
+  { name = "True Beauty OST Part 2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-12-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10535614" },
+]

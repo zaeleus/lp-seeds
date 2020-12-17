@@ -1,0 +1,13 @@
+medium-ids = [
+  "gfriend/yuju/yeosingangnim-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gfriend/yuju/i-m-in-the-mood-for-dancing"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "gfriend/yuju/i-m-in-the-mood-for-dancing-inst"
+duration = "3:31"
