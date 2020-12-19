@@ -1,0 +1,8 @@
+medium-ids = [
+  "twice/cry-for-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twice/cry-for-me"
+duration = "3:25"
