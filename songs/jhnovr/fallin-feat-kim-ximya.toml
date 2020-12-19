@@ -1,4 +1,3 @@
 names = [
-  { name = "Fallin' (Feat. 김심야)", locale = "ko", original = true },
-  { name = "Fallin' (Feat. Kim Ximya)", locale = "ko-Latn", default = true },
+  { name = "Fallin' (Feat. Kim Ximya)", locale = "ko", original = true, default = true },
 ]

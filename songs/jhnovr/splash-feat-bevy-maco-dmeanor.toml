@@ -1,0 +1,3 @@
+names = [
+  { name = "Splash (Feat. Bevy Maco, DMEANOR)", locale = "ko", original = true, default = true },
+]

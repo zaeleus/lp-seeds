@@ -1,0 +1,14 @@
+artist-id = "jhnovr"
+kind = "lp"
+
+names = [
+  { name = "A Nocturnal Visit", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-12-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10534975" },
+]
