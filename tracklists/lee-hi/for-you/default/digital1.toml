@@ -1,0 +1,8 @@
+medium-ids = [
+  "lee-hi/for-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-hi/for-you-feat-crush"
+duration = "3:26"
