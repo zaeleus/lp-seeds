@@ -1,0 +1,8 @@
+medium-ids = [
+  "fr-eden/1992-29/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fr-eden/1992-29"
+duration = "3:04"
