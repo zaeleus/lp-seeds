@@ -1,0 +1,3 @@
+names = [
+  { name = "BEHIND (skit)", locale = "ko", original = true, default = true },
+]

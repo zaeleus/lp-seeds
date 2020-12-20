@@ -1,0 +1,53 @@
+medium-ids = [
+  "jeebanoff/talking-book/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jeebanoff/nan-aniya-not-me"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "jeebanoff/ara"
+duration = "3:19"
+
+[[tracks]]
+position = 3
+song-id = "jeebanoff/saenggagina"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "jeebanoff/yeogiseoseo"
+duration = "3:25"
+
+[[tracks]]
+position = 5
+song-id = "jeebanoff/maeumeuro"
+duration = "3:30"
+
+[[tracks]]
+position = 6
+song-id = "jeebanoff/behind-skit"
+duration = "2:11"
+
+[[tracks]]
+position = 7
+song-id = "jeebanoff/oui-2"
+duration = "3:04"
+
+[[tracks]]
+position = 8
+song-id = "jeebanoff/sinhodeung"
+duration = "2:31"
+
+[[tracks]]
+position = 9
+song-id = "jeebanoff/haneulkkeut"
+duration = "3:10"
+
+[[tracks]]
+position = 10
+song-id = "jeebanoff/why-don-t-you-love-me"
+duration = "3:10"
