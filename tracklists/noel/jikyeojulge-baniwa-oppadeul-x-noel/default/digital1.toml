@@ -1,0 +1,13 @@
+medium-ids = [
+  "noel/jikyeojulge-baniwa-oppadeul-x-noel/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "noel/jikyeojulge-baniwa-oppadeul-x-noel"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "noel/jikyeojulge-baniwa-oppadeul-x-noel-inst"
+duration = "3:42"

@@ -1,0 +1,15 @@
+artist-id = "noel"
+kind = "single"
+
+names = [
+  { name = "지켜줄게 (바니와 오빠들 X 노을)", locale = "ko", original = true },
+  { name = "Jikyeojulge (Baniwa Oppadeul X Noel)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10534938" },
+]
