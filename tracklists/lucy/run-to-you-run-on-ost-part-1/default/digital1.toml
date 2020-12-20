@@ -1,0 +1,13 @@
+medium-ids = [
+  "lucy/run-to-you-run-on-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucy/run-to-you"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "lucy/run-to-you-inst"
+duration = "3:18"

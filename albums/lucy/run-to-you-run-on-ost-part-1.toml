@@ -1,0 +1,15 @@
+artist-id = "lucy"
+kind = "single"
+
+names = [
+  { name = "Run To You (런 온 OST Part.1)", locale = "ko", original = true },
+  { name = "Run To You (Run On OST Part.1)", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10534282" },
+]
