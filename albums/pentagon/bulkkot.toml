@@ -1,0 +1,15 @@
+artist-id = "pentagon"
+kind = "single"
+
+names = [
+  { name = "불꽃", locale = "ko", original = true },
+  { name = "Bulkkot", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10536227" },
+]

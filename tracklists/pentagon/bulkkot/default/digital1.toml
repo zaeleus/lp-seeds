@@ -1,0 +1,8 @@
+medium-ids = [
+  "pentagon/bulkkot/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pentagon/bulkkot"
+duration = "3:47"
