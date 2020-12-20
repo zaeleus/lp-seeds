@@ -1,0 +1,13 @@
+medium-ids = [
+  "sunwoo-jung-a/myeoneuragi-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sunwoo-jung-a/seom"
+duration = "4:37"
+
+[[tracks]]
+position = 2
+song-id = "sunwoo-jung-a/seom-inst"
+duration = "4:37"
