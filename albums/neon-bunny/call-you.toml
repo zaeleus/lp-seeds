@@ -1,0 +1,14 @@
+artist-id = "neon-bunny"
+kind = "single"
+
+names = [
+  { name = "Call You", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-12-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10536237" },
+]
