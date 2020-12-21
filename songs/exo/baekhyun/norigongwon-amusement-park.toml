@@ -1,0 +1,5 @@
+names = [
+  { name = "놀이공원 (Amusement Park)", locale = "ko", original = true },
+  { name = "Norigongwon (Amusement Park)", locale = "ko-Latn", default = true },
+  { name = "Amusement Park", locale = "en" },
+]

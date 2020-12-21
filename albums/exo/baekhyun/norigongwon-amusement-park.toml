@@ -1,0 +1,16 @@
+artist-id = "exo/baekhyun"
+kind = "single"
+
+names = [
+  { name = "놀이공원 (Amusement Park)", locale = "ko", original = true },
+  { name = "Norigongwon (Amusement Park)", locale = "ko-Latn", default = true },
+  { name = "Amusement Park", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-12-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10537222" },
+]

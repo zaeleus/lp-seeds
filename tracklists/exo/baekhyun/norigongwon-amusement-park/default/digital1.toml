@@ -1,0 +1,8 @@
+medium-ids = [
+  "exo/baekhyun/norigongwon-amusement-park/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/baekhyun/norigongwon-amusement-park"
+duration = "4:17"
