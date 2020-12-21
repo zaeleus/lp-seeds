@@ -1,0 +1,3 @@
+names = [
+  { name = "CATCH ME IF YOU CAN", locale = "ko", original = true, default = true },
+]
