@@ -1,0 +1,8 @@
+medium-ids = [
+  "lee-aram/neon-naege/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-aram/neon-naege"
+duration = "3:37"
