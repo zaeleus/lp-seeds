@@ -1,0 +1,8 @@
+medium-ids = [
+  "basick/nuni-omyeon-mmm/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "basick/nuni-omyeon-mmm-feat-wheein-of-mamamoo"
+duration = "3:06"

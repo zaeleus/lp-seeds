@@ -1,0 +1,15 @@
+artist-id = "basick"
+kind = "single"
+
+names = [
+  { name = "눈이 오면 mmm", locale = "ko", original = true },
+  { name = "Nuni Omyeon mmm", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10537781" },
+]

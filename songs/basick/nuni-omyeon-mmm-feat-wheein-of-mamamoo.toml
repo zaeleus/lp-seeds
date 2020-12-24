@@ -1,0 +1,4 @@
+names = [
+  { name = "눈이 오면 mmm (Feat. 휘인 of 마마무)", locale = "ko", original = true },
+  { name = "Nuni Omyeon mmm (Feat. Wheein of MAMAMOO)", locale = "ko-Latn", default = true },
+]
