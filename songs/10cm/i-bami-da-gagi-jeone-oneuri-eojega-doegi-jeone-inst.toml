@@ -1,0 +1,4 @@
+names = [
+  { name = "이 밤이 다 가기 전에 오늘이 어제가 되기 전에 (Inst)", locale = "ko", original = true },
+  { name = "I Bami Da Gagi Jeone Oneuri Eojega Doegi Jeone (Inst)", locale = "ko-Latn", default = true },
+]

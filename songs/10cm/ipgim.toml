@@ -1,0 +1,4 @@
+names = [
+  { name = "입김", locale = "ko", original = true },
+  { name = "Ipgim", locale = "ko-Latn", default = true },
+]

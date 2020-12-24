@@ -1,0 +1,23 @@
+medium-ids = [
+  "10cm/5-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "10cm/ipgim"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "10cm/i-bami-da-gagi-jeone-oneuri-eojega-doegi-jeone"
+duration = "3:35"
+
+[[tracks]]
+position = 3
+song-id = "10cm/ipgim-inst"
+duration = "3:53"
+
+[[tracks]]
+position = 4
+song-id = "10cm/i-bami-da-gagi-jeone-oneuri-eojega-doegi-jeone-inst"
+duration = "3:35"
