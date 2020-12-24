@@ -1,0 +1,8 @@
+medium-ids = [
+  "youra/hayang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "youra/hayang-feat-heize"
+duration = "3:10"
