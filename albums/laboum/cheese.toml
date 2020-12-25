@@ -1,0 +1,15 @@
+artist-id = "laboum"
+kind = "single"
+
+names = [
+  { name = "Cheese (치즈)", locale = "ko", original = true },
+  { name = "Cheese", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10538631" },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "laboum/cheese/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "laboum/cheese"
+duration = "2:50"
