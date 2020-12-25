@@ -1,0 +1,8 @@
+medium-ids = [
+  "sung-jin-hwan/nae-gangaji/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sung-jin-hwan/nae-gangaji"
+duration = "3:33"
