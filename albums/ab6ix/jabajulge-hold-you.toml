@@ -1,0 +1,15 @@
+artist-id = "ab6ix"
+kind = "single"
+
+names = [
+  { name = "잡아줄게 (HOLD YOU)", locale = "ko", original = true },
+  { name = "Jabajulge (HOLD YOU)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10538868" },
+]

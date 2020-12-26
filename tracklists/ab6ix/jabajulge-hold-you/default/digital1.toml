@@ -1,0 +1,13 @@
+medium-ids = [
+  "ab6ix/jabajulge-hold-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ab6ix/jabajulge-hold-you"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "ab6ix/jabajulge-hold-you-inst"
+duration = "3:10"
