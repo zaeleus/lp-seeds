@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-greem/neoreul-aneulge/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-greem/neoreul-aneulge"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "kim-greem/neoreul-aneulge-inst"
+duration = "3:36"
