@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-daisy/boksuhaera-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-daisy/heeojigo-naseoya"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "the-daisy/heeojigo-naseoya-inst"
+duration = "3:26"
