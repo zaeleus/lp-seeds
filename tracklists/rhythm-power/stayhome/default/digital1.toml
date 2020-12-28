@@ -1,0 +1,8 @@
+medium-ids = [
+  "rhythm-power/stayhome/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rhythm-power/jipkok"
+duration = "2:43"
