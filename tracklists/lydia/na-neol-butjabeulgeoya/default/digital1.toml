@@ -1,0 +1,13 @@
+medium-ids = [
+  "lydia/na-neol-butjabeulgeoya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lydia/na-neol-butjabeulgeoya"
+duration = "2:54"
+
+[[tracks]]
+position = 2
+song-id = "lydia/na-neol-butjabeulgeoya-inst"
+duration = "2:54"

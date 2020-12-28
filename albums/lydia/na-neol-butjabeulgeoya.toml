@@ -1,0 +1,15 @@
+artist-id = "lydia"
+kind = "single"
+
+names = [
+  { name = "나 널 붙잡을거야", locale = "ko", original = true },
+  { name = "Na Neol Butjabeulgeoya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10537727" },
+]
