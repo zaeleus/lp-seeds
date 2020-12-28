@@ -1,0 +1,14 @@
+artist-id = "20-years-of-age"
+kind = "single"
+
+names = [
+  { name = "Closer (Me Before You)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2020-12-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10539655" },
+]
