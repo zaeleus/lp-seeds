@@ -1,0 +1,4 @@
+names = [
+  { name = "죽고 싶단 말 밖에 (2020 Ver.)", locale = "ko", original = true },
+  { name = "Jukgo Sipdan Mal Bakke (2020 Ver.)", locale = "ko-Latn", default = true },
+]

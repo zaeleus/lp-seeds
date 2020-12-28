@@ -1,0 +1,4 @@
+names = [
+  { name = "사월의 눈 (Remastered)", locale = "ko", original = true },
+  { name = "Saworui Nun (Remastered)", locale = "ko-Latn", default = true },
+]

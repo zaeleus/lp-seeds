@@ -1,0 +1,4 @@
+names = [
+  { name = "마지막으로 안아도 될까 (Remastered)", locale = "ko", original = true },
+  { name = "Majimageuro Anado Doelkka (Remastered)", locale = "ko-Latn", default = true },
+]
