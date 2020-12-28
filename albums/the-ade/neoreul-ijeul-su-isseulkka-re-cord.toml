@@ -1,0 +1,15 @@
+artist-id = "the-ade"
+kind = "single"
+
+names = [
+  { name = "너를 잊을 수 있을까 (re:cord)", locale = "ko", original = true },
+  { name = "Neoreul Ijeul Su Isseulkka (re:cord)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10539099" },
+]

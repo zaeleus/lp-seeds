@@ -1,0 +1,4 @@
+names = [
+  { name = "너를 잊을 수 있을까 (re:cord)", locale = "ko", original = true },
+  { name = "Neoreul Ijeul Su Isseulkka (re:cord)", locale = "ko-Latn", default = true },
+]
