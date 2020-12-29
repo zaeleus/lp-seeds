@@ -1,0 +1,13 @@
+medium-ids = [
+  "yang-da-il/yojeum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yang-da-il/yojeum"
+duration = "4:40"
+
+[[tracks]]
+position = 2
+song-id = "yang-da-il/yojeum-inst"
+duration = "4:40"

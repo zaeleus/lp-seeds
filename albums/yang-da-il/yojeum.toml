@@ -1,0 +1,15 @@
+artist-id = "yang-da-il"
+kind = "single"
+
+names = [
+  { name = "요즘", locale = "ko", original = true },
+  { name = "Yojeum", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10540303" },
+]
