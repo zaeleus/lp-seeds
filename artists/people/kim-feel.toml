@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1986-08-27"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "김필", locale = "ko", kind = "real", original = true },
+  { name = "Kim Feel", locale = "ko-Latn", kind = "real", default = true },
+]
