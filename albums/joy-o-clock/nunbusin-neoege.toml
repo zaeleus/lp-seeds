@@ -1,0 +1,15 @@
+artist-id = "joy-o-clock"
+kind = "single"
+
+names = [
+  { name = "눈부신 너에게", locale = "ko", original = true },
+  { name = "Nunbusin Neoege", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10540374" },
+]
