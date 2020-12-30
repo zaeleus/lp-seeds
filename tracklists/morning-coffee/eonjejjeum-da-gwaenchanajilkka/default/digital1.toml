@@ -1,0 +1,13 @@
+medium-ids = [
+  "morning-coffee/eonjejjeum-da-gwaenchanajilkka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "morning-coffee/eonjejjeum-da-gwaenchanajilkka"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "morning-coffee/eonjejjeum-da-gwaenchanajilkka-inst"
+duration = "3:31"
