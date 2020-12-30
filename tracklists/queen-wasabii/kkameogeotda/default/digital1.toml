@@ -1,0 +1,13 @@
+medium-ids = [
+  "queen-wasabii/kkameogeotda/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "queen-wasabii/kkameogeotda"
+duration = "2:08"
+
+[[tracks]]
+position = 2
+song-id = "queen-wasabii/kkameogeotda-radio-clean"
+duration = "2:08"

@@ -1,0 +1,15 @@
+artist-id = "queen-wasabii"
+kind = "single"
+
+names = [
+  { name = "까먹었다", locale = "ko", original = true },
+  { name = "Kkameogeotda", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10540448" },
+]

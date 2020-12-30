@@ -1,0 +1,4 @@
+names = [
+  { name = "까먹었다 (Radio Clean)", locale = "ko", original = true },
+  { name = "Kkameogeotda (Radio Clean)", locale = "ko-Latn", default = true },
+]
