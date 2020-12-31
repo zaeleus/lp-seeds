@@ -1,0 +1,18 @@
+medium-ids = [
+  "yoyomi/seuriseuljjeok/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yoyomi/seuriseuljjeok"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "yoyomi/seuriseuljjeok-mr"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "yoyomi/seuriseuljjeok-inst"
+duration = "3:20"
