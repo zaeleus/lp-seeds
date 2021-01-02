@@ -1,0 +1,16 @@
+artist-id = "nam-young-joo"
+kind = "single"
+
+names = [
+  { name = "복수해라 OST Part.10", locale = "ko", original = true },
+  { name = "Boksuhaera OST Part.10", locale = "ko-Latn", default = true },
+  { name = "Get Revenge OST Part.10", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-01-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10540732" },
+]

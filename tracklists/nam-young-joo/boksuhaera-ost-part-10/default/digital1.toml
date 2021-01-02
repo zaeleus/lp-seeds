@@ -1,0 +1,13 @@
+medium-ids = [
+  "nam-young-joo/boksuhaera-ost-part-10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nam-young-joo/sarangi-ireon-geon-jul-nan-mollasseo"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "nam-young-joo/sarangi-ireon-geon-jul-nan-mollasseo-inst"
+duration = "3:37"
