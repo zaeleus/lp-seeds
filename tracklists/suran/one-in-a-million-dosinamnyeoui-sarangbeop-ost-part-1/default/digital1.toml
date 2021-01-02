@@ -1,0 +1,13 @@
+medium-ids = [
+  "suran/one-in-a-million-dosinamnyeoui-sarangbeop-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "suran/one-in-a-million"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "suran/one-in-a-million-inst"
+duration = "3:36"
