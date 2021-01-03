@@ -1,0 +1,4 @@
+names = [
+  { name = "SING A SONG WRITER (Feat. 오왼)", locale = "ko", original = true },
+  { name = "SING A SONG WRITER (Feat. Owen)", locale = "ko-Latn", default = true },
+]
