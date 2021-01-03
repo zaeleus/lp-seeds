@@ -1,0 +1,4 @@
+names = [
+  { name = "미안한 노래 (Feat. Cobugi)", locale = "ko", original = true },
+  { name = "Mianhan Norae (Feat. Cobugi)", locale = "ko-Latn", default = true },
+]
