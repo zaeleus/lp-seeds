@@ -1,0 +1,13 @@
+medium-ids = [
+  "hello-gayoung/myeoneuragi-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hello-gayoung/eottaeyo"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "hello-gayoung/eottaeyo-inst"
+duration = "3:03"
