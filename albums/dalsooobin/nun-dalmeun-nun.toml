@@ -1,0 +1,15 @@
+artist-id = "dalsooobin"
+kind = "single"
+
+names = [
+  { name = "눈 닮은 눈", locale = "ko", original = true },
+  { name = "Nun Dalmeun Nun", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10540908" },
+]

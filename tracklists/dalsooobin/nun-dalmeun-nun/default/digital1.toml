@@ -1,0 +1,13 @@
+medium-ids = [
+  "dalsooobin/nun-dalmeun-nun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dalsooobin/nun-dalmeun-nun"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "dalsooobin/nun-dalmeun-nun-inst"
+duration = "4:00"
