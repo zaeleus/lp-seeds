@@ -1,0 +1,16 @@
+artist-id = "urban-zakapa/jo-hyun-ah"
+kind = "single"
+
+names = [
+  { name = "철인왕후 OST Part. 3", locale = "ko", original = true },
+  { name = "Cheorinwanghu OST Part. 3", locale = "ko-Latn", default = true },
+  { name = "Mr. Queen OST Part. 3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-01-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10540710" },
+]

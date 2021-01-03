@@ -1,0 +1,13 @@
+medium-ids = [
+  "urban-zakapa/jo-hyun-ah/cheorinwanghu-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "urban-zakapa/jo-hyun-ah/here-i-am"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "urban-zakapa/jo-hyun-ah/here-i-am-inst"
+duration = "3:59"
