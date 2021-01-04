@@ -1,0 +1,8 @@
+medium-ids = [
+  "coogie/pow-feat-gray/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "coogie/pow-feat-gray"
+duration = "3:03"
