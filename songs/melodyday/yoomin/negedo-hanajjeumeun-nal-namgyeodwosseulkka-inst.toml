@@ -1,0 +1,4 @@
+names = [
+  { name = "네게도 하나쯤은 날 남겨뒀을까 (inst.)", locale = "ko", original = true },
+  { name = "Negedo Hanajjeumeun Nal Namgyeodwosseulkka (inst.)", locale = "ko-Latn", default = true },
+]
