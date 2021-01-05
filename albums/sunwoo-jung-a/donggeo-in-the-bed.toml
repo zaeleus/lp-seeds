@@ -1,0 +1,16 @@
+artist-id = "sunwoo-jung-a"
+kind = "single"
+
+names = [
+  { name = "동거 (in the bed)", locale = "ko", original = true },
+  { name = "Donggeo (in the bed)", locale = "ko-Latn", default = true },
+  { name = "in the bed", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-01-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10542161" },
+]

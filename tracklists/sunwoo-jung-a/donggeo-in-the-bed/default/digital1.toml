@@ -1,0 +1,13 @@
+medium-ids = [
+  "sunwoo-jung-a/donggeo-in-the-bed/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sunwoo-jung-a/donggeo-in-the-bed"
+duration = "4:26"
+
+[[tracks]]
+position = 2
+song-id = "sunwoo-jung-a/donggeo-in-the-bed-inst"
+duration = "4:26"

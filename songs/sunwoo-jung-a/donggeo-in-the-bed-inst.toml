@@ -1,0 +1,5 @@
+names = [
+  { name = "동거 (in the bed) (inst.)", locale = "ko", original = true },
+  { name = "Donggeo (in the bed) (inst.)", locale = "ko-Latn", default = true },
+  { name = "in the bed (inst.)", locale = "en" },
+]
