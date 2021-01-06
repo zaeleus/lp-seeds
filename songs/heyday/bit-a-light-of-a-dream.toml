@@ -1,0 +1,5 @@
+names = [
+  { name = "빛 (A Light of A Dream)", locale = "ko", original = true },
+  { name = "Bit (A Light of A Dream)", locale = "ko-Latn", default = true },
+  { name = "A Light of A Dream", locale = "en" },
+]
