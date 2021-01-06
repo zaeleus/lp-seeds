@@ -1,0 +1,13 @@
+medium-ids = [
+  "2f/sorry-run-on-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2f/sorry"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "2f/sorry-inst"
+duration = "3:39"
