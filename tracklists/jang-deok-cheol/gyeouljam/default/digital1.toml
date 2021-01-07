@@ -1,0 +1,13 @@
+medium-ids = [
+  "jang-deok-cheol/gyeouljam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jang-deok-cheol/gyeouljam"
+duration = "4:07"
+
+[[tracks]]
+position = 2
+song-id = "jang-deok-cheol/gyeouljam-inst"
+duration = "4:07"

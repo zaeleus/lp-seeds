@@ -1,0 +1,15 @@
+artist-id = "jang-deok-cheol"
+kind = "single"
+
+names = [
+  { name = "겨울잠", locale = "ko", original = true },
+  { name = "Gyeouljam", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10544166" },
+]
