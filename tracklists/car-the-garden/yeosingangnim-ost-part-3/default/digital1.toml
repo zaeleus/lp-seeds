@@ -1,0 +1,13 @@
+medium-ids = [
+  "car-the-garden/yeosingangnim-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "car-the-garden/happy-ending"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "car-the-garden/happy-ending-inst"
+duration = "3:02"
