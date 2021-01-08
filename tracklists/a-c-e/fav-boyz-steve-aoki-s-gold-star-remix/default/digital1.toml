@@ -1,0 +1,18 @@
+medium-ids = [
+  "a-c-e/fav-boyz-steve-aoki-s-gold-star-remix/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "a-c-e/fav-boyz-steve-aoki-s-gold-star-remix"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "a-c-e/fav-boyz-feat-thutmose-steve-aoki-s-gold-star-remix"
+duration = "3:50"
+
+[[tracks]]
+position = 3
+song-id = "a-c-e/fav-boyz-steve-aoki-s-gold-star-remix-instrumental"
+duration = "3:50"
