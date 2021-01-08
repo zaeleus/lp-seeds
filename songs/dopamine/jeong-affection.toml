@@ -1,0 +1,5 @@
+names = [
+  { name = "정 (Affection)", locale = "ko", original = true },
+  { name = "Jeong (Affection)", locale = "ko-Latn", default = true },
+  { name = "Affection", locale = "en" },
+]

@@ -1,0 +1,15 @@
+artist-id = "dopamine"
+kind = "single"
+
+names = [
+  { name = "정", locale = "ko", original = true },
+  { name = "Jeong", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10544523" },
+]
