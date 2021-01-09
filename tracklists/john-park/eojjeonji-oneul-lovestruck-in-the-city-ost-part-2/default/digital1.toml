@@ -1,0 +1,13 @@
+medium-ids = [
+  "john-park/eojjeonji-oneul-lovestruck-in-the-city-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "john-park/eojjeonji-oneul"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "john-park/eojjeonji-oneul-inst"
+duration = "3:38"

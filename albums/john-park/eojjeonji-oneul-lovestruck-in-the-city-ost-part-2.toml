@@ -1,0 +1,16 @@
+artist-id = "john-park"
+kind = "single"
+
+names = [
+  { name = "어쩐지 오늘 (도시남녀의 사랑법 OST Part.2)", locale = "ko", original = true },
+  { name = "Eojjeonji Oneul (Dosinamnyeoui Sarangbeop OST Part.2)", locale = "ko-Latn" },
+  { name = "Eojjeonji Oneul (Lovestruck in the City OST Part.2)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10544510" },
+]
