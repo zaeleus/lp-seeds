@@ -1,0 +1,5 @@
+names = [
+  { name = "아직 끝난거 아이다 (Not over)", locale = "ko", original = true },
+  { name = "Ajik Kkeunnangeo Aida (Not over)", locale = "ko-Latn", default = true },
+  { name = "Not over", locale = "en" },
+]

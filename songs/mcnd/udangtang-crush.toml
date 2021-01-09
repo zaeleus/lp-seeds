@@ -1,0 +1,5 @@
+names = [
+  { name = "우당탕 (Crush)", locale = "ko", original = true },
+  { name = "Udangtang (Crush)", locale = "ko-Latn", default = true },
+  { name = "Crush", locale = "en" },
+]
