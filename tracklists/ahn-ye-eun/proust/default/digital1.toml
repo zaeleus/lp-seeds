@@ -1,0 +1,13 @@
+medium-ids = [
+  "ahn-ye-eun/proust/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ahn-ye-eun/proust"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "ahn-ye-eun/proust-inst"
+duration = "3:59"

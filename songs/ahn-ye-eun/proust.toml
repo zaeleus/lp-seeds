@@ -1,0 +1,5 @@
+names = [
+  { name = "Proust (프루스트)", locale = "ko", original = true },
+  { name = "Proust (Peuruseuteu)", locale = "ko-Latn" },
+  { name = "Proust", locale = "en", default = true },
+]
