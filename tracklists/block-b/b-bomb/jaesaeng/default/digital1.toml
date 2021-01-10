@@ -1,0 +1,13 @@
+medium-ids = [
+  "block-b/b-bomb/jaesaeng/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "block-b/b-bomb/jaesaeng"
+duration = "4:35"
+
+[[tracks]]
+position = 2
+song-id = "block-b/b-bomb/jaesaeng-inst"
+duration = "4:35"
