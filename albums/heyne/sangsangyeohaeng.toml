@@ -1,0 +1,15 @@
+artist-id = "heyne"
+kind = "single"
+
+names = [
+  { name = "상상여행", locale = "ko", original = true },
+  { name = "Sangsangyeohaeng", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10536701" },
+]
