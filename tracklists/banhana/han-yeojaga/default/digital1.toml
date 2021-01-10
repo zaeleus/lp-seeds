@@ -1,0 +1,13 @@
+medium-ids = [
+  "banhana/han-yeojaga/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "banhana/han-yeojaga"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "banhana/han-yeojaga-inst"
+duration = "3:39"
