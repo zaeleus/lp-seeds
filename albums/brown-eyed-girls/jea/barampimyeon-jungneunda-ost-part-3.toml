@@ -1,0 +1,16 @@
+artist-id = "brown-eyed-girls/jea"
+kind = "single"
+
+names = [
+  { name = "바람피면 죽는다 OST Part.3", locale = "ko", original = true },
+  { name = "Barampimyeon Jungneunda OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Cheat on Me, If You Can OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2020-12-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10539981" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "brown-eyed-girls/jea/barampimyeon-jungneunda-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "brown-eyed-girls/jea/fade-out"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "brown-eyed-girls/jea/fade-out-inst"
+duration = "3:42"
