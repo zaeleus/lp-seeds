@@ -1,0 +1,13 @@
+medium-ids = [
+  "baek-a-yeon/chupji-anke/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "baek-a-yeon/chupji-anke"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "baek-a-yeon/chupji-anke-inst"
+duration = "3:27"
