@@ -1,0 +1,15 @@
+artist-id = "mamamoo/solar"
+kind = "single"
+
+names = [
+  { name = "Blue Bird (런 온 OST Part.3)", locale = "ko", original = true },
+  { name = "Blue Bird (Run On OST Part.3)", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10538618" },
+]

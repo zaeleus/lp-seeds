@@ -1,0 +1,13 @@
+medium-ids = [
+  "mamamoo/solar/blue-bird-run-on-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/solar/blue-bird"
+duration = "4:46"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/solar/blue-bird-inst"
+duration = "4:46"
