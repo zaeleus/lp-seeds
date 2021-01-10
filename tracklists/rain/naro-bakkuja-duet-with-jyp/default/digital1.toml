@@ -1,0 +1,8 @@
+medium-ids = [
+  "rain/naro-bakkuja-duet-with-jyp/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rain/naro-bakkuja-duet-with-jyp"
+duration = "3:18"

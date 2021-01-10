@@ -1,0 +1,15 @@
+artist-id = "rain"
+kind = "single"
+
+names = [
+  { name = "나로 바꾸자 (duet with JYP)", locale = "ko", original = true },
+  { name = "Naro Bakkuja (duet with JYP)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2020-12-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10540785" },
+]

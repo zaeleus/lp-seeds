@@ -1,0 +1,4 @@
+names = [
+  { name = "나로 바꾸자 (duet with JYP)", locale = "ko", original = true },
+  { name = "Naro Bakkuja (duet with JYP)", locale = "ko-Latn", default = true },
+]
