@@ -1,0 +1,23 @@
+medium-ids = [
+  "40/winter-play/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "40/winterplay-intro"
+duration = "0:45"
+
+[[tracks]]
+position = 2
+song-id = "40/joeunbam-doeseyo"
+duration = "4:01"
+
+[[tracks]]
+position = 3
+song-id = "40/i-don-t-know-what-to-do"
+duration = "3:32"
+
+[[tracks]]
+position = 4
+song-id = "40/seourui-bam"
+duration = "4:07"
