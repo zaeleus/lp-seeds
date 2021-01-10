@@ -1,0 +1,13 @@
+medium-ids = [
+  "lydia/kairos-ost-part-15/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lydia/haruga-eongmangiya"
+duration = "4:22"
+
+[[tracks]]
+position = 2
+song-id = "lydia/haruga-eongmangiya-inst"
+duration = "4:22"
