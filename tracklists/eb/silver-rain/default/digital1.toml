@@ -1,0 +1,13 @@
+medium-ids = [
+  "eb/silver-rain/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eb/silver-rain-feat-lokid"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "eb/silver-rain-inst"
+duration = "3:34"
