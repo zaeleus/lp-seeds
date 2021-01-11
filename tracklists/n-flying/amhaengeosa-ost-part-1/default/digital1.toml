@@ -1,0 +1,13 @@
+medium-ids = [
+  "n-flying/amhaengeosa-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "n-flying/i-ll-find-you"
+duration = "4:31"
+
+[[tracks]]
+position = 2
+song-id = "n-flying/i-ll-find-you-inst"
+duration = "4:31"
