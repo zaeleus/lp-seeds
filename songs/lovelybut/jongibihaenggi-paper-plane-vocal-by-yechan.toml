@@ -1,0 +1,5 @@
+names = [
+  { name = "종이비행기 (Paper Plane) (Vocal by 예찬)", locale = "ko", original = true },
+  { name = "Jongibihaenggi (Paper Plane) (Vocal by YECHAN)", locale = "ko-Latn", default = true },
+  { name = "Paper Plane (Vocal by YECHAN)", locale = "en" },
+]
