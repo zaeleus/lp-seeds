@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-in/clef-crew-project-take-three/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-in/eotteoke-haeya-halkkayo"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "jung-in/eotteoke-haeya-halkkayo-inst"
+duration = "3:41"
