@@ -1,0 +1,14 @@
+artist-id = "kirin"
+kind = "single"
+
+names = [
+  { name = "PLAY LIFE MUSIC Pt.2", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-01-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10547311" },
+]
