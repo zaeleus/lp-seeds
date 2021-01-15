@@ -1,0 +1,13 @@
+medium-ids = [
+  "day6-even-of-day/bimil-ier-vol-1-sarang-ige-manna-bwa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "day6-even-of-day/sarang-ige-manna-bwa"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "day6-even-of-day/sarang-ige-manna-bwa-iinst"
+duration = "3:24"

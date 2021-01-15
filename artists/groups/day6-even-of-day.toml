@@ -1,0 +1,8 @@
+kind = "group"
+# started-on = ""
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "DAY6 (Even of Day)", locale = "ko", original = true, default = true },
+]
