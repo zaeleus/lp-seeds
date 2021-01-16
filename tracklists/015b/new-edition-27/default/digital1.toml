@@ -1,0 +1,13 @@
+medium-ids = [
+  "015b/new-edition-27/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "015b/nuneul-tteugo-kkuneun-kkum-feat-kimmuseum"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "015b/nuneul-tteugo-kkuneun-kkum-inst"
+duration = "3:22"
