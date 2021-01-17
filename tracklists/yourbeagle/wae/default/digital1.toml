@@ -1,0 +1,8 @@
+medium-ids = [
+  "yourbeagle/wae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/wae-feat-jayci-yucca"
+duration = "2:42"

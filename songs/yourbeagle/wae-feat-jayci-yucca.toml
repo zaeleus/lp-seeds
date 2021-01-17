@@ -1,0 +1,4 @@
+names = [
+  { name = "왜 (feat. Jayci yucca)", locale = "ko", original = true },
+  { name = "Wae (feat. Jayci yucca)", locale = "ko-Latn", default = true },
+]
