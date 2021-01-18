@@ -1,0 +1,13 @@
+medium-ids = [
+  "bumkey/lost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bumkey/haneullo-sseuneun-pyeonji-feat-none"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "bumkey/holyhood-piano-ver"
+duration = "2:48"

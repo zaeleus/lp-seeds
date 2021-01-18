@@ -1,0 +1,5 @@
+names = [
+  { name = "홀리후드 (Piano Ver.)", locale = "ko", original = true },
+  { name = "Hollihudeu (Piano Ver.)", locale = "ko-Latn" },
+  { name = "HOLYHOOD (Piano Ver.)", locale = "en", default = true },
+]
