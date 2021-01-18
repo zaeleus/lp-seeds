@@ -1,0 +1,5 @@
+names = [
+  { name = "때찌 (That G)", locale = "ko", original = true },
+  { name = "Ttaejji (That G)", locale = "ko-Latn" },
+  { name = "That G", locale = "en", default = true },
+]

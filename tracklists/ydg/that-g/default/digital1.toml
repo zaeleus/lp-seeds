@@ -1,0 +1,8 @@
+medium-ids = [
+  "ydg/that-g/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ydg/that-g"
+duration = "2:23"
