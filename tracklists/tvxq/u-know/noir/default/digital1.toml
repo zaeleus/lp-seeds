@@ -1,0 +1,28 @@
+medium-ids = [
+  "tvxq/u-know/noir/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "tvxq/u-know/time-machine"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "tvxq/u-know/thank-u"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song-id = "tvxq/u-know/loco-house-party"
+duration = "3:11"
+
+[[tracks]]
+position = 5
+song-id = "tvxq/u-know/need-you-right-now"
+duration = "3:11"
+
+[[tracks]]
+position = 6
+song-id = "tvxq/u-know/bulmyeon-la-rosa-feat-shin-ye-eun"
+duration = "3:17"
