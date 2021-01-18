@@ -1,0 +1,16 @@
+artist-id = "gfriend/sinb"
+kind = "single"
+
+names = [
+  { name = "아름다웠던 우리에게 OST Part.2", locale = "ko", original = true },
+  { name = "Areumdawotdeon Uriege OST Part.2", locale = "ko-Latn", default = true },
+  { name = "A Love So Beautiful OST Part.2", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-01-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10549144" },
+]

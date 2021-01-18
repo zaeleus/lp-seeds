@@ -1,0 +1,13 @@
+medium-ids = [
+  "gfriend/sinb/areumdawotdeon-uriege-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gfriend/sinb/sarangseureowo"
+duration = "4:12"
+
+[[tracks]]
+position = 2
+song-id = "gfriend/sinb/sarangseureowo-inst"
+duration = "4:12"
