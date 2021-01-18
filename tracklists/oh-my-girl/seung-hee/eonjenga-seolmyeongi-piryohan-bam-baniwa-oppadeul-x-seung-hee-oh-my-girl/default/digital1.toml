@@ -1,0 +1,13 @@
+medium-ids = [
+  "oh-my-girl/seung-hee/eonjenga-seolmyeongi-piryohan-bam-baniwa-oppadeul-x-seung-hee-oh-my-girl/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-my-girl/seung-hee/eonjenga-seolmyeongi-piryohan-bam-baniwa-oppadeul-x-seung-hee-oh-my-girl"
+duration = "4:42"
+
+[[tracks]]
+position = 2
+song-id = "oh-my-girl/seung-hee/eonjenga-seolmyeongi-piryohan-bam-baniwa-oppadeul-x-seung-hee-oh-my-girl-inst"
+duration = "4:42"

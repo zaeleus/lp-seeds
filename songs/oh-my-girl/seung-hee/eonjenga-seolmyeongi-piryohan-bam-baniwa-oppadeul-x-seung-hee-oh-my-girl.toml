@@ -1,0 +1,4 @@
+names = [
+  { name = "언젠가 설명이 필요한 밤 (바니와 오빠들 X 승희 (오마이걸))", locale = "ko", original = true },
+  { name = "Eonjenga Seolmyeongi Piryohan Bam (Baniwa Oppadeul X Seung Hee (OH MY GIRL))", locale = "ko-Latn", default = true },
+]
