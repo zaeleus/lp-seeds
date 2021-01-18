@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-na-young/geudaeneun-eodie-run-on-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-na-young/geudaeneun-eodie"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "kim-na-young/geudaeneun-eodie-inst"
+duration = "3:23"

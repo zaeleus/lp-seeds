@@ -1,0 +1,15 @@
+artist-id = "kim-na-young"
+kind = "single"
+
+names = [
+  { name = "그대는 어디에 (런 온 OST Part.8)", locale = "ko", original = true },
+  { name = "Geudaeneun Eodie (Run On OST Part.8)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10547282" },
+]
