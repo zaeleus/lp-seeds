@@ -1,0 +1,8 @@
+medium-ids = [
+  "dia-singer/siganeul-geoseulleo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dia-singer/siganeul-geoseulleo"
+duration = "3:30"
