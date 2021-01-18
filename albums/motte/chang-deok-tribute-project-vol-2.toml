@@ -1,0 +1,15 @@
+artist-id = "motte"
+kind = "single"
+
+names = [
+  { name = "장덕 Tribute Project Vol. 2", locale = "ko", original = true },
+  { name = "Chang Deok Tribute Project Vol. 2", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10546874" },
+]

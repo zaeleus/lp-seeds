@@ -1,0 +1,13 @@
+medium-ids = [
+  "motte/chang-deok-tribute-project-vol-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "motte/jeomjeom-deo-gakkawojyeoyo"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "motte/sonyeowa-garodeung"
+duration = "3:46"
