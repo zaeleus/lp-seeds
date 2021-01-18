@@ -1,0 +1,15 @@
+artist-id = "hannah-jung"
+kind = "single"
+
+names = [
+  { name = "아껴서 뭐해 (Feat. 릴러말즈 (Leellamarz))", locale = "ko", original = true },
+  { name = "Akkyeoseo Mwohae (Feat. Leellamarz)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10545256" },
+]
