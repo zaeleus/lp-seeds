@@ -1,0 +1,33 @@
+medium-ids = [
+  "g-i-dle/i-burn/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-i-dle/hann-alone-in-winter"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "g-i-dle/hwaa"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "g-i-dle/moon"
+duration = "3:21"
+
+[[tracks]]
+position = 4
+song-id = "g-i-dle/where-is-love"
+duration = "2:58"
+
+[[tracks]]
+position = 5
+song-id = "g-i-dle/lost"
+duration = "3:02"
+
+[[tracks]]
+position = 6
+song-id = "g-i-dle/dahlia"
+duration = "3:11"
