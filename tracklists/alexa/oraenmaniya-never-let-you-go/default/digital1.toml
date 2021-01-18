@@ -1,0 +1,8 @@
+medium-ids = [
+  "alexa/oraenmaniya-never-let-you-go/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "alexa/oraenmaniya-never-let-you-go"
+duration = "4:05"

@@ -1,0 +1,16 @@
+artist-id = "alexa"
+kind = "single"
+
+names = [
+  { name = "오랜만이야 (Never let you go)", locale = "ko", original = true },
+  { name = "Oraenmaniya (Never let you go)", locale = "ko-Latn", default = true },
+  { name = "Never let you go", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-01-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10547212" },
+]
