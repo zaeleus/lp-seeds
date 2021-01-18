@@ -1,0 +1,13 @@
+medium-ids = [
+  "koh-na-young/iman-heeojineunge-manneun-geot-gata/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "koh-na-young/iman-heeojineunge-manneun-geot-gata"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "koh-na-young/iman-heeojineunge-manneun-geot-gata-inst"
+duration = "3:59"
