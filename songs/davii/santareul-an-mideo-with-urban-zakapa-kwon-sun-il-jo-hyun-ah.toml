@@ -1,0 +1,4 @@
+names = [
+  { name = "산타를 안 믿어 with 어반자카파 (권순일, 조현아)", locale = "ko", original = true },
+  { name = "Santareul An Mideo with Urban Zakapa (Kwon Sun Il, Jo Hyun Ah)", locale = "ko-Latn", default = true },
+]
