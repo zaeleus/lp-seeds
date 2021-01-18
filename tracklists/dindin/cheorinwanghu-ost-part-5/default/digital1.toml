@@ -1,0 +1,13 @@
+medium-ids = [
+  "dindin/cheorinwanghu-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dindin/keep-going"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "dindin/keep-going-inst"
+duration = "3:56"

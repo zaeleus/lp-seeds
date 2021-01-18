@@ -1,0 +1,16 @@
+artist-id = "dindin"
+kind = "single"
+
+names = [
+  { name = "철인왕후 OST Part. 5", locale = "ko", original = true },
+  { name = "Cheorinwanghu OST Part. 5", locale = "ko-Latn", default = true },
+  { name = "Queen Cheorin OST Part. 5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-01-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10548419" },
+]
