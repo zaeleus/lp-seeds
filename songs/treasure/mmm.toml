@@ -1,4 +1,5 @@
 names = [
   { name = "음 (MMM)", locale = "ko", original = true },
+  { name = "Eum (MMM)", locale = "ko-Latn" },
   { name = "MMM", locale = "en", default = true },
 ]

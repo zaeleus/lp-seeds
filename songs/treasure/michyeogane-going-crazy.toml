@@ -1,0 +1,5 @@
+names = [
+  { name = "미쳐가네 (GOING CRAZY)", locale = "ko", original = true },
+  { name = "Michyeogane (GOING CRAZY)", locale = "ko-Latn", default = true },
+  { name = "GOING CRAZY", locale = "en" },
+]
