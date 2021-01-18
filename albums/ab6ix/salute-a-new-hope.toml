@@ -1,0 +1,14 @@
+artist-id = "ab6ix"
+kind = "ep"
+
+names = [
+  { name = "SALUTE: A NEW HOPE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-01-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10549120" },
+]
