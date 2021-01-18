@@ -1,0 +1,4 @@
+names = [
+  { name = "정당방위 (Feat. 우원재, 넉살, 창모)", locale = "ko", original = true },
+  { name = "Jeongdangbangwi (Feat. Woo Won Jae, Nucksal, CHANGMO)", locale = "ko-Latn", default = true },
+]

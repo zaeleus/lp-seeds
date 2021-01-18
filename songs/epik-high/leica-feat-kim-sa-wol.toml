@@ -1,0 +1,4 @@
+names = [
+  { name = "Leica (Feat. 김사월)", locale = "ko", original = true },
+  { name = "Leica (Feat. Kim Sa Wol)", locale = "ko-Latn", default = true },
+]

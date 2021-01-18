@@ -1,0 +1,15 @@
+artist-id = "epik-high"
+kind = "lp"
+
+names = [
+  { name = "Epik High Is Here 上", locale = "ko", original = true },
+  { name = "Epik High Is Here (Part 1)", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10549175" },
+]

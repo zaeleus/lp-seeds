@@ -1,0 +1,4 @@
+names = [
+  { name = "수상소감 (Feat. B.I)", locale = "ko", original = true },
+  { name = "Susangsogam (Feat. B.I)", locale = "ko-Latn", default = true },
+]
