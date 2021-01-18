@@ -1,0 +1,5 @@
+names = [
+  { name = "향수 (PERFUME)", locale = "ko", original = true },
+  { name = "Hyangsu (PERFUME)", locale = "ko-Latn", default = true },
+  { name = "PERFUME", locale = "en" },
+]
