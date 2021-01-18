@@ -1,0 +1,15 @@
+artist-id = "yoo-seung-woo"
+kind = "single"
+
+names = [
+  { name = "사랑해야 할 사람", locale = "ko", original = true },
+  { name = "Saranghaeya Hal Saram", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10548618" },
+]
