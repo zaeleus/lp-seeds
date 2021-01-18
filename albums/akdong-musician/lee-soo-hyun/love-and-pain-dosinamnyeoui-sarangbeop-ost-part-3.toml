@@ -1,0 +1,16 @@
+artist-id = "akdong-musician/lee-soo-hyun"
+kind = "single"
+
+names = [
+  { name = "Love And Pain (도시남녀의 사랑법 OST Part.3)", locale = "ko", original = true },
+  { name = "Love And Pain (Dosinamnyeoui Sarangbeop OST Part.3)", locale = "ko-Latn", default = true },
+  { name = "Love And Pain (Lovestruck in the City OST Part.3)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-01-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10548515" },
+]

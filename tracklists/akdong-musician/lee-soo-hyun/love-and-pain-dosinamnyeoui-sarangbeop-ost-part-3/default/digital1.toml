@@ -1,0 +1,13 @@
+medium-ids = [
+  "akdong-musician/lee-soo-hyun/love-and-pain-dosinamnyeoui-sarangbeop-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "akdong-musician/lee-soo-hyun/love-and-pain"
+duration = "4:24"
+
+[[tracks]]
+position = 2
+song-id = "akdong-musician/lee-soo-hyun/love-and-pain-inst"
+duration = "4:24"
