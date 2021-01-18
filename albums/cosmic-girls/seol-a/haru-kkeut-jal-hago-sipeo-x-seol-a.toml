@@ -1,0 +1,15 @@
+artist-id = "cosmic-girls/seol-a"
+kind = "single"
+
+names = [
+  { name = "하루 끝 (잘 하고 싶어 X 설아)", locale = "ko", original = true },
+  { name = "Haru Kkeut (Jal Hago Sipeo X Seol A)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10540845" },
+]

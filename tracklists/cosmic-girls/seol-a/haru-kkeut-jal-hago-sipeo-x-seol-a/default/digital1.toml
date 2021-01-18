@@ -1,0 +1,13 @@
+medium-ids = [
+  "cosmic-girls/seol-a/haru-kkeut-jal-hago-sipeo-x-seol-a/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cosmic-girls/seol-a/haru-kkeut"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "cosmic-girls/seol-a/haru-kkeut-inst"
+duration = "3:45"
