@@ -1,0 +1,38 @@
+medium-ids = [
+  "cravity/hideout-be-our-voice-season-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cravity/my-turn"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "cravity/call-my-name"
+duration = "3:49"
+
+[[tracks]]
+position = 3
+song-id = "cravity/mammoth"
+duration = "3:06"
+
+[[tracks]]
+position = 4
+song-id = "cravity/bad-habits"
+duration = "3:36"
+
+[[tracks]]
+position = 5
+song-id = "cravity/moonlight"
+duration = "3:15"
+
+[[tracks]]
+position = 6
+song-id = "cravity/dangerous"
+duration = "3:39"
+
+[[tracks]]
+position = 7
+song-id = "cravity/give-me-your-love"
+duration = "3:29"
