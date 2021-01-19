@@ -1,0 +1,5 @@
+names = [
+  { name = "눈부시게 빛이 나던 그 날 (I.P.U)", locale = "ko", original = true },
+  { name = "Nunbusige Bichi Nadeon Geu Nal (I.P.U)", locale = "ko-Latn", default = true },
+  { name = "I.P.U", locale = "en" },
+]

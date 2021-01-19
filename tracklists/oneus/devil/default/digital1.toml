@@ -1,0 +1,58 @@
+medium-ids = [
+  "oneus/devil/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oneus/intro-devil-is-in-the-detail"
+duration = "1:34"
+
+[[tracks]]
+position = 2
+song-id = "oneus/banbakbulga-no-diggity"
+duration = "3:32"
+
+[[tracks]]
+position = 3
+song-id = "oneus/sigeun-eumsik-leftover"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "oneus/wanbyeokhaji-anado-gwaenchana-incomplete"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "oneus/youth"
+duration = "3:40"
+
+[[tracks]]
+position = 6
+song-id = "oneus/bbusyeo"
+duration = "3:15"
+
+[[tracks]]
+position = 7
+song-id = "oneus/uriui-siganeun-geokkuro-heureunda-rewind"
+duration = "3:14"
+
+[[tracks]]
+position = 8
+song-id = "oneus/lion-heart"
+duration = "3:13"
+
+[[tracks]]
+position = 9
+song-id = "oneus/what-you-doing"
+duration = "3:28"
+
+[[tracks]]
+position = 10
+song-id = "oneus/nunbusige-bichi-nadeon-geu-nal-i-p-u"
+duration = "3:34"
+
+[[tracks]]
+position = 11
+song-id = "oneus/outro-connect-with-us"
+duration = "1:07"

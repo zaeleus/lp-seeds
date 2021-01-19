@@ -1,0 +1,5 @@
+names = [
+  { name = "반박불가 (No diggity)", locale = "ko", original = true },
+  { name = "Banbakbulga (No diggity)", locale = "ko-Latn", default = true },
+  { name = "No diggity", locale = "en" },
+]

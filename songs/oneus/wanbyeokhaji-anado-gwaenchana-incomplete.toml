@@ -1,0 +1,5 @@
+names = [
+  { name = "완벽하지 않아도 괜찮아 (Incomplete)", locale = "ko", original = true },
+  { name = "Wanbyeokhaji Anado Gwaenchana (Incomplete)", locale = "ko-Latn", default = true },
+  { name = "Incomplete", locale = "en" },
+]

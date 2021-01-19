@@ -1,0 +1,5 @@
+names = [
+  { name = "우리의 시간은 거꾸로 흐른다 (Rewind)", locale = "ko", original = true },
+  { name = "Uriui Siganeun Geokkuro Heureunda (Rewind)", locale = "ko-Latn", default = true },
+  { name = "Rewind", locale = "en" },
+]

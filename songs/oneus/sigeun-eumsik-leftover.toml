@@ -1,0 +1,5 @@
+names = [
+  { name = "식은 음식 (Leftover)", locale = "ko", original = true },
+  { name = "Sigeun Eumsik (Leftover)", locale = "ko-Latn", default = true },
+  { name = "Leftover", locale = "en" },
+]
