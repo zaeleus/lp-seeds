@@ -1,0 +1,15 @@
+artist-id = "chung-ha"
+kind = "single"
+
+names = [
+  { name = "X (걸어온 길에 꽃밭 따윈 없었죠)", locale = "ko", original = true },
+  { name = "X (Georeoon Gire Kkotbat Ttawin Eopseotjyo)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10549554" },
+]
