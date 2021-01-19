@@ -1,0 +1,23 @@
+medium-ids = [
+  "berrygood/undying-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "berrygood/hallae-time-for-me"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "berrygood/haruiteul-utgo-saheullaheul-ulgo"
+duration = "4:49"
+
+[[tracks]]
+position = 3
+song-id = "berrygood/hamkke-tteonayo-accio"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "berrygood/hallae-time-for-me-inst"
+duration = "3:20"

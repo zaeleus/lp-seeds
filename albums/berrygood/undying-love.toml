@@ -1,0 +1,14 @@
+artist-id = "berrygood"
+kind = "ep"
+
+names = [
+  { name = "UNDYING LOVE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-01-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10549257" },
+]
