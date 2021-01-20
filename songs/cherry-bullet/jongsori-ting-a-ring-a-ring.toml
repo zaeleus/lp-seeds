@@ -1,0 +1,5 @@
+names = [
+  { name = "종소리 (Ting-a-ring-a-ring)", locale = "ko", original = true },
+  { name = "Jongsori (Ting-a-ring-a-ring)", locale = "ko-Latn", default = true },
+  { name = "Ting-a-ring-a-ring", locale = "en" },
+]

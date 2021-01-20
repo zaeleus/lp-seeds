@@ -1,0 +1,5 @@
+names = [
+  { name = "폼 나게 (Keep Your Head Up)", locale = "ko", original = true },
+  { name = "Pom Nage (Keep Your Head Up)", locale = "ko-Latn", default = true },
+  { name = "Keep Your Head Up", locale = "en" },
+]

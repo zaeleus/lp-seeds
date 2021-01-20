@@ -1,0 +1,28 @@
+medium-ids = [
+  "cherry-bullet/cherry-rush/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cherry-bullet/love-so-sweet"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "cherry-bullet/rapampa-follow-me"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "cherry-bullet/pom-nage-keep-your-head-up"
+duration = "3:09"
+
+[[tracks]]
+position = 4
+song-id = "cherry-bullet/meotdaero-hae-whatever"
+duration = "3:39"
+
+[[tracks]]
+position = 5
+song-id = "cherry-bullet/jongsori-ting-a-ring-a-ring"
+duration = "3:47"
