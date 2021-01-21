@@ -1,0 +1,15 @@
+artist-id = "hynn"
+kind = "single"
+
+names = [
+  { name = "그대 없이 그대와", locale = "ko", original = true },
+  { name = "Geudae Eopsi Geudaewa", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10550872" },
+]

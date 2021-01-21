@@ -1,0 +1,13 @@
+medium-ids = [
+  "hynn/geudae-eopsi-geudaewa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hynn/geudae-eopsi-geudaewa"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "hynn/geudae-eopsi-geudaewa-inst"
+duration = "3:52"
