@@ -1,0 +1,23 @@
+medium-ids = [
+  "saturday/only-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saturday/only-you"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "saturday/in-your-eyes"
+duration = "3:45"
+
+[[tracks]]
+position = 3
+song-id = "saturday/only-you-inst"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "saturday/in-your-eyes-inst"
+duration = "3:45"

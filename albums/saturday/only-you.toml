@@ -1,0 +1,14 @@
+artist-id = "saturday"
+kind = "single"
+
+names = [
+  { name = "Only You", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-01-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10551329" },
+]
