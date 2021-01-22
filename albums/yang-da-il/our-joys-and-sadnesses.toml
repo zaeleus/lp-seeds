@@ -1,0 +1,14 @@
+artist-id = "yang-da-il"
+kind = "lp"
+
+names = [
+  { name = "our joys and sadnesses", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-01-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10551701" },
+]

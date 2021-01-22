@@ -1,0 +1,63 @@
+medium-ids = [
+  "yang-da-il/our-joys-and-sadnesses/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yang-da-il/hansum"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "yang-da-il/apa"
+duration = "4:31"
+
+[[tracks]]
+position = 3
+song-id = "yang-da-il/joy"
+duration = "2:58"
+
+[[tracks]]
+position = 4
+song-id = "yang-da-il/yojeum"
+duration = "4:40"
+
+[[tracks]]
+position = 5
+song-id = "yang-da-il/nothin-without-you"
+duration = "3:32"
+
+[[tracks]]
+position = 6
+song-id = "yang-da-il/ihae"
+duration = "4:42"
+
+[[tracks]]
+position = 7
+song-id = "yang-da-il/annyeong"
+duration = "3:19"
+
+[[tracks]]
+position = 8
+song-id = "yang-da-il/my-love"
+duration = "4:41"
+
+[[tracks]]
+position = 9
+song-id = "yang-da-il/naman-ireoke"
+duration = "4:26"
+
+[[tracks]]
+position = 10
+song-id = "yang-da-il/malhaji-anado"
+duration = "3:37"
+
+[[tracks]]
+position = 11
+song-id = "yang-da-il/neol-seneun-bam"
+duration = "3:14"
+
+[[tracks]]
+position = 12
+song-id = "yang-da-il/darling"
+duration = "3:53"
