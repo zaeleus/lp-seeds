@@ -1,0 +1,14 @@
+artist-id = "bb"
+kind = "lp"
+
+names = [
+  { name = "BB lofi album", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-01-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10551542" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "그냥 그래 (Feat. 그늘)", locale = "ko", original = true },
+  { name = "Geunyang Geurae (Feat. Geuneul)", locale = "ko-Latn", default = true },
+]

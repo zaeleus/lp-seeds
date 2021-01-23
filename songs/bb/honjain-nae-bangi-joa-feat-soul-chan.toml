@@ -1,0 +1,4 @@
+names = [
+  { name = "혼자인 내 방이 좋아 (Feat. 솔찬)", locale = "ko", original = true },
+  { name = "Honjain Nae Bangi Joa (Feat. Soul Chan)", locale = "ko-Latn", default = true },
+]
