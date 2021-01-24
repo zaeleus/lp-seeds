@@ -1,0 +1,8 @@
+medium-ids = [
+  "lambc/part-1-emotional-i-ll-see-you-when-i-see-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lambc/emotional"
+duration = "3:20"
