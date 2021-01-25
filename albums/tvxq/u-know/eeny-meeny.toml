@@ -1,0 +1,14 @@
+artist-id = "tvxq/u-know"
+kind = "single"
+
+names = [
+  { name = "Eeny Meeny", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-01-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10552753" },
+]
