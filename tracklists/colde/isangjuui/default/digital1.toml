@@ -1,0 +1,38 @@
+medium-ids = [
+  "colde/isangjuui/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "colde/lighter"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "colde/ulpeu"
+duration = "4:08"
+
+[[tracks]]
+position = 3
+song-id = "colde/misulgwaneseo"
+duration = "3:20"
+
+[[tracks]]
+position = 4
+song-id = "colde/kkum"
+duration = "3:20"
+
+[[tracks]]
+position = 5
+song-id = "colde/tunnel"
+duration = "1:57"
+
+[[tracks]]
+position = 6
+song-id = "colde/amudo-moreuneun-norae"
+duration = "4:49"
+
+[[tracks]]
+position = 7
+song-id = "colde/blue-candle"
+duration = "3:18"
