@@ -1,0 +1,5 @@
+names = [
+  { name = "암오케 (Feat. 픽보이 (Peakboy))", locale = "ko", original = true },
+  { name = "Amoke (Feat. Peakboy)", locale = "ko-Latn" },
+  { name = "I'm OK (Feat. Peakboy)", locale = "en", default = true },
+]
