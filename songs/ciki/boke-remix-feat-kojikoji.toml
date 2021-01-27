@@ -1,0 +1,3 @@
+names = [
+  { name = "BOKE Remix (feat. kojikoji)", locale = "ko", original = true, default = true },
+]
