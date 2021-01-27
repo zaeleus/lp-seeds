@@ -1,0 +1,8 @@
+medium-ids = [
+  "ciki/endless-summer/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ciki/endless-summer"
+duration = "3:20"
