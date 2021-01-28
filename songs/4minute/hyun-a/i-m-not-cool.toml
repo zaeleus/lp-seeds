@@ -1,0 +1,10 @@
+names = [
+  { name = "I'm Not Cool", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]

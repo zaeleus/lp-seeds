@@ -1,0 +1,21 @@
+artist-id = "4minute/hyun-a"
+kind = "ep"
+
+names = [
+  { name = "I'm Not Cool", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "4minute/hyun-a"
+names = [
+  { name = "현아", locale = "ko", original = true },
+  { name = "HyunA", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10555397" },
+]

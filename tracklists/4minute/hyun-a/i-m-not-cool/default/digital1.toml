@@ -1,0 +1,28 @@
+medium-ids = [
+  "4minute/hyun-a/i-m-not-cool/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "4minute/hyun-a/i-m-not-cool"
+duration = "2:55"
+
+[[tracks]]
+position = 2
+song-id = "4minute/hyun-a/good-girl"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "4minute/hyun-a/show-window"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song-id = "4minute/hyun-a/party-feel-love-feat-dawn"
+duration = "3:30"
+
+[[tracks]]
+position = 5
+song-id = "4minute/hyun-a/flower-shower"
+duration = "3:09"
