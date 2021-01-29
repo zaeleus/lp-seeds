@@ -1,0 +1,13 @@
+medium-ids = [
+  "dalsooobin/mbn-miss-back-part-10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dalsooobin/sign"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "dalsooobin/sign-inst"
+duration = "3:25"
