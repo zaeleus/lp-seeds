@@ -1,0 +1,5 @@
+names = [
+  { name = "레몬사탕 (Lemon Candy)", locale = "ko", original = true },
+  { name = "Lemon Satang (Lemon Candy)", locale = "ko-Latn", default = true },
+  { name = "Lemon Candy", locale = "en" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "pinkfantasy/lemon-satang-lemon-candy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pinkfantasy/lemon-satang-lemon-candy"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "pinkfantasy/lemon-satang-lemon-candy-inst"
+duration = "3:28"
