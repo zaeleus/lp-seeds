@@ -1,0 +1,13 @@
+medium-ids = [
+  "han-all/chueok-sangja/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "han-all/chueok-sangja-acoustic-ver"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "han-all/chueok-sangja"
+duration = "4:05"

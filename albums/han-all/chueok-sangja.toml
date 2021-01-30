@@ -1,0 +1,15 @@
+artist-id = "han-all"
+kind = "single"
+
+names = [
+  { name = "추억 상자", locale = "ko", original = true },
+  { name = "Chueok Sangja", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10552715" },
+]
