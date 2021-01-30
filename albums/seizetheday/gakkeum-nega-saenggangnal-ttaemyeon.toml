@@ -1,0 +1,15 @@
+artist-id = "seizetheday"
+kind = "single"
+
+names = [
+  { name = "가끔 네가 생각날 때면", locale = "ko", original = true },
+  { name = "Gakkeum Nega Saenggangnal Ttaemyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10555708" },
+]

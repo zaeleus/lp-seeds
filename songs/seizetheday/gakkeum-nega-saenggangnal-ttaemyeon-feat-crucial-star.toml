@@ -1,0 +1,4 @@
+names = [
+  { name = "가끔 네가 생각날 때면 (feat. 크루셜스타)", locale = "ko", original = true },
+  { name = "Gakkeum Nega Saenggangnal Ttaemyeon (Feat. Crucial Star)", locale = "ko-Latn", default = true },
+]
