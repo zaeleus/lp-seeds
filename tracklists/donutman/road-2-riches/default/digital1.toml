@@ -1,0 +1,33 @@
+medium-ids = [
+  "donutman/road-2-riches/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "donutman/ride-alone"
+duration = "2:25"
+
+[[tracks]]
+position = 2
+song-id = "donutman/haraneun-bumbaebeun-anhago-feat-owen"
+duration = "3:13"
+
+[[tracks]]
+position = 3
+song-id = "donutman/quentin-tarantino-feat-g2-khundi-panda"
+duration = "2:50"
+
+[[tracks]]
+position = 4
+song-id = "donutman/comfortable-feat-blnk"
+duration = "2:47"
+
+[[tracks]]
+position = 5
+song-id = "donutman/4"
+duration = "3:22"
+
+[[tracks]]
+position = 6
+song-id = "donutman/cold-world-feat-kim-hyo-eun"
+duration = "3:34"

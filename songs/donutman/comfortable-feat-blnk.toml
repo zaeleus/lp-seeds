@@ -1,0 +1,5 @@
+names = [
+  { name = "컴포터블 (feat. BLNK)", locale = "ko", original = true },
+  { name = "Keompoteobeul (feat. BLNK)", locale = "ko-Latn" },
+  { name = "Comfortable (feat. BLNK)", locale = "en", default = true },
+]

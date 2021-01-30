@@ -1,0 +1,4 @@
+names = [
+  { name = "하라는 붐뱁은 안하고 (feat. Owen)", locale = "ko", original = true },
+  { name = "Haraneun Bumbaebeun Anhago (feat. Owen)", locale = "ko-Latn", default = true },
+]

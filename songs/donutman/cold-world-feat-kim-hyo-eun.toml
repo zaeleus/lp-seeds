@@ -1,0 +1,4 @@
+names = [
+  { name = "Cold World (feat. 김효은)", locale = "ko", original = true },
+  { name = "Cold World (feat. Kim Hyo Eun)", locale = "ko-Latn", default = true },
+]
