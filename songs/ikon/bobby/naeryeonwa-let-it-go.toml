@@ -1,0 +1,5 @@
+names = [
+  { name = "내려놔 (Let iT Go)", locale = "ko", original = true },
+  { name = "Naeryeonwa (Let iT Go)", locale = "ko-Latn", default = true },
+  { name = "Let iT Go", locale = "en" },
+]

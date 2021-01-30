@@ -1,0 +1,5 @@
+names = [
+  { name = "우아해 (GOrGeOuS)", locale = "ko", original = true },
+  { name = "Uahae (GOrGeOuS)", locale = "ko-Latn", default = true },
+  { name = "GOrGeOuS", locale = "en" },
+]

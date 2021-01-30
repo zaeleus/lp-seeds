@@ -1,0 +1,5 @@
+names = [
+  { name = "주옥 (HeartBROKEN PlaYBoY)", locale = "ko", original = true },
+  { name = "Juok (HeartBROKEN PlaYBoY)", locale = "ko-Latn", default = true },
+  { name = "HeartBROKEN PlaYBoY", locale = "en" },
+]
