@@ -1,0 +1,13 @@
+medium-ids = [
+  "sunnyhill/o-samgwangbilla-ost-part-15/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sunnyhill/maeil-bam-neowa-ibyeolhae"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "sunnyhill/maeil-bam-neowa-ibyeolhae-inst"
+duration = "3:29"
