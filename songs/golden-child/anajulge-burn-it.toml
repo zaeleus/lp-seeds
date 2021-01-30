@@ -1,0 +1,5 @@
+names = [
+  { name = "안아줄게 (Burn It)", locale = "ko", original = true },
+  { name = "Anajulge (Burn It)", locale = "ko-Latn", default = true },
+  { name = "Burn It", locale = "en" },
+]
