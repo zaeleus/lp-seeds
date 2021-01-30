@@ -1,0 +1,28 @@
+medium-ids = [
+  "car-the-garden/bujae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "car-the-garden/geudae-jageun-naui-sesangi-doeeo"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "car-the-garden/pado"
+duration = "3:43"
+
+[[tracks]]
+position = 3
+song-id = "car-the-garden/amureochi-aneun-saram"
+duration = "3:40"
+
+[[tracks]]
+position = 4
+song-id = "car-the-garden/gin-gyeoul-with-o3ohn"
+duration = "2:56"
+
+[[tracks]]
+position = 5
+song-id = "car-the-garden/pureunsaek-yuribyeong"
+duration = "4:27"

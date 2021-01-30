@@ -1,0 +1,4 @@
+names = [
+  { name = "긴 겨울 (With 오존 (O3ohn))", locale = "ko", original = true },
+  { name = "Gin Gyeoul (With O3ohn)", locale = "ko-Latn", default = true },
+]
