@@ -1,0 +1,13 @@
+medium-ids = [
+  "zoin/eonjebuteo-urin-dallajyeosseulkka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zoin/eonjebuteo-urin-dallajyeosseulkka"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "zoin/eonjebuteo-urin-dallajyeosseulkka-inst"
+duration = "4:01"
