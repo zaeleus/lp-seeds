@@ -1,0 +1,14 @@
+artist-id = "dreamcatcher"
+kind = "ep"
+
+names = [
+  { name = "Dystopia: Road to Utopia", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-01-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10552963" },
+]

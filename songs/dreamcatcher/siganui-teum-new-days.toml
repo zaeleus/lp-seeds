@@ -1,0 +1,5 @@
+names = [
+  { name = "시간의 틈 (New days)", locale = "ko", original = true },
+  { name = "Siganui Teum (New days)", locale = "ko-Latn", default = true },
+  { name = "New days", locale = "en" },
+]

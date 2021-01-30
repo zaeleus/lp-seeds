@@ -1,0 +1,38 @@
+medium-ids = [
+  "dreamcatcher/dystopia-road-to-utopia/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dreamcatcher/intro"
+duration = "1:32"
+
+[[tracks]]
+position = 2
+song-id = "dreamcatcher/odd-eye"
+duration = "3:05"
+
+[[tracks]]
+position = 3
+song-id = "dreamcatcher/barama-wind-blows"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "dreamcatcher/poison-love"
+duration = "3:58"
+
+[[tracks]]
+position = 5
+song-id = "dreamcatcher/4-memory"
+duration = "3:09"
+
+[[tracks]]
+position = 6
+song-id = "dreamcatcher/siganui-teum-new-days"
+duration = "3:32"
+
+[[tracks]]
+position = 7
+song-id = "dreamcatcher/odd-eye-inst"
+duration = "3:05"
