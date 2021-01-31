@@ -1,0 +1,16 @@
+artist-id = "exo/xiumin"
+kind = "single"
+
+names = [
+  { name = "철인왕후 OST Part. 7", locale = "ko", original = true },
+  { name = "Cheorinwanghu OST Part. 7", locale = "ko-Latn", default = true },
+  { name = "Queen Cheorin OST Part. 7", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-01-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10556365" },
+]

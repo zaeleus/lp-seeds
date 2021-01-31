@@ -1,0 +1,13 @@
+medium-ids = [
+  "exo/xiumin/cheorinwanghu-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/xiumin/naui-yuilhan-neoege"
+duration = "4:32"
+
+[[tracks]]
+position = 2
+song-id = "exo/xiumin/naui-yuilhan-neoege-inst"
+duration = "4:32"
