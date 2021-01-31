@@ -1,0 +1,13 @@
+medium-ids = [
+  "migyo/geureoke-saranghago-tto-saranghaeseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "migyo/geureoke-saranghago-tto-saranghaeseo"
+duration = "4:28"
+
+[[tracks]]
+position = 2
+song-id = "migyo/geureoke-saranghago-tto-saranghaeseo-inst"
+duration = "4:28"
