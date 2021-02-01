@@ -1,0 +1,4 @@
+names = [
+  { name = "색대로 살아 (Feat. 넉살 & Don Mills)", locale = "ko", original = true },
+  { name = "Saekdaero Sara (Feat. Nucksal & Don Mills)", locale = "ko-Latn", default = true },
+]
