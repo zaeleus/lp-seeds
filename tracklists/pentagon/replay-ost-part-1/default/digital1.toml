@@ -1,0 +1,13 @@
+medium-ids = [
+  "pentagon/replay-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pentagon/honey-drop"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "pentagon/honey-drop-inst"
+duration = "3:28"
