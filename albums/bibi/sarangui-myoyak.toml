@@ -1,0 +1,15 @@
+artist-id = "bibi"
+kind = "single"
+
+names = [
+  { name = "사랑의 묘약", locale = "ko", original = true },
+  { name = "Sarangui Myoyak", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10556888" },
+]

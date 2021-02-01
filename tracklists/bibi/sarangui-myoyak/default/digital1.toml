@@ -1,0 +1,8 @@
+medium-ids = [
+  "bibi/sarangui-myoyak/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bibi/sarangui-myoyak"
+duration = "2:43"
