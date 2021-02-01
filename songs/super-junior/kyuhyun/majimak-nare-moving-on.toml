@@ -1,0 +1,5 @@
+names = [
+  { name = "마지막 날에 (Moving On)", locale = "ko", original = true },
+  { name = "Majimak Nare (Moving On)", locale = "ko-Latn", default = true },
+  { name = "Moving On", locale = "en" },
+]

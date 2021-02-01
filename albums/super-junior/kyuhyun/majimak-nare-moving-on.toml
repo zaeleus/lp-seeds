@@ -1,0 +1,16 @@
+artist-id = "super-junior/kyuhyun"
+kind = "single"
+
+names = [
+  { name = "마지막 날에 (Moving On)", locale = "ko", original = true },
+  { name = "Majimak Nare (Moving On)", locale = "ko-Latn", default = true },
+  { name = "Moving On", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-01-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10553483" },
+]
