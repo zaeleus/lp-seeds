@@ -1,0 +1,13 @@
+medium-ids = [
+  "girls-generation/yuri/ibyeoryuye-iljuil-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "girls-generation/yuri/ibyeol-yuye"
+duration = "4:21"
+
+[[tracks]]
+position = 2
+song-id = "girls-generation/yuri/ibyeol-yuye-inst"
+duration = "4:21"
