@@ -1,0 +1,13 @@
+medium-ids = [
+  "gfriend/eunha/seonbae-geu-ripseutik-bareuji-mayo-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gfriend/eunha/seolle-pit-a-pat"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "gfriend/eunha/seolle-pit-a-pat-inst"
+duration = "3:40"

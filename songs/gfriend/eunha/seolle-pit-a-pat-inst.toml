@@ -1,0 +1,5 @@
+names = [
+  { name = "설레 (Pit-A-Pat) (Inst.)", locale = "ko", original = true },
+  { name = "Seolle (Pit-A-Pat) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Pit-A-Pat (Inst.)", locale = "en" },
+]
