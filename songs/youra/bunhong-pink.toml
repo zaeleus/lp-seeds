@@ -1,0 +1,5 @@
+names = [
+  { name = "분홍 (PINK!)", locale = "ko", original = true },
+  { name = "Bunhong (PINK!)", locale = "ko-Latn", default = true },
+  { name = "PINK!", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "손가락으로 아 긋기만 해도 (ZEBRA)", locale = "ko", original = true },
+  { name = "Songarageuro a Geutgiman Haedo (ZEBRA)", locale = "ko-Latn", default = true },
+  { name = "ZEBRA", locale = "en" },
+]

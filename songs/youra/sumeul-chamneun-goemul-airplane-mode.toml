@@ -1,0 +1,5 @@
+names = [
+  { name = "숨을 참는 괴물 (AIRPLANE MODE)", locale = "ko", original = true },
+  { name = "Sumeul Chamneun Goemul (AIRPLANE MODE)", locale = "ko-Latn", default = true },
+  { name = "AIRPLANE MODE", locale = "en" },
+]

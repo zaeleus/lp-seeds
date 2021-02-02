@@ -1,0 +1,5 @@
+names = [
+  { name = "유기인형 (BYE BYE)", locale = "ko", original = true },
+  { name = "Yugiinhyeong (BYE BYE)", locale = "ko-Latn", default = true },
+  { name = "BYE BYE", locale = "en" },
+]

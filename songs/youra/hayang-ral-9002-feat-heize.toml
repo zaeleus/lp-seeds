@@ -1,0 +1,5 @@
+names = [
+  { name = "하양 (RAL 9002) (Feat. 헤이즈)", locale = "ko", original = true },
+  { name = "Hayang (RAL 9002) (Feat. Heize)", locale = "ko-Latn", default = true },
+  { name = "RAL 9002 (Feat. Heize)", locale = "en" },
+]

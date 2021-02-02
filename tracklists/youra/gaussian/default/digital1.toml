@@ -1,0 +1,33 @@
+medium-ids = [
+  "youra/gaussian/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "youra/mimi"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "youra/bunhong-pink"
+duration = "3:41"
+
+[[tracks]]
+position = 3
+song-id = "youra/songarageuro-a-geutgiman-haedo-zebra"
+duration = "2:59"
+
+[[tracks]]
+position = 4
+song-id = "youra/sumeul-chamneun-goemul-airplane-mode"
+duration = "3:50"
+
+[[tracks]]
+position = 5
+song-id = "youra/yugiinhyeong-bye-bye"
+duration = "2:37"
+
+[[tracks]]
+position = 6
+song-id = "youra/hayang-ral-9002-feat-heize"
+duration = "3:10"
