@@ -1,0 +1,13 @@
+medium-ids = [
+  "bloo/drama/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bloo/drama"
+duration = "2:51"
+
+[[tracks]]
+position = 2
+song-id = "bloo/drama-inst"
+duration = "2:51"
