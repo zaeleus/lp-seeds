@@ -1,0 +1,4 @@
+names = [
+  { name = "Going In (feat. 맥대디 (Mckdaddy), Khakii (카키), DON MALIK (던말릭), MC META, Huckleberry P, 베이식 (Basick), QM, 서사무엘 (SamuelSeo), Ja Mezz, CAMO, Reddy, 가오가이 (Kaogaii), Blase (블라세), Queen WA$ABII (퀸와사비), Walle, Bruno Champman, Chillin Homie, earlswish, KYLE LO)", locale = "ko", original = true },
+  { name = "Going In (feat. Mckdaddy, Khakii, DON MALIK, MC META, Huckleberry P, Basick, QM, Samuel Seo, Ja Mezz, CAMO, Reddy, kaogaii, Blase, Queen WA$ABII, Walle, Bruno Champman, Chillin Homie, earlswish, KYLE LO)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "Don't go in the Rainbow (心)", locale = "ko", original = true },
+  { name = "Don't go in the Rainbow", locale = "en", default = true },
+]

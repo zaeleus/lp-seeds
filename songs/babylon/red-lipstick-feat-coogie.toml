@@ -1,0 +1,3 @@
+names = [
+  { name = "Red Lipstick (feat. Coogie)", locale = "ko", original = true, default = true },
+]
