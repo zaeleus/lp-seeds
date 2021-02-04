@@ -1,0 +1,13 @@
+medium-ids = [
+  "o-when/nan-dangsinui-goyohami/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "o-when/nan-dangsinui-goyohami"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "o-when/nan-dangsinui-goyohami-inst"
+duration = "3:15"

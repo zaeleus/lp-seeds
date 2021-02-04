@@ -1,0 +1,15 @@
+artist-id = "o-when"
+kind = "single"
+
+names = [
+  { name = "난 당신의 고요함이", locale = "ko", original = true },
+  { name = "Nan Dangsinui Goyohami", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10557116" },
+]
