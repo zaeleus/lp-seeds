@@ -1,0 +1,3 @@
+names = [
+  { name = "Earthquake (Feat. YUNHWAY)", locale = "ko", original = true, default = true },
+]
