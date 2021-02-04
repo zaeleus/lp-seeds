@@ -1,0 +1,13 @@
+medium-ids = [
+  "purple-kiss/can-we-talk-again/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "purple-kiss/can-we-talk-again"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "purple-kiss/can-we-talk-again-inst"
+duration = "3:05"
