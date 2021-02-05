@@ -1,0 +1,5 @@
+names = [
+  { name = "Forever (약속)", locale = "ko", original = true },
+  { name = "Forever (Yaksok)", locale = "ko-Latn", default = true },
+  { name = "Forever", locale = "en" },
+]

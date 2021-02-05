@@ -1,0 +1,16 @@
+artist-id = "aespa"
+kind = "single"
+
+names = [
+  { name = "Forever (약속)", locale = "ko", original = true },
+  { name = "Forever (Yaksok)", locale = "ko-Latn", default = true },
+  { name = "Forever", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-02-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10560462" },
+]
