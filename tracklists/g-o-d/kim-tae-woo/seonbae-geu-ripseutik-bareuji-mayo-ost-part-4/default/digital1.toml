@@ -1,0 +1,13 @@
+medium-ids = [
+  "g-o-d/kim-tae-woo/seonbae-geu-ripseutik-bareuji-mayo-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-o-d/kim-tae-woo/neoege-to-you"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "g-o-d/kim-tae-woo/neoege-to-you-inst"
+duration = "3:41"
