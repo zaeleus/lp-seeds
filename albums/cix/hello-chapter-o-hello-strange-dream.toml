@@ -1,0 +1,14 @@
+artist-id = "cix"
+kind = "ep"
+
+names = [
+  { name = "'HELLO' Chapter Ø. Hello, Strange Dream", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-02-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10557668" },
+]

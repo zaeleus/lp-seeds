@@ -1,0 +1,28 @@
+medium-ids = [
+  "cix/hello-chapter-o-hello-strange-dream/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cix/stairway-to-heaven"
+duration = "4:39"
+
+[[tracks]]
+position = 2
+song-id = "cix/cinema"
+duration = "3:13"
+
+[[tracks]]
+position = 3
+song-id = "cix/round-2"
+duration = "3:22"
+
+[[tracks]]
+position = 4
+song-id = "cix/young"
+duration = "3:26"
+
+[[tracks]]
+position = 5
+song-id = "cix/everything"
+duration = "3:25"
