@@ -1,0 +1,15 @@
+artist-id = "t-ara/so-yeon"
+kind = "single"
+
+names = [
+  { name = "다 그대로더라", locale = "ko", original = true },
+  { name = "Da Geudaerodeora", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10560392" },
+]

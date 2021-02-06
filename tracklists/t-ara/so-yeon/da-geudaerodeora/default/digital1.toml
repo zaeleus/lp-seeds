@@ -1,0 +1,13 @@
+medium-ids = [
+  "t-ara/so-yeon/da-geudaerodeora/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/so-yeon/da-geudaerodeora"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/so-yeon/da-geudaerodeora-inst"
+duration = "3:54"
