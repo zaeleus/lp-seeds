@@ -1,0 +1,13 @@
+medium-ids = [
+  "2nb/neon-nareul-saranghaji-ana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2nb/neon-nareul-saranghaji-ana"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "2nb/neon-nareul-saranghaji-ana-inst"
+duration = "3:52"

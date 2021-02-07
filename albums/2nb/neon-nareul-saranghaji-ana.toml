@@ -1,0 +1,15 @@
+artist-id = "2nb"
+kind = "single"
+
+names = [
+  { name = "넌 나를 사랑하지 않아", locale = "ko", original = true },
+  { name = "Neon Nareul Saranghaji Ana", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10560337" },
+]
