@@ -1,0 +1,15 @@
+artist-id = "vixx/ravi"
+kind = "single"
+
+names = [
+  { name = "범 (feat. Chillin Homie, Kid Milli)", locale = "ko", original = true },
+  { name = "Beom (feat. Chillin Homie, Kid Milli)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10560732" },
+]

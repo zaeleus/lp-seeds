@@ -1,0 +1,4 @@
+names = [
+  { name = "범 (feat. Chillin Homie, Kid Milli) (Inst.)", locale = "ko", original = true },
+  { name = "Beom (feat. Chillin Homie, Kid Milli)", locale = "ko-Latn", default = true },
+]
