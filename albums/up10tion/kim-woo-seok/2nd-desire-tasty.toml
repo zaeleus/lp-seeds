@@ -1,0 +1,14 @@
+artist-id = "up10tion/kim-woo-seok"
+kind = "ep"
+
+names = [
+  { name = "2ND DESIRE [TASTY]", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-02-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10560890" },
+]

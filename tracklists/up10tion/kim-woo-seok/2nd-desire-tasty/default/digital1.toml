@@ -1,0 +1,33 @@
+medium-ids = [
+  "up10tion/kim-woo-seok/2nd-desire-tasty/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "up10tion/kim-woo-seok/tasty"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "up10tion/kim-woo-seok/sugar"
+duration = "3:04"
+
+[[tracks]]
+position = 3
+song-id = "up10tion/kim-woo-seok/better"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "up10tion/kim-woo-seok/holiday"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "up10tion/kim-woo-seok/itta-mwohae"
+duration = "4:07"
+
+[[tracks]]
+position = 6
+song-id = "up10tion/kim-woo-seok/next"
+duration = "2:19"
