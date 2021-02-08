@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-ye-joon/dasi-mannalkka-bwa-prod-v-o-s/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-ye-joon/dasi-mannalkka-bwa-prod-v-o-s"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "lee-ye-joon/dasi-mannalkka-bwa-inst-prod-v-o-s"
+duration = "3:29"
