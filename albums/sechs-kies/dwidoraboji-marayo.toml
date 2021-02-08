@@ -1,0 +1,15 @@
+artist-id = "sechs-kies"
+kind = "single"
+
+names = [
+  { name = "뒤돌아보지 말아요", locale = "ko", original = true },
+  { name = "Dwidoraboji Marayo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10560314" },
+]
