@@ -1,0 +1,13 @@
+medium-ids = [
+  "rolling-quartz/blaze/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rolling-quartz/blaze"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "rolling-quartz/blaze-inst"
+duration = "4:05"
