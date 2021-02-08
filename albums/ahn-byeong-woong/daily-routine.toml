@@ -1,0 +1,14 @@
+artist-id = "ahn-byeong-woong"
+kind = "single"
+
+names = [
+  { name = "Daily Routine", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-02-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10560473" },
+]
