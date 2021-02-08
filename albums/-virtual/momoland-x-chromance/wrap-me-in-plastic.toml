@@ -1,0 +1,19 @@
+artist-id = "-virtual/momoland-x-chromance"
+kind = "single"
+
+names = [
+  { name = "Wrap Me In Plastic", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "momoland", separator = " X " },
+  { artist-id = "chromance" },
+]
+
+[[releases]]
+released-on = "2021-02-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10560263" },
+]

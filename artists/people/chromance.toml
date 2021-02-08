@@ -1,0 +1,8 @@
+kind = "person"
+# started-on = ""
+country = "ZZ"
+gender = "male"
+
+names = [
+  { name = "CHROMANCE", locale = "en", kind = "stage", original = true, default = true },
+]

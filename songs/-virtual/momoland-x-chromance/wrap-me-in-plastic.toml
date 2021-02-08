@@ -1,0 +1,8 @@
+names = [
+  { name = "Wrap Me In Plastic", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "momoland", separator = " X " },
+  { artist-id = "chromance" },
+]
