@@ -1,0 +1,13 @@
+medium-ids = [
+  "san-e/she-like-caffeine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "san-e/she-like-caffeine-feat-malkey"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "san-e/she-like-caffeine-inst"
+duration = "3:00"
