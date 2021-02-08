@@ -1,0 +1,5 @@
+names = [
+  { name = "너의 눈에 내가 살아 (I Live in Your Eyes) (Inst.)", locale = "ko", original = true },
+  { name = "Neoui Nune Naega Sara (I Live in Your Eyes) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "I Live in Your Eyes (Inst.)", locale = "en" },
+]

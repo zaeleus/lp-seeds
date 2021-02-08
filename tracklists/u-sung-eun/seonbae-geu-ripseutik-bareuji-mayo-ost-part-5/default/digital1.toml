@@ -1,0 +1,13 @@
+medium-ids = [
+  "u-sung-eun/seonbae-geu-ripseutik-bareuji-mayo-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "u-sung-eun/neoui-nune-naega-sara-i-live-in-your-eyes"
+duration = "4:16"
+
+[[tracks]]
+position = 2
+song-id = "u-sung-eun/neoui-nune-naega-sara-i-live-in-your-eyes-inst"
+duration = "4:16"
