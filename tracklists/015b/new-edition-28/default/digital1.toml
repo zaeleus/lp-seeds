@@ -1,0 +1,13 @@
+medium-ids = [
+  "015b/new-edition-28/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "015b/oneul-geunyeoneun-museun-mari-hago-sipeotdeon-geolkka-feat-dong-ha"
+duration = "5:12"
+
+[[tracks]]
+position = 2
+song-id = "015b/oneul-geunyeoneun-museun-mari-hago-sipeotdeon-geolkka-inst"
+duration = "5:13"
