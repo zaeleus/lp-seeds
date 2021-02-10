@@ -1,0 +1,13 @@
+medium-ids = [
+  "d1ce/you-re-my-destiny/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "d1ce/you-re-my-destiny"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "d1ce/you-re-my-destiny-inst"
+duration = "3:05"
