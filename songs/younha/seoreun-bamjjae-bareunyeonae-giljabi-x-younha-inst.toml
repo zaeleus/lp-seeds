@@ -1,0 +1,4 @@
+names = [
+  { name = "서른 밤째 (바른연애 길잡이 X 윤하 (YOUNHA)) (Inst.)", locale = "ko", original = true },
+  { name = "Seoreun Bamjjae (Bareunyeonae Giljabi X YOUNHA) (Inst.)", locale = "ko-Latn", default = true },
+]

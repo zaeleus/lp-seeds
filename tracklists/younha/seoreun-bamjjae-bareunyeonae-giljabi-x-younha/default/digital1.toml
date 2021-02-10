@@ -1,0 +1,13 @@
+medium-ids = [
+  "younha/seoreun-bamjjae-bareunyeonae-giljabi-x-younha/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "younha/seoreun-bamjjae-bareunyeonae-giljabi-x-younha"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "younha/seoreun-bamjjae-bareunyeonae-giljabi-x-younha-inst"
+duration = "3:59"
