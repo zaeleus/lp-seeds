@@ -1,0 +1,8 @@
+medium-ids = [
+  "yumdda/michael-jackson/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yumdda/michael-jackson"
+duration = "3:00"

@@ -1,0 +1,5 @@
+names = [
+  { name = "마이클 잭슨", locale = "ko", original = true },
+  { name = "Maikeul Jaekseun", locale = "ko-Latn" },
+  { name = "Michael Jackson", locale = "en", default = true },
+]
