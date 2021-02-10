@@ -1,0 +1,13 @@
+medium-ids = [
+  "sunwoo-jung-a/l-u-c-a-the-beginning-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sunwoo-jung-a/your-eyes"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "sunwoo-jung-a/your-eyes-inst"
+duration = "3:40"

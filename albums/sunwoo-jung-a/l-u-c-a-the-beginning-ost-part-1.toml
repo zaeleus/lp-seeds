@@ -1,0 +1,16 @@
+artist-id = "sunwoo-jung-a"
+kind = "single"
+
+names = [
+  { name = "루카: 더 비기닝 OST Part 1", locale = "ko", original = true },
+  { name = "Ruka: Deo Bigining OST Part 1", locale = "ko-Latn" },
+  { name = "L.U.C.A.: The Beginning OST Part 1", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10561823" },
+]
