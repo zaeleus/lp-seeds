@@ -1,0 +1,13 @@
+medium-ids = [
+  "huh-gak/gobaek-bareunyeonae-giljabi-x-huh-gak/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "huh-gak/gobaek-bareunyeonae-giljabi-x-huh-gak"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "huh-gak/gobaek-bareunyeonae-giljabi-x-huh-gak-inst"
+duration = "3:56"
