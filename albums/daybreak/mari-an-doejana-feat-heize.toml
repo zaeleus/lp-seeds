@@ -1,0 +1,15 @@
+artist-id = "daybreak"
+kind = "single"
+
+names = [
+  { name = "말이 안 되잖아 (Feat. 헤이즈)", locale = "ko", original = true },
+  { name = "Mari An Doejana (Feat. Heize)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10557554" },
+]

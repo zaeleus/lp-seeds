@@ -1,0 +1,13 @@
+medium-ids = [
+  "daybreak/mari-an-doejana-feat-heize/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "daybreak/mari-an-doejana-feat-heize"
+duration = "5:32"
+
+[[tracks]]
+position = 2
+song-id = "daybreak/mari-an-doejana-inst"
+duration = "5:32"
