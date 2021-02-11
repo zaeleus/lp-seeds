@@ -1,0 +1,16 @@
+artist-id = "seventeen/seungkwan"
+kind = "single"
+
+names = [
+  { name = "이유 (도시남녀의 사랑법 OST Part.6)", locale = "ko", original = true },
+  { name = "Iyu (Dosinamnyeoui Sarangbeop OST Part.6)", locale = "ko-Latn", default = true },
+  { name = "The Reason (Lovestruck in the City OST Part.6)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-01-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10556353" },
+]
