@@ -1,0 +1,15 @@
+artist-id = "10cm"
+kind = "single"
+
+names = [
+  { name = "이 밤을 빌려 말해요 (바른연애 길잡이 X 10CM)", locale = "ko", original = true },
+  { name = "I Bameul Billyeo Malhaeyo (Bareunyeonae Giljabi X 10CM)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10552055" },
+]

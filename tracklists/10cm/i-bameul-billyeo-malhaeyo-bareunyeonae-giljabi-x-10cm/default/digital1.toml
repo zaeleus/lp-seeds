@@ -1,0 +1,13 @@
+medium-ids = [
+  "10cm/i-bameul-billyeo-malhaeyo-bareunyeonae-giljabi-x-10cm/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "10cm/i-bameul-billyeo-malhaeyo-bareunyeonae-giljabi-x-10cm"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "10cm/i-bameul-billyeo-malhaeyo-bareunyeonae-giljabi-x-10cm-inst"
+duration = "3:08"
