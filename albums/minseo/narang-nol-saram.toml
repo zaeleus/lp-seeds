@@ -1,0 +1,15 @@
+artist-id = "minseo"
+kind = "single"
+
+names = [
+  { name = "나랑 놀 사람", locale = "ko", original = true },
+  { name = "Narang Nol Saram", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-01-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10552032" },
+]

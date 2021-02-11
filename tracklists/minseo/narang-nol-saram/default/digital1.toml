@@ -1,0 +1,13 @@
+medium-ids = [
+  "minseo/narang-nol-saram/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "minseo/narang-nol-saram"
+duration = "2:59"
+
+[[tracks]]
+position = 2
+song-id = "minseo/narang-nol-saram-inst"
+duration = "2:59"
