@@ -1,0 +1,13 @@
+medium-ids = [
+  "2am/lim-seul-ong/naega-deo-mani-neol-saranghaeseo-baniwa-oppadeul-x-lim-seul-ong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2am/lim-seul-ong/naega-deo-mani-neol-saranghaeseo-baniwa-oppadeul-x-lim-seul-ong"
+duration = "4:19"
+
+[[tracks]]
+position = 2
+song-id = "2am/lim-seul-ong/naega-deo-mani-neol-saranghaeseo-baniwa-oppadeul-x-lim-seul-ong-inst"
+duration = "4:19"
