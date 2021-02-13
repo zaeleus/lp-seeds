@@ -1,0 +1,16 @@
+artist-id = "teen-top/niel"
+kind = "single"
+
+names = [
+  { name = "리플레이 OST Part 4", locale = "ko", original = true },
+  { name = "Ripeullei OST Part 4", locale = "ko-Latn" },
+  { name = "Replay OST Part 4", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10561731" },
+]

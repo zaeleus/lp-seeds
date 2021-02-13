@@ -1,0 +1,13 @@
+medium-ids = [
+  "teen-top/niel/replay-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "teen-top/niel/i-want"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "teen-top/niel/i-want-inst"
+duration = "3:07"
