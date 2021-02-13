@@ -1,0 +1,13 @@
+medium-ids = [
+  "super-junior/eunhyuk/gyeolhonjaksa-ihonjakgok-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "super-junior/eunhyuk/dasi-heorakdoendamyeon"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "super-junior/eunhyuk/dasi-heorakdoendamyeon-inst"
+duration = "3:58"
