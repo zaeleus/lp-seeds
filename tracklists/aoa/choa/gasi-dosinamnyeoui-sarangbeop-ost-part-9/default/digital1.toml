@@ -1,0 +1,13 @@
+medium-ids = [
+  "aoa/choa/gasi-dosinamnyeoui-sarangbeop-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "aoa/choa/gasi"
+duration = "4:23"
+
+[[tracks]]
+position = 2
+song-id = "aoa/choa/gasi-inst"
+duration = "4:23"

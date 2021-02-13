@@ -1,0 +1,16 @@
+artist-id = "aoa/choa"
+kind = "single"
+
+names = [
+  { name = "가시 (도시남녀의 사랑법 OST Part.9)", locale = "ko", original = true },
+  { name = "Gasi (Dosinamnyeoui Sarangbeop OST Part.9)", locale = "ko-Latn", default = true },
+  { name = "Thorn (Lovestruck in the City OST Part.9)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-02-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10562676" },
+]
