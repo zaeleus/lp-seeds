@@ -1,0 +1,15 @@
+artist-id = "mommy-son"
+kind = "single"
+
+names = [
+  { name = "짬에서 나오는 바이브", locale = "ko", original = true },
+  { name = "Jjameseo Naoneun Vibe", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2019-11-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10357695" },
+]
