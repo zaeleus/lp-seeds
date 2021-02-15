@@ -1,0 +1,15 @@
+artist-id = "lovey"
+kind = "single"
+
+names = [
+  { name = "우리에게도 사계가 존재한다면", locale = "ko", original = true },
+  { name = "Uriegedo Sagyega Jonjaehandamyeon", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10561561" },
+]

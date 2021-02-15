@@ -1,0 +1,4 @@
+names = [
+  { name = "우리에게도 사계가 존재한다면 (inst.)", locale = "ko", original = true },
+  { name = "Uriegedo Sagyega Jonjaehandamyeon (inst.)", locale = "ko-Latn", default = true },
+]

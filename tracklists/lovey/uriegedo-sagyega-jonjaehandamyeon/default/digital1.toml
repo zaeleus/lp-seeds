@@ -1,0 +1,13 @@
+medium-ids = [
+  "lovey/uriegedo-sagyega-jonjaehandamyeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lovey/uriegedo-sagyega-jonjaehandamyeon"
+duration = "4:43"
+
+[[tracks]]
+position = 2
+song-id = "lovey/uriegedo-sagyega-jonjaehandamyeon-inst"
+duration = "4:43"
