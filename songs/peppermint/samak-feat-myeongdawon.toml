@@ -1,0 +1,4 @@
+names = [
+  { name = "사막 (feat. 명다원)", locale = "ko", original = true },
+  { name = "Samak (feat. Myeongdawon)", locale = "ko-Latn", default = true },
+]

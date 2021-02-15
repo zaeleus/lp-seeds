@@ -1,0 +1,16 @@
+artist-id = "peppermint"
+kind = "single"
+
+names = [
+  { name = "사막", locale = "ko", original = true },
+  { name = "Samak", locale = "ko-Latn", default = true },
+  { name = "Desert", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-02-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10561507" },
+]

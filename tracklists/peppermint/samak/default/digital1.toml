@@ -1,0 +1,13 @@
+medium-ids = [
+  "peppermint/samak/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "peppermint/samak-feat-myeongdawon"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "peppermint/samak-inst"
+duration = "3:13"
