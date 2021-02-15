@@ -1,0 +1,13 @@
+medium-ids = [
+  "cheeze/seonbae-geu-ripseutik-bareuji-mayo-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cheeze/ai-daydream"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "cheeze/ai-daydream-inst"
+duration = "3:13"
