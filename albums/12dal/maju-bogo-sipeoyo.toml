@@ -1,0 +1,15 @@
+artist-id = "12dal"
+kind = "single"
+
+names = [
+  { name = "마주 보고 싶어요", locale = "ko", original = true },
+  { name = "Maju Bogo Sipeoyo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10561661" },
+]
