@@ -1,0 +1,18 @@
+medium-ids = [
+  "lucy/inside/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lucy/hero"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "lucy/nallo"
+duration = "6:18"
+
+[[tracks]]
+position = 3
+song-id = "lucy/outro-dwi-dorabomyeon"
+duration = "6:11"
