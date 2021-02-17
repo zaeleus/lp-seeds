@@ -1,0 +1,13 @@
+medium-ids = [
+  "hanhae/hanhae-hyeong-teugyuui-ap-bakja/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hanhae/hanhae-hyeong-teugyuui-ap-bakja-feat-killagramz"
+duration = "2:28"
+
+[[tracks]]
+position = 2
+song-id = "hanhae/hanhae-hyeong-teugyuui-ap-bakja-inst"
+duration = "2:28"
