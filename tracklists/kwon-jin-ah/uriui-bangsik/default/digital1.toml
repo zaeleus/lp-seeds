@@ -1,0 +1,33 @@
+medium-ids = [
+  "kwon-jin-ah/uriui-bangsik/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kwon-jin-ah/uriui-bangsik"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "kwon-jin-ah/jal-ga"
+duration = "3:54"
+
+[[tracks]]
+position = 3
+song-id = "kwon-jin-ah/kkonmal"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "kwon-jin-ah/you-already-have"
+duration = "3:18"
+
+[[tracks]]
+position = 5
+song-id = "kwon-jin-ah/eoreuncheoreom-with-george"
+duration = "3:22"
+
+[[tracks]]
+position = 6
+song-id = "kwon-jin-ah/yeohaengga"
+duration = "3:57"
