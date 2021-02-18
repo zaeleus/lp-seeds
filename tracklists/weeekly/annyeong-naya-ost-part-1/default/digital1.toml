@@ -1,0 +1,13 @@
+medium-ids = [
+  "weeekly/annyeong-naya-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weeekly/wake-up"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "weeekly/wake-up-inst"
+duration = "3:11"
