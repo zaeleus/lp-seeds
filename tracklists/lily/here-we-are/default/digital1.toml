@@ -1,0 +1,13 @@
+medium-ids = [
+  "lily/here-we-are/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lily/here-we-are"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "lily/here-we-are-inst"
+duration = "3:22"

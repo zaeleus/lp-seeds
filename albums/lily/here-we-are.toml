@@ -1,0 +1,14 @@
+artist-id = "lily"
+kind = "single"
+
+names = [
+  { name = "Here We Are", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-02-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10566087" },
+]
