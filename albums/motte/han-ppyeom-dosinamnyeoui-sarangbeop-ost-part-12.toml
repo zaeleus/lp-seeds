@@ -1,0 +1,16 @@
+artist-id = "motte"
+kind = "single"
+
+names = [
+  { name = "한 뼘 (도시남녀의 사랑법 OST Part.12)", locale = "ko", original = true },
+  { name = "Han Ppyeom (Dosinamnyeoui Sarangbeop OST Part.12)", locale = "ko-Latn", default = true },
+  { name = "Distance (Lovestruck in the City OST Part.12)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-02-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10566666" },
+]
