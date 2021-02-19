@@ -1,0 +1,14 @@
+artist-id = "limit"
+kind = "single"
+
+names = [
+  { name = "Shine", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-02-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10566544" },
+]
