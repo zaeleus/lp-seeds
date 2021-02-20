@@ -1,0 +1,23 @@
+medium-ids = [
+  "shin-ji-hoon/siga-doel-iyagi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shin-ji-hoon/siga-doel-iyagi"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "shin-ji-hoon/moon-river-2021"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "shin-ji-hoon/siga-doel-iyagi-inst"
+duration = "3:56"
+
+[[tracks]]
+position = 4
+song-id = "shin-ji-hoon/moon-river-2021-inst"
+duration = "3:14"
