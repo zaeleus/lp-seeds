@@ -1,0 +1,8 @@
+medium-ids = [
+  "casker/soin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "casker/soin"
+duration = "3:26"
