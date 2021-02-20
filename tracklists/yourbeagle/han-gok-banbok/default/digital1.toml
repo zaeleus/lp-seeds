@@ -1,0 +1,8 @@
+medium-ids = [
+  "yourbeagle/han-gok-banbok/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/han-gok-banbok-feat-kid-wine"
+duration = "3:31"

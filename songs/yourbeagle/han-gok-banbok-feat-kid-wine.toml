@@ -1,0 +1,4 @@
+names = [
+  { name = "한 곡 반복 (Feat. Kid Wine)", locale = "ko", original = true },
+  { name = "Han Gok Banbok (Feat. Kid Wine)", locale = "ko-Latn", default = true },
+]

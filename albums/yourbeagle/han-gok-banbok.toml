@@ -1,0 +1,15 @@
+artist-id = "yourbeagle"
+kind = "single"
+
+names = [
+  { name = "한 곡 반복", locale = "ko", original = true },
+  { name = "Han Gok Banbok", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10567291" },
+]
