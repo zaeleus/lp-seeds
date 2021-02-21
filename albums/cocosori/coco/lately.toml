@@ -1,0 +1,14 @@
+artist-id = "cocosori/coco"
+kind = "single"
+
+names = [
+  { name = "Lately", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-02-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10567524" },
+]

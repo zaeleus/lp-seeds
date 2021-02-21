@@ -1,0 +1,8 @@
+medium-ids = [
+  "cocosori/coco/lately/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cocosori/coco/lately-feat-g2"
+duration = "2:40"
