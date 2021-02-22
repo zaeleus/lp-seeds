@@ -1,0 +1,15 @@
+artist-id = "sool-j"
+kind = "single"
+
+names = [
+  { name = "그림처럼", locale = "ko", original = true },
+  { name = "Geurimcheoreom", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10567669" },
+]
