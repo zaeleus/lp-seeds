@@ -1,0 +1,14 @@
+artist-id = "apoki"
+kind = "single"
+
+names = [
+  { name = "GET IT OUT", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-02-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10568067" },
+]

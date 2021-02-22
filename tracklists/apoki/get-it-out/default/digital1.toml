@@ -1,0 +1,8 @@
+medium-ids = [
+  "apoki/get-it-out/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apoki/get-it-out"
+duration = "3:38"
