@@ -1,0 +1,5 @@
+names = [
+  { name = "빈칸 (Kind)", locale = "ko", original = true },
+  { name = "Binkan (Kind)", locale = "ko-Latn", default = true },
+  { name = "Kind", locale = "en" },
+]

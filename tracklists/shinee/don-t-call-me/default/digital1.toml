@@ -1,0 +1,48 @@
+medium-ids = [
+  "shinee/don-t-call-me/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shinee/don-t-call-me"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "shinee/heart-attack"
+duration = "3:00"
+
+[[tracks]]
+position = 3
+song-id = "shinee/marry-you"
+duration = "3:01"
+
+[[tracks]]
+position = 4
+song-id = "shinee/code"
+duration = "3:15"
+
+[[tracks]]
+position = 5
+song-id = "shinee/i-really-want-you"
+duration = "3:18"
+
+[[tracks]]
+position = 6
+song-id = "shinee/kiss-kiss"
+duration = "3:36"
+
+[[tracks]]
+position = 7
+song-id = "shinee/body-rhythm"
+duration = "3:13"
+
+[[tracks]]
+position = 8
+song-id = "shinee/attention"
+duration = "3:45"
+
+[[tracks]]
+position = 9
+song-id = "shinee/binkan-kind"
+duration = "3:21"

@@ -1,0 +1,3 @@
+names = [
+  { name = "Body Rhythm", locale = "ko", original = true, default = true },
+]
