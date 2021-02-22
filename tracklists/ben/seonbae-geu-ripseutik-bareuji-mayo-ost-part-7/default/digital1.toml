@@ -1,0 +1,13 @@
+medium-ids = [
+  "ben/seonbae-geu-ripseutik-bareuji-mayo-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/tteonayo-leave-me"
+duration = "4:15"
+
+[[tracks]]
+position = 2
+song-id = "ben/tteonayo-leave-me-inst"
+duration = "4:15"

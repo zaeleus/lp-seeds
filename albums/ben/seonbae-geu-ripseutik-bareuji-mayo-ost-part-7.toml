@@ -1,0 +1,16 @@
+artist-id = "ben"
+kind = "single"
+
+names = [
+  { name = "선배, 그 립스틱 바르지 마요 OST Part.7", locale = "ko", original = true },
+  { name = "Seonbae, Geu Ripseutik Bareuji Mayo OST Part.7", locale = "ko-Latn", default = true },
+  { name = "She Would Never Know OST Part.7", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-02-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10567645" },
+]
