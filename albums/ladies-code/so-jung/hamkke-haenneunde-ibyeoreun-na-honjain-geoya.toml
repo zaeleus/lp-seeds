@@ -1,0 +1,15 @@
+artist-id = "ladies-code/so-jung"
+kind = "single"
+
+names = [
+  { name = "함께 했는데 이별은 나 혼자인 거야", locale = "ko", original = true },
+  { name = "Hamkke Haenneunde Ibyeoreun Na Honjain Geoya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10566182" },
+]

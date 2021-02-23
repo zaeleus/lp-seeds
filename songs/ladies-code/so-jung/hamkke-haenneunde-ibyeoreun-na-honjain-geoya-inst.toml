@@ -1,0 +1,4 @@
+names = [
+  { name = "함께 했는데 이별은 나 혼자인 거야 (inst.)", locale = "ko", original = true },
+  { name = "Hamkke Haenneunde Ibyeoreun Na Honjain Geoya (inst.)", locale = "ko-Latn", default = true },
+]

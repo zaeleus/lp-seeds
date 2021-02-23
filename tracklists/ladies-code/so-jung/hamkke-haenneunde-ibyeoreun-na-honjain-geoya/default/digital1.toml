@@ -1,0 +1,13 @@
+medium-ids = [
+  "ladies-code/so-jung/hamkke-haenneunde-ibyeoreun-na-honjain-geoya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ladies-code/so-jung/hamkke-haenneunde-ibyeoreun-na-honjain-geoya"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "ladies-code/so-jung/hamkke-haenneunde-ibyeoreun-na-honjain-geoya-inst"
+duration = "3:25"
