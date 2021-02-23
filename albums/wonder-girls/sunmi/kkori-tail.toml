@@ -1,0 +1,16 @@
+artist-id = "wonder-girls/sunmi"
+kind = "single"
+
+names = [
+  { name = "꼬리 (TAIL)", locale = "ko", original = true },
+  { name = "Kkori (TAIL)", locale = "ko-Latn", default = true },
+  { name = "TAIL", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-02-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10568886" },
+]

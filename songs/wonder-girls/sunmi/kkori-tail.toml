@@ -1,0 +1,5 @@
+names = [
+  { name = "꼬리 (TAIL)", locale = "ko", original = true },
+  { name = "Kkori (TAIL)", locale = "ko-Latn", default = true },
+  { name = "TAIL", locale = "en" },
+]
