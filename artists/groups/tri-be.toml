@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2021"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "트라이비", locale = "ko", original = true },
+  { name = "TRI.BE", locale = "en", default = true },
+]

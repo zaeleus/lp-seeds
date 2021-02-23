@@ -1,0 +1,13 @@
+medium-ids = [
+  "tri-be/tri-be-da-loca/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "tri-be/loca"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "tri-be/doom-doom-ta"
+duration = "3:16"
