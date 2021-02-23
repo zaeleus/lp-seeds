@@ -1,0 +1,13 @@
+medium-ids = [
+  "george/joahae-bareunyeonae-giljabi-x-george/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "george/joahae-bareunyeonae-giljabi-x-george"
+duration = "4:09"
+
+[[tracks]]
+position = 2
+song-id = "george/joahae-bareunyeonae-giljabi-x-george-inst"
+duration = "4:09"

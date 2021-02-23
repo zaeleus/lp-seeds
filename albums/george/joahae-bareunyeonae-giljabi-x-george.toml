@@ -1,0 +1,15 @@
+artist-id = "george"
+kind = "single"
+
+names = [
+  { name = "좋아해.. (바른연애 길잡이 X 죠지)", locale = "ko", original = true },
+  { name = "Joahae.. (Bareunyeonae Giljabi X George)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10565776" },
+]
