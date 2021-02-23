@@ -1,0 +1,13 @@
+medium-ids = [
+  "g-i-dle/miyeon/reply-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-i-dle/miyeon/dreaming-about-you"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "g-i-dle/miyeon/dreaming-about-you-inst"
+duration = "3:42"
