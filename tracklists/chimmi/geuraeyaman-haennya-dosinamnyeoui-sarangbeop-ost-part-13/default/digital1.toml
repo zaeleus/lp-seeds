@@ -1,0 +1,13 @@
+medium-ids = [
+  "chimmi/geuraeyaman-haennya-dosinamnyeoui-sarangbeop-ost-part-13/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "chimmi/geuraeyaman-haennya"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "chimmi/geuraeyaman-haennya-inst"
+duration = "3:13"

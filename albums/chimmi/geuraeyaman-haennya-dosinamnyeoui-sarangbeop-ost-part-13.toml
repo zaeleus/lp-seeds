@@ -1,0 +1,16 @@
+artist-id = "chimmi"
+kind = "single"
+
+names = [
+  { name = "그래야만 했냐 (도시남녀의 사랑법 OST Part.13)", locale = "ko", original = true },
+  { name = "Geuraeyaman Haennya (Dosinamnyeoui Sarangbeop OST Part.13)", locale = "ko-Latn", default = true },
+  { name = "Did You Have To (Lovestruck in the City OST Part.13)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-02-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10567502" },
+]
