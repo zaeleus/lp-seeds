@@ -1,0 +1,13 @@
+medium-ids = [
+  "nct/doyoung/simyakape-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nct/doyoung/bamgonggi"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "nct/doyoung/bamgonggi-inst"
+duration = "3:15"
