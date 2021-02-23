@@ -1,0 +1,15 @@
+artist-id = "keembo"
+kind = "lp"
+
+names = [
+  { name = "스캔들", locale = "ko", original = true },
+  { name = "Scandal", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10568473" },
+]

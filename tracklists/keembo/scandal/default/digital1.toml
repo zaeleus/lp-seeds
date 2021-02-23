@@ -1,0 +1,53 @@
+medium-ids = [
+  "keembo/scandal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "keembo/thank-you-anyway-2021"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "keembo/inside"
+duration = "2:57"
+
+[[tracks]]
+position = 3
+song-id = "keembo/voodoo"
+duration = "2:56"
+
+[[tracks]]
+position = 4
+song-id = "keembo/banseong-reflection-bohyung-solo"
+duration = "3:32"
+
+[[tracks]]
+position = 5
+song-id = "keembo/99-gugu-2021"
+duration = "3:32"
+
+[[tracks]]
+position = 6
+song-id = "keembo/reobeumipomi-love-me-4-me-2021"
+duration = "4:00"
+
+[[tracks]]
+position = 7
+song-id = "keembo/scandalous-2021"
+duration = "2:57"
+
+[[tracks]]
+position = 8
+song-id = "keembo/break-me-boa-solo"
+duration = "2:45"
+
+[[tracks]]
+position = 9
+song-id = "keembo/scene-2021"
+duration = "3:11"
+
+[[tracks]]
+position = 10
+song-id = "keembo/cloud9-2021"
+duration = "3:18"

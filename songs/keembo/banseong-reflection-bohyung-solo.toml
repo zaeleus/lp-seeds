@@ -1,0 +1,5 @@
+names = [
+  { name = "반성 (REFLECTION) (BOHYUNG solo)", locale = "ko", original = true },
+  { name = "Banseong (REFLECTION) (BOHYUNG solo)", locale = "ko-Latn", default = true },
+  { name = "REFLECTION (BOHYUNG solo)", locale = "en" },
+]
