@@ -1,0 +1,14 @@
+artist-id = "pixy"
+kind = "single"
+
+names = [
+  { name = "With My Wings", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-02-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10569550" },
+]

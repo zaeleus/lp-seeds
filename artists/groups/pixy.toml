@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2021"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "픽시", locale = "ko", original = true },
+  { name = "PIXY", locale = "en", default = true },
+]

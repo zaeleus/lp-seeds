@@ -1,0 +1,8 @@
+medium-ids = [
+  "pixy/with-my-wings/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pixy/nalgae-wings"
+duration = "3:34"
