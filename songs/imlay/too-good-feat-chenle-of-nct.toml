@@ -1,0 +1,4 @@
+names = [
+  { name = "Too Good (Feat. 천러 of NCT)", locale = "ko", original = true },
+  { name = "Too Good (Feat. CHENLE of NCT)", locale = "ko-Latn", default = true },
+]

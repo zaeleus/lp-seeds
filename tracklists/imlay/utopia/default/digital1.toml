@@ -1,0 +1,28 @@
+medium-ids = [
+  "imlay/utopia/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "imlay/utopia"
+duration = "1:46"
+
+[[tracks]]
+position = 2
+song-id = "imlay/too-good-feat-chenle-of-nct"
+duration = "3:42"
+
+[[tracks]]
+position = 3
+song-id = "imlay/left-the-city"
+duration = "3:41"
+
+[[tracks]]
+position = 4
+song-id = "imlay/airplane-mode"
+duration = "3:17"
+
+[[tracks]]
+position = 5
+song-id = "imlay/save-the-world-feat-yeseo"
+duration = "3:15"
