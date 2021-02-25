@@ -1,0 +1,15 @@
+artist-id = "kiggen"
+kind = "single"
+
+names = [
+  { name = "왜 강력한 처벌을 하지 않는가", locale = "ko", original = true },
+  { name = "Wae Gangnyeokhan Cheobeoreul Haji Anneunga", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10570183" },
+]
