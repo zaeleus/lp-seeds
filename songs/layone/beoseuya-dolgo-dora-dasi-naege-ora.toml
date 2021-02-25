@@ -1,0 +1,4 @@
+names = [
+  { name = "버스야 돌고 돌아 다시 내게 오라", locale = "ko", original = true },
+  { name = "Beoseuya Dolgo Dora Dasi Naege Ora", locale = "ko-Latn", default = true },
+]
