@@ -1,0 +1,4 @@
+names = [
+  { name = "사랑인가요 (With 주재우 of 네이브로) (Inst.)", locale = "ko", original = true },
+  { name = "Sarangingayo (With Joo Jae Woo of NeighBro.) (Inst.)", locale = "ko-Latn", default = true },
+]
