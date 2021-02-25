@@ -1,0 +1,8 @@
+medium-ids = [
+  "ash-island/melody/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ash-island/melody"
+duration = "3:02"

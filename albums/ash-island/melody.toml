@@ -1,0 +1,16 @@
+artist-id = "ash-island"
+kind = "single"
+
+names = [
+  { name = "멜로디", locale = "ko", original = true },
+  { name = "Mellodi", locale = "ko-Latn" },
+  { name = "Melody", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10570193" },
+]
