@@ -1,0 +1,15 @@
+artist-id = "paul-kim"
+kind = "single"
+
+names = [
+  { name = "사랑하는 당신께", locale = "ko", original = true },
+  { name = "Saranghaneun Dangsinkke", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10569813" },
+]
