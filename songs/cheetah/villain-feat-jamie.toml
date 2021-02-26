@@ -1,0 +1,4 @@
+names = [
+  { name = "Villain (Feat. JAMIE (제이미))", locale = "ko", original = true },
+  { name = "Villain (Feat. JAMIE)", locale = "ko-Latn", default = true },
+]

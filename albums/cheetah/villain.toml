@@ -1,0 +1,14 @@
+artist-id = "cheetah"
+kind = "single"
+
+names = [
+  { name = "Villain", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-02-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10571060" },
+]
