@@ -1,0 +1,8 @@
+kind = "person"
+started-on = "1987-03-26"
+country = "JP"
+gender = "female"
+
+names = [
+  { name = "YUI", locale = "ja", kind = "stage", original = true, default = true },
+]

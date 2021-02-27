@@ -1,0 +1,3 @@
+names = [
+  { name = "Rolling star (NATURAL Ver.)", locale = "ja", original = true, default = true },
+]

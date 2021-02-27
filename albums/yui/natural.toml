@@ -1,0 +1,16 @@
+artist-id = "yui"
+kind = "ep"
+
+names = [
+  { name = "NATURAL", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-02-24"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://mora.jp/package/43000087/SRCL11727B00Z/" },
+  { url = "https://mora.jp/package/43000100/SRXX03842B00Z_48/" },
+  { url = "https://music.apple.com/jp/album/1552666353?" },
+]
