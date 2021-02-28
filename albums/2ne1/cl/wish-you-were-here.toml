@@ -1,0 +1,14 @@
+artist-id = "2ne1/cl"
+kind = "single"
+
+names = [
+  { name = "Wish You Were Here", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-02-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10570672" },
+]
