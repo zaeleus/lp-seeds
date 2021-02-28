@@ -1,0 +1,5 @@
+names = [
+  { name = "누워서 세계 속으로 (Trip Advisor)", locale = "ko", original = true },
+  { name = "Nuwoseo Segye Sogeuro (Trip Advisor)", locale = "ko-Latn", default = true },
+  { name = "Trip Advisor", locale = "en" },
+]

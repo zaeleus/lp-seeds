@@ -1,0 +1,5 @@
+names = [
+  { name = "온도차 (Thermometer) (ON Team Ver.)", locale = "ko", original = true },
+  { name = "Ondocha (Thermometer) (ON Team Ver.)", locale = "ko-Latn", default = true },
+  { name = "Thermometer (ON Team Ver.)", locale = "en" },
+]
