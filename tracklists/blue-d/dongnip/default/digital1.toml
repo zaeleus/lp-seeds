@@ -1,0 +1,8 @@
+medium-ids = [
+  "blue-d/dongnip/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "blue-d/dongnip"
+duration = "3:23"
