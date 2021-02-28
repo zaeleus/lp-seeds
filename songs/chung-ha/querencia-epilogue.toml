@@ -1,0 +1,3 @@
+names = [
+  { name = "Querencia (Epilogue)", locale = "ko", original = true, default = true },
+]

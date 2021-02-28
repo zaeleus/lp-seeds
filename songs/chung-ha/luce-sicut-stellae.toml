@@ -1,0 +1,3 @@
+names = [
+  { name = "Luce Sicut Stellae", locale = "ko", original = true, default = true },
+]

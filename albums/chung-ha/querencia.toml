@@ -1,0 +1,14 @@
+artist-id = "chung-ha"
+kind = "lp"
+
+names = [
+  { name = "Querencia", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-02-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10563287" },
+]
