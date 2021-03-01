@@ -1,0 +1,38 @@
+medium-ids = [
+  "ateez/zero-fever-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ateez/bulloriya-i-m-the-one"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "ateez/seondobu-the-leaders"
+duration = "3:13"
+
+[[tracks]]
+position = 3
+song-id = "ateez/time-of-love"
+duration = "2:57"
+
+[[tracks]]
+position = 4
+song-id = "ateez/take-me-home"
+duration = "3:42"
+
+[[tracks]]
+position = 5
+song-id = "ateez/celebrate"
+duration = "3:17"
+
+[[tracks]]
+position = 6
+song-id = "ateez/take-me-home-english-ver"
+duration = "3:42"
+
+[[tracks]]
+position = 7
+song-id = "ateez/i-m-the-one-heat-topping-ver"
+duration = "3:53"

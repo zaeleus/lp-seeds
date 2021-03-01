@@ -1,0 +1,5 @@
+names = [
+  { name = "불놀이야 (I'm The one)", locale = "ko", original = true },
+  { name = "Bulloriya (I'm The one)", locale = "ko-Latn", default = true },
+  { name = "I'm The one", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "선도부 (The Leaders)", locale = "ko", original = true },
+  { name = "Seondobu (The Leaders)", locale = "ko-Latn", default = true },
+  { name = "The Leaders", locale = "en" },
+]
