@@ -1,0 +1,8 @@
+medium-ids = [
+  "leebada/love-drug/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leebada/love-drug"
+duration = "2:43"
