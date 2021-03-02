@@ -1,0 +1,15 @@
+artist-id = "baek-a-yeon"
+kind = "single"
+
+names = [
+  { name = "집에만 있었지 (바니와 오빠들 X 백아연)", locale = "ko", original = true },
+  { name = "Jibeman Isseotji (Baniwa Oppadeul X Baek A Yeon)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10571187" },
+]

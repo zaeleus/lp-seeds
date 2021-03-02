@@ -1,0 +1,4 @@
+names = [
+  { name = "집에만 있었지 (바니와 오빠들 X 백아연) (Inst.)", locale = "ko", original = true },
+  { name = "Jibeman Isseotji (Baniwa Oppadeul X Baek A Yeon) (Inst.)", locale = "ko-Latn", default = true },
+]
