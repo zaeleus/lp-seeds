@@ -1,0 +1,15 @@
+artist-id = "it-s"
+kind = "single"
+
+names = [
+  { name = "별 (바이크 원정대 OST Part.8)", locale = "ko", original = true },
+  { name = "Byeol (Bike Wonjeongdae OST Part.8)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10571131" },
+]

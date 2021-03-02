@@ -1,0 +1,13 @@
+medium-ids = [
+  "it-s/byeol-bike-wonjeongdae-ost-part-8/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "it-s/byeol"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "it-s/byeol-inst"
+duration = "3:14"
