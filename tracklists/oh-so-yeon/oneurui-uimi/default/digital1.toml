@@ -1,0 +1,13 @@
+medium-ids = [
+  "oh-so-yeon/oneurui-uimi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-so-yeon/oneurui-uimi"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "oh-so-yeon/oneurui-uimi-inst"
+duration = "3:54"
