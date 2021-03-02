@@ -1,0 +1,8 @@
+medium-ids = [
+  "yukika/aewol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yukika/aewol"
+duration = "3:34"
