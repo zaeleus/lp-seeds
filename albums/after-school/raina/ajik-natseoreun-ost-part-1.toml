@@ -1,0 +1,15 @@
+artist-id = "after-school/raina"
+kind = "single"
+
+names = [
+  { name = "아직 낫서른 OST Part.1", locale = "ko", original = true },
+  { name = "Ajik Natseoreun OST Part.1", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10571745" },
+]

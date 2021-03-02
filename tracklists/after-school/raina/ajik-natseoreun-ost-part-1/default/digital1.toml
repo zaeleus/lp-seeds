@@ -1,0 +1,13 @@
+medium-ids = [
+  "after-school/raina/ajik-natseoreun-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "after-school/raina/oneul-yeollakhae"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "after-school/raina/oneul-yeollakhae-inst"
+duration = "3:15"
