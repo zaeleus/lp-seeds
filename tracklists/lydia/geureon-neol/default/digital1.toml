@@ -1,0 +1,13 @@
+medium-ids = [
+  "lydia/geureon-neol/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lydia/geureon-neol"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "lydia/geureon-neol-inst"
+duration = "3:31"

@@ -1,0 +1,15 @@
+artist-id = "lydia"
+kind = "single"
+
+names = [
+  { name = "그런 널", locale = "ko", original = true },
+  { name = "Geureon Neol", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10571188" },
+]
