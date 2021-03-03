@@ -1,0 +1,15 @@
+artist-id = "ikon"
+kind = "single"
+
+names = [
+  { name = "왜왜왜 (Why Why Why)", locale = "ko", original = true },
+  { name = "Why Why Why", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10572359" },
+]

@@ -1,0 +1,4 @@
+names = [
+  { name = "왜왜왜 (Why Why Why)", locale = "ko", original = true },
+  { name = "Why Why Why", locale = "en", default = true },
+]
