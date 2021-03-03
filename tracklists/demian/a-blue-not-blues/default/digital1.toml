@@ -1,0 +1,13 @@
+medium-ids = [
+  "demian/a-blue-not-blues/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "demian/love-feat-dawn"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "demian/one-more-night"
+duration = "3:33"
