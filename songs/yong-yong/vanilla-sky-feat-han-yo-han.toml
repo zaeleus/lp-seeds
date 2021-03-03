@@ -1,0 +1,4 @@
+names = [
+  { name = "Vanilla Sky (feat. 한요한)", locale = "ko", original = true },
+  { name = "Vanilla Sky (feat. Han Yo Han)", locale = "ko-Latn", default = true },
+]

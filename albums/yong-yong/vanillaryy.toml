@@ -1,0 +1,14 @@
+artist-id = "yong-yong"
+kind = "single"
+
+names = [
+  { name = "Vanillaryy", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10572119" },
+]
