@@ -1,0 +1,13 @@
+medium-ids = [
+  "lyn/geudael-saegyeodueoyo-bareunyeonae-giljabi-x-lyn/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lyn/geudael-saegyeodueoyo-bareunyeonae-giljabi-x-lyn"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "lyn/geudael-saegyeodueoyo-bareunyeonae-giljabi-x-lyn-inst"
+duration = "3:28"

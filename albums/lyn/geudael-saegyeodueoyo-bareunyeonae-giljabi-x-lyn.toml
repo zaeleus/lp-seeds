@@ -1,0 +1,15 @@
+artist-id = "lyn"
+kind = "single"
+
+names = [
+  { name = "그댈 새겨두어요 (바른연애 길잡이 X 린)", locale = "ko", original = true },
+  { name = "Geudael Saegyeodueoyo (Bareunyeonae Giljabi X Lyn)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10572384" },
+]
