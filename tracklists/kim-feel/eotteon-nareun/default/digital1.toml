@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-feel/eotteon-nareun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-feel/eotteon-nareun"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "kim-feel/eotteon-nareun-inst"
+duration = "3:37"

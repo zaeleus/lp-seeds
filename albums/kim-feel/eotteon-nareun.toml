@@ -1,0 +1,15 @@
+artist-id = "kim-feel"
+kind = "single"
+
+names = [
+  { name = "어떤 날은", locale = "ko", original = true },
+  { name = "Eotteon Nareun", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10572222" },
+]
