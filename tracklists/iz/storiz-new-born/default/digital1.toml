@@ -1,0 +1,13 @@
+medium-ids = [
+  "iz/storiz-new-born/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "iz/gyeousari"
+duration = "4:14"
+
+[[tracks]]
+position = 2
+song-id = "iz/gyeousari-inst"
+duration = "4:14"
