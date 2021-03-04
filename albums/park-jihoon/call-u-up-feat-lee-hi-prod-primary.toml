@@ -1,0 +1,15 @@
+artist-id = "park-jihoon"
+kind = "single"
+
+names = [
+  { name = "Call U Up (Feat. 이하이) (Prod. Primary)", locale = "ko", original = true },
+  { name = "Call U Up (Feat. Lee Hi) (Prod. Primary)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10573145" },
+]
