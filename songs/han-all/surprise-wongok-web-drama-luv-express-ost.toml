@@ -1,0 +1,4 @@
+names = [
+  { name = "Surprise (원곡 웹드라마 'Luv Express' OST)", locale = "ko", original = true },
+  { name = "Surprise (Wongok Web Drama 'Luv Express' OST)", locale = "ko-Latn", default = true },
+]
