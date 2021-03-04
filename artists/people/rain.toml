@@ -5,7 +5,8 @@ gender = "male"
 
 names = [
   { name = "비", locale = "ko", kind = "stage", original = true },
-  { name = "Rain", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "Bi", locale = "ko-Latn", kind = "stage" },
+  { name = "Rain", locale = "en", kind = "stage", default = true },
   { name = "정지훈", locale = "ko", kind = "real" },
   { name = "Jung Ji Hoon", locale = "ko-Latn", kind = "real" },
 ]
