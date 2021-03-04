@@ -1,0 +1,23 @@
+medium-ids = [
+  "rain/pieces-by-rain/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rain/aurora"
+duration = "3:58"
+
+[[tracks]]
+position = 2
+song-id = "rain/magnetic-feat-jackson"
+duration = "2:39"
+
+[[tracks]]
+position = 3
+song-id = "rain/why-don-t-we-feat-chung-ha"
+duration = "2:59"
+
+[[tracks]]
+position = 4
+song-id = "rain/iriruwa-feat-keita-tag-won-of-ciipher"
+duration = "3:37"

@@ -1,0 +1,4 @@
+names = [
+  { name = "WHY DON'T WE (Feat. 청하)", locale = "ko", original = true },
+  { name = "WHY DON'T WE (Feat. Chung Ha)", locale = "ko-Latn", default = true },
+]

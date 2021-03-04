@@ -1,0 +1,4 @@
+names = [
+  { name = "MAGNETIC (Feat. 잭슨)", locale = "ko", original = true },
+  { name = "MAGNETIC (Feat. Jackson)", locale = "ko-Latn", default = true },
+]
