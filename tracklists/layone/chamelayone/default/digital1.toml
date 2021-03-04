@@ -1,0 +1,13 @@
+medium-ids = [
+  "layone/chamelayone/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "layone/exclamation-markx3-prod-lnb"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "layone/beoseuya-dolgo-dora-dasi-naege-ora"
+duration = "3:49"

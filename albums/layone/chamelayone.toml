@@ -1,0 +1,14 @@
+artist-id = "layone"
+kind = "single"
+
+names = [
+  { name = "Chamelayone", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10570216" },
+]
