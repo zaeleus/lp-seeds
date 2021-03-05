@@ -1,0 +1,14 @@
+artist-id = "nucksal"
+kind = "single"
+
+names = [
+  { name = "FEEL THE WAVE", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10573889" },
+]
