@@ -1,0 +1,4 @@
+names = [
+  { name = "OKAY (Feat. 스윙스)", locale = "ko", original = true },
+  { name = "OKAY (Feat. Swings)", locale = "ko-Latn", default = true },
+]

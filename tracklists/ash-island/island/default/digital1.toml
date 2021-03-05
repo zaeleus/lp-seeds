@@ -1,0 +1,58 @@
+medium-ids = [
+  "ash-island/island/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ash-island/melody"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "ash-island/okay-feat-swings"
+duration = "2:41"
+
+[[tracks]]
+position = 3
+song-id = "ash-island/over"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "ash-island/a-star-is-born"
+duration = "1:50"
+
+[[tracks]]
+position = 5
+song-id = "ash-island/geurangpeuri-feat-beenzino"
+duration = "2:36"
+
+[[tracks]]
+position = 6
+song-id = "ash-island/checks-feat-superbee-jay-park-the-quiett"
+duration = "2:59"
+
+[[tracks]]
+position = 7
+song-id = "ash-island/eclipse"
+duration = "2:23"
+
+[[tracks]]
+position = 8
+song-id = "ash-island/lonely"
+duration = "3:17"
+
+[[tracks]]
+position = 9
+song-id = "ash-island/error-feat-loopy"
+duration = "3:28"
+
+[[tracks]]
+position = 10
+song-id = "ash-island/beautiful-feat-skinny-brown"
+duration = "2:55"
+
+[[tracks]]
+position = 11
+song-id = "ash-island/one-more-night-feat-lilboi"
+duration = "3:16"

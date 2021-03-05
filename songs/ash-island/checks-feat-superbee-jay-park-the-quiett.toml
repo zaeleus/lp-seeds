@@ -1,0 +1,4 @@
+names = [
+  { name = "Checks (Feat. 수퍼비, 박재범 & The Quiett)", locale = "ko", original = true },
+  { name = "Checks (Feat. SUPERBEE, Jay Park & The Quiett)", locale = "ko-Latn", default = true },
+]
