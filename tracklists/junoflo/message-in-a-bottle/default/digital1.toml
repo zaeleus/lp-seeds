@@ -1,0 +1,8 @@
+medium-ids = [
+  "junoflo/message-in-a-bottle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "junoflo/message-in-a-bottle"
+duration = "3:01"
