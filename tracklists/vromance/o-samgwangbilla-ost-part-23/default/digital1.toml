@@ -1,0 +1,13 @@
+medium-ids = [
+  "vromance/o-samgwangbilla-ost-part-23/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vromance/hangeoreum-dugeoreum-segeoreum"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "vromance/hangeoreum-dugeoreum-segeoreum-inst"
+duration = "3:03"

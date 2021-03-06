@@ -1,0 +1,4 @@
+names = [
+  { name = "한걸음 두걸음 세걸음", locale = "ko", original = true },
+  { name = "Hangeoreum Dugeoreum Segeoreum", locale = "ko-Latn", default = true },
+]
