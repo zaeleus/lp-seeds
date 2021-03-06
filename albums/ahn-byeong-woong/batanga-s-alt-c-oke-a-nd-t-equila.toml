@@ -1,0 +1,14 @@
+artist-id = "ahn-byeong-woong"
+kind = "ep"
+
+names = [
+  { name = "Batanga! (S. alt' C. oke A .nd T. equila)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10574163" },
+]
