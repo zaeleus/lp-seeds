@@ -1,0 +1,13 @@
+medium-ids = [
+  "verivery/series-o-round-1-hall/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "verivery/get-away"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "verivery/numbness"
+duration = "3:17"

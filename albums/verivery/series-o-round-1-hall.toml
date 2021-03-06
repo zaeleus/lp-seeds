@@ -1,0 +1,14 @@
+artist-id = "verivery"
+kind = "single"
+
+names = [
+  { name = "SERIES 'O' [ROUND 1: HALL]", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10571735" },
+]
