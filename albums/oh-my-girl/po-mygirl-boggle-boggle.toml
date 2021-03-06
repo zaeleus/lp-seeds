@@ -1,0 +1,16 @@
+artist-id = "oh-my-girl"
+kind = "single"
+
+names = [
+  { name = "뽀마이걸 보글보글", locale = "ko", original = true },
+  { name = "Ppomaigeol Bogeulbogeul", locale = "ko-Latn" },
+  { name = "PO~MYGIRL BOGGLE BOGGLE", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10573497" },
+]

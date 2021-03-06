@@ -1,0 +1,13 @@
+medium-ids = [
+  "oh-my-girl/po-mygirl-boggle-boggle/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-my-girl/boggle-boggle"
+duration = "2:24"
+
+[[tracks]]
+position = 2
+song-id = "oh-my-girl/boggle-boggle-inst"
+duration = "2:23"
