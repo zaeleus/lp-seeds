@@ -1,0 +1,13 @@
+medium-ids = [
+  "bibi/goemul-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bibi/timeless"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "bibi/timeless-inst"
+duration = "3:22"
