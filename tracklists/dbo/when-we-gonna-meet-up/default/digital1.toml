@@ -1,0 +1,13 @@
+medium-ids = [
+  "dbo/when-we-gonna-meet-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dbo/meet-up"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "dbo/when-we-gonna"
+duration = "2:30"
