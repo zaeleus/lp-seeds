@@ -1,0 +1,8 @@
+medium-ids = [
+  "saevom/sarang/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saevom/sarang-with-park-jae-woo"
+duration = "3:39"
