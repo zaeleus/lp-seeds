@@ -1,0 +1,14 @@
+artist-id = "vinxen"
+kind = "single"
+
+names = [
+  { name = "FLYING HIGH WITH U", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10574149" },
+]

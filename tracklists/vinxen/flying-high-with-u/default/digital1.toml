@@ -1,0 +1,18 @@
+medium-ids = [
+  "vinxen/flying-high-with-u/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vinxen/flying-high-with-u"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "vinxen/piryoga"
+duration = "4:16"
+
+[[tracks]]
+position = 3
+song-id = "vinxen/sonagi"
+duration = "2:13"
