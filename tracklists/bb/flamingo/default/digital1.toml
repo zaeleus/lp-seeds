@@ -1,0 +1,8 @@
+medium-ids = [
+  "bb/flamingo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bb/flamingo-feat-geuneul"
+duration = "3:02"

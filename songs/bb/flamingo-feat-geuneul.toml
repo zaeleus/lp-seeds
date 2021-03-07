@@ -1,0 +1,5 @@
+names = [
+  { name = "플라밍고 (Feat. 그늘)", locale = "ko", original = true },
+  { name = "Peullaminggo (Feat. Geuneul)", locale = "ko-Latn" },
+  { name = "Flamingo (Feat. Geuneul)", locale = "en", default = true },
+]

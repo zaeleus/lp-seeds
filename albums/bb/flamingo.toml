@@ -1,0 +1,16 @@
+artist-id = "bb"
+kind = "single"
+
+names = [
+  { name = "플라밍고", locale = "ko", original = true },
+  { name = "Peullaminggo", locale = "ko-Latn" },
+  { name = "Flamingo", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10573756" },
+]
