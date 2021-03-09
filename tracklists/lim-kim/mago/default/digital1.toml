@@ -1,0 +1,8 @@
+medium-ids = [
+  "lim-kim/mago/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lim-kim/mago"
+duration = "2:10"
