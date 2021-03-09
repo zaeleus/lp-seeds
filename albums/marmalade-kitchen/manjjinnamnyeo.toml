@@ -1,0 +1,15 @@
+artist-id = "marmalade-kitchen"
+kind = "single"
+
+names = [
+  { name = "만찢남녀", locale = "ko", original = true },
+  { name = "Manjjinnamnyeo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10574779" },
+]

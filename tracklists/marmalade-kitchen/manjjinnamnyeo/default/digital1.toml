@@ -1,0 +1,13 @@
+medium-ids = [
+  "marmalade-kitchen/manjjinnamnyeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "marmalade-kitchen/manjjinnamnyeo-feat-heunhanireum-jionia"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "marmalade-kitchen/manjjinnamnyeo-inst"
+duration = "3:14"
