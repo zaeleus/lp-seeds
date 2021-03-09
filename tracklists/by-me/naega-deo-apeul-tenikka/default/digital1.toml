@@ -1,0 +1,13 @@
+medium-ids = [
+  "by-me/naega-deo-apeul-tenikka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "by-me/naega-deo-apeul-tenikka"
+duration = "4:19"
+
+[[tracks]]
+position = 2
+song-id = "by-me/naega-deo-apeul-tenikka-inst"
+duration = "4:17"
