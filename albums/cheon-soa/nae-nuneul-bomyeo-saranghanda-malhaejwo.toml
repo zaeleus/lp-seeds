@@ -1,0 +1,15 @@
+artist-id = "cheon-soa"
+kind = "single"
+
+names = [
+  { name = "내 눈을 보며 사랑한다 말해줘", locale = "ko", original = true },
+  { name = "Nae Nuneul Bomyeo Saranghanda Malhaejwo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10575988" },
+]

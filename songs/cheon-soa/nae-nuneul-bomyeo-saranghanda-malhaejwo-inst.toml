@@ -1,0 +1,4 @@
+names = [
+  { name = "내 눈을 보며 사랑한다 말해줘 (inst.)", locale = "ko", original = true },
+  { name = "Nae Nuneul Bomyeo Saranghanda Malhaejwo (inst.)", locale = "ko-Latn", default = true },
+]
