@@ -1,0 +1,14 @@
+artist-id = "crucial-star"
+kind = "single"
+
+names = [
+  { name = "love u so march", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10575127" },
+]

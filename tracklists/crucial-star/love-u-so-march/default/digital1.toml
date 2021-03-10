@@ -1,0 +1,13 @@
+medium-ids = [
+  "crucial-star/love-u-so-march/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "crucial-star/geuraedo-neoga-joeun-geol-eotteokhae-feat-jeminn"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "crucial-star/gippeo-feat-kuro"
+duration = "3:16"

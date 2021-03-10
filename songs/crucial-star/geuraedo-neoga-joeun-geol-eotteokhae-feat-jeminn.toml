@@ -1,0 +1,4 @@
+names = [
+  { name = "그래도 너가 좋은 걸 어떡해 (Feat. JEMINN)", locale = "ko", original = true },
+  { name = "Geuraedo Neoga Joeun Geol Eotteokhae (Feat. JEMINN)", locale = "ko-Latn", default = true },
+]
