@@ -1,0 +1,4 @@
+names = [
+  { name = "다이나믹 듀오 (feat. 넉살)", locale = "ko", original = true },
+  { name = "Dainamik Dyuo (feat. Nucksal)", locale = "ko-Latn", default = true },
+]

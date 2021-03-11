@@ -1,0 +1,3 @@
+names = [
+  { name = "George Brown College", locale = "ko", original = true, default = true },
+]

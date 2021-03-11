@@ -1,0 +1,4 @@
+names = [
+  { name = "대박인생 (feat. Northfacegawd, UNEDUCATED KID)", locale = "ko", original = true },
+  { name = "Daebaginsaeng (feat. Northfacegawd, UNEDUCATED KID)", locale = "ko-Latn", default = true },
+]

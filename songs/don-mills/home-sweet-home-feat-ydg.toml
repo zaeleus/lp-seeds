@@ -1,0 +1,3 @@
+names = [
+  { name = "Home Sweet Home (feat. YDG)", locale = "ko", original = true, default = true },
+]

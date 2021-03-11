@@ -1,0 +1,3 @@
+names = [
+  { name = "Fresh Off the Boat (feat. Los)", locale = "ko", original = true, default = true },
+]
