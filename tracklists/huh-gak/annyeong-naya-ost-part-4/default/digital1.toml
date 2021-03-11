@@ -1,0 +1,13 @@
+medium-ids = [
+  "huh-gak/annyeong-naya-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "huh-gak/geu-sigan-geu-gonggan"
+duration = "3:07"
+
+[[tracks]]
+position = 2
+song-id = "huh-gak/geu-sigan-geu-gonggan-inst"
+duration = "3:08"

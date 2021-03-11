@@ -1,0 +1,16 @@
+artist-id = "huh-gak"
+kind = "single"
+
+names = [
+  { name = "안녕? 나야! OST Part.4", locale = "ko", original = true },
+  { name = "Annyeong? Naya! OST Part.4", locale = "ko-Latn", default = true },
+  { name = "Hello, Me! OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-03-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10576327" },
+]
