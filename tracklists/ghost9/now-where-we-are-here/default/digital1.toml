@@ -1,0 +1,33 @@
+medium-ids = [
+  "ghost9/now-where-we-are-here/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ghost9/trigger-intro"
+duration = "1:18"
+
+[[tracks]]
+position = 2
+song-id = "ghost9/seoul"
+duration = "3:44"
+
+[[tracks]]
+position = 3
+song-id = "ghost9/uno"
+duration = "3:48"
+
+[[tracks]]
+position = 4
+song-id = "ghost9/starvoy"
+duration = "3:32"
+
+[[tracks]]
+position = 5
+song-id = "ghost9/hide-seek"
+duration = "3:10"
+
+[[tracks]]
+position = 6
+song-id = "ghost9/monday-to-sunday"
+duration = "3:26"

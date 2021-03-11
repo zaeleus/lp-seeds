@@ -1,0 +1,3 @@
+names = [
+  { name = "Hide & Seek", locale = "ko", original = true, default = true },
+]
