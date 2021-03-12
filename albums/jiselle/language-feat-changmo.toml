@@ -1,0 +1,15 @@
+artist-id = "jiselle"
+kind = "single"
+
+names = [
+  { name = "LANGUAGE (Feat. 창모)", locale = "ko", original = true },
+  { name = "LANGUAGE (Feat. CHANGMO)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10576691" },
+]
