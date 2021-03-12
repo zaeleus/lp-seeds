@@ -1,0 +1,5 @@
+names = [
+  { name = "숨;(Blood Night) (Japanese ver.)", locale = "ko", original = true },
+  { name = "Sum;(Blood Night) (Japanese ver.)", locale = "ko-Latn", default = true },
+  { name = "Breathe;(Blood Night) (Japanese ver.)", locale = "en" },
+]

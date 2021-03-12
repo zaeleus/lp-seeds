@@ -1,0 +1,5 @@
+names = [
+  { name = "한바탕 웃음으로 (ver. M)", locale = "ko", original = true },
+  { name = "Hanbatang Useumeuro (ver. M)", locale = "ko-Latn", default = true },
+  { name = "With a Smile (ver. M)", locale = "en" },
+]

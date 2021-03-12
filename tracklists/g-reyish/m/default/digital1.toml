@@ -1,0 +1,38 @@
+medium-ids = [
+  "g-reyish/m/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-reyish/sum-blood-night-kor-ver"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "g-reyish/shining-moment"
+duration = "3:40"
+
+[[tracks]]
+position = 3
+song-id = "g-reyish/johnny-go-go-ver-m"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song-id = "g-reyish/hanbatang-useumeuro-ver-m"
+duration = "3:33"
+
+[[tracks]]
+position = 5
+song-id = "g-reyish/candy-ver-m"
+duration = "2:55"
+
+[[tracks]]
+position = 6
+song-id = "g-reyish/kkili-kkili-ver-m"
+duration = "3:04"
+
+[[tracks]]
+position = 7
+song-id = "g-reyish/sum-blood-night-japanese-ver"
+duration = "3:29"

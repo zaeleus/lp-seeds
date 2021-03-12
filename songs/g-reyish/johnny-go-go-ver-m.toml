@@ -1,0 +1,5 @@
+names = [
+  { name = "쟈니 고고 (ver. M)", locale = "ko", original = true },
+  { name = "Jyani Gogo (ver. M)", locale = "ko-Latn" },
+  { name = "Johnny Go Go (ver. M)", locale = "en", default = true },
+]
