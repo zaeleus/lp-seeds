@@ -1,0 +1,14 @@
+artist-id = "blackpink/rose"
+kind = "single"
+
+names = [
+  { name = "R", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10576966" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "blackpink/rose/r/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "blackpink/rose/on-the-ground"
+duration = "2:49"
+
+[[tracks]]
+position = 2
+song-id = "blackpink/rose/gone"
+duration = "3:28"
