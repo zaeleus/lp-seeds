@@ -1,0 +1,33 @@
+medium-ids = [
+  "buzz/ireobeorin-sigan/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "buzz/analog"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "buzz/geudaeraseo"
+duration = "4:00"
+
+[[tracks]]
+position = 3
+song-id = "buzz/lighthouse"
+duration = "5:24"
+
+[[tracks]]
+position = 4
+song-id = "buzz/bi"
+duration = "3:53"
+
+[[tracks]]
+position = 5
+song-id = "buzz/wiro"
+duration = "3:45"
+
+[[tracks]]
+position = 6
+song-id = "buzz/naeireun"
+duration = "3:23"

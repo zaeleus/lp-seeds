@@ -1,0 +1,5 @@
+names = [
+  { name = "아날로그", locale = "ko", original = true },
+  { name = "Anallogeu", locale = "ko-Latn" },
+  { name = "Analog", locale = "en", default = true },
+]
