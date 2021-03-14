@@ -1,0 +1,13 @@
+medium-ids = [
+  "mamamoo/solar/vincenzo-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/solar/adrenaline"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/solar/adrenaline-inst"
+duration = "3:27"
