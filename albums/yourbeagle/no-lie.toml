@@ -1,0 +1,14 @@
+artist-id = "yourbeagle"
+kind = "single"
+
+names = [
+  { name = "No Lie", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10577195" },
+]
