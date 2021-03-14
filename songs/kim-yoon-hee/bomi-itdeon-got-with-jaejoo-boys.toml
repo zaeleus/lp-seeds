@@ -1,0 +1,4 @@
+names = [
+  { name = "봄이 있던 곳 (With 재주소년)", locale = "ko", original = true },
+  { name = "Bomi Itdeon Got (With Jaejoo Boys)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-yoon-hee/bomi-itdeon-got/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-yoon-hee/bomi-itdeon-got-with-jaejoo-boys"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "kim-yoon-hee/bomi-itdeon-got-inst"
+duration = "3:57"
