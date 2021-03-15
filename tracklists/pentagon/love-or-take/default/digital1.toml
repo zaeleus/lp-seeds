@@ -1,0 +1,38 @@
+medium-ids = [
+  "pentagon/love-or-take/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pentagon/10-cho-jeon"
+duration = "2:54"
+
+[[tracks]]
+position = 2
+song-id = "pentagon/do-or-not"
+duration = "3:09"
+
+[[tracks]]
+position = 3
+song-id = "pentagon/1-1"
+duration = "2:58"
+
+[[tracks]]
+position = 4
+song-id = "pentagon/baby-i-love-you"
+duration = "3:12"
+
+[[tracks]]
+position = 5
+song-id = "pentagon/that-s-me"
+duration = "2:44"
+
+[[tracks]]
+position = 6
+song-id = "pentagon/noraehae"
+duration = "2:51"
+
+[[tracks]]
+position = 7
+song-id = "pentagon/sonyeongamseong-hui-solo-bonus-track"
+duration = "3:39"

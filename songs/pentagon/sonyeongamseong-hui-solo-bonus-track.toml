@@ -1,0 +1,4 @@
+names = [
+  { name = "소년감성 (후이 Solo) [Bonus Track]", locale = "ko", original = true },
+  { name = "Sonyeongamseong (Hui Solo) [Bonus Track]", locale = "ko-Latn", default = true },
+]
