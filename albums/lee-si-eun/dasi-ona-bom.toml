@@ -1,0 +1,15 @@
+artist-id = "lee-si-eun"
+kind = "single"
+
+names = [
+  { name = "다시 오나 봄", locale = "ko", original = true },
+  { name = "Dasi Ona Bom", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10577446" },
+]
