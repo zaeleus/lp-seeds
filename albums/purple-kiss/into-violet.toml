@@ -1,0 +1,14 @@
+artist-id = "purple-kiss"
+kind = "ep"
+
+names = [
+  { name = "INTO VIOLET", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10577650" },
+]

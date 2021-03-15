@@ -1,0 +1,38 @@
+medium-ids = [
+  "purple-kiss/into-violet/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "purple-kiss/intro-crown"
+duration = "0:40"
+
+[[tracks]]
+position = 2
+song-id = "purple-kiss/ponzona"
+duration = "3:12"
+
+[[tracks]]
+position = 3
+song-id = "purple-kiss/can-we-talk-again"
+duration = "3:05"
+
+[[tracks]]
+position = 4
+song-id = "purple-kiss/skip-skip"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "purple-kiss/hello"
+duration = "3:22"
+
+[[tracks]]
+position = 6
+song-id = "purple-kiss/my-heart-skip-a-beat"
+duration = "3:19"
+
+[[tracks]]
+position = 7
+song-id = "purple-kiss/machimpyo-period"
+duration = "3:35"

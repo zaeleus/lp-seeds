@@ -1,0 +1,5 @@
+names = [
+  { name = "마침표 (Period)", locale = "ko", original = true },
+  { name = "Machimpyo (Period)", locale = "ko-Latn", default = true },
+  { name = "Period", locale = "en" },
+]
