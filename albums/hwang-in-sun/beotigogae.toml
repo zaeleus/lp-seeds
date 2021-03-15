@@ -1,0 +1,15 @@
+artist-id = "hwang-in-sun"
+kind = "single"
+
+names = [
+  { name = "버티고개", locale = "ko", original = true },
+  { name = "Beotigogae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10577460" },
+]
