@@ -1,0 +1,16 @@
+artist-id = "ailee"
+kind = "single"
+
+names = [
+  { name = "시지프스 OST Part.3", locale = "ko", original = true },
+  { name = "Sijipeuseu OST Part.3", locale = "ko-Latn" },
+  { name = "Sisyphus OST Part.3", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10575528" },
+]

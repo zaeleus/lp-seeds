@@ -1,0 +1,13 @@
+medium-ids = [
+  "ailee/sisyphus-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ailee/my-last-love-in-paradisum"
+duration = "4:19"
+
+[[tracks]]
+position = 2
+song-id = "ailee/my-last-love-in-paradisum-inst"
+duration = "4:19"
