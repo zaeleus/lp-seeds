@@ -1,0 +1,13 @@
+medium-ids = [
+  "zia/dari-tteuneun-gang-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "zia/nugungaui-mueosi-doeeo"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "zia/nugungaui-mueosi-doeeo-inst"
+duration = "3:26"
