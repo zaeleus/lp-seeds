@@ -1,0 +1,8 @@
+medium-ids = [
+  "btob/peniel/valentine/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "btob/peniel/valentine"
+duration = "3:07"
