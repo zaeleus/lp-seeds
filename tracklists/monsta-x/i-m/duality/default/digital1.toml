@@ -1,0 +1,28 @@
+medium-ids = [
+  "monsta-x/i-m/duality/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "monsta-x/i-m/god-damn"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "monsta-x/i-m/howlin"
+duration = "2:46"
+
+[[tracks]]
+position = 3
+song-id = "monsta-x/i-m/burn"
+duration = "2:47"
+
+[[tracks]]
+position = 4
+song-id = "monsta-x/i-m/happy-to-die"
+duration = "2:59"
+
+[[tracks]]
+position = 5
+song-id = "monsta-x/i-m/sideun-kkot-flower-ed"
+duration = "2:30"
