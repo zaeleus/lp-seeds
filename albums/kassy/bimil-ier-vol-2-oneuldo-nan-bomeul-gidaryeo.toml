@@ -1,0 +1,15 @@
+artist-id = "kassy"
+kind = "single"
+
+names = [
+  { name = "비밀:리에 vol.2 \"오늘도 난 봄을 기다려\"", locale = "ko", original = true },
+  { name = "bimil:ier vol.2 \"Oneuldo Nan Bomeul Gidaryeo\"", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10565749" },
+]

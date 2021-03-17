@@ -1,0 +1,13 @@
+medium-ids = [
+  "kassy/bimil-ier-vol-2-oneuldo-nan-bomeul-gidaryeo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/oneuldo-nan-bomeul-gidaryeo"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "kassy/oneuldo-nan-bomeul-gidaryeo-inst"
+duration = "3:22"
