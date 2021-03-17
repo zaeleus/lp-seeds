@@ -1,0 +1,28 @@
+medium-ids = [
+  "weeekly/we-play/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weeekly/yummy"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "weeekly/lucky"
+duration = "3:19"
+
+[[tracks]]
+position = 3
+song-id = "weeekly/after-school"
+duration = "3:26"
+
+[[tracks]]
+position = 4
+song-id = "weeekly/uni"
+duration = "3:19"
+
+[[tracks]]
+position = 5
+song-id = "weeekly/nabi-donghwa"
+duration = "3:17"
