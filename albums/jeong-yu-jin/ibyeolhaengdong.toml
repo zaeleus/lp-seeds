@@ -1,0 +1,15 @@
+artist-id = "jeong-yu-jin"
+kind = "single"
+
+names = [
+  { name = "이별행동", locale = "ko", original = true },
+  { name = "Ibyeolhaengdong", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10577748" },
+]

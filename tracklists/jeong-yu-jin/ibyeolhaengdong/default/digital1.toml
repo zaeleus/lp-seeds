@@ -1,0 +1,13 @@
+medium-ids = [
+  "jeong-yu-jin/ibyeolhaengdong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jeong-yu-jin/ibyeolhaengdong"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "jeong-yu-jin/ibyeolhaengdong-inst"
+duration = "3:44"
