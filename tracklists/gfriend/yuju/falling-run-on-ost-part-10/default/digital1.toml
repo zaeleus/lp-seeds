@@ -1,0 +1,13 @@
+medium-ids = [
+  "gfriend/yuju/falling-run-on-ost-part-10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gfriend/yuju/falling"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "gfriend/yuju/falling-inst"
+duration = "3:46"
