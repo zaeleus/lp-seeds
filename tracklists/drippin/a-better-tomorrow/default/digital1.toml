@@ -1,0 +1,33 @@
+medium-ids = [
+  "drippin/a-better-tomorrow/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "drippin/a-better-tomorrow"
+duration = "1:18"
+
+[[tracks]]
+position = 2
+song-id = "drippin/young-blood"
+duration = "3:15"
+
+[[tracks]]
+position = 3
+song-id = "drippin/soneul-ppeodeobwa"
+duration = "3:25"
+
+[[tracks]]
+position = 4
+song-id = "drippin/without-u"
+duration = "3:05"
+
+[[tracks]]
+position = 5
+song-id = "drippin/firefly"
+duration = "3:43"
+
+[[tracks]]
+position = 6
+song-id = "drippin/fate"
+duration = "3:33"
