@@ -1,0 +1,8 @@
+medium-ids = [
+  "kang-daniel/paranoia/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kang-daniel/paranoia"
+duration = "3:16"
