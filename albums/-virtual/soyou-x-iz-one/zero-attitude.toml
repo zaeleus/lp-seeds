@@ -1,0 +1,19 @@
+artist-id = "-virtual/soyou-x-iz-one"
+kind = "single"
+
+names = [
+  { name = "ZERO: ATTITUDE", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "sistar/soyou", separator = " X " },
+  { artist-id = "iz-one" },
+]
+
+[[releases]]
+released-on = "2021-02-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10563256" },
+]

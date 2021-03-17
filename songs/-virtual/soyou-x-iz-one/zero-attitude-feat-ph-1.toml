@@ -1,0 +1,8 @@
+names = [
+  { name = "ZERO: ATTITUDE (Feat. pH-1)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "sistar/soyou", separator = " X " },
+  { artist-id = "iz-one" },
+]
