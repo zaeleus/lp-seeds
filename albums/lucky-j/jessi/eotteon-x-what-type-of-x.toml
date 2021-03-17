@@ -1,0 +1,16 @@
+artist-id = "lucky-j/jessi"
+kind = "single"
+
+names = [
+  { name = "어떤X (What Type of X)", locale = "ko", original = true },
+  { name = "Eotteon X (What Type of X)", locale = "ko-Latn", default = true },
+  { name = "What Type of X", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-03-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10578808" },
+]

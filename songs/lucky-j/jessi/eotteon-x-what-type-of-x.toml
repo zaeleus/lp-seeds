@@ -1,0 +1,5 @@
+names = [
+  { name = "어떤X (What Type of X)", locale = "ko", original = true },
+  { name = "Eotteon X (What Type of X)", locale = "ko-Latn", default = true },
+  { name = "What Type of X", locale = "en" },
+]
