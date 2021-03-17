@@ -1,0 +1,16 @@
+artist-id = "oh-my-girl/hyo-jung"
+kind = "single"
+
+names = [
+  { name = "길 (From \"라야와 마지막 드래곤\")", locale = "ko", original = true },
+  { name = "Gil (From \"Rayawa Majimak Dragon\")", locale = "ko-Latn", default = true },
+  { name = "Lead the Way (From \"Raya and the Last Dragon\")", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-02-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10569976" },
+]

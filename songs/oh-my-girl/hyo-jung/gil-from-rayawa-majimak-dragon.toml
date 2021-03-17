@@ -1,0 +1,5 @@
+names = [
+  { name = "길 (From \"라야와 마지막 드래곤\")", locale = "ko", original = true },
+  { name = "Gil (From \"Rayawa Majimak Dragon\")", locale = "ko-Latn", default = true },
+  { name = "Lead the Way (From \"Raya and the Last Dragon\")", locale = "en" },
+]
