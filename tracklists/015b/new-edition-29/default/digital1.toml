@@ -1,0 +1,13 @@
+medium-ids = [
+  "015b/new-edition-29/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "015b/geu-bomui-heunjeokdeul-feat-lee-taekwon"
+duration = "4:33"
+
+[[tracks]]
+position = 2
+song-id = "015b/geu-bomui-heunjeokdeul-inst"
+duration = "4:32"
