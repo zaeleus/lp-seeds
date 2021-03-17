@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/yang-yo-seob-jeong-eun-ji/love-day-2021-bareunyeonae-giljabi-x-yang-yo-seob-jeong-eun-ji/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/yang-yo-seob-jeong-eun-ji/love-day-2021-bareunyeonae-giljabi-x-yang-yo-seob-jeong-eun-ji"
+duration = "4:18"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/yang-yo-seob-jeong-eun-ji/love-day-2021-bareunyeonae-giljabi-x-yang-yo-seob-jeong-eun-ji-inst"
+duration = "4:18"

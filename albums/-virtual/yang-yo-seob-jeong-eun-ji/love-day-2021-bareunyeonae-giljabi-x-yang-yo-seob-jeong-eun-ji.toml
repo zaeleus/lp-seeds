@@ -1,0 +1,26 @@
+artist-id = "-virtual/yang-yo-seob-jeong-eun-ji"
+kind = "single"
+
+names = [
+  { name = "LOVE DAY (2021) (바른연애 길잡이 X 양요섭, 정은지)", locale = "ko", original = true },
+  { name = "LOVE DAY (2021) (Bareunyeonae Giljabi X Yang Yo Seob, Jeong Eun Ji)", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "beast/yang-yo-seob"
+separator = ", "
+
+[[artist-credits]]
+artist-id = "apink/eun-ji"
+names = [
+  { name = "정은지", locale = "ko", original = true },
+  { name = "Jeong Eun Ji", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10573486" },
+]
