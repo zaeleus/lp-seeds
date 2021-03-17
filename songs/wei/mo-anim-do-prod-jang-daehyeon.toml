@@ -1,0 +1,4 @@
+names = [
+  { name = "모 아님 도 (Prod. 장대현)", locale = "ko", original = true },
+  { name = "Mo Anim Do (Prod. Jang Daehyeon)", locale = "ko-Latn", default = true },
+]
