@@ -1,0 +1,15 @@
+artist-id = "nine-muses/keum-jo"
+kind = "single"
+
+names = [
+  { name = "월광애 (月光愛)", locale = "ko", original = true },
+  { name = "Wolgwangae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-02-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10569566" },
+]

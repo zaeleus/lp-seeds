@@ -1,0 +1,4 @@
+names = [
+  { name = "월광애 (月光愛)", locale = "ko", original = true },
+  { name = "Wolgwangae", locale = "ko-Latn", default = true },
+]
