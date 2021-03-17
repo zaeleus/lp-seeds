@@ -1,0 +1,16 @@
+artist-id = "clc"
+kind = "single"
+
+names = [
+  { name = "오늘부터 계약연애 OST", locale = "ko", original = true },
+  { name = "Oneulbuteo Gyeyagyeonae OST", locale = "ko-Latn", default = true },
+  { name = "Contract Relationship Starting Today OST", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-03-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10574624" },
+]

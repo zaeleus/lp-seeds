@@ -1,0 +1,13 @@
+medium-ids = [
+  "clc/oneulbuteo-gyeyagyeonae-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "clc/another-level-sung-by-seunghee-seungyeon-yeeun"
+duration = "3:22"
+
+[[tracks]]
+position = 2
+song-id = "clc/another-level-inst"
+duration = "3:22"

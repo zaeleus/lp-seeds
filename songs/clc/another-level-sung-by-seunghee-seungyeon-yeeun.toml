@@ -1,0 +1,4 @@
+names = [
+  { name = "Another Level (Sung by 승희, 승연, 예은)", locale = "ko", original = true },
+  { name = "Another Level (Sung by Seunghee, Seungyeon, Yeeun)", locale = "ko-Latn", default = true },
+]
