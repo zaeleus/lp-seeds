@@ -1,0 +1,13 @@
+medium-ids = [
+  "lim-young-woong/byeolbit-gateun-naui-saranga/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lim-young-woong/byeolbit-gateun-naui-saranga"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "lim-young-woong/byeolbit-gateun-naui-saranga-inst"
+duration = "3:51"

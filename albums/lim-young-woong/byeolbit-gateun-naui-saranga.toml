@@ -1,0 +1,15 @@
+artist-id = "lim-young-woong"
+kind = "single"
+
+names = [
+  { name = "별빛 같은 나의 사랑아", locale = "ko", original = true },
+  { name = "Byeolbit Gateun Naui Saranga", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10575005" },
+]

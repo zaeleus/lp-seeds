@@ -1,0 +1,9 @@
+kind = "person"
+started-on = "1991-06-16"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "임영웅", locale = "ko", kind = "real", original = true },
+  { name = "Lim Young Woong", locale = "ko-Latn", kind = "real", default = true },
+]
