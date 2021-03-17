@@ -1,0 +1,5 @@
+names = [
+  { name = "하얀 거짓말 (Tell Me Baby)", locale = "ko", original = true },
+  { name = "Hayan Geojinmal (Tell Me Baby)", locale = "ko-Latn", default = true },
+  { name = "Tell Me Baby", locale = "en" },
+]

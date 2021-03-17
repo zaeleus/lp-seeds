@@ -1,0 +1,5 @@
+names = [
+  { name = "같이 걸을까 (More Days with You)", locale = "ko", original = true },
+  { name = "Gachi Georeulkka (More Days with You)", locale = "ko-Latn", default = true },
+  { name = "More Days with You", locale = "en" },
+]

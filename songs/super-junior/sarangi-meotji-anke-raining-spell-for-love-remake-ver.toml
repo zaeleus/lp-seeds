@@ -1,0 +1,5 @@
+names = [
+  { name = "사랑이 멎지 않게 (Raining Spell for Love) (Remake ver.)", locale = "ko", original = true },
+  { name = "Sarangi Meotji Anke (Raining Spell for Love) (Remake Ver.)", locale = "ko-Latn", default = true },
+  { name = "Raining Spell for Love (Remake ver.)", locale = "en" },
+]
