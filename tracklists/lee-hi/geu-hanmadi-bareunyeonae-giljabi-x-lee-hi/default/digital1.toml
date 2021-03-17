@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-hi/geu-hanmadi-bareunyeonae-giljabi-x-lee-hi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-hi/geu-hanmadi-bareunyeonae-giljabi-x-lee-hi"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "lee-hi/geu-hanmadi-bareunyeonae-giljabi-x-lee-hi-inst"
+duration = "3:40"

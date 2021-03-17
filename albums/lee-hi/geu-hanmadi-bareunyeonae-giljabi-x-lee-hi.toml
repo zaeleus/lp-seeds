@@ -1,0 +1,15 @@
+artist-id = "lee-hi"
+kind = "single"
+
+names = [
+  { name = "그 한마디 (바른연애 길잡이 X 이하이)", locale = "ko", original = true },
+  { name = "Geu Hanmadi (Bareunyeonae Giljabi X Lee Hi)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10577232" },
+]
