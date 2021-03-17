@@ -1,0 +1,13 @@
+medium-ids = [
+  "nine-muses/kyung-ree/cheorinwanghu-daenamusup-ost/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nine-muses/kyung-ree/but-i-miss-you"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "nine-muses/kyung-ree/but-i-miss-you-inst"
+duration = "3:40"
