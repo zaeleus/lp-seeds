@@ -1,0 +1,4 @@
+names = [
+  { name = "질투나 (Feat. 김민재 (Real.be))", locale = "ko", original = true },
+  { name = "Jiltuna (Feat. Kim Min Jae (Real.be))", locale = "ko-Latn", default = true },
+]

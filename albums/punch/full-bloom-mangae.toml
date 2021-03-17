@@ -1,0 +1,16 @@
+artist-id = "punch"
+kind = "ep"
+
+names = [
+  { name = "Full Bloom (만개)", locale = "ko", original = true },
+  { name = "Full Bloom (Mangae)", locale = "ko-Latn", default = true },
+  { name = "Full Bloom", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-03-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10575414" },
+]
