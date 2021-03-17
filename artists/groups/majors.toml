@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2021"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "MAJORS", locale = "ko", original = true, default = true },
+]

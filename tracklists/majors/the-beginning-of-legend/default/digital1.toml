@@ -1,0 +1,13 @@
+medium-ids = [
+  "majors/the-beginning-of-legend/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "majors/spit-it-out"
+duration = "3:16"
+
+[[tracks]]
+position = 2
+song-id = "majors/stronger"
+duration = "3:10"
