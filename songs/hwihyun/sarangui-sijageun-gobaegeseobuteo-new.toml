@@ -1,0 +1,4 @@
+names = [
+  { name = "사랑의 시작은 고백에서부터 (new)", locale = "ko", original = true },
+  { name = "Sarangui Sijageun Gobaegeseobuteo (new)", locale = "ko-Latn", default = true },
+]

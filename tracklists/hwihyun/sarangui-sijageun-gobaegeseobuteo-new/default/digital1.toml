@@ -1,0 +1,13 @@
+medium-ids = [
+  "hwihyun/sarangui-sijageun-gobaegeseobuteo-new/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hwihyun/sarangui-sijageun-gobaegeseobuteo-new"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "hwihyun/sarangui-sijageun-gobaegeseobuteo-new-inst"
+duration = "4:16"
