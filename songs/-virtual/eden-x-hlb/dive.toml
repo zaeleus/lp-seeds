@@ -1,0 +1,8 @@
+names = [
+  { name = "DIVE", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "eden", separator = " x " },
+  { artist-id = "hlb" },
+]

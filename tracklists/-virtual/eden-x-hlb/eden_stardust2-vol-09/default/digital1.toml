@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/eden-x-hlb/eden_stardust2-vol-09/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/eden-x-hlb/dive"
+duration = "3:48"
