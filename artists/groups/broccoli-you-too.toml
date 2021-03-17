@@ -1,0 +1,9 @@
+kind = "group"
+# started-on = ""
+country = "KR"
+gender = "coed"
+
+names = [
+  { name = "브로콜리너마저", locale = "ko", original = true },
+  { name = "Broccoli, you too", locale = "en", default = true },
+]
