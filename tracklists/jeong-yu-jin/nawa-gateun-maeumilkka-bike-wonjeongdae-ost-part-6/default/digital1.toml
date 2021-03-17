@@ -1,0 +1,13 @@
+medium-ids = [
+  "jeong-yu-jin/nawa-gateun-maeumilkka-bike-wonjeongdae-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jeong-yu-jin/nawa-gateun-maeumilkka"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "jeong-yu-jin/nawa-gateun-maeumilkka-inst"
+duration = "3:51"
