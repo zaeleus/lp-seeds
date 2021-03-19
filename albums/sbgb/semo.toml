@@ -1,0 +1,15 @@
+artist-id = "sbgb"
+kind = "single"
+
+names = [
+  { name = "세모 (SEMO)", locale = "ko", original = true },
+  { name = "SEMO", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10579582" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "sbgb/semo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sbgb/semo"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "sbgb/semo-inst"
+duration = "3:14"
