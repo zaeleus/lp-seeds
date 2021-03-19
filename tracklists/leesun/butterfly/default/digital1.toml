@@ -1,0 +1,8 @@
+medium-ids = [
+  "leesun/butterfly/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "leesun/butterfly"
+duration = "3:50"

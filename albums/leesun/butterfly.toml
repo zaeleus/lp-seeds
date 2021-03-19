@@ -1,0 +1,14 @@
+artist-id = "leesun"
+kind = "single"
+
+names = [
+  { name = "Butterfly", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10579264" },
+]
