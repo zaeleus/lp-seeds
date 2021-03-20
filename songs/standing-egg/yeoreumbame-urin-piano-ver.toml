@@ -1,0 +1,4 @@
+names = [
+  { name = "여름밤에 우린 (Piano ver.)", locale = "ko", original = true },
+  { name = "Yeoreumbame Urin (Piano ver.)", locale = "ko-Latn", default = true },
+]

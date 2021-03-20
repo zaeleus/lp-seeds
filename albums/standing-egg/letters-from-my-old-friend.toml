@@ -1,0 +1,14 @@
+artist-id = "standing-egg"
+kind = "lp"
+
+names = [
+  { name = "Letters from my old friend", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10580241" },
+]
