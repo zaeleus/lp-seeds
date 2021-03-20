@@ -1,0 +1,16 @@
+artist-id = "sunwoo-jung-a"
+kind = "single"
+
+names = [
+  { name = "괴물 OST Part.4", locale = "ko", original = true },
+  { name = "Goemul OST Part.4", locale = "ko-Latn", default = true },
+  { name = "Beyond Evil OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-03-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10579540" },
+]
