@@ -1,0 +1,13 @@
+medium-ids = [
+  "itzy/midzy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "itzy/midzy"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "itzy/midzy-english-ver"
+duration = "3:42"
