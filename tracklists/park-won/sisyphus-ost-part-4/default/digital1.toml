@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-won/sisyphus-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-won/you-re-my-light-lacrimosa"
+duration = "4:30"
+
+[[tracks]]
+position = 2
+song-id = "park-won/you-re-my-light-lacrimosa-inst"
+duration = "4:30"
