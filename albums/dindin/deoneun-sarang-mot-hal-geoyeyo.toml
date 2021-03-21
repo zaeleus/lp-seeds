@@ -1,0 +1,15 @@
+artist-id = "dindin"
+kind = "single"
+
+names = [
+  { name = "더는 사랑 못 할 거예요", locale = "ko", original = true },
+  { name = "Deoneun Sarang Mot Hal Geoyeyo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10578575" },
+]
