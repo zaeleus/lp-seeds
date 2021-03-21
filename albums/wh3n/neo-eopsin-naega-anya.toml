@@ -1,0 +1,15 @@
+artist-id = "wh3n"
+kind = "single"
+
+names = [
+  { name = "너 없인 내가 아냐", locale = "ko", original = true },
+  { name = "Neo Eopsin Naega Anya", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10579003" },
+]
