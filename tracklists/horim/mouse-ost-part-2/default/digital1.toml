@@ -1,0 +1,13 @@
+medium-ids = [
+  "horim/mouse-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "horim/too-late"
+duration = "2:58"
+
+[[tracks]]
+position = 2
+song-id = "horim/too-late-inst"
+duration = "2:58"
