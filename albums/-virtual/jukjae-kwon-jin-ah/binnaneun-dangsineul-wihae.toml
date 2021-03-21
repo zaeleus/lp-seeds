@@ -1,0 +1,20 @@
+artist-id = "-virtual/jukjae-kwon-jin-ah"
+kind = "single"
+
+names = [
+  { name = "빛나는 당신을 위해", locale = "ko", original = true },
+  { name = "Binnaneun Dangsineul Wihae", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "jukjae", separator = ", " },
+  { artist-id = "kwon-jin-ah" },
+]
+
+[[releases]]
+released-on = "2021-03-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10580263" },
+]

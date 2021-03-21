@@ -1,0 +1,9 @@
+names = [
+  { name = "빛나는 당신을 위해", locale = "ko", original = true },
+  { name = "Binnaneun Dangsineul Wihae", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "jukjae", separator = ", " },
+  { artist-id = "kwon-jin-ah" },
+]
