@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2021"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "미래소년", locale = "ko", original = true },
+  { name = "MIRAE", locale = "en", default = true },
+]

@@ -1,0 +1,33 @@
+medium-ids = [
+  "mirae/killa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mirae/we-are-future"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "mirae/killa"
+duration = "3:33"
+
+[[tracks]]
+position = 3
+song-id = "mirae/higher"
+duration = "3:36"
+
+[[tracks]]
+position = 4
+song-id = "mirae/swagger"
+duration = "3:19"
+
+[[tracks]]
+position = 5
+song-id = "mirae/sweet-dreams"
+duration = "3:20"
+
+[[tracks]]
+position = 6
+song-id = "mirae/1-thing"
+duration = "3:04"
