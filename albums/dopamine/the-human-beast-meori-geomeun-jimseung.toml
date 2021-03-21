@@ -1,0 +1,15 @@
+artist-id = "dopamine"
+kind = "ep"
+
+names = [
+  { name = "The Human Beast: 머리 검은 짐승", locale = "ko", original = true },
+  { name = "The Human Beast: Meori Geomeun Jimseung", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10579806" },
+]

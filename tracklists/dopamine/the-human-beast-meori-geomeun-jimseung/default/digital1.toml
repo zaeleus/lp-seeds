@@ -1,0 +1,28 @@
+medium-ids = [
+  "dopamine/the-human-beast-meori-geomeun-jimseung/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dopamine/uulhae"
+duration = "2:54"
+
+[[tracks]]
+position = 2
+song-id = "dopamine/jukjima"
+duration = "3:06"
+
+[[tracks]]
+position = 3
+song-id = "dopamine/naetasiji-mwo"
+duration = "3:09"
+
+[[tracks]]
+position = 4
+song-id = "dopamine/jugeo"
+duration = "2:34"
+
+[[tracks]]
+position = 5
+song-id = "dopamine/nolgo-meokgo-jago-ssago"
+duration = "3:02"
