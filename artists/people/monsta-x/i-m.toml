@@ -6,4 +6,4 @@ gender = "male"
 names = [
   { name = "아이엠", locale = "ko", kind = "stage", original = true },
   { name = "I.M", locale = "ko-Latn", kind = "stage", default = true },
-
+]
