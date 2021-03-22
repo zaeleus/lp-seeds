@@ -1,0 +1,13 @@
+medium-ids = [
+  "g-reyish/shining-moment/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-reyish/shining-moment"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "g-reyish/shining-moment-inst"
+duration = "3:40"
