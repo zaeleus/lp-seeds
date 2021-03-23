@@ -1,0 +1,13 @@
+medium-ids = [
+  "joy-o-clock/nae-saenge-bomnal-gatdeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "joy-o-clock/nae-saenge-bomnal-gatdeon"
+duration = "3:46"
+
+[[tracks]]
+position = 2
+song-id = "joy-o-clock/nae-saenge-bomnal-gatdeon-inst"
+duration = "3:46"
