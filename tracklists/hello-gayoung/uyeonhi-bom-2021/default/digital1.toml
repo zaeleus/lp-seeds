@@ -1,0 +1,13 @@
+medium-ids = [
+  "hello-gayoung/uyeonhi-bom-2021/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hello-gayoung/uyeonhi-bom-2021"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "hello-gayoung/uyeonhi-bom-2021-inst"
+duration = "3:31"
