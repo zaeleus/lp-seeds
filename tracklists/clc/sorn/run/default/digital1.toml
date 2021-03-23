@@ -1,0 +1,8 @@
+medium-ids = [
+  "clc/sorn/run/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "clc/sorn/run"
+duration = "2:45"
