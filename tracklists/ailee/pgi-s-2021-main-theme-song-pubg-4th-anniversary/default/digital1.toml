@@ -1,0 +1,13 @@
+medium-ids = [
+  "ailee/pgi-s-2021-main-theme-song-pubg-4th-anniversary/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ailee/believe-english-ver"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "ailee/believe"
+duration = "3:19"
