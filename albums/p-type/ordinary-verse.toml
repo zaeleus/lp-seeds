@@ -1,0 +1,14 @@
+artist-id = "p-type"
+kind = "single"
+
+names = [
+  { name = "Ordinary Verse", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10578955" },
+]
