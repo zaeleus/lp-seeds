@@ -1,0 +1,13 @@
+medium-ids = [
+  "eb/homebody/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eb/homebody"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "eb/homebody-inst"
+duration = "3:08"
