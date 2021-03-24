@@ -1,0 +1,16 @@
+artist-id = "cherry-berry"
+kind = "single"
+
+names = [
+  { name = "불새2020 OST Part.14", locale = "ko", original = true },
+  { name = "Bulsae 2020 OST Part.14", locale = "ko-Latn", default = true },
+  { name = "Phoenix 2020 OST Part.14", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-03-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10580200" },
+]

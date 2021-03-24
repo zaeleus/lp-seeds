@@ -1,0 +1,13 @@
+medium-ids = [
+  "cherry-berry/bulsae-2020-ost-part-14/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cherry-berry/maeil-i-love-you"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "cherry-berry/maeil-i-love-you-inst"
+duration = "3:23"
