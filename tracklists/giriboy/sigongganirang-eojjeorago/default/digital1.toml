@@ -1,0 +1,13 @@
+medium-ids = [
+  "giriboy/sigongganirang-eojjeorago/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "giriboy/sigonggan"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "giriboy/eojjeorago"
+duration = "3:48"
