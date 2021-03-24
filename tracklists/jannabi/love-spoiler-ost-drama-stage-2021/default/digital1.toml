@@ -1,0 +1,13 @@
+medium-ids = [
+  "jannabi/love-spoiler-ost-drama-stage-2021/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jannabi/soranhan-bameul-jina"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "jannabi/soranhan-bameul-jina-inst"
+duration = "3:19"

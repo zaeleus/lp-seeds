@@ -1,0 +1,15 @@
+artist-id = "jannabi"
+kind = "single"
+
+names = [
+  { name = "러브 스포일러 OST (드라마 스테이지 2021)", locale = "ko", original = true },
+  { name = "Love Spoiler OST (Drama Stage 2021)", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10582297" },
+]
