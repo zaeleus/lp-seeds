@@ -1,0 +1,13 @@
+medium-ids = [
+  "pristin/nayoung/not-just-friends-twenty-hacker-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pristin/nayoung/not-just-friends"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "pristin/nayoung/not-just-friends-inst"
+duration = "3:54"
