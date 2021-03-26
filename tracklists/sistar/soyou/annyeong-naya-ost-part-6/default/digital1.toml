@@ -1,0 +1,13 @@
+medium-ids = [
+  "sistar/soyou/annyeong-naya-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sistar/soyou/useojuji-marayo"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "sistar/soyou/useojuji-marayo-inst"
+duration = "3:31"
