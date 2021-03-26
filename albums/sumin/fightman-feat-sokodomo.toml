@@ -1,0 +1,14 @@
+artist-id = "sumin"
+kind = "single"
+
+names = [
+  { name = "Fightman (Feat. sokodomo)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10583012" },
+]

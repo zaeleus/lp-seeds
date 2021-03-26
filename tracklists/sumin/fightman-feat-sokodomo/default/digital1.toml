@@ -1,0 +1,8 @@
+medium-ids = [
+  "sumin/fightman-feat-sokodomo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sumin/fightman-feat-sokodomo"
+duration = "4:01"
