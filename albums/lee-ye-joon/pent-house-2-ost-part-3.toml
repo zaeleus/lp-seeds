@@ -1,0 +1,16 @@
+artist-id = "lee-ye-joon"
+kind = "single"
+
+names = [
+  { name = "펜트하우스2 OST Part.3", locale = "ko", original = true },
+  { name = "Penteu Hauseu 2 OST Part.3", locale = "ko-Latn" },
+  { name = "Pent House 2 OST Part.3", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10582894" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "lee-ye-joon/pent-house-2-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-ye-joon/neup"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "lee-ye-joon/neup-inst"
+duration = "3:17"
