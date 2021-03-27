@@ -1,0 +1,5 @@
+names = [
+  { name = "돌림노래 (Feat. DEAN)", locale = "ko", original = true },
+  { name = "Dollimnorae (Feat. DEAN)", locale = "ko-Latn", default = true },
+  { name = "Troll (Feat. DEAN)", locale = "en" },
+]

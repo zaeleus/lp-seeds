@@ -1,0 +1,5 @@
+names = [
+  { name = "빈 컵 (Empty Cup)", locale = "ko", original = true },
+  { name = "Bin Kup (Empty Cup)", locale = "ko-Latn", default = true },
+  { name = "Empty Cup", locale = "en" },
+]

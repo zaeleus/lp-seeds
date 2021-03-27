@@ -1,0 +1,5 @@
+names = [
+  { name = "아이와 나의 바다", locale = "ko", original = true },
+  { name = "Aiwa Naui Bada", locale = "ko-Latn", default = true },
+  { name = "My sea", locale = "en" },
+]

@@ -1,0 +1,15 @@
+artist-id = "iu"
+kind = "lp"
+
+names = [
+  { name = "LILAC", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.youtube.com/playlist?list=OLAK5uy_nRb467jR73IXKybwzw22_rTYIJ808x4Yc" },
+  { url = "https://www.melon.com/album/detail.htm?albumId=10554246" },
+]
