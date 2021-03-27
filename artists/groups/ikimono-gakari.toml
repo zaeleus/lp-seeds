@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "1999"
+country = "JP"
+
+names = [
+  { name = "いきものがかり", locale = "ja", original = true },
+  { name = "ikimono-gakari", locale = "ja-Latn", default = true },
+]
