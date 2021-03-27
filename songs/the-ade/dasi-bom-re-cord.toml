@@ -1,0 +1,4 @@
+names = [
+  { name = "다시, 봄 (re:cord)", locale = "ko", original = true },
+  { name = "Dasi, Bom (re:cord)", locale = "ko-Latn", default = true },
+]

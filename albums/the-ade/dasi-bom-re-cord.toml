@@ -1,0 +1,15 @@
+artist-id = "the-ade"
+kind = "single"
+
+names = [
+  { name = "다시, 봄 (re:cord)", locale = "ko", original = true },
+  { name = "Dasi, Bom (re:cord)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10583293" },
+]
