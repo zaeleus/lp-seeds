@@ -1,0 +1,12 @@
+kind = "person"
+started-on = "1994-03-28"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "잭슨", locale = "ko", kind = "stage", original = true },
+  { name = "Jackson", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "왕잭슨", locale = "ko", kind = "real" },
+  { name = "Wang Jackson", locale = "ko-Latn", kind = "real" },
+  { name = "Jackson Wang", locale = "en", kind = "real" },
+]

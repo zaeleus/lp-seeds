@@ -1,0 +1,20 @@
+artist-id = "got7/jackson"
+kind = "single"
+
+names = [
+  { name = "LMLY", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "got7/jackson"
+names = [
+  { name = "Jackson Wang", locale = "en", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10583287" },
+]
