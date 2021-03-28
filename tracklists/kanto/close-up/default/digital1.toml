@@ -1,0 +1,13 @@
+medium-ids = [
+  "kanto/close-up/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kanto/close-up-feat-chancellor"
+duration = "3:43"
+
+[[tracks]]
+position = 2
+song-id = "kanto/dark-night"
+duration = "3:42"

@@ -1,0 +1,4 @@
+names = [
+  { name = "Close Up (Feat. 챈슬러)", locale = "ko", original = true },
+  { name = "Close Up (Feat. Chancellor)", locale = "ko-Latn", default = true },
+]

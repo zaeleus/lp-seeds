@@ -1,0 +1,14 @@
+artist-id = "kanto"
+kind = "single"
+
+names = [
+  { name = "Close Up", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10583441" },
+]
