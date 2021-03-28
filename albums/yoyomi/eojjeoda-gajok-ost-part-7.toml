@@ -1,0 +1,15 @@
+artist-id = "yoyomi"
+kind = "single"
+
+names = [
+  { name = "어쩌다 가족 OST Part.7", locale = "ko", original = true },
+  { name = "Eojjeoda Gajok OST Part.7", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10583500" },
+]

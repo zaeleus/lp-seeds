@@ -1,0 +1,13 @@
+medium-ids = [
+  "yoyomi/eojjeoda-gajok-ost-part-7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yoyomi/saneunge-da"
+duration = "3:13"
+
+[[tracks]]
+position = 2
+song-id = "yoyomi/saneunge-da-inst"
+duration = "3:13"
