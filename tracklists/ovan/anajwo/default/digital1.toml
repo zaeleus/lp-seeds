@@ -1,0 +1,13 @@
+medium-ids = [
+  "ovan/anajwo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ovan/anajwo-prod-van-c"
+duration = "4:09"
+
+[[tracks]]
+position = 2
+song-id = "ovan/anajwo-inst"
+duration = "4:09"
