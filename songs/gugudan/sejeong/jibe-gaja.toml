@@ -1,0 +1,11 @@
+names = [
+  { name = "집에 가자", locale = "ko", original = true },
+  { name = "Jibe Gaja", locale = "ko-Latn", default = true },
+]
+
+[[artist-credits]]
+artist-id = "gugudan/sejeong"
+names = [
+  { name = "김세정", locale = "ko", original = true },
+  { name = "KIM SEJEONG", locale = "ko-Latn", default = true },
+]

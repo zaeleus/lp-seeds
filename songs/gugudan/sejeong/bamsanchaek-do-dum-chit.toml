@@ -1,0 +1,12 @@
+names = [
+  { name = "밤산책 (Do dum chit)", locale = "ko", original = true },
+  { name = "Bamsanchaek (Do dum chit)", locale = "ko-Latn", default = true },
+  { name = "Do dum chit", locale = "en" },
+]
+
+[[artist-credits]]
+artist-id = "gugudan/sejeong"
+names = [
+  { name = "김세정", locale = "ko", original = true },
+  { name = "KIM SEJEONG", locale = "ko-Latn", default = true },
+]

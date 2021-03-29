@@ -1,0 +1,28 @@
+medium-ids = [
+  "gugudan/sejeong/i-m/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gugudan/sejeong/teddy-bear"
+duration = "4:00"
+
+[[tracks]]
+position = 2
+song-id = "gugudan/sejeong/warning-feat-lilboi"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "gugudan/sejeong/bamsanchaek-do-dum-chit"
+duration = "2:56"
+
+[[tracks]]
+position = 4
+song-id = "gugudan/sejeong/jibe-gaja"
+duration = "3:46"
+
+[[tracks]]
+position = 5
+song-id = "gugudan/sejeong/ama-nan-geudaereul"
+duration = "3:49"

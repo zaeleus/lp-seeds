@@ -1,0 +1,21 @@
+artist-id = "gugudan/sejeong"
+kind = "ep"
+
+names = [
+  { name = "I'm", locale = "ko", original = true, default = true },
+]
+
+[[artist-credits]]
+artist-id = "gugudan/sejeong"
+names = [
+  { name = "김세정", locale = "ko", original = true },
+  { name = "KIM SEJEONG", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10583770" },
+]
