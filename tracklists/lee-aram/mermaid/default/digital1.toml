@@ -1,0 +1,8 @@
+medium-ids = [
+  "lee-aram/mermaid/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-aram/mermaid"
+duration = "3:01"
