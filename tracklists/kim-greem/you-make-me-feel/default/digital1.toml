@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-greem/you-make-me-feel/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-greem/you-make-me-feel"
+duration = "3:37"
+
+[[tracks]]
+position = 2
+song-id = "kim-greem/you-make-me-feel-inst"
+duration = "3:37"
