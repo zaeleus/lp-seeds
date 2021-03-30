@@ -1,0 +1,16 @@
+artist-id = "shinee/taemin"
+kind = "single"
+
+names = [
+  { name = "나빌레라 OST Part 1", locale = "ko", original = true },
+  { name = "Nabillera OST Part 1", locale = "ko-Latn" },
+  { name = "Navillera OST Part 1", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10584924" },
+]
