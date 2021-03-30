@@ -1,0 +1,14 @@
+artist-id = "exo/baekhyun"
+kind = "ep"
+
+names = [
+  { name = "Bambi", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10584890" },
+]

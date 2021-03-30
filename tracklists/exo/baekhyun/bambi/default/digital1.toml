@@ -1,0 +1,28 @@
+medium-ids = [
+  "exo/baekhyun/bambi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/baekhyun/love-scene"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "exo/baekhyun/bambi"
+duration = "3:34"
+
+[[tracks]]
+position = 3
+song-id = "exo/baekhyun/all-i-got"
+duration = "4:01"
+
+[[tracks]]
+position = 5
+song-id = "exo/baekhyun/privacy"
+duration = "3:08"
+
+[[tracks]]
+position = 6
+song-id = "exo/baekhyun/cry-for-love"
+duration = "3:31"
