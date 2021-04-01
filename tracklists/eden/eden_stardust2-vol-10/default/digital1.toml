@@ -1,0 +1,8 @@
+medium-ids = [
+  "eden/eden_stardust2-vol-10/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eden/hold-me"
+duration = "3:19"
