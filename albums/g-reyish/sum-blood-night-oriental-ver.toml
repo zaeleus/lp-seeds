@@ -1,0 +1,16 @@
+artist-id = "g-reyish"
+kind = "single"
+
+names = [
+  { name = "숨;(Blood Night) Oriental ver.", locale = "ko", original = true },
+  { name = "Sum;(Blood Night) Oriental ver.", locale = "ko-Latn", default = true },
+  { name = "Breathe;(Blood Night) Oriental ver.", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-03-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10584836" },
+]

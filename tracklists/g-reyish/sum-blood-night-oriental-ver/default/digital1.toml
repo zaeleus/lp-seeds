@@ -1,0 +1,13 @@
+medium-ids = [
+  "g-reyish/sum-blood-night-oriental-ver/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-reyish/sum-blood-night-oriental-ver"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "g-reyish/sum-blood-night-oriental-ver-inst"
+duration = "4:02"
