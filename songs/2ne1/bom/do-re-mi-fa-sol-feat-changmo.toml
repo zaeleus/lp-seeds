@@ -1,0 +1,12 @@
+names = [
+  { name = "도레미파솔 (Feat. 창모)", locale = "ko", original = true },
+  { name = "Doremipasol (Feat. Changmo)", locale = "ko-Latn" },
+  { name = "Do Re Mi Fa Sol (Feat. CHANGMO)", locale = "en", default = true },
+]
+
+[[artist-credits]]
+artist-id = "2ne1/bom"
+names = [
+  { name = "박봄", locale = "ko", original = true},
+  { name = "Park Bom", locale = "ko-Latn", default = true },
+]
