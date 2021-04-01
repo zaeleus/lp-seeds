@@ -1,0 +1,13 @@
+medium-ids = [
+  "baek-ji-woong/oneulman-geudaeman/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "baek-ji-woong/oneulman-geudaeman"
+duration = "3:54"
+
+[[tracks]]
+position = 2
+song-id = "baek-ji-woong/oneulman-geudaeman-inst"
+duration = "3:54"
