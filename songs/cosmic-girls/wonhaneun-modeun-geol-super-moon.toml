@@ -1,0 +1,5 @@
+names = [
+  { name = "원하는 모든 걸 (SUPER MOON)", locale = "ko", original = true },
+  { name = "Wonhaneun Modeun Geol (SUPER MOON)", locale = "ko-Latn", default = true },
+  { name = "SUPER MOON", locale = "en" },
+]

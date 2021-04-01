@@ -1,0 +1,33 @@
+medium-ids = [
+  "cosmic-girls/unnatural/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cosmic-girls/unnatural"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "cosmic-girls/last-dance"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "cosmic-girls/wonhaneun-modeun-geol-super-moon"
+duration = "3:30"
+
+[[tracks]]
+position = 4
+song-id = "cosmic-girls/new-me"
+duration = "3:31"
+
+[[tracks]]
+position = 5
+song-id = "cosmic-girls/eum-yalla"
+duration = "3:11"
+
+[[tracks]]
+position = 6
+song-id = "cosmic-girls/itji-ma-naui-uju"
+duration = "4:16"
