@@ -1,0 +1,15 @@
+artist-id = "colde"
+kind = "single"
+
+names = [
+  { name = "빛", locale = "ko", original = true },
+  { name = "Bit", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10586028" },
+]

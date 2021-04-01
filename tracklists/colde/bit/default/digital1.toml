@@ -1,0 +1,8 @@
+medium-ids = [
+  "colde/bit/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "colde/bit"
+duration = "3:53"
