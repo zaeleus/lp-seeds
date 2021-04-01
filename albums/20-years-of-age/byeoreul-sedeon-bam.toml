@@ -1,0 +1,15 @@
+artist-id = "20-years-of-age"
+kind = "single"
+
+names = [
+  { name = "별을 세던 밤", locale = "ko", original = true },
+  { name = "Byeoreul Sedeon Bam", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10585547" },
+]
