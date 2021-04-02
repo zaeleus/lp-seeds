@@ -1,0 +1,15 @@
+artist-id = "han-yo-han"
+kind = "single"
+
+names = [
+  { name = "가습기", locale = "ko", original = true },
+  { name = "Gaseupgi", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10586642" },
+]
