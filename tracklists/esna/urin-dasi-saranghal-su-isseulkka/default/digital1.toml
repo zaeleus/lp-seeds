@@ -1,0 +1,13 @@
+medium-ids = [
+  "esna/urin-dasi-saranghal-su-isseulkka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "esna/urin-dasi-saranghal-su-isseulkka"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "esna/could-we-fall-in-love-again"
+duration = "3:09"
