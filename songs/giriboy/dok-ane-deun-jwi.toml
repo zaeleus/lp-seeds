@@ -1,0 +1,4 @@
+names = [
+  { name = "독 안에 든 쥐", locale = "ko", original = true },
+  { name = "Dok Ane Deun Jwi", locale = "ko-Latn", default = true },
+]
