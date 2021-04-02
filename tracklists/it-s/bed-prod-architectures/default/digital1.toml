@@ -1,0 +1,13 @@
+medium-ids = [
+  "it-s/bed-prod-architectures/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "it-s/bed-prod-architectures"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "it-s/fever-prod-architectures"
+duration = "3:12"

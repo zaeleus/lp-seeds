@@ -1,0 +1,3 @@
+names = [
+  { name = "fever (Prod. Architectures)", locale = "ko", original = true, default = true },
+]

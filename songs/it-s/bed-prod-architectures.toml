@@ -1,0 +1,3 @@
+names = [
+  { name = "Bed (Prod. Architectures)", locale = "ko", original = true, default = true },
+]
