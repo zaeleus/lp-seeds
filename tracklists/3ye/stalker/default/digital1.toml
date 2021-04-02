@@ -1,0 +1,18 @@
+medium-ids = [
+  "3ye/stalker/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "3ye/intro-the-next-chapter"
+duration = "1:38"
+
+[[tracks]]
+position = 2
+song-id = "3ye/stalker"
+duration = "3:48"
+
+[[tracks]]
+position = 3
+song-id = "3ye/stalker-remix-ver"
+duration = "4:10"
