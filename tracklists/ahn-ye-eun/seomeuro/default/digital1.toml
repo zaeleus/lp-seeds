@@ -1,0 +1,33 @@
+medium-ids = [
+  "ahn-ye-eun/seomeuro/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ahn-ye-eun/prologue"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "ahn-ye-eun/gaja"
+duration = "2:42"
+
+[[tracks]]
+position = 3
+song-id = "ahn-ye-eun/chulhang"
+duration = "3:01"
+
+[[tracks]]
+position = 4
+song-id = "ahn-ye-eun/hanghae"
+duration = "4:01"
+
+[[tracks]]
+position = 5
+song-id = "ahn-ye-eun/nanpa"
+duration = "3:38"
+
+[[tracks]]
+position = 6
+song-id = "ahn-ye-eun/chulhang-inst"
+duration = "3:01"

@@ -1,0 +1,15 @@
+artist-id = "ahn-ye-eun"
+kind = "ep"
+
+names = [
+  { name = "섬으로", locale = "ko", original = true },
+  { name = "Seomeuro", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10586627" },
+]
