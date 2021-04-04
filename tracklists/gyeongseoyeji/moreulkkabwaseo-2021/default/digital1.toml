@@ -1,0 +1,13 @@
+medium-ids = [
+  "gyeongseoyeji/moreulkkabwaseo-2021/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gyeongseoyeji/moreulkkabwaseo-2021-feat-ashatree"
+duration = "4:24"
+
+[[tracks]]
+position = 2
+song-id = "gyeongseoyeji/moreulkkabwaseo-2021-feat-ashatree-inst"
+duration = "4:24"
