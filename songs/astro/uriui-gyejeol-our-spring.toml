@@ -1,0 +1,5 @@
+names = [
+  { name = "우리의 계절 (Our spring)", locale = "ko", original = true },
+  { name = "Uriui Gyejeol (Our spring)", locale = "ko-Latn", default = true },
+  { name = "Our spring", locale = "en" },
+]

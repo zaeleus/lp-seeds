@@ -1,0 +1,5 @@
+names = [
+  { name = "별비 (gemini)", locale = "ko", original = true },
+  { name = "Byeolbi (gemini)", locale = "ko-Latn", default = true },
+  { name = "gemini", locale = "en" },
+]
