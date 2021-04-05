@@ -1,3 +1,3 @@
 names = [
-  { name = "Starry Night (Piano ver.)", locale = "ko", original = true },
+  { name = "Starry Night (Piano ver.)", locale = "ko", original = true, default = true },
 ]
