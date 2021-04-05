@@ -1,0 +1,3 @@
+names = [
+  { name = "When This Rain Stops", locale = "ko", original = true, default = true },
+]

@@ -1,0 +1,28 @@
+medium-ids = [
+  "red-velvet/wendy/like-water/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/wendy/when-this-rain-stops"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/wendy/like-water"
+duration = "4:22"
+
+[[tracks]]
+position = 3
+song-id = "red-velvet/wendy/why-can-t-you-love-me"
+duration = "2:49"
+
+[[tracks]]
+position = 4
+song-id = "red-velvet/wendy/chohaenggil-the-road"
+duration = "4:16"
+
+[[tracks]]
+position = 5
+song-id = "red-velvet/wendy/best-friend-with-seulgi"
+duration = "3:31"

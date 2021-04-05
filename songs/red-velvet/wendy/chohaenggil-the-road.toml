@@ -1,0 +1,5 @@
+names = [
+  { name = "초행길 (The Road)", locale = "ko", original = true },
+  { name = "Chohaenggil (The Road)", locale = "ko-Latn", default = true },
+  { name = "The Road", locale = "en" },
+]
