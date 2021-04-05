@@ -1,0 +1,13 @@
+medium-ids = [
+  "hailey/love-is-the-answer/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hailey/love-is-the-answer"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "hailey/love-is-the-answer-inst"
+duration = "3:15"
