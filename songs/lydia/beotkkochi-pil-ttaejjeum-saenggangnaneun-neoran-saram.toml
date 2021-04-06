@@ -1,0 +1,4 @@
+names = [
+  { name = "벚꽃이 필 때쯤 생각나는 너란 사람", locale = "ko", original = true },
+  { name = "Beotkkochi Pil Ttaejjeum Saenggangnaneun Neoran Saram", locale = "ko-Latn", default = true },
+]
