@@ -1,0 +1,13 @@
+medium-ids = [
+  "exo/chanyeol/tomorrow/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/chanyeol/tomorrow"
+duration = "2:26"
+
+[[tracks]]
+position = 2
+song-id = "exo/chanyeol/tomorrow-inst"
+duration = "2:26"
