@@ -1,0 +1,8 @@
+medium-ids = [
+  "vanilla-acoustic/nabi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vanilla-acoustic/nabi"
+duration = "4:00"
