@@ -1,0 +1,4 @@
+names = [
+  { name = "내가 그걸 모를까 (feat. JUSTHIS)", locale = "ko", original = true },
+  { name = "Naega Geugeol Moreulkka (feat. JUSTHIS)", locale = "ko-Latn", default = true },
+]

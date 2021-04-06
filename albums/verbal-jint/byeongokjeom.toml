@@ -1,0 +1,15 @@
+artist-id = "verbal-jint"
+kind = "lp"
+
+names = [
+  { name = "변곡점", locale = "ko", original = true },
+  { name = "Byeongokjeom", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10587840" },
+]

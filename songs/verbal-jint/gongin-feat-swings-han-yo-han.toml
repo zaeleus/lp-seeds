@@ -1,0 +1,4 @@
+names = [
+  { name = "공인 (feat. 스윙스 & 한요한)", locale = "ko", original = true },
+  { name = "Gongin (feat. Swings & Han Yo Han)", locale = "ko-Latn", default = true },
+]
