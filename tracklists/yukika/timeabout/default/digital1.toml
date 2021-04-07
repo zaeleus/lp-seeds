@@ -1,0 +1,33 @@
+medium-ids = [
+  "yukika/timeabout/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yukika/leap-forward-intro"
+duration = "1:06"
+
+[[tracks]]
+position = 2
+song-id = "yukika/insomnia"
+duration = "3:28"
+
+[[tracks]]
+position = 3
+song-id = "yukika/aewol"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "yukika/time-travel"
+duration = "3:20"
+
+[[tracks]]
+position = 5
+song-id = "yukika/bimillie"
+duration = "3:33"
+
+[[tracks]]
+position = 6
+song-id = "yukika/byeolbangul-pung"
+duration = "3:53"

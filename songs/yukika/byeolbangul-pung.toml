@@ -1,0 +1,5 @@
+names = [
+  { name = "별방울 (PUNG!)", locale = "ko", original = true },
+  { name = "Byeolbangul (PUNG!)", locale = "ko-Latn", default = true },
+  { name = "PUNG!", locale = "en" },
+]
