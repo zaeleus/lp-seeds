@@ -1,0 +1,33 @@
+medium-ids = [
+  "lunarsolar/solar-rise/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lunarsolar/dadada"
+duration = "3:02"
+
+[[tracks]]
+position = 2
+song-id = "lunarsolar/bom-bi-di-bom"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "lunarsolar/lonely"
+duration = "3:32"
+
+[[tracks]]
+position = 4
+song-id = "lunarsolar/dadada-inst"
+duration = "3:02"
+
+[[tracks]]
+position = 5
+song-id = "lunarsolar/bom-bi-di-bom-inst"
+duration = "3:16"
+
+[[tracks]]
+position = 6
+song-id = "lunarsolar/lonely-inst"
+duration = "3:32"
