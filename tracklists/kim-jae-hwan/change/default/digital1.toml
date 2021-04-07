@@ -1,0 +1,43 @@
+medium-ids = [
+  "kim-jae-hwan/change/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-jae-hwan/pray"
+duration = "2:55"
+
+[[tracks]]
+position = 2
+song-id = "kim-jae-hwan/chatji-aneulge"
+duration = "3:07"
+
+[[tracks]]
+position = 3
+song-id = "kim-jae-hwan/geudaega-eopseodo-nan-salgetji-with-hynn-park-hye-won"
+duration = "4:22"
+
+[[tracks]]
+position = 4
+song-id = "kim-jae-hwan/blue-moon"
+duration = "3:23"
+
+[[tracks]]
+position = 5
+song-id = "kim-jae-hwan/kkochingayo"
+duration = "3:10"
+
+[[tracks]]
+position = 6
+song-id = "kim-jae-hwan/aegata"
+duration = "3:10"
+
+[[tracks]]
+position = 7
+song-id = "kim-jae-hwan/sinina"
+duration = "3:21"
+
+[[tracks]]
+position = 8
+song-id = "kim-jae-hwan/sonpyeonji"
+duration = "4:12"
