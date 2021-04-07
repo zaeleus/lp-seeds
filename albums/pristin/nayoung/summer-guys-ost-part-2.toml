@@ -1,0 +1,16 @@
+artist-id = "pristin/nayoung"
+kind = "single"
+
+names = [
+  { name = "썸머가이즈 OST Part.2", locale = "ko", original = true },
+  { name = "Sseommeogaijeu OST Part.2", locale = "ko-Latn" },
+  { name = "Summer Guys OST Part.2", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10588380" },
+]
