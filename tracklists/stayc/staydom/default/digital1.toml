@@ -1,0 +1,23 @@
+medium-ids = [
+  "stayc/staydom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "stayc/asap"
+duration = "3:15"
+
+[[tracks]]
+position = 2
+song-id = "stayc/so-what"
+duration = "3:00"
+
+[[tracks]]
+position = 3
+song-id = "stayc/sarangeun-wollae-ireoke-apeun-geongayo"
+duration = "3:39"
+
+[[tracks]]
+position = 4
+song-id = "stayc/so-bad-tak-remix"
+duration = "3:05"
