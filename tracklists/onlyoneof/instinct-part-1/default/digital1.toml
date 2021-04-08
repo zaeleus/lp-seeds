@@ -1,0 +1,23 @@
+medium-ids = [
+  "onlyoneof/instinct-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 2
+song-id = "onlyoneof/libido"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "onlyoneof/instinct-bonneung"
+duration = "2:21"
+
+[[tracks]]
+position = 6
+song-id = "onlyoneof/byredo"
+duration = "3:43"
+
+[[tracks]]
+position = 7
+song-id = "onlyoneof/tear-of-god"
+duration = "3:26"
