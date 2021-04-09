@@ -1,0 +1,14 @@
+artist-id = "park-ki-young"
+kind = "single"
+
+names = [
+  { name = "I'm not O.K.", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10589563" },
+]
