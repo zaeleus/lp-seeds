@@ -1,0 +1,15 @@
+artist-id = "dept"
+kind = "single"
+
+names = [
+  { name = "4월의 약속", locale = "ko", original = true },
+  { name = "4-worui Yaksok", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10590240" },
+]

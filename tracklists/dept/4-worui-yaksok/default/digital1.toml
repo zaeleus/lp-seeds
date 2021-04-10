@@ -1,0 +1,13 @@
+medium-ids = [
+  "dept/4-worui-yaksok/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dept/cherry-blossom-feat-sonny-zero-ashley-alisha"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "dept/cherry-blossom-inst"
+duration = "3:38"
