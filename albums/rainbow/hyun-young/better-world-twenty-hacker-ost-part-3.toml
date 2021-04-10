@@ -1,0 +1,16 @@
+artist-id = "rainbow/hyun-young"
+kind = "single"
+
+names = [
+  { name = "Better World (트웬티해커 OST Part.3)", locale = "ko", original = true },
+  { name = "Better World (Teuwentihaekeo OST Part.3)", locale = "ko-Latn" },
+  { name = "Better World (Twenty Hacker OST Part.3)", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-08"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10588966" },
+]
