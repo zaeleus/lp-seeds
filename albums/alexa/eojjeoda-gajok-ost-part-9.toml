@@ -1,0 +1,15 @@
+artist-id = "alexa"
+kind = "single"
+
+names = [
+  { name = "어쩌다 가족 OST Part.9", locale = "ko", original = true },
+  { name = "Eojjeoda Gajok OST Part.9", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10590074" },
+]

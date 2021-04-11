@@ -1,0 +1,13 @@
+medium-ids = [
+  "alexa/eojjeoda-gajok-ost-part-9/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "alexa/eojedo-oneuldo-neomu-bogosipeo"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "alexa/eojedo-oneuldo-neomu-bogosipeo-inst"
+duration = "3:00"
