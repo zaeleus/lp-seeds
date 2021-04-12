@@ -1,0 +1,8 @@
+medium-ids = [
+  "jay-park/summeride/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jay-park/summeride"
+duration = "3:39"
