@@ -1,0 +1,3 @@
+names = [
+  { name = "Keep Streamin' Kiggen", locale = "ko", original = true, default = true },
+]

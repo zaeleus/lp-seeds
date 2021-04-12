@@ -1,0 +1,3 @@
+names = [
+  { name = "Louis, Gucci, Fendi, Chanel, Prada Shoes", locale = "ko", original = true, default = true },
+]

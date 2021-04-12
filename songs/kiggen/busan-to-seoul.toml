@@ -1,0 +1,3 @@
+names = [
+  { name = "Busan To Seoul", locale = "ko", original = true, default = true },
+]

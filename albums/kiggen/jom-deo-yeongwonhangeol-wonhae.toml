@@ -1,0 +1,15 @@
+artist-id = "kiggen"
+kind = "lp"
+
+names = [
+  { name = "좀 더 영원한걸 원해", locale = "ko", original = true },
+  { name = "Jom Deo Yeongwonhangeol Wonhae", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10590876" },
+]

@@ -1,0 +1,3 @@
+names = [
+  { name = "Matsumoto Hitoshi", locale = "ko", original = true, default = true },
+]
