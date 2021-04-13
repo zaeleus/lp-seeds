@@ -1,0 +1,28 @@
+medium-ids = [
+  "choi-yu-ri/duri/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "choi-yu-ri/geuraedo"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "choi-yu-ri/sullaejapgi"
+duration = "3:56"
+
+[[tracks]]
+position = 3
+song-id = "choi-yu-ri/duri"
+duration = "3:28"
+
+[[tracks]]
+position = 4
+song-id = "choi-yu-ri/nara"
+duration = "3:51"
+
+[[tracks]]
+position = 5
+song-id = "choi-yu-ri/sarang"
+duration = "3:34"

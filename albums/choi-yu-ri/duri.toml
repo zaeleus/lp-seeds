@@ -1,0 +1,15 @@
+artist-id = "choi-yu-ri"
+kind = "ep"
+
+names = [
+  { name = "둘이", locale = "ko", original = true },
+  { name = "Duri", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10591098" },
+]
