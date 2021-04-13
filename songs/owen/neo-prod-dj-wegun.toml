@@ -1,0 +1,4 @@
+names = [
+  { name = "너 (Prod. DJ Wegun)", locale = "ko", original = true },
+  { name = "Neo (Prod. DJ Wegun)", locale = "ko-Latn", default = true },
+]

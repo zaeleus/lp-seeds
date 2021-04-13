@@ -1,0 +1,5 @@
+names = [
+  { name = "힙합 Ⅱ (Prod. DJ Wegun)", locale = "ko", original = true },
+  { name = "Hiphap Ⅱ (Prod. DJ Wegun)", locale = "ko-Latn" },
+  { name = "Hiphop Ⅱ (Prod. DJ Wegun)", locale = "en", default = true },
+]
