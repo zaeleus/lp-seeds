@@ -1,0 +1,13 @@
+medium-ids = [
+  "sohyang/navillera-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sohyang/areumdaun-mal"
+duration = "4:09"
+
+[[tracks]]
+position = 2
+song-id = "sohyang/areumdaun-mal-inst"
+duration = "4:09"
