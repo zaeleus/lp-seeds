@@ -1,0 +1,8 @@
+medium-ids = [
+  "buzz/sonyeonege/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "buzz/sonyeonege"
+duration = "3:46"

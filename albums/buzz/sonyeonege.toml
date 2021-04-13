@@ -1,0 +1,15 @@
+artist-id = "buzz"
+kind = "single"
+
+names = [
+  { name = "소년에게", locale = "ko", original = true },
+  { name = "Sonyeonege", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10591800" },
+]
