@@ -1,0 +1,13 @@
+medium-ids = [
+  "4men/urin-ajik-heeojigi-jeon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "4men/urin-ajik-heeojigi-jeon"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "4men/urin-ajik-heeojigi-jeon-inst"
+duration = "3:50"
