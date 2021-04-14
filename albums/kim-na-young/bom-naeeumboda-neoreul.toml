@@ -1,0 +1,15 @@
+artist-id = "kim-na-young"
+kind = "single"
+
+names = [
+  { name = "봄 내음보다 너를", locale = "ko", original = true },
+  { name = "Bom Naeeumboda Neoreul", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10592109" },
+]
