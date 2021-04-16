@@ -1,0 +1,13 @@
+medium-ids = [
+  "davichi/geunyang-anadallan-marya/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/geunyang-anadallan-marya"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "davichi/geunyang-anadallan-marya-inst"
+duration = "3:23"
