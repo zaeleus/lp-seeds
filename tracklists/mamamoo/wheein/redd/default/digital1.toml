@@ -1,0 +1,33 @@
+medium-ids = [
+  "mamamoo/wheein/redd/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mamamoo/wheein/water-color"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "mamamoo/wheein/trash-feat-ph-1"
+duration = "2:53"
+
+[[tracks]]
+position = 3
+song-id = "mamamoo/wheein/ohoo"
+duration = "3:17"
+
+[[tracks]]
+position = 4
+song-id = "mamamoo/wheein/butterfly-feat-gsoul"
+duration = "3:29"
+
+[[tracks]]
+position = 5
+song-id = "mamamoo/wheein/bomi-neoege-springtime"
+duration = "2:41"
+
+[[tracks]]
+position = 6
+song-id = "mamamoo/wheein/no-thanks"
+duration = "3:53"
