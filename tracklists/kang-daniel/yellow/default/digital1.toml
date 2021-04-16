@@ -1,0 +1,28 @@
+medium-ids = [
+  "kang-daniel/yellow/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kang-daniel/digital"
+duration = "3:05"
+
+[[tracks]]
+position = 2
+song-id = "kang-daniel/paranoia"
+duration = "3:16"
+
+[[tracks]]
+position = 3
+song-id = "kang-daniel/misunderstood-feat-omega-sapien"
+duration = "3:24"
+
+[[tracks]]
+position = 4
+song-id = "kang-daniel/antidote"
+duration = "3:39"
+
+[[tracks]]
+position = 5
+song-id = "kang-daniel/save-u-feat-wonstein"
+duration = "3:38"
