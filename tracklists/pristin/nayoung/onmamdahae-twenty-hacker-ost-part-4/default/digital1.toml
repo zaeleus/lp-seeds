@@ -1,0 +1,23 @@
+medium-ids = [
+  "pristin/nayoung/onmamdahae-twenty-hacker-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "pristin/nayoung/onmamdahae"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "pristin/nayoung/uridulcheoreom"
+duration = "3:22"
+
+[[tracks]]
+position = 3
+song-id = "pristin/nayoung/onmamdahae-inst"
+duration = "3:11"
+
+[[tracks]]
+position = 4
+song-id = "pristin/nayoung/uridulcheoreom-inst"
+duration = "3:22"

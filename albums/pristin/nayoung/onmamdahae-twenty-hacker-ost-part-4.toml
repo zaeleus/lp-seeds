@@ -1,0 +1,15 @@
+artist-id = "pristin/nayoung"
+kind = "single"
+
+names = [
+  { name = "온맘다해 (트웬티해커 OST Part.4)", locale = "ko", original = true },
+  { name = "Onmamdahae (Twenty Hacker OST Part.4)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10592924" },
+]
