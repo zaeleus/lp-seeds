@@ -1,0 +1,4 @@
+names = [
+  { name = "왜 사랑은 언제나 쉽지 않을까? (바른연애 길잡이 X 조이 (JOY)) (Inst.)", locale = "ko", original = true },
+  { name = "Wae Sarangeun Eonjena Swipji Aneulkka? (Bareunyeonae Giljabi X JOY) (Inst.)", locale = "ko-Latn", default = true },
+]

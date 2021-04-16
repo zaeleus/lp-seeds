@@ -1,0 +1,15 @@
+artist-id = "red-velvet/joy"
+kind = "single"
+
+names = [
+  { name = "왜 사랑은 언제나 쉽지 않을까? (바른연애 길잡이 X 조이 (JOY))", locale = "ko", original = true },
+  { name = "Wae Sarangeun Eonjena Swipji Aneulkka? (Bareunyeonae Giljabi X JOY)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10592891" },
+]

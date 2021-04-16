@@ -1,0 +1,13 @@
+medium-ids = [
+  "red-velvet/joy/wae-sarangeun-eonjena-swipji-aneulkka-bareunyeonae-giljabi-x-joy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/joy/wae-sarangeun-eonjena-swipji-aneulkka-bareunyeonae-giljabi-x-joy"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/joy/wae-sarangeun-eonjena-swipji-aneulkka-bareunyeonae-giljabi-x-joy-inst"
+duration = "3:42"
