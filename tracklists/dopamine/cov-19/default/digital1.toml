@@ -1,0 +1,13 @@
+medium-ids = [
+  "dopamine/cov-19/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dopamine/georidugi"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "dopamine/jonbeo"
+duration = "3:05"
