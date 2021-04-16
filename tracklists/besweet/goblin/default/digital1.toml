@@ -1,0 +1,13 @@
+medium-ids = [
+  "besweet/goblin/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "besweet/goblin"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "besweet/goblin-inst"
+duration = "3:26"
