@@ -1,0 +1,14 @@
+artist-id = "sway"
+kind = "single"
+
+names = [
+  { name = "episode 3.", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10592817" },
+]
