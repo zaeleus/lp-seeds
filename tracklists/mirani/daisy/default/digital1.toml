@@ -1,0 +1,13 @@
+medium-ids = [
+  "mirani/daisy/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "mirani/daisy-feat-ph-1"
+duration = "3:10"
+
+[[tracks]]
+position = 2
+song-id = "mirani/open-up-feat-justhis"
+duration = "2:50"
