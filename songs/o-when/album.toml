@@ -1,0 +1,5 @@
+names = [
+  { name = "앨범", locale = "ko", original = true },
+  { name = "Aelbeom", locale = "ko-Latn" },
+  { name = "Album", locale = "en", default = true },
+]

@@ -1,0 +1,23 @@
+medium-ids = [
+  "o-when/mood-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "o-when/swil-got"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "o-when/geudaero"
+duration = "3:57"
+
+[[tracks]]
+position = 3
+song-id = "o-when/maeumi"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "o-when/album"
+duration = "3:37"
