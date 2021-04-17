@@ -1,0 +1,13 @@
+medium-ids = [
+  "kebee/maeum-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kebee/suitcase"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "kebee/gukgyeong"
+duration = "2:55"
