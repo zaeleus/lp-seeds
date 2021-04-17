@@ -1,0 +1,14 @@
+artist-id = "majors"
+kind = "single"
+
+names = [
+  { name = "The beginning of legend - Rising star", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10593755" },
+]

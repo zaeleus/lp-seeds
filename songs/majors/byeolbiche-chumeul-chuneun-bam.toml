@@ -1,0 +1,5 @@
+names = [
+  { name = "별빛에 춤을 추는 밤", locale = "ko", original = true },
+  { name = "Byeolbiche Chumeul Chuneun Bam", locale = "ko-Latn", default = true },
+  { name = "Dancing in the Starlit Night", locale = "en" },
+]

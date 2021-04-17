@@ -1,0 +1,13 @@
+medium-ids = [
+  "majors/the-beginning-of-legend-rising-star/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "majors/rain-on-me"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "majors/byeolbiche-chumeul-chuneun-bam"
+duration = "3:05"
