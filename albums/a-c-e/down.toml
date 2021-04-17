@@ -1,0 +1,14 @@
+artist-id = "a-c-e"
+kind = "single"
+
+names = [
+  { name = "Down", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10594046" },
+]

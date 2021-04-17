@@ -1,0 +1,18 @@
+medium-ids = [
+  "a-c-e/down/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "a-c-e/down-feat-grey"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "a-c-e/down-a-c-e-version"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "a-c-e/down-instrumental"
+duration = "3:14"
