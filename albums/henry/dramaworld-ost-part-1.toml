@@ -1,0 +1,16 @@
+artist-id = "henry"
+kind = "single"
+
+names = [
+  { name = "드라마월드 OST Part.1", locale = "ko", original = true },
+  { name = "Deuramawoldeu OST Part.1", locale = "ko-Latn" },
+  { name = "Dramaworld OST Part.1", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10594192" },
+]

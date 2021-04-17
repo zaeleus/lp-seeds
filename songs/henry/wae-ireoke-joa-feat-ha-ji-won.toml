@@ -1,0 +1,4 @@
+names = [
+  { name = "왜 이렇게 좋아 (Feat. 하지원)", locale = "ko", original = true },
+  { name = "Wae Ireoke Joa (Feat. Ha Ji Won)", locale = "ko-Latn", default = true },
+]

@@ -1,0 +1,18 @@
+medium-ids = [
+  "henry/dramaworld-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "henry/wae-ireoke-joa"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "henry/wae-ireoke-joa-feat-ha-ji-won"
+duration = "3:38"
+
+[[tracks]]
+position = 3
+song-id = "henry/wae-ireoke-joa-inst"
+duration = "3:38"
