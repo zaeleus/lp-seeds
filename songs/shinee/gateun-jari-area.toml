@@ -1,0 +1,5 @@
+names = [
+  { name = "같은 자리 (Area)", locale = "ko", original = true },
+  { name = "Gateun Jari (Area)", locale = "ko-Latn", default = true },
+  { name = "Area", locale = "en" },
+]
