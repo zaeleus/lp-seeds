@@ -1,0 +1,15 @@
+artist-id = "don-mills"
+kind = "single"
+
+names = [
+  { name = "대박인생 Remix", locale = "ko", original = true },
+  { name = "Daebaginsaeng Remix", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10590262" },
+]
