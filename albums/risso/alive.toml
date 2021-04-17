@@ -1,0 +1,14 @@
+artist-id = "risso"
+kind = "single"
+
+names = [
+  { name = "Alive", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10594314" },
+]

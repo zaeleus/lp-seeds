@@ -1,0 +1,13 @@
+medium-ids = [
+  "risso/alive/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "risso/alive"
+duration = "2:52"
+
+[[tracks]]
+position = 2
+song-id = "risso/alive-inst"
+duration = "2:52"
