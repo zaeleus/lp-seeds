@@ -1,0 +1,15 @@
+artist-id = "parc-jae-jung"
+kind = "single"
+
+names = [
+  { name = "좋았는데", locale = "ko", original = true },
+  { name = "Joanneunde", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10594479" },
+]
