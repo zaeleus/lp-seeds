@@ -1,0 +1,16 @@
+artist-id = "apink"
+kind = "single"
+
+names = [
+  { name = "고마워 (Thank you)", locale = "ko", original = true },
+  { name = "Gomawo (Thank you)", locale = "ko-Latn", default = true },
+  { name = "Thank you", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-04-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10594855" },
+]

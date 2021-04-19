@@ -1,0 +1,13 @@
+medium-ids = [
+  "apink/gomawo-thank-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink/gomawo-thank-you"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "apink/gomawo-thank-you-inst"
+duration = "4:01"
