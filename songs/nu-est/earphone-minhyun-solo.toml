@@ -1,0 +1,3 @@
+names = [
+  { name = "EARPHONE (MINHYUN SOLO)", locale = "ko", original = true, default = true },
+]

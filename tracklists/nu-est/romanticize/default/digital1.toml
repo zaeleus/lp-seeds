@@ -1,0 +1,53 @@
+medium-ids = [
+  "nu-est/romanticize/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "nu-est/dress"
+duration = "3:14"
+
+[[tracks]]
+position = 2
+song-id = "nu-est/inside-out"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "nu-est/don-t-wanna-go"
+duration = "3:01"
+
+[[tracks]]
+position = 4
+song-id = "nu-est/black"
+duration = "3:16"
+
+[[tracks]]
+position = 5
+song-id = "nu-est/drive"
+duration = "3:38"
+
+[[tracks]]
+position = 6
+song-id = "nu-est/earphone-minhyun-solo"
+duration = "3:11"
+
+[[tracks]]
+position = 7
+song-id = "nu-est/need-it-baekho-solo"
+duration = "3:24"
+
+[[tracks]]
+position = 8
+song-id = "nu-est/doom-doom-jr-solo"
+duration = "3:10"
+
+[[tracks]]
+position = 9
+song-id = "nu-est/rocket-rocket-ren-solo"
+duration = "3:17"
+
+[[tracks]]
+position = 10
+song-id = "nu-est/ana-aron-solo"
+duration = "3:26"

@@ -1,0 +1,3 @@
+names = [
+  { name = "NEED IT (BAEKHO SOLO)", locale = "ko", original = true, default = true },
+]

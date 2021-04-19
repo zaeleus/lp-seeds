@@ -1,0 +1,3 @@
+names = [
+  { name = "ROCKET ROCKET (REN SOLO)", locale = "ko", original = true, default = true },
+]
