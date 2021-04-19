@@ -1,0 +1,16 @@
+artist-id = "ikimono-gakari"
+kind = "lp"
+
+names = [
+  { name = "WHO?", locale = "ja", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-31"
+country = "JP"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://music.apple.com/jp/album/1554411339" },
+  { url = "https://mora.jp/package/43000087/ESCL05507B00Z/" },
+  { url = "https://mora.jp/package/43000100/ESXX02388B00Z_96/" },
+]
