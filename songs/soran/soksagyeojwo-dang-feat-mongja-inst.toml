@@ -1,0 +1,4 @@
+names = [
+  { name = "속삭여줘 (DANG!) (Feat. 몽자) (Inst.)", locale = "ko", original = true },
+  { name = "Soksagyeojwo (DANG!) (Feat. Mongja) (Inst.)", locale = "ko-Latn", default = true },
+]

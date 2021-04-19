@@ -1,0 +1,5 @@
+names = [
+  { name = "스위치 (Switch) (Inst.)", locale = "ko", original = true },
+  { name = "Seuwichi (Switch) (Inst.)", locale = "ko-Latn" },
+  { name = "Switch (Inst.)", locale = "en", default = true },
+]

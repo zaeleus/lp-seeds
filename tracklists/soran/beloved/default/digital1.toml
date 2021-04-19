@@ -1,0 +1,33 @@
+medium-ids = [
+  "soran/beloved/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "soran/isseojumyeon-be-with-me"
+duration = "4:38"
+
+[[tracks]]
+position = 2
+song-id = "soran/soksagyeojwo-dang-feat-mongja"
+duration = "3:51"
+
+[[tracks]]
+position = 3
+song-id = "soran/switch"
+duration = "3:44"
+
+[[tracks]]
+position = 4
+song-id = "soran/isseojumyeon-be-with-me-inst"
+duration = "4:38"
+
+[[tracks]]
+position = 5
+song-id = "soran/soksagyeojwo-dang-feat-mongja-inst"
+duration = "3:51"
+
+[[tracks]]
+position = 6
+song-id = "soran/switch-inst"
+duration = "3:44"
