@@ -1,0 +1,13 @@
+medium-ids = [
+  "kwon-jin-ah/munteok-sonyeoui-segye-x-kwon-jin-ah/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kwon-jin-ah/munteok"
+duration = "3:59"
+
+[[tracks]]
+position = 2
+song-id = "kwon-jin-ah/munteok-inst"
+duration = "3:59"

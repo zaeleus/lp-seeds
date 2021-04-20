@@ -1,0 +1,15 @@
+artist-id = "kwon-jin-ah"
+kind = "single"
+
+names = [
+  { name = "문턱 (소녀의 세계 X 권진아)", locale = "ko", original = true },
+  { name = "Munteok (Sonyeoui Segye X Kwon Jin Ah)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10594325" },
+]
