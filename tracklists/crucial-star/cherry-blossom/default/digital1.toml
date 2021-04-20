@@ -1,0 +1,13 @@
+medium-ids = [
+  "crucial-star/cherry-blossom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "crucial-star/cherry-blossom"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "crucial-star/jikgam-luv-intuition-prod-kenichiro-nishihara"
+duration = "3:29"
