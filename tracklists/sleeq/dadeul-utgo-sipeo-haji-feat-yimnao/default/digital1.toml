@@ -1,0 +1,13 @@
+medium-ids = [
+  "sleeq/dadeul-utgo-sipeo-haji-feat-yimnao/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sleeq/dadeul-utgo-sipeo-haji-feat-yimnao"
+duration = "4:17"
+
+[[tracks]]
+position = 2
+song-id = "sleeq/dadeul-utgo-sipeo-haji-feat-yimnao-half-up-ver"
+duration = "4:17"

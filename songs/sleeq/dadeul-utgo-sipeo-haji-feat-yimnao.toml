@@ -1,0 +1,4 @@
+names = [
+  { name = "다들 웃고 싶어 하지 (feat. YIMNAO)", locale = "ko", original = true },
+  { name = "Dadeul Utgo Sipeo Haji (feat. YIMNAO)", locale = "ko-Latn", default = true },
+]
