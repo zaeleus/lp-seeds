@@ -1,0 +1,33 @@
+medium-ids = [
+  "han-all/uri-bomnal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "han-all/sangsang"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "han-all/geudaeigie"
+duration = "4:06"
+
+[[tracks]]
+position = 3
+song-id = "han-all/neurin-sanchaek"
+duration = "4:02"
+
+[[tracks]]
+position = 4
+song-id = "han-all/deullyeojuneun-pyeonji"
+duration = "4:28"
+
+[[tracks]]
+position = 5
+song-id = "han-all/chueok-sangja-acoustic-ver"
+duration = "3:56"
+
+[[tracks]]
+position = 6
+song-id = "han-all/chueok-sangja"
+duration = "4:05"
