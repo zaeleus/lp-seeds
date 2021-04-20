@@ -1,0 +1,4 @@
+names = [
+  { name = "Hotel Lobby (Feat. 버벌진트)", locale = "ko", original = true },
+  { name = "Hotel Lobby (Feat. Verbal Jint)", locale = "ko-Latn", default = true },
+]
