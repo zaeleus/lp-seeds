@@ -1,0 +1,38 @@
+medium-ids = [
+  "day6/the-book-of-us-negentropy-chaos-swallowed-up-in-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "day6/everyday-we-fight"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "day6/you-make-me"
+duration = "3:39"
+
+[[tracks]]
+position = 3
+song-id = "day6/healer"
+duration = "3:48"
+
+[[tracks]]
+position = 4
+song-id = "day6/duldo-anin-hana"
+duration = "3:58"
+
+[[tracks]]
+position = 5
+song-id = "day6/gureum-wieseo"
+duration = "4:19"
+
+[[tracks]]
+position = 6
+song-id = "day6/mujeok-one"
+duration = "3:19"
+
+[[tracks]]
+position = 7
+song-id = "day6/uri-apeuro-deo-saranghaja"
+duration = "3:43"

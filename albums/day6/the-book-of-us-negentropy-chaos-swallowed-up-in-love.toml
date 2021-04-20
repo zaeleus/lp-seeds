@@ -1,0 +1,14 @@
+artist-id = "day6"
+kind = "ep"
+
+names = [
+  { name = "The Book of Us: Negentropy - Chaos swallowed up in love", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10594808" },
+]
