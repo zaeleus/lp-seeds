@@ -1,0 +1,13 @@
+medium-ids = [
+  "sunnyhill/neoreul-mannago/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sunnyhill/neoreul-mannago-with-hwang-daniel"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "sunnyhill/neoreul-mannago-inst"
+duration = "3:41"

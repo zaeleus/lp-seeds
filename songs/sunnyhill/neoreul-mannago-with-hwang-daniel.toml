@@ -1,0 +1,4 @@
+names = [
+  { name = "너를 만나고 (with. 황다니엘)", locale = "ko", original = true },
+  { name = "Neoreul Mannago (with. Hwang Daniel)", locale = "ko-Latn", default = true },
+]
