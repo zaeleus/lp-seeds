@@ -1,0 +1,5 @@
+names = [
+  { name = "빅터를 기다리며 (Inst.)", locale = "ko", original = true },
+  { name = "Victor Gidarimyeo (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Waiting for Victor (Inst.)", locale = "en" },
+]

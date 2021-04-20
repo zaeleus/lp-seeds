@@ -1,0 +1,13 @@
+medium-ids = [
+  "015b/new-edition-30/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "015b/victor-gidarimyeo-feat-dawon"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "015b/victor-gidarimyeo-inst"
+duration = "3:28"

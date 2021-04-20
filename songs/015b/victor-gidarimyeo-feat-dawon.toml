@@ -1,0 +1,5 @@
+names = [
+  { name = "빅터를 기다리며 (Feat. 다원)", locale = "ko", original = true },
+  { name = "Victor Gidarimyeo (Feat. Dawon)", locale = "ko-Latn", default = true },
+  { name = "Waiting for Victor (Feat. Dawon)", locale = "en" },
+]
