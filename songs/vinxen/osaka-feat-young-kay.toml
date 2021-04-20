@@ -1,0 +1,3 @@
+names = [
+  { name = "OSAKA (Feat. Young Kay)", locale = "ko", original = true, default = true },
+]

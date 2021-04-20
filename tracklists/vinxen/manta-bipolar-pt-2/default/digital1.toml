@@ -1,0 +1,103 @@
+medium-ids = [
+  "vinxen/manta-bipolar-pt-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vinxen/pungdeong"
+duration = "3:00"
+
+[[tracks]]
+position = 2
+song-id = "vinxen/gangshin"
+duration = "2:01"
+
+[[tracks]]
+position = 3
+song-id = "vinxen/neul"
+duration = "3:13"
+
+[[tracks]]
+position = 4
+song-id = "vinxen/osaka-feat-young-kay"
+duration = "2:47"
+
+[[tracks]]
+position = 5
+song-id = "vinxen/yeope-2021-feat-yenjamin"
+duration = "2:50"
+
+[[tracks]]
+position = 6
+song-id = "vinxen/guap-feat-im-soo"
+duration = "3:35"
+
+[[tracks]]
+position = 7
+song-id = "vinxen/bueo-freestyle"
+duration = "3:20"
+
+[[tracks]]
+position = 8
+song-id = "vinxen/draw"
+duration = "2:30"
+
+[[tracks]]
+position = 9
+song-id = "vinxen/surf"
+duration = "2:35"
+
+[[tracks]]
+position = 10
+song-id = "vinxen/go-o-o"
+duration = "2:51"
+
+[[tracks]]
+position = 11
+song-id = "vinxen/annyeong"
+duration = "3:37"
+
+[[tracks]]
+position = 12
+song-id = "vinxen/joeun-slow"
+duration = "3:09"
+
+[[tracks]]
+position = 13
+song-id = "vinxen/jangmi"
+duration = "4:17"
+
+[[tracks]]
+position = 14
+song-id = "vinxen/badaarae-feat-young-kay"
+duration = "3:08"
+
+[[tracks]]
+position = 15
+song-id = "vinxen/go-n-love"
+duration = "2:13"
+
+[[tracks]]
+position = 16
+song-id = "vinxen/anajwo-2021-feat-im-soo"
+duration = "2:08"
+
+[[tracks]]
+position = 17
+song-id = "vinxen/eodiya-2021"
+duration = "2:26"
+
+[[tracks]]
+position = 18
+song-id = "vinxen/aquarium-2021"
+duration = "2:51"
+
+[[tracks]]
+position = 19
+song-id = "vinxen/paranbang-2021"
+duration = "3:28"
+
+[[tracks]]
+position = 20
+song-id = "vinxen/sinking-down-with-u-piano-ver"
+duration = "2:58"

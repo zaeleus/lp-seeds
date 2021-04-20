@@ -1,0 +1,4 @@
+names = [
+  { name = "옆에 2021 (Feat. 옌자민)", locale = "ko", original = true },
+  { name = "Yeope 2021 (Feat. Yenjamin)", locale = "ko-Latn", default = true },
+]

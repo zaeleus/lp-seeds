@@ -1,0 +1,4 @@
+names = [
+  { name = "GUAP (Feat. 임수 (Im Soo))", locale = "ko", original = true },
+  { name = "GUAP (Feat. Im Soo)", locale = "ko-Latn", default = true },
+]
