@@ -1,0 +1,15 @@
+artist-id = "boramiyu"
+kind = "single"
+
+names = [
+  { name = "미인 (2021)", locale = "ko", original = true },
+  { name = "Miin (2021)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-21"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10595855" },
+]

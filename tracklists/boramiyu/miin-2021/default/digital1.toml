@@ -1,0 +1,13 @@
+medium-ids = [
+  "boramiyu/miin-2021/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "boramiyu/miin-2021"
+duration = "3:42"
+
+[[tracks]]
+position = 2
+song-id = "boramiyu/miin-2021-inst"
+duration = "3:42"
