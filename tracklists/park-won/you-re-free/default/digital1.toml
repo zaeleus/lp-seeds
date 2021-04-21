@@ -1,0 +1,13 @@
+medium-ids = [
+  "park-won/you-re-free/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "park-won/you-re-free"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "park-won/you-re-free-inst"
+duration = "3:56"
