@@ -1,0 +1,13 @@
+medium-ids = [
+  "san-e/sijangman-itgo-kkeuteun-eopdamyeon-feat-han-dong-geun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "san-e/sijangman-itgo-kkeuteun-eopdamyeon-feat-han-dong-geun"
+duration = "3:19"
+
+[[tracks]]
+position = 2
+song-id = "san-e/sijangman-itgo-kkeuteun-eopdamyeon-inst"
+duration = "3:19"
