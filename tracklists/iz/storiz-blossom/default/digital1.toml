@@ -1,0 +1,13 @@
+medium-ids = [
+  "iz/storiz-blossom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "iz/missing-u"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "iz/missing-u-inst"
+duration = "3:30"
