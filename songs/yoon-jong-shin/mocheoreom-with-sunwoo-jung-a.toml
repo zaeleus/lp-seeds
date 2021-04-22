@@ -1,0 +1,4 @@
+names = [
+  { name = "모처럼 (With 선우정아)", locale = "ko", original = true },
+  { name = "Mocheoreom (With Sunwoo Jung A)", locale = "ko-Latn", default = true },
+]
