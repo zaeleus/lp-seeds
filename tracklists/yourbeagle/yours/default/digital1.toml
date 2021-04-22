@@ -1,0 +1,37 @@
+medium-ids = [
+  "yourbeagle/yours/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/itjima"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "yourbeagle/baby-tell-me-feat-d-hack"
+duration = "2:52"
+
+[[tracks]]
+position = 3
+song-id = "yourbeagle/your-love"
+duration = "2:55"
+
+[[tracks]]
+position = 4
+song-id = "yourbeagle/nega-nareul"
+duration = "3:45"
+
+[[tracks]]
+position = 5
+song-id = "yourbeagle/sarangnorae-feat-leellamarz"
+duration = "3:01"
+names = [
+  { name = "사랑노래 (Feat. 릴러말즈 (Leellamarz))", locale = "ko", original = true },
+  { name = "Sarangnorae (Feat. Leellamarz)", locale = "ko-Latn", default = true },
+]
+
+[[tracks]]
+position = 6
+song-id = "yourbeagle/dollar-dollar-bill"
+duration = "2:18"
