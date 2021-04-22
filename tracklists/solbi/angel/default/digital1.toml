@@ -1,0 +1,13 @@
+medium-ids = [
+  "solbi/angel/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "solbi/angel"
+duration = "3:29"
+
+[[tracks]]
+position = 2
+song-id = "solbi/angel-void-remix"
+duration = "5:34"
