@@ -1,0 +1,14 @@
+artist-id = "b1a4"
+kind = "single"
+
+names = [
+  { name = "10 TIMES", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10597583" },
+]
