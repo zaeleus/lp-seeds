@@ -1,0 +1,3 @@
+names = [
+  { name = "Antisocial (Prod. Mokyo)", locale = "ko", original = true, default = true },
+]

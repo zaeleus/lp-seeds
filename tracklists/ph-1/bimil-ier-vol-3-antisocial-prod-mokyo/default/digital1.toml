@@ -1,0 +1,13 @@
+medium-ids = [
+  "ph-1/bimil-ier-vol-3-antisocial-prod-mokyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ph-1/antisocial-prod-mokyo"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "ph-1/antisocial-prod-mokyo-inst"
+duration = "3:36"

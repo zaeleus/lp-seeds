@@ -1,0 +1,15 @@
+artist-id = "ph-1"
+kind = "single"
+
+names = [
+  { name = "비밀:리에 vol.3 \"Antisocial (Prod. Mokyo)\"", locale = "ko", original = true },
+  { name = "bimil:ier vol.3 \"Antisocial (Prod. Mokyo)\"", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10582893" },
+]
