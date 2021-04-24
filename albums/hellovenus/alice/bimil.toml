@@ -1,0 +1,15 @@
+artist-id = "hellovenus/alice"
+kind = "single"
+
+names = [
+  { name = "비밀", locale = "ko", original = true },
+  { name = "Bimil", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10597134" },
+]

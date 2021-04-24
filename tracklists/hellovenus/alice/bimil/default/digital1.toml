@@ -1,0 +1,13 @@
+medium-ids = [
+  "hellovenus/alice/bimil/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hellovenus/alice/bimil"
+duration = "3:47"
+
+[[tracks]]
+position = 2
+song-id = "hellovenus/alice/bimil-inst"
+duration = "3:47"
