@@ -1,0 +1,9 @@
+names = [
+  { name = "넘어와 (바니와 오빠들 X 유승우, SOLE (쏠))", locale = "ko", original = true },
+  { name = "Neomeowa (Baniwa Oppadeul X Yoo Seung Woo, SOLE)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "yoo-seung-woo", separator = ", " },
+  { artist-id = "sole" },
+]

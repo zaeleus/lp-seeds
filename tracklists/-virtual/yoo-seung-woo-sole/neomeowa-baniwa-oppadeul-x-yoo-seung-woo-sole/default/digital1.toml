@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/yoo-seung-woo-sole/neomeowa-baniwa-oppadeul-x-yoo-seung-woo-sole/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/yoo-seung-woo-sole/neomeowa-baniwa-oppadeul-x-yoo-seung-woo-sole"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/yoo-seung-woo-sole/neomeowa-baniwa-oppadeul-x-yoo-seung-woo-sole-inst"
+duration = "3:27"

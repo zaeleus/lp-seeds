@@ -1,0 +1,20 @@
+artist-id = "-virtual/yoo-seung-woo-sole"
+kind = "single"
+
+names = [
+  { name = "넘어와 (바니와 오빠들 X 유승우, SOLE (쏠))", locale = "ko", original = true },
+  { name = "Neomeowa (Baniwa Oppadeul X Yoo Seung Woo, SOLE)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "yoo-seung-woo", separator = ", " },
+  { artist-id = "sole" },
+]
+
+[[releases]]
+released-on = "2021-04-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10590350" },
+]
