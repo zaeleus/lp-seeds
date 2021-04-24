@@ -1,0 +1,14 @@
+artist-id = "exo/baekhyun"
+kind = "single"
+
+names = [
+  { name = "iScreaM Vol.8: Bambi Remixes", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10597074" },
+]

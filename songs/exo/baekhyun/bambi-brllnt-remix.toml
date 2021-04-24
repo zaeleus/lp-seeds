@@ -1,0 +1,3 @@
+names = [
+  { name = "Bambi (BRLLNT Remix)", locale = "ko", original = true, default = true },
+]

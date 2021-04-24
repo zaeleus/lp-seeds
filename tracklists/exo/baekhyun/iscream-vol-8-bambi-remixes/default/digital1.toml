@@ -1,0 +1,13 @@
+medium-ids = [
+  "exo/baekhyun/iscream-vol-8-bambi-remixes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/baekhyun/bambi-brllnt-remix"
+duration = "2:52"
+
+[[tracks]]
+position = 2
+song-id = "exo/baekhyun/bambi-h4rdy-remix"
+duration = "4:01"
