@@ -1,0 +1,23 @@
+medium-ids = [
+  "checkmate/you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "checkmate/you"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "checkmate/drum-new"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "checkmate/you-inst"
+duration = "2:57"
+
+[[tracks]]
+position = 4
+song-id = "checkmate/drum-new-inst"
+duration = "3:17"

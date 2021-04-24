@@ -1,0 +1,14 @@
+artist-id = "checkmate"
+kind = "single"
+
+names = [
+  { name = "YOU", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10583433" },
+]

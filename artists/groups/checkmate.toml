@@ -1,0 +1,8 @@
+kind = "group"
+started-on = "2020"
+country = "KR"
+
+names = [
+  { name = "체크메이트", locale = "ko", original = true },
+  { name = "CHECKMATE", locale = "ko-Latn", default = true },
+]
