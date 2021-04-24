@@ -1,0 +1,9 @@
+names = [
+  { name = "알듯 말듯", locale = "ko", original = true },
+  { name = "Aldeut Maldeut", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "victon/kang-seung-sik", separator = ", " },
+  { artist-id = "aoa/yuna" },
+]

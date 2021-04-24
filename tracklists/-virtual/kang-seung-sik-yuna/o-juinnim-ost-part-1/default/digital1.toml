@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/kang-seung-sik-yuna/o-juinnim-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/kang-seung-sik-yuna/aldeut-maldeut"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/kang-seung-sik-yuna/aldeut-maldeut-inst"
+duration = "3:28"
