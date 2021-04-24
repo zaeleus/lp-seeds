@@ -1,0 +1,13 @@
+medium-ids = [
+  "shinee/iscream-vol-7-don-t-call-me-remixes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shinee/don-t-call-me-fox-stevenson-remix"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "shinee/don-t-call-me-esai-remix"
+duration = "3:02"

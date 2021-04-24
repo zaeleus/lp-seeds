@@ -1,0 +1,14 @@
+artist-id = "shinee"
+kind = "single"
+
+names = [
+  { name = "iScreaM Vol.7: Don't Call Me Remixes", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-03-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10583480" },
+]
