@@ -1,0 +1,16 @@
+artist-id = "kim-hee-jae"
+kind = "single"
+
+names = [
+  { name = "따라따라와", locale = "ko", original = true },
+  { name = "Ttarattarawa", locale = "ko-Latn", default = true },
+  { name = "Follow Me", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-04-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10592111" },
+]

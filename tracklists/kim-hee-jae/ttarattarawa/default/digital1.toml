@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-hee-jae/ttarattarawa/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-hee-jae/ttarattarawa-prod-by-young-tak"
+duration = "2:43"
+
+[[tracks]]
+position = 2
+song-id = "kim-hee-jae/ttarattarawa-prod-by-young-tak-inst"
+duration = "2:43"

@@ -1,0 +1,5 @@
+names = [
+  { name = "따라따라와 (Prod. by 영탁) (Inst.)", locale = "ko", original = true },
+  { name = "Ttarattarawa (Prod. by Young Tak) (Inst.)", locale = "ko-Latn", default = true },
+  { name = "Follow Me (Prod. by Young Tak) (Inst.)", locale = "en" },
+]
