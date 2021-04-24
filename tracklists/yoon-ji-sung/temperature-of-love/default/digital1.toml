@@ -1,0 +1,28 @@
+medium-ids = [
+  "yoon-ji-sung/temperature-of-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yoon-ji-sung/bameul-pinggye-sama"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "yoon-ji-sung/love-song"
+duration = "3:18"
+
+[[tracks]]
+position = 3
+song-id = "yoon-ji-sung/gominsangdam"
+duration = "3:47"
+
+[[tracks]]
+position = 4
+song-id = "yoon-ji-sung/sunday-moon"
+duration = "3:35"
+
+[[tracks]]
+position = 5
+song-id = "yoon-ji-sung/gwaenchanajigireul-barayo"
+duration = "4:06"

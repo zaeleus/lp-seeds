@@ -1,0 +1,4 @@
+names = [
+  { name = "밤을 핑계 삼아", locale = "ko", original = true },
+  { name = "Bameul Pinggye Sama", locale = "ko-Latn", default = true },
+]
