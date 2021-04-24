@@ -1,0 +1,13 @@
+medium-ids = [
+  "noel/oneuldo-geudaeman-re-code-episode-vi/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "noel/oneuldo-geudaeman"
+duration = "4:25"
+
+[[tracks]]
+position = 2
+song-id = "noel/oneuldo-geudaeman-inst"
+duration = "4:25"

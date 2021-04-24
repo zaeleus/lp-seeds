@@ -1,0 +1,15 @@
+artist-id = "noel"
+kind = "single"
+
+names = [
+  { name = "오늘도 그대만 (re;code Episode VI)", locale = "ko", original = true },
+  { name = "Oneuldo Geudaeman (re;code Episode VI)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10584619" },
+]
