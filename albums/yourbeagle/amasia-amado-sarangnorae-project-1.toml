@@ -1,0 +1,15 @@
+artist-id = "yourbeagle"
+kind = "single"
+
+names = [
+  { name = "아마시아 '아마도, 사랑노래' 프로젝트 #1", locale = "ko", original = true },
+  { name = "Amasia 'Amado, Sarangnorae' Project #1", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10590243" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "yourbeagle/amasia-amado-sarangnorae-project-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/to-me"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "yourbeagle/to-me-inst"
+duration = "3:24"
