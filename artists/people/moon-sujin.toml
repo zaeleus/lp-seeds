@@ -1,0 +1,9 @@
+kind = "person"
+#started-on = ""
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "문수진", locale = "ko", kind = "real", original = true },
+  { name = "Moon Sujin", locale = "ko-Latn", kind = "real", default = true },
+]

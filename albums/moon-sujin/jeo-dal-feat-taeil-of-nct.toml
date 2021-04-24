@@ -1,0 +1,15 @@
+artist-id = "moon-sujin"
+kind = "single"
+
+names = [
+  { name = "저 달 (Feat. 태일 of NCT)", locale = "ko", original = true },
+  { name = "Jeo Dal (Feat. TAEIL of NCT)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10590239" },
+]
