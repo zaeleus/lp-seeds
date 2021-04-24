@@ -1,0 +1,8 @@
+medium-ids = [
+  "-virtual/paloalto-ph-1/meongmeongpalpal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/paloalto-ph-1/meongmeongpalpal"
+duration = "2:54"

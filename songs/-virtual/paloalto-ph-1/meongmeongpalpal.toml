@@ -1,0 +1,10 @@
+names = [
+  { name = "멍멍팔팔", locale = "ko", original = true },
+  { name = "Meongmeongpalpal", locale = "ko-Latn", default = true },
+  { name = "Mungpal", locale = "en" },
+]
+
+artist-credits = [
+  { artist-id = "paloalto", separator = ", " },
+  { artist-id = "ph-1" },
+]
