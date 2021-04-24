@@ -1,0 +1,13 @@
+medium-ids = [
+  "b1a4/sandeul/more-than-words/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "b1a4/sandeul/more-than-words"
+duration = "4:04"
+
+[[tracks]]
+position = 2
+song-id = "b1a4/sandeul/more-than-words-inst"
+duration = "4:04"
