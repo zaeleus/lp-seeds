@@ -1,0 +1,14 @@
+artist-id = "cats-drink-coke"
+kind = "single"
+
+names = [
+  { name = "Hold On Tight", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10594507" },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "cats-drink-coke/hold-on-tight/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cats-drink-coke/hold-on-tight"
+duration = "3:19"
