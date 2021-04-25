@@ -1,0 +1,13 @@
+medium-ids = [
+  "john-park/vincenzo-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "john-park/i-m-always-by-your-side"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "john-park/i-m-always-by-your-side-inst"
+duration = "3:52"

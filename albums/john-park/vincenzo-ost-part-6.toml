@@ -1,0 +1,16 @@
+artist-id = "john-park"
+kind = "single"
+
+names = [
+  { name = "빈센조 OST Part 6", locale = "ko", original = true },
+  { name = "Binsenjo OST Part 6", locale = "ko-Latn" },
+  { name = "Vincenzo OST Part 6", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10597843" },
+]
