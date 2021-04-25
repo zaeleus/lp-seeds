@@ -1,0 +1,13 @@
+medium-ids = [
+  "3ye/eojjeoda-gajok-ost-part-11/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "3ye/neoman-molla"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "3ye/neoman-molla-inst"
+duration = "3:08"
