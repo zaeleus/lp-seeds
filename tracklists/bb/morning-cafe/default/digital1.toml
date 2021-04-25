@@ -1,0 +1,18 @@
+medium-ids = [
+  "bb/morning-cafe/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bb/morning-cafe"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "bb/april-text"
+duration = "3:04"
+
+[[tracks]]
+position = 3
+song-id = "bb/april-text-eng-ver"
+duration = "3:04"

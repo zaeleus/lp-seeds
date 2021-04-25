@@ -1,0 +1,14 @@
+artist-id = "bb"
+kind = "single"
+
+names = [
+  { name = "Morning Cafe", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10597769" },
+]
