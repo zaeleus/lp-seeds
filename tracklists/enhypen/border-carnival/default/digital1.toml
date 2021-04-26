@@ -1,0 +1,33 @@
+medium-ids = [
+  "enhypen/border-carnival/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "enhypen/intro-the-invitation"
+duration = "2:11"
+
+[[tracks]]
+position = 2
+song-id = "enhypen/drunk-dazed"
+duration = "3:14"
+
+[[tracks]]
+position = 3
+song-id = "enhypen/fever"
+duration = "2:53"
+
+[[tracks]]
+position = 4
+song-id = "enhypen/not-for-sale"
+duration = "3:02"
+
+[[tracks]]
+position = 5
+song-id = "enhypen/byeorangan-mixed-up"
+duration = "3:04"
+
+[[tracks]]
+position = 6
+song-id = "enhypen/outro-the-wormhole"
+duration = "1:35"

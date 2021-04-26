@@ -1,0 +1,5 @@
+names = [
+  { name = "별안간 (Mixed Up)", locale = "ko", original = true },
+  { name = "Byeorangan (Mixed Up)", locale = "ko-Latn", default = true },
+  { name = "Mixed Up", locale = "en" },
+]

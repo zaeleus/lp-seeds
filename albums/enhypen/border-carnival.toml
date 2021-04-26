@@ -1,0 +1,14 @@
+artist-id = "enhypen"
+kind = "ep"
+
+names = [
+  { name = "BORDER: CARNIVAL", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10598357" },
+]
