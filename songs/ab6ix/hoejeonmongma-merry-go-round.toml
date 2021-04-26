@@ -1,0 +1,5 @@
+names = [
+  { name = "회전목마 (MERRY-GO-ROUND)", locale = "ko", original = true },
+  { name = "Hoejeonmongma (MERRY-GO-ROUND)", locale = "ko-Latn", default = true },
+  { name = "MERRY-GO-ROUND", locale = "en" },
+]

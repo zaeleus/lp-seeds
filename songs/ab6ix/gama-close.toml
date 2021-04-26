@@ -1,0 +1,5 @@
+names = [
+  { name = "감아 (CLOSE)", locale = "ko", original = true },
+  { name = "Gama (CLOSE)", locale = "ko-Latn", default = true },
+  { name = "CLOSE", locale = "en" },
+]

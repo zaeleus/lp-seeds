@@ -1,0 +1,5 @@
+names = [
+  { name = "아직도 겨울 (A LONG WINTER)", locale = "ko", original = true },
+  { name = "Ajikdo Gyeoul (A LONG WINTER)", locale = "ko-Latn", default = true },
+  { name = "A LONG WINTER", locale = "en" },
+]
