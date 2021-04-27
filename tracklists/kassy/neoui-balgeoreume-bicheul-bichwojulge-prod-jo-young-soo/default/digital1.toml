@@ -1,0 +1,13 @@
+medium-ids = [
+  "kassy/neoui-balgeoreume-bicheul-bichwojulge-prod-jo-young-soo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kassy/neoui-balgeoreume-bicheul-bichwojulge-prod-jo-young-soo"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "kassy/neoui-balgeoreume-bicheul-bichwojulge-prod-jo-young-soo-inst"
+duration = "3:30"

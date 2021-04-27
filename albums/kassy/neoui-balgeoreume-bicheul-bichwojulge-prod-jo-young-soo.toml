@@ -1,0 +1,15 @@
+artist-id = "kassy"
+kind = "single"
+
+names = [
+  { name = "너의 발걸음에 빛을 비춰줄게 (Prod. 조영수)", locale = "ko", original = true },
+  { name = "Neoui Balgeoreume Bicheul Bichwojulge (Prod. Jo Young Soo)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10598763" },
+]
