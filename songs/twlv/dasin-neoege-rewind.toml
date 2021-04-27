@@ -1,0 +1,5 @@
+names = [
+  { name = "다신, 너에게 (Rewind)", locale = "ko", original = true },
+  { name = "Dasin, Neoege (Rewind)", locale = "ko-Latn", default = true },
+  { name = "Rewind", locale = "en" },
+]

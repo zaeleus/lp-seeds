@@ -1,0 +1,14 @@
+artist-id = "twlv"
+kind = "single"
+
+names = [
+  { name = "Echoes", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10598872" },
+]

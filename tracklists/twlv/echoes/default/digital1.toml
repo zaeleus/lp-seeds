@@ -1,0 +1,13 @@
+medium-ids = [
+  "twlv/echoes/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "twlv/dasin-neoege-rewind"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "twlv/dasi-neoege-angel"
+duration = "3:16"
