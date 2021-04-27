@@ -1,0 +1,4 @@
+names = [
+  { name = "말 되지 않을 건 없잖아 (Inst.)", locale = "ko", original = true },
+  { name = "Mal Doeji Aneul Geon Eopjana (Inst.)", locale = "ko-Latn", default = true },
+]

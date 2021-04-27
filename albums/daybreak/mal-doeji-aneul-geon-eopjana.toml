@@ -1,0 +1,15 @@
+artist-id = "daybreak"
+kind = "single"
+
+names = [
+  { name = "말 되지 않을 건 없잖아", locale = "ko", original = true },
+  { name = "Mal Doeji Aneul Geon Eopjana", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10598774" },
+]

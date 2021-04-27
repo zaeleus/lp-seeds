@@ -1,0 +1,13 @@
+medium-ids = [
+  "daybreak/mal-doeji-aneul-geon-eopjana/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "daybreak/mal-doeji-aneul-geon-eopjana"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "daybreak/mal-doeji-aneul-geon-eopjana-inst"
+duration = "3:50"
