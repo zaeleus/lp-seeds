@@ -1,0 +1,15 @@
+artist-id = "nilo"
+kind = "single"
+
+names = [
+  { name = "들려줄게", locale = "ko", original = true },
+  { name = "Deullyeojulge", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10598446" },
+]
