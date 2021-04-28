@@ -1,0 +1,5 @@
+names = [
+  { name = "멈추지 않을게 (On&On)", locale = "ko", original = true },
+  { name = "Meomchuji Aneulge (On&On)", locale = "ko-Latn", default = true },
+  { name = "On&On", locale = "en" },
+]
