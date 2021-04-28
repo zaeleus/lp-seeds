@@ -1,0 +1,5 @@
+names = [
+  { name = "춤춰 (Ugly Dance)", locale = "ko", original = true },
+  { name = "Chumchwo (Ugly Dance)", locale = "ko-Latn", default = true },
+  { name = "Ugly Dance", locale = "en" },
+]
