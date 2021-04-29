@@ -1,0 +1,14 @@
+artist-id = "ph-1"
+kind = "single"
+
+names = [
+  { name = "365&7", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10600107" },
+]
