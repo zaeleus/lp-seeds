@@ -1,0 +1,13 @@
+medium-ids = [
+  "t-ara/hyo-min/summer-guys-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "t-ara/hyo-min/binjari"
+duration = "4:11"
+
+[[tracks]]
+position = 2
+song-id = "t-ara/hyo-min/binjari-inst"
+duration = "4:11"
