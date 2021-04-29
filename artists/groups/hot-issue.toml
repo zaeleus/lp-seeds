@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2021"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "핫이슈", locale = "ko", original = true },
+  { name = "HOT ISSUE", locale = "en", default = true },
+]
