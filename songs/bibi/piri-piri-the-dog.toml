@@ -1,0 +1,5 @@
+names = [
+  { name = "피리 (PIRI the dog)", locale = "ko", original = true },
+  { name = "Piri (PIRI the dog)", locale = "ko-Latn", default = true },
+  { name = "PIRI the dog", locale = "en" },
+]

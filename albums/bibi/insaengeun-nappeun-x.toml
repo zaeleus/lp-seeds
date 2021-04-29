@@ -1,0 +1,15 @@
+artist-id = "bibi"
+kind = "ep"
+
+names = [
+  { name = "인생은 나쁜X", locale = "ko", original = true },
+  { name = "Insaengeun Nappeun X", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10599558" },
+]

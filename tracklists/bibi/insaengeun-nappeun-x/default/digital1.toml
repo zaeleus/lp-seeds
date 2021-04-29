@@ -1,0 +1,28 @@
+medium-ids = [
+  "bibi/insaengeun-nappeun-x/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bibi/umm-life"
+duration = "2:12"
+
+[[tracks]]
+position = 2
+song-id = "bibi/bad-sad-and-mad"
+duration = "2:35"
+
+[[tracks]]
+position = 3
+song-id = "bibi/piri-piri-the-dog"
+duration = "2:21"
+
+[[tracks]]
+position = 4
+song-id = "bibi/birthday-cake"
+duration = "2:17"
+
+[[tracks]]
+position = 5
+song-id = "bibi/insaengeun-nappeun-x"
+duration = "2:37"
