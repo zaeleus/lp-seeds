@@ -1,0 +1,16 @@
+artist-id = "giant-pink"
+kind = "single"
+
+names = [
+  { name = "어때 (Come Closer) (Feat. Woody)", locale = "ko", original = true },
+  { name = "Eottae (Come Closer) (Feat. Woody)", locale = "ko-Latn", default = true },
+  { name = "Come Closer (Feat. Woody)", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-04-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10600751" },
+]
