@@ -1,0 +1,14 @@
+artist-id = "itzy"
+kind = "ep"
+
+names = [
+  { name = "GUESS WHO", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-04-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10600760" },
+]

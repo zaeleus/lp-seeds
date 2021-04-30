@@ -1,0 +1,33 @@
+medium-ids = [
+  "itzy/guess-who/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "itzy/in-the-morning"
+duration = "2:53"
+
+[[tracks]]
+position = 2
+song-id = "itzy/sorry-not-sorry"
+duration = "3:10"
+
+[[tracks]]
+position = 3
+song-id = "itzy/kidding-me"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "itzy/wild-wild-west"
+duration = "3:24"
+
+[[tracks]]
+position = 5
+song-id = "itzy/shoot"
+duration = "2:20"
+
+[[tracks]]
+position = 6
+song-id = "itzy/tennis-0-0"
+duration = "3:40"
