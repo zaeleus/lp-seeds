@@ -1,0 +1,13 @@
+medium-ids = [
+  "sool-j/bomi-dwaejullae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sool-j/bomi-dwaejullae"
+duration = "4:18"
+
+[[tracks]]
+position = 2
+song-id = "sool-j/bomi-dwaejullae-inst"
+duration = "4:18"
