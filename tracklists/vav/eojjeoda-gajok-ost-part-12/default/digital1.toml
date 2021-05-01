@@ -1,0 +1,13 @@
+medium-ids = [
+  "vav/eojjeoda-gajok-ost-part-12/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vav/i-bam"
+duration = "2:24"
+
+[[tracks]]
+position = 2
+song-id = "vav/i-bam-inst"
+duration = "2:24"
