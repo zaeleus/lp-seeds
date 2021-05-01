@@ -1,0 +1,13 @@
+medium-ids = [
+  "ovan/haengbok-mic-swg-booth/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ovan/anajwo-mic-swg-live-ver"
+duration = "4:13"
+
+[[tracks]]
+position = 2
+song-id = "ovan/haengbok-mic-swg-live-ver"
+duration = "4:21"

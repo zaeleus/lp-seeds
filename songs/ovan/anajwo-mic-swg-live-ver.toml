@@ -1,0 +1,4 @@
+names = [
+  { name = "안아줘 (MIC SWG LIVE VER)", locale = "ko", original = true },
+  { name = "Anajwo (MIC SWG LIVE VER)", locale = "ko-Latn", default = true },
+]
