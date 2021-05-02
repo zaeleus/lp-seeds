@@ -1,0 +1,4 @@
+names = [
+  { name = "The Lady (Feat. 문별 of 마마무)", locale = "ko", original = true },
+  { name = "The Lady (Feat. Moonbyul of MAMAMOO)", locale = "ko-Latn", default = true },
+]
