@@ -1,0 +1,5 @@
+names = [
+  { name = "프로포즈 (Inst.)", locale = "ko", original = true },
+  { name = "Peuropojeu (Inst.)", locale = "ko-Latn" },
+  { name = "Propose (Inst.)", locale = "en", default = true },
+]

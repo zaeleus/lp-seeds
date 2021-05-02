@@ -1,0 +1,13 @@
+medium-ids = [
+  "bernard-park/okei-gwangjamae-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bernard-park/propose"
+duration = "2:45"
+
+[[tracks]]
+position = 2
+song-id = "bernard-park/propose-inst"
+duration = "2:45"
