@@ -1,0 +1,5 @@
+names = [
+  { name = "바람결에 날려 보아요 (A Letter in The Wind)", locale = "ko", original = true },
+  { name = "Baramgyeore Nallyeo Boayo (A Letter in The Wind)", locale = "ko-Latn", default = true },
+  { name = "A Letter in The Wind", locale = "en" },
+]

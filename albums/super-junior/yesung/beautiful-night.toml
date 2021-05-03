@@ -1,0 +1,14 @@
+artist-id = "super-junior/yesung"
+kind = "ep"
+
+names = [
+  { name = "Beautiful Night", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-05-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10597960" },
+]

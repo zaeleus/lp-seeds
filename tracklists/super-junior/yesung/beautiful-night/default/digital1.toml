@@ -1,0 +1,38 @@
+medium-ids = [
+  "super-junior/yesung/beautiful-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "super-junior/yesung/beautiful-night"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "super-junior/yesung/phantom-pain"
+duration = "3:39"
+
+[[tracks]]
+position = 3
+song-id = "super-junior/yesung/corazon-perdido-lost-heart"
+duration = "4:22"
+
+[[tracks]]
+position = 4
+song-id = "super-junior/yesung/fireworks"
+duration = "3:35"
+
+[[tracks]]
+position = 5
+song-id = "super-junior/yesung/no-more-love"
+duration = "3:21"
+
+[[tracks]]
+position = 6
+song-id = "super-junior/yesung/ireoke-urineun-like-us"
+duration = "3:30"
+
+[[tracks]]
+position = 7
+song-id = "super-junior/yesung/baramgyeore-nallyeo-boayo-a-letter-in-the-wind"
+duration = "4:28"

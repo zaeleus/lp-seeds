@@ -1,0 +1,5 @@
+names = [
+  { name = "이렇게 우리는 (Like Us)", locale = "ko", original = true },
+  { name = "Ireoke Urineun (Like Us)", locale = "ko-Latn", default = true },
+  { name = "Like Us", locale = "en" },
+]
