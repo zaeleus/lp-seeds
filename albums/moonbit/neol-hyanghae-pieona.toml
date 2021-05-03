@@ -1,0 +1,15 @@
+artist-id = "moonbit"
+kind = "single"
+
+names = [
+  { name = "널 향해 피어나", locale = "ko", original = true },
+  { name = "Neol Hyanghae Pieona", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-03"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10600988" },
+]

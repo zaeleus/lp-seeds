@@ -1,0 +1,8 @@
+medium-ids = [
+  "moonbit/neol-hyanghae-pieona/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "moonbit/neol-hyanghae-pieona"
+duration = "3:36"
