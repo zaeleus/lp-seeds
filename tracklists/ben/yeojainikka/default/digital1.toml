@@ -1,0 +1,13 @@
+medium-ids = [
+  "ben/yeojainikka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ben/yeojainikka"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "ben/yeojainikka-inst"
+duration = "4:01"
