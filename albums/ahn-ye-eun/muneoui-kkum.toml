@@ -1,0 +1,15 @@
+artist-id = "ahn-ye-eun"
+kind = "single"
+
+names = [
+  { name = "문어의 꿈", locale = "ko", original = true },
+  { name = "Muneoui Kkum", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10602409" },
+]

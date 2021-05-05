@@ -1,0 +1,13 @@
+medium-ids = [
+  "ahn-ye-eun/muneoui-kkum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ahn-ye-eun/muneoui-kkum"
+duration = "4:31"
+
+[[tracks]]
+position = 2
+song-id = "ahn-ye-eun/muneoui-kkum-inst"
+duration = "4:31"
