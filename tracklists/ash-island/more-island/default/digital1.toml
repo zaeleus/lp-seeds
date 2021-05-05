@@ -1,0 +1,18 @@
+medium-ids = [
+  "ash-island/more-island/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ash-island/singyeongkkeo"
+duration = "2:35"
+
+[[tracks]]
+position = 2
+song-id = "ash-island/kill-me-tonight"
+duration = "2:35"
+
+[[tracks]]
+position = 3
+song-id = "ash-island/a-star-is-born-remix-feat-meloh-paul-blanco"
+duration = "2:51"
