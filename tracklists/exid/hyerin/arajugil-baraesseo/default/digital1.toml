@@ -1,0 +1,13 @@
+medium-ids = [
+  "exid/hyerin/arajugil-baraesseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exid/hyerin/arajugil-baraesseo"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "exid/hyerin/arajugil-baraesseo-inst"
+duration = "3:56"

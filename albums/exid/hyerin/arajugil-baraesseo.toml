@@ -1,0 +1,15 @@
+artist-id = "exid/hyerin"
+kind = "single"
+
+names = [
+  { name = "알아주길 바랬어", locale = "ko", original = true },
+  { name = "Arajugil Baraesseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10602367" },
+]
