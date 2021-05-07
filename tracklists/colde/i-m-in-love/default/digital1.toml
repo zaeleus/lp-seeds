@@ -1,0 +1,13 @@
+medium-ids = [
+  "colde/i-m-in-love/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "colde/i-m-in-love"
+duration = "3:17"
+
+[[tracks]]
+position = 2
+song-id = "colde/i-m-in-love-inst"
+duration = "3:17"

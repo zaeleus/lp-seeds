@@ -1,0 +1,14 @@
+artist-id = "colde"
+kind = "single"
+
+names = [
+  { name = "I'm In Love", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-05-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10602824" },
+]
