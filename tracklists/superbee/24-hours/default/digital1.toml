@@ -1,0 +1,8 @@
+medium-ids = [
+  "superbee/24-hours/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "superbee/24-hours"
+duration = "2:33"
