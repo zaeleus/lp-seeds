@@ -1,0 +1,13 @@
+medium-ids = [
+  "hanye/bossam-unmyeongeul-humchida-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hanye/song-of-destiny"
+duration = "5:29"
+
+[[tracks]]
+position = 2
+song-id = "hanye/song-of-destiny-inst"
+duration = "5:29"
