@@ -1,0 +1,16 @@
+artist-id = "bibi"
+kind = "single"
+
+names = [
+  { name = "오! 주인님 OST Part 5", locale = "ko", original = true },
+  { name = "O! Juinnim OST Part 5", locale = "ko-Latn", default = true },
+  { name = "Oh My Ladylord OST Part 5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-05-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10602922" },
+]

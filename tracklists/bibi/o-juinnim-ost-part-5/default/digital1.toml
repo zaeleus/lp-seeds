@@ -1,0 +1,13 @@
+medium-ids = [
+  "bibi/o-juinnim-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bibi/nae-gyeote-isseojwoyo"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "bibi/nae-gyeote-isseojwoyo-inst"
+duration = "3:55"
