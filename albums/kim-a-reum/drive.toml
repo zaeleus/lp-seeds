@@ -1,0 +1,15 @@
+artist-id = "kim-a-reum"
+kind = "single"
+
+names = [
+  { name = "드라이브 (Drive)", locale = "ko", original = true },
+  { name = "Drive", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10602304" },
+]
