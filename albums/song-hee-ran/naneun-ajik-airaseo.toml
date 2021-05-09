@@ -1,0 +1,15 @@
+artist-id = "song-hee-ran"
+kind = "single"
+
+names = [
+  { name = "나는 아직 아이라서", locale = "ko", original = true },
+  { name = "Naneun Ajik Airaseo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10603505" },
+]
