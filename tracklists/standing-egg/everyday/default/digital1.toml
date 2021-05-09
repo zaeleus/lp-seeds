@@ -1,0 +1,13 @@
+medium-ids = [
+  "standing-egg/everyday/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "standing-egg/everyday"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "standing-egg/everyday-inst"
+duration = "3:04"
