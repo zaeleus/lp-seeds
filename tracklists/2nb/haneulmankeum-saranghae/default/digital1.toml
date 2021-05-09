@@ -1,0 +1,13 @@
+medium-ids = [
+  "2nb/haneulmankeum-saranghae/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "2nb/haneulmankeum-saranghae"
+duration = "3:32"
+
+[[tracks]]
+position = 2
+song-id = "2nb/haneulmankeum-saranghae-inst"
+duration = "3:32"
