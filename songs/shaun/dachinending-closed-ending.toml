@@ -1,0 +1,5 @@
+names = [
+  { name = "닫힌엔딩 (Closed Ending)", locale = "ko", original = true },
+  { name = "Dachinending (Closed Ending)", locale = "ko-Latn", default = true },
+  { name = "Closed Ending", locale = "en" },
+]

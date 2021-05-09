@@ -1,0 +1,13 @@
+medium-ids = [
+  "shaun/0055b7/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shaun/blue-feat-wonstein"
+duration = "2:20"
+
+[[tracks]]
+position = 2
+song-id = "shaun/dachinending-closed-ending"
+duration = "4:13"
