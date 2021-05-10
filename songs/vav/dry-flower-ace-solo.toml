@@ -1,0 +1,3 @@
+names = [
+  { name = "Dry Flower - ACE Solo", locale = "ko", original = true, default = true },
+]

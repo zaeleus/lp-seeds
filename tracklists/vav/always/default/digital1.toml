@@ -1,0 +1,18 @@
+medium-ids = [
+  "vav/always/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vav/always"
+duration = "3:38"
+
+[[tracks]]
+position = 2
+song-id = "vav/goodbye-ace-solo"
+duration = "3:05"
+
+[[tracks]]
+position = 3
+song-id = "vav/dry-flower-ace-solo"
+duration = "3:09"
