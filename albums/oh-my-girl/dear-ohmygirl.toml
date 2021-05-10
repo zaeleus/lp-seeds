@@ -1,0 +1,14 @@
+artist-id = "oh-my-girl"
+kind = "ep"
+
+names = [
+  { name = "Dear OHMYGIRL", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-05-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10604729" },
+]

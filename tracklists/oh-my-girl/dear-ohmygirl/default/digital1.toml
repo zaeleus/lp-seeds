@@ -1,0 +1,33 @@
+medium-ids = [
+  "oh-my-girl/dear-ohmygirl/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "oh-my-girl/dun-dun-dance"
+duration = "3:41"
+
+[[tracks]]
+position = 2
+song-id = "oh-my-girl/dear-you-naui-bomege"
+duration = "3:37"
+
+[[tracks]]
+position = 3
+song-id = "oh-my-girl/naui-inhyeong-annyeong-kkumeseo-nora"
+duration = "3:25"
+
+[[tracks]]
+position = 4
+song-id = "oh-my-girl/quest"
+duration = "3:29"
+
+[[tracks]]
+position = 5
+song-id = "oh-my-girl/chodaejang"
+duration = "3:02"
+
+[[tracks]]
+position = 6
+song-id = "oh-my-girl/swan"
+duration = "2:36"
