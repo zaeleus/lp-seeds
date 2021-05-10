@@ -1,0 +1,5 @@
+names = [
+  { name = "맛 (Hot Sauce)", locale = "ko", original = true },
+  { name = "Mat (Hot Sauce)", locale = "ko-Latn", default = true },
+  { name = "Hot Sauce", locale = "en" },
+]

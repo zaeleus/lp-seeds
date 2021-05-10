@@ -1,0 +1,5 @@
+names = [
+  { name = "우리의 계절 (My Youth)", locale = "ko", original = true },
+  { name = "Uriui Gyejeol (My Youth)", locale = "ko-Latn", default = true },
+  { name = "My Youth", locale = "en" },
+]

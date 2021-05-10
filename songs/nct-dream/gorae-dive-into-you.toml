@@ -1,0 +1,5 @@
+names = [
+  { name = "고래 (Dive Into You)", locale = "ko", original = true },
+  { name = "Gorae (Dive Into You)", locale = "ko-Latn", default = true },
+  { name = "Dive Into You", locale = "en" },
+]

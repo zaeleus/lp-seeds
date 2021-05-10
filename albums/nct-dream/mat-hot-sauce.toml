@@ -1,0 +1,16 @@
+artist-id = "nct-dream"
+kind = "lp"
+
+names = [
+  { name = "맛 (Hot Sauce)", locale = "ko", original = true },
+  { name = "Mat (Hot Sauce)", locale = "ko-Latn", default = true },
+  { name = "Hot Sauce", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-05-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10602760" },
+]

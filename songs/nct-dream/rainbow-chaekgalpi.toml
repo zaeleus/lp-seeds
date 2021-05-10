@@ -1,0 +1,5 @@
+names = [
+  { name = "Rainbow (책갈피)", locale = "ko", original = true },
+  { name = "Rainbow (Chaekgalpi)", locale = "ko-Latn", default = true },
+  { name = "Rainbow", locale = "en" },
+]

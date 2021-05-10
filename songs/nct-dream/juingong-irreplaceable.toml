@@ -1,0 +1,5 @@
+names = [
+  { name = "주인공 (Irreplaceable)", locale = "ko", original = true },
+  { name = "Juingong (Irreplaceable)", locale = "ko-Latn", default = true },
+  { name = "Irreplaceable", locale = "en" },
+]
