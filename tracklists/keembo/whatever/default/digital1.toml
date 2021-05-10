@@ -1,0 +1,8 @@
+medium-ids = [
+  "keembo/whatever/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "keembo/whatever"
+duration = "3:18"
