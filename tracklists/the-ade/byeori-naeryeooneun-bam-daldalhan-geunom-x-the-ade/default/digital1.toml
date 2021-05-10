@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-ade/byeori-naeryeooneun-bam-daldalhan-geunom-x-the-ade/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-ade/byeori-naeryeooneun-bam"
+duration = "4:20"
+
+[[tracks]]
+position = 2
+song-id = "the-ade/byeori-naeryeooneun-bam-inst"
+duration = "4:19"
