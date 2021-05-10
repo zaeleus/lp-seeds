@@ -1,0 +1,13 @@
+medium-ids = [
+  "gummy/autumn-breeze-re-code-episode-vii/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gummy/autumn-breeze"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "gummy/autumn-breeze-inst"
+duration = "3:40"
