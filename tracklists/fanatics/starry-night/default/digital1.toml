@@ -1,0 +1,8 @@
+medium-ids = [
+  "fanatics/starry-night/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fanatics/starry-night"
+duration = "3:38"
