@@ -1,0 +1,16 @@
+artist-id = "lee-jin-ah"
+kind = "single"
+
+names = [
+  { name = "아이들은 즐겁다 OST", locale = "ko", original = true },
+  { name = "Aideureun Jeulgeopda OST", locale = "ko-Latn", default = true },
+  { name = "Kids Are Fine OST", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-05-04"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10602006" },
+]
