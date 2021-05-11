@@ -1,0 +1,4 @@
+names = [
+  { name = "불확정성의 원리 (Inst.)", locale = "ko", original = true },
+  { name = "Bulhwakjeongseongui Wolli (Inst.)", locale = "ko-Latn", default = true },
+]

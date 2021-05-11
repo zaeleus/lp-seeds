@@ -1,0 +1,13 @@
+medium-ids = [
+  "015b/new-edition-31/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "015b/bulhwakjeongseongui-wolli-feat-dawon"
+duration = "2:50"
+
+[[tracks]]
+position = 2
+song-id = "015b/bulhwakjeongseongui-wolli-inst"
+duration = "2:46"
