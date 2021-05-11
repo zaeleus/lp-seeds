@@ -1,0 +1,33 @@
+medium-ids = [
+  "rhythm-power/assbrass/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rhythm-power/maja-feat-implanted-kid"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "rhythm-power/jaeneungchung"
+duration = "1:44"
+
+[[tracks]]
+position = 3
+song-id = "rhythm-power/heoheo"
+duration = "2:40"
+
+[[tracks]]
+position = 4
+song-id = "rhythm-power/haha"
+duration = "2:38"
+
+[[tracks]]
+position = 5
+song-id = "rhythm-power/blade-runner-2021"
+duration = "2:25"
+
+[[tracks]]
+position = 6
+song-id = "rhythm-power/team-nyper"
+duration = "3:29"
