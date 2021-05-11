@@ -1,0 +1,5 @@
+names = [
+  { name = "물과 기름 (Polarity)", locale = "ko", original = true },
+  { name = "Mulgwa Gireum (Polarity)", locale = "ko-Latn", default = true },
+  { name = "Polarity", locale = "en" },
+]
