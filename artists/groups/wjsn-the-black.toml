@@ -1,0 +1,9 @@
+kind = "group"
+started-on = "2021"
+country = "KR"
+gender = "female"
+
+names = [
+  { name = "우주소녀 더 블랙", locale = "ko", original = true },
+  { name = "WJSN THE BLACK", locale = "en", default = true },
+]

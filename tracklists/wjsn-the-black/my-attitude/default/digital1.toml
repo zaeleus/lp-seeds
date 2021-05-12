@@ -1,0 +1,13 @@
+medium-ids = [
+  "wjsn-the-black/my-attitude/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wjsn-the-black/easy"
+duration = "3:09"
+
+[[tracks]]
+position = 2
+song-id = "wjsn-the-black/kiss-your-lips"
+duration = "3:17"
