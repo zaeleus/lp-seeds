@@ -1,0 +1,33 @@
+medium-ids = [
+  "ourr/can-t/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ourr/sae"
+duration = "5:40"
+
+[[tracks]]
+position = 2
+song-id = "ourr/green"
+duration = "4:02"
+
+[[tracks]]
+position = 3
+song-id = "ourr/meong"
+duration = "4:59"
+
+[[tracks]]
+position = 4
+song-id = "ourr/umul"
+duration = "4:39"
+
+[[tracks]]
+position = 5
+song-id = "ourr/citronella"
+duration = "4:32"
+
+[[tracks]]
+position = 6
+song-id = "ourr/20-4"
+duration = "5:27"
