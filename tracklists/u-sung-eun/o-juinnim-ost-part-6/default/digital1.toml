@@ -1,0 +1,13 @@
+medium-ids = [
+  "u-sung-eun/o-juinnim-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "u-sung-eun/nae-maeumi-neoege-daasseumyeon"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "u-sung-eun/nae-maeumi-neoege-daasseumyeon-inst"
+duration = "3:34"
