@@ -1,0 +1,15 @@
+artist-id = "u-sung-eun"
+kind = "single"
+
+names = [
+  { name = "사실 (달달한 그놈 X 유성은)", locale = "ko", original = true },
+  { name = "Sasil (Daldalhan Geunom X U Sung Eun)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10606416" },
+]

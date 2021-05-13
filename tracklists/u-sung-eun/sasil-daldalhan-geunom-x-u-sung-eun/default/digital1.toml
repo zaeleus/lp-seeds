@@ -1,0 +1,13 @@
+medium-ids = [
+  "u-sung-eun/sasil-daldalhan-geunom-x-u-sung-eun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "u-sung-eun/sasil"
+duration = "4:01"
+
+[[tracks]]
+position = 2
+song-id = "u-sung-eun/sasil-inst"
+duration = "4:01"
