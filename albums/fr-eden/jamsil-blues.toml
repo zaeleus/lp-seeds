@@ -1,0 +1,15 @@
+artist-id = "fr-eden"
+kind = "single"
+
+names = [
+  { name = "잠실 블루스", locale = "ko", original = true },
+  { name = "Jamsil Blues", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10607021" },
+]
