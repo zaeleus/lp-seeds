@@ -1,0 +1,8 @@
+medium-ids = [
+  "kang-daniel/outerspace-feat-loco/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kang-daniel/outerspace-feat-loco"
+duration = "3:15"
