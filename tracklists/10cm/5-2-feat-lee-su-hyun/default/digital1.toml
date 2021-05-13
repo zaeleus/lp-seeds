@@ -1,0 +1,13 @@
+medium-ids = [
+  "10cm/5-2-feat-lee-su-hyun/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "10cm/seourui-jam-mot-iruneun-bam-feat-lee-su-hyun"
+duration = "4:18"
+
+[[tracks]]
+position = 2
+song-id = "10cm/seourui-jam-mot-iruneun-bam-inst"
+duration = "4:18"

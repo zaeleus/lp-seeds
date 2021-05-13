@@ -1,0 +1,15 @@
+artist-id = "10cm"
+kind = "single"
+
+names = [
+  { name = "5.2 (Feat. 이수현)", locale = "ko", original = true },
+  { name = "5.2 (Feat. Lee Su Hyun)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10606892" },
+]

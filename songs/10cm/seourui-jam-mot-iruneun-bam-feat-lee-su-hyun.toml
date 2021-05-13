@@ -1,0 +1,4 @@
+names = [
+  { name = "서울의 잠 못 이루는 밤 (Feat. 이수현)", locale = "ko", original = true },
+  { name = "Seourui Jam Mot Iruneun Bam (Feat. Lee Su Hyun)", locale = "ko-Latn", default = true },
+]
