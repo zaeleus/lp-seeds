@@ -1,0 +1,8 @@
+medium-ids = [
+  "gray/connected/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gray/connected"
+duration = "3:16"

@@ -1,0 +1,14 @@
+artist-id = "gray"
+kind = "single"
+
+names = [
+  { name = "Connected", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-05-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10607795" },
+]
