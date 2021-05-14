@@ -1,0 +1,16 @@
+artist-id = "katie"
+kind = "single"
+
+names = [
+  { name = "언더커버 OST Part.4", locale = "ko", original = true },
+  { name = "Eondeokeobeo OST Part.4", locale = "ko-Latn" },
+  { name = "Undercover OST Part.4", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10607895" },
+]

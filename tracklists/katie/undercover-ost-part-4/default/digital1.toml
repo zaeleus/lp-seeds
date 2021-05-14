@@ -1,0 +1,13 @@
+medium-ids = [
+  "katie/undercover-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "katie/where-are-you"
+duration = "3:40"
+
+[[tracks]]
+position = 2
+song-id = "katie/where-are-you-inst"
+duration = "3:40"
