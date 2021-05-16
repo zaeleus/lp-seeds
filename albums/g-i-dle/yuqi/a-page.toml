@@ -1,0 +1,14 @@
+artist-id = "g-i-dle/yuqi"
+kind = "single"
+
+names = [
+  { name = "A Page", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-05-13"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10606803" },
+]

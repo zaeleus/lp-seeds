@@ -1,0 +1,13 @@
+medium-ids = [
+  "g-i-dle/yuqi/a-page/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-i-dle/yuqi/giant"
+duration = "3:30"
+
+[[tracks]]
+position = 2
+song-id = "g-i-dle/yuqi/bonnie-clyde"
+duration = "2:55"
