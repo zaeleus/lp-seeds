@@ -1,0 +1,16 @@
+artist-id = "saturday"
+kind = "single"
+
+names = [
+  { name = "연애의 참견 2021 OST - Part.6", locale = "ko", original = true },
+  { name = "Yeonaeui Chamgyeon 2021 OST - Part.6", locale = "ko-Latn", default = true },
+  { name = "Love Naggers 2021 OST - Part.6", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-05-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10607950" },
+]

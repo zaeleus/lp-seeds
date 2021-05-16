@@ -1,0 +1,13 @@
+medium-ids = [
+  "saturday/yeonaeui-chamgyeon-2021-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saturday/cheot-mannam"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "saturday/cheot-mannam-inst"
+duration = "3:12"
