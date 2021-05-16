@@ -1,0 +1,16 @@
+artist-id = "simon-dominic"
+kind = "single"
+
+names = [
+  { name = "모범택시 OST Part.5", locale = "ko", original = true },
+  { name = "Mobeom Taxi OST Part.5", locale = "ko-Latn", default = true },
+  { name = "Taxi Driver OST Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-05-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10608290" },
+]
