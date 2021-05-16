@@ -1,0 +1,8 @@
+medium-ids = [
+  "itzy/in-the-morning-english-ver/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "itzy/in-the-morning-english-ver"
+duration = "2:53"

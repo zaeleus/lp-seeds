@@ -1,0 +1,16 @@
+artist-id = "itzy"
+kind = "single"
+
+names = [
+  { name = "마.피.아. In the morning (English Ver.)", locale = "ko", original = true },
+  { name = "Ma.fi.a. In the morning (English Ver.)", locale = "ko-Latn" },
+  { name = "In the morning (English Ver.)", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10607845" },
+]
