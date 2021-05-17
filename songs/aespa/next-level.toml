@@ -1,0 +1,3 @@
+names = [
+  { name = "Next Level", locale = "ko", original = true, default = true },
+]
