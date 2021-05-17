@@ -1,0 +1,18 @@
+medium-ids = [
+  "rocket-punch/ring-ring/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rocket-punch/ring-ring"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "rocket-punch/i-want-u-bad"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "rocket-punch/ride"
+duration = "3:25"
