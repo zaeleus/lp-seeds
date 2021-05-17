@@ -1,0 +1,15 @@
+artist-id = "coogie"
+kind = "single"
+
+names = [
+  { name = "UP & DOWN (Feat. 미란이, 페노메코)", locale = "ko", original = true },
+  { name = "UP & DOWN (Feat. Mirani, PENOMECO)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10609042" },
+]
