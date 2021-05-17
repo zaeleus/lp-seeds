@@ -1,0 +1,13 @@
+medium-ids = [
+  "cracker/naeun-saram/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cracker/yaganyeolcha"
+duration = "2:50"
+
+[[tracks]]
+position = 2
+song-id = "cracker/naeun-saram"
+duration = "3:35"

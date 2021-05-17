@@ -1,0 +1,15 @@
+artist-id = "cracker"
+kind = "single"
+
+names = [
+  { name = "나은 사람", locale = "ko", original = true },
+  { name = "Naeun Saram", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10608606" },
+]
