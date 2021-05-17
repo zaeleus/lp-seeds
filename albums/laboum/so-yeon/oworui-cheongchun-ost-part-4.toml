@@ -1,0 +1,16 @@
+artist-id = "laboum/so-yeon"
+kind = "single"
+
+names = [
+  { name = "오월의 청춘 OST Part.4", locale = "ko", original = true },
+  { name = "Oworui Cheongchun OST Part.4", locale = "ko-Latn", default = true },
+  { name = "Youth of May OST Part.4", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-05-17"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10608824" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "laboum/so-yeon/oworui-cheongchun-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "laboum/so-yeon/dangsin-saenggak"
+duration = "4:02"
+
+[[tracks]]
+position = 2
+song-id = "laboum/so-yeon/dangsin-saenggak-inst"
+duration = "4:02"
