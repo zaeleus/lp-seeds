@@ -1,0 +1,13 @@
+medium-ids = [
+  "ailee/eoneu-nal-uri-jip-hyeongwaneuro-myeolmangi-deureowatda-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "ailee/breaking-down"
+duration = "3:44"
+
+[[tracks]]
+position = 2
+song-id = "ailee/breaking-down-inst"
+duration = "3:44"
