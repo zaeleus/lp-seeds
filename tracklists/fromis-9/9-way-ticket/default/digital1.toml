@@ -1,0 +1,18 @@
+medium-ids = [
+  "fromis-9/9-way-ticket/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "fromis-9/airplane-mode"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "fromis-9/we-go"
+duration = "2:56"
+
+[[tracks]]
+position = 3
+song-id = "fromis-9/promise"
+duration = "3:32"
