@@ -1,0 +1,13 @@
+medium-ids = [
+  "tri-be/conmigo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "tri-be/rub-a-dum"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "tri-be/loro"
+duration = "3:20"

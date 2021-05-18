@@ -1,0 +1,4 @@
+names = [
+  { name = "러버덤 (RUB-A-DUM)", locale = "ko", original = true },
+  { name = "RUB-A-DUM", locale = "en", default = true },
+]
