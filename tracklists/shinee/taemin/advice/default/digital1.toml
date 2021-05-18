@@ -1,0 +1,28 @@
+medium-ids = [
+  "shinee/taemin/advice/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shinee/taemin/advice"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "shinee/taemin/light"
+duration = "3:20"
+
+[[tracks]]
+position = 3
+song-id = "shinee/taemin/if-i-could-tell-you-feat-taeyeon"
+duration = "3:18"
+
+[[tracks]]
+position = 4
+song-id = "shinee/taemin/strings"
+duration = "3:41"
+
+[[tracks]]
+position = 5
+song-id = "shinee/taemin/sad-kids"
+duration = "3:22"

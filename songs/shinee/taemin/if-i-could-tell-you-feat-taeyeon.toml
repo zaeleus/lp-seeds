@@ -1,0 +1,4 @@
+names = [
+  { name = "If I could tell you (Feat. 태연)", locale = "ko", original = true },
+  { name = "If I could tell you (Feat. TAEYEON)", locale = "ko-Latn", default = true },
+]
