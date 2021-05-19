@@ -1,0 +1,13 @@
+medium-ids = [
+  "song-ha-yea/maeumi-dachyeoseo-2021/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "song-ha-yea/maeumi-dachyeoseo-2021"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "song-ha-yea/maeumi-dachyeoseo-2021-inst"
+duration = "3:53"

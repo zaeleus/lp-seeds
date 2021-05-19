@@ -1,0 +1,15 @@
+artist-id = "song-ha-yea"
+kind = "single"
+
+names = [
+  { name = "마음이 다쳐서 (2021)", locale = "ko", original = true },
+  { name = "Maeumi Dachyeoseo (2021)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-16"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10608219" },
+]
