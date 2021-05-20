@@ -1,0 +1,14 @@
+artist-id = "heize"
+kind = "ep"
+
+names = [
+  { name = "HAPPEN", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-05-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10611845" },
+]

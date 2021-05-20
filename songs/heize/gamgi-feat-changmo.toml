@@ -1,0 +1,4 @@
+names = [
+  { name = "감기 (Feat. 창모)", locale = "ko", original = true },
+  { name = "Gamgi (Feat. CHANGMO)", locale = "ko-Latn", default = true },
+]

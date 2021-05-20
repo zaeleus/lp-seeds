@@ -1,0 +1,4 @@
+names = [
+  { name = "빗물에게 들으니 (Feat. 안예은)", locale = "ko", original = true },
+  { name = "Binmurege Deureuni (Feat. Ahn Ye Eun)", locale = "ko-Latn", default = true },
+]
