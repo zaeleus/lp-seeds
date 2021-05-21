@@ -1,0 +1,13 @@
+medium-ids = [
+  "bts/butter/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bts/butter"
+duration = "2:45"
+
+[[tracks]]
+position = 2
+song-id = "bts/butter-instrumental"
+duration = "2:43"
