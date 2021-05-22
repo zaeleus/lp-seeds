@@ -1,0 +1,15 @@
+artist-id = "ns-yoon-g"
+kind = "single"
+
+names = [
+  { name = "If You Love Me (Feat. 주헌 (몬스타엑스))", locale = "ko", original = true },
+  { name = "If You Love Me (Feat. Jooheon (MONSTA X))", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10612888" },
+]

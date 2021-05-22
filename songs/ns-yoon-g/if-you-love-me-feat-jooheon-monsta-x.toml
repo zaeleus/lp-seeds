@@ -1,0 +1,4 @@
+names = [
+  { name = "If You Love Me (Feat. 주헌 (몬스타엑스))", locale = "ko", original = true },
+  { name = "If You Love Me (Feat. Jooheon (MONSTA X))", locale = "ko-Latn", default = true },
+]
