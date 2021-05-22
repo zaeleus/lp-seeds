@@ -1,0 +1,13 @@
+medium-ids = [
+  "sbgb/goyangi-natjam-zzz/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sbgb/goyangi-natjam-zzz-feat-utopi"
+duration = "3:12"
+
+[[tracks]]
+position = 2
+song-id = "sbgb/goyangi-natjam-zzz-inst"
+duration = "3:12"
