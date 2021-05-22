@@ -1,0 +1,18 @@
+medium-ids = [
+  "shin-ji-hoon/mongnyeon-pil-muryeop/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "shin-ji-hoon/mongnyeon-pil-muryeop"
+duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "shin-ji-hoon/geudae-nae-pume-yoo-jae-ha"
+duration = "3:26"
+
+[[tracks]]
+position = 3
+song-id = "shin-ji-hoon/mongnyeon-pil-muryeop-inst"
+duration = "3:31"

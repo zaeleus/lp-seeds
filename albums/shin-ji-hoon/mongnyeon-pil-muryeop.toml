@@ -1,0 +1,15 @@
+artist-id = "shin-ji-hoon"
+kind = "single"
+
+names = [
+  { name = "목련 필 무렵", locale = "ko", original = true },
+  { name = "Mongnyeon Pil Muryeop", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-22"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10612874" },
+]
