@@ -4,7 +4,7 @@ country = "KR"
 
 names = [
   { name = "써니", locale = "ko", kind = "stage", original = true },
-  { name = "Sunny", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "SUNNY", locale = "ko-Latn", kind = "stage", default = true },
   { name = "이순규", locale = "ko", kind = "real" },
   { name = "Lee Sun Kyu", locale = "ko-Latn", kind = "real" },
 ]
