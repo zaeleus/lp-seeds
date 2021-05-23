@@ -1,0 +1,8 @@
+kind = "person"
+# started-on = ""
+# country = ""
+gender = "male"
+
+names = [
+  { name = "Bader AlShuaibi", locale = "en", kind = "real", original = true, default = true },
+]

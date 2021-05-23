@@ -1,0 +1,8 @@
+names = [
+  { name = "Is It On", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "alexa", separator = " x " },
+  { artist-id = "bader-alshuaibi" },
+]
