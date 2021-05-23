@@ -1,0 +1,14 @@
+artist-id = "soovi"
+kind = "single"
+
+names = [
+  { name = "ASAP!", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-05-23"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10612947" },
+]

@@ -1,0 +1,8 @@
+medium-ids = [
+  "soovi/asap/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "soovi/asap"
+duration = "2:06"
