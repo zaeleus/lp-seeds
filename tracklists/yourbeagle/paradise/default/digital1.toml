@@ -1,0 +1,13 @@
+medium-ids = [
+  "yourbeagle/paradise/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yourbeagle/paradise"
+duration = "2:33"
+
+[[tracks]]
+position = 2
+song-id = "yourbeagle/ebb"
+duration = "2:15"
