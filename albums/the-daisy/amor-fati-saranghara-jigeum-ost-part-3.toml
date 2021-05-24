@@ -1,0 +1,16 @@
+artist-id = "the-daisy"
+kind = "single"
+
+names = [
+  { name = "아모르 파티-사랑하라, 지금 OST Part.3", locale = "ko", original = true },
+  { name = "Amor Fati - Saranghara, Jigeum OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Amor Fati OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-05-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10612885" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-daisy/amor-fati-saranghara-jigeum-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-daisy/far-away"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "the-daisy/far-away-inst"
+duration = "3:49"
