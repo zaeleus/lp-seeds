@@ -1,0 +1,13 @@
+medium-ids = [
+  "gray/apado-apeul-su-eopjyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gray/apado-apeul-su-eopjyo"
+duration = "4:03"
+
+[[tracks]]
+position = 2
+song-id = "gray/apado-apeul-su-eopjyo-inst"
+duration = "4:03"
