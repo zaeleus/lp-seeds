@@ -1,0 +1,15 @@
+artist-id = "sonakbyul"
+kind = "single"
+
+names = [
+  { name = "지나가", locale = "ko", original = true },
+  { name = "Jinaga", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10613040" },
+]

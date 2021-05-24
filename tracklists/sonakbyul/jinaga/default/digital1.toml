@@ -1,0 +1,13 @@
+medium-ids = [
+  "sonakbyul/jinaga/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sonakbyul/jinaga"
+duration = "3:11"
+
+[[tracks]]
+position = 2
+song-id = "sonakbyul/doraboni"
+duration = "3:35"
