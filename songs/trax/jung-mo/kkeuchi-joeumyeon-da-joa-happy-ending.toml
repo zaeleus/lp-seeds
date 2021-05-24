@@ -1,0 +1,5 @@
+names = [
+  { name = "끝이 좋으면 다 좋아 (Happy Ending)", locale = "ko", original = true },
+  { name = "Kkeuchi Joeumyeon Da Joa (Happy Ending)", locale = "ko-Latn", default = true },
+  { name = "Happy Ending", locale = "en" },
+]

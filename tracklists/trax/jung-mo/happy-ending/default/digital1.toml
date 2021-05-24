@@ -1,0 +1,13 @@
+medium-ids = [
+  "trax/jung-mo/happy-ending/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "trax/jung-mo/kkeuchi-joeumyeon-da-joa-happy-ending"
+duration = "4:25"
+
+[[tracks]]
+position = 2
+song-id = "trax/jung-mo/kkeuchi-joeumyeon-da-joa-happy-ending-inst"
+duration = "4:25"
