@@ -1,0 +1,13 @@
+medium-ids = [
+  "jung-joon-il/oworui-cheongchun-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "jung-joon-il/gieogui-nanal"
+duration = "3:55"
+
+[[tracks]]
+position = 2
+song-id = "jung-joon-il/gieogui-nanal-inst"
+duration = "3:55"
