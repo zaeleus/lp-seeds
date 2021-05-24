@@ -1,0 +1,8 @@
+medium-ids = [
+  "cocosori/sori/deja-vu-youtulover-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cocosori/sori/deja-vu"
+duration = "3:48"

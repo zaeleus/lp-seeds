@@ -1,0 +1,15 @@
+artist-id = "cocosori/sori"
+kind = "single"
+
+names = [
+  { name = "deja vu (유튜러버 OST Part.2)", locale = "ko", original = true },
+  { name = "deja vu (YouTuLover OST Part.2)", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-20"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10610623" },
+]
