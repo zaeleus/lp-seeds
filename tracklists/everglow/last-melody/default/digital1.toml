@@ -1,0 +1,18 @@
+medium-ids = [
+  "everglow/last-melody/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "everglow/first"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "everglow/don-t-ask-don-t-tell"
+duration = "3:29"
+
+[[tracks]]
+position = 3
+song-id = "everglow/please-please"
+duration = "4:02"
