@@ -1,0 +1,15 @@
+artist-id = "joy-o-clock"
+kind = "single"
+
+names = [
+  { name = "좋은 사람", locale = "ko", original = true },
+  { name = "Joeun Saram", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10613855" },
+]
