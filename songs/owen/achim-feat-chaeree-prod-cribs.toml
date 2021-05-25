@@ -1,0 +1,4 @@
+names = [
+  { name = "아침 (feat. 채리) (Prod. Cribs)", locale = "ko", original = true },
+  { name = "Achim (feat. chaeree) (Prod. Cribs)", locale = "ko-Latn", default = true },
+]

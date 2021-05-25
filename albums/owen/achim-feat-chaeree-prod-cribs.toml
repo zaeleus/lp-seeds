@@ -1,0 +1,15 @@
+artist-id = "owen"
+kind = "single"
+
+names = [
+  { name = "아침 (feat. 채리) (Prod. Cribs)", locale = "ko", original = true },
+  { name = "Achim (feat. chaeree) (Prod. Cribs)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10613813" },
+]
