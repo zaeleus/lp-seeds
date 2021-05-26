@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-jae-hwan/saekkamake/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-jae-hwan/saekkamake"
+duration = "3:53"
+
+[[tracks]]
+position = 2
+song-id = "kim-jae-hwan/saekkamake-inst"
+duration = "3:53"

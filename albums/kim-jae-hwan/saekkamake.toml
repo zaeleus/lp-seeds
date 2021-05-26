@@ -1,0 +1,15 @@
+artist-id = "kim-jae-hwan"
+kind = "single"
+
+names = [
+  { name = "새까맣게", locale = "ko", original = true },
+  { name = "Saekkamake", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10614710" },
+]
