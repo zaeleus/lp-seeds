@@ -1,0 +1,15 @@
+artist-id = "jung-seung-hwan"
+kind = "ep"
+
+names = [
+  { name = "다섯 마디", locale = "ko", original = true },
+  { name = "Daseot Madi", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10614771" },
+]
