@@ -1,0 +1,33 @@
+medium-ids = [
+  "gwsn/the-other-side-of-the-moon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gwsn/burn-song-by-miya-seoryoung-anne-lena"
+duration = "2:29"
+
+[[tracks]]
+position = 2
+song-id = "gwsn/i-can-t-breathe"
+duration = "3:40"
+
+[[tracks]]
+position = 3
+song-id = "gwsn/like-it-hot"
+duration = "3:23"
+
+[[tracks]]
+position = 4
+song-id = "gwsn/e-i-e-i-o"
+duration = "3:18"
+
+[[tracks]]
+position = 5
+song-id = "gwsn/starry-night"
+duration = "3:45"
+
+[[tracks]]
+position = 6
+song-id = "gwsn/i-sing-lalala"
+duration = "3:16"

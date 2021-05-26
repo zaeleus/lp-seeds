@@ -1,0 +1,4 @@
+names = [
+  { name = "Burn (Song by 미야, 서령, 앤, 레나)", locale = "ko", original = true },
+  { name = "Burn (Song by Miya, Seoryoung, Anne, Lena)", locale = "ko-Latn", default = true },
+]
