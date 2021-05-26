@@ -1,0 +1,14 @@
+artist-id = "red-velvet/joy"
+kind = "single"
+
+names = [
+  { name = "Je T'aime", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-05-26"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10614899" },
+]
