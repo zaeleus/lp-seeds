@@ -1,0 +1,15 @@
+artist-id = "motte"
+kind = "ep"
+
+names = [
+  { name = "소중함에 대하여", locale = "ko", original = true },
+  { name = "Sojunghame Daehayeo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10615851" },
+]
