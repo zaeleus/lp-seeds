@@ -1,0 +1,15 @@
+artist-id = "sweden-laundry"
+kind = "ep"
+
+names = [
+  { name = "우리가 핀 2 - 조각", locale = "ko", original = true },
+  { name = "Uriga Pin 2 - Jogak", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10613062" },
+]

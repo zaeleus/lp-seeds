@@ -1,0 +1,28 @@
+medium-ids = [
+  "sweden-laundry/uriga-pin-2-jogak/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sweden-laundry/seonjam"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "sweden-laundry/da-sarang-gata-vocal-zitten"
+duration = "3:57"
+
+[[tracks]]
+position = 3
+song-id = "sweden-laundry/joahagoman-sipeo-vocal-wisue"
+duration = "3:14"
+
+[[tracks]]
+position = 4
+song-id = "sweden-laundry/wae-uriga-vocal-lee-aram"
+duration = "3:59"
+
+[[tracks]]
+position = 5
+song-id = "sweden-laundry/bada"
+duration = "3:26"

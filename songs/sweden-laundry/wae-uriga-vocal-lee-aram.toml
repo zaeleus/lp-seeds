@@ -1,0 +1,4 @@
+names = [
+  { name = "왜 우리가 (Vocal 이아람)", locale = "ko", original = true },
+  { name = "Wae Uriga (Vocal Lee Aram)", locale = "ko-Latn", default = true },
+]
