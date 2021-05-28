@@ -1,0 +1,13 @@
+medium-ids = [
+  "yang-da-il/byeori-tteun-gose-baniwa-oppadeul-x-yang-da-il/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yang-da-il/byeori-tteun-gose-baniwa-oppadeul-x-yang-da-il"
+duration = "3:57"
+
+[[tracks]]
+position = 2
+song-id = "yang-da-il/byeori-tteun-gose-baniwa-oppadeul-x-yang-da-il-inst"
+duration = "3:57"
