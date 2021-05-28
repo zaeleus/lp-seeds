@@ -1,0 +1,10 @@
+names = [
+  { name = "크림빵", locale = "ko", original = true },
+  { name = "Keurimppang", locale = "ko-Latn" },
+  { name = "Creamppang", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "sumin", separator = "+" },
+  { artist-id = "zion-t" },
+]
