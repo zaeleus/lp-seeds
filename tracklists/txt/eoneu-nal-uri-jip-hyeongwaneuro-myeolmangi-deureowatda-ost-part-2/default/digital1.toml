@@ -1,0 +1,13 @@
+medium-ids = [
+  "txt/eoneu-nal-uri-jip-hyeongwaneuro-myeolmangi-deureowatda-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "txt/neol-bomyeon-sigani-meomchwo-eoneu-sunganedo"
+duration = "4:13"
+
+[[tracks]]
+position = 2
+song-id = "txt/neol-bomyeon-sigani-meomchwo-eoneu-sunganedo-inst"
+duration = "4:13"

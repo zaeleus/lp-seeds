@@ -1,0 +1,4 @@
+names = [
+  { name = "널 보면 시간이 멈춰 어느 순간에도", locale = "ko", original = true },
+  { name = "Neol Bomyeon Sigani Meomchwo Eoneu Sunganedo", locale = "ko-Latn", default = true },
+]
