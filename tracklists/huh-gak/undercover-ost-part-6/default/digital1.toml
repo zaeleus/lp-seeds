@@ -1,0 +1,13 @@
+medium-ids = [
+  "huh-gak/undercover-ost-part-6/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "huh-gak/haneul-arae-geudaewa"
+duration = "3:56"
+
+[[tracks]]
+position = 2
+song-id = "huh-gak/haneul-arae-geudaewa-inst"
+duration = "3:56"
