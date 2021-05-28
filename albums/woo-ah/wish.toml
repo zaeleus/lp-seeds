@@ -1,0 +1,14 @@
+artist-id = "woo-ah"
+kind = "single"
+
+names = [
+  { name = "\"WISH\"", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-05-27"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10615831" },
+]

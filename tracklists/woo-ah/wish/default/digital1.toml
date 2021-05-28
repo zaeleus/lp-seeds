@@ -1,0 +1,18 @@
+medium-ids = [
+  "woo-ah/wish/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "woo-ah/geopjaengi"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "woo-ah/purple"
+duration = "2:57"
+
+[[tracks]]
+position = 3
+song-id = "woo-ah/pandora"
+duration = "3:23"
