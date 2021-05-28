@@ -1,0 +1,13 @@
+medium-ids = [
+  "g-i-dle/miyeon/neoneun-naui-sumiyeotda/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "g-i-dle/miyeon/neoneun-naui-sumiyeotda"
+duration = "3:33"
+
+[[tracks]]
+position = 2
+song-id = "g-i-dle/miyeon/neoneun-naui-sumiyeotda-inst"
+duration = "3:33"
