@@ -1,0 +1,33 @@
+medium-ids = [
+  "exn/qqqqq/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exn/exn-s-question"
+duration = "1:49"
+
+[[tracks]]
+position = 2
+song-id = "exn/reverse"
+duration = "3:04"
+
+[[tracks]]
+position = 3
+song-id = "exn/museoun-ge-ttak-joa"
+duration = "2:28"
+
+[[tracks]]
+position = 4
+song-id = "exn/nyuteongwajungnyeoguibeopchik"
+duration = "3:03"
+
+[[tracks]]
+position = 5
+song-id = "exn/nyuteongwanaenggaguibeopchik"
+duration = "3:34"
+
+[[tracks]]
+position = 6
+song-id = "exn/exn-s-answer"
+duration = "2:47"

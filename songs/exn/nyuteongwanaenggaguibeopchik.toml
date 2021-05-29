@@ -1,0 +1,4 @@
+names = [
+  { name = "뉴턴과냉각의법칙", locale = "ko", original = true },
+  { name = "Nyuteongwanaenggaguibeopchik", locale = "ko-Latn", default = true },
+]
