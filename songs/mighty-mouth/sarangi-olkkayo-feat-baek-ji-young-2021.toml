@@ -1,0 +1,4 @@
+names = [
+  { name = "사랑이 올까요 (Feat. 백지영) (2021)", locale = "ko", original = true },
+  { name = "Sarangi Olkkayo (Feat. Baek Ji Young) (2021)", locale = "ko-Latn", default = true },
+]

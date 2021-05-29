@@ -1,0 +1,15 @@
+artist-id = "mighty-mouth"
+kind = "single"
+
+names = [
+  { name = "Re:Mighty Vol.1 - 사랑이 올까요 (Feat. 백지영) (2021)", locale = "ko", original = true },
+  { name = "Re:Mighty Vol.1 - Sarangi Olkkayo (Feat. Baek Ji Young) (2021)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-29"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10616382" },
+]
