@@ -1,0 +1,3 @@
+names = [
+  { name = "Mad Tea Party (feat. Swervy)", locale = "ko", original = true, default = true },
+]

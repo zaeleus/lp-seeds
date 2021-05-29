@@ -1,0 +1,4 @@
+names = [
+  { name = "그러지 마 (feat. RM)", locale = "ko", original = true },
+  { name = "Geureoji Ma (feat. RM)", locale = "ko-Latn", default = true },
+]
