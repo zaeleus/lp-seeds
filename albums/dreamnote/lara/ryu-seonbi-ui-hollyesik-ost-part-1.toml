@@ -1,0 +1,15 @@
+artist-id = "dreamnote/lara"
+kind = "single"
+
+names = [
+  { name = "류선비의 혼례식 OST Part.1", locale = "ko", original = true },
+  { name = "Ryu-seonbi-ui Hollyesik OST Part.1", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-04-15"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10592978" },
+]
