@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1996-10-22"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "비아이", locale = "ko", kind = "stage", original = true },
+  { name = "B.I", locale = "en", kind = "stage", default = true },
+  { name = "김한빈", locale = "ko", kind = "real" },
+  { name = "Kim Han Bin", locale = "ko-Latn", kind = "real" },
+]

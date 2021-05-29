@@ -1,0 +1,18 @@
+medium-ids = [
+  "b-i/gipeun-bamui-wiro-love-streaming/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "b-i/gipeun-bamui-wiro-donation-project"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "b-i/remember-me-donation-project"
+duration = "2:41"
+
+[[tracks]]
+position = 3
+song-id = "b-i/nae-geokjeong-donation-project"
+duration = "3:32"

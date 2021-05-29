@@ -1,0 +1,15 @@
+artist-id = "b-i"
+kind = "single"
+
+names = [
+  { name = "깊은 밤의 위로 (LOVE STREAMING)", locale = "ko", original = true },
+  { name = "Gipeun Bamui Wiro (LOVE STREAMING)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-03-19"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10580078" },
+]

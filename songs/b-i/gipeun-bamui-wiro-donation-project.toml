@@ -1,0 +1,4 @@
+names = [
+  { name = "깊은 밤의 위로 (Donation Project)", locale = "ko", original = true },
+  { name = "Gipeun Bamui Wiro (Donation Project)", locale = "ko-Latn", default = true },
+]

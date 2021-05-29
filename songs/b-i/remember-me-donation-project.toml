@@ -1,0 +1,3 @@
+names = [
+  { name = "Remember me (Donation Project)", locale = "ko", original = true, default = true },
+]
