@@ -1,0 +1,5 @@
+names = [
+  { name = "텐션업 (Inst.)", locale = "ko", original = true },
+  { name = "Tension Up (Inst.)", locale = "ko-Latn" },
+  { name = "7days Tension (Inst.)", locale = "en", default = true },
+]

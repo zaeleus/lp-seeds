@@ -1,0 +1,16 @@
+artist-id = "weeekly"
+kind = "single"
+
+names = [
+  { name = "텐션업", locale = "ko", original = true },
+  { name = "Tension Up", locale = "en" },
+  { name = "7days Tension", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-28"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10616423" },
+]

@@ -1,0 +1,13 @@
+medium-ids = [
+  "weeekly/7days-tension/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "weeekly/7days-tension"
+duration = "3:24"
+
+[[tracks]]
+position = 2
+song-id = "weeekly/7days-tension-inst"
+duration = "3:24"
