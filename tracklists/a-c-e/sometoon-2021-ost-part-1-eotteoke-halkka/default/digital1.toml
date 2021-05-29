@@ -1,0 +1,13 @@
+medium-ids = [
+  "a-c-e/sometoon-2021-ost-part-1-eotteoke-halkka/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "a-c-e/eotteoke-halkka"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "a-c-e/eotteoke-halkka-inst"
+duration = "3:35"
