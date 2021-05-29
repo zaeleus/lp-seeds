@@ -1,0 +1,11 @@
+kind = "person"
+started-on = "1997-09-14"
+country = "KR"
+gender = "male"
+
+names = [
+  { name = "가호", locale = "ko", kind = "stage", original = true },
+  { name = "Gaho", locale = "ko-Latn", kind = "stage", default = true },
+  { name = "강대호", locale = "ko", kind = "real" },
+  { name = "Kang Dae Ho", locale = "ko-Latn", kind = "real" },
+]
