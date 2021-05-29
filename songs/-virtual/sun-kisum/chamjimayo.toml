@@ -1,0 +1,9 @@
+names = [
+  { name = "참지마요", locale = "ko", original = true },
+  { name = "Chamjimayo", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "sun", separator = ", " },
+  { artist-id = "kisum" },
+]

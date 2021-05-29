@@ -1,0 +1,18 @@
+medium-ids = [
+  "-virtual/sun-kisum/sun-moon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sun/with-you"
+duration = "3:49"
+
+[[tracks]]
+position = 2
+song-id = "sun/moon-drive"
+duration = "3:55"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/sun-kisum/chamjimayo"
+duration = "3:34"
