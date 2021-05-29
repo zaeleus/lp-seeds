@@ -1,0 +1,13 @@
+medium-ids = [
+  "koyote/shinji/always-2021/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "koyote/shinji/always-2021"
+duration = "3:28"
+
+[[tracks]]
+position = 2
+song-id = "koyote/shinji/always-2021-inst"
+duration = "3:28"

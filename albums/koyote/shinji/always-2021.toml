@@ -1,0 +1,14 @@
+artist-id = "koyote/shinji"
+kind = "single"
+
+names = [
+  { name = "ALWAYS (2021)", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-05-18"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10610765" },
+]
