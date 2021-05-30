@@ -1,0 +1,13 @@
+medium-ids = [
+  "bb/seumul/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "bb/seumul-feat-geuneul"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "bb/my-monday-feat-geuneul"
+duration = "3:01"
