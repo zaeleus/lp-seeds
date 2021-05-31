@@ -1,0 +1,15 @@
+artist-id = "vromance"
+kind = "single"
+
+names = [
+  { name = "너만 없는 하루", locale = "ko", original = true },
+  { name = "Neoman Eomneun Haru", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10617213" },
+]

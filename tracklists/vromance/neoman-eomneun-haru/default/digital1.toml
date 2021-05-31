@@ -1,0 +1,13 @@
+medium-ids = [
+  "vromance/neoman-eomneun-haru/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vromance/neoman-eomneun-haru-the-moment"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "vromance/neoman-eomneun-haru-the-moment-inst"
+duration = "3:52"
