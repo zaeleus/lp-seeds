@@ -1,0 +1,8 @@
+medium-ids = [
+  "eden/eden_stardust2-vol-12/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "eden/dancing-in-the-moonlight"
+duration = "3:54"

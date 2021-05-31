@@ -1,0 +1,14 @@
+artist-id = "eden"
+kind = "single"
+
+names = [
+  { name = "EDEN_STARDUST2 Vol.12", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-05-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10616680" },
+]
