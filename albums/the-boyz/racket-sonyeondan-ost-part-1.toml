@@ -1,0 +1,16 @@
+artist-id = "the-boyz"
+kind = "single"
+
+names = [
+  { name = "라켓소년단 OST Part.1", locale = "ko", original = true },
+  { name = "Racket Sonyeondan OST Part.1", locale = "ko-Latn", default = true },
+  { name = "Racket Boys OST Part.1", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-06-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10616445" },
+]

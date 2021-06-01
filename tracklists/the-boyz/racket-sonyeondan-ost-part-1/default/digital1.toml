@@ -1,0 +1,13 @@
+medium-ids = [
+  "the-boyz/racket-sonyeondan-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "the-boyz/jigeumcheoreom"
+duration = "3:04"
+
+[[tracks]]
+position = 2
+song-id = "the-boyz/jigeumcheoreom-inst"
+duration = "3:04"
