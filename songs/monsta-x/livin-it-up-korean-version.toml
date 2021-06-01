@@ -1,0 +1,3 @@
+names = [
+  { name = "Livin' It Up (Korean Version)", locale = "ko", original = true, default = true },
+]

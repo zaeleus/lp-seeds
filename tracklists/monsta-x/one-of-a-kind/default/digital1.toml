@@ -1,0 +1,38 @@
+medium-ids = [
+  "monsta-x/one-of-a-kind/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "monsta-x/gambler"
+duration = "3:34"
+
+[[tracks]]
+position = 2
+song-id = "monsta-x/heaven"
+duration = "3:04"
+
+[[tracks]]
+position = 3
+song-id = "monsta-x/addicted"
+duration = "3:07"
+
+[[tracks]]
+position = 4
+song-id = "monsta-x/secrets"
+duration = "3:22"
+
+[[tracks]]
+position = 5
+song-id = "monsta-x/bebe"
+duration = "3:46"
+
+[[tracks]]
+position = 6
+song-id = "monsta-x/rotate"
+duration = "3:24"
+
+[[tracks]]
+position = 7
+song-id = "monsta-x/livin-it-up-korean-version"
+duration = "3:45"
