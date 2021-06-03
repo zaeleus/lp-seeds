@@ -1,0 +1,5 @@
+names = [
+  { name = "애써 (A Memory for Life)", locale = "ko", original = true },
+  { name = "Aesseo (A Memory for Life)", locale = "ko-Latn", default = true },
+  { name = "A Memory for Life", locale = "en" },
+]

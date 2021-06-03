@@ -1,0 +1,5 @@
+names = [
+  { name = "우린 결국 다시 만날 운명이었지 Part.2 (Destiny Part.2)", locale = "ko", original = true },
+  { name = "Urin Gyeolguk Dasi Mannal Unmyeongieotji Part.2 (Destiny Part.2)", locale = "ko-Latn", default = true },
+  { name = "Destiny Part.2", locale = "en" },
+]

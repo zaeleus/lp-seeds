@@ -1,0 +1,5 @@
+names = [
+  { name = "내일의 너, 오늘의 나 (Another Day)", locale = "ko", original = true },
+  { name = "Naeirui Neo, Oneurui Na (Another Day)", locale = "ko-Latn", default = true },
+  { name = "Another Day", locale = "en" },
+]
