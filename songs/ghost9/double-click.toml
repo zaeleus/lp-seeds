@@ -1,0 +1,3 @@
+names = [
+  { name = "Double Click", locale = "ko", original = true, default = true },
+]

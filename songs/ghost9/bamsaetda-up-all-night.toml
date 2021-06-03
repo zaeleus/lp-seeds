@@ -1,0 +1,5 @@
+names = [
+  { name = "밤샜다 (Up All Night)", locale = "ko", original = true },
+  { name = "Bamsaetda (Up All Night)", locale = "ko-Latn", default = true },
+  { name = "Up All Night", locale = "en" },
+]
