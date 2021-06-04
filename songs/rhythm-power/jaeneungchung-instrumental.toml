@@ -1,0 +1,4 @@
+names = [
+  { name = "재능충 (Instrumental)", locale = "ko", original = true },
+  { name = "Jaeneungchung (Instrumental)", locale = "ko-Latn", default = true },
+]

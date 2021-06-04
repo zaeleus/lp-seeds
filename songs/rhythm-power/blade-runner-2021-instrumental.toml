@@ -1,0 +1,5 @@
+names = [
+  { name = "블레이드러너 2021 (Instrumental)", locale = "ko", original = true },
+  { name = "Beulleideureoneo 2021 (Instrumental)", locale = "ko-Latn" },
+  { name = "Blade Runner 2021 (Instrumental)", locale = "en", default = true },
+]

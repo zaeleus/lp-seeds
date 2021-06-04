@@ -1,0 +1,33 @@
+medium-ids = [
+  "rhythm-power/assbrass-instrumental/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "rhythm-power/maja-instrumental"
+duration = "3:27"
+
+[[tracks]]
+position = 2
+song-id = "rhythm-power/jaeneungchung-instrumental"
+duration = "1:44"
+
+[[tracks]]
+position = 3
+song-id = "rhythm-power/heoheo-instrumental"
+duration = "2:36"
+
+[[tracks]]
+position = 4
+song-id = "rhythm-power/haha-instrumental"
+duration = "2:35"
+
+[[tracks]]
+position = 5
+song-id = "rhythm-power/blade-runner-2021-instrumental"
+duration = "2:25"
+
+[[tracks]]
+position = 6
+song-id = "rhythm-power/team-nyper-instrumental"
+duration = "3:27"
