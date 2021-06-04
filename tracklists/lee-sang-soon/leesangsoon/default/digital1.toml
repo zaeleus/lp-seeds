@@ -1,0 +1,23 @@
+medium-ids = [
+  "lee-sang-soon/leesangsoon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lee-sang-soon/neowa-neoui"
+duration = "3:25"
+
+[[tracks]]
+position = 2
+song-id = "lee-sang-soon/anbureul-mutjin-anado"
+duration = "4:09"
+
+[[tracks]]
+position = 3
+song-id = "lee-sang-soon/dasi-gyejeori"
+duration = "4:23"
+
+[[tracks]]
+position = 4
+song-id = "lee-sang-soon/nega-jongil-naeryeo-with-sunwoo-jung-a"
+duration = "5:06"

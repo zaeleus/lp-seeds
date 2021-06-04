@@ -1,0 +1,4 @@
+names = [
+  { name = "네가 종일 내려 (with 선우정아)", locale = "ko", original = true },
+  { name = "Nega Jongil Naeryeo (with Sunwoo Jung A)", locale = "ko-Latn", default = true },
+]
