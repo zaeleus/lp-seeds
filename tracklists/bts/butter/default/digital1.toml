@@ -14,5 +14,15 @@ duration = "2:47"
 
 [[tracks]]
 position = 3
+song-id = "bts/butter-sweeter-remix"
+duration = "2:42"
+
+[[tracks]]
+position = 4
+song-id = "bts/butter-cooler-remix"
+duration = "2:42"
+
+[[tracks]]
+position = 5
 song-id = "bts/butter-instrumental"
 duration = "2:43"

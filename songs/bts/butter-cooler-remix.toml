@@ -1,0 +1,3 @@
+names = [
+  { name = "Butter (Cooler Remix)", locale = "ko", original = true, default = true },
+]
