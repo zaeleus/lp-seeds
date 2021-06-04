@@ -1,0 +1,4 @@
+names = [
+  { name = "DIE DIE (Feat. 최엘비) (스터디그룹 X 기리보이)", locale = "ko", original = true },
+  { name = "DIE DIE (Feat. Choi LB) (Study Group X GIRIBOY)", locale = "ko-Latn", default = true },
+]
