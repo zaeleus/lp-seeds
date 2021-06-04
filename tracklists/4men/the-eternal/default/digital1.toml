@@ -1,0 +1,28 @@
+medium-ids = [
+  "4men/the-eternal/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "4men/you-me-feat-yoon-min-soo-of-vibe"
+duration = "3:52"
+
+[[tracks]]
+position = 2
+song-id = "4men/yeongyeong"
+duration = "3:30"
+
+[[tracks]]
+position = 3
+song-id = "4men/cham"
+duration = "4:26"
+
+[[tracks]]
+position = 4
+song-id = "4men/urin-ajik-heeojigi-jeon"
+duration = "3:50"
+
+[[tracks]]
+position = 5
+song-id = "4men/yeongyeong-inst"
+duration = "3:30"

@@ -1,0 +1,4 @@
+names = [
+  { name = "You & Me (Feat. 윤민수 of VIBE)", locale = "ko", original = true },
+  { name = "You & Me (Feat. Yoon Min Soo of VIBE)", locale = "ko-Latn", default = true },
+]
