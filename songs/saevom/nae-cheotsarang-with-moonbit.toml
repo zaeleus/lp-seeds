@@ -1,0 +1,4 @@
+names = [
+  { name = "내 첫사랑 (With 문빛)", locale = "ko", original = true },
+  { name = "Nae Cheotsarang (With Moonbit)", locale = "ko-Latn", default = true },
+]
