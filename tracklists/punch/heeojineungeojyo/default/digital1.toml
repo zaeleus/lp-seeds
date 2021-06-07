@@ -1,0 +1,13 @@
+medium-ids = [
+  "punch/heeojineungeojyo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "punch/heeojineungeojyo"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "punch/heeojineungeojyo-inst"
+duration = "3:35"

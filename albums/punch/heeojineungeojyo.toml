@@ -1,0 +1,15 @@
+artist-id = "punch"
+kind = "single"
+
+names = [
+  { name = "헤어지는거죠", locale = "ko", original = true },
+  { name = "Heeojineungeojyo", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10602280" },
+]
