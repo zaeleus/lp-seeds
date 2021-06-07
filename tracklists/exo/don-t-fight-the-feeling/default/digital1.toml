@@ -1,0 +1,28 @@
+medium-ids = [
+  "exo/don-t-fight-the-feeling/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/don-t-fight-the-feeling"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "exo/paradise"
+duration = "3:38"
+
+[[tracks]]
+position = 3
+song-id = "exo/huk-no-matter"
+duration = "3:43"
+
+[[tracks]]
+position = 4
+song-id = "exo/runaway"
+duration = "3:28"
+
+[[tracks]]
+position = 5
+song-id = "exo/jikyeojulge-just-as-usual"
+duration = "3:28"
