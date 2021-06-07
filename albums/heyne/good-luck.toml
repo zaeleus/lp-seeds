@@ -1,0 +1,14 @@
+artist-id = "heyne"
+kind = "single"
+
+names = [
+  { name = "Good Luck", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-06-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10619026" },
+]

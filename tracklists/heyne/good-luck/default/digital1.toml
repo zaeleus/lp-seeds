@@ -1,0 +1,13 @@
+medium-ids = [
+  "heyne/good-luck/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "heyne/good-luck"
+duration = "2:56"
+
+[[tracks]]
+position = 2
+song-id = "heyne/good-luck-inst"
+duration = "2:56"
