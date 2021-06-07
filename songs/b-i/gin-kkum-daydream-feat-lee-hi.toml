@@ -1,0 +1,5 @@
+names = [
+  { name = "긴 꿈 (Daydream) (Feat. 이하이)", locale = "ko", original = true },
+  { name = "Gin Kkum (Daydream) (Feat. Lee Hi)", locale = "ko-Latn", default = true },
+  { name = "Daydream (Feat. Lee Hi)", locale = "en" },
+]

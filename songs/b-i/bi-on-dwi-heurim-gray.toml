@@ -1,0 +1,5 @@
+names = [
+  { name = "비 온 뒤 흐림 (GRAY)", locale = "ko", original = true },
+  { name = "Bi On Dwi Heurim (GRAY)", locale = "ko-Latn", default = true },
+  { name = "GRAY", locale = "en" },
+]

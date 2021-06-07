@@ -1,0 +1,5 @@
+names = [
+  { name = "해변 (illa illa)", locale = "ko", original = true },
+  { name = "Haebyeon (illa illa)", locale = "ko-Latn", default = true },
+  { name = "illa illa", locale = "en" },
+]

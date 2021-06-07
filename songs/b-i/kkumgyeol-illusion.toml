@@ -1,0 +1,5 @@
+names = [
+  { name = "꿈결 (Illusion)", locale = "ko", original = true },
+  { name = "Kkumgyeol (Illusion)", locale = "ko-Latn", default = true },
+  { name = "Illusion", locale = "en" },
+]
