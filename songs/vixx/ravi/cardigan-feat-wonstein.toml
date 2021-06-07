@@ -1,0 +1,4 @@
+names = [
+  { name = "CARDIGAN (feat. 원슈타인)", locale = "ko", original = true },
+  { name = "CARDIGAN (feat. Wonstein)", locale = "ko-Latn", default = true },
+]

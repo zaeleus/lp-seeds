@@ -1,0 +1,5 @@
+names = [
+  { name = "꽃밭 (FLOWER GARDEN)", locale = "ko", original = true },
+  { name = "Kkotbat (FLOWER GARDEN)", locale = "ko-Latn", default = true },
+  { name = "FLOWER GARDEN", locale = "en" },
+]

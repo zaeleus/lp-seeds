@@ -1,0 +1,33 @@
+medium-ids = [
+  "vixx/ravi/roses/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "vixx/ravi/kkotbat-flower-garden"
+duration = "2:53"
+
+[[tracks]]
+position = 2
+song-id = "vixx/ravi/cardigan-feat-wonstein"
+duration = "3:15"
+
+[[tracks]]
+position = 3
+song-id = "vixx/ravi/chee-e-feat-blnk-ahn-byeong-woong"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "vixx/ravi/roses"
+duration = "3:12"
+
+[[tracks]]
+position = 5
+song-id = "vixx/ravi/eoneunjeom-feat-xydo"
+duration = "2:48"
+
+[[tracks]]
+position = 6
+song-id = "vixx/ravi/i-don-t-deny"
+duration = "2:57"
