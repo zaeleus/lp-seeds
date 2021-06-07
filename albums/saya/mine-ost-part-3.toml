@@ -1,0 +1,15 @@
+artist-id = "saya"
+kind = "single"
+
+names = [
+  { name = "마인 OST Part 3", locale = "ko", original = true },
+  { name = "Mine OST Part 3", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-06-06"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10619986" },
+]

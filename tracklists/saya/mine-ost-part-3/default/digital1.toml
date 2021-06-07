@@ -1,0 +1,13 @@
+medium-ids = [
+  "saya/mine-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "saya/kkumeseo"
+duration = "4:10"
+
+[[tracks]]
+position = 2
+song-id = "saya/kkumeseo-inst"
+duration = "4:10"
