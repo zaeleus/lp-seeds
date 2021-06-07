@@ -1,0 +1,15 @@
+artist-id = "hailey"
+kind = "ep"
+
+names = [
+  { name = "마음가는대로", locale = "ko", original = true },
+  { name = "Maeumganeundaero", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-06-07"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10620772" },
+]

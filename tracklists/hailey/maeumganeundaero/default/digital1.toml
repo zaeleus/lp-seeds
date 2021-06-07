@@ -1,0 +1,23 @@
+medium-ids = [
+  "hailey/maeumganeundaero/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "hailey/maeumganeundaero"
+duration = "3:03"
+
+[[tracks]]
+position = 2
+song-id = "hailey/take-a-song"
+duration = "4:36"
+
+[[tracks]]
+position = 3
+song-id = "hailey/geudae-pume-jamdeun-bam"
+duration = "3:34"
+
+[[tracks]]
+position = 4
+song-id = "hailey/somewhere-else-remix"
+duration = "3:05"

@@ -1,0 +1,4 @@
+names = [
+  { name = "그대 품에 잠든 밤", locale = "ko", original = true },
+  { name = "Geudae Pume Jamdeun Bam", locale = "ko-Latn", default = true },
+]
