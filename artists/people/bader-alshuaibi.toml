@@ -1,6 +1,6 @@
 kind = "person"
 # started-on = ""
-# country = ""
+country = "ZZ"
 gender = "male"
 
 names = [
