@@ -1,0 +1,5 @@
+names = [
+  { name = "이 별 저 별 (Fate)", locale = "ko", original = true },
+  { name = "I Byeol Jeo Byeol (Fate)", locale = "ko-Latn", default = true },
+  { name = "Fate", locale = "en" },
+]

@@ -1,0 +1,5 @@
+names = [
+  { name = "쉼표 (Comma,)", locale = "ko", original = true },
+  { name = "Swimpyo (Comma,)", locale = "ko-Latn", default = true },
+  { name = "Comma,", locale = "en" },
+]

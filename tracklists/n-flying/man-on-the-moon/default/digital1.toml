@@ -1,0 +1,53 @@
+medium-ids = [
+  "n-flying/man-on-the-moon/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "n-flying/moonshot"
+duration = "3:01"
+
+[[tracks]]
+position = 2
+song-id = "n-flying/ask"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "n-flying/swimpyo-comma"
+duration = "3:09"
+
+[[tracks]]
+position = 4
+song-id = "n-flying/jiugae-undo"
+duration = "3:08"
+
+[[tracks]]
+position = 5
+song-id = "n-flying/you"
+duration = "3:25"
+
+[[tracks]]
+position = 6
+song-id = "n-flying/paran-baegyeong-blue-scene"
+duration = "3:05"
+
+[[tracks]]
+position = 7
+song-id = "n-flying/i-byeol-jeo-byeol-fate"
+duration = "3:32"
+
+[[tracks]]
+position = 8
+song-id = "n-flying/binjip-zip"
+duration = "3:41"
+
+[[tracks]]
+position = 9
+song-id = "n-flying/neoege-to-you"
+duration = "3:17"
+
+[[tracks]]
+position = 10
+song-id = "n-flying/flashback"
+duration = "4:08"

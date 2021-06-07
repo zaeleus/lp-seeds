@@ -1,0 +1,5 @@
+names = [
+  { name = "빈집 (Zip.)", locale = "ko", original = true },
+  { name = "Binjip (Zip.)", locale = "ko-Latn", default = true },
+  { name = "Zip.", locale = "en" },
+]

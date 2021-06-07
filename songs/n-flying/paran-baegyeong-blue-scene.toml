@@ -1,0 +1,5 @@
+names = [
+  { name = "파란 배경 (Blue Scene)", locale = "ko", original = true },
+  { name = "Paran Baegyeong (Blue Scene)", locale = "ko-Latn", default = true },
+  { name = "Blue Scene", locale = "en" },
+]
