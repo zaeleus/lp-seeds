@@ -1,0 +1,5 @@
+names = [
+  { name = "디어 스푸트니크", locale = "ko", original = true },
+  { name = "Dieo Seuputeunikeu", locale = "ko-Latn" },
+  { name = "Dear Sputnik", locale = "en", default = true },
+]

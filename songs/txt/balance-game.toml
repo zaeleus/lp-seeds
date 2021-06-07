@@ -1,0 +1,5 @@
+names = [
+  { name = "밸런스 게임", locale = "ko", original = true },
+  { name = "Baelleonseu Geim", locale = "ko-Latn" },
+  { name = "Balance Game", locale = "en", default = true },
+]
