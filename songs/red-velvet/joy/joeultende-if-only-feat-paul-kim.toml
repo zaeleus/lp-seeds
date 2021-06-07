@@ -1,0 +1,5 @@
+names = [
+  { name = "좋을텐데 (If Only) (Feat. 폴킴)", locale = "ko", original = true },
+  { name = "Joeultende (If Only) (Feat. Paul Kim)", locale = "ko-Latn", default = true },
+  { name = "If Only (Feat. Paul Kim)", locale = "en" },
+]

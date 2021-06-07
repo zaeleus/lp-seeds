@@ -1,0 +1,33 @@
+medium-ids = [
+  "red-velvet/joy/annyeong-hello/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "red-velvet/joy/annyeong-hello"
+duration = "3:39"
+
+[[tracks]]
+position = 2
+song-id = "red-velvet/joy/je-t-aime"
+duration = "4:22"
+
+[[tracks]]
+position = 3
+song-id = "red-velvet/joy/day-by-day"
+duration = "4:11"
+
+[[tracks]]
+position = 4
+song-id = "red-velvet/joy/joeultende-if-only-feat-paul-kim"
+duration = "3:49"
+
+[[tracks]]
+position = 5
+song-id = "red-velvet/joy/happy-birthday-to-you"
+duration = "2:55"
+
+[[tracks]]
+position = 6
+song-id = "red-velvet/joy/geureolttaemada-be-there-for-you"
+duration = "3:57"
