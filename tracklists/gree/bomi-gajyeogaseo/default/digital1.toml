@@ -1,0 +1,13 @@
+medium-ids = [
+  "gree/bomi-gajyeogaseo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gree/bomi-gajyeogaseo-feat-yoon-doo-joon-of-highlight"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "gree/bomi-gajyeogaseo-inst"
+duration = "3:08"

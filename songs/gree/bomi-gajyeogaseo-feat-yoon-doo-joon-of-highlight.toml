@@ -1,0 +1,4 @@
+names = [
+  { name = "봄이 가져가서 (Feat. 윤두준 of 하이라이트)", locale = "ko", original = true },
+  { name = "Bomi Gajyeogaseo (Feat. Yoon Doo Joon of Highlight)", locale = "ko-Latn", default = true },
+]
