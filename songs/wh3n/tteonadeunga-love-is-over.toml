@@ -1,0 +1,5 @@
+names = [
+  { name = "떠나든가 (Love is over)", locale = "ko", original = true },
+  { name = "Tteonadeunga (Love is over)", locale = "ko-Latn", default = true },
+  { name = "Love is over", locale = "en" },
+]
