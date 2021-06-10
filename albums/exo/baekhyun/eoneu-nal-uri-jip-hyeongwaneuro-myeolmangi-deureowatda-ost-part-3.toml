@@ -1,0 +1,16 @@
+artist-id = "exo/baekhyun"
+kind = "single"
+
+names = [
+  { name = "어느 날 우리 집 현관으로 멸망이 들어왔다 OST Part.3", locale = "ko", original = true },
+  { name = "Eoneu Nal Uri Jip Hyeongwaneuro Myeolmangi Deureowatda OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Doom at Your Service OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-05-31"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10615881" },
+]

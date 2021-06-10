@@ -1,0 +1,13 @@
+medium-ids = [
+  "exo/baekhyun/eoneu-nal-uri-jip-hyeongwaneuro-myeolmangi-deureowatda-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exo/baekhyun/u"
+duration = "3:45"
+
+[[tracks]]
+position = 2
+song-id = "exo/baekhyun/u-inst"
+duration = "3:43"
