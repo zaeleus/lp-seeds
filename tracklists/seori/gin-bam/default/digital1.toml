@@ -1,0 +1,8 @@
+medium-ids = [
+  "seori/gin-bam/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "seori/gin-bam-feat-giriboy"
+duration = "3:31"
