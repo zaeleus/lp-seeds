@@ -1,0 +1,16 @@
+artist-id = "cosmic-girls/yeon-jung"
+kind = "single"
+
+names = [
+  { name = "간 떨어지는 동거 OST Part.3", locale = "ko", original = true },
+  { name = "Gan Tteoreojineun Donggeo OST Part.3", locale = "ko-Latn", default = true },
+  { name = "My Roommate Is a Gumiho OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-06-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10624660" },
+]

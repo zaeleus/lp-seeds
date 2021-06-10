@@ -1,0 +1,13 @@
+medium-ids = [
+  "cosmic-girls/yeon-jung/gan-tteoreojineun-donggeo-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "cosmic-girls/yeon-jung/sijagui-deuroing"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "cosmic-girls/yeon-jung/sijagui-deuroing-inst"
+duration = "3:20"
