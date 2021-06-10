@@ -1,0 +1,4 @@
+names = [
+  { name = "Dangerous (Prod. 송유담)", locale = "ko", original = true },
+  { name = "Dangerous (Prod. Song Yoo Dam)", locale = "ko-Latn", default = true },
+]

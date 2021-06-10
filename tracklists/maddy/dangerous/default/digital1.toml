@@ -1,0 +1,8 @@
+medium-ids = [
+  "maddy/dangerous/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "maddy/dangerous-prod-song-yoo-dam"
+duration = "3:18"
