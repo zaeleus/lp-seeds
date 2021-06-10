@@ -1,0 +1,13 @@
+medium-ids = [
+  "melodyday/yoomin/neomu-neujeobeorin-annyeong/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "melodyday/yoomin/neomu-neujeobeorin-annyeong"
+duration = "2:57"
+
+[[tracks]]
+position = 2
+song-id = "melodyday/yoomin/neomu-neujeobeorin-annyeong-inst"
+duration = "2:57"
