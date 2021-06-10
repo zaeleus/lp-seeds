@@ -1,0 +1,28 @@
+medium-ids = [
+  "wei/identity-action/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "wei/bye-bye-bye"
+duration = "3:26"
+
+[[tracks]]
+position = 2
+song-id = "wei/white-light"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "wei/waitin"
+duration = "3:06"
+
+[[tracks]]
+position = 4
+song-id = "wei/ocean"
+duration = "3:31"
+
+[[tracks]]
+position = 5
+song-id = "wei/16-beonjjae-byeol"
+duration = "3:16"
