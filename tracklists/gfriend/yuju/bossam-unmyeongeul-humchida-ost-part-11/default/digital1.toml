@@ -1,0 +1,23 @@
+medium-ids = [
+  "gfriend/yuju/bossam-unmyeongeul-humchida-ost-part-11/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "gfriend/yuju/wiro-string-ver"
+duration = "3:48"
+
+[[tracks]]
+position = 2
+song-id = "gfriend/yuju/wiro"
+duration = "3:47"
+
+[[tracks]]
+position = 3
+song-id = "gfriend/yuju/wiro-string-ver-inst"
+duration = "3:48"
+
+[[tracks]]
+position = 4
+song-id = "gfriend/yuju/wiro-inst"
+duration = "3:47"

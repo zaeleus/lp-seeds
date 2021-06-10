@@ -1,0 +1,16 @@
+artist-id = "gfriend/yuju"
+kind = "single"
+
+names = [
+  { name = "보쌈-운명을 훔치다 OST Part.11", locale = "ko", original = true },
+  { name = "Bossam - Unmyeongeul Humchida OST Part.11", locale = "ko-Latn", default = true },
+  { name = "Bossam: Steal the Fate OST Part.11", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-06-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10620028" },
+]

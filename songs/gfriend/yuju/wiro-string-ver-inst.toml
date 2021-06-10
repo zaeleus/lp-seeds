@@ -1,0 +1,4 @@
+names = [
+  { name = "위로 (String Ver.) (Inst.)", locale = "ko", original = true },
+  { name = "Wiro (String Ver.) (Inst.)", locale = "ko-Latn", default = true },
+]
