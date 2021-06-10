@@ -1,0 +1,14 @@
+artist-id = "yunhway"
+kind = "single"
+
+names = [
+  { name = "Goodbye Boy", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-06-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10624947" },
+]
