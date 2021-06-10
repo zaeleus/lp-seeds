@@ -1,0 +1,13 @@
+medium-ids = [
+  "banhana/saeroun-sarangege/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "banhana/saeroun-sarangege"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "banhana/saeroun-sarangege-inst"
+duration = "3:36"

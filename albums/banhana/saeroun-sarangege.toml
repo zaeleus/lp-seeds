@@ -1,0 +1,15 @@
+artist-id = "banhana"
+kind = "single"
+
+names = [
+  { name = "새로운 사랑에게", locale = "ko", original = true },
+  { name = "Saeroun Sarangege", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-06-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10623718" },
+]
