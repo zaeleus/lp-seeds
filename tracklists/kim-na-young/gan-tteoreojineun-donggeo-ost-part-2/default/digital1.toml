@@ -1,0 +1,13 @@
+medium-ids = [
+  "kim-na-young/gan-tteoreojineun-donggeo-ost-part-2/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "kim-na-young/uyeoni-aningeonman-gataseo"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "kim-na-young/uyeoni-aningeonman-gataseo-inst"
+duration = "3:35"
