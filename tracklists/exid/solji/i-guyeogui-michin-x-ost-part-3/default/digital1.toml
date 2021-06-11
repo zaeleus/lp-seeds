@@ -1,0 +1,13 @@
+medium-ids = [
+  "exid/solji/i-guyeogui-michin-x-ost-part-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "exid/solji/ireon-wiro"
+duration = "3:51"
+
+[[tracks]]
+position = 2
+song-id = "exid/solji/ireon-wiro-inst"
+duration = "3:51"

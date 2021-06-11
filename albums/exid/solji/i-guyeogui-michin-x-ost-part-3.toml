@@ -1,0 +1,16 @@
+artist-id = "exid/solji"
+kind = "single"
+
+names = [
+  { name = "이 구역의 미친 X OST Part.3", locale = "ko", original = true },
+  { name = "I Guyeogui Michin X OST Part.3", locale = "ko-Latn", default = true },
+  { name = "Mad for Each Other OST Part.3", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-06-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10623778" },
+]
