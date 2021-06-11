@@ -6,3 +6,28 @@ medium-ids = [
 position = 1
 song-id = "twice/alcohol-free"
 duration = "3:31"
+
+[[tracks]]
+position = 2
+song-id = "twice/first-time"
+duration = "3:03"
+
+[[tracks]]
+position = 3
+song-id = "twice/scandal"
+duration = "2:44"
+
+[[tracks]]
+position = 4
+song-id = "twice/conversation"
+duration = "2:28"
+
+[[tracks]]
+position = 5
+song-id = "twice/baby-blue-love"
+duration = "2:47"
+
+[[tracks]]
+position = 6
+song-id = "twice/sos"
+duration = "2:54"
