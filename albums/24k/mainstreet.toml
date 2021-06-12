@@ -1,0 +1,14 @@
+artist-id = "24k"
+kind = "single"
+
+names = [
+  { name = "MAINSTREET", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-06-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10625849" },
+]

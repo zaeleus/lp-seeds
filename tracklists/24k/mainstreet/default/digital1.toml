@@ -1,0 +1,13 @@
+medium-ids = [
+  "24k/mainstreet/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "24k/welcome-to-the-mainstreet"
+duration = "3:36"
+
+[[tracks]]
+position = 2
+song-id = "24k/welcome-to-the-mainstreet-inst"
+duration = "3:39"
