@@ -1,0 +1,13 @@
+medium-ids = [
+  "sin-ye-young/mianhadago-malhaji-mara-jwo/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "sin-ye-young/mianhadago-malhaji-mara-jwo"
+duration = "3:50"
+
+[[tracks]]
+position = 2
+song-id = "sin-ye-young/mianhadago-malhaji-mara-jwo-inst"
+duration = "3:50"
