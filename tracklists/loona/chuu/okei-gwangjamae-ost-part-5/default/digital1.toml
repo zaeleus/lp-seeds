@@ -1,0 +1,13 @@
+medium-ids = [
+  "loona/chuu/okei-gwangjamae-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "loona/chuu/joaseo-joahae"
+duration = "2:51"
+
+[[tracks]]
+position = 2
+song-id = "loona/chuu/joaseo-joahae-inst"
+duration = "2:51"

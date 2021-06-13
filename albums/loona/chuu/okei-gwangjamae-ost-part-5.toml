@@ -1,0 +1,16 @@
+artist-id = "loona/chuu"
+kind = "single"
+
+names = [
+  { name = "오케이 광자매 OST Part.5", locale = "ko", original = true },
+  { name = "Okei Gwangjamae OST Part.5", locale = "ko-Latn", default = true },
+  { name = "Revolutionary Sisters OST Part.5", locale = "en" },
+]
+
+[[releases]]
+released-on = "2021-06-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10625999" },
+]
