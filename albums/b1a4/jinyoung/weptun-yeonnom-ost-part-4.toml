@@ -1,0 +1,15 @@
+artist-id = "b1a4/jinyoung"
+kind = "single"
+
+names = [
+  { name = "웹툰 연놈 OST Part.4", locale = "ko", original = true },
+  { name = "Weptun Yeonnom OST Part.4", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10614256" },
+]

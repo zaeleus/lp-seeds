@@ -1,0 +1,13 @@
+medium-ids = [
+  "b1a4/jinyoung/weptun-yeonnom-ost-part-4/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "b1a4/jinyoung/joahae-ani-saranghae"
+duration = "4:05"
+
+[[tracks]]
+position = 2
+song-id = "b1a4/jinyoung/joahae-ani-saranghae-inst"
+duration = "4:05"
