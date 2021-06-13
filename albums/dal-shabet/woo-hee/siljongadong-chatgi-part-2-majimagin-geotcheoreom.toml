@@ -1,0 +1,15 @@
+artist-id = "dal-shabet/woo-hee"
+kind = "single"
+
+names = [
+  { name = "실종아동 찾기 Part 2 '마지막인 것처럼'", locale = "ko", original = true },
+  { name = "Siljongadong Chatgi Part 2 'Majimagin Geotcheoreom'", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-02"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10600856" },
+]

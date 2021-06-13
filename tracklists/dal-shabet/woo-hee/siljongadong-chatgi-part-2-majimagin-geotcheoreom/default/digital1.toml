@@ -1,0 +1,13 @@
+medium-ids = [
+  "dal-shabet/woo-hee/siljongadong-chatgi-part-2-majimagin-geotcheoreom/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dal-shabet/woo-hee/majimagin-geotcheoreom-du-beonjjae-siljongadong-chatgi-campaign"
+duration = "3:21"
+
+[[tracks]]
+position = 2
+song-id = "dal-shabet/woo-hee/majimagin-geotcheoreom-du-beonjjae-siljongadong-chatgi-campaign-inst"
+duration = "3:21"

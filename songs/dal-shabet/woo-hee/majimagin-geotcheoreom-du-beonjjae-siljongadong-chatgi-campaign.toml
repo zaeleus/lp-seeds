@@ -1,0 +1,4 @@
+names = [
+  { name = "마지막인 것처럼 (두 번째 '실종아동 찾기 캠페인')", locale = "ko", original = true },
+  { name = "Majimagin Geotcheoreom (Du Beonjjae 'Siljongadong Chatgi Campaign')", locale = "ko-Latn", default = true },
+]
