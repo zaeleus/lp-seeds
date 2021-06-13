@@ -1,0 +1,4 @@
+names = [
+  { name = "맛 (Hot Sauce) (MINIMONSTER Remix)", locale = "ko", original = true },
+  { name = "Mat (Hot Sauce) (MINIMONSTER Remix)", locale = "ko-Latn", default = true },
+]

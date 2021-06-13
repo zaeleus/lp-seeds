@@ -1,0 +1,15 @@
+artist-id = "nct-dream"
+kind = "single"
+
+names = [
+  { name = "iScreaM Vol.9: 맛 (Hot Sauce) Remixes", locale = "ko", original = true },
+  { name = "iScreaM Vol.9: Mat (Hot Sauce) Remixes", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-06-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10625021" },
+]
