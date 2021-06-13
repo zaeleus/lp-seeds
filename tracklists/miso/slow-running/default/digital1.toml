@@ -1,0 +1,8 @@
+medium-ids = [
+  "miso/slow-running/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "miso/slow-running"
+duration = "3:47"
