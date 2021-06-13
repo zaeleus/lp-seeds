@@ -1,0 +1,13 @@
+medium-ids = [
+  "insooni/dream-order/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "insooni/dream-order-kkumeul-iruda"
+duration = "3:18"
+
+[[tracks]]
+position = 2
+song-id = "insooni/dream-order-kkumeul-iruda-inst"
+duration = "3:18"

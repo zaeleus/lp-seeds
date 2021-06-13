@@ -1,0 +1,16 @@
+artist-id = "insooni"
+kind = "single"
+
+names = [
+  { name = "드림오더", locale = "ko", original = true },
+  { name = "Deurimodeo", locale = "ko-Latn" },
+  { name = "Dream Order", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-06-11"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10624929" },
+]
