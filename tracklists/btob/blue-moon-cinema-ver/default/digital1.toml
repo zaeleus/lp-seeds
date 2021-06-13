@@ -1,0 +1,8 @@
+medium-ids = [
+  "btob/blue-moon-cinema-ver/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "btob/blue-moon-cinema-ver"
+duration = "4:25"
