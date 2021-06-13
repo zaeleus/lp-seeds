@@ -1,0 +1,3 @@
+names = [
+  { name = "No Bad News (feat. Koonta, Skull)", locale = "ko", original = true, default = true },
+]

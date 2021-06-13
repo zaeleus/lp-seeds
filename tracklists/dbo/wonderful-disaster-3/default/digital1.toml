@@ -1,0 +1,38 @@
+medium-ids = [
+  "dbo/wonderful-disaster-3/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "dbo/storm"
+duration = "1:25"
+
+[[tracks]]
+position = 2
+song-id = "dbo/until-it-breaks"
+duration = "2:35"
+
+[[tracks]]
+position = 3
+song-id = "dbo/you-broke-my-heart-feat-awich"
+duration = "3:15"
+
+[[tracks]]
+position = 4
+song-id = "dbo/i-wish-your-wishes"
+duration = "2:58"
+
+[[tracks]]
+position = 5
+song-id = "dbo/kill-yourself"
+duration = "2:51"
+
+[[tracks]]
+position = 6
+song-id = "dbo/no-bad-news-feat-koonta-skull"
+duration = "4:04"
+
+[[tracks]]
+position = 7
+song-id = "dbo/the-walk"
+duration = "2:55"
