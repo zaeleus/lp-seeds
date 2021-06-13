@@ -1,0 +1,13 @@
+medium-ids = [
+  "yuri/hipbum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "yuri/hipbum-eongdeongiga-hwanasseo"
+duration = "3:35"
+
+[[tracks]]
+position = 2
+song-id = "yuri/hipbum-eongdeongiga-hwanasseo-inst"
+duration = "3:35"
