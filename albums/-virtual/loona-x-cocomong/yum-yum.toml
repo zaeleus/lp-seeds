@@ -1,0 +1,23 @@
+artist-id = "-virtual/loona-x-cocomong"
+kind = "single"
+
+names = [
+  { name = "얌얌 (Yum-Yum)", locale = "ko", original = true },
+  { name = "Yum-Yum", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "loona/yeojin", separator = ", " },
+  { artist-id = "loona/kim-lip", separator = ", " },
+  { artist-id = "loona/choerry", separator = ", " },
+  { artist-id = "loona/go-won", separator = ", " },
+  { artist-id = "cocomong" },
+]
+
+[[releases]]
+released-on = "2021-06-12"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10625860" },
+]

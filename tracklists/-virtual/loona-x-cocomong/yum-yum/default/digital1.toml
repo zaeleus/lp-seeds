@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/loona-x-cocomong/yum-yum/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/loona-x-cocomong/yum-yum"
+duration = "2:18"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/loona-x-cocomong/yum-yum-inst"
+duration = "2:18"

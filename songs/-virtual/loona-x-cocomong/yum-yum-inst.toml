@@ -1,0 +1,12 @@
+names = [
+  { name = "얌얌 (Yum-Yum) (Inst.)", locale = "ko", original = true },
+  { name = "Yum-Yum (Inst.)", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "loona/yeojin", separator = ", " },
+  { artist-id = "loona/kim-lip", separator = ", " },
+  { artist-id = "loona/choerry", separator = ", " },
+  { artist-id = "loona/go-won", separator = ", " },
+  { artist-id = "cocomong" },
+]
