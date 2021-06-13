@@ -1,0 +1,4 @@
+names = [
+  { name = "나도 여자랍니다 (2021)", locale = "ko", original = true },
+  { name = "Nado Yeojaramnida (2021)", locale = "ko-Latn", default = true },
+]

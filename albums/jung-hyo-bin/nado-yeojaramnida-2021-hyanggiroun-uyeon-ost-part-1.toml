@@ -1,0 +1,15 @@
+artist-id = "jung-hyo-bin"
+kind = "single"
+
+names = [
+  { name = "나도 여자랍니다 (2021) (향기로운 우연 OST Part.1)", locale = "ko", original = true },
+  { name = "Nado Yeojaramnida (2021) (Hyanggiroun Uyeon OST Part.1)", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-30"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10616886" },
+]
