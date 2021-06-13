@@ -1,0 +1,21 @@
+artist-id = "-virtual/raiden-baekhyun-changmo-t1"
+kind = "single"
+
+names = [
+  { name = "Runner", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "raiden", separator = ", " },
+  { artist-id = "exo/baekhyun", separator = ", " },
+  { artist-id = "changmo", separator = ", " },
+  { artist-id = "t1" },
+]
+
+[[releases]]
+released-on = "2021-02-01"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10556945" },
+]

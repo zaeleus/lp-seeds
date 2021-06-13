@@ -1,0 +1,10 @@
+names = [
+  { name = "Runner", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "raiden", separator = ", " },
+  { artist-id = "exo/baekhyun", separator = ", " },
+  { artist-id = "changmo", separator = ", " },
+  { artist-id = "t1" },
+]
