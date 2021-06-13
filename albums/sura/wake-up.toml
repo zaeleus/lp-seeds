@@ -1,0 +1,14 @@
+artist-id = "sura"
+kind = "single"
+
+names = [
+  { name = "Wake up", locale = "ko", original = true, default = true },
+]
+
+[[releases]]
+released-on = "2021-06-09"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10621986" },
+]
