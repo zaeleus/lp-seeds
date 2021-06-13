@@ -1,0 +1,16 @@
+artist-id = "wonstein"
+kind = "single"
+
+names = [
+  { name = "캥거루", locale = "ko", original = true },
+  { name = "Kaenggeoru", locale = "ko-Latn" },
+  { name = "Kangaroo", locale = "en", default = true },
+]
+
+[[releases]]
+released-on = "2021-06-05"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10619962" },
+]

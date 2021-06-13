@@ -1,0 +1,5 @@
+names = [
+  { name = "캥거루", locale = "ko", original = true },
+  { name = "Kaenggeoru", locale = "ko-Latn" },
+  { name = "Kangaroo", locale = "en", default = true },
+]
