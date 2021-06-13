@@ -1,0 +1,8 @@
+names = [
+  { name = "V I S I O N 2021 (Feat. ron)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "kid-milli", separator = ", " },
+  { artist-id = "dress" },
+]

@@ -1,0 +1,63 @@
+medium-ids = [
+  "-virtual/kid-milli-dress/cliche/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/kid-milli-dress/v-i-s-i-o-n-2021-feat-ron"
+duration = "3:20"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/kid-milli-dress/bittersweet-feat-ron"
+duration = "3:17"
+
+[[tracks]]
+position = 3
+song-id = "-virtual/kid-milli-dress/challenge"
+duration = "3:31"
+
+[[tracks]]
+position = 4
+song-id = "-virtual/kid-milli-dress/blow"
+duration = "2:14"
+
+[[tracks]]
+position = 5
+song-id = "-virtual/kid-milli-dress/citrus"
+duration = "3:34"
+
+[[tracks]]
+position = 6
+song-id = "-virtual/kid-milli-dress/face-mask-feat-ron"
+duration = "5:21"
+
+[[tracks]]
+position = 7
+song-id = "-virtual/kid-milli-dress/intro"
+duration = "2:41"
+
+[[tracks]]
+position = 8
+song-id = "-virtual/kid-milli-dress/leave-my-studio-feat-sunwoo-jung-a"
+duration = "3:29"
+
+[[tracks]]
+position = 9
+song-id = "-virtual/kid-milli-dress/cliche"
+duration = "3:40"
+
+[[tracks]]
+position = 10
+song-id = "-virtual/kid-milli-dress/bankroll-feat-okasian"
+duration = "3:04"
+
+[[tracks]]
+position = 11
+song-id = "-virtual/kid-milli-dress/midnight-blue-feat-in-the-endless-zanhyang-we-are"
+duration = "4:29"
+
+[[tracks]]
+position = 12
+song-id = "-virtual/kid-milli-dress/outro"
+duration = "3:01"

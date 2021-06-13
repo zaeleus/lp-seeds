@@ -1,0 +1,9 @@
+names = [
+  { name = "Leave My Studio (Feat. 선우정아)", locale = "ko", original = true },
+  { name = "Leave My Studio (Feat. Sunwoo Jung A)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "kid-milli", separator = ", " },
+  { artist-id = "dress" },
+]

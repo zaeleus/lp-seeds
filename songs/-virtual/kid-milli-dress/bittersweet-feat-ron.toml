@@ -1,0 +1,8 @@
+names = [
+  { name = "Bittersweet (Feat. ron)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "kid-milli", separator = ", " },
+  { artist-id = "dress" },
+]

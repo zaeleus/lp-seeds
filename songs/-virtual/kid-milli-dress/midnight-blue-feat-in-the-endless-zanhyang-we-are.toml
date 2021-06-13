@@ -1,0 +1,9 @@
+names = [
+  { name = "Midnight Blue (Feat. 끝없는잔향속에서우리는)", locale = "ko", original = true },
+  { name = "Midnight Blue (Feat. In The Endless Zanhyang We Are)", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "kid-milli", separator = ", " },
+  { artist-id = "dress" },
+]
