@@ -1,0 +1,15 @@
+artist-id = "apink/nam-joo"
+kind = "single"
+
+names = [
+  { name = "시간의 계단 OST Part 2. 끝에, 우리", locale = "ko", original = true },
+  { name = "Siganui Gyedan OST Part 2. Kkeute, Uri", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-06-10"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10623682" },
+]

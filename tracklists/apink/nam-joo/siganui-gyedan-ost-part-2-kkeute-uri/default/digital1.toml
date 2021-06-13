@@ -1,0 +1,13 @@
+medium-ids = [
+  "apink/nam-joo/siganui-gyedan-ost-part-2-kkeute-uri/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "apink/nam-joo/kkeute-uri-siganui-gyedan-x-namjoo-apink"
+duration = "4:06"
+
+[[tracks]]
+position = 2
+song-id = "apink/nam-joo/kkeute-uri-siganui-gyedan-x-namjoo-apink-inst"
+duration = "4:06"

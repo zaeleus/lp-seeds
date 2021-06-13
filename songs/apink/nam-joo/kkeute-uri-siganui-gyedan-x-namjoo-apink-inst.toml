@@ -1,0 +1,4 @@
+names = [
+  { name = "끝에, 우리 (시간의 계단 X 김남주 (에이핑크)) (Inst.)", locale = "ko", original = true },
+  { name = "Kkeute, Uri (Siganui Gyedan X Namjoo (Apink)) (Inst.)", locale = "ko-Latn", default = true },
+]
