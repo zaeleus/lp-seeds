@@ -1,0 +1,23 @@
+medium-ids = [
+  "j-ust/il_gi-page-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "j-ust/nagago-sipda"
+duration = "4:06"
+
+[[tracks]]
+position = 2
+song-id = "j-ust/seotureun-gobaek"
+duration = "3:25"
+
+[[tracks]]
+position = 3
+song-id = "j-ust/seoreun"
+duration = "3:29"
+
+[[tracks]]
+position = 4
+song-id = "j-ust/chukga-acc-ver"
+duration = "3:53"
