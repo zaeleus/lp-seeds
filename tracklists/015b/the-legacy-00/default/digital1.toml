@@ -1,0 +1,13 @@
+medium-ids = [
+  "015b/the-legacy-00/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "015b/teong-bin-georieseo-feat-yoon-jong-shin"
+duration = "5:04"
+
+[[tracks]]
+position = 2
+song-id = "015b/teong-bin-georieseo-inst"
+duration = "5:04"
