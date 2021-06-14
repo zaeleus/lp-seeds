@@ -1,0 +1,13 @@
+medium-ids = [
+  "davichi/eoneu-nal-uri-jip-hyeongwaneuro-myeolmangi-deureowatda-ost-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "davichi/all-of-my-love"
+duration = "4:19"
+
+[[tracks]]
+position = 2
+song-id = "davichi/all-of-my-love-inst"
+duration = "4:19"
