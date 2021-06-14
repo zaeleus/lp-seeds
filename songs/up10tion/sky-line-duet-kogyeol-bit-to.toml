@@ -1,0 +1,4 @@
+names = [
+  { name = "Sky Line (Duet 고결, 비토)", locale = "ko", original = true },
+  { name = "Sky Line (Duet Kogyeol, BIT-TO)", locale = "ko-Latn", default = true },
+]

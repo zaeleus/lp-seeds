@@ -1,0 +1,4 @@
+names = [
+  { name = "혹시라도 (Forever) (Unit 쿤, 선율, 규진, 샤오)", locale = "ko", original = true },
+  { name = "Hoksirado (Forever) (Unit KUHN, Sunyoul, Gyujin, Xiao)", locale = "ko-Latn", default = true },
+]
