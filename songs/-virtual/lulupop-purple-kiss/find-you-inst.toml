@@ -1,0 +1,8 @@
+names = [
+  { name = "FIND YOU (Inst.)", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "lulupop", separator = ", " },
+  { artist-id = "purple-kiss" },
+]

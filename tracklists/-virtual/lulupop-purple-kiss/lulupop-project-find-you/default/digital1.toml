@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/lulupop-purple-kiss/lulupop-project-find-you/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/lulupop-purple-kiss/find-you"
+duration = "3:23"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/lulupop-purple-kiss/find-you-inst"
+duration = "3:23"

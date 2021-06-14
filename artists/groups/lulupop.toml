@@ -1,0 +1,8 @@
+kind = "group"
+# started-on = ""
+country = "KR"
+
+names = [
+  { name = "룰루팝", locale = "ko", original = true },
+  { name = "LULUPOP", locale = "en", default = true },
+]

@@ -1,0 +1,19 @@
+artist-id = "-virtual/lulupop-purple-kiss"
+kind = "single"
+
+names = [
+  { name = "LULUPOP PROJECT 'FIND YOU'", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "lulupop", separator = ", " },
+  { artist-id = "purple-kiss" },
+]
+
+[[releases]]
+released-on = "2021-05-24"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10613240" },
+]
