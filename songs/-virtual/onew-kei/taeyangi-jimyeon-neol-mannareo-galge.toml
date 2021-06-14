@@ -1,0 +1,9 @@
+names = [
+  { name = "태양이 지면 널 만나러 갈게", locale = "ko", original = true },
+  { name = "Taeyangi Jimyeon Neol Mannareo Galge", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "shinee/onew", separator = ", " },
+  { artist-id = "lovelyz/kim-ji-yeon" },
+]
