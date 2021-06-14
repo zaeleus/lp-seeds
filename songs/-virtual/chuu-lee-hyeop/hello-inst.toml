@@ -1,0 +1,10 @@
+names = [
+  { name = "좋아서 그래 (Hello) (Inst.)", locale = "ko", original = true },
+  { name = "Joaseo Geurae (Hello) (Inst.)", locale = "ko-Latn" },
+  { name = "Hello (Inst.)", locale = "en", default = true },
+]
+
+artist-credits = [
+  { artist-id = "loona/chuu", separator = ", " },
+  { artist-id = "drippin/lee-hyeop" },
+]

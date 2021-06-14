@@ -1,0 +1,20 @@
+artist-id = "-virtual/chuu-lee-hyeop"
+kind = "single"
+
+names = [
+  { name = "웹드라마 썸타는 편의점 OST Part. 1", locale = "ko", original = true },
+  { name = "Web Drama Sseomtaneun Pyeonuijeom OST Part. 1", locale = "ko-Latn", default = true },
+]
+
+artist-credits = [
+  { artist-id = "loona/chuu", separator = ", " },
+  { artist-id = "drippin/lee-hyeop" },
+]
+
+[[releases]]
+released-on = "2021-02-14"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10562959" },
+]

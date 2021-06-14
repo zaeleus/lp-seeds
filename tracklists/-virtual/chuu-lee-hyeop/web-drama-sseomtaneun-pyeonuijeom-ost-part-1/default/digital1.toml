@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/chuu-lee-hyeop/web-drama-sseomtaneun-pyeonuijeom-ost-part-1/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "-virtual/chuu-lee-hyeop/hello"
+duration = "3:08"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/chuu-lee-hyeop/hello-inst"
+duration = "3:08"
