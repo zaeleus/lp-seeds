@@ -1,0 +1,18 @@
+medium-ids = [
+  "paul-kim/cheotbeonjjae-suhagyeohaeng-summer-re/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "paul-kim/pado"
+duration = "4:17"
+
+[[tracks]]
+position = 2
+song-id = "paul-kim/urin-jebeop-jal-eoullyeoyo"
+duration = "3:07"
+
+[[tracks]]
+position = 3
+song-id = "paul-kim/haebyeonui-yeoin"
+duration = "3:25"

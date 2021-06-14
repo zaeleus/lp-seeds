@@ -1,0 +1,15 @@
+artist-id = "paul-kim"
+kind = "single"
+
+names = [
+  { name = "첫번째 수학여행 'Summer: re'", locale = "ko", original = true },
+  { name = "Cheotbeonjjae Suhagyeohaeng 'Summer: re'", locale = "ko-Latn", default = true },
+]
+
+[[releases]]
+released-on = "2021-05-25"
+country = "KR"
+media = [{ kind = "digital" }]
+urls = [
+  { url = "https://www.melon.com/album/detail.htm?albumId=10614444" },
+]
