@@ -1,0 +1,13 @@
+medium-ids = [
+  "-virtual/kei-youngjae/taeyangui-norae-part-5/default/digital1",
+]
+
+[[tracks]]
+position = 1
+song-id = "lovelyz/kim-ji-yeon/geureon-nari-oge-doelkka"
+duration = "2:54"
+
+[[tracks]]
+position = 2
+song-id = "-virtual/kei-youngjae/good-bye-days"
+duration = "3:55"

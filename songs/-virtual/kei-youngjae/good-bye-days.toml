@@ -1,0 +1,8 @@
+names = [
+  { name = "Good-Bye Days", locale = "ko", original = true, default = true },
+]
+
+artist-credits = [
+  { artist-id = "lovelyz/kim-ji-yeon", separator = ", " },
+  { artist-id = "got7/youngjae" },
+]
